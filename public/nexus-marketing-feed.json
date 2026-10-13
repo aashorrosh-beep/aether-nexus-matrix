@@ -1,0 +1,81 @@
+{
+  "generatedAt": "10/13/2026, 2:04:54 AM",
+  "activeShift": "CRUCIBLE SYNC",
+  "campaigns": [
+    {
+      "itemId": "NX-TAC-001",
+      "productName": "Obsidian Core Urban Backpack",
+      "targetPlacements": [
+        "Google Shopping",
+        "r/ManyBaggers",
+        "r/EDC"
+      ],
+      "variantLinks": [
+        {
+          "sku": "NX-TAC-001-BLK",
+          "deepLinkUrl": "https://albsnexus.com/matrix/room-1004?item=NX-TAC-001&color=BLK&utm_source=crucible_syndicator"
+        }
+      ]
+    },
+    {
+      "itemId": "NX-TAC-002",
+      "productName": "Carbon Fiber Ridge Wallet",
+      "targetPlacements": [
+        "Google Shopping",
+        "r/EDC",
+        "Instagram Reels"
+      ],
+      "variantLinks": [
+        {
+          "sku": "NX-TAC-002-BRN",
+          "deepLinkUrl": "https://albsnexus.com/matrix/room-1004?item=NX-TAC-002&color=BRN&utm_source=crucible_syndicator"
+        }
+      ]
+    },
+    {
+      "itemId": "NX-TAC-003",
+      "productName": "Stealth Ops Field Watch",
+      "targetPlacements": [
+        "Google Shopping",
+        "r/Watches",
+        "WatchUSeek"
+      ],
+      "variantLinks": [
+        {
+          "sku": "NX-TAC-003-SLV",
+          "deepLinkUrl": "https://albsnexus.com/matrix/room-1004?item=NX-TAC-003&color=SLV&utm_source=crucible_syndicator"
+        }
+      ]
+    },
+    {
+      "itemId": "NX-TAC-004",
+      "productName": "Titanium EDC Multi-Tool",
+      "targetPlacements": [
+        "Google Shopping",
+        "r/EDC",
+        "TikTok EDC Feeds"
+      ],
+      "variantLinks": [
+        {
+          "sku": "NX-TAC-004-BLK",
+          "deepLinkUrl": "https://albsnexus.com/matrix/room-1004?item=NX-TAC-004&color=BLK&utm_source=crucible_syndicator"
+        }
+      ]
+    },
+    {
+      "itemId": "NX-SQ-001",
+      "productName": "Jumbo Galactic Mochi Squishy Crate",
+      "targetPlacements": [
+        "TikTok Sensory Feeds",
+        "Instagram Reels",
+        "Google Shopping"
+      ],
+      "variantLinks": [
+        {
+          "sku": "NX-SQ-001-NEON",
+          "deepLinkUrl": "https://albsnexus.com/matrix/room-1042?item=NX-SQ-001&color=NEON&utm_source=crucible_syndicator"
+        }
+      ]
+    }
+  ]
+}
