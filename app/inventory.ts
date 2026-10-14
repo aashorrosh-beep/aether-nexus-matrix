@@ -212,7 +212,7 @@ export const masterInventory: Record<string, any[]> = {
             {
               "role": "WORN_FIELD",
               "label": "02. Tactical Instrument & Field Rig",
-              "caption": "Verified Field Deployment — Precision Mechanical & Titanium EDC Rig",
+              "caption": "Verified Field Deployment - Precision Mechanical & Titanium EDC Rig",
               "metaTags": "edc titanium multi-tool field instrument",
               "url": "https://placehold.co/800x800/18181b/06b6d4?text=FIELD+RESERVE+ASSET"
             },
