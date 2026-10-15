@@ -27,7 +27,7 @@ export default function NexusLobby() {
       </Link>
 
       {/* Right Side - Nostalgia */}
-      <Link href="/nostalgia/retro-toy-chest" className="w-full md:w-1/2 min-h-[50vh] md:min-h-screen relative group flex flex-col items-center justify-center overflow-hidden text-center md:text-right md:items-end md:pr-20 lg:pr-32">
+      <div className="w-full md:w-1/2 min-h-[50vh] md:min-h-screen relative group flex flex-col items-center justify-center overflow-hidden text-center md:text-right md:items-end md:pr-20 lg:pr-32">
         <div className="absolute inset-0 bg-gradient-to-bl from-pink-900/20 to-black pointer-events-none"></div>
         <div className="relative z-10 w-full max-w-2xl transform transition-transform duration-700 group-hover:scale-105 flex flex-col items-center md:items-end">
           <span className="text-pink-500 font-mono text-xs tracking-widest mb-4 inline-block md:block border border-pink-500/30 px-3 py-1 rounded-full bg-black/50">CONCOURSE 2 • 22 ZONES</span>
@@ -36,17 +36,20 @@ export default function NexusLobby() {
           </h1>
           <p className="mt-6 text-zinc-400 max-w-sm text-sm md:text-base mx-auto md:mx-0 text-center md:text-right">The vault of the 80s and 90s melting pot. 22 exclusive storefronts featuring timeless cast iron, vintage trading cards, and Americana.</p>
           
-          {/* Cluster Directory */}
-          <div className="mt-6 flex flex-wrap gap-2 justify-center md:justify-end opacity-70 group-hover:opacity-100 transition-opacity duration-500">
-            <span className="text-[10px] font-bold border border-zinc-700 bg-zinc-900/50 px-2 py-1 text-zinc-300">AMERICANA</span>
-            <span className="text-[10px] font-bold border border-zinc-700 bg-zinc-900/50 px-2 py-1 text-zinc-300">ANALOG TECH</span>
-            <span className="text-[10px] font-bold border border-zinc-700 bg-zinc-900/50 px-2 py-1 text-zinc-300">RETRO TOYS</span>
-            <span className="text-[10px] font-bold border border-pink-800 bg-pink-900/30 px-2 py-1 text-pink-400">ARCHIVIST AI</span>
+          {/* Active Room Links */}
+          <div className="mt-8 flex flex-col md:items-end gap-3 z-20">
+            <Link href="/nostalgia/action-figures-90s" className="inline-block bg-pink-600 hover:bg-pink-500 text-white font-black text-sm uppercase px-8 py-4 transition-colors shadow-[0_0_20px_rgba(236,72,153,0.2)] rounded-sm">
+              Action Figures 90s →
+            </Link>
+            <Link href="/nostalgia/polaroid-and-film" className="inline-block bg-pink-700 hover:bg-pink-600 text-white font-black text-sm uppercase px-8 py-4 transition-colors shadow-[0_0_20px_rgba(236,72,153,0.2)] rounded-sm">
+              Polaroid Vault →
+            </Link>
+            <Link href="/nostalgia/grunge-apparel" className="inline-block bg-pink-800 hover:bg-pink-700 text-white font-black text-sm uppercase px-8 py-4 transition-colors shadow-[0_0_20px_rgba(236,72,153,0.2)] rounded-sm">
+              Grunge Apparel →
+            </Link>
           </div>
-
-          <div className="mt-8 inline-block bg-pink-600 text-white font-black text-sm uppercase px-8 py-4 hover:bg-pink-500 transition-colors shadow-[0_0_20px_rgba(236,72,153,0.2)] rounded-sm">Explore The Past →</div>
         </div>
-      </Link>
+      </div>
 
       {/* Center ALBS NEXUS Floating Box - Shifted Left & Neon Colored */}
       <div className="absolute top-1/2 left-1/2 transform -translate-x-[55%] -translate-y-1/2 z-50 w-[85%] max-w-sm pointer-events-none">
