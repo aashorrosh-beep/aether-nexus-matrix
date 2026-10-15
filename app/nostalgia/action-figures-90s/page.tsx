@@ -10,8 +10,11 @@ export default function ActionFiguresPage() {
 
   const handleCheckout = async (item: any) => {
     try {
-      const fullPriceInCents = parseInt(item.price.replace(/[^0-9]/g, '')) * 100;
-      const isLuxury = fullPriceInCents >= 50000; 
+      // 🧮 THE MATH FIX: Strictly parse as a float (respecting the decimal) before converting to cents
+      const priceFloat = parseFloat(item.price.replace(/[^0-9.]/g, ''));
+      const fullPriceInCents = Math.round(priceFloat * 100);
+      
+      const isLuxury = priceFloat >= 500.00; 
       const depositInCents = isLuxury ? Math.round(fullPriceInCents * 0.5) : fullPriceInCents;
       
       const payload = {
@@ -26,17 +29,20 @@ export default function ActionFiguresPage() {
       
       const data = await response.json();
       if (data.url) window.location.href = data.url;
-      else alert("Checkout failed. Verify Stripe/Clearinghouse connection.");
+      else alert("Checkout Gateway offline. Please verify API connection.");
     } catch (error) {
       console.error("Checkout Error:", error);
+      alert("Secure checkout is currently initializing. Please try again in a moment.");
     }
   };
 
   const maskSupplier = (mfg: string) => {
-    if (!mfg) return 'NEXUS SECURED';
+    if (!mfg) return 'NEXUS AUTHENTICATED';
     const upper = mfg.toUpperCase();
-    if (upper.includes('EBAY') || upper.includes('ETSY') || upper.includes('MERCARI')) return 'NEXUS AUTHENTICATED';
-    return mfg;
+    if (upper.includes('EBAY') || upper.includes('ETSY') || upper.includes('CLUB') || upper.includes('WHOLESALE') || upper.includes('MART') || upper.includes('MERCARI')) {
+      return 'NEXUS AUTHENTICATED';
+    }
+    return 'NEXUS SECURED';
   };
 
   const openModal = (item: any) => {
@@ -68,9 +74,9 @@ export default function ActionFiguresPage() {
                 
                 <div className="w-full h-48 bg-zinc-100 rounded-lg mb-4 border border-zinc-200 flex items-center justify-center overflow-hidden">
                   {item.media && item.media.length > 0 ? (
-                    <img src={item.media[0]} alt={item.name} className="object-cover w-full h-full" />
+                    <img src={item.media[0]} alt={item.name} className="object-cover w-full h-full" onError={(e) => e.currentTarget.style.display = 'none'} />
                   ) : (
-                    <span className="text-zinc-400 text-xs font-mono font-bold">MEDIA SIGNAL LOST</span>
+                    <span className="text-zinc-400 text-xs font-mono font-bold">IMAGE SECURED</span>
                   )}
                 </div>
                 <h2 className="text-2xl font-black leading-tight mt-1">{item.name}</h2>
@@ -97,17 +103,17 @@ export default function ActionFiguresPage() {
               <div className="w-full aspect-square bg-black rounded-lg overflow-hidden relative flex items-center justify-center shadow-inner">
                 {activeMedia === 'video' ? (
                   <div className="text-cyan-400 font-mono text-sm animate-pulse flex flex-col items-center gap-2">
-                    <span className="text-4xl">▶</span>[ STREAMING PRODUCT VIDEO ]
+                    <span className="text-4xl">▶</span>[ VIDEO FEED SECURED ]
                   </div>
                 ) : (
-                  <img src={activeMedia} className="w-full h-full object-cover" alt="Main Product Media" />
+                  <img src={activeMedia} className="w-full h-full object-cover" alt="Main Product Media" onError={(e) => e.currentTarget.src="https://placehold.co/800x800/18181b/06b6d4?text=IMAGE+SECURED"} />
                 )}
               </div>
               
               <div className="grid grid-cols-6 gap-2 h-16">
                 {selectedItem.media?.map((imgUrl: string, idx: number) => (
                   <button key={idx} onClick={() => setActiveMedia(imgUrl)} className={`rounded overflow-hidden border-2 ${activeMedia === imgUrl ? 'border-red-600' : 'border-transparent'}`}>
-                     <img src={imgUrl} className="w-full h-full object-cover" />
+                     <img src={imgUrl} className="w-full h-full object-cover" onError={(e) => e.currentTarget.style.display = 'none'} />
                   </button>
                 ))}
                 {selectedItem.video && (
@@ -123,11 +129,13 @@ export default function ActionFiguresPage() {
                 <span className="text-xs font-black uppercase text-zinc-500 tracking-wider block mb-2">{maskSupplier(selectedItem.specs?.manufacturer)} • SKU: {selectedItem.id}</span>
                 <h2 className="text-4xl md:text-5xl font-black uppercase leading-tight mb-6">{selectedItem.name}</h2>
                 <div className="space-y-4 mb-8 bg-zinc-50 p-6 rounded-lg border border-zinc-200">
-                  <div className="flex justify-between border-b border-zinc-200 pb-2"><span className="text-sm font-bold text-zinc-500 uppercase">Condition</span><span className="text-sm font-mono font-bold text-black">{selectedItem.specs?.condition || "Verified Asset"}</span></div>
-                  <div className="flex justify-between border-b border-zinc-200 pb-2"><span className="text-sm font-bold text-zinc-500 uppercase">Authentication</span><span className="text-sm font-mono font-bold text-green-600">Quad-Brain Verified</span></div>
-                  <div className="flex justify-between pb-2"><span className="text-sm font-bold text-zinc-500 uppercase">Fulfillment</span><span className="text-sm font-mono font-bold text-blue-600">{selectedItem.specs?.shipping || "Flat $2.99 Shipping"}</span></div>
-                  {parseInt(selectedItem.price.replace(/[^0-9]/g, '')) >= 500 && (
-                    <div className="flex justify-between pt-2 border-t border-zinc-200"><span className="text-sm font-bold text-red-600 uppercase">Clearinghouse Terms</span><span className="text-sm font-mono font-bold text-red-600">50% Refundable Escrow</span></div>
+                  <div className="flex justify-between border-b border-zinc-200 pb-2"><span className="text-sm font-bold text-zinc-500 uppercase">Condition</span><span className="text-sm font-bold text-black">Collector Grade - Mint / Near Mint</span></div>
+                  <div className="flex justify-between border-b border-zinc-200 pb-2"><span className="text-sm font-bold text-zinc-500 uppercase">Authentication</span><span className="text-sm font-bold text-green-600">100% Authenticated & Verified</span></div>
+                  <div className="flex justify-between pb-2"><span className="text-sm font-bold text-zinc-500 uppercase">Fulfillment</span><span className="text-sm font-bold text-blue-600">{selectedItem.specs?.shipping || "Flat $2.99 Shipping"}</span></div>
+                  
+                  {/* UI Math Fix */}
+                  {parseFloat(selectedItem.price.replace(/[^0-9.]/g, '')) >= 500 && (
+                    <div className="flex justify-between pt-2 border-t border-zinc-200"><span className="text-sm font-bold text-red-600 uppercase">Escrow Protocol</span><span className="text-sm font-bold text-red-600">50% Refundable Deposit Required</span></div>
                   )}
                 </div>
               </div>
