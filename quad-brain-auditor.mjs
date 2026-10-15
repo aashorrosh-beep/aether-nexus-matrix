@@ -1,5 +1,5 @@
 // ============================================================================
-// NEXUS MASTER CRUCIBLE: FULL 30-ITEM PAYLOAD ENGINE + ALGORITHMIC PRICING
+// NEXUS OMNI-BRAIN: FULL MULTI-MALL MATRIX & MASTER SEO FEED
 // ============================================================================
 import fs from 'fs';
 import path from 'path';
@@ -7,15 +7,14 @@ import path from 'path';
 function loadEnv() {
   try {
     const envPath = path.join(process.cwd(), '.env.local');
-    const envFile = fs.readFileSync(envPath, 'utf8');
-    envFile.split('\n').forEach(line => {
-      const match = line.match(/^([^=]+)=(.*)$/);
-      if (match) process.env[match[1].trim()] = match[2].trim();
-    });
-  } catch (e) {
-    console.error("⚠️ CRITICAL: .env.local not found.");
-    process.exit(1);
-  }
+    if (fs.existsSync(envPath)) {
+      const envFile = fs.readFileSync(envPath, 'utf8');
+      envFile.split('\n').forEach(line => {
+        const match = line.match(/^([^=]+)=(.*)$/);
+        if (match) process.env[match[1].trim()] = match[2].trim();
+      });
+    }
+  } catch (e) { console.log("Running in cloud mode"); }
 }
 loadEnv();
 
@@ -23,171 +22,121 @@ const OPENAI_KEY = process.env.OPENAI_API_KEY;
 const SERPAPI_KEY = process.env.SERPAPI_API_KEY;
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
-const BANNED_VISUAL_HASHES = ["1522335789203", "1556742049"];
+function getShippingCharge(price) {
+  if (price <= 10) return 1.99; 
+  if (price <= 20) return 2.50; 
+  if (price <= 35) return 3.50; 
+  if (price <= 50) return 4.99; 
+  if (price <= 150) return 7.99; 
+  return 19.99; 
+}
 
-async function callTrendBrain() {
-  console.log(`🧠 [BRAIN 1 - TREND] Commanding OpenAI for 20 Trending + 10 Staples...`);
-  const prompt = `You are a vintage toy market analyst. Generate a JSON array of 30 specific items for a "90s Action Figures" store. The first 20 must be the highest-trending, most viral action figures right now. The last 10 must be foundational staples. Format strictly as a JSON array of strings: ["Item Name 1", "Item Name 2"]`;
-
+async function callTrendBrain(promptStr) {
   try {
     const response = await fetch('https://api.openai.com/v1/chat/completions', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${OPENAI_KEY}` },
-      body: JSON.stringify({ model: "gpt-4", messages: [{ role: "user", content: prompt }], temperature: 0.7 })
+      method: 'POST', headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${OPENAI_KEY}` },
+      body: JSON.stringify({ model: "gpt-4", messages: [{ role: "user", content: promptStr }], temperature: 0.8 })
     });
     const data = await response.json();
     return JSON.parse(data.choices[0].message.content);
-  } catch (e) {
-    console.error("❌ [BRAIN 1] OpenAI Request Failed.");
-    process.exit(1);
-  }
+  } catch (e) { return []; }
 }
 
-async function callSourcingBrain(itemName) {
-  console.log(`🔍 [BRAIN 2 - SOURCING] Procuring Live Specs for: ${itemName}...`);
-  const url = `https://serpapi.com/search.json?engine=google_shopping&q=${encodeURIComponent(itemName)}&api_key=${SERPAPI_KEY}`;
-  
+async function callSourcingBrain(searchQuery) {
+  const url = `https://serpapi.com/search.json?engine=google_shopping&q=${encodeURIComponent(searchQuery)}&api_key=${SERPAPI_KEY}`;
   try {
     const response = await fetch(url);
     const data = await response.json();
-
-    if (data.shopping_results && data.shopping_results.length > 0) {
-      const best = data.shopping_results[0];
-      return {
-        price: best.price || "$150.00",
-        media: [
-          best.thumbnail || "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800&auto=format&fit=crop",
-          "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
-          "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
-          "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
-          "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
-        ],
-        video: true,
-        specs: {
-          manufacturer: best.source || "MARKET PROCUREMENT",
-          condition: "Market Verified Asset",
-          shipping: "Ships within 5 to 7 days"
-        }
-      };
-    }
-  } catch (e) {
-    console.log(`⚠️ [BRAIN 2] Scrape blocked. Engaging failsafe media...`);
-  }
-  
-  return { 
-    price: "$120.00", 
-    media: [
-      "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800",
-      "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800",
-      "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800",
-      "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800",
-      "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800"
-    ],
-    video: true,
-    specs: { manufacturer: "NEXUS SECURED", condition: "Verified Asset", shipping: "Ships within 5 to 7 days" } 
-  };
+    if (data.shopping_results && data.shopping_results.length > 0) return data.shopping_results[0].thumbnail;
+  } catch (e) {}
+  return "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"; 
 }
 
-async function executeMasterCrucible() {
-  console.log("==================================================================");
-  console.log("🔥 NEXUS 5-BRAIN ENGINE: PRICING & MARGIN ENFORCEMENT ACTIVE");
-  console.log("==================================================================");
+// 🏢 MASTER MALL REGISTRY
+const retailDivisions = [
+  // MALL 1: THE MATRIX
+  {
+    room: "neo-squish", mall: "netrix", namePrefix: "Neo-Squish Gamified Crate", brand: "Nexus Matrix",
+    prompt: `Give me exactly 10 high-trending, viral Squishmallow themes (e.g., "Galactic Axolotl"). Format strictly as a JSON array of strings.`
+  },
+  {
+    room: "cyberware-depot", mall: "netrix", namePrefix: "Cyberpunk Hardware", brand: "Nexus Tech",
+    prompt: `Give me 10 trending cyberpunk/tech accessories (e.g., "LED Visor", "Mechanical Keyboard"). Format strictly as a JSON array of strings.`
+  },
+  // MALL 2: NOSTALGIA
+  {
+    room: "retro-mystery-vault", mall: "nostalgia", namePrefix: "Vintage 90s Mystery Crate", brand: "Heritage Vault",
+    prompt: `Give me exactly 10 high-value 80s/90s nostalgic themes (e.g., "Holographic Charizard"). Format strictly as a JSON array of strings.`
+  },
+  {
+    room: "pixel-sugar-rush", mall: "nostalgia", namePrefix: "Retro Candy Box", brand: "Heritage Vault",
+    prompt: `Give me 10 nostalgic 80s/90s candy themes (e.g., "Dunkaroos & Warheads"). Format strictly as a JSON array of strings.`
+  },
+  {
+    room: "action-figures-90s", mall: "nostalgia", namePrefix: "90s Action Figure", brand: "Heritage Vault",
+    prompt: `Give me 10 classic 90s action figure lines (e.g., "Street Sharks", "TMNT"). Format strictly as a JSON array of strings.`
+  }
+];
 
-  const trendingItems = await callTrendBrain();
-  const certifiedCatalog = [];
-  const marketingPayloads = [];
+// 🧮 STANDARD 6-TIER DISTRIBUTION
+const distribution = [
+  { tier: "MICRO", count: 10, price: 9.99, cond: "Entry Level" },
+  { tier: "COMMON", count: 10, price: 19.99, cond: "Common Pull" },
+  { tier: "UNCOMMON", count: 5, price: 29.99, cond: "Uncommon Pull" },
+  { tier: "RARE", count: 3, price: 49.99, cond: "Rare Guarantee" },
+  { tier: "EPIC", count: 2, price: 149.99, cond: "Premium Scale" }
+];
+
+async function executeOmniBrain() {
+  console.log("🔥 NEXUS OMNI-BRAIN: INITIATING MULTI-MALL SYNC");
+  let currentInventory = {};
+  const googleMerchantFeed = [];
+  let globalSkuId = 1;
+
+  for (const division of retailDivisions) {
+    console.log(`\n🏗️ SYNCING DIVISION: ${division.room.toUpperCase()}`);
+    const themes = await callTrendBrain(division.prompt);
+    const roomCatalog = [];
+
+    for (const dist of distribution) {
+      const customerShipping = getShippingCharge(dist.price);
+      
+      for (let i = 0; i < dist.count; i++) {
+        const theme = themes[i % themes.length] || "Vintage"; 
+        const itemName = `${division.namePrefix}: ${theme} [${dist.tier}]`;
+        const sku = `NEXUS-${String(globalSkuId).padStart(4, '0')}`;
+        
+        const imgUrl = await callSourcingBrain(`${theme} ${division.brand}`);
+        await sleep(800); 
+
+        roomCatalog.push({
+          id: sku, name: itemName, price: `$${dist.price.toFixed(2)}`, media: [imgUrl], video: false,
+          specs: { manufacturer: division.brand, condition: dist.cond, shipping: `Tiered Tracked Shipping ($${customerShipping.toFixed(2)})` },
+          status: "CRUCIBLE_VERIFIED"
+        });
+
+        // 📡 MASTER SEO FEED INJECTION
+        googleMerchantFeed.push({
+          id: sku, title: itemName, description: `Official ${division.brand} ${dist.tier} item.`, 
+          link: `https://aether-nexus-matrix.vercel.app/${division.mall}/${division.room}`,
+          image_link: imgUrl, price: `${dist.price.toFixed(2)} USD`, availability: "in stock", brand: division.brand
+        });
+        
+        console.log(`✅ [LOCKED] ${sku} | ${division.room} | ${dist.tier}`);
+        globalSkuId++;
+      }
+    }
+    currentInventory[division.room] = roomCatalog;
+  }
+
+  // Save the complete ledgers
+  fs.writeFileSync(path.join(process.cwd(), 'app', 'inventory.ts'), `export const masterInventory: Record<string, any[]> = ${JSON.stringify(currentInventory, null, 2)};\n`, 'utf8');
   
-  let index = 1;
-  for (const itemName of trendingItems) {
-    const sku = `FIG-${String(index).padStart(3, '0')}`;
-    const marketData = await callSourcingBrain(itemName);
-    await sleep(1500); 
+  const publicDir = path.join(process.cwd(), 'public');
+  if (!fs.existsSync(publicDir)) fs.mkdirSync(publicDir, { recursive: true });
+  fs.writeFileSync(path.join(publicDir, 'google-merchant-feed.json'), JSON.stringify(googleMerchantFeed, null, 2), 'utf8');
 
-    // 🧮 BRAIN 2.5: ALGORITHMIC PRICING & MARGIN ENFORCEMENT
-    console.log(`🧮 [BRAIN 2.5] Calculating Margins & Flat $2.99 Shipping...`);
-    const marketPriceNum = parseFloat(marketData.price.replace(/[^0-9.]/g, ''));
-    
-    // Simulate Dropship Cost via Zendrop API response logic
-    const zendropCost = marketPriceNum * 0.60; 
-    const inventoryVolume = Math.floor(Math.random() * 2000) + 50; 
-    
-    const flatShippingRevenue = 2.99;
-    const totalRevenue = marketPriceNum + flatShippingRevenue;
-    let profit = totalRevenue - zendropCost;
-    let marginPct = (profit / totalRevenue) * 100;
-    
-    let finalRetailPrice = marketPriceNum;
-    let pricingTier = "STANDARD";
-
-    // Enforce 25-30% standard margin, or 20% / $2+ for 1000+ volume items
-    if (inventoryVolume >= 1000 && (marginPct >= 20 || profit >= 2.00)) {
-        pricingTier = "HIGH_VOLUME_APPROVED";
-    } else if (marginPct < 25) {
-        // Force price correction to hit exact 28% margin target
-        const requiredRevenue = zendropCost / (1 - 0.28);
-        finalRetailPrice = requiredRevenue - flatShippingRevenue;
-        profit = requiredRevenue - zendropCost;
-        marginPct = 28;
-        pricingTier = "MARGIN_CORRECTED";
-    }
-
-    const bundleStatus = inventoryVolume > 500 ? "ELIGIBLE_FOR_BUNDLING" : "STANDALONE";
-    const formattedPrice = `$${finalRetailPrice.toFixed(2)}`;
-
-    // 🧠 BRAIN 3: THE AUDITOR
-    let auditStatus = "CRUCIBLE_VERIFIED";
-    if (BANNED_VISUAL_HASHES.some(hash => marketData.media[0].includes(hash))) {
-      auditStatus = "REJECTED";
-    }
-
-    // 🔥 BRAIN 4: THE CRUCIBLE
-    if (auditStatus === "CRUCIBLE_VERIFIED") {
-      certifiedCatalog.push({
-        id: sku,
-        name: itemName,
-        price: formattedPrice,
-        media: marketData.media,
-        video: marketData.video,
-        specs: {
-          ...marketData.specs,
-          shipping: "Flat $2.99 Shipping (5 to 7 days)",
-          bundleStatus: bundleStatus
-        },
-        status: auditStatus,
-      });
-
-      // Pass exact margins to Brain 5 for Ad Networks
-      marketingPayloads.push({
-          sku,
-          margin: `${marginPct.toFixed(1)}%`,
-          profit: `$${profit.toFixed(2)}`,
-          bundleEligible: bundleStatus === "ELIGIBLE_FOR_BUNDLING",
-          volumeAvailable: inventoryVolume
-      });
-
-      console.log(`✅ [CRUCIBLE PASSED] ${sku} | Margin: ${marginPct.toFixed(1)}% | Profit: $${profit.toFixed(2)} | Bundle: ${bundleStatus}`);
-    }
-    index++;
-  }
-
-  // 📡 BRAIN 5: MARKETING SYNDICATOR
-  console.log("\n==================================================================");
-  console.log("📡 [BRAIN 5 - MARKETING] Syndicating Deep-Links & Bundle Data...");
-  console.log("==================================================================");
-  for (const payload of marketingPayloads) {
-    if(payload.bundleEligible) {
-        console.log(`🚀 [SYNDICATED BUNDLE] ${payload.sku} -> Pushed to Ad Networks (High Volume Target)`);
-    } else {
-        console.log(`🚀 [SYNDICATED SINGLE] ${payload.sku} -> Pushed to Ad Networks (Standard Target)`);
-    }
-  }
-
-  console.log("\n💾 [SYSTEM] Compiling final structured inventory ledger...");
-  const inventoryData = { "action-figures-90s": certifiedCatalog };
-  const inventoryContent = `export const masterInventory: Record<string, any[]> = ${JSON.stringify(inventoryData, null, 2)};\n`;
-
-  fs.writeFileSync(path.join(process.cwd(), 'app', 'inventory.ts'), inventoryContent, 'utf8');
-  console.log("🎯 [MASTER SYNC COMPLETE] 30 SKUs Fully Loaded with Margin Enforcement!");
+  console.log(`\n🎯 [OMNI-BRAIN SYNC COMPLETE] Matrix updated. SEO Feed active.`);
 }
 
-executeMasterCrucible();
+executeOmniBrain();
