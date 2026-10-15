@@ -1,10 +1,12 @@
 "use client";
 import React, { useState } from 'react';
 import Link from 'next/link';
+import { useParams } from 'next/navigation';
 import { masterInventory } from '../../inventory';
 
-export default function DynamicStorefront({ params }: { params: { storeId: string } }) {
-  const roomKey = params.storeId;
+export default function DynamicStorefront() {
+  const params = useParams();
+  const roomKey = (params?.storeId as string) || "store";
   const items = masterInventory[roomKey] || [];
   const displayTitle = roomKey.replace(/-/g, ' ').toUpperCase();
 
