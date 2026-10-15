@@ -10690,5 +10690,2265 @@ export const masterInventory: Record<string, any[]> = {
       },
       "status": "CRUCIBLE_VERIFIED"
     }
+  ],
+  "zero-g-gear": [
+    {
+      "id": "4XX-0001",
+      "name": "Advanced Space Suit with Integrated Life Support System [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR06XLPnVWczdaLHpcxmrY8OQkB75nnWmi2Oeop8JD9nxfGFreFOhNXry5wf5AEad3vyxs2kkD9KqA5DWfiOUsEJ04G39N6qcr_2btG7o0"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0002",
+      "name": "Zero-Gravity Movement Assistance Devices [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSPb9iq1BaBqfleF9y5GUnF8od43URAvYZiaTLsvFZn_mkbm_6Na_JCGfjtuGJUVvKCnksTqRD74usPeXLQ2GtWOury4r-233-ztnSIn8WNvp6xDD6Be1VtZg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0003",
+      "name": "Portable Personal Oxygen Generator [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQBBVtLyjMKiAzkC-WhTYHCDfI1_S_cA2YginRqWRSaBu9-Xec8Ho7VkF8eS6Es-m76ybnA5g2UI5mroGYTOMigDIrbHTvaFFyRmdWbDfBc5ASXCaJ_wF2Dgw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0004",
+      "name": "Compact Radiation Protection Shield [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRZ0-doqfbV_Zi1QL-aatWfInzaDS_u1cLQQCgn6wenvqJmHNfcgZyMvvQtQ6fdfAzNhWxN37uhfjANZ5iK1CX9bnaX2CNX4WkhDJ_sSmznA-xrGN8cs4gdbLk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0005",
+      "name": "Bio-Reactor for Food and Oxygen Production [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQbr8z4po5XJnX4Lozk8ViEcncJe1FHhhhtdTvMdKXYbl1RpWT9PH9VCRtoZM_LQwuwhoce1CKE"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0006",
+      "name": "Handheld Portable 3D Printer for Equipment Repair [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRx4aeWDhfuSF1o9R4xvVr_NLo8T_hi7FToGmk15sDl6NeK0bVmyWuH_EaRAIYSvAEMM2A8l6lo2Yg9sX-vxfpqpouvdMXzzQh9XCBmcbVHBvhf_AUb76wI2-od"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0007",
+      "name": "Wearable Biosensors for Vital Signs Monitoring [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS3rGwqKfxF8zc92T_dZxYkLwvmak7Lo6zRNxNoUeobTelcvIqT6kVDHFuuziqDzANvEF_SzPKNBPutqJrnqGA8HJD3b35RfmIV9KnwEdU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0008",
+      "name": "Nano-Medical Kit for Personal Health Management [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTtrbvKtY7KfuhcjP2XdUNvS53qijyCtAPa8x16jRjVIRPhDz8TLXFUax9p_dm2WCAVjiBY6G1VqT_vfIPm7nx2ATYqH-TkTfw_OsIBhupG4GhOUhr9LwVu"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0009",
+      "name": "Energy Harvesting Wearables for Power Generation [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRjrP3StoKkflyuVKcdIfbQzKb2ulftBAH79olrZUOUieHKvaAQZc1zO3cAKLexLK-XdxpPmWs5NTJM_Bq_eb2jC-45tDpN"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0010",
+      "name": "AI-Assisted Navigation and Communication Device [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQnt6gBdUIi_SCR-iQcU1VP2lwRnHXML3KvMDdvMjpoh0N6m1XrPSuEd0-I9PZrZPSUUxQ6IVfeGgPvGC3o_Uwrm4jkvsvxG1c73sh-rjRWXM_BgiD7X4dz"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0011",
+      "name": "Advanced Space Suit with Integrated Life Support System [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR06XLPnVWczdaLHpcxmrY8OQkB75nnWmi2Oeop8JD9nxfGFreFOhNXry5wf5AEad3vyxs2kkD9KqA5DWfiOUsEJ04G39N6qcr_2btG7o0"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0012",
+      "name": "Zero-Gravity Movement Assistance Devices [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSPb9iq1BaBqfleF9y5GUnF8od43URAvYZiaTLsvFZn_mkbm_6Na_JCGfjtuGJUVvKCnksTqRD74usPeXLQ2GtWOury4r-233-ztnSIn8WNvp6xDD6Be1VtZg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0013",
+      "name": "Portable Personal Oxygen Generator [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQBBVtLyjMKiAzkC-WhTYHCDfI1_S_cA2YginRqWRSaBu9-Xec8Ho7VkF8eS6Es-m76ybnA5g2UI5mroGYTOMigDIrbHTvaFFyRmdWbDfBc5ASXCaJ_wF2Dgw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0014",
+      "name": "Compact Radiation Protection Shield [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRZ0-doqfbV_Zi1QL-aatWfInzaDS_u1cLQQCgn6wenvqJmHNfcgZyMvvQtQ6fdfAzNhWxN37uhfjANZ5iK1CX9bnaX2CNX4WkhDJ_sSmznA-xrGN8cs4gdbLk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0015",
+      "name": "Bio-Reactor for Food and Oxygen Production [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQbr8z4po5XJnX4Lozk8ViEcncJe1FHhhhtdTvMdKXYbl1RpWT9PH9VCRtoZM_LQwuwhoce1CKE"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0016",
+      "name": "Handheld Portable 3D Printer for Equipment Repair [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRx4aeWDhfuSF1o9R4xvVr_NLo8T_hi7FToGmk15sDl6NeK0bVmyWuH_EaRAIYSvAEMM2A8l6lo2Yg9sX-vxfpqpouvdMXzzQh9XCBmcbVHBvhf_AUb76wI2-od"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0017",
+      "name": "Wearable Biosensors for Vital Signs Monitoring [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS3rGwqKfxF8zc92T_dZxYkLwvmak7Lo6zRNxNoUeobTelcvIqT6kVDHFuuziqDzANvEF_SzPKNBPutqJrnqGA8HJD3b35RfmIV9KnwEdU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0018",
+      "name": "Nano-Medical Kit for Personal Health Management [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTtrbvKtY7KfuhcjP2XdUNvS53qijyCtAPa8x16jRjVIRPhDz8TLXFUax9p_dm2WCAVjiBY6G1VqT_vfIPm7nx2ATYqH-TkTfw_OsIBhupG4GhOUhr9LwVu"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0019",
+      "name": "Energy Harvesting Wearables for Power Generation [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRjrP3StoKkflyuVKcdIfbQzKb2ulftBAH79olrZUOUieHKvaAQZc1zO3cAKLexLK-XdxpPmWs5NTJM_Bq_eb2jC-45tDpN"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0020",
+      "name": "AI-Assisted Navigation and Communication Device [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQnt6gBdUIi_SCR-iQcU1VP2lwRnHXML3KvMDdvMjpoh0N6m1XrPSuEd0-I9PZrZPSUUxQ6IVfeGgPvGC3o_Uwrm4jkvsvxG1c73sh-rjRWXM_BgiD7X4dz"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0021",
+      "name": "Advanced Space Suit with Integrated Life Support System [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR06XLPnVWczdaLHpcxmrY8OQkB75nnWmi2Oeop8JD9nxfGFreFOhNXry5wf5AEad3vyxs2kkD9KqA5DWfiOUsEJ04G39N6qcr_2btG7o0"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0022",
+      "name": "Zero-Gravity Movement Assistance Devices [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSPb9iq1BaBqfleF9y5GUnF8od43URAvYZiaTLsvFZn_mkbm_6Na_JCGfjtuGJUVvKCnksTqRD74usPeXLQ2GtWOury4r-233-ztnSIn8WNvp6xDD6Be1VtZg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0023",
+      "name": "Portable Personal Oxygen Generator [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQBBVtLyjMKiAzkC-WhTYHCDfI1_S_cA2YginRqWRSaBu9-Xec8Ho7VkF8eS6Es-m76ybnA5g2UI5mroGYTOMigDIrbHTvaFFyRmdWbDfBc5ASXCaJ_wF2Dgw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0024",
+      "name": "Compact Radiation Protection Shield [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRZ0-doqfbV_Zi1QL-aatWfInzaDS_u1cLQQCgn6wenvqJmHNfcgZyMvvQtQ6fdfAzNhWxN37uhfjANZ5iK1CX9bnaX2CNX4WkhDJ_sSmznA-xrGN8cs4gdbLk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0025",
+      "name": "Bio-Reactor for Food and Oxygen Production [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQbr8z4po5XJnX4Lozk8ViEcncJe1FHhhhtdTvMdKXYbl1RpWT9PH9VCRtoZM_LQwuwhoce1CKE"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0026",
+      "name": "Handheld Portable 3D Printer for Equipment Repair [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRx4aeWDhfuSF1o9R4xvVr_NLo8T_hi7FToGmk15sDl6NeK0bVmyWuH_EaRAIYSvAEMM2A8l6lo2Yg9sX-vxfpqpouvdMXzzQh9XCBmcbVHBvhf_AUb76wI2-od"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0027",
+      "name": "Wearable Biosensors for Vital Signs Monitoring [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS3rGwqKfxF8zc92T_dZxYkLwvmak7Lo6zRNxNoUeobTelcvIqT6kVDHFuuziqDzANvEF_SzPKNBPutqJrnqGA8HJD3b35RfmIV9KnwEdU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0028",
+      "name": "Nano-Medical Kit for Personal Health Management [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTtrbvKtY7KfuhcjP2XdUNvS53qijyCtAPa8x16jRjVIRPhDz8TLXFUax9p_dm2WCAVjiBY6G1VqT_vfIPm7nx2ATYqH-TkTfw_OsIBhupG4GhOUhr9LwVu"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0029",
+      "name": "Energy Harvesting Wearables for Power Generation [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRjrP3StoKkflyuVKcdIfbQzKb2ulftBAH79olrZUOUieHKvaAQZc1zO3cAKLexLK-XdxpPmWs5NTJM_Bq_eb2jC-45tDpN"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0030",
+      "name": "AI-Assisted Navigation and Communication Device [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQnt6gBdUIi_SCR-iQcU1VP2lwRnHXML3KvMDdvMjpoh0N6m1XrPSuEd0-I9PZrZPSUUxQ6IVfeGgPvGC3o_Uwrm4jkvsvxG1c73sh-rjRWXM_BgiD7X4dz"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    }
+  ],
+  "mars-colony-route": [
+    {
+      "id": "4XX-0031",
+      "name": "NASA Mars Rover Model Kit [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT8T5s_JLo-3Kp_jiNcFLySQWMqzytRNDgJ36ZlY2bKpZH-uFAy50QGBTM9hPRei8VwZ4OXAaYlzBTAeHSoNnAZcQEcAI9ikBG6OsULHVSDIc6vMpHRVedv"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0032",
+      "name": "Space Colony Construction Set [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT4nKsGUn3HByrlUL9OTunxz19usFzTtC2OpBuvkiH3iWn8CyQ1hAboN6PsKP0fenw8OAn_JZaEtMxeCNS1gdydxrLdeaFI-JPy9CdtkoB-bsJYQKUfEmPM-Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0033",
+      "name": "Mars Habitat Building Blocks [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0034",
+      "name": "Astronaut Spacesuit Replica [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR4RhwLhv-G5fXGd-sEll2k9HokaSPwfmIp9AQmlixTNGsWCdIP8zrNdKAtfUr-wF3iqZhfzjY2cUTmrG9m-CDOciHcA6b2KabY1fNdUzPhazVi3kbY6nKQkw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0035",
+      "name": "3D Printable Martian Settlement Kit [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRr8ell1nSIb5yAIC_p3ajpyo-cboY9f17rO5MhXSKRksP7SYyjYr48o-7SsFbT6YnI-or9gxW8tMyzgRUT8FquA3ewUQtZXudv08zgnJkA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0036",
+      "name": "Mars Terrain Sand Box [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSc9tCoz_GMUMAMNUPJhYmp-BU_H3e8y6Ey7VcXv0zNAo4oNEQ5ZPQzoGyw6OKYX-c_KJ_juEdRzRJABmc_hPjYou7uIufnvDEQ_afqiBxzCTkutOtxU7jn"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0037",
+      "name": "Life-Size Mars Rover Prop [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRgd-8Q95PRkl7psj2rCRjOJyga6rFr-c1xNeqFdj9M3gcl-9uFnCRzHqrkyQAlPEIlJaG5siZaH6SLkG1CLvOiJ2QCzuoWkbirqMfRxnS3"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0038",
+      "name": "Space Greenhouse Hydroponics Kit [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcShwrARB6aB4wwP2c-UiZRIYKHjqIlLhn-PlfWyIJXSKXJwWFgyt457Xu1ArTBkbMSkvVyBzLuhKXJnhWnbKjhcEqZnfI2aR9hIqQ7vRgqf0eEZsPIOcrUrRg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0039",
+      "name": "Solar Power System Model [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQLcOTN9JxgW6UzdOCv4W0tvaQrSlloam037BveCk_56dupO_9BXWpxLhNl8v0zsm9KVn3sug19ej7_K6DFCEg2OyZcK06izuCk1cYrMGdhjsS13fV7dXW8gw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0040",
+      "name": "Futuristic Spaceship Colony Kit [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTkpICJSQVWaH0-FHYXMXfQNwNotSqen7mvDxNaZm2Wrvk0tL51VC5iD9xgIaiYwUkO-K8eAXbUd7COb_rfxLgVSpYin7qOAq1_SS4tOjNRb5APUMadxofhEA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0041",
+      "name": "NASA Mars Rover Model Kit [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT8T5s_JLo-3Kp_jiNcFLySQWMqzytRNDgJ36ZlY2bKpZH-uFAy50QGBTM9hPRei8VwZ4OXAaYlzBTAeHSoNnAZcQEcAI9ikBG6OsULHVSDIc6vMpHRVedv"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0042",
+      "name": "Space Colony Construction Set [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT4nKsGUn3HByrlUL9OTunxz19usFzTtC2OpBuvkiH3iWn8CyQ1hAboN6PsKP0fenw8OAn_JZaEtMxeCNS1gdydxrLdeaFI-JPy9CdtkoB-bsJYQKUfEmPM-Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0043",
+      "name": "Mars Habitat Building Blocks [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0044",
+      "name": "Astronaut Spacesuit Replica [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR4RhwLhv-G5fXGd-sEll2k9HokaSPwfmIp9AQmlixTNGsWCdIP8zrNdKAtfUr-wF3iqZhfzjY2cUTmrG9m-CDOciHcA6b2KabY1fNdUzPhazVi3kbY6nKQkw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0045",
+      "name": "3D Printable Martian Settlement Kit [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRr8ell1nSIb5yAIC_p3ajpyo-cboY9f17rO5MhXSKRksP7SYyjYr48o-7SsFbT6YnI-or9gxW8tMyzgRUT8FquA3ewUQtZXudv08zgnJkA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0046",
+      "name": "Mars Terrain Sand Box [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSc9tCoz_GMUMAMNUPJhYmp-BU_H3e8y6Ey7VcXv0zNAo4oNEQ5ZPQzoGyw6OKYX-c_KJ_juEdRzRJABmc_hPjYou7uIufnvDEQ_afqiBxzCTkutOtxU7jn"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0047",
+      "name": "Life-Size Mars Rover Prop [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRgd-8Q95PRkl7psj2rCRjOJyga6rFr-c1xNeqFdj9M3gcl-9uFnCRzHqrkyQAlPEIlJaG5siZaH6SLkG1CLvOiJ2QCzuoWkbirqMfRxnS3"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0048",
+      "name": "Space Greenhouse Hydroponics Kit [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcShwrARB6aB4wwP2c-UiZRIYKHjqIlLhn-PlfWyIJXSKXJwWFgyt457Xu1ArTBkbMSkvVyBzLuhKXJnhWnbKjhcEqZnfI2aR9hIqQ7vRgqf0eEZsPIOcrUrRg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0049",
+      "name": "Solar Power System Model [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQLcOTN9JxgW6UzdOCv4W0tvaQrSlloam037BveCk_56dupO_9BXWpxLhNl8v0zsm9KVn3sug19ej7_K6DFCEg2OyZcK06izuCk1cYrMGdhjsS13fV7dXW8gw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0050",
+      "name": "Futuristic Spaceship Colony Kit [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTkpICJSQVWaH0-FHYXMXfQNwNotSqen7mvDxNaZm2Wrvk0tL51VC5iD9xgIaiYwUkO-K8eAXbUd7COb_rfxLgVSpYin7qOAq1_SS4tOjNRb5APUMadxofhEA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0051",
+      "name": "NASA Mars Rover Model Kit [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT8T5s_JLo-3Kp_jiNcFLySQWMqzytRNDgJ36ZlY2bKpZH-uFAy50QGBTM9hPRei8VwZ4OXAaYlzBTAeHSoNnAZcQEcAI9ikBG6OsULHVSDIc6vMpHRVedv"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0052",
+      "name": "Space Colony Construction Set [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT4nKsGUn3HByrlUL9OTunxz19usFzTtC2OpBuvkiH3iWn8CyQ1hAboN6PsKP0fenw8OAn_JZaEtMxeCNS1gdydxrLdeaFI-JPy9CdtkoB-bsJYQKUfEmPM-Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0053",
+      "name": "Mars Habitat Building Blocks [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0054",
+      "name": "Astronaut Spacesuit Replica [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR4RhwLhv-G5fXGd-sEll2k9HokaSPwfmIp9AQmlixTNGsWCdIP8zrNdKAtfUr-wF3iqZhfzjY2cUTmrG9m-CDOciHcA6b2KabY1fNdUzPhazVi3kbY6nKQkw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0055",
+      "name": "3D Printable Martian Settlement Kit [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRr8ell1nSIb5yAIC_p3ajpyo-cboY9f17rO5MhXSKRksP7SYyjYr48o-7SsFbT6YnI-or9gxW8tMyzgRUT8FquA3ewUQtZXudv08zgnJkA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0056",
+      "name": "Mars Terrain Sand Box [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSc9tCoz_GMUMAMNUPJhYmp-BU_H3e8y6Ey7VcXv0zNAo4oNEQ5ZPQzoGyw6OKYX-c_KJ_juEdRzRJABmc_hPjYou7uIufnvDEQ_afqiBxzCTkutOtxU7jn"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0057",
+      "name": "Life-Size Mars Rover Prop [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRgd-8Q95PRkl7psj2rCRjOJyga6rFr-c1xNeqFdj9M3gcl-9uFnCRzHqrkyQAlPEIlJaG5siZaH6SLkG1CLvOiJ2QCzuoWkbirqMfRxnS3"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0058",
+      "name": "Space Greenhouse Hydroponics Kit [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcShwrARB6aB4wwP2c-UiZRIYKHjqIlLhn-PlfWyIJXSKXJwWFgyt457Xu1ArTBkbMSkvVyBzLuhKXJnhWnbKjhcEqZnfI2aR9hIqQ7vRgqf0eEZsPIOcrUrRg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0059",
+      "name": "Solar Power System Model [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQLcOTN9JxgW6UzdOCv4W0tvaQrSlloam037BveCk_56dupO_9BXWpxLhNl8v0zsm9KVn3sug19ej7_K6DFCEg2OyZcK06izuCk1cYrMGdhjsS13fV7dXW8gw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0060",
+      "name": "Futuristic Spaceship Colony Kit [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTkpICJSQVWaH0-FHYXMXfQNwNotSqen7mvDxNaZm2Wrvk0tL51VC5iD9xgIaiYwUkO-K8eAXbUd7COb_rfxLgVSpYin7qOAq1_SS4tOjNRb5APUMadxofhEA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    }
+  ],
+  "dyson-sphere-initiative": [
+    {
+      "id": "4XX-0061",
+      "name": "Dyson Ring: A thin band of material around the star capturing a fraction of its energy [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0062",
+      "name": "Dyson Swarm: Collection of solar power satellites or habitats around the star [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0063",
+      "name": "Dyson Bubble: A shell composed of statites around the star [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ1d2R2jxLptGJWP3HqlEgMuZhzq7802YXKL43r7ypmaA4aPIFxbL4MFXiHVyin4dH1bHJjGrDITV9QX6CoTvTk7IDUVvkZ4A"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0064",
+      "name": "Dyson Net: A web of cables strung around the star to capture its energy [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSUmky0lv_XntWZ9cV_iuZ9taQQhv6APmmngVgVseoJW6_2HaSAgIfGpPTGUESazH_bbcz_MBOLlnbg6yPiiw6N4NGq13hk_tMxlcpAEJYTS0zSQ7ldNNNN"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0065",
+      "name": "Dyson Shell/Globe: A solid shell encompassing the star [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS0Ca_vCoS_tPczKeTxTKWaeq6Rs23IrzOQ9zPkpSpD6avBnpKXVt2H1x6Zu7EE3ztDCJKy-GDFeg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0066",
+      "name": "Stellar Engine: A megastructure used to control the motion of a star system [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0067",
+      "name": "Star Lifting: Techniques to remove matter from a star [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0068",
+      "name": "Matrioshka Brain: A series of concentric Dyson spheres to make use of the star's entire energy output [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0069",
+      "name": "Alderson Disk: A gigantic platter with a star at the center [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0070",
+      "name": "Shkadov Thruster: A megastructure which acts as a stellar engine [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRA1kVQZhG3zbQgBniHj_9lSSPmeBE3FFEROnKddjWtBX-4BR0gT_-G_EQYalH9oM6onOvkaDfA7U3jrj-n4OW_RjyBOM54EqUOhoFvh5jr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0071",
+      "name": "Dyson Ring: A thin band of material around the star capturing a fraction of its energy [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0072",
+      "name": "Dyson Swarm: Collection of solar power satellites or habitats around the star [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0073",
+      "name": "Dyson Bubble: A shell composed of statites around the star [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ1d2R2jxLptGJWP3HqlEgMuZhzq7802YXKL43r7ypmaA4aPIFxbL4MFXiHVyin4dH1bHJjGrDITV9QX6CoTvTk7IDUVvkZ4A"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0074",
+      "name": "Dyson Net: A web of cables strung around the star to capture its energy [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSUmky0lv_XntWZ9cV_iuZ9taQQhv6APmmngVgVseoJW6_2HaSAgIfGpPTGUESazH_bbcz_MBOLlnbg6yPiiw6N4NGq13hk_tMxlcpAEJYTS0zSQ7ldNNNN"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0075",
+      "name": "Dyson Shell/Globe: A solid shell encompassing the star [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS0Ca_vCoS_tPczKeTxTKWaeq6Rs23IrzOQ9zPkpSpD6avBnpKXVt2H1x6Zu7EE3ztDCJKy-GDFeg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0076",
+      "name": "Stellar Engine: A megastructure used to control the motion of a star system [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0077",
+      "name": "Star Lifting: Techniques to remove matter from a star [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0078",
+      "name": "Matrioshka Brain: A series of concentric Dyson spheres to make use of the star's entire energy output [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0079",
+      "name": "Alderson Disk: A gigantic platter with a star at the center [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0080",
+      "name": "Shkadov Thruster: A megastructure which acts as a stellar engine [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRA1kVQZhG3zbQgBniHj_9lSSPmeBE3FFEROnKddjWtBX-4BR0gT_-G_EQYalH9oM6onOvkaDfA7U3jrj-n4OW_RjyBOM54EqUOhoFvh5jr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0081",
+      "name": "Dyson Ring: A thin band of material around the star capturing a fraction of its energy [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0082",
+      "name": "Dyson Swarm: Collection of solar power satellites or habitats around the star [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0083",
+      "name": "Dyson Bubble: A shell composed of statites around the star [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ1d2R2jxLptGJWP3HqlEgMuZhzq7802YXKL43r7ypmaA4aPIFxbL4MFXiHVyin4dH1bHJjGrDITV9QX6CoTvTk7IDUVvkZ4A"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0084",
+      "name": "Dyson Net: A web of cables strung around the star to capture its energy [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSUmky0lv_XntWZ9cV_iuZ9taQQhv6APmmngVgVseoJW6_2HaSAgIfGpPTGUESazH_bbcz_MBOLlnbg6yPiiw6N4NGq13hk_tMxlcpAEJYTS0zSQ7ldNNNN"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0085",
+      "name": "Dyson Shell/Globe: A solid shell encompassing the star [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS0Ca_vCoS_tPczKeTxTKWaeq6Rs23IrzOQ9zPkpSpD6avBnpKXVt2H1x6Zu7EE3ztDCJKy-GDFeg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0086",
+      "name": "Stellar Engine: A megastructure used to control the motion of a star system [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0087",
+      "name": "Star Lifting: Techniques to remove matter from a star [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0088",
+      "name": "Matrioshka Brain: A series of concentric Dyson spheres to make use of the star's entire energy output [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0089",
+      "name": "Alderson Disk: A gigantic platter with a star at the center [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0090",
+      "name": "Shkadov Thruster: A megastructure which acts as a stellar engine [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRA1kVQZhG3zbQgBniHj_9lSSPmeBE3FFEROnKddjWtBX-4BR0gT_-G_EQYalH9oM6onOvkaDfA7U3jrj-n4OW_RjyBOM54EqUOhoFvh5jr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    }
+  ],
+  "survival-edc": [
+    {
+      "id": "4XX-0091",
+      "name": "Futuristic Multi-tool with AI assistant [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQQdYJV39_D8r7CEUMQgJXhfYy_Otp-aU1K8vaNSayOn4P22093LrKsEclaeXP7uXLBiU8W-xXB"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0092",
+      "name": "Solar Powered Electric Lighter [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQqL_wxLkVxQdXgiDSKqgbkmhFRaZzZR4baIlrrUqgU1sC7kKp0agUdOGQmrq-HFsnsC-q8GDL6nzzIEmofmP66txwux1ydv86VL6MGIiYLx8YNyuK4spjd"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0093",
+      "name": "Miniature Drone for Reconnaissance [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ9gViT7tnFTaWzy0TW8G9WOP4KBmUN8mxN4R6yibuJ9T434skyivzIflBwdqLPGAjl0of4JmA6"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0094",
+      "name": "Compact Water Purification Device [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQSfnJ663dwnSo-wnDzCHikKdziArECRBRgrDzneerCn0oUh_NNREdrnx1lFMivVwMu9Xdjm9h07sVCrS3whMvBShK3J-btDfIoDUiSxCSeySf54N6k4otA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0095",
+      "name": "Hyper-compact Survival Fishing Kit [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0096",
+      "name": "Smart Compass with Augmented Reality Navigation [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRBPskO5nuCdMwiJPi15SKUbxfKRKazyb_J1fO8PSoSe-cV5YoN9Dpp22-RJFbCj0pigKDnFrY1qt1DUxbAxmN4HGWi6sMqz4uEEFSzOCzzwDH4c9TaolJdzw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0097",
+      "name": "Nanotechnology First Aid Kit [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS2nDUPv3mEc7xoAL_ZayjNIFmQ765t3Epqy7d768V6oqAhiKoVcKQqtJebyd83znam8YcRyUo"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0098",
+      "name": "Holographic Emergency Signal Device [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0099",
+      "name": "Portable Solar Energy Converter [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0100",
+      "name": "Biometric Lockpick Set [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0101",
+      "name": "Futuristic Multi-tool with AI assistant [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQQdYJV39_D8r7CEUMQgJXhfYy_Otp-aU1K8vaNSayOn4P22093LrKsEclaeXP7uXLBiU8W-xXB"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0102",
+      "name": "Solar Powered Electric Lighter [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQqL_wxLkVxQdXgiDSKqgbkmhFRaZzZR4baIlrrUqgU1sC7kKp0agUdOGQmrq-HFsnsC-q8GDL6nzzIEmofmP66txwux1ydv86VL6MGIiYLx8YNyuK4spjd"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0103",
+      "name": "Miniature Drone for Reconnaissance [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ9gViT7tnFTaWzy0TW8G9WOP4KBmUN8mxN4R6yibuJ9T434skyivzIflBwdqLPGAjl0of4JmA6"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0104",
+      "name": "Compact Water Purification Device [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQSfnJ663dwnSo-wnDzCHikKdziArECRBRgrDzneerCn0oUh_NNREdrnx1lFMivVwMu9Xdjm9h07sVCrS3whMvBShK3J-btDfIoDUiSxCSeySf54N6k4otA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0105",
+      "name": "Hyper-compact Survival Fishing Kit [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ_FZP3BVgpgD64d5mxCR0a4oDNWG8UmfawpDaVnvGtHL-lKvbavURed2j3Wg2NmRg_Ati1AIPm2pmdHzWdF3wpSknyJ6pw_FDRr17yC0KxEyeT41RZOW47OA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0106",
+      "name": "Smart Compass with Augmented Reality Navigation [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRBPskO5nuCdMwiJPi15SKUbxfKRKazyb_J1fO8PSoSe-cV5YoN9Dpp22-RJFbCj0pigKDnFrY1qt1DUxbAxmN4HGWi6sMqz4uEEFSzOCzzwDH4c9TaolJdzw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0107",
+      "name": "Nanotechnology First Aid Kit [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS2nDUPv3mEc7xoAL_ZayjNIFmQ765t3Epqy7d768V6oqAhiKoVcKQqtJebyd83znam8YcRyUo"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0108",
+      "name": "Holographic Emergency Signal Device [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0109",
+      "name": "Portable Solar Energy Converter [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTbYL0yA_Rm3UTLmDh75XvXvNyJr2oKGrGiEalf1G_6DQ5vsOJIyc60crLXX-bGHiUmFtpYxS4fV2tI_E2Ao-wVPeKte8NmvoiOjjzC3bSsZJULYZuzd1o_KQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0110",
+      "name": "Biometric Lockpick Set [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0111",
+      "name": "Futuristic Multi-tool with AI assistant [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQQdYJV39_D8r7CEUMQgJXhfYy_Otp-aU1K8vaNSayOn4P22093LrKsEclaeXP7uXLBiU8W-xXB"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0112",
+      "name": "Solar Powered Electric Lighter [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQqL_wxLkVxQdXgiDSKqgbkmhFRaZzZR4baIlrrUqgU1sC7kKp0agUdOGQmrq-HFsnsC-q8GDL6nzzIEmofmP66txwux1ydv86VL6MGIiYLx8YNyuK4spjd"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0113",
+      "name": "Miniature Drone for Reconnaissance [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ9gViT7tnFTaWzy0TW8G9WOP4KBmUN8mxN4R6yibuJ9T434skyivzIflBwdqLPGAjl0of4JmA6"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0114",
+      "name": "Compact Water Purification Device [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQSfnJ663dwnSo-wnDzCHikKdziArECRBRgrDzneerCn0oUh_NNREdrnx1lFMivVwMu9Xdjm9h07sVCrS3whMvBShK3J-btDfIoDUiSxCSeySf54N6k4otA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0115",
+      "name": "Hyper-compact Survival Fishing Kit [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ_FZP3BVgpgD64d5mxCR0a4oDNWG8UmfawpDaVnvGtHL-lKvbavURed2j3Wg2NmRg_Ati1AIPm2pmdHzWdF3wpSknyJ6pw_FDRr17yC0KxEyeT41RZOW47OA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0116",
+      "name": "Smart Compass with Augmented Reality Navigation [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRBPskO5nuCdMwiJPi15SKUbxfKRKazyb_J1fO8PSoSe-cV5YoN9Dpp22-RJFbCj0pigKDnFrY1qt1DUxbAxmN4HGWi6sMqz4uEEFSzOCzzwDH4c9TaolJdzw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0117",
+      "name": "Nanotechnology First Aid Kit [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS2nDUPv3mEc7xoAL_ZayjNIFmQ765t3Epqy7d768V6oqAhiKoVcKQqtJebyd83znam8YcRyUo"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0118",
+      "name": "Holographic Emergency Signal Device [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0119",
+      "name": "Portable Solar Energy Converter [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTbYL0yA_Rm3UTLmDh75XvXvNyJr2oKGrGiEalf1G_6DQ5vsOJIyc60crLXX-bGHiUmFtpYxS4fV2tI_E2Ao-wVPeKte8NmvoiOjjzC3bSsZJULYZuzd1o_KQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0120",
+      "name": "Biometric Lockpick Set [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    }
+  ],
+  "oracle-ai-core": [
+    {
+      "id": "4XX-0121",
+      "name": "Amazon Echo Show 10 [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ3XNZDx5q0YlOz89POIl-jskyDSBcWW3NZxF7WD9-H-t9dLz07OqQNeSMb8ifrkkzKBgmu-Y_vcawBMf32nj32rWn2PFKhNziwpqe9-fXQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0122",
+      "name": "Google Nest Hub Max [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS2efdn7PeGIF22SALhX7QMxOpuMSMD6ojYAPbgYDMTmwEBM6Vh32uiBujkRvZ9xl-Z0srnqDZg8dmQFtKsFYPxWN-jYFdOd5Kk10sotWuW_U0ypfrKtsl8aA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0123",
+      "name": "Apple HomePod [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRkBp8e9ZhSObpo1E_87jm916MnrybpvDn1SnY4UOTtotir_OxuoO7VMzl9Le1-BkLiLCoFTrtjWBPevcvWe2y4dNThm5nizqr5ehcO405UtUNDeSlHNvFdtw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0124",
+      "name": "Samsung SmartThings Hub [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSp3WqudBDM4Sjlo9T8TMTMjHZ1hbvAXBitpzeYVSdEGjMkMh27tpTqccJCE08Ryyp_MgyPuWOEv-IQOe0jw-k3KwqVCHtwLK8kmurDGT4_bij8pGekKq4X"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0125",
+      "name": "Wink Hub 2 [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTChO_0SPA3jDq5tBLN9Wh_6XEFLmdCEL8TgO7TWFrxGxTleA5q5rWDvMb7J43L7WUFd24wMNYHFmymvVI8t6DgDpL5yk-1NYTmsI4-a9IddG0EuXa2mb6AgCQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0126",
+      "name": "Lenovo Smart Display [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTq3T4_wz7nqZVoT6gv0c6vgpjMzNSzfj_2WFenSJOsp4nAMiYE4rRvvgIr9hD_0utH_kFxIwpHX2lI_eSf2EsUwkbe1BBEeML_kw3suM2poKEq-TDbWvdxvw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0127",
+      "name": "Facebook Portal+ [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQpf5CkIdgLU3vwbb5Izv-EeptGorvnXqZsb_DBREAjBJw3TFsgHuq7htihBGWu4_TjNcfNsRzd3LarHKrKiesH1z1GuJY-kiJ_USlNQMKvivYNc7Wop5KOsKw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0128",
+      "name": "Logitech Harmony Hub [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRK8ZgHsqHnkvhQV6xX3_ZQnCmNShqxSpwZWU5eH7-6B6jQGT8Grfq3Y-f8MkqSopCSKezyHg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0129",
+      "name": "Hubitat Elevation Home Automation Hub [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0130",
+      "name": "Almond 3 Smart Home Hub [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSbrSRzqm23N1Oqq9tVmm6ADAsWvymEJSxpyHF0_IlR8dDGDvJlF0URgzkb8xBLJl8ocbufDHVl2UpjIujziF9LpzZ3CB0lRG2WIcRctScfG4u5DVM89FohnA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0131",
+      "name": "Amazon Echo Show 10 [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ3XNZDx5q0YlOz89POIl-jskyDSBcWW3NZxF7WD9-H-t9dLz07OqQNeSMb8ifrkkzKBgmu-Y_vcawBMf32nj32rWn2PFKhNziwpqe9-fXQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0132",
+      "name": "Google Nest Hub Max [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS2efdn7PeGIF22SALhX7QMxOpuMSMD6ojYAPbgYDMTmwEBM6Vh32uiBujkRvZ9xl-Z0srnqDZg8dmQFtKsFYPxWN-jYFdOd5Kk10sotWuW_U0ypfrKtsl8aA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0133",
+      "name": "Apple HomePod [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRkBp8e9ZhSObpo1E_87jm916MnrybpvDn1SnY4UOTtotir_OxuoO7VMzl9Le1-BkLiLCoFTrtjWBPevcvWe2y4dNThm5nizqr5ehcO405UtUNDeSlHNvFdtw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0134",
+      "name": "Samsung SmartThings Hub [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSp3WqudBDM4Sjlo9T8TMTMjHZ1hbvAXBitpzeYVSdEGjMkMh27tpTqccJCE08Ryyp_MgyPuWOEv-IQOe0jw-k3KwqVCHtwLK8kmurDGT4_bij8pGekKq4X"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0135",
+      "name": "Wink Hub 2 [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTChO_0SPA3jDq5tBLN9Wh_6XEFLmdCEL8TgO7TWFrxGxTleA5q5rWDvMb7J43L7WUFd24wMNYHFmymvVI8t6DgDpL5yk-1NYTmsI4-a9IddG0EuXa2mb6AgCQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0136",
+      "name": "Lenovo Smart Display [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTq3T4_wz7nqZVoT6gv0c6vgpjMzNSzfj_2WFenSJOsp4nAMiYE4rRvvgIr9hD_0utH_kFxIwpHX2lI_eSf2EsUwkbe1BBEeML_kw3suM2poKEq-TDbWvdxvw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0137",
+      "name": "Facebook Portal+ [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQpf5CkIdgLU3vwbb5Izv-EeptGorvnXqZsb_DBREAjBJw3TFsgHuq7htihBGWu4_TjNcfNsRzd3LarHKrKiesH1z1GuJY-kiJ_USlNQMKvivYNc7Wop5KOsKw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0138",
+      "name": "Logitech Harmony Hub [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRK8ZgHsqHnkvhQV6xX3_ZQnCmNShqxSpwZWU5eH7-6B6jQGT8Grfq3Y-f8MkqSopCSKezyHg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0139",
+      "name": "Hubitat Elevation Home Automation Hub [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0140",
+      "name": "Almond 3 Smart Home Hub [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSbrSRzqm23N1Oqq9tVmm6ADAsWvymEJSxpyHF0_IlR8dDGDvJlF0URgzkb8xBLJl8ocbufDHVl2UpjIujziF9LpzZ3CB0lRG2WIcRctScfG4u5DVM89FohnA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0141",
+      "name": "Amazon Echo Show 10 [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ3XNZDx5q0YlOz89POIl-jskyDSBcWW3NZxF7WD9-H-t9dLz07OqQNeSMb8ifrkkzKBgmu-Y_vcawBMf32nj32rWn2PFKhNziwpqe9-fXQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0142",
+      "name": "Google Nest Hub Max [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS2efdn7PeGIF22SALhX7QMxOpuMSMD6ojYAPbgYDMTmwEBM6Vh32uiBujkRvZ9xl-Z0srnqDZg8dmQFtKsFYPxWN-jYFdOd5Kk10sotWuW_U0ypfrKtsl8aA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0143",
+      "name": "Apple HomePod [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRkBp8e9ZhSObpo1E_87jm916MnrybpvDn1SnY4UOTtotir_OxuoO7VMzl9Le1-BkLiLCoFTrtjWBPevcvWe2y4dNThm5nizqr5ehcO405UtUNDeSlHNvFdtw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0144",
+      "name": "Samsung SmartThings Hub [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSp3WqudBDM4Sjlo9T8TMTMjHZ1hbvAXBitpzeYVSdEGjMkMh27tpTqccJCE08Ryyp_MgyPuWOEv-IQOe0jw-k3KwqVCHtwLK8kmurDGT4_bij8pGekKq4X"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0145",
+      "name": "Wink Hub 2 [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTChO_0SPA3jDq5tBLN9Wh_6XEFLmdCEL8TgO7TWFrxGxTleA5q5rWDvMb7J43L7WUFd24wMNYHFmymvVI8t6DgDpL5yk-1NYTmsI4-a9IddG0EuXa2mb6AgCQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0146",
+      "name": "Lenovo Smart Display [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTq3T4_wz7nqZVoT6gv0c6vgpjMzNSzfj_2WFenSJOsp4nAMiYE4rRvvgIr9hD_0utH_kFxIwpHX2lI_eSf2EsUwkbe1BBEeML_kw3suM2poKEq-TDbWvdxvw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0147",
+      "name": "Facebook Portal+ [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQpf5CkIdgLU3vwbb5Izv-EeptGorvnXqZsb_DBREAjBJw3TFsgHuq7htihBGWu4_TjNcfNsRzd3LarHKrKiesH1z1GuJY-kiJ_USlNQMKvivYNc7Wop5KOsKw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0148",
+      "name": "Logitech Harmony Hub [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRK8ZgHsqHnkvhQV6xX3_ZQnCmNShqxSpwZWU5eH7-6B6jQGT8Grfq3Y-f8MkqSopCSKezyHg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0149",
+      "name": "Hubitat Elevation Home Automation Hub [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRtA1WE8M9FOB-rSn9mHbqOZrpr571VQhbW2hWDTG4H9yf71y8kqoY9eDnKgDr9z7-GVYVZRIw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "4XX-0150",
+      "name": "Almond 3 Smart Home Hub [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSbrSRzqm23N1Oqq9tVmm6ADAsWvymEJSxpyHF0_IlR8dDGDvJlF0URgzkb8xBLJl8ocbufDHVl2UpjIujziF9LpzZ3CB0lRG2WIcRctScfG4u5DVM89FohnA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    }
   ]
 };

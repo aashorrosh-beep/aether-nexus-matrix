@@ -5,7 +5,7 @@ import fs from 'fs';
 import path from 'path';
 
 // 🎯 CHANGE THIS NUMBER (1, 2, 3, or 4) TO FIRE THE NEXT PLATOON
-const ACTIVE_PLATOON = 3; 
+const ACTIVE_PLATOON = 4; 
 // ============================================================================
 
 function loadEnv() {
