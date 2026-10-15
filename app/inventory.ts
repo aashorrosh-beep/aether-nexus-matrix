@@ -603,528 +603,2251 @@ export const masterInventory: Record<string, any[]> = {
   ],
   "neo-squish": [
     {
-      "id": "NEXUS-0001",
-      "name": "Neo-Squish Gamified Crate: Unicorn Dreams Edition [MICRO]",
+      "id": "SQSH-0001",
+      "name": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRB4tB6hqSnWVnnwK06sa2vCr9Xi8_UuXqPsJrnT_2gsUWmWmhPEKRTjiGquAmj9j-zry36pK--Yhpdpt9EP5Hj24ZgqMzT4-i97Utwoz5JJophhjqbTkiJPQ",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRB4tB6hqSnWVnnwK06sa2vCr9Xi8_UuXqPsJrnT_2gsUWmWmhPEKRTjiGquAmj9j-zry36pK--Yhpdpt9EP5Hj24ZgqMzT4-i97Utwoz5JJophhjqbTkiJPQ",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRB4tB6hqSnWVnnwK06sa2vCr9Xi8_UuXqPsJrnT_2gsUWmWmhPEKRTjiGquAmj9j-zry36pK--Yhpdpt9EP5Hj24ZgqMzT4-i97Utwoz5JJophhjqbTkiJPQ"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRW-OVV1j4u6XtjAIhX79UR2JfJKuyai8SZaMMF6WsrFU782ZS1Bsygg7TrBhqhP9HukqltvG8"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Mystery Box - Entry Level",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
         "shipping": "Tiered Tracked Shipping ($1.99)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0002",
-      "name": "Neo-Squish Gamified Crate: Jungle Safari Edition [MICRO]",
+      "id": "SQSH-0002",
+      "name": "Neo-Squish Mystery Crate: Rainbow Butterfly Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQz4B_LvM9TOYXPQhCfheeyWKdukJtS8367U6h8BcPp2x2fETnQAh9aTd_wmnIPkDkifYjoTa9Ld-j9PRX5PHYlV7uEd9HFHnhbz0T2a3fO",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQz4B_LvM9TOYXPQhCfheeyWKdukJtS8367U6h8BcPp2x2fETnQAh9aTd_wmnIPkDkifYjoTa9Ld-j9PRX5PHYlV7uEd9HFHnhbz0T2a3fO",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQz4B_LvM9TOYXPQhCfheeyWKdukJtS8367U6h8BcPp2x2fETnQAh9aTd_wmnIPkDkifYjoTa9Ld-j9PRX5PHYlV7uEd9HFHnhbz0T2a3fO"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSD4Ej_M_Ii0l6cZv3baHrWOiO-EspWQVD_9tGmYGEOExer7cxpfa7ZDrl6OnnUy2pvZiw8D5A16pE1RxMKbcPlmJmr3xpwYOlRmjqPhP1dU_UsjUtQhDN"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Mystery Box - Entry Level",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
         "shipping": "Tiered Tracked Shipping ($1.99)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0003",
-      "name": "Neo-Squish Gamified Crate: Underwater Adventure Edition [MICRO]",
+      "id": "SQSH-0003",
+      "name": "Neo-Squish Mystery Crate: Holiday Reindeer Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800",
-        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800",
-        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ06xONZAGm-6O4jyCHYUkEF19E_kpj27BVaTLOgi8BB5UZFIFIwJMvaFWW7-P5I_ljbfEnUiQGEsJekypVfJhZ_X0d9UI5oWtppSQ6CmU"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Mystery Box - Entry Level",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
         "shipping": "Tiered Tracked Shipping ($1.99)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0004",
-      "name": "Neo-Squish Gamified Crate: Spooky Halloween Edition [MICRO]",
+      "id": "SQSH-0004",
+      "name": "Neo-Squish Mystery Crate: Space Narwhal Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSfodAqcO7EqGNRKbwddb8IOtkGTTAgu4VsY89dXLrfLdY6r5GNcAua9aC6u1RYfThtji2k-qO3ic6rkcVfkiyqSXHhd8ZYRx6xfVHYBGbbtwXWxipIhm_faQ",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSfodAqcO7EqGNRKbwddb8IOtkGTTAgu4VsY89dXLrfLdY6r5GNcAua9aC6u1RYfThtji2k-qO3ic6rkcVfkiyqSXHhd8ZYRx6xfVHYBGbbtwXWxipIhm_faQ",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSfodAqcO7EqGNRKbwddb8IOtkGTTAgu4VsY89dXLrfLdY6r5GNcAua9aC6u1RYfThtji2k-qO3ic6rkcVfkiyqSXHhd8ZYRx6xfVHYBGbbtwXWxipIhm_faQ"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ09BT2Vjs_fexHXN6mIfRfzGwfltyjxWBxTuAIWirILaL9JCvopSDl7AZKRSwvZ9pE6uNfdO0SQosC7TTd4rukG2ocwUoCaDX2PLoOaO3"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Mystery Box - Entry Level",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
         "shipping": "Tiered Tracked Shipping ($1.99)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0005",
-      "name": "Neo-Squish Gamified Crate: Christmas Wonderland Edition [MICRO]",
+      "id": "SQSH-0005",
+      "name": "Neo-Squish Mystery Crate: Cosmic Dragon Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQNaWJtwtDjVMcfwAK1W2M3JHI8rZMIqu2oJ9weRUpRTycS9pxQXGVKe1eXLHJVPD-KEuD6paq4ulSZRhCgtQ4PQMHfA6VbSRxGShkEJcRz",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQNaWJtwtDjVMcfwAK1W2M3JHI8rZMIqu2oJ9weRUpRTycS9pxQXGVKe1eXLHJVPD-KEuD6paq4ulSZRhCgtQ4PQMHfA6VbSRxGShkEJcRz",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQNaWJtwtDjVMcfwAK1W2M3JHI8rZMIqu2oJ9weRUpRTycS9pxQXGVKe1eXLHJVPD-KEuD6paq4ulSZRhCgtQ4PQMHfA6VbSRxGShkEJcRz"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJqKadusJ-4Kx3lKzpVJQG_wwLjpgAY__reI_SlRy4hVb29mk8Jv5zdso9kR5BZtuCO0TsiMmWhn1UUddv_bken5DBM-MEMH5Oo_j7RiVGP8uNMYZ6m3PDwQ"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Mystery Box - Entry Level",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
         "shipping": "Tiered Tracked Shipping ($1.99)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0006",
-      "name": "Neo-Squish Gamified Crate: Springtime Garden Edition [MICRO]",
+      "id": "SQSH-0006",
+      "name": "Neo-Squish Mystery Crate: Valentine’s Day Panda Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTvISeDYpoRWRU6uq4FOyr7zG6PldITLrvn_Z541wZYPEewVXK7yQHgLdlG8RmdrFvrkt3x61EsqqL0cBHP1hLJRIOTnvLMqCbbMMNRDeIC6tgMAuQ2gQOhhg",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTvISeDYpoRWRU6uq4FOyr7zG6PldITLrvn_Z541wZYPEewVXK7yQHgLdlG8RmdrFvrkt3x61EsqqL0cBHP1hLJRIOTnvLMqCbbMMNRDeIC6tgMAuQ2gQOhhg",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTvISeDYpoRWRU6uq4FOyr7zG6PldITLrvn_Z541wZYPEewVXK7yQHgLdlG8RmdrFvrkt3x61EsqqL0cBHP1hLJRIOTnvLMqCbbMMNRDeIC6tgMAuQ2gQOhhg"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_cXiuT16JWEsQRAwd-iGwNmsC1UNM2p1bgZXG8GkGhz5yYugC0fiXKjBqPvI5jIUNadvTevKL35mARwWs6TFnX86KbtoqgShbd08p0muX"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Mystery Box - Entry Level",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
         "shipping": "Tiered Tracked Shipping ($1.99)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0007",
-      "name": "Neo-Squish Gamified Crate: Galactic Axolotl Edition [MICRO]",
+      "id": "SQSH-0007",
+      "name": "Neo-Squish Mystery Crate: Easter Bunny Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT7rLvddboAa3qv1kEooM_HG5W-XapMDMi7kFWwLZyVc3mTq7x_kHcc1W8b_7fVlfntaGr0yRooPpT0C_zCkArPGVpMJ1XceKlOJaBi4dgT6kisKHKAmKsITg",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT7rLvddboAa3qv1kEooM_HG5W-XapMDMi7kFWwLZyVc3mTq7x_kHcc1W8b_7fVlfntaGr0yRooPpT0C_zCkArPGVpMJ1XceKlOJaBi4dgT6kisKHKAmKsITg",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT7rLvddboAa3qv1kEooM_HG5W-XapMDMi7kFWwLZyVc3mTq7x_kHcc1W8b_7fVlfntaGr0yRooPpT0C_zCkArPGVpMJ1XceKlOJaBi4dgT6kisKHKAmKsITg"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ8lNJvUJX52a1AWsiIbqnmai-aTXmtU6V6TzkvhBf7RlOAfBQlRJfPO7N3HLm468ZYMrCy5TI7LGYGhW_GDK-EiIOUH_9wGowjzWr6VOEZnzalqki80MdJQ"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Mystery Box - Entry Level",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
         "shipping": "Tiered Tracked Shipping ($1.99)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0008",
-      "name": "Neo-Squish Gamified Crate: Fantasy Dragons Edition [MICRO]",
+      "id": "SQSH-0008",
+      "name": "Neo-Squish Mystery Crate: St. Patrick’s Day Frog Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSljyjIBTpTrWgCdNwKyhWdYdR8wxiSDJGU4b1-Bs064kQ_rRzHO9_C8XOvkEco-B_cWtAWCZUaQxUkjB_2pFYi4qOPvfMBk6bcUj1V2CsZAacAljB46e_6",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSljyjIBTpTrWgCdNwKyhWdYdR8wxiSDJGU4b1-Bs064kQ_rRzHO9_C8XOvkEco-B_cWtAWCZUaQxUkjB_2pFYi4qOPvfMBk6bcUj1V2CsZAacAljB46e_6",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSljyjIBTpTrWgCdNwKyhWdYdR8wxiSDJGU4b1-Bs064kQ_rRzHO9_C8XOvkEco-B_cWtAWCZUaQxUkjB_2pFYi4qOPvfMBk6bcUj1V2CsZAacAljB46e_6"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6KRgGUuYBv8xT232yDs0tgv3Jvke_GJsJn7rtaReTl5TpoZ25ytPoDMAktqfhcb70CY5eJv0_34BUbMVU6qbpd4lrnsJYfZcNF9RbPQ930qe2tgSoMPrU"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Mystery Box - Entry Level",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
         "shipping": "Tiered Tracked Shipping ($1.99)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0009",
-      "name": "Neo-Squish Gamified Crate: Winter Wonderland Edition [MICRO]",
+      "id": "SQSH-0009",
+      "name": "Neo-Squish Mystery Crate: Summer Flamingo Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800",
-        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800",
-        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMkGmYBwjDDxv1-w8mXrSIq6iGDtwv5vVez0tzpFY7KIAh6dRAr-nx1tdIfJxvRDpKX1k1BArMTlEL8n2I6IuoHYMelCCXHb4Q-qL1q57jyTW08awQ8s3-"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Mystery Box - Entry Level",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
         "shipping": "Tiered Tracked Shipping ($1.99)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0010",
-      "name": "Neo-Squish Gamified Crate: Dessert Delights Edition [MICRO]",
+      "id": "SQSH-0010",
+      "name": "Neo-Squish Mystery Crate: Halloween Ghost Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800",
-        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800",
-        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQrhDoDLiEC1zqHfcI80wyk2J4YI5hapGnAXJ6IKLmy3OtoY0OigztbTlAmHLqn9oMKPvub-V98IaWuvKy6wJj8Vv5K9mRzkhtjO64hh-M"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Mystery Box - Entry Level",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
         "shipping": "Tiered Tracked Shipping ($1.99)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0011",
-      "name": "Neo-Squish Gamified Crate: Unicorn Dreams Edition [COMMON]",
-      "price": "$19.99",
+      "id": "SQSH-0011",
+      "name": "Neo-Squish Mystery Crate: Autumn Fox Edition [MICRO]",
+      "price": "$9.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRB4tB6hqSnWVnnwK06sa2vCr9Xi8_UuXqPsJrnT_2gsUWmWmhPEKRTjiGquAmj9j-zry36pK--Yhpdpt9EP5Hj24ZgqMzT4-i97Utwoz5JJophhjqbTkiJPQ",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRB4tB6hqSnWVnnwK06sa2vCr9Xi8_UuXqPsJrnT_2gsUWmWmhPEKRTjiGquAmj9j-zry36pK--Yhpdpt9EP5Hj24ZgqMzT4-i97Utwoz5JJophhjqbTkiJPQ",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRB4tB6hqSnWVnnwK06sa2vCr9Xi8_UuXqPsJrnT_2gsUWmWmhPEKRTjiGquAmj9j-zry36pK--Yhpdpt9EP5Hj24ZgqMzT4-i97Utwoz5JJophhjqbTkiJPQ"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ1ub6wsv_VU6ByPOZgGSiQ8DDUpEIWgjBU0zql4vfEMqSC6TUou0R1zutQlE2txT2UPD9ZiECLhIPZBsuy-LHGZN9VOyYAA1OqBNQBGcOY"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Mystery Box - Common Pull",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0012",
+      "name": "Neo-Squish Mystery Crate: Winter Penguin Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSbt9esk1cXSF8UWO8bqzXYaeaQPbXSBIK4Wzb6lZzYJQ97uZVPBT51zsmOU-79V6WNoxkEHX4WAL0GkKhJIKTYUyhhBKDdLjX88f_Zd6Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0013",
+      "name": "Neo-Squish Mystery Crate: Ocean Seahorse Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRrcr39r4yiWq9wKxlLpLPoa--QFmqTj9utYJwIphEiC1selaw-QIzeTeBNTKJBN-XcgoA4JffP0yc-SFxWbkH00g41JFAIwFoEcttK4XcNTTG4nbwjm6dzhA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0014",
+      "name": "Neo-Squish Mystery Crate: Safari Elephant Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrLLVLIwG4UO3K3-tXw9FERcUBee-94FIiyNjlvRRxfAeS5Y63dVa_SAkMjPHx-sONXLKjlmxZWJRJTArw1PgxV40brhiKiyI-OM1w_Ik2"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0015",
+      "name": "Neo-Squish Mystery Crate: Superhero Koala Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT0LA0p_x_z8iKT7N5XqGXpLN0UvsJaqGJv4DiT8FhnxXHckM0_Y-LJLasdev_0L_ub6bzpEjXpBBwrpyljlGuttJ3jpBYc3JzLmOYjZxgziPNikVvxXxlLGg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0016",
+      "name": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRW-OVV1j4u6XtjAIhX79UR2JfJKuyai8SZaMMF6WsrFU782ZS1Bsygg7TrBhqhP9HukqltvG8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0017",
+      "name": "Neo-Squish Mystery Crate: Rainbow Butterfly Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSD4Ej_M_Ii0l6cZv3baHrWOiO-EspWQVD_9tGmYGEOExer7cxpfa7ZDrl6OnnUy2pvZiw8D5A16pE1RxMKbcPlmJmr3xpwYOlRmjqPhP1dU_UsjUtQhDN"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0018",
+      "name": "Neo-Squish Mystery Crate: Holiday Reindeer Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ06xONZAGm-6O4jyCHYUkEF19E_kpj27BVaTLOgi8BB5UZFIFIwJMvaFWW7-P5I_ljbfEnUiQGEsJekypVfJhZ_X0d9UI5oWtppSQ6CmU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0019",
+      "name": "Neo-Squish Mystery Crate: Space Narwhal Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ09BT2Vjs_fexHXN6mIfRfzGwfltyjxWBxTuAIWirILaL9JCvopSDl7AZKRSwvZ9pE6uNfdO0SQosC7TTd4rukG2ocwUoCaDX2PLoOaO3"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0020",
+      "name": "Neo-Squish Mystery Crate: Cosmic Dragon Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJqKadusJ-4Kx3lKzpVJQG_wwLjpgAY__reI_SlRy4hVb29mk8Jv5zdso9kR5BZtuCO0TsiMmWhn1UUddv_bken5DBM-MEMH5Oo_j7RiVGP8uNMYZ6m3PDwQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0021",
+      "name": "Neo-Squish Mystery Crate: Valentine’s Day Panda Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_cXiuT16JWEsQRAwd-iGwNmsC1UNM2p1bgZXG8GkGhz5yYugC0fiXKjBqPvI5jIUNadvTevKL35mARwWs6TFnX86KbtoqgShbd08p0muX"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0022",
+      "name": "Neo-Squish Mystery Crate: Easter Bunny Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ8lNJvUJX52a1AWsiIbqnmai-aTXmtU6V6TzkvhBf7RlOAfBQlRJfPO7N3HLm468ZYMrCy5TI7LGYGhW_GDK-EiIOUH_9wGowjzWr6VOEZnzalqki80MdJQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0023",
+      "name": "Neo-Squish Mystery Crate: St. Patrick’s Day Frog Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6KRgGUuYBv8xT232yDs0tgv3Jvke_GJsJn7rtaReTl5TpoZ25ytPoDMAktqfhcb70CY5eJv0_34BUbMVU6qbpd4lrnsJYfZcNF9RbPQ930qe2tgSoMPrU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0024",
+      "name": "Neo-Squish Mystery Crate: Summer Flamingo Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMkGmYBwjDDxv1-w8mXrSIq6iGDtwv5vVez0tzpFY7KIAh6dRAr-nx1tdIfJxvRDpKX1k1BArMTlEL8n2I6IuoHYMelCCXHb4Q-qL1q57jyTW08awQ8s3-"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0025",
+      "name": "Neo-Squish Mystery Crate: Halloween Ghost Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQrhDoDLiEC1zqHfcI80wyk2J4YI5hapGnAXJ6IKLmy3OtoY0OigztbTlAmHLqn9oMKPvub-V98IaWuvKy6wJj8Vv5K9mRzkhtjO64hh-M"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0026",
+      "name": "Neo-Squish Mystery Crate: Autumn Fox Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ1ub6wsv_VU6ByPOZgGSiQ8DDUpEIWgjBU0zql4vfEMqSC6TUou0R1zutQlE2txT2UPD9ZiECLhIPZBsuy-LHGZN9VOyYAA1OqBNQBGcOY"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0027",
+      "name": "Neo-Squish Mystery Crate: Winter Penguin Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSbt9esk1cXSF8UWO8bqzXYaeaQPbXSBIK4Wzb6lZzYJQ97uZVPBT51zsmOU-79V6WNoxkEHX4WAL0GkKhJIKTYUyhhBKDdLjX88f_Zd6Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0028",
+      "name": "Neo-Squish Mystery Crate: Ocean Seahorse Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRrcr39r4yiWq9wKxlLpLPoa--QFmqTj9utYJwIphEiC1selaw-QIzeTeBNTKJBN-XcgoA4JffP0yc-SFxWbkH00g41JFAIwFoEcttK4XcNTTG4nbwjm6dzhA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0029",
+      "name": "Neo-Squish Mystery Crate: Safari Elephant Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrLLVLIwG4UO3K3-tXw9FERcUBee-94FIiyNjlvRRxfAeS5Y63dVa_SAkMjPHx-sONXLKjlmxZWJRJTArw1PgxV40brhiKiyI-OM1w_Ik2"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0030",
+      "name": "Neo-Squish Mystery Crate: Superhero Koala Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT0LA0p_x_z8iKT7N5XqGXpLN0UvsJaqGJv4DiT8FhnxXHckM0_Y-LJLasdev_0L_ub6bzpEjXpBBwrpyljlGuttJ3jpBYc3JzLmOYjZxgziPNikVvxXxlLGg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0031",
+      "name": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRW-OVV1j4u6XtjAIhX79UR2JfJKuyai8SZaMMF6WsrFU782ZS1Bsygg7TrBhqhP9HukqltvG8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0032",
+      "name": "Neo-Squish Mystery Crate: Rainbow Butterfly Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSD4Ej_M_Ii0l6cZv3baHrWOiO-EspWQVD_9tGmYGEOExer7cxpfa7ZDrl6OnnUy2pvZiw8D5A16pE1RxMKbcPlmJmr3xpwYOlRmjqPhP1dU_UsjUtQhDN"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0033",
+      "name": "Neo-Squish Mystery Crate: Holiday Reindeer Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ06xONZAGm-6O4jyCHYUkEF19E_kpj27BVaTLOgi8BB5UZFIFIwJMvaFWW7-P5I_ljbfEnUiQGEsJekypVfJhZ_X0d9UI5oWtppSQ6CmU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0034",
+      "name": "Neo-Squish Mystery Crate: Space Narwhal Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ09BT2Vjs_fexHXN6mIfRfzGwfltyjxWBxTuAIWirILaL9JCvopSDl7AZKRSwvZ9pE6uNfdO0SQosC7TTd4rukG2ocwUoCaDX2PLoOaO3"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0035",
+      "name": "Neo-Squish Mystery Crate: Cosmic Dragon Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJqKadusJ-4Kx3lKzpVJQG_wwLjpgAY__reI_SlRy4hVb29mk8Jv5zdso9kR5BZtuCO0TsiMmWhn1UUddv_bken5DBM-MEMH5Oo_j7RiVGP8uNMYZ6m3PDwQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0036",
+      "name": "Neo-Squish Mystery Crate: Valentine’s Day Panda Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_cXiuT16JWEsQRAwd-iGwNmsC1UNM2p1bgZXG8GkGhz5yYugC0fiXKjBqPvI5jIUNadvTevKL35mARwWs6TFnX86KbtoqgShbd08p0muX"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0037",
+      "name": "Neo-Squish Mystery Crate: Easter Bunny Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ8lNJvUJX52a1AWsiIbqnmai-aTXmtU6V6TzkvhBf7RlOAfBQlRJfPO7N3HLm468ZYMrCy5TI7LGYGhW_GDK-EiIOUH_9wGowjzWr6VOEZnzalqki80MdJQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0038",
+      "name": "Neo-Squish Mystery Crate: St. Patrick’s Day Frog Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6KRgGUuYBv8xT232yDs0tgv3Jvke_GJsJn7rtaReTl5TpoZ25ytPoDMAktqfhcb70CY5eJv0_34BUbMVU6qbpd4lrnsJYfZcNF9RbPQ930qe2tgSoMPrU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0039",
+      "name": "Neo-Squish Mystery Crate: Summer Flamingo Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMkGmYBwjDDxv1-w8mXrSIq6iGDtwv5vVez0tzpFY7KIAh6dRAr-nx1tdIfJxvRDpKX1k1BArMTlEL8n2I6IuoHYMelCCXHb4Q-qL1q57jyTW08awQ8s3-"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0040",
+      "name": "Neo-Squish Mystery Crate: Halloween Ghost Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQrhDoDLiEC1zqHfcI80wyk2J4YI5hapGnAXJ6IKLmy3OtoY0OigztbTlAmHLqn9oMKPvub-V98IaWuvKy6wJj8Vv5K9mRzkhtjO64hh-M"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0041",
+      "name": "Neo-Squish Mystery Crate: Autumn Fox Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ1ub6wsv_VU6ByPOZgGSiQ8DDUpEIWgjBU0zql4vfEMqSC6TUou0R1zutQlE2txT2UPD9ZiECLhIPZBsuy-LHGZN9VOyYAA1OqBNQBGcOY"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0042",
+      "name": "Neo-Squish Mystery Crate: Winter Penguin Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSbt9esk1cXSF8UWO8bqzXYaeaQPbXSBIK4Wzb6lZzYJQ97uZVPBT51zsmOU-79V6WNoxkEHX4WAL0GkKhJIKTYUyhhBKDdLjX88f_Zd6Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0043",
+      "name": "Neo-Squish Mystery Crate: Ocean Seahorse Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRrcr39r4yiWq9wKxlLpLPoa--QFmqTj9utYJwIphEiC1selaw-QIzeTeBNTKJBN-XcgoA4JffP0yc-SFxWbkH00g41JFAIwFoEcttK4XcNTTG4nbwjm6dzhA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0044",
+      "name": "Neo-Squish Mystery Crate: Safari Elephant Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrLLVLIwG4UO3K3-tXw9FERcUBee-94FIiyNjlvRRxfAeS5Y63dVa_SAkMjPHx-sONXLKjlmxZWJRJTArw1PgxV40brhiKiyI-OM1w_Ik2"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0045",
+      "name": "Neo-Squish Mystery Crate: Superhero Koala Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT0LA0p_x_z8iKT7N5XqGXpLN0UvsJaqGJv4DiT8FhnxXHckM0_Y-LJLasdev_0L_ub6bzpEjXpBBwrpyljlGuttJ3jpBYc3JzLmOYjZxgziPNikVvxXxlLGg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0046",
+      "name": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRW-OVV1j4u6XtjAIhX79UR2JfJKuyai8SZaMMF6WsrFU782ZS1Bsygg7TrBhqhP9HukqltvG8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0047",
+      "name": "Neo-Squish Mystery Crate: Rainbow Butterfly Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSD4Ej_M_Ii0l6cZv3baHrWOiO-EspWQVD_9tGmYGEOExer7cxpfa7ZDrl6OnnUy2pvZiw8D5A16pE1RxMKbcPlmJmr3xpwYOlRmjqPhP1dU_UsjUtQhDN"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0048",
+      "name": "Neo-Squish Mystery Crate: Holiday Reindeer Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ06xONZAGm-6O4jyCHYUkEF19E_kpj27BVaTLOgi8BB5UZFIFIwJMvaFWW7-P5I_ljbfEnUiQGEsJekypVfJhZ_X0d9UI5oWtppSQ6CmU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0049",
+      "name": "Neo-Squish Mystery Crate: Space Narwhal Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ09BT2Vjs_fexHXN6mIfRfzGwfltyjxWBxTuAIWirILaL9JCvopSDl7AZKRSwvZ9pE6uNfdO0SQosC7TTd4rukG2ocwUoCaDX2PLoOaO3"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0050",
+      "name": "Neo-Squish Mystery Crate: Cosmic Dragon Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJqKadusJ-4Kx3lKzpVJQG_wwLjpgAY__reI_SlRy4hVb29mk8Jv5zdso9kR5BZtuCO0TsiMmWhn1UUddv_bken5DBM-MEMH5Oo_j7RiVGP8uNMYZ6m3PDwQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0051",
+      "name": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRW-OVV1j4u6XtjAIhX79UR2JfJKuyai8SZaMMF6WsrFU782ZS1Bsygg7TrBhqhP9HukqltvG8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
         "shipping": "Tiered Tracked Shipping ($2.50)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0012",
-      "name": "Neo-Squish Gamified Crate: Jungle Safari Edition [COMMON]",
+      "id": "SQSH-0052",
+      "name": "Neo-Squish Mystery Crate: Rainbow Butterfly Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQz4B_LvM9TOYXPQhCfheeyWKdukJtS8367U6h8BcPp2x2fETnQAh9aTd_wmnIPkDkifYjoTa9Ld-j9PRX5PHYlV7uEd9HFHnhbz0T2a3fO",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQz4B_LvM9TOYXPQhCfheeyWKdukJtS8367U6h8BcPp2x2fETnQAh9aTd_wmnIPkDkifYjoTa9Ld-j9PRX5PHYlV7uEd9HFHnhbz0T2a3fO",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQz4B_LvM9TOYXPQhCfheeyWKdukJtS8367U6h8BcPp2x2fETnQAh9aTd_wmnIPkDkifYjoTa9Ld-j9PRX5PHYlV7uEd9HFHnhbz0T2a3fO"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSD4Ej_M_Ii0l6cZv3baHrWOiO-EspWQVD_9tGmYGEOExer7cxpfa7ZDrl6OnnUy2pvZiw8D5A16pE1RxMKbcPlmJmr3xpwYOlRmjqPhP1dU_UsjUtQhDN"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Mystery Box - Common Pull",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
         "shipping": "Tiered Tracked Shipping ($2.50)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0013",
-      "name": "Neo-Squish Gamified Crate: Underwater Adventure Edition [COMMON]",
+      "id": "SQSH-0053",
+      "name": "Neo-Squish Mystery Crate: Holiday Reindeer Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800",
-        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800",
-        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ06xONZAGm-6O4jyCHYUkEF19E_kpj27BVaTLOgi8BB5UZFIFIwJMvaFWW7-P5I_ljbfEnUiQGEsJekypVfJhZ_X0d9UI5oWtppSQ6CmU"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Mystery Box - Common Pull",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
         "shipping": "Tiered Tracked Shipping ($2.50)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0014",
-      "name": "Neo-Squish Gamified Crate: Spooky Halloween Edition [COMMON]",
+      "id": "SQSH-0054",
+      "name": "Neo-Squish Mystery Crate: Space Narwhal Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSfodAqcO7EqGNRKbwddb8IOtkGTTAgu4VsY89dXLrfLdY6r5GNcAua9aC6u1RYfThtji2k-qO3ic6rkcVfkiyqSXHhd8ZYRx6xfVHYBGbbtwXWxipIhm_faQ",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSfodAqcO7EqGNRKbwddb8IOtkGTTAgu4VsY89dXLrfLdY6r5GNcAua9aC6u1RYfThtji2k-qO3ic6rkcVfkiyqSXHhd8ZYRx6xfVHYBGbbtwXWxipIhm_faQ",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSfodAqcO7EqGNRKbwddb8IOtkGTTAgu4VsY89dXLrfLdY6r5GNcAua9aC6u1RYfThtji2k-qO3ic6rkcVfkiyqSXHhd8ZYRx6xfVHYBGbbtwXWxipIhm_faQ"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ09BT2Vjs_fexHXN6mIfRfzGwfltyjxWBxTuAIWirILaL9JCvopSDl7AZKRSwvZ9pE6uNfdO0SQosC7TTd4rukG2ocwUoCaDX2PLoOaO3"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Mystery Box - Common Pull",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
         "shipping": "Tiered Tracked Shipping ($2.50)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0015",
-      "name": "Neo-Squish Gamified Crate: Christmas Wonderland Edition [COMMON]",
+      "id": "SQSH-0055",
+      "name": "Neo-Squish Mystery Crate: Cosmic Dragon Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQNaWJtwtDjVMcfwAK1W2M3JHI8rZMIqu2oJ9weRUpRTycS9pxQXGVKe1eXLHJVPD-KEuD6paq4ulSZRhCgtQ4PQMHfA6VbSRxGShkEJcRz",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQNaWJtwtDjVMcfwAK1W2M3JHI8rZMIqu2oJ9weRUpRTycS9pxQXGVKe1eXLHJVPD-KEuD6paq4ulSZRhCgtQ4PQMHfA6VbSRxGShkEJcRz",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQNaWJtwtDjVMcfwAK1W2M3JHI8rZMIqu2oJ9weRUpRTycS9pxQXGVKe1eXLHJVPD-KEuD6paq4ulSZRhCgtQ4PQMHfA6VbSRxGShkEJcRz"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJqKadusJ-4Kx3lKzpVJQG_wwLjpgAY__reI_SlRy4hVb29mk8Jv5zdso9kR5BZtuCO0TsiMmWhn1UUddv_bken5DBM-MEMH5Oo_j7RiVGP8uNMYZ6m3PDwQ"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Mystery Box - Common Pull",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
         "shipping": "Tiered Tracked Shipping ($2.50)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0016",
-      "name": "Neo-Squish Gamified Crate: Springtime Garden Edition [COMMON]",
+      "id": "SQSH-0056",
+      "name": "Neo-Squish Mystery Crate: Valentine’s Day Panda Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTvISeDYpoRWRU6uq4FOyr7zG6PldITLrvn_Z541wZYPEewVXK7yQHgLdlG8RmdrFvrkt3x61EsqqL0cBHP1hLJRIOTnvLMqCbbMMNRDeIC6tgMAuQ2gQOhhg",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTvISeDYpoRWRU6uq4FOyr7zG6PldITLrvn_Z541wZYPEewVXK7yQHgLdlG8RmdrFvrkt3x61EsqqL0cBHP1hLJRIOTnvLMqCbbMMNRDeIC6tgMAuQ2gQOhhg",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTvISeDYpoRWRU6uq4FOyr7zG6PldITLrvn_Z541wZYPEewVXK7yQHgLdlG8RmdrFvrkt3x61EsqqL0cBHP1hLJRIOTnvLMqCbbMMNRDeIC6tgMAuQ2gQOhhg"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_cXiuT16JWEsQRAwd-iGwNmsC1UNM2p1bgZXG8GkGhz5yYugC0fiXKjBqPvI5jIUNadvTevKL35mARwWs6TFnX86KbtoqgShbd08p0muX"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Mystery Box - Common Pull",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
         "shipping": "Tiered Tracked Shipping ($2.50)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0017",
-      "name": "Neo-Squish Gamified Crate: Galactic Axolotl Edition [COMMON]",
+      "id": "SQSH-0057",
+      "name": "Neo-Squish Mystery Crate: Easter Bunny Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT7rLvddboAa3qv1kEooM_HG5W-XapMDMi7kFWwLZyVc3mTq7x_kHcc1W8b_7fVlfntaGr0yRooPpT0C_zCkArPGVpMJ1XceKlOJaBi4dgT6kisKHKAmKsITg",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT7rLvddboAa3qv1kEooM_HG5W-XapMDMi7kFWwLZyVc3mTq7x_kHcc1W8b_7fVlfntaGr0yRooPpT0C_zCkArPGVpMJ1XceKlOJaBi4dgT6kisKHKAmKsITg",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT7rLvddboAa3qv1kEooM_HG5W-XapMDMi7kFWwLZyVc3mTq7x_kHcc1W8b_7fVlfntaGr0yRooPpT0C_zCkArPGVpMJ1XceKlOJaBi4dgT6kisKHKAmKsITg"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ8lNJvUJX52a1AWsiIbqnmai-aTXmtU6V6TzkvhBf7RlOAfBQlRJfPO7N3HLm468ZYMrCy5TI7LGYGhW_GDK-EiIOUH_9wGowjzWr6VOEZnzalqki80MdJQ"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Mystery Box - Common Pull",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
         "shipping": "Tiered Tracked Shipping ($2.50)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0018",
-      "name": "Neo-Squish Gamified Crate: Fantasy Dragons Edition [COMMON]",
+      "id": "SQSH-0058",
+      "name": "Neo-Squish Mystery Crate: St. Patrick’s Day Frog Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSljyjIBTpTrWgCdNwKyhWdYdR8wxiSDJGU4b1-Bs064kQ_rRzHO9_C8XOvkEco-B_cWtAWCZUaQxUkjB_2pFYi4qOPvfMBk6bcUj1V2CsZAacAljB46e_6",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSljyjIBTpTrWgCdNwKyhWdYdR8wxiSDJGU4b1-Bs064kQ_rRzHO9_C8XOvkEco-B_cWtAWCZUaQxUkjB_2pFYi4qOPvfMBk6bcUj1V2CsZAacAljB46e_6",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSljyjIBTpTrWgCdNwKyhWdYdR8wxiSDJGU4b1-Bs064kQ_rRzHO9_C8XOvkEco-B_cWtAWCZUaQxUkjB_2pFYi4qOPvfMBk6bcUj1V2CsZAacAljB46e_6"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6KRgGUuYBv8xT232yDs0tgv3Jvke_GJsJn7rtaReTl5TpoZ25ytPoDMAktqfhcb70CY5eJv0_34BUbMVU6qbpd4lrnsJYfZcNF9RbPQ930qe2tgSoMPrU"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Mystery Box - Common Pull",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
         "shipping": "Tiered Tracked Shipping ($2.50)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0019",
-      "name": "Neo-Squish Gamified Crate: Winter Wonderland Edition [COMMON]",
+      "id": "SQSH-0059",
+      "name": "Neo-Squish Mystery Crate: Summer Flamingo Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800",
-        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800",
-        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMkGmYBwjDDxv1-w8mXrSIq6iGDtwv5vVez0tzpFY7KIAh6dRAr-nx1tdIfJxvRDpKX1k1BArMTlEL8n2I6IuoHYMelCCXHb4Q-qL1q57jyTW08awQ8s3-"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Mystery Box - Common Pull",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
         "shipping": "Tiered Tracked Shipping ($2.50)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0020",
-      "name": "Neo-Squish Gamified Crate: Dessert Delights Edition [COMMON]",
+      "id": "SQSH-0060",
+      "name": "Neo-Squish Mystery Crate: Halloween Ghost Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800",
-        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800",
-        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQrhDoDLiEC1zqHfcI80wyk2J4YI5hapGnAXJ6IKLmy3OtoY0OigztbTlAmHLqn9oMKPvub-V98IaWuvKy6wJj8Vv5K9mRzkhtjO64hh-M"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Mystery Box - Common Pull",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
         "shipping": "Tiered Tracked Shipping ($2.50)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0021",
-      "name": "Neo-Squish Gamified Crate: Unicorn Dreams Edition [UNCOMMON]",
+      "id": "SQSH-0061",
+      "name": "Neo-Squish Mystery Crate: Autumn Fox Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ1ub6wsv_VU6ByPOZgGSiQ8DDUpEIWgjBU0zql4vfEMqSC6TUou0R1zutQlE2txT2UPD9ZiECLhIPZBsuy-LHGZN9VOyYAA1OqBNQBGcOY"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0062",
+      "name": "Neo-Squish Mystery Crate: Winter Penguin Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSbt9esk1cXSF8UWO8bqzXYaeaQPbXSBIK4Wzb6lZzYJQ97uZVPBT51zsmOU-79V6WNoxkEHX4WAL0GkKhJIKTYUyhhBKDdLjX88f_Zd6Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0063",
+      "name": "Neo-Squish Mystery Crate: Ocean Seahorse Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRrcr39r4yiWq9wKxlLpLPoa--QFmqTj9utYJwIphEiC1selaw-QIzeTeBNTKJBN-XcgoA4JffP0yc-SFxWbkH00g41JFAIwFoEcttK4XcNTTG4nbwjm6dzhA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0064",
+      "name": "Neo-Squish Mystery Crate: Safari Elephant Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrLLVLIwG4UO3K3-tXw9FERcUBee-94FIiyNjlvRRxfAeS5Y63dVa_SAkMjPHx-sONXLKjlmxZWJRJTArw1PgxV40brhiKiyI-OM1w_Ik2"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0065",
+      "name": "Neo-Squish Mystery Crate: Superhero Koala Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT0LA0p_x_z8iKT7N5XqGXpLN0UvsJaqGJv4DiT8FhnxXHckM0_Y-LJLasdev_0L_ub6bzpEjXpBBwrpyljlGuttJ3jpBYc3JzLmOYjZxgziPNikVvxXxlLGg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0066",
+      "name": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRW-OVV1j4u6XtjAIhX79UR2JfJKuyai8SZaMMF6WsrFU782ZS1Bsygg7TrBhqhP9HukqltvG8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0067",
+      "name": "Neo-Squish Mystery Crate: Rainbow Butterfly Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSD4Ej_M_Ii0l6cZv3baHrWOiO-EspWQVD_9tGmYGEOExer7cxpfa7ZDrl6OnnUy2pvZiw8D5A16pE1RxMKbcPlmJmr3xpwYOlRmjqPhP1dU_UsjUtQhDN"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0068",
+      "name": "Neo-Squish Mystery Crate: Holiday Reindeer Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ06xONZAGm-6O4jyCHYUkEF19E_kpj27BVaTLOgi8BB5UZFIFIwJMvaFWW7-P5I_ljbfEnUiQGEsJekypVfJhZ_X0d9UI5oWtppSQ6CmU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0069",
+      "name": "Neo-Squish Mystery Crate: Space Narwhal Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ09BT2Vjs_fexHXN6mIfRfzGwfltyjxWBxTuAIWirILaL9JCvopSDl7AZKRSwvZ9pE6uNfdO0SQosC7TTd4rukG2ocwUoCaDX2PLoOaO3"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0070",
+      "name": "Neo-Squish Mystery Crate: Cosmic Dragon Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJqKadusJ-4Kx3lKzpVJQG_wwLjpgAY__reI_SlRy4hVb29mk8Jv5zdso9kR5BZtuCO0TsiMmWhn1UUddv_bken5DBM-MEMH5Oo_j7RiVGP8uNMYZ6m3PDwQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0071",
+      "name": "Neo-Squish Mystery Crate: Valentine’s Day Panda Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_cXiuT16JWEsQRAwd-iGwNmsC1UNM2p1bgZXG8GkGhz5yYugC0fiXKjBqPvI5jIUNadvTevKL35mARwWs6TFnX86KbtoqgShbd08p0muX"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0072",
+      "name": "Neo-Squish Mystery Crate: Easter Bunny Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ8lNJvUJX52a1AWsiIbqnmai-aTXmtU6V6TzkvhBf7RlOAfBQlRJfPO7N3HLm468ZYMrCy5TI7LGYGhW_GDK-EiIOUH_9wGowjzWr6VOEZnzalqki80MdJQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0073",
+      "name": "Neo-Squish Mystery Crate: St. Patrick’s Day Frog Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6KRgGUuYBv8xT232yDs0tgv3Jvke_GJsJn7rtaReTl5TpoZ25ytPoDMAktqfhcb70CY5eJv0_34BUbMVU6qbpd4lrnsJYfZcNF9RbPQ930qe2tgSoMPrU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0074",
+      "name": "Neo-Squish Mystery Crate: Summer Flamingo Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMkGmYBwjDDxv1-w8mXrSIq6iGDtwv5vVez0tzpFY7KIAh6dRAr-nx1tdIfJxvRDpKX1k1BArMTlEL8n2I6IuoHYMelCCXHb4Q-qL1q57jyTW08awQ8s3-"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0075",
+      "name": "Neo-Squish Mystery Crate: Halloween Ghost Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQrhDoDLiEC1zqHfcI80wyk2J4YI5hapGnAXJ6IKLmy3OtoY0OigztbTlAmHLqn9oMKPvub-V98IaWuvKy6wJj8Vv5K9mRzkhtjO64hh-M"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0076",
+      "name": "Neo-Squish Mystery Crate: Autumn Fox Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ1ub6wsv_VU6ByPOZgGSiQ8DDUpEIWgjBU0zql4vfEMqSC6TUou0R1zutQlE2txT2UPD9ZiECLhIPZBsuy-LHGZN9VOyYAA1OqBNQBGcOY"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0077",
+      "name": "Neo-Squish Mystery Crate: Winter Penguin Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSbt9esk1cXSF8UWO8bqzXYaeaQPbXSBIK4Wzb6lZzYJQ97uZVPBT51zsmOU-79V6WNoxkEHX4WAL0GkKhJIKTYUyhhBKDdLjX88f_Zd6Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0078",
+      "name": "Neo-Squish Mystery Crate: Ocean Seahorse Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRrcr39r4yiWq9wKxlLpLPoa--QFmqTj9utYJwIphEiC1selaw-QIzeTeBNTKJBN-XcgoA4JffP0yc-SFxWbkH00g41JFAIwFoEcttK4XcNTTG4nbwjm6dzhA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0079",
+      "name": "Neo-Squish Mystery Crate: Safari Elephant Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrLLVLIwG4UO3K3-tXw9FERcUBee-94FIiyNjlvRRxfAeS5Y63dVa_SAkMjPHx-sONXLKjlmxZWJRJTArw1PgxV40brhiKiyI-OM1w_Ik2"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0080",
+      "name": "Neo-Squish Mystery Crate: Superhero Koala Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT0LA0p_x_z8iKT7N5XqGXpLN0UvsJaqGJv4DiT8FhnxXHckM0_Y-LJLasdev_0L_ub6bzpEjXpBBwrpyljlGuttJ3jpBYc3JzLmOYjZxgziPNikVvxXxlLGg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0081",
+      "name": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRW-OVV1j4u6XtjAIhX79UR2JfJKuyai8SZaMMF6WsrFU782ZS1Bsygg7TrBhqhP9HukqltvG8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0082",
+      "name": "Neo-Squish Mystery Crate: Rainbow Butterfly Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSD4Ej_M_Ii0l6cZv3baHrWOiO-EspWQVD_9tGmYGEOExer7cxpfa7ZDrl6OnnUy2pvZiw8D5A16pE1RxMKbcPlmJmr3xpwYOlRmjqPhP1dU_UsjUtQhDN"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0083",
+      "name": "Neo-Squish Mystery Crate: Holiday Reindeer Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ06xONZAGm-6O4jyCHYUkEF19E_kpj27BVaTLOgi8BB5UZFIFIwJMvaFWW7-P5I_ljbfEnUiQGEsJekypVfJhZ_X0d9UI5oWtppSQ6CmU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0084",
+      "name": "Neo-Squish Mystery Crate: Space Narwhal Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ09BT2Vjs_fexHXN6mIfRfzGwfltyjxWBxTuAIWirILaL9JCvopSDl7AZKRSwvZ9pE6uNfdO0SQosC7TTd4rukG2ocwUoCaDX2PLoOaO3"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0085",
+      "name": "Neo-Squish Mystery Crate: Cosmic Dragon Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJqKadusJ-4Kx3lKzpVJQG_wwLjpgAY__reI_SlRy4hVb29mk8Jv5zdso9kR5BZtuCO0TsiMmWhn1UUddv_bken5DBM-MEMH5Oo_j7RiVGP8uNMYZ6m3PDwQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0086",
+      "name": "Neo-Squish Mystery Crate: Valentine’s Day Panda Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_cXiuT16JWEsQRAwd-iGwNmsC1UNM2p1bgZXG8GkGhz5yYugC0fiXKjBqPvI5jIUNadvTevKL35mARwWs6TFnX86KbtoqgShbd08p0muX"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0087",
+      "name": "Neo-Squish Mystery Crate: Easter Bunny Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ8lNJvUJX52a1AWsiIbqnmai-aTXmtU6V6TzkvhBf7RlOAfBQlRJfPO7N3HLm468ZYMrCy5TI7LGYGhW_GDK-EiIOUH_9wGowjzWr6VOEZnzalqki80MdJQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0088",
+      "name": "Neo-Squish Mystery Crate: St. Patrick’s Day Frog Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6KRgGUuYBv8xT232yDs0tgv3Jvke_GJsJn7rtaReTl5TpoZ25ytPoDMAktqfhcb70CY5eJv0_34BUbMVU6qbpd4lrnsJYfZcNF9RbPQ930qe2tgSoMPrU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0089",
+      "name": "Neo-Squish Mystery Crate: Summer Flamingo Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMkGmYBwjDDxv1-w8mXrSIq6iGDtwv5vVez0tzpFY7KIAh6dRAr-nx1tdIfJxvRDpKX1k1BArMTlEL8n2I6IuoHYMelCCXHb4Q-qL1q57jyTW08awQ8s3-"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0090",
+      "name": "Neo-Squish Mystery Crate: Halloween Ghost Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQrhDoDLiEC1zqHfcI80wyk2J4YI5hapGnAXJ6IKLmy3OtoY0OigztbTlAmHLqn9oMKPvub-V98IaWuvKy6wJj8Vv5K9mRzkhtjO64hh-M"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0091",
+      "name": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRB4tB6hqSnWVnnwK06sa2vCr9Xi8_UuXqPsJrnT_2gsUWmWmhPEKRTjiGquAmj9j-zry36pK--Yhpdpt9EP5Hj24ZgqMzT4-i97Utwoz5JJophhjqbTkiJPQ",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRB4tB6hqSnWVnnwK06sa2vCr9Xi8_UuXqPsJrnT_2gsUWmWmhPEKRTjiGquAmj9j-zry36pK--Yhpdpt9EP5Hj24ZgqMzT4-i97Utwoz5JJophhjqbTkiJPQ",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRB4tB6hqSnWVnnwK06sa2vCr9Xi8_UuXqPsJrnT_2gsUWmWmhPEKRTjiGquAmj9j-zry36pK--Yhpdpt9EP5Hj24ZgqMzT4-i97Utwoz5JJophhjqbTkiJPQ"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRW-OVV1j4u6XtjAIhX79UR2JfJKuyai8SZaMMF6WsrFU782ZS1Bsygg7TrBhqhP9HukqltvG8"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Mystery Box - Uncommon Pull",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
         "shipping": "Tiered Tracked Shipping ($3.50)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0022",
-      "name": "Neo-Squish Gamified Crate: Jungle Safari Edition [UNCOMMON]",
+      "id": "SQSH-0092",
+      "name": "Neo-Squish Mystery Crate: Rainbow Butterfly Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQz4B_LvM9TOYXPQhCfheeyWKdukJtS8367U6h8BcPp2x2fETnQAh9aTd_wmnIPkDkifYjoTa9Ld-j9PRX5PHYlV7uEd9HFHnhbz0T2a3fO",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQz4B_LvM9TOYXPQhCfheeyWKdukJtS8367U6h8BcPp2x2fETnQAh9aTd_wmnIPkDkifYjoTa9Ld-j9PRX5PHYlV7uEd9HFHnhbz0T2a3fO",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQz4B_LvM9TOYXPQhCfheeyWKdukJtS8367U6h8BcPp2x2fETnQAh9aTd_wmnIPkDkifYjoTa9Ld-j9PRX5PHYlV7uEd9HFHnhbz0T2a3fO"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSD4Ej_M_Ii0l6cZv3baHrWOiO-EspWQVD_9tGmYGEOExer7cxpfa7ZDrl6OnnUy2pvZiw8D5A16pE1RxMKbcPlmJmr3xpwYOlRmjqPhP1dU_UsjUtQhDN"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Mystery Box - Uncommon Pull",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
         "shipping": "Tiered Tracked Shipping ($3.50)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0023",
-      "name": "Neo-Squish Gamified Crate: Underwater Adventure Edition [UNCOMMON]",
+      "id": "SQSH-0093",
+      "name": "Neo-Squish Mystery Crate: Holiday Reindeer Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
-        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800",
-        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800",
-        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ06xONZAGm-6O4jyCHYUkEF19E_kpj27BVaTLOgi8BB5UZFIFIwJMvaFWW7-P5I_ljbfEnUiQGEsJekypVfJhZ_X0d9UI5oWtppSQ6CmU"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Mystery Box - Uncommon Pull",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
         "shipping": "Tiered Tracked Shipping ($3.50)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0024",
-      "name": "Neo-Squish Gamified Crate: Spooky Halloween Edition [UNCOMMON]",
+      "id": "SQSH-0094",
+      "name": "Neo-Squish Mystery Crate: Space Narwhal Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSfodAqcO7EqGNRKbwddb8IOtkGTTAgu4VsY89dXLrfLdY6r5GNcAua9aC6u1RYfThtji2k-qO3ic6rkcVfkiyqSXHhd8ZYRx6xfVHYBGbbtwXWxipIhm_faQ",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSfodAqcO7EqGNRKbwddb8IOtkGTTAgu4VsY89dXLrfLdY6r5GNcAua9aC6u1RYfThtji2k-qO3ic6rkcVfkiyqSXHhd8ZYRx6xfVHYBGbbtwXWxipIhm_faQ",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSfodAqcO7EqGNRKbwddb8IOtkGTTAgu4VsY89dXLrfLdY6r5GNcAua9aC6u1RYfThtji2k-qO3ic6rkcVfkiyqSXHhd8ZYRx6xfVHYBGbbtwXWxipIhm_faQ"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ09BT2Vjs_fexHXN6mIfRfzGwfltyjxWBxTuAIWirILaL9JCvopSDl7AZKRSwvZ9pE6uNfdO0SQosC7TTd4rukG2ocwUoCaDX2PLoOaO3"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Mystery Box - Uncommon Pull",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
         "shipping": "Tiered Tracked Shipping ($3.50)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0025",
-      "name": "Neo-Squish Gamified Crate: Christmas Wonderland Edition [UNCOMMON]",
+      "id": "SQSH-0095",
+      "name": "Neo-Squish Mystery Crate: Cosmic Dragon Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQNaWJtwtDjVMcfwAK1W2M3JHI8rZMIqu2oJ9weRUpRTycS9pxQXGVKe1eXLHJVPD-KEuD6paq4ulSZRhCgtQ4PQMHfA6VbSRxGShkEJcRz",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQNaWJtwtDjVMcfwAK1W2M3JHI8rZMIqu2oJ9weRUpRTycS9pxQXGVKe1eXLHJVPD-KEuD6paq4ulSZRhCgtQ4PQMHfA6VbSRxGShkEJcRz",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQNaWJtwtDjVMcfwAK1W2M3JHI8rZMIqu2oJ9weRUpRTycS9pxQXGVKe1eXLHJVPD-KEuD6paq4ulSZRhCgtQ4PQMHfA6VbSRxGShkEJcRz"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJqKadusJ-4Kx3lKzpVJQG_wwLjpgAY__reI_SlRy4hVb29mk8Jv5zdso9kR5BZtuCO0TsiMmWhn1UUddv_bken5DBM-MEMH5Oo_j7RiVGP8uNMYZ6m3PDwQ"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Mystery Box - Uncommon Pull",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
         "shipping": "Tiered Tracked Shipping ($3.50)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0026",
-      "name": "Neo-Squish Gamified Crate: Unicorn Dreams Edition [RARE]",
+      "id": "SQSH-0096",
+      "name": "Neo-Squish Mystery Crate: Valentine’s Day Panda Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_cXiuT16JWEsQRAwd-iGwNmsC1UNM2p1bgZXG8GkGhz5yYugC0fiXKjBqPvI5jIUNadvTevKL35mARwWs6TFnX86KbtoqgShbd08p0muX"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0097",
+      "name": "Neo-Squish Mystery Crate: Easter Bunny Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ8lNJvUJX52a1AWsiIbqnmai-aTXmtU6V6TzkvhBf7RlOAfBQlRJfPO7N3HLm468ZYMrCy5TI7LGYGhW_GDK-EiIOUH_9wGowjzWr6VOEZnzalqki80MdJQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0098",
+      "name": "Neo-Squish Mystery Crate: St. Patrick’s Day Frog Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6KRgGUuYBv8xT232yDs0tgv3Jvke_GJsJn7rtaReTl5TpoZ25ytPoDMAktqfhcb70CY5eJv0_34BUbMVU6qbpd4lrnsJYfZcNF9RbPQ930qe2tgSoMPrU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0099",
+      "name": "Neo-Squish Mystery Crate: Summer Flamingo Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMkGmYBwjDDxv1-w8mXrSIq6iGDtwv5vVez0tzpFY7KIAh6dRAr-nx1tdIfJxvRDpKX1k1BArMTlEL8n2I6IuoHYMelCCXHb4Q-qL1q57jyTW08awQ8s3-"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0100",
+      "name": "Neo-Squish Mystery Crate: Halloween Ghost Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQrhDoDLiEC1zqHfcI80wyk2J4YI5hapGnAXJ6IKLmy3OtoY0OigztbTlAmHLqn9oMKPvub-V98IaWuvKy6wJj8Vv5K9mRzkhtjO64hh-M"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0101",
+      "name": "Neo-Squish Mystery Crate: Autumn Fox Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ1ub6wsv_VU6ByPOZgGSiQ8DDUpEIWgjBU0zql4vfEMqSC6TUou0R1zutQlE2txT2UPD9ZiECLhIPZBsuy-LHGZN9VOyYAA1OqBNQBGcOY"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0102",
+      "name": "Neo-Squish Mystery Crate: Winter Penguin Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSbt9esk1cXSF8UWO8bqzXYaeaQPbXSBIK4Wzb6lZzYJQ97uZVPBT51zsmOU-79V6WNoxkEHX4WAL0GkKhJIKTYUyhhBKDdLjX88f_Zd6Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0103",
+      "name": "Neo-Squish Mystery Crate: Ocean Seahorse Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRrcr39r4yiWq9wKxlLpLPoa--QFmqTj9utYJwIphEiC1selaw-QIzeTeBNTKJBN-XcgoA4JffP0yc-SFxWbkH00g41JFAIwFoEcttK4XcNTTG4nbwjm6dzhA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0104",
+      "name": "Neo-Squish Mystery Crate: Safari Elephant Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrLLVLIwG4UO3K3-tXw9FERcUBee-94FIiyNjlvRRxfAeS5Y63dVa_SAkMjPHx-sONXLKjlmxZWJRJTArw1PgxV40brhiKiyI-OM1w_Ik2"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0105",
+      "name": "Neo-Squish Mystery Crate: Superhero Koala Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT0LA0p_x_z8iKT7N5XqGXpLN0UvsJaqGJv4DiT8FhnxXHckM0_Y-LJLasdev_0L_ub6bzpEjXpBBwrpyljlGuttJ3jpBYc3JzLmOYjZxgziPNikVvxXxlLGg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0106",
+      "name": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRW-OVV1j4u6XtjAIhX79UR2JfJKuyai8SZaMMF6WsrFU782ZS1Bsygg7TrBhqhP9HukqltvG8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0107",
+      "name": "Neo-Squish Mystery Crate: Rainbow Butterfly Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSD4Ej_M_Ii0l6cZv3baHrWOiO-EspWQVD_9tGmYGEOExer7cxpfa7ZDrl6OnnUy2pvZiw8D5A16pE1RxMKbcPlmJmr3xpwYOlRmjqPhP1dU_UsjUtQhDN"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0108",
+      "name": "Neo-Squish Mystery Crate: Holiday Reindeer Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ06xONZAGm-6O4jyCHYUkEF19E_kpj27BVaTLOgi8BB5UZFIFIwJMvaFWW7-P5I_ljbfEnUiQGEsJekypVfJhZ_X0d9UI5oWtppSQ6CmU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0109",
+      "name": "Neo-Squish Mystery Crate: Space Narwhal Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ09BT2Vjs_fexHXN6mIfRfzGwfltyjxWBxTuAIWirILaL9JCvopSDl7AZKRSwvZ9pE6uNfdO0SQosC7TTd4rukG2ocwUoCaDX2PLoOaO3"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0110",
+      "name": "Neo-Squish Mystery Crate: Cosmic Dragon Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJqKadusJ-4Kx3lKzpVJQG_wwLjpgAY__reI_SlRy4hVb29mk8Jv5zdso9kR5BZtuCO0TsiMmWhn1UUddv_bken5DBM-MEMH5Oo_j7RiVGP8uNMYZ6m3PDwQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0111",
+      "name": "Neo-Squish Mystery Crate: Valentine’s Day Panda Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_cXiuT16JWEsQRAwd-iGwNmsC1UNM2p1bgZXG8GkGhz5yYugC0fiXKjBqPvI5jIUNadvTevKL35mARwWs6TFnX86KbtoqgShbd08p0muX"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0112",
+      "name": "Neo-Squish Mystery Crate: Easter Bunny Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ8lNJvUJX52a1AWsiIbqnmai-aTXmtU6V6TzkvhBf7RlOAfBQlRJfPO7N3HLm468ZYMrCy5TI7LGYGhW_GDK-EiIOUH_9wGowjzWr6VOEZnzalqki80MdJQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0113",
+      "name": "Neo-Squish Mystery Crate: St. Patrick’s Day Frog Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6KRgGUuYBv8xT232yDs0tgv3Jvke_GJsJn7rtaReTl5TpoZ25ytPoDMAktqfhcb70CY5eJv0_34BUbMVU6qbpd4lrnsJYfZcNF9RbPQ930qe2tgSoMPrU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0114",
+      "name": "Neo-Squish Mystery Crate: Summer Flamingo Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMkGmYBwjDDxv1-w8mXrSIq6iGDtwv5vVez0tzpFY7KIAh6dRAr-nx1tdIfJxvRDpKX1k1BArMTlEL8n2I6IuoHYMelCCXHb4Q-qL1q57jyTW08awQ8s3-"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0115",
+      "name": "Neo-Squish Mystery Crate: Halloween Ghost Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQrhDoDLiEC1zqHfcI80wyk2J4YI5hapGnAXJ6IKLmy3OtoY0OigztbTlAmHLqn9oMKPvub-V98IaWuvKy6wJj8Vv5K9mRzkhtjO64hh-M"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0116",
+      "name": "Neo-Squish Mystery Crate: Autumn Fox Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ1ub6wsv_VU6ByPOZgGSiQ8DDUpEIWgjBU0zql4vfEMqSC6TUou0R1zutQlE2txT2UPD9ZiECLhIPZBsuy-LHGZN9VOyYAA1OqBNQBGcOY"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0117",
+      "name": "Neo-Squish Mystery Crate: Winter Penguin Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSbt9esk1cXSF8UWO8bqzXYaeaQPbXSBIK4Wzb6lZzYJQ97uZVPBT51zsmOU-79V6WNoxkEHX4WAL0GkKhJIKTYUyhhBKDdLjX88f_Zd6Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0118",
+      "name": "Neo-Squish Mystery Crate: Ocean Seahorse Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRrcr39r4yiWq9wKxlLpLPoa--QFmqTj9utYJwIphEiC1selaw-QIzeTeBNTKJBN-XcgoA4JffP0yc-SFxWbkH00g41JFAIwFoEcttK4XcNTTG4nbwjm6dzhA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0119",
+      "name": "Neo-Squish Mystery Crate: Safari Elephant Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrLLVLIwG4UO3K3-tXw9FERcUBee-94FIiyNjlvRRxfAeS5Y63dVa_SAkMjPHx-sONXLKjlmxZWJRJTArw1PgxV40brhiKiyI-OM1w_Ik2"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0120",
+      "name": "Neo-Squish Mystery Crate: Superhero Koala Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT0LA0p_x_z8iKT7N5XqGXpLN0UvsJaqGJv4DiT8FhnxXHckM0_Y-LJLasdev_0L_ub6bzpEjXpBBwrpyljlGuttJ3jpBYc3JzLmOYjZxgziPNikVvxXxlLGg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0121",
+      "name": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [RARE]",
       "price": "$49.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRB4tB6hqSnWVnnwK06sa2vCr9Xi8_UuXqPsJrnT_2gsUWmWmhPEKRTjiGquAmj9j-zry36pK--Yhpdpt9EP5Hj24ZgqMzT4-i97Utwoz5JJophhjqbTkiJPQ",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRB4tB6hqSnWVnnwK06sa2vCr9Xi8_UuXqPsJrnT_2gsUWmWmhPEKRTjiGquAmj9j-zry36pK--Yhpdpt9EP5Hj24ZgqMzT4-i97Utwoz5JJophhjqbTkiJPQ",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRB4tB6hqSnWVnnwK06sa2vCr9Xi8_UuXqPsJrnT_2gsUWmWmhPEKRTjiGquAmj9j-zry36pK--Yhpdpt9EP5Hj24ZgqMzT4-i97Utwoz5JJophhjqbTkiJPQ"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRW-OVV1j4u6XtjAIhX79UR2JfJKuyai8SZaMMF6WsrFU782ZS1Bsygg7TrBhqhP9HukqltvG8"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Mystery Box - Rare Pull Guarantee",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Rare Pull Guarantee",
         "shipping": "Tiered Tracked Shipping ($4.99)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0027",
-      "name": "Neo-Squish Gamified Crate: Jungle Safari Edition [RARE]",
+      "id": "SQSH-0122",
+      "name": "Neo-Squish Mystery Crate: Rainbow Butterfly Edition [RARE]",
       "price": "$49.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQz4B_LvM9TOYXPQhCfheeyWKdukJtS8367U6h8BcPp2x2fETnQAh9aTd_wmnIPkDkifYjoTa9Ld-j9PRX5PHYlV7uEd9HFHnhbz0T2a3fO",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQz4B_LvM9TOYXPQhCfheeyWKdukJtS8367U6h8BcPp2x2fETnQAh9aTd_wmnIPkDkifYjoTa9Ld-j9PRX5PHYlV7uEd9HFHnhbz0T2a3fO",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQz4B_LvM9TOYXPQhCfheeyWKdukJtS8367U6h8BcPp2x2fETnQAh9aTd_wmnIPkDkifYjoTa9Ld-j9PRX5PHYlV7uEd9HFHnhbz0T2a3fO"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSD4Ej_M_Ii0l6cZv3baHrWOiO-EspWQVD_9tGmYGEOExer7cxpfa7ZDrl6OnnUy2pvZiw8D5A16pE1RxMKbcPlmJmr3xpwYOlRmjqPhP1dU_UsjUtQhDN"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Mystery Box - Rare Pull Guarantee",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Rare Pull Guarantee",
         "shipping": "Tiered Tracked Shipping ($4.99)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0028",
-      "name": "Neo-Squish Gamified Crate: Underwater Adventure Edition [RARE]",
+      "id": "SQSH-0123",
+      "name": "Neo-Squish Mystery Crate: Holiday Reindeer Edition [RARE]",
       "price": "$49.99",
       "media": [
-        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800",
-        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800",
-        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ06xONZAGm-6O4jyCHYUkEF19E_kpj27BVaTLOgi8BB5UZFIFIwJMvaFWW7-P5I_ljbfEnUiQGEsJekypVfJhZ_X0d9UI5oWtppSQ6CmU"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Mystery Box - Rare Pull Guarantee",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Rare Pull Guarantee",
         "shipping": "Tiered Tracked Shipping ($4.99)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0029",
-      "name": "Neo-Squish Gamified Crate: Unicorn Dreams Edition [EPIC]",
+      "id": "SQSH-0124",
+      "name": "Neo-Squish Mystery Crate: Space Narwhal Edition [RARE]",
+      "price": "$49.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ09BT2Vjs_fexHXN6mIfRfzGwfltyjxWBxTuAIWirILaL9JCvopSDl7AZKRSwvZ9pE6uNfdO0SQosC7TTd4rukG2ocwUoCaDX2PLoOaO3"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Rare Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0125",
+      "name": "Neo-Squish Mystery Crate: Cosmic Dragon Edition [RARE]",
+      "price": "$49.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJqKadusJ-4Kx3lKzpVJQG_wwLjpgAY__reI_SlRy4hVb29mk8Jv5zdso9kR5BZtuCO0TsiMmWhn1UUddv_bken5DBM-MEMH5Oo_j7RiVGP8uNMYZ6m3PDwQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Rare Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0126",
+      "name": "Neo-Squish Mystery Crate: Valentine’s Day Panda Edition [RARE]",
+      "price": "$49.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_cXiuT16JWEsQRAwd-iGwNmsC1UNM2p1bgZXG8GkGhz5yYugC0fiXKjBqPvI5jIUNadvTevKL35mARwWs6TFnX86KbtoqgShbd08p0muX"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Rare Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0127",
+      "name": "Neo-Squish Mystery Crate: Easter Bunny Edition [RARE]",
+      "price": "$49.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ8lNJvUJX52a1AWsiIbqnmai-aTXmtU6V6TzkvhBf7RlOAfBQlRJfPO7N3HLm468ZYMrCy5TI7LGYGhW_GDK-EiIOUH_9wGowjzWr6VOEZnzalqki80MdJQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Rare Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0128",
+      "name": "Neo-Squish Mystery Crate: St. Patrick’s Day Frog Edition [RARE]",
+      "price": "$49.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6KRgGUuYBv8xT232yDs0tgv3Jvke_GJsJn7rtaReTl5TpoZ25ytPoDMAktqfhcb70CY5eJv0_34BUbMVU6qbpd4lrnsJYfZcNF9RbPQ930qe2tgSoMPrU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Rare Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0129",
+      "name": "Neo-Squish Mystery Crate: Summer Flamingo Edition [RARE]",
+      "price": "$49.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMkGmYBwjDDxv1-w8mXrSIq6iGDtwv5vVez0tzpFY7KIAh6dRAr-nx1tdIfJxvRDpKX1k1BArMTlEL8n2I6IuoHYMelCCXHb4Q-qL1q57jyTW08awQ8s3-"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Rare Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0130",
+      "name": "Neo-Squish Mystery Crate: Halloween Ghost Edition [RARE]",
+      "price": "$49.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQrhDoDLiEC1zqHfcI80wyk2J4YI5hapGnAXJ6IKLmy3OtoY0OigztbTlAmHLqn9oMKPvub-V98IaWuvKy6wJj8Vv5K9mRzkhtjO64hh-M"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Rare Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0131",
+      "name": "Neo-Squish Mystery Crate: Autumn Fox Edition [RARE]",
+      "price": "$49.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ1ub6wsv_VU6ByPOZgGSiQ8DDUpEIWgjBU0zql4vfEMqSC6TUou0R1zutQlE2txT2UPD9ZiECLhIPZBsuy-LHGZN9VOyYAA1OqBNQBGcOY"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Rare Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0132",
+      "name": "Neo-Squish Mystery Crate: Winter Penguin Edition [RARE]",
+      "price": "$49.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSbt9esk1cXSF8UWO8bqzXYaeaQPbXSBIK4Wzb6lZzYJQ97uZVPBT51zsmOU-79V6WNoxkEHX4WAL0GkKhJIKTYUyhhBKDdLjX88f_Zd6Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Rare Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0133",
+      "name": "Neo-Squish Mystery Crate: Ocean Seahorse Edition [RARE]",
+      "price": "$49.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRrcr39r4yiWq9wKxlLpLPoa--QFmqTj9utYJwIphEiC1selaw-QIzeTeBNTKJBN-XcgoA4JffP0yc-SFxWbkH00g41JFAIwFoEcttK4XcNTTG4nbwjm6dzhA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Rare Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0134",
+      "name": "Neo-Squish Mystery Crate: Safari Elephant Edition [RARE]",
+      "price": "$49.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrLLVLIwG4UO3K3-tXw9FERcUBee-94FIiyNjlvRRxfAeS5Y63dVa_SAkMjPHx-sONXLKjlmxZWJRJTArw1PgxV40brhiKiyI-OM1w_Ik2"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Rare Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0135",
+      "name": "Neo-Squish Mystery Crate: Superhero Koala Edition [RARE]",
+      "price": "$49.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT0LA0p_x_z8iKT7N5XqGXpLN0UvsJaqGJv4DiT8FhnxXHckM0_Y-LJLasdev_0L_ub6bzpEjXpBBwrpyljlGuttJ3jpBYc3JzLmOYjZxgziPNikVvxXxlLGg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Rare Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0136",
+      "name": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [RARE]",
+      "price": "$49.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRW-OVV1j4u6XtjAIhX79UR2JfJKuyai8SZaMMF6WsrFU782ZS1Bsygg7TrBhqhP9HukqltvG8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Rare Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0137",
+      "name": "Neo-Squish Mystery Crate: Rainbow Butterfly Edition [RARE]",
+      "price": "$49.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSD4Ej_M_Ii0l6cZv3baHrWOiO-EspWQVD_9tGmYGEOExer7cxpfa7ZDrl6OnnUy2pvZiw8D5A16pE1RxMKbcPlmJmr3xpwYOlRmjqPhP1dU_UsjUtQhDN"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Rare Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0138",
+      "name": "Neo-Squish Mystery Crate: Holiday Reindeer Edition [RARE]",
+      "price": "$49.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ06xONZAGm-6O4jyCHYUkEF19E_kpj27BVaTLOgi8BB5UZFIFIwJMvaFWW7-P5I_ljbfEnUiQGEsJekypVfJhZ_X0d9UI5oWtppSQ6CmU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Rare Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0139",
+      "name": "Neo-Squish Mystery Crate: Space Narwhal Edition [RARE]",
+      "price": "$49.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ09BT2Vjs_fexHXN6mIfRfzGwfltyjxWBxTuAIWirILaL9JCvopSDl7AZKRSwvZ9pE6uNfdO0SQosC7TTd4rukG2ocwUoCaDX2PLoOaO3"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Rare Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0140",
+      "name": "Neo-Squish Mystery Crate: Cosmic Dragon Edition [RARE]",
+      "price": "$49.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJqKadusJ-4Kx3lKzpVJQG_wwLjpgAY__reI_SlRy4hVb29mk8Jv5zdso9kR5BZtuCO0TsiMmWhn1UUddv_bken5DBM-MEMH5Oo_j7RiVGP8uNMYZ6m3PDwQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Rare Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0141",
+      "name": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [EPIC]",
       "price": "$149.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRB4tB6hqSnWVnnwK06sa2vCr9Xi8_UuXqPsJrnT_2gsUWmWmhPEKRTjiGquAmj9j-zry36pK--Yhpdpt9EP5Hj24ZgqMzT4-i97Utwoz5JJophhjqbTkiJPQ",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRB4tB6hqSnWVnnwK06sa2vCr9Xi8_UuXqPsJrnT_2gsUWmWmhPEKRTjiGquAmj9j-zry36pK--Yhpdpt9EP5Hj24ZgqMzT4-i97Utwoz5JJophhjqbTkiJPQ",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRB4tB6hqSnWVnnwK06sa2vCr9Xi8_UuXqPsJrnT_2gsUWmWmhPEKRTjiGquAmj9j-zry36pK--Yhpdpt9EP5Hj24ZgqMzT4-i97Utwoz5JJophhjqbTkiJPQ"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRW-OVV1j4u6XtjAIhX79UR2JfJKuyai8SZaMMF6WsrFU782ZS1Bsygg7TrBhqhP9HukqltvG8"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Premium Crate - Epic Scale",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Premium Scale Crate",
         "shipping": "Tiered Tracked Shipping ($7.99)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0030",
-      "name": "Neo-Squish Gamified Crate: Jungle Safari Edition [EPIC]",
+      "id": "SQSH-0142",
+      "name": "Neo-Squish Mystery Crate: Rainbow Butterfly Edition [EPIC]",
       "price": "$149.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQz4B_LvM9TOYXPQhCfheeyWKdukJtS8367U6h8BcPp2x2fETnQAh9aTd_wmnIPkDkifYjoTa9Ld-j9PRX5PHYlV7uEd9HFHnhbz0T2a3fO",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQz4B_LvM9TOYXPQhCfheeyWKdukJtS8367U6h8BcPp2x2fETnQAh9aTd_wmnIPkDkifYjoTa9Ld-j9PRX5PHYlV7uEd9HFHnhbz0T2a3fO",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQz4B_LvM9TOYXPQhCfheeyWKdukJtS8367U6h8BcPp2x2fETnQAh9aTd_wmnIPkDkifYjoTa9Ld-j9PRX5PHYlV7uEd9HFHnhbz0T2a3fO"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSD4Ej_M_Ii0l6cZv3baHrWOiO-EspWQVD_9tGmYGEOExer7cxpfa7ZDrl6OnnUy2pvZiw8D5A16pE1RxMKbcPlmJmr3xpwYOlRmjqPhP1dU_UsjUtQhDN"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "Sealed Premium Crate - Epic Scale",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Premium Scale Crate",
         "shipping": "Tiered Tracked Shipping ($7.99)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "NEXUS-0031",
-      "name": "Neo-Squish Gamified Crate: Unicorn Dreams Edition [CHASE]",
+      "id": "SQSH-0143",
+      "name": "Neo-Squish Mystery Crate: Holiday Reindeer Edition [EPIC]",
+      "price": "$149.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ06xONZAGm-6O4jyCHYUkEF19E_kpj27BVaTLOgi8BB5UZFIFIwJMvaFWW7-P5I_ljbfEnUiQGEsJekypVfJhZ_X0d9UI5oWtppSQ6CmU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Premium Scale Crate",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0144",
+      "name": "Neo-Squish Mystery Crate: Space Narwhal Edition [EPIC]",
+      "price": "$149.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ09BT2Vjs_fexHXN6mIfRfzGwfltyjxWBxTuAIWirILaL9JCvopSDl7AZKRSwvZ9pE6uNfdO0SQosC7TTd4rukG2ocwUoCaDX2PLoOaO3"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Premium Scale Crate",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0145",
+      "name": "Neo-Squish Mystery Crate: Cosmic Dragon Edition [EPIC]",
+      "price": "$149.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJqKadusJ-4Kx3lKzpVJQG_wwLjpgAY__reI_SlRy4hVb29mk8Jv5zdso9kR5BZtuCO0TsiMmWhn1UUddv_bken5DBM-MEMH5Oo_j7RiVGP8uNMYZ6m3PDwQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Premium Scale Crate",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0146",
+      "name": "Neo-Squish Mystery Crate: Valentine’s Day Panda Edition [EPIC]",
+      "price": "$149.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_cXiuT16JWEsQRAwd-iGwNmsC1UNM2p1bgZXG8GkGhz5yYugC0fiXKjBqPvI5jIUNadvTevKL35mARwWs6TFnX86KbtoqgShbd08p0muX"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Premium Scale Crate",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0147",
+      "name": "Neo-Squish Mystery Crate: Easter Bunny Edition [EPIC]",
+      "price": "$149.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ8lNJvUJX52a1AWsiIbqnmai-aTXmtU6V6TzkvhBf7RlOAfBQlRJfPO7N3HLm468ZYMrCy5TI7LGYGhW_GDK-EiIOUH_9wGowjzWr6VOEZnzalqki80MdJQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Premium Scale Crate",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0148",
+      "name": "Neo-Squish Mystery Crate: St. Patrick’s Day Frog Edition [EPIC]",
+      "price": "$149.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6KRgGUuYBv8xT232yDs0tgv3Jvke_GJsJn7rtaReTl5TpoZ25ytPoDMAktqfhcb70CY5eJv0_34BUbMVU6qbpd4lrnsJYfZcNF9RbPQ930qe2tgSoMPrU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Premium Scale Crate",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0149",
+      "name": "Neo-Squish Mystery Crate: Summer Flamingo Edition [EPIC]",
+      "price": "$149.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMkGmYBwjDDxv1-w8mXrSIq6iGDtwv5vVez0tzpFY7KIAh6dRAr-nx1tdIfJxvRDpKX1k1BArMTlEL8n2I6IuoHYMelCCXHb4Q-qL1q57jyTW08awQ8s3-"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Premium Scale Crate",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0150",
+      "name": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [CHASE]",
       "price": "$500.00",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRB4tB6hqSnWVnnwK06sa2vCr9Xi8_UuXqPsJrnT_2gsUWmWmhPEKRTjiGquAmj9j-zry36pK--Yhpdpt9EP5Hj24ZgqMzT4-i97Utwoz5JJophhjqbTkiJPQ",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRB4tB6hqSnWVnnwK06sa2vCr9Xi8_UuXqPsJrnT_2gsUWmWmhPEKRTjiGquAmj9j-zry36pK--Yhpdpt9EP5Hj24ZgqMzT4-i97Utwoz5JJophhjqbTkiJPQ",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRB4tB6hqSnWVnnwK06sa2vCr9Xi8_UuXqPsJrnT_2gsUWmWmhPEKRTjiGquAmj9j-zry36pK--Yhpdpt9EP5Hj24ZgqMzT4-i97Utwoz5JJophhjqbTkiJPQ"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRW-OVV1j4u6XtjAIhX79UR2JfJKuyai8SZaMMF6WsrFU782ZS1Bsygg7TrBhqhP9HukqltvG8"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "Nexus Matrix",
-        "condition": "The Ultimate Chase Crate - 100% Authenticated",
+        "manufacturer": "Nexus Gamified",
+        "condition": "Ultimate Chase Crate - 100% Authenticated",
         "shipping": "Tiered Tracked Shipping ($19.99)"
       },
       "status": "CRUCIBLE_VERIFIED"

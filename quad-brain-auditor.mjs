@@ -1,5 +1,5 @@
 // ============================================================================
-// NEXUS OMNI-BRAIN: FULL MULTI-MALL MATRIX & MASTER SEO FEED
+// NEXUS OMNI-BRAIN: 150-ITEM NEO-SQUISH EXCLUSIVE DROP
 // ============================================================================
 import fs from 'fs';
 import path from 'path';
@@ -14,7 +14,7 @@ function loadEnv() {
         if (match) process.env[match[1].trim()] = match[2].trim();
       });
     }
-  } catch (e) { console.log("Running in cloud mode"); }
+  } catch (e) {}
 }
 loadEnv();
 
@@ -31,11 +31,13 @@ function getShippingCharge(price) {
   return 19.99; 
 }
 
-async function callTrendBrain(promptStr) {
+async function callTrendBrain() {
+  console.log(`🧠 [BRAIN 1] Contacting OpenAI for viral Squishmallow themes...`);
+  const prompt = `Give me exactly 15 high-trending, viral Squishmallow themes (e.g., "Galactic Axolotl", "Halloween Cow"). Format strictly as a JSON array of strings.`;
   try {
     const response = await fetch('https://api.openai.com/v1/chat/completions', {
       method: 'POST', headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${OPENAI_KEY}` },
-      body: JSON.stringify({ model: "gpt-4", messages: [{ role: "user", content: promptStr }], temperature: 0.8 })
+      body: JSON.stringify({ model: "gpt-4", messages: [{ role: "user", content: prompt }], temperature: 0.8 })
     });
     const data = await response.json();
     return JSON.parse(data.choices[0].message.content);
@@ -52,91 +54,77 @@ async function callSourcingBrain(searchQuery) {
   return "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"; 
 }
 
-// 🏢 MASTER MALL REGISTRY
-const retailDivisions = [
-  // MALL 1: THE MATRIX
-  {
-    room: "neo-squish", mall: "netrix", namePrefix: "Neo-Squish Gamified Crate", brand: "Nexus Matrix",
-    prompt: `Give me exactly 10 high-trending, viral Squishmallow themes (e.g., "Galactic Axolotl"). Format strictly as a JSON array of strings.`
-  },
-  {
-    room: "cyberware-depot", mall: "netrix", namePrefix: "Cyberpunk Hardware", brand: "Nexus Tech",
-    prompt: `Give me 10 trending cyberpunk/tech accessories (e.g., "LED Visor", "Mechanical Keyboard"). Format strictly as a JSON array of strings.`
-  },
-  // MALL 2: NOSTALGIA
-  {
-    room: "retro-mystery-vault", mall: "nostalgia", namePrefix: "Vintage 90s Mystery Crate", brand: "Heritage Vault",
-    prompt: `Give me exactly 10 high-value 80s/90s nostalgic themes (e.g., "Holographic Charizard"). Format strictly as a JSON array of strings.`
-  },
-  {
-    room: "pixel-sugar-rush", mall: "nostalgia", namePrefix: "Retro Candy Box", brand: "Heritage Vault",
-    prompt: `Give me 10 nostalgic 80s/90s candy themes (e.g., "Dunkaroos & Warheads"). Format strictly as a JSON array of strings.`
-  },
-  {
-    room: "action-figures-90s", mall: "nostalgia", namePrefix: "90s Action Figure", brand: "Heritage Vault",
-    prompt: `Give me 10 classic 90s action figure lines (e.g., "Street Sharks", "TMNT"). Format strictly as a JSON array of strings.`
-  }
-];
-
-// 🧮 STANDARD 6-TIER DISTRIBUTION
 const distribution = [
-  { tier: "MICRO", count: 10, price: 9.99, cond: "Entry Level" },
-  { tier: "COMMON", count: 10, price: 19.99, cond: "Common Pull" },
-  { tier: "UNCOMMON", count: 5, price: 29.99, cond: "Uncommon Pull" },
-  { tier: "RARE", count: 3, price: 49.99, cond: "Rare Guarantee" },
-  { tier: "EPIC", count: 2, price: 149.99, cond: "Premium Scale" }
+  { tier: "MICRO", count: 50, price: 9.99, cond: "Entry Level Crate" },
+  { tier: "COMMON", count: 40, price: 19.99, cond: "Common Pull Guarantee" },
+  { tier: "UNCOMMON", count: 30, price: 29.99, cond: "Uncommon Pull Guarantee" },
+  { tier: "RARE", count: 20, price: 49.99, cond: "Rare Pull Guarantee" },
+  { tier: "EPIC", count: 9, price: 149.99, cond: "Premium Scale Crate" },
+  { tier: "CHASE", count: 1, price: 500.00, cond: "Ultimate Chase Crate - 100% Authenticated" }
 ];
 
-async function executeOmniBrain() {
-  console.log("🔥 NEXUS OMNI-BRAIN: INITIATING MULTI-MALL SYNC");
+async function executeNeoSquishFocus() {
+  console.log("🔥 NEXUS OMNI-BRAIN: FORGING 150-ITEM SQUISHMALLOW SUPERSTORE");
   let currentInventory = {};
+  const inventoryPath = path.join(process.cwd(), 'app', 'inventory.ts');
+  if (fs.existsSync(inventoryPath)) {
+    const rawContent = fs.readFileSync(inventoryPath, 'utf8');
+    try {
+      const jsonMatch = rawContent.match(/export const masterInventory: Record<string, any\[\]> = (\{[\s\S]*\});/);
+      if (jsonMatch) currentInventory = JSON.parse(jsonMatch[1]);
+    } catch (e) {}
+  }
+
   const googleMerchantFeed = [];
   let globalSkuId = 1;
 
-  for (const division of retailDivisions) {
-    console.log(`\n🏗️ SYNCING DIVISION: ${division.room.toUpperCase()}`);
-    const themes = await callTrendBrain(division.prompt);
-    const roomCatalog = [];
+  const themes = await callTrendBrain();
+  const roomCatalog = [];
 
-    for (const dist of distribution) {
-      const customerShipping = getShippingCharge(dist.price);
+  for (const dist of distribution) {
+    const customerShipping = getShippingCharge(dist.price);
+    for (let i = 0; i < dist.count; i++) {
+      const theme = themes[i % themes.length] || "Gamified"; 
+      const itemName = `Neo-Squish Mystery Crate: ${theme} Edition [${dist.tier}]`;
+      const sku = `SQSH-${String(globalSkuId).padStart(4, '0')}`;
       
-      for (let i = 0; i < dist.count; i++) {
-        const theme = themes[i % themes.length] || "Vintage"; 
-        const itemName = `${division.namePrefix}: ${theme} [${dist.tier}]`;
-        const sku = `NEXUS-${String(globalSkuId).padStart(4, '0')}`;
-        
-        const imgUrl = await callSourcingBrain(`${theme} ${division.brand}`);
-        await sleep(800); 
+      const imgUrl = await callSourcingBrain(`${theme} Squishmallow`);
+      await sleep(800); 
 
-        roomCatalog.push({
-          id: sku, name: itemName, price: `$${dist.price.toFixed(2)}`, media: [imgUrl], video: false,
-          specs: { manufacturer: division.brand, condition: dist.cond, shipping: `Tiered Tracked Shipping ($${customerShipping.toFixed(2)})` },
-          status: "CRUCIBLE_VERIFIED"
-        });
+      roomCatalog.push({
+        id: sku, name: itemName, price: `$${dist.price.toFixed(2)}`, media: [imgUrl], video: false,
+        specs: { manufacturer: "Nexus Gamified", condition: dist.cond, shipping: `Tiered Tracked Shipping ($${customerShipping.toFixed(2)})` },
+        status: "CRUCIBLE_VERIFIED"
+      });
 
-        // 📡 MASTER SEO FEED INJECTION
-        googleMerchantFeed.push({
-          id: sku, title: itemName, description: `Official ${division.brand} ${dist.tier} item.`, 
-          link: `https://aether-nexus-matrix.vercel.app/${division.mall}/${division.room}`,
-          image_link: imgUrl, price: `${dist.price.toFixed(2)} USD`, availability: "in stock", brand: division.brand
-        });
-        
-        console.log(`✅ [LOCKED] ${sku} | ${division.room} | ${dist.tier}`);
-        globalSkuId++;
-      }
+      googleMerchantFeed.push({
+        id: sku, title: itemName, description: `Official Nexus Gamified ${dist.tier} item.`, 
+        link: `https://aether-nexus-matrix.vercel.app/netrix/neo-squish`,
+        image_link: imgUrl, price: `${dist.price.toFixed(2)} USD`, availability: "in stock", brand: "Nexus Gamified"
+      });
+      
+      console.log(`✅ [LOCKED] ${sku} | ${dist.tier}`);
+      globalSkuId++;
     }
-    currentInventory[division.room] = roomCatalog;
   }
-
-  // Save the complete ledgers
-  fs.writeFileSync(path.join(process.cwd(), 'app', 'inventory.ts'), `export const masterInventory: Record<string, any[]> = ${JSON.stringify(currentInventory, null, 2)};\n`, 'utf8');
+  
+  // Inject the massive 150-item list back into the main ledger
+  currentInventory['neo-squish'] = roomCatalog;
+  fs.writeFileSync(inventoryPath, `export const masterInventory: Record<string, any[]> = ${JSON.stringify(currentInventory, null, 2)};\n`, 'utf8');
   
   const publicDir = path.join(process.cwd(), 'public');
   if (!fs.existsSync(publicDir)) fs.mkdirSync(publicDir, { recursive: true });
-  fs.writeFileSync(path.join(publicDir, 'google-merchant-feed.json'), JSON.stringify(googleMerchantFeed, null, 2), 'utf8');
+  
+  // Append to the active Google Merchant feed
+  const feedPath = path.join(publicDir, 'google-merchant-feed.json');
+  let currentFeed = [];
+  if (fs.existsSync(feedPath)) {
+    try { currentFeed = JSON.parse(fs.readFileSync(feedPath, 'utf8')); } catch (e) {}
+  }
+  const combinedFeed = currentFeed.concat(googleMerchantFeed);
+  fs.writeFileSync(feedPath, JSON.stringify(combinedFeed, null, 2), 'utf8');
 
-  console.log(`\n🎯 [OMNI-BRAIN SYNC COMPLETE] Matrix updated. SEO Feed active.`);
+  console.log(`\n🎯 [SQUISHMALLOW SYNC COMPLETE] 150 items locked and loaded into Neo-Squish.`);
 }
 
-executeOmniBrain();
+executeNeoSquishFocus();
