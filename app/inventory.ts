@@ -2,423 +2,603 @@ export const masterInventory: Record<string, any[]> = {
   "action-figures-90s": [
     {
       "id": "FIG-001",
-      "name": "Teenage Mutant Ninja Turtles Action Figure - Donatello",
-      "price": "$48.88",
-      "manufacturer": "Walmart - Toywiz",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTRvk-qrsDYBp09wBW1tzwrugKpvpjUz4BEOAIMzavQaSNJzxCQ",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "Teenage Mutant Ninja Turtles Action Figure - Leonardo",
+      "price": "$17.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRtx-jsqVEDWT05im05ySdicqvn8gks1O_p9YrwXbNH_JEi5lfG5YIrX9r7ykr7X9v7knKwz4vgubqMeTPC3A1wRIFlwTWarJ2dBfjJjyZwfl6sGlY3jdkt",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "BJ's Wholesale Club",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "ELIGIBLE_FOR_BUNDLING"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-002",
-      "name": "Mighty Morphin Power Rangers Red Ranger Action Figure",
-      "price": "$35.99",
-      "manufacturer": "eBay - redtagofficial",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRRjLJJnNKnLSlfryuk8HoCaOE2wXxQhBd8aT2o5rSnHmt4GqCi8TGqkK0exUthAYwWxQ-dhZ0I6g88VbCRMgbp80MjrkdUwR1naZeZXrF8goAhoOVo-dPCQQ",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "Power Rangers Action Figure - Red Ranger",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTCuuKct1Pu4VwPKOYLnbzwihnAQaiVnsizJj5XRqBTOfNshjp2YYPh2LPUyZ9nscGhrbiLDBnxAbNojb5Ynutbc-Actr0yO-F6j6MQ2yY",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "eBay - heroes-zeroes",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "STANDALONE"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-003",
-      "name": "Star Wars: The Power of the Force - Darth Vader",
-      "price": "$4.70",
-      "manufacturer": "eBay",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQtzyRGVqcBNqdKCbhEWSrB0pebw05h_2mafNi-TtSVVE5MLCVE4u0dqgEi_kxgcx7eYiLA9B9T38_fC3SRo6XiU2zR55JjjbqFqtoTgPGzQJntNPFhiE_U4Hg",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "X-Men Action Figure - Wolverine",
+      "price": "$4.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT6Z734F9ef9abxC9PgVrsFLwFyS2p3OoksLRHfMt9cEBOcg2haJsUJ2woaTw",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "eBay - sold_separately_toys",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "ELIGIBLE_FOR_BUNDLING"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-004",
-      "name": "Kenner Batman: The Animated Series - Batman",
-      "price": "$5.99",
-      "manufacturer": "eBay - bulltownpickers7",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRuYUKDQkAn6d-nB_NzG2OMUmbJegVB_PrZskywkxVVR3WrLAJdM5lDiyETOoypyw9d4OatdnAi3C_lhAX4a0S0iZ2LB14KJPMniUWKZAFb0PunUfL0FD_wNw",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "Star Wars Action Figure - Darth Vader",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRDjmtrbOCEQ9ab2AaX0x4vbKa1ZkDTsbNhgR72iXqyC3JZMV-FCXA66tsxWSLPWOIQPSDwUDBeEhrVvFBBy-Ncln-tPLG2UgJE5j8pQI5OIwKJ_jO0QA9S",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "GameStop",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "ELIGIBLE_FOR_BUNDLING"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-005",
-      "name": "Hasbro Transformers: Generation 2 - Optimus Prime",
-      "price": "$17.95",
-      "manufacturer": "eBay",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTHpALLcUgQCmjbP6PFnfF9aPztwcgTcSI6SZ1hAdhqIwIU2035AvdasfRBMSHRCH2dJdYPOLfxGM7nQV-1hTszZnUHrDCAqC2naCuqLRlCCuySMLx60zX0",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "G.I. Joe Action Figure - Snake Eyes",
+      "price": "$14.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTsZVB0roGySgFaRplT5hMY-LajY-_EIKxYA3HU6GM1E7BX7-Gx7isKQRT6bvLE26dwiN6BEOgIIcouoxWmdjPrs9XODIwmQEgi3Gae4aRoHlGcIuVncFjEsCE",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "eBay - mclesliefam",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "ELIGIBLE_FOR_BUNDLING"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-006",
-      "name": "G.I. Joe: A Real American Hero - Snake Eyes",
-      "price": "$27.99",
-      "manufacturer": "eBay",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSGNJ94rUDhV8wa-GZlyqvM_kO7l98L8GUeHnb4UeaxL6tLHyNWXFhn5tXc2AJXjZW4iKZ7aclVgGrrrD4ka-lIXLVHov1FZGyN6Q0Fpaa1aM4kB26L-CI7HQ",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "Batman Animated Series Action Figure - Batman",
+      "price": "$27.78",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS9SfJhQkkdPjzDH7kep_P5vN52UDSaOql6Sev2kLJUqyGPYgAlCrfwOcc_PaKwaegQ8hX4v-DlROG97KolKxlYP-K2nXGhYssiXFwCYX4ifcoz1vRmMqbt",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "Panosh Place",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "ELIGIBLE_FOR_BUNDLING"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-007",
-      "name": "Marvel X-Men Wolverine Action Figure",
-      "price": "$27.33",
-      "manufacturer": "eBay - thriftyhippy111",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSvYeyOq5Ckj-hIwtPqqUpszNVkpdJb1f8C7JgjvVrdFkZfrYNxzMVu_6VxABUBDNpTTbLFyKI",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "Transformers Action Figure - Optimus Prime",
+      "price": "$86.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTrNdcyqevZQyVZ4W7Z9dHzeK3hpUcfvu5f6BeipKIxWc5Zn_S84crZb7cHTIPGTGO9odG4trrNesFhWoseeBIlWoB6yigYic1Z8Ci8c6qOs5ZEUofovV5C",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "Walmart - GALRICH",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "ELIGIBLE_FOR_BUNDLING"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-008",
-      "name": "Jurassic Park T-Rex Action Figure",
-      "price": "$29.99",
-      "manufacturer": "Walmart - Drefirsa-US",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTMSQ4qhkpE9HlEy4GdWaOiMTpKGS0Ngap5TAONJBBqeUn8BlwPrTDH42xM45NNX-UM-7QHSRcPejZykbFWnnRWudxDbqQNXuSPEbGCon4",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "Spider-Man Action Figure - Spider-Man",
+      "price": "$52.89",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR8tMYQRo_BtaqhvoZ6xvsijtn5OK-aru3ld9zr2_9J-KWgi3hwakU-Sbhz4uq1ZTALj2CkgwWikrARr2S0z_XloNT2sdh5C0RJxLe0RuEP_7rNuixGVjioAg",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "eBay",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "STANDALONE"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-009",
-      "name": "Star Wars: Power of the Force - Boba Fett",
-      "price": "$589.99",
-      "manufacturer": "eBay",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT1YduxnlSNAGnaLArRVNrCnOA12PBVKFmjuDhEx5yTCcgLi_VdqwofxNppHv-I4iPdWgtQduodFtkz6MlvSW0XKFSVWZ2BR1O8gIFW4Egu",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "Street Sharks Action Figure - Ripster",
+      "price": "$39.50",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTy3dfouTiDZ79VR7pv6x7C9IMHcsgs1am_Mv9SZUHQOi6kJgcnYMONi-bCuA3L6olvzjhViNO_jz_0xXSZ8nYdYsMNpYdPeNK__8pkUZ9Gtto-8Oawto3axw",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "eBay",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "STANDALONE"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-010",
-      "name": "Aliens Colonial Marines Action Figure",
-      "price": "$35.00",
-      "manufacturer": "eBay - crtoylair",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS-fGwLo-4igIhsrzWGF2GI6Ct_wcoXefDT4i0zxhkiW0IZwDyCp3-WTRHTNwTG8utSWidcNkdY4mJYQlZ09HBS4rZvzLv0TEKt0aJDbvSpLWi2lEKuv0AkRg",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "Jurassic Park Action Figure - T-Rex",
+      "price": "$42.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQpLm9hp3320IrGM4v7uAp-Mi3aaDJgMm4tQAJAOA3dHjKR_aoYWrN6O28psSt0dTJeX7u12VPyT4tx6-i8yCniNP8nhxcclIRDAo44nYLe",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "Target",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "ELIGIBLE_FOR_BUNDLING"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-011",
-      "name": "Street Sharks Ripster Action Figure",
-      "price": "$39.50",
-      "manufacturer": "eBay",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS4I9K_WqxqLf4RjCkaYYyfKz6aStVWISx6yhbE_5wioXkLG17ijw06KaePZLAF8Q0nDqBREJZa",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "Star Trek Action Figure - Captain Picard",
+      "price": "$4.95",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRW0gNbDkTEkEXfRs82OnFSnhyUZUytp6wfR6gdT2wxRzb3B2zLQtyNW4-HUE9sjucPtDZm6tSc",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "eBay - werebackinnc123",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "ELIGIBLE_FOR_BUNDLING"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-012",
-      "name": "Spawn Action Figure by Todd McFarlane",
-      "price": "$45.00",
-      "manufacturer": "eBay",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS0I2SNG6uSAQvuU6zb3b9fvenIMFqevp0ChGPn12Wr_UxHReVjvlB71HjM-57ybbMiXTnqp0djEDPPjLf10b2KZttobwXtWlFvpqP-WESVI6cPBwEAKiFNhQ",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "Power Rangers Action Figure - Green Ranger",
+      "price": "$10.86",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_CTCiarrIaUiyoIGUezBdN6Chs6Lqh8e0cyBZ3YImsIMcT7mvEZRl7jTXb2wHxn32_UK1O5PUDXowEwqB2_DrvY1d3Nb3MZq7JAPNR-oiMw_PYIg4YmKgBg",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "Walmart",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "STANDALONE"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-013",
-      "name": "Kenner Superman: Man of Steel - Superman",
-      "price": "$12.00",
-      "manufacturer": "eBay",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTa3PGUtwgfTLSaLOkH94fP05IhtpTkSgvvC9ZO4eM_Qn-PAU4we9dG-ldbTL0TN20vzJOadPs4mcDEG_0SXSHmBDrL0p-iBUq-w3A-WS8m",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "X-Men Action Figure - Cyclops",
+      "price": "$34.75",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSs4allGqPsSbl3wBNh0anT9JrTGylgBOyp_hNGweFZwfsQ5s0HvAUKGwikNu_iMbozuwMBXH-24uv7E2Wx3vEro8ncHXwvfgn9FLjuf8oyo8cFtU1NRpbC",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "Walmart",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "ELIGIBLE_FOR_BUNDLING"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-014",
-      "name": "Mighty Morphin Power Rangers Green Ranger Action Figure",
-      "price": "$20.00",
-      "manufacturer": "Etsy - Seller",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRVsjw5C3NiKXo8mTI1AnhraPkJ0W8ZdtgAzCvxj8d21eoECKHTpum0ploNTBmI7H75hFHg75kb2jDQX5LCdRFBCPBUKpEp6c_RaX9WZjtu",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "ThunderCats Action Figure - Lion-O",
+      "price": "$35.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRAGjlQG1-oshtHnwoJns6vs_2VTXCSrbs_yTO4ND3JniS55BkCVLQuGl0Gm9Y",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "eBay - carlagirl67",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "ELIGIBLE_FOR_BUNDLING"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-015",
-      "name": "Teenage Mutant Ninja Turtles Action Figure - Michelangelo",
-      "price": "$17.99",
-      "manufacturer": "Walmart",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSFq8N5RuB4sb4DXj-8EdfMdikgm1VftivV7oZYTBdZGjKN5Nw4BC-cbH97_2myqRIayDA9147pBKH1PfC2KTj6LKKx1GVFWaOTDEIXWDL17h2vtJ_jSGBQ1A",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "Star Wars Action Figure - Boba Fett",
+      "price": "$41.19",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSGmq-pfSKkK0Bk2_TEL0Jqnf7RNXxFTkq-UxzZSaFwo7l1Fxa-ZSo-_J5Ir1QDTtcZESza7ADtWi7Tx2J7YXKcBXEiiGDljjeYaxqtIX540MAnys2fS5ww",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "Walmart",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "ELIGIBLE_FOR_BUNDLING"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-016",
-      "name": "Transformers: Beast Wars - Megatron",
-      "price": "$32.99",
-      "manufacturer": "Yolopark",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTpTcumSXU4YR_fvViEv-SHPSf8zX1Nmz2a6OnZHFqa8nAo3ePH6fHurhSode0",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "Batman Animated Series Action Figure - The Joker",
+      "price": "$10.97",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTPh_aOuicGWNLN30iLZvmNr3MUog6bzmJKpbpwtmiFO7SH1NaCS8l_4M31b_GFe1_wSI0ackVlW_WdzWsryx9Cd9nyTjgjt-tbmeKoNeI",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "eBay - pjscout",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "STANDALONE"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-017",
-      "name": "G.I. Joe: A Real American Hero - Cobra Commander",
-      "price": "$100.00",
-      "manufacturer": "eBay - faroutplanet",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSGXFViwiiUnwhear1FF6OyulMHfOqbabES3brTmnnIHsNxoBmVy7Oi23iGTUTmEAYhxHTEj3BFN2g4FrJpA3--9CD4ICD9pST7ltNLEwBm",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "Spider-Man Action Figure - Venom",
+      "price": "$27.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQnMfQgj3ywlVLQsDvE_98DHnW6YlCwWhu0hcbVc1VeL2RnOtKZBUaPV5ZifLbMyd2JLJZXKsXCXcfCmmKfMo9zHJ4JuF4EieHhk0aRX4i0",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "eBay",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "STANDALONE"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-018",
-      "name": "Marvel X-Men Cyclops Action Figure",
-      "price": "$34.75",
-      "manufacturer": "Walmart",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSs4allGqPsSbl3wBNh0anT9JrTGylgBOyp_hNGweFZwfsQ5s0HvAUKGwikNu_iMbozuwMBXH-24uv7E2Wx3vEro8ncHXwvfgn9FLjuf8oyo8cFtU1NRpbC",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "Teenage Mutant Ninja Turtles Action Figure - Raphael",
+      "price": "$14.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSg4x_6SLAx53DwecIgqvtdtPwQQH-1qVaX9dzlv2ASjVrOqKHZJR2zahBnFLl_bXW7VuSS-vlKJy3RIB4BSrTDastFeBkdiEtSdS68nSfT9BhP4fk3mYok",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "GameStop",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "ELIGIBLE_FOR_BUNDLING"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-019",
-      "name": "Star Wars: Power of the Force - Luke Skywalker",
-      "price": "$10.00",
-      "manufacturer": "Linebreakers",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR5lODYHwBSuDAH0UxN0Ukc4mlQtKX6ZaswGdDB2xqlSedw3D95jbFJk5HRirLYSccN6Ce2k8E",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "G.I. Joe Action Figure - Cobra Commander",
+      "price": "$27.52",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQfLO9zObPLS0tkKAyGiI6q3zGXhgfqwGgJYPylxVMnPCBXLBG7zJzk_tgNsCcgKipDv4AG8hZ2gEY_QAoBMkeThoNlRkcxzpNh8kViprkqgEf00f34NqvN",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "Walmart",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "ELIGIBLE_FOR_BUNDLING"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-020",
-      "name": "Biker Mice From Mars Throttle Action Figure",
-      "price": "$27.99",
-      "manufacturer": "eBay - ericszone",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSQHMAukyAOfpjsBhNfAIb_VVu8YRzPLsoEiw5zTTZUIVT8P7q3q20igiMKzx5vbzAnw4V7bqa2agN_LfUfyNtL1fcLBVh5WALi_b7kJ4k",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "Transformers Action Figure - Megatron",
+      "price": "$35.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSGAr_1bhIIui7TRpiB8BV516QJ5kUFLcpKHzpDBIVBRXY05spn5kUg7A5AzIK0RK7q4lutCoc",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "kicksgenerationtoys",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "ELIGIBLE_FOR_BUNDLING"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-021",
-      "name": "Star Wars: The Power of the Force - Han Solo",
-      "price": "$4.90",
-      "manufacturer": "eBay",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQRKRH10Ora5W-2DVGQ7qZVGLTbol-fN98GOsJ0FWXcOnsnvAUvDdlCTxwPjU0",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "Teenage Mutant Ninja Turtles Action Figure - Donatello",
+      "price": "$48.88",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQH3Uz0sHZkV7wmH_S1SnZpeq6rjgKLSy16Z3NUOn-TJMLy7h_v0_P7VuErsP_LxeHcoe9n65eUsbVBdmh64h7AK5D1tBJRPg",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "Walmart - Toywiz",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "ELIGIBLE_FOR_BUNDLING"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-022",
-      "name": "G.I. Joe: A Real American Hero - Storm Shadow",
-      "price": "$55.99",
-      "manufacturer": "eBay - northstar_comics_collectibles",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR6YcZ0sDkSkGZyVTxjLamd_cXzG08kb5JzIcA68T4tJqZxDRB8JL-i14Wlnc_YnlmVL8uVSohTKKM1sxNCfJANgwqh9fucQCtgZpjJ9AV0ZgAI4Q-91r3CWQ",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "X-Men Action Figure - Magneto",
+      "price": "$10.90",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT06G67npGskxmMfys4ArbQZoKU_HMm4qoEW855aPyDrzaG-EHMw_5jctTF-FRy4z79QtglSslUp3Fn_KsQmjFZxnKAdQOTPBcUho8JEcfz",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "eBay - websterjackson",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "ELIGIBLE_FOR_BUNDLING"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-023",
-      "name": "Hasbro Transformers: Generation 2 - Bumblebee",
-      "price": "$70.00",
-      "manufacturer": "Poshmark",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJJxTeYSYnhfn8tQjYcP8gv8R5bWsZzgwLscksUOMbbXV_UCKQveZ9Y4MP3RZqfjrfPs6FtHtzc6Tk_PuFVkaVjlzgoC6Z25l8KVYhqzU",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "Star Wars Action Figure - Luke Skywalker",
+      "price": "$3.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRo3upZBdFHYAb5lAHS6gzGQa2BuCbEUKhOWn6JXP59GBeHPdd-gHrb8kJF0GIq962_1vjplKrjAMyCOkfk48H91Vtiotu-CN0nIpkPslIuP9Cz49ZMRZTbuw",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "eBay - bluesnagman",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "ELIGIBLE_FOR_BUNDLING"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-024",
-      "name": "Teenage Mutant Ninja Turtles Action Figure - Leonardo",
-      "price": "$4.04",
-      "manufacturer": "Mercari",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRLykbWY-0DNy4ceWkFfyoo6yx41hjm3ZeO5OlSMwU2Nfskl4uj94mTpGziW_D68V28-jIz5L9zmKiPvh8jBXqdExzJqdHsUC0xUqacrWabVGRWVFqR3AaJ",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "Power Rangers Action Figure - Pink Ranger",
+      "price": "$30.12",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTQLyaOjCeXkp-pNt37SHgb-lPdnpKQIPGXUvU5xsEdWBDqZTXehNkmVVzveH3bcre24b-m1HF84IUiqjvm4CgpKOF_5cpTUVuQ3_Y2Yta9bYsp0-z7y1io",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "eBay - starbasec3",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "ELIGIBLE_FOR_BUNDLING"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-025",
-      "name": "Kenner Batman: The Animated Series - Robin",
-      "price": "$66.50",
-      "manufacturer": "eBay - wheelersrelics",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTZedCPj-LXfwAvmZE6DUgbQu59Nya1UZJm_XsBtQF1f3AVJNnaASbPGD-bBI4p0_I4LQWMVgoPqx42u_BQ_FWbQUvPm8ebBb-pLvIXrog",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "G.I. Joe Action Figure - Storm Shadow",
+      "price": "$17.95",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS_1mtcFRymAXjlCvkCDin9Y4Y9_b7MSuzCf-NI6CnUIjFrXAaRjkIt8bJdHDH8SWInKMMMMzjtcoyS0Qepm1sUhU8yicWcyWT55ihsHKhbl7ZgQJ1HL6w2",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "eBay - ulfniu",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "ELIGIBLE_FOR_BUNDLING"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-026",
-      "name": "Mighty Morphin Power Rangers Blue Ranger Action Figure",
-      "price": "$60.14",
-      "manufacturer": "Walmart - Meroo llc",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTa1kzwrd6fRnQNTafAOGsNeE1s9v2PXr7tsLfewomPdwSrbvvQTK0ULZMqFhB4YVa81wbMoSHI",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "Batman Animated Series Action Figure - Robin",
+      "price": "$14.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRob_ZIF6jVehpyBUKaZibv5wXVC1pCFDuMgohd3McFeOoKUB7SJY-ik2Pvb4Pi93w9Jr4WtG1R2V5abwjBIo-Zo6ZfAFdC-4Zdmbs_3EbeGrgr54bvVuIrMw",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "eBay - 3rdstopshopbyrestorekickz",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "ELIGIBLE_FOR_BUNDLING"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-027",
-      "name": "Jurassic Park Velociraptor Action Figure",
-      "price": "$501.00",
-      "manufacturer": "eBay",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQlAUOEsbM-4PdxHTpiKkTUBRvp0nomdZ-qvQDPGUGlbG1TVQlPFh9EyhGL6sLm5HMnC_ZCEgFwcIQp_Pjjde3Q4Ta3cPFB",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "Transformers Action Figure - Bumblebee",
+      "price": "$27.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSuZz8iXsxZaAOdSdRbR6U-hDNtXEWYR83nWYMp-mawQka5xLrjAABNuPqhjzuFnWWrjJ0-oks",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "BigBadToyStore",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "ELIGIBLE_FOR_BUNDLING"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-028",
-      "name": "Marvel X-Men Storm Action Figure",
-      "price": "$28.00",
-      "manufacturer": "eBay - ruscinscustoms",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTtE-yR3UnJ3Th5NmcpdeQ9j-HLsRn_z6uDoKij7BY4YK-0169B9oxdXFCs4kqu6u4pYqmfXVy6KHw9kMByqgxD5U6KHrDbzlCFZm1lIicEjdhyLtgpTwgeyA",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "Spider-Man Action Figure - Green Goblin",
+      "price": "$64.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjKjGHCPuO_1w51VjK-KJkqzoHj5ld60JnH2mYlLqU7ycOErUall8YlpCyoT3qEWunRbrnXacfUh-NlFAOVln2omdyF_bdne3u5bA022-x8LjNPgpMyK5M-w",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "GameStop",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "ELIGIBLE_FOR_BUNDLING"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-029",
-      "name": "Teenage Mutant Ninja Turtles Action Figure - Raphael",
-      "price": "$44.88",
-      "manufacturer": "Walmart",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQH3Uz0sHZkV7wmH_S1SnZpeq6rjgKLSy16Z3NUOn-TJMLy7h_v0_P7VuErsP_LxeHcoe9n65eUsbVBdmh64h7AK5D1tBJRPg",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "Star Trek Action Figure - Spock",
+      "price": "$25.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSnrsb26-kcsc32Gg7bFKueI_a0cDy1ftpdWVV2DWKeSFUEbqcJIc5ZmVyPmFxD6RNojRoAqKL3_2s-9jWkL6D7FsV0sXnwgZD0wXFExISo0dRLUlAuC_CkRA",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "Best Buy",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "ELIGIBLE_FOR_BUNDLING"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     },
     {
       "id": "FIG-030",
-      "name": "Star Wars: The Power of the Force - Princess Leia",
-      "price": "$7.95",
-      "manufacturer": "eBay - thetreasurechest951",
-      "condition": "Market Verified Asset",
-      "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRsDji4xW37nNnmk-XawtYxNSMSS8gt-X2u9-f2nvQdbkAI-ifKX0HhppCN_P61FmBr5Lgww7kEy-8EG0kxRWMr14d9k-fW7ig7VX1YnnjWatw6dwgvUw8E",
-      "status": "CRUCIBLE_VERIFIED",
-      "targetChannels": [
-        "Google Shopping",
-        "Instagram Reels",
-        "TikTok Nostalgia"
-      ]
+      "name": "Jurassic Park Action Figure - Velociraptor",
+      "price": "$30.24",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT9pS9Buz39pOcxVbS0vM1Yn_ix93WZ16UWXpUHqM-WEatJ3xaufA_noLINtlg9S8qeFTDr-Xe3TdIW-kkwT7VzScMgw-UlGRngbVvZh7Rz",
+        "https://images.unsplash.com/photo-1608889476561-6242cb816d12?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1585828551406-89ae99131cb1?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1580477667995-15f7f329972b?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "video": true,
+      "specs": {
+        "manufacturer": "eBay - ron296",
+        "condition": "Market Verified Asset",
+        "shipping": "Flat $2.99 Shipping (5 to 7 days)",
+        "bundleStatus": "ELIGIBLE_FOR_BUNDLING"
+      },
+      "status": "CRUCIBLE_VERIFIED"
     }
   ]
 };
