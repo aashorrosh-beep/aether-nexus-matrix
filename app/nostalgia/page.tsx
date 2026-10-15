@@ -1,21 +1,25 @@
-// Mall 2: Nostalgia Grid Inventory
-  const nostalgiaStorefronts = [
-    { id: 'APP-70', name: '1977 Studio Threads', category: '70s Apparel' },
-    { id: 'APP-80', name: '1984 Neon Syndicate', category: '80s Apparel' },
-    { id: 'APP-90', name: '1996 Recess & Kicks', category: '90s Youth & Sneakers' },
-    { id: 'APP-00', name: '2003 Y2K Vault', category: '00s Fashion' },
-    { id: 'COL-94', name: '1994 Celluloid Archive', category: 'Classic Cinema Posters' },
-    { id: 'COL-98', name: '1998 Refractor Exchange', category: 'High-End Trading Cards' },
-    { id: 'COL-89', name: '1989 Pixel & Polymath', category: 'Arcade & Tech' },
-    { id: 'MIX-85', name: 'The 1985 Time Capsule', category: 'Bulk 80s Eclectic' },
-    { id: 'MIX-99', name: 'The 1999 Time Capsule', category: 'Bulk 90s Eclectic' },
-    { id: 'MIX-05', name: 'The 2005 Time Capsule', category: 'Bulk 00s Eclectic' },
-    { id: 'FOD-92', name: '1992 Sugar & Sips', category: 'Retro Candy & Sodas' },
-    { id: 'MAL-95', name: '1995 Halfpipe Hardware', category: 'Skate & Surf' },
-    { id: 'MAL-88', name: '1988 Sealed Plastic', category: 'Classic Toys & Figures' },
-    { id: 'MAL-97', name: '1997 The Apothecary', category: '90s Bath & Body' },
-    { id: 'SEA-81', name: '1981 October Archive', category: 'Vintage Halloween' },
-    { id: 'SEA-76', name: '1976 Harvest Kiosk', category: 'Retro Thanksgiving' },
-    { id: 'SEA-93', name: '1993 Winter Blockbuster', category: 'Holiday VHS & Decor' },
-    { id: 'MIX-XX', name: 'The Century Grid', category: 'Cross-Era Bulk Oddities' }
-  ];
+import Link from 'next/link';
+
+export default function NostalgiaConcourse() {
+  return (
+    <main className="min-h-screen bg-black text-white p-6 md:p-12 font-sans flex flex-col items-center justify-center overflow-hidden relative">
+      <div className="absolute inset-0 bg-gradient-to-bl from-pink-900/20 to-black pointer-events-none"></div>
+      
+      <div className="relative z-10 max-w-2xl text-center border border-pink-900/50 bg-pink-950/20 p-8 md:p-16 rounded-2xl shadow-[0_0_50px_rgba(236,72,153,0.1)]">
+        <span className="text-pink-500 font-mono text-xs tracking-widest uppercase mb-4 block">Concourse 2 • The Heritage Vault</span>
+        
+        <h1 className="text-5xl md:text-7xl font-black uppercase tracking-tighter text-transparent bg-clip-text bg-gradient-to-br from-pink-300 to-pink-700 mb-6">
+          Nostalgia
+        </h1>
+        
+        <p className="text-zinc-400 mb-10 font-medium text-sm md:text-base">
+          You have entered the master concourse. Please select a specific vault from the main terminal to access the interactive procurement hubs.
+        </p>
+        
+        <Link href="/" className="inline-block bg-pink-600 hover:bg-pink-500 text-white font-black text-sm uppercase px-8 py-4 transition-colors rounded shadow-[0_0_20px_rgba(236,72,153,0.2)] tracking-wider">
+          ← Return to Main Terminal
+        </Link>
+      </div>
+    </main>
+  );
+}
