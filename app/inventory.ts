@@ -18260,10 +18260,10 @@ export const masterInventory: Record<string, any[]> = {
   "the-christmas-story": [
     {
       "id": "XMAS-0001",
-      "name": "A Christmas Story  Leg Lamp  Christmas Sweatshirt  Fra-gee-l",
-      "price": "$38.99",
+      "name": "Fred Draggin Ass Mug",
+      "price": "$12.00",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTzfGmg4mSMNQ9RyM_L-MSzAAI3kkhSaoTT34GVHL0JCqXzmNKjNSwcG63anX42UUz9KJUHyC7A0_BS5vFwYR7mnXqWstGEn4B6HR5vjuNRROYFxDiIIG88FNI"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSKvxh7zYBionN4mgmHWgOI-f59QhRvzMH1WweY2KNopKtSTQOFo085ywDovwdfCJ3qtfgeptUz"
       ],
       "video": false,
       "specs": {
@@ -18276,10 +18276,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "XMAS-0002",
-      "name": "A Christmas Story Leg Lamp Front Only Adult Knit Sweater",
-      "price": "$30.00",
+      "name": "Funny Christmas Toilet Paper Gift Holiday Gag Gift Rolls Sto",
+      "price": "$5.00",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQC-Bq7iV4_whA0wd69YadeAaK20HZUjZ_I_nJ1UyYOSjysMGvCmQk05LKy0AwKHlslgXd5NPo7vTq8yk07xv2rnJb2xeeZ4ovU0AtFDaYW"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSXlvOwhEuUjl3QmQxeTKBtyu19kMJlA5MYoNH52zRJFoDjQJZ4sA2EhC0UTvheg7BFwuwpnUr1"
       ],
       "video": false,
       "specs": {
@@ -18292,10 +18292,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "XMAS-0003",
-      "name": "Fragile Christmas Sweatshirt The Leg Lamp Christmas Story Ug",
-      "price": "$29.90",
+      "name": "Funny Adult Activity Book Funny White Elephant Gag Gift Secr",
+      "price": "$7.99",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRyPZyNPy7-QOjiyIQIKaPbeo9y4kOz7dl4BxMjfDvaA-7thY0jAxBKq_nVuFrJ1s-tctEvIXVEXxEzRQeWuLcwYbiY7er-JBYzLO6F9ypamrLwVUMmprZhfA"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSoo96iXqvom1wOJKJCrKMxL9pNnynBYRwNRTgsVjNbB-hpIiO27eKbjuNTQw"
       ],
       "video": false,
       "specs": {
@@ -18308,10 +18308,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "XMAS-0004",
-      "name": "A Christmas Story Leg Lamp Funny Ugly Christmas Sweater Men ",
-      "price": "$42.99",
+      "name": "funny christmas gifts  funny white elephant gifts  funny gif",
+      "price": "$13.00",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTLfv2iUEeMT_3Gu-wpsDLIHLaZglqgjpwuCe6SglWrvqLPW6DqBSCEc1n65wkvmSuTBmV1zi-UMseq9Bshqi3NwhyAxUfF1t4mYPZETR0CYQjoiV9bTwEZ"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQSKRL0zXfQbvAeMk7kpPIR7XF715RNEUONO1yJUeE1tb2N996BtG1bcQU4jp2bUR_No3tsBLNQ"
       ],
       "video": false,
       "specs": {
@@ -18324,10 +18324,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "XMAS-0005",
-      "name": "Made to Order Ugly Sweater A Christmas Story You choose Leg ",
-      "price": "$75.00",
+      "name": "Hilarious Prank Gift For Holidays Christmas White Elephant S",
+      "price": "$19.98",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRj_n-N0PcKKb0yr4lx1BCJE9tY5-pLDHXK4y7WClVH17lEGi9dAt933KBz4S6ndaeeOCnZSAVvCfBREAwYPPM_72AK7ZaQEfciteijAkc"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTVfkuHtRmk5OXm9fW7rwZbxH0j_Yg9hVqNjG7Ryu8JXqT98e62o2ZJOG_eqtE"
       ],
       "video": false,
       "specs": {
@@ -18340,10 +18340,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "XMAS-0006",
-      "name": "Christmas Leg Lamp SVG Fra Gee Lay Christmas Design Funny Ho",
-      "price": "$1.85",
+      "name": "Sarcastic Mugs I Cant Be Held Responsible for What My Face D",
+      "price": "$16.77",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTVvFSCCATimRvQCOONwJ6KvVlRMysFDc4oZk0Gva_5cfXKCEt-4lvR2_AGI32LmcDzc8mIu713ab7WrK9-mj-AH-gLiNlOprKO2OOuZ4U"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTu-25mmqo5npMSfVmnb8m1gzdpSTNtGO1zKWKHtJHkpWms5u7MMgBpiGnBhb-12WNQDqBDzq0e"
       ],
       "video": false,
       "specs": {
@@ -18356,10 +18356,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "XMAS-0007",
-      "name": "Leg Lamp Ugly Christmas Sweater DIY Kit A Christmas Story",
-      "price": "$34.00",
+      "name": "Fred Chomp Pot Holders",
+      "price": "$20.00",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSAFxd8ruXB539v5X2cum3ex0ZSCVwpI1oyzMZ0MJyBz-wzkUuwklOENElh4BaahnrrVTHawGuR7DplQPzOyW9XKNtsnia0S2XBbYwBoksGopmbF-35JjtS"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ2hol-0xhlzE3FwgiC9lnzlHKsxd4dln5F0GuRsNpa3qfyPo0RWuxK-tEXzHV7HZAevu7tY0k"
       ],
       "video": false,
       "specs": {
@@ -18372,10 +18372,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "XMAS-0008",
-      "name": "Fragile Brwon Leg Lamp Ugly Christmas Sweater Sweatshirt",
-      "price": "$34.99",
+      "name": "White Elephant Gag Gift",
+      "price": "$15.00",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTcSrU5P_9Why-HCZaqm7Kb7quSDYMLGLgM1n3qk6tIDfzQGSXYZTbVK8HA7tud5NvNhp7e4M2BYTmUBGLUL2tU_umj6aKvOKikfTYSiDesWb1WimgKS0pAAA"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcToD4eInvaDDXehyKo7BOniBVgn66cTC-zgn7q5_v1_FzP8_VLy-8IczbNcGw"
       ],
       "video": false,
       "specs": {
@@ -18388,10 +18388,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "XMAS-0009",
-      "name": "Its a Major Award Sweatshirt  Funny Christmas Sweater  Leg L",
-      "price": "$42.99",
+      "name": "Seymour Butz Home Liposuction Kit Prank Giftbox",
+      "price": "$15.68",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTkX6wW3mUWGkUN0KPua-hPAxmsn7eVd2_ImINNxVnHbeq1ToHMIAZRgqt5rsD0Gy0Okjwh7nU9uCYMv9ejVBUAqLPklId32xN3iUD14e_O04OKdgrih3zu"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQKB7El0lpLpvfA2t3FVtsXhZl0hcJ4CJrvtpGYi0iBRagY30FJlgh5yMTyrKFlPo27Lp1kGe8"
       ],
       "video": false,
       "specs": {
@@ -18404,10 +18404,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "XMAS-0010",
-      "name": "Womens A Christmas Story Fragile Leg Lamp Light Up",
-      "price": "$53.19",
+      "name": "Funny Christmas Toilet Paper Gift White Elephant Gag Gift Se",
+      "price": "$10.00",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS823MM_dV8oi0lHzFB9DIJ3_k7wafM7HRyX9CR8X2qz-1L8IbXXOTWa_cn9Zl7rovJWZZAzDCviJpF8134T1etr8muuRIHXe0ewwkaL6c"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQH8v1jCnrfdRNHpbpwKyOPIaER9WjA45ZIsm-hfOacEDkAyIZwgLpQAVuGGSxb1Q8KRqMP9XDV"
       ],
       "video": false,
       "specs": {
@@ -18420,10 +18420,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "XMAS-0011",
-      "name": "Leg Lamp Ornament Its A Major Award A Christmas Story Orname",
+      "name": "I Was Told to Bring Something Funny A Christmas Gift for Whi",
       "price": "$14.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRpRJA_h5of-ykiXyktH4vDcCUAMTy7DevOWgHxsiHG8m0QMhjPSZNZ4ow1a-wQgF3-Wt05FkhDaT-sDIMD1vGvAN3VKHeSCbo5T4CWqgTO"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRkQOgOujSKy__d6EhiwVcQdf0sYSwsq4WsBXR58WqCWuakl2mXAAIlhon7jO7nVJ5qrJHACFo0"
       ],
       "video": false,
       "specs": {
@@ -18436,10 +18436,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "XMAS-0012",
-      "name": "A Christmas Story Leg Lamp T-Shirt Funny Holiday Shirt Fra-G",
-      "price": "$29.99",
+      "name": "Pull My Finger Mini Kit",
+      "price": "$12.95",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRcCRT7piXnABGJVwTDTye5RagzUw7lQ9e7cOXbsK_Rl3C2dgLHajqaHRENenCsDfZlY2KvHIEWbv_LzFTa85dUd9DcEkbvR5bavt205RFcpXRa1WVb-wsDLjo"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSHzi5bD-2xH0yeokWMRiEKkod1BkRl8LrVZKvED3lsfLm1Hrwg2c_T_qgkoHSod3r-4TRPTF44"
       ],
       "video": false,
       "specs": {
@@ -18452,10 +18452,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "XMAS-0013",
-      "name": "Christmas Story SVG  Ugly Sweater SVG  Fra Gee Lay That Must",
-      "price": "$2.80",
+      "name": "wine Nanny Prank Gift box Perfect Gag Gift for Funny White E",
+      "price": "$14.76",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQVUqMmrX13MLsuK3EqAEMvbvWgf6eNQ2WlrNnGSYb2dvhrl_RoBny_EPgzG3sV2JIZMdZVBJ3MZSBhhVPFGOOkYhKgn3EwbwxPGLSQyxzn"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS65RRUKEpBfYNBeb9fyDo_wqdA0kXW1ayP2r8r0bvdE5PfMcVDwgXvvpqYBZ2CsDH5Q-Y8b60"
       ],
       "video": false,
       "specs": {
@@ -18468,10 +18468,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "XMAS-0014",
-      "name": "A Christmas Story Ornament - Leg Lamp Vintage Ornament Funny",
-      "price": "$12.00",
+      "name": "Funny Christmas toilet paper secret Santa gift White elephan",
+      "price": "$10.00",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTubxdL5UdTvaxoBXXXc0gtamqg7t2xQSvTcvrdfolAiwOwNT5DzHYmZnXKJDpBu46eu7vGi6U4rbSaM6ypeKOTnSJeaspSD935aVT7sZOp"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQbDKEujSJHOQcuqaDlqae3m6wocRK7SY9EubIX9e4pD7tBeRhKRYskgM4l7aI"
       ],
       "video": false,
       "specs": {
@@ -18484,10 +18484,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "XMAS-0015",
-      "name": "The Christmas Story Leg Lamp Ornament Humorous Holiday Decor",
-      "price": "$22.00",
+      "name": "Hidden Message Coffee Mug 12oz Unique Christmas Gift for Wor",
+      "price": "$16.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQU0l1VfdWnCvJNWmwJt16ZgS04-sBQsHKCcbqfD7XoFsAFgUDepJz8cLmmGLF03Gwy_dGzWfdI2xbjMQEcigp4yxD04BXGZbg-uvHayJ4"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT5ZZ5PXHIf7M1irrR2pGIFR336-ibdbB9uhMF-CsBcFHfkP-iNpvmHzHagWA"
       ],
       "video": false,
       "specs": {
@@ -18500,10 +18500,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "XMAS-0016",
-      "name": "Crochet Old Man and Leg Lamp Pattern Funny Christmas Decor P",
-      "price": "$8.00",
+      "name": "Stereotypes - Funny White Elephant Xmas Secret Santa Gift - ",
+      "price": "$21.73",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTCx9o-ibVWLn7-irVVXI4pR7jmK0SlI3AXLoSqJGdBTvxI4wugTAxzmlgoNP72UbE3j2OUTPXgvPxaltxcbtvj434Rveesjc2PDrHP5Z0"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTaBbKYvvSzG-aa39fBKiY6x81Cg4slTJS30DY6UK2qXAmhi59kTeQYnKU1cRRLPZv3_08MzLE"
       ],
       "video": false,
       "specs": {
@@ -18516,10 +18516,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "XMAS-0017",
-      "name": "Mad Engine A Christmas Story Ralphie Broken Glasses and Leg ",
-      "price": "$44.95",
+      "name": "Belly Button Lint Brush - Christmas Gag Gift - Funny Christm",
+      "price": "$4.25",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcToMvVnABSdmcFhr_GLGhKhhq8qXj45eMi8ZGFFoSRnaVeIONRA89j-NFdiF4LO9DdbkRjNhuyXxtT8-9PhFJRoXcnVblEdhAvTofMaclQeNsw5-W7O2dmA"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT2IPQx4FOh56wGRsb0lruXtG9LYRKNC6VVbeBn2EesEAurfRq8FHB1aij5OQ"
       ],
       "video": false,
       "specs": {
@@ -18532,10 +18532,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "XMAS-0018",
-      "name": "Fragile Leg Lamp Christmas Story Ugly Christmas Sweater",
-      "price": "$34.99",
+      "name": "Home Liposuction Kit Prank Giftbox - Perfect Funny White Ele",
+      "price": "$8.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRROp7W52Cmk7zt0_4PDjiDqVPax0aEFMjZHh6972tFCd2onRhmsxlN5qni-BGcyacgB4PyWEjZh1lfJhYK9pzYu_PUpXwpCOwwDL3YR_gsHSktFkF_IRDYrQ"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSgxwCvbWrYWvLdeQj4d6j6WivoM6PwpMfMhCFSkHqSY_RK2NPcVRanURPmvJOZHzZRDT2zJ8fa"
       ],
       "video": false,
       "specs": {
@@ -18548,10 +18548,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "XMAS-0019",
-      "name": "Funny Leg Lamp Christmas Sweatshirt I Hope Your Holidays Are",
-      "price": "$33.50",
+      "name": "Blinker Fluid Funny Gag Gifts Great for White Elephant Gifts",
+      "price": "$12.51",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQw1MjmiFq0BQtCjzEFHhXsA6209ZN1rIzurH-0Nbc5Di_PnGPpUWrs90EhmoetLfyf2ZEAQ9q-8sB_04rkTY3KEXsKrSk521FVyu3a0IKbMxtOhFAdrxn3"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQsKJQEDFSEbXzQ_qx3uhPe5UgxLD6zbvVQp1iNhQuPtFOhf1yt3SeqHELFd1soA4DtxwPL5tZ7"
       ],
       "video": false,
       "specs": {
@@ -18564,10 +18564,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "XMAS-0020",
-      "name": "Christmas Story SVG Ugly Sweater SVG Fra Gee Lay That Must B",
-      "price": "$2.80",
+      "name": "Redneck Washer and Dryer Gag Gift Funny White Elephant Gifts",
+      "price": "$3.00",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTs-Pzvwnk5hBaeumfIw9G1cGPNTOu3tF41Rr3-Pvyi_cYxuDxaImw1C7QiJT_9yR9vzohcMu_DanyxwdcfE_c91smUpfLm3_4722rgdMhO"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS1EdD1UCMG_EkQmfvMhpV7e4xNqRFlKCyiExA7j_O7_4PsThoKtw8svgFIrzgOu_KKatMBHIOU"
       ],
       "video": false,
       "specs": {
@@ -18580,10 +18580,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "XMAS-0021",
-      "name": "Leg Lamp SVG PNG - Major Award Funny Christmas Movie Holiday",
-      "price": "$1.80",
+      "name": "Blinker Fluid-REALISTIC VERSION-Hilarious Funny Gag Gift for",
+      "price": "$16.99",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSqaDALWm6Up4uTzKh1qvSsmNNrurIRR0_Lf2nrjzCkjrEzqENC89UtGUZr1klNQSEiBOLUzxTYLzRuxULC3aMql9B7KypuYW3_Uw4aAD4"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTRL1BrVWBnenZhhlzNBIdNb5IF1uhovkDzh7_XI_gU20_lmx3hwX4cQ8yw_jJg7WI7n6VelQcc"
       ],
       "video": false,
       "specs": {
@@ -18596,10 +18596,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "XMAS-0022",
-      "name": "You Were Always Jealous Of This Lamp Christmas Shirt A Chris",
-      "price": "$9.50",
+      "name": "Novelty Candy Pill Joke Box Gag Gift for White Elephant  Sec",
+      "price": "$7.03",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTs4dihJ0-xWTfp8rorQLHOG6msy9oqiJS6HjNkvBDnF-CNNOhCIXodomkBCcuRBk5ncaMznug0xc0SbsK9v_6PzPfax0lSsj0tCSgXZcRY"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTfL7m6QTi2ZLn0Jg7cOUj0W9xRMYkKIyTGjq_SKiYpYZ9c0jI"
       ],
       "video": false,
       "specs": {
@@ -18612,10 +18612,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "XMAS-0023",
-      "name": "Leg lamp Christmas story sweater funny Christmas sweatshirt ",
-      "price": "$40.00",
+      "name": "Gag Gift Funny Mug - I Know I Swear A Lot Funny Birthday or ",
+      "price": "$15.93",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTZ1mx8ab787PRv_XoYfv9OAkX2lpFM4YLh_29wk76GvFhx8SJ0chJ2NqRZYgAdiH25DVclsXd401SQLdpY-UBAy3_cYbte--n7wyY6oynr"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTHH7kWXjiaukKb1OMFjEGgovC0rCFyyD5VbaoluDsVWTUY_fUTrXd69JOetLeRF1Q8Lmjs_Iew"
       ],
       "video": false,
       "specs": {
@@ -18628,10 +18628,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "XMAS-0024",
-      "name": "Leg Lamp Christmas SVG Its A Major Award Ornament Digital Do",
-      "price": "$1.99",
+      "name": "JEANUE Middle Finger in a BoxGag Gifts Funny Gifts for Men G",
+      "price": "$22.26",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT6NFI4Sz-i-wEXorK1q6DV78RBh44DvL2acz6DZW6ki__4CqtdJ0fV0HY7nWIR5X20rYXtHQeqSXAkSw-u2akXWWVSfH6UFbMdm2q108dKKDZAnvtzPiGX"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQKh9MCg-OSOJHiNaI9HqMmgilBQQoQeijuWIZ5qiZMrTuAuLkQvy3z3gXYyQ"
       ],
       "video": false,
       "specs": {
@@ -18644,10 +18644,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "XMAS-0025",
-      "name": "You Were Always Jealous Of This Lamp Christmas Shirt A Chris",
-      "price": "$9.50",
+      "name": "3D Printed Bag of Fks Novelty Gag Gift  Funny Office Desk To",
+      "price": "$15.00",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSPfZr1zY6kR1xT_uT21Lpk5UdVAEDFfOKM7NzmgvOUV23rUC966ttdodT_nEecD8CzrX0OOX6RDtDtXt5K9GrOtD2ZsV6ESehB-bsGq245"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTtDBkuujtFaDQGdIQfnbxcH0U1izRLGZqvqZi5Salh-zGJtXA"
       ],
       "video": false,
       "specs": {
@@ -18660,10 +18660,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "XMAS-0026",
-      "name": "Mens Tipsy Elves Christmas Leg Lamp Ugly Christmas Sweater",
-      "price": "$69.95",
+      "name": "Bottoms Up Funny White Elephant Gift Christmas Mug",
+      "price": "$17.47",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSGbm3Y4eOQkPNzFpHosewuNNSzuokg9MBrMyHwfN3WUj3oEbkDxcb9KJd1CN7bursFmsELLJ7_97PE4ZdrQC_jOPt7q-QU0_CeIAk3EyQE"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRpVnGXzRcEgbyHxCimRqG1j04KMCEU5qYd5rjTyGR_W0LFS6tdUSbsdvsCbn3KSc-Sz97yszlb"
       ],
       "video": false,
       "specs": {
@@ -18676,10 +18676,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "XMAS-0027",
-      "name": "Porch Goose Leg Lamp Outfit Funny Christmas Goose Decor",
-      "price": "$45.00",
+      "name": "Hilarious Prank Gift Box For White Elephant Christmas - Fun ",
+      "price": "$16.89",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQhI1H33ggd9tBoBtKfEodCjN4r2-FLGFugmkQmRcw2Dxbh_voIG0Z7cYhguhHiOkll6afRA6bZZN8rqId_qfzUEqTFnu5wuPdD-j2cylI"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTN682hdapeh4mgzTk2samHKowGWPZAtIjHr6G8c893N6_OZY3r-RxVVRDZ-EP26C3r-VhO-PQ"
       ],
       "video": false,
       "specs": {
@@ -18692,10 +18692,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "XMAS-0028",
-      "name": "Leg Lamp Fragile Get Ugly Sweater Size M",
-      "price": "$24.00",
+      "name": "Embroidered Christmas Toilet Paper Funny White Elephant Gag ",
+      "price": "$7.65",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSGd4tUOYC8_2hzpZG_cuJhauQkVp37D4ciQLn_94WnAZGru5O7oywohf2HhZzNvzu00CmGDvyhrzQudWPsUQyS0fxftbGH-_ANfJpB-0gD"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQPln-_H8AFnULnOYCx68OxqHwLcH6pX10rI0P6L-OZA_AwO2n5nkuSIcDfE9GWu-d2FaDiPqw"
       ],
       "video": false,
       "specs": {
@@ -18708,10 +18708,1306 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "XMAS-0029",
-      "name": "A Christmas Story Leg Lamp Funny Ugly Christmas Sweater Men ",
+      "name": "Donut Holster  Funniest Prank Gift Box  Hilarious Empty Gag ",
+      "price": "$13.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSp241GLGg5z4wEKdKm9_cwBvXml9CkIC0XYSWZXOIKFhvG2-Ubbyez7W0x9GAbdzRr4pDHy7Er"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0030",
+      "name": "Bmmff Novelty Gag Gifts White Plastic Toy Quirky Prank Item ",
+      "price": "$13.61",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQAbkv_SXsG9MZ0J69ts-61d81_8bcxipVQuSyJBCNOT94CSDb4E91jaMYmu4EzXmFMJTZiwfM"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0031",
+      "name": "Merry Christmas Ya Filthy Animal Snowflake and Reindeer Ugly",
+      "price": "$36.95",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSqSt2Ta9IMvrPTlZWA7ek7EkYLa0Csf6tyqkfCmptLQlJDVMiAL6mS5S9bWOXeXw3J1ecJgFaTTCm4AwsSbDG_YJ8aI_tKba7jSq6rzGuf"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0032",
+      "name": "Ugly Christmas Party Unisex Ugly Christmas Sweater",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTFFzdD9Hc3YFYyR-Po7KLYlNxnuMt4uX28RlvML-iDvufhR0E_p5QWHRCPMNDrZb-1bCtq02ONEQBgMjwBlhaCCgmnCBKJCCRjd9MIBX5c2blQbLq1-7Ep"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0033",
+      "name": "Womens Christmas Vacation Fun Old Fashioned Family Xmas Ugly",
+      "price": "$38.24",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSka8g3MtcXH3iRlLClEk6kI18LVCL6eGfiWvjxQlDC9GDWUpyRl7ChOgAmgs9DMrXfd2d-Xdx4mmGH6wXzRwwx_k6N0IlRSOmmbWYXsXowqyHW-jPlg7vP"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0034",
+      "name": "Mens Tipsy Elves Roof Santa Ugly Christmas Sweater",
+      "price": "$49.95",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTpmQDgDp4oDUMHHVZRgXAV0KVog7Sb4uwZnM_OoM9XNI0Zy85m-L2vGJVzL88BhPt2-YuZF2g4hx-EoVZdlKaqQST98Fr6OT54Y0LnWPuauJeuM_mNX70fOw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0035",
+      "name": "Adult Funniest Xmas Movie Ever Wanted Bad Guys Unisex Ugly C",
+      "price": "$48.29",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSLk_hnduasgdxPT4eWDpKs_77wLjsoWtXfwalszDqdp_Tv_4D123Q2nSDUi2-HxnTUBocZBo7vdO4hQM4So9HFegaZPlcG4mCrI9ZbOtE7bW6VZBw02WKYCA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0036",
+      "name": "Silly Cat Vintage Ugly Christmas Sweatshirt 2000s",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQNAg9pvAACSWtCdFslQQTA2Yfw_XI53YRyf0u8zed9QnxuIzIjjQsHC5sMHFOLprPTyZ08bzEgoSeQ2-ynXWnqEhtAM68ZzhKqDYIPyWnUzvyDcFQRtXlE"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0037",
+      "name": "Old Fashioned Christmas Vacation Ugly Sweater Mens Small Swe",
+      "price": "$67.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTLvnpHAxxBPii9f9WSLUkFvo6R5H4IirbYdwUSzy-0qEBCED6X1Af2hhMylb9ZLImuGAnRrjmot0lbvwfwmkt6DzpoMl14G-M4cV1tn6s"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0038",
+      "name": "Smoking Rats Y2K Ugly Christmas Sweater",
+      "price": "$39.95",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS_q9FJzGTNSTUj4zoWTs_AoKtL8u5_5pSBHNUaPe--7Sl2hSuvFg83dOckAaeyvqXaMq0VUVf5n-KbO-9Nhgv7EKREeIKh5dn0-cS4c0g"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0039",
+      "name": "1990s Christmas Movie Quote Adult Ugly Christmas Sweater",
+      "price": "$49.95",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQVRUknUw0ar5TAsA6H4hjS80IcZLNqt_Fz1thdtsnh744TLpWiMCrDXaqZvO6R7du7XJAele1hCfx9pq1_M_igF9Y01ggPu6QU8E_ZjcWY3N2vf3UhM4wptw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0040",
+      "name": "Silly Santas Vintage Ugly Christmas Sweater 2000s",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSeyEL4ID82Q6MuOtdINs6j6p8s6bUwg2jJZSPrIqRFJeMSGBrOmgkASqxy3vKM65ukf0yRucGDL8gOSHmILES2NoSX_2kfHbCuMt4jak-0QMdvEHyXqwfkSQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0041",
+      "name": "Tipsy Elves Mens Regulators Mount Up Sweater - Green",
+      "price": "$49.95",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7Yw0KK0LgLXLnyIUmRyTu2FO5DIE3Q_EahS27oklso2WPRbGZpocFMzCLgV1-9Uwyx7PfSj6GDbKCQztDeyQFOrvSO1jfAk_6R0rHBRJNCfrSgJWS12tw-g"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0042",
+      "name": "Vintage Stockings On Christmas Mantle Ugly Christmas Sweatsh",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS7OTk8RACjRZ8i7JW5G7mdNw_tgs5Fs8_qbTA9VmrRUJG7mZRvzlcIHfwbllfe98-n68SHKshWjo66m2ak4r7GkVZjM4gNy2N4AdLVUiCL0O9TNmftzxfI4A"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0043",
+      "name": "Shut The Fucupcakes Christmas Ugly Christmas Sweater",
+      "price": "$41.95",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRhH444o1Z8FN4fINPI3ZtBetufnc2_n2pNWGgTnh6MI7ybuK6FiHhObK-YNeGtivlOMulPPCT6K3IOtJ7RrHEje3ODQzjxkAyXzOpWAlGa1ftwxQntftKDDA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0044",
+      "name": "Let It Snow Vintage Ugly Christmas Sweatshirt 2000s",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcStpMj4Rlu5I5QbB6yy_v1yasGbWKiFBT3d8ptAITu9Xm9pD8ToG3AMn_mBPW0KyA_8TmSbu4xJqWRjoDNWTBVvuXgSol7Qy63IObL2waTDPxG9XsQML6O1lQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0045",
+      "name": "Jolly Santas Vintage Ugly Christmas Sweater 2000s",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSa6fjhnUX6o7ajaqmIMhkpdjyO6PvpsxnPmWgqoI24nGH45v64bIxErcUUSd7qDuYhUO4qrzdxwYYETZ1AotulqBARE_kdKSIUNu7V3ZKDsDNID6ta-sF6"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0046",
+      "name": "Chicks Deserve It All Tweety Bird Looney Tunes Ugly Christma",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQe6tdWqyxvMAO7IIyAucABUP4fnI50a5yGwSowOyv2vVAIRWe7yx9_PDrZ8Z8Tcwy6tNGin86Y8kGhDHiSPaoknvAk1n4R_mL5alN2h_0PVMFsfTLwe-wxVA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0047",
+      "name": "Funny Retro Xmas Pinup Girl Ugly Christmas Sweater Oops I Go",
+      "price": "$49.35",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQZu7874TtmM8AvvLcDBUmH5zkT2QdepZGE7Ndh4qBsjwyG8InNXrxxHRYze4wCVQPZp67jtHC8BhykxfNJRYuKzaHVosQlQv9gKMeZcecQMF-tBTh4e6df"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0048",
+      "name": "Vintage Merry Christmas Taz Looney Tunes Ugly Christmas Swea",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRzD8-s-xsQZEflSwJUsUvdg4cp7yJKwNUvuK6q75guT945qEQMafCc5d-2nRYt3qsFfhRoBrbit5J1hZs7GwuB5LeWaE43n5lHrNyKP6jeBGoJ-XsFxvrA8g"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0049",
+      "name": "Whimsical Snowman Friends Vintage Ugly Christmas Sweater 200",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSaKI4Mnbh264AyXBL-qKKNAiTP-mbbUYpC9XGlF7v7cKZvCoYUfZUdXcnf0IypSaUiW6Mj7fh5kRfXZqKhc1n7LZv5xSrsZCIN9rxkgHAJavRSPFBHMnk2dQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0050",
+      "name": "80s Cartoons Movies Retro Ugly Christmas Sweater",
+      "price": "$39.95",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQZO104k8WsyXUd6Qcz-kRB17sqIJCChgn3a36FbOLwNy1jC450eLl-vBy9xqwAy4kku-tIbS9d4ihAryEgR9Enrhn4CvCiABcYvesJ-Z8FWo1e0FQBsNm1"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0051",
+      "name": "Goofy Santas Vintage Ugly Christmas Sweater 2000s",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ8giZH1_6-69KoLMvVf7PbI44dkKSK1bW1MoMD_IZJE4oy6z1fvMM9x9C_yQ6FjAawsfPsHnZdpg3jMc63zgrURGpDnCnV6rnK6tfUmdcJEKHsO5IfNgRpkw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0052",
+      "name": "Vintage Ho Ho Ho Ugly Christmas Pullover 1980s",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRFZJ0lNzvToQDuJSSPa1y-BiJua2lhzNBtAN_lHKFg8W8BRe6zcEmGZW7WlZxLydTSxDrnXSzM2p_75pu89LZTlWyLibBwP9YOm5KdytaYphWWiN0MHkdTFA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0053",
+      "name": "National Lampoon Vacation Shitters Full Ugly Christmas Sweat",
+      "price": "$35.24",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQNMFfAT6PIQ0UoHhw9zEKONgCm_HLJVd8aJtWurm3vJkSsCZpXDlH1ZhNsUPm3eDzsfKKxFgawECr8rqEK_9Niu-0LCvIUfSoFCVBUcNaWvnekzl8VAJc7eQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0054",
+      "name": "Presents Vintage Ugly Christmas Sweatshirt 2000s",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSl-v5HUXtfZKMosCy3_ppSPK96OgGUsjYSg5upn8VHXaUZqIGpmC8Hb9S6APBBg8aORn9hG6eV3PSlundk_RnxHj1gO-zrfGsDWZLAC0aj0oxWFBSszSCKuQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0055",
+      "name": "Skiing Snowman Vintage Ugly Christmas Sweater 2000s",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQrxuATzZtAYTl--wnIr2s58Rd7u4X4Aa4OjiWQEDeOE-LR53MSOhyLZ7kJmM5CAsWTtjrgt8HVpvYiusliFUuG7esaFkkz64Yz4MF5JEHbujrlTNu8IXzcpQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0056",
+      "name": "Its A Wrap Presents Ugly Christmas Sweatshirt 1990s",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTWHffQsrNYvYiarnJVCXEvqjWSdINGK1XEig7Nenwii_ulMjqAuzEcgZMQEaHJ_LxQZLeQSaZjYRobau9oMiN6kOAB6eRhrtREJkmXgLEyN0ere9BVII7rkQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0057",
+      "name": "Acetaminophen Funny Meme Vintage Christmas Sweater Ugly Xmas",
+      "price": "$49.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTU12OhhatzTHk0hd-xwK__sMyz_H8WNspjoP672D9fswP6SWnikSk95AF1P_F3IMoqVdRJ6Xf2LXyv2OFWmKZqQPAWN8reCfHRi-mrTqKmsO6MILeRWKhj"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0058",
+      "name": "Vintage Dreaming Of A Green Christmas Betty Boop Ugly Christ",
+      "price": "$39.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRMqgX4vKgod2vK4RaKKEnFe15BXoZXYHbvtb3ahEVJdQEzVqMvCKxwCrkxtni2h3NKtYWtO_PLplMeGfiLCpERsMoMRum4Se0Y4LcdFDDUJuUsgL_GYAMS"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0059",
+      "name": "Snowmen Friends Vintage Ugly Christmas Sweater 2000s",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS_ykOHiWlYBqlM-yBvhXgchv9xAVKoyPbXfrcDoBoRUEEDDgoA_qy0wlankSyP8sw1jPgOtgefO3-wiu8MOqPsgwJMEjxsLTHdwJOJTITMR4N7eB3gKRB87g"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0060",
+      "name": "Vintage Black Ugly Christmas Sweater 62314",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTpsdY26qaAWqfxngAmniyQM7PlUGDC9Eo00GHLLTRlrNWW5Yp_0Cfw7fkF2wJ2pVNPlMbXLZYo3SV1Y-ms8zKCTnFLcKI1Q9h3h_iIa9u86uavEah4NQyF9w"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0061",
+      "name": "A Christmas Story Leg Lamp",
+      "price": "$39.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTw5ZIrNKpTQuHKtJLyPcvSDTC4Pj1pd1drlUd1U4mxb9vITbh97LOKe-412KX5cJHit9Rf98rv-OMgqJQYameOarjqKoRlrovoeTksRMN-pS-GA6KwlzDXwA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0062",
+      "name": "NECA A Christmas Story Leg Lamp Talking Keychain",
+      "price": "$10.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTuMUpoAEi_Y_7w_4I11VVc-hyMeIVtSY6m9FSfXSSg5oOpYwkqYvLxqKWGhNUSZlP6qDMnSRwNeTqXhaW7CP1OElbMoLOT6BH-UQjnvepEbIa1oyhBVlE_"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0063",
+      "name": "Hallmark A Christmas Story Leg Lamp Christmas Ornament",
+      "price": "$10.98",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSwcM6oAhARDUz9hcaqsZa9oL8KJxkL0DBbVQMA5Qgxiz1UTvCvXYoaq5SvC8ZPIwBwHZaYe9ueMhTwDP1q1KczkrItLfY00sFexE0nQdYxEJCvwsDFxnf9tg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0064",
+      "name": "A Christmas Story Leg Lamp Mini Kit",
+      "price": "$9.95",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSEwyVrTlg1yMa_eFw3mQ55UBcjexxtwcgBKNLshWTsaMXZbq8ae0huRoq8D8X2YN0iRP8_1BsUOEQ37jgp21Q9aRFhJtxetaPntuelCyvTaZ7Q1Onv2HfC"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0065",
+      "name": "Leg Lamp A Christmas Story Cardboard Stand Up",
+      "price": "$49.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSft3xQAITHM7JhP0AiJ9s7sTTjGVTbU3lhWV4jlHGzWXCZRv3W5LbmEv86zIeTsXb-URHFcBkYXLy6oIPgO_gqvE7e14-WLHxZC6H3L6Ae9m20zNYO82Ji"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0066",
+      "name": "A Christmas Story Leg Lamp Night Light",
+      "price": "$11.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSsfTmzliKk65czNAOBdLCwL2-KyrTapZtqpaiCnvRAAubV33YmtiNHl4bCG0HOkYWsRZbvoQPo9wpiTa05upp7v1W700a4XSgNYUWHS-PkeuCWeZo3ficm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0067",
+      "name": "New Era A Christmas Story Leg Lamp 19twenty Adjustable Hat",
+      "price": "$19.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR9eXgB5NFrgjnAJBuCDM9Y9e5t1J-Z2KUZHM2XessrezyK6iykKnUZySmzdgfuUORfPYGSIRlasYEJF2dn3g_qaYOMo6oGhX5epR4diQ3ZGJXZWPg450ksqg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0068",
+      "name": "Mens Bioworld A Christmas Story Leg Lamp",
+      "price": "$33.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT2S7xnnVRv0v9gLrlac-uKpF6bzN_QpWBNKJNGiQSFqrYqGkmfeJgMegihhSYZqYzU9QPl8wzc23zkU83LeE4JO3IwEw9mYIpy6J2ZA8FqVS_AtlbKyiRI4g"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0069",
+      "name": "Spoontiques Leg Lamp Tabletop Lantern from A Christmas Story",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSfo17pTGRNfKjymVVuNkc-WYZePkOb4bFIBlGtalZT3y42Pmjti_iRffaMsqzjL3qY_WPhUlhLVZLNnqkzWSdzPM88ZEuaMZhL7P7xZSiLSwbQdYxz7f3jzg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0070",
+      "name": "A Christmas Story Leg Lamp Scenes Can Coooler",
+      "price": "$17.95",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTITVKRTAKkxzwt0GmkseDvNM4SvqAIKof2Gte74AAuSESR0SwJ6XxhRlGnLqVHJQkPnb-7HE8C42S8FKM17IZLzbZElhT_vw2WkkdGHltYjwDGW5ef8vKO"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0071",
+      "name": "A Christmas Story Major Award Leg Lamp Adult",
+      "price": "$19.49",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT7nS7BuAH1WqiIIWsTbw3cn-qnMzXQ5cw4A-i5U1dR-5_7MOgtkmfgsrMSKCT8t2hCCBF2XS_XFvRHsW-EzFgIU20N_yG86y_F0dNDXa_QYgg-cCTTxpvb"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0072",
+      "name": "Party Costumes Sun-Staches The Christmas Story Leg Lamp Sun-",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR-9bI4u9xYhGra9O2Gu_AwrcS7GGcx_RPUN2hE8Xi4MAlFVn1ZlJk56t319ItraWSJXiVZ594OeITLz5SwbZS7NhK0cfKRrnwsrakqQQVCcv6K17EnK5IbcA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0073",
+      "name": "Advanced Graphics Leg Lamp",
+      "price": "$39.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRD5AAtpwsF_86F5WwvOtQ29k4ZRxm9_hfj0WEARe6-MAytEahTWLUC-PnW4xh_I94kBXqyNxx8xSSWphidPFGPHsvgiL5c592Qi-LQ-RjzPIFt5SwGHKjMkQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0074",
+      "name": "A Christmas Story Leg Lamp Hallmark Ornament",
+      "price": "$9.95",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRh4cjvkGTOdS-FPtG-fhuIIGxTF_xg3GlgfAdWOFqKrCmr8Eqva7-m6pk7WJGjZmFoisWEi6-2YLxc-My9TFyKeFd_zouUgGj-d1veXgI"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0075",
+      "name": "You Were Jealous of this Lamp Super Plush Throw Blanket",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTAsKaERMUIwNl202adQR3wcV0JxfX9f9sfHPtfdDZp_Hkmng5608E3LelmTc70nrfExUD9KzyDWUq0JY6hcXUD7xUq8W24ZbzEtphVSwNNh33k7DNlsnYL"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0076",
+      "name": "A Christmas Story Leg Lamp Collector Pin",
+      "price": "$8.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSsjskaYWnGJipm7d0Lw1-OkU11qQPSx9uS6uELmrutNoYILmM8ED3Hpy30xqbVRq8GQbWZzuSJy-8jy2cB-k5cjZWfsob_WN7_Etin9gsJScUwcQJmZyet"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0077",
+      "name": "Mens Christmas Story Leg Lamp Sweater",
+      "price": "$50.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTtof1othX_3FwEmG2ns8lKPvFnbqRVyyqe6mWj8mgTqK0gK4hZXS264NVr_7JtdxjVIpAfT8AocaC4iBhWFAT2iPmlK6fFo53tZygUkU0SGwR-n03OXSV6-g"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0078",
+      "name": "Cleveland Street Novelties Christmas Leg Lamp LED Night Ligh",
+      "price": "$12.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRhZogsXHFETaUtU5Dj_VRE32oi7xEDOg5Q-B6fC2ev0IxrF3UNY01XtYDZA66CDavvPo5Ce4aFogDNu_FphX0uBcx0vhG28PBGVk9Uvvg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0079",
+      "name": "Mens a Christmas Story Its a Major Award Leg Lamp Graphic Te",
+      "price": "$17.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ_auJtXhgx9p-AJ2cRdOD5US93KuufZ2R0kgS_rUSnB0JeTNuEYqYSNJRJmUfY2jL5Lh2heXeaV05tLZHoxfBmWwprAmyTqKBpXOhKlS_ME2JPkTTlQkz6"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0080",
+      "name": "a Christmas Story Its a Major Award Leg Lamp Bamboo Cutting ",
+      "price": "$28.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTaS1i3d9qp8VPjZYrqDk4h-4q0BLUjBpFKg3254xTpcnzKNmpixlKo7b0bG0aiaeDu9cHfoskbTgrlcp02EbhcrMSAlx5gIsOOHFdFlkHT"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0081",
+      "name": "A Christmas Story Major Award Leg Lamp Adult T Shirt",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRq4mwlsTEw8qFinP_7o-V2CpqJmd44Wn23EcVgllqcYmn4NRlmsmlhI-jmf0E8-6Y91ifuVIzIkCPJhisY6-QKs4S4HRe5_lobMCbKfy5E08GSgshQcqNEEA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0082",
+      "name": "Loungefly A Christmas Story Leg Lamp Mini Backpack",
+      "price": "$82.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTehG86LU547MuX8D78Jtc-34DmFxXZgVP7LvgjJY_EUK6higL5if5TLfD66RFXNOKQ6SgLoEjWz8FahG7kOt1zJSXinR8iq8cq9cEVyhxA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0083",
+      "name": "Mens A Christmas Story It Must Be Fragile Graphic T-Shirt",
+      "price": "$15.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRf4sxpYYayzQ5-Js6QWgXbUcFV095_db9xc9sk5Fib3FIsc2X9mVIitT4Z3q5WMYTDmTmQL18PN4HVH_r80nNLr4EIlIjFVabT8MeT14pvguqQPudtHxbi"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0084",
+      "name": "A Christmas Story Leg Lamp Sideplot",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS9BoyiQiUuijeeuYtJbIvPCw3JRqHHeTVqtDHBHiFRJA-qL0gf4rMWQf2mAn5KlnMf2jWosQADArqPfU4895B-7bhqhdFQ2ioylS6sPWO2gl-V2p1dnFBJYg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0085",
+      "name": "Kurt Adler 19 Inch A Christmas Story Leg Lamp Light Up Stock",
+      "price": "$10.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR-zUhoOrbSgoAhQZsDTQT86VzV5-SawwPf2oJmWQD-vDRv4mMvtDcQNWV8G5E_oBYLQxW2A-Y2TE3M30RJzdoG12_SlHsI3FXF6cWWxSauksVuO-TT-GK2BA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0086",
+      "name": "Spoontiques Christmas Story Leg Lamp Apron",
       "price": "$24.99",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRN4I03RIdXbnkO2YT5kfJY84Nn2MOxN-37WfrW1-nGqZHjKit5U1sV_Y5IypvRZS1a_UUL3qQi8uHPLPgMugNdKMGzOi8p4ENIBhSvnrU"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQFb-iGVigwXlXQW9B7_V2iVd7u1xN_jfPGct1DrkQT-tV-QB57sEurdzb_z7p0yk9mIyFt8RpEn8TsooeuVXoDLvOI059nXlpBcuSwveyHn1JUwLT7_caC"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0087",
+      "name": "A Christmas Story Leg Lamp  Two Sisters Needlepoint",
+      "price": "$55.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRmfykntgmqpbQIAlxt5MrwLBY84H5ga-4dyB-N1ao_wEKriFsaSnoVpOUX6ZgWZ3sKDVoDhVmxnQbJERdyw-Ag_jjtifK_ecCesDaYECA-U_iYANiBxHYGkQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0088",
+      "name": "Christmas Story Head Knocker Leg Lamp",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTytwFq3Jl3A6ipG_hqdSGNbGiYLqoI9kIR7WEe-tCU7QYCsvXw8ObBqW260Mmn35zh4aA_Sy2MnYJ33yo296IDhfBVe79UUunwnTA3zc7GLmh_FwdJSqypjg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0089",
+      "name": "A Christmas Story Leg Lamp Talking Clapper Night Light",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRDjUrz9SciBvd-OQqgLunYdp2FjwjqtSqMEq7HsPVDiWIZpyBJhlgubDzA_IP07hW-Xs3NESUDUaX7HNssNZNsB1ZhO1tYPZCiJvwLYQY"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0090",
+      "name": "Leg Lamp",
+      "price": "$5.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTOYCzhIo-YNfO-0BlxjXUthOYaS6SIIVjKzCjY-RtSrBfW1fIZE1JoC19t_P3L3p_nJrcIWmcA-mfFeXGbG1JZXotgC9HYsAJFiig0LxI"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0091",
+      "name": "Uh Oh Emergency Underpants",
+      "price": "$26.50",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRAmTTgpldaYlt-ph05wlNO9IySZDM55BVnnPolYlgn_lL2wfzaVrGBl24LkbaqN7qwcHOTLh-6GcSTqnjFmav3vLyMh67b686DocL5mH74buUwyRQyqqAJ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0092",
+      "name": "Qty  5 Archie Mcphee Emergency Underpants Fits Most Adults",
+      "price": "$29.28",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcToEQMfj7BbmOnXDne6l6Zt3-HNjTmukAVvxMRhXJBGBE_Eu4rg4U_8KHMg5uvEFa3WoHFRQSeE_m6zJDLmuhCmy3k7_lw0Ih1aEYgKAK3k"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0093",
+      "name": "Archie McPhee Emergency Chicken",
+      "price": "$13.75",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQzQKLGYGqxwrWaLPJzxo1SPhfuEU4nCGquSG7ULNZ8ZadzCYx4PGHy9srOgq9Ig2_sHywMcJrN2nvyRJ7oD9Bed1wh2gIo7qeL5z6C60a9OK8L-NBHY6ap"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0094",
+      "name": "Archie Mcphee Emergency Chicken Electronic Sound Maker",
+      "price": "$23.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRmV8mYC4BeQZEZ0OF14O524iUwfJj_GwE8ISeg-HMyp93XCl4lYahWy61Wwm9kn7T525l3LcPKCtKrWG5vpP7SiUZnAdD7OjpujW-1eIsc"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0095",
+      "name": "Who in the Room Game",
+      "price": "$35.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS0dbi2nfugwZ6x3ic_SY-jHBp9JHAFxAyoujW41vBNy2goKfksboZTiVRiIi5e5mP3GtdBUjn-6yCGpyNWtuZHj7jVbQfgpsj1jUdYa-Bes6JHwT681T7r"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0096",
+      "name": "Who in the Room Game",
+      "price": "$21.95",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS0dbi2nfugwZ6x3ic_SY-jHBp9JHAFxAyoujW41vBNy2goKfksboZTiVRiIi5e5mP3GtdBUjn-6yCGpyNWtuZHj7jVbQfgpsj1jUdYa-Bes6JHwT681T7r"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0097",
+      "name": "2 Worlds Smallest Pickle Ball Game Toy Miniature Keychain Se",
+      "price": "$15.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS2AWCism12LBCre1IBdOWEsJCCbn7TGqnd4ID_GW2iiMdwUrEgJYuFUGuMJBTeZg84C0elcFKP2DasGhtw5FtyIZvTViwRfWWHsICI-9I"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0098",
+      "name": "25 Copies Wacky Waving Inflatable Tube Guy The Original RP M",
+      "price": "$220.50",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQK6LiP-cPO8fXRc5w30m-2URGEL-mhkAmAGaubVBzwtnb9kPal6MDzYv5upqRgWAIxEqJ1Fa7dbkzzjkA0b2gzjNUjziMwuEbyBqrQHic_egBul9LxGZX6ig"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0099",
+      "name": "Set Of 3 Schylling Squeez Popping Kitty Toys - Each With 3 H",
+      "price": "$17.90",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT9IXrCQxUe3ObYm6PfJs5R3eHtB5KOfRrW35OIAMTarW5tVqtyzeHYMii2-uaGTCnl6bHz73krBYX0kS0FYJFtkLQjXB4_CPVHVOIHVidirD_9NveCjLqZKw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0100",
+      "name": "Spencers Glen Doll Chucky",
+      "price": "$190.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSQKYrMTt_dOA0AdrTWtokgmvnqazCjBAsv9hDZUPiB-eBReC_LwCzcBtDguUBsubtHyHytbMMLkipQMHHThSv9sm2KLiXfdG1k5x7jCFkd6n6jqxsRqcBdaA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0101",
+      "name": "Squirrel in Underpants Deluxe Air Freshener",
+      "price": "$7.95",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRjG0UW_FmKyTgNLXcjI9pLELisj4Imn0bs5FYtinD3GIRl-ExU3kuHhYD8f2rOSGjoQacNrMM6ynYD_sS9e6O3ii4zEBoWyXFftoXit0nisEBkWRAwg3flqQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0102",
+      "name": "Spencers Glen Doll Chucky",
+      "price": "$69.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSQKYrMTt_dOA0AdrTWtokgmvnqazCjBAsv9hDZUPiB-eBReC_LwCzcBtDguUBsubtHyHytbMMLkipQMHHThSv9sm2KLiXfdG1k5x7jCFkd6n6jqxsRqcBdaA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0103",
+      "name": "Archie McPhee Possum Flavored Candy Canes",
+      "price": "$9.95",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSfwHhHUxAbf6ypQjjCpsycSbQLDgM5MNUW6LafItHJOlz2RRCHnjTCfmwWzKS5BCEuM4luHS3qNmF83oJzgFA0GpM9LIk0v1sx-8R1593Y3_vRkU97KyGNyg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0104",
+      "name": "Vegas Golf Cigarette Golf Tees",
+      "price": "$9.95",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT1rGNQTpxVXitxJ9LYbAxWAs8AjunM1vDD4BF3h8jsOuInAESMnUfcNO-Sj7OWlEZAb6kZDQT_LLsyss4MHmScG5LEFnDUV01A60ydPF9f"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0105",
+      "name": "What Do You Meme Happy Helpers Lobster Heating Pad",
+      "price": "$27.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQfyoKodQxS59MF03PDY9_BglC1AghZW7PnoovHyz9h2dHIF4c3RKxvlpaOjj0OzsouCTQdWOhy2gj7WUzGpO8y3zusQVjQaXMiuS-_LdCxtokkdn3JzVMF"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0106",
+      "name": "Festive Beard Baubles",
+      "price": "$10.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR6CIYIAHnR9JZtZg4zIrHXVTjtHBTat7ZvQQi4UIXdznLbwv0QDY38k2Yoeflei9dyivqqKEBp8tKJWfJ3S2b3prdsBO8jmWv-kDKsI2aQPkWg3sI8aqdz"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0107",
+      "name": "Archie McPhee Jalapeno Candy Canes",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTmfsqawUx447PcElf0cWJjyxxWxCTYyihcFzl4bQHQ30pEP-tIzXsUZ6fw6pFO6y6xty9zM8CsTeftQYFi4_-Yum0KnyEnF7QTU0Mqkmy7ApWsCH3pSeeQig"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0108",
+      "name": "Gift Republic Driving Gnome for Christmas",
+      "price": "$10.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRtHpH-GmvmFVpEP-GFF95qljVnnBf6-CsFCmMzYXXtaT7yNvZ0qdEWhUx6gmOp0doDbG-_aHZ-cLM3FKo7orGmdRxaCDSO5bW4FUppBdvK6nkm61mG48DB"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0109",
+      "name": "Festive Beard Baubles",
+      "price": "$9.32",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR6CIYIAHnR9JZtZg4zIrHXVTjtHBTat7ZvQQi4UIXdznLbwv0QDY38k2Yoeflei9dyivqqKEBp8tKJWfJ3S2b3prdsBO8jmWv-kDKsI2aQPkWg3sI8aqdz"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0110",
+      "name": "Christmas Face-Off - Can you out survey your family this hol",
+      "price": "$6.97",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT4jMYB2mVQmU5E2SCJsUv8gTV1TAg3vALdCdWFbOuWmmEoVljLkzvJnCZbBLLku69yj7DOvQqPIPOrkMLmIbr7aGaIsFyS0qF2Q9TlGWdl"
       ],
       "video": false,
       "specs": {
