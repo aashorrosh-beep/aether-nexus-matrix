@@ -16,9 +16,9 @@ const nostCogs = [
   { id: "n4", name: "⚙️ 4. Retro Gaming, Arcade, VHS & Toys", desc: "Action Figures, 8-Bit, Pogs, Tamagotchi & Vinyl", rooms: ["action-figures-90s","retro-toy-chest","8-bit-consoles","vintage-arcade","retro-arcade-systems","classic-consoles","saturday-morning-cartoons","retro-board-games","vintage-comic-stash","vhs-cult-archive","vintage-vinyl-records","polaroid-instant-film","classic-walkman-audio","pogs-and-slammers","digital-pets","pop-culture-relics"] }
 ];
 const wellCogs = [
-  { id: "w1", name: "⚙️ 1. Longevity, Peptides & Adaptogens", desc: "NAD+, Copper Peptides, Shilajit & Mushrooms", rooms: ["holistic-longevity-lab","peptide-research-vault","adaptogen-apothecary","cellular-hydration-mineral"] },
-  { id: "w2", name: "⚙️ 2. Clean Pantry & Diet Meal Plans", desc: "Prepared Diet Boxes, Grass-Fed Collagen & Superfoods", rooms: ["diet-meal-delivery","organic-health-pantry"] },
-  { id: "w3", name: "⚙️ 3. Compact Home Gym & Bio-Recovery", desc: "Dumbbells, Kettlebells, Bands & Sauna Blankets", rooms: ["home-fitness-recovery"] }
+  { id: "w1", name: "⚙️ 1. GNC-Style Pro Protein, Ostrich Sticks & Meal Boxes", desc: "Protein Shakes, Ostrich Sticks, Clean Pantry & Diet Plans", rooms: ["gnc-sports-nutrition","diet-meal-delivery","organic-health-pantry","gut-botanical-library"] },
+  { id: "w2", name: "⚙️ 2. Scrub Lounge, Sportswear, Gym & Back Pain Relief", desc: "Cute/Funny Scrubs, Workout Tights, Shoes, Spine Relief & Home Gym", rooms: ["the-scrub-lounge","athletic-attire-footwear","back-pain-spine-relief","home-fitness-recovery"] },
+  { id: "w3", name: "⚙️ 3. Senior Mobility & Sweatin to the Oldies ($1 Club)", desc: "Walkers, Rollators, Toilet Seats & $1 Retro Aerobics Rentals", rooms: ["senior-mobility-independence","retro-sweat-rentals","holistic-longevity-lab","adaptogen-apothecary","cellular-hydration-mineral"] }
 ];
 export default function MallOfMallsLobby() {
   const [activeCog, setActiveCog] = useState<any>(null);
@@ -33,6 +33,10 @@ export default function MallOfMallsLobby() {
       {/* TOP TRENDING TICKER BANNER */}
       <div className="bg-gradient-to-r from-red-900 via-zinc-900 to-cyan-900 border-b border-zinc-700 py-2 px-4 text-center text-xs font-mono uppercase tracking-widest">
         🔥 #1 TRENDING CATEGORY: <span className="text-yellow-400 font-black">Q4 Holiday & White Elephant Drop</span> • ⚡ TOP 5 NOW: Super Squishies | PSA 10 Consignment | Holiday Bakery | Pure Shilajit | Survival EDC
+      </div>
+      {/* 3% LEGACY IMPACT CHARTER BANNER (TEXAS CHILDREN S, AUTISM FUND & PHOENIX RISING VETERANS) */}
+      <div className="bg-emerald-950/80 border-b border-emerald-600/50 py-2.5 px-4 text-center text-xs font-sans text-emerald-200">
+        ❤️ <span className="font-black uppercase text-white">THE ALBS 3% LEGACY IMPACT CHARTER:</span> Every purchase across all storefronts automatically dedicates <span className="text-yellow-400 font-bold">1% to Texas Children s Hospital</span> • <span className="text-cyan-300 font-bold">1% to the ALBS Autism & Sensory Family Grant Fund</span> • <span className="text-red-400 font-bold">1% to Military Veterans (Phoenix Rising)</span>.
       </div>
       {/* MAIN 3-COLUMN ATRIUM: MATRIX (LEFT) | ELEVATED ALBS VIP HUB (CENTER) | NOSTALGIA (RIGHT) */}
       <div className="max-w-7xl mx-auto px-6 py-10 grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
