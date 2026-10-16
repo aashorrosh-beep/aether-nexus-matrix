@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
-const ACTIVE_PLATOON = 8; 
+const ACTIVE_PLATOON = 9; 
 
 function loadEnv() {
   try {
@@ -51,14 +51,12 @@ async function pullLiveMarketData(searchQuery, maxItems) {
   } catch (e) { return []; }
 }
 
-// THE Q4 SEASONAL & AESTHETIC LINEUP
+// THE Q4 LIFESTYLE & HOLIDAY LINEUP
 const platoons = {
-  8: [ 
-    { room: "ugly-sweater-party", brand: "Nexus Seasonal", query: "funny ugly christmas sweater retro nostalgic", max: 40 },
-    { room: "friendsgiving-vault", brand: "Nexus Seasonal", query: "friendsgiving party decor aesthetic gift", max: 40 },
-    { room: "holiday-gag-gifts", brand: "Nexus Seasonal", query: "funny gen z millennial gag gift holiday novelty", max: 40 },
-    { room: "seasonal-gift-baskets", brand: "Nexus Seasonal", query: "premium holiday gift basket care package", max: 40 },
-    { room: "lofi-study-room", brand: "Nexus Aesthetics", query: "aesthetic lofi study room desk setup decor", max: 50 }
+  9: [ 
+    { room: "holiday-illumination", brand: "Nexus Seasonal", query: "twinkly smart christmas lights commercial grade outdoor led", max: 50 },
+    { room: "premium-pet-supply", brand: "Nexus Lifestyle", query: "luxury smart pet dog feeder orthotic bed accessories", max: 50 },
+    { room: "viral-home-trends", brand: "Nexus Lifestyle", query: "viral tiktok smart home galaxy projector premium drinkware", max: 50 }
   ]
 };
 
@@ -67,7 +65,7 @@ async function executePlatoon() {
   if (!activeDivisions) return console.error("❌ Invalid Platoon Selected.");
 
   console.log("==================================================================");
-  console.log(`🚀 DEPLOYING PLATOON 8: Q4 SEASONAL & AESTHETIC DROP`);
+  console.log(`🚀 DEPLOYING PLATOON 9: HOLIDAY LIGHTS, PETS & VIRAL TRENDS`);
   console.log("==================================================================");
 
   let currentInventory = {};
@@ -87,7 +85,7 @@ async function executePlatoon() {
     const roomCatalog = [];
 
     for (const item of liveItems) {
-      const sku = `HOLIDAY-${String(globalSkuId).padStart(4, '0')}`;
+      const sku = `LIFESTYLE-${String(globalSkuId).padStart(4, '0')}`;
       const customerShipping = getShippingCharge(item.price);
 
       roomCatalog.push({
@@ -115,7 +113,7 @@ async function executePlatoon() {
   }
 
   fs.writeFileSync(inventoryPath, `export const masterInventory: Record<string, any[]> = ${JSON.stringify(currentInventory, null, 2)};\n`, 'utf8');
-  console.log(`\n🎯 [PLATOON 8 COMPLETE] Seasonal & Study Rooms Active.`);
+  console.log(`\n🎯 [PLATOON 9 COMPLETE] Lifestyle & Holiday Rooms Active.`);
 }
 
 executePlatoon();

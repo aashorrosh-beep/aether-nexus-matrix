@@ -16330,5 +16330,1931 @@ export const masterInventory: Record<string, any[]> = {
       },
       "status": "LIVE_MARKET_VERIFIED"
     }
+  ],
+  "holiday-illumination": [
+    {
+      "id": "LIFESTYLE-0001",
+      "name": "Twinkly Smart Permanent Outdoor Lights V2",
+      "price": "$299.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTgL1q43WqYX-G7Wsh5vi5NCd3F4qVvJY5NWNa5kLthItlPhkrnQTiCCJSkBdEPmJt_N5tPFgKURg-SY75hVENKPvLaY8qRWckh9wFNgJE"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0002",
+      "name": "Twinkly RGB LED String",
+      "price": "$239.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQcnOTqQEQVzsf9HwoMRcVc0IErbtacmy5JCyar-BER9s7pqDVA5Uk1Sxpk1aYOLpm5RzsJFdZVH-1ghp2d6gAZQX_47DTgjJ24Z8ch3vg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0003",
+      "name": "Twinkly LED RGB Christmas Lights 89 ft",
+      "price": "$719.40",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTLovJcy_tPhYfuOipiCjwA6KRaG6Z0Bf0IaxELksD4CiAdnAmJ34Mqk3XOZwyJZ_ZgyoRqtMWAojzVpROlMD4ip98lirsTP7wNpWW2Nc3PE_4FwaZ7QkUF"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0004",
+      "name": "Twinkly Flex RGB Flexible Light Tube",
+      "price": "$99.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQhQFGnFEjjykhsNMQ7E5wbQyg3iY_3LDPqfGvRYVv-1QoG050NXbAs4GrVTGMjjl4IR6VvBwk9RJgo-omRCS8o7ZgsSOutmND09yiCHvWHy-PpbHa3NfGj"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0005",
+      "name": "Kurt Adler Twinkly 175-Light LED Light Set",
+      "price": "$89.49",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS9yxsDRQ9se0Vk7Q0WHjXi6xpPFhuMXiW_isWsB9otvPoS-gTEv_RbU0GE_bTa5e9Sq26deNXx3vdSh8Wb42Ni_nhlM1yFVCGocPhriM74I2Kdp9K94mWB4A"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0006",
+      "name": "Twinkly Strings  Dots Bundle",
+      "price": "$153.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS6MO_rhCuVmTejcDNGkHMAtZqq8GYP9VDl-C4Wq8C8BHSEQV4NBGiE4xAzqpL68pSyfoJXqr--FZqkNfFlCmJ_FUtKQAhGMPl276uwVBzu0DuS6_FFHu_nlg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0007",
+      "name": "Home Heritage 7 Icicle Style Holiday Lights App Controlled",
+      "price": "$94.62",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSoKT57bQ87sisGmykDsXMol3yRGPS6xGee8FVbkoiY3uBykNuMnx71FzgsfShwQLReHOm_AJt3xWRoowALUVFCt3qUn58XlwVyWEmf85jWtG0Om29-7UGOeg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0008",
+      "name": "Twinkly Merry Christmas with RGB Pixels Delight",
+      "price": "$125.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQQN4UIHzteMjEN6tTjM0E0yH2M4hIJuAiEBIMMIk1Gx-V88fLzpFyRU5Uva2QtnvaXjtEtGbQgaFu_GLcBlIYGFh6mXw7-lsx_vW18wqQU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0009",
+      "name": "Twinkly 400 LED Cluster Lights",
+      "price": "$199.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRyQenOvCVEIyBeS9ywidMd5tGuC0oG5P4VrCGI8LglTwuERHuexp_GyHT8ol_P5Yz3hCBoszjYpF-WHL-Y66sdhltgocagPytsP3S6V9TGu0Rk3Qau9UJc"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0010",
+      "name": "24V DC Power Inputw Twinkly Pro Controller RGB Color Control",
+      "price": "$206.95",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRbPZgRrRH3jsVtelb7U0_HmEEQEiG-OLqoDd3gApq9IqEisx52mG5l2hz2_ANlNO-puOVf3Az08CP5UvEjL4gK4InEuzWqaqezRwdDMy4M2wR2d9bVIRXv"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0011",
+      "name": "TWINKLY PRO STRING LIGHTS - LED Spot",
+      "price": "$251.86",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRG-8U862TTPRw4itRprfIYVilzs3mxn7I9I9xcPU037xqEszKnoTt_CDwunD8fxAVmdV156rr-pAxiRORRIObNaGCzE9WAp13aOwOSlcA7MPg-8qYwzNLT"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0012",
+      "name": "Twinkly Outdoors Strings  Controller Bundle",
+      "price": "$849.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT2M8lZvOU6OnnV8_8lpHxBus9BIWF2Va5vxs5_LWkjXtibM_cTL8bqah05-AvN6db7RVUA_bV4XXvtqlv12VVYKPyKccBIs4M_gC4xwKey"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0013",
+      "name": "Quntis Smart RGBIC Icicle Lights 5M Wide TwinklingFlowing Ef",
+      "price": "$38.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRzK-fwP_n9DDWuC45NVo8QNrQ9Bi3Ar9gcxkLWmzZztta2eSsTd5IJjdu72o51diMG7clj5-tuv0VKzpBbXe88j_BrhbqB-LLfZM1aydzC"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0014",
+      "name": "Kurt S Adler Twinkly LED 120-Light Icicle Starter Kit",
+      "price": "$90.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcStExfHo0HCjru0MGzgipAjs0Y-A-_2CUgl8RbPvf53hRBBtIgFM6BWmcuUdk7-0l5D7xFUz5JBs463fbtb1P5LyDGuyXrzOijbuyS4GzF_cXbB8Nd0R06rwQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0015",
+      "name": "Twinkly LED Mini Multicolored 210 ct String Christmas Lights",
+      "price": "$77.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcReV6_12BXMKFSQwzJDmr7ydjnA8suKStKAKrRI8SM_D3vnlmXsd25rHg99kRMb9l0nswz_SYlLtvnaPhWeCngBi4ubHwXTlbUvE-7UPbJLAS8OmKjDFmn4Mg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0016",
+      "name": "Twinkly Pro Strings MAX  1x250 RGB PLC LEDs IP65 Green Wire",
+      "price": "$180.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTv81Z9Wyh-L-OjOFYfJxUxUduvVwWx7yfYPcEpUwj_8yRavJSneFQwbiLJwHS8fg6cPEaDcg-QJwhiwTRHhYmWSiSinqq8JiByIwtl1k__Zhp_ErRKu1xY"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0017",
+      "name": "Twinkly Strings 25 m Dual Pro Outdoor Color Lights",
+      "price": "$148.80",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSId32XY9D99BoqqCK8bUeykG8lOiXMXCaB4sbMVG8Tn1ew1F5YZbhLuvhngK671ZScQm3uuy4LYv1bv303jQRNqDbPVPByG-73YlzsvpTDhv5cJ29lpYyWZg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0018",
+      "name": "Govee Permanent Outdoor Lights Prism",
+      "price": "$859.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR4yi8aWesIP8ZOu01LfvEYYYturI8Q4hgxfK69MJ59eyoCun6zuqRJ2gfYws1m3W-2mhE1abQoHfr6D3DxtXbvIlwuOeMjVf067w_Lu6mYN2IFxx-UFr-o"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0019",
+      "name": "Twinkly Smart Light Bundle 600 RGB LED  Music Gen Ii",
+      "price": "$249.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSh0CwQztrcJ5K1WvUGTqovinNRajHfo5XvFfgpHLcw4S0L3AKbCOYSJK84mn3lW4zkRHsbc_csXxlYC4dlbk7pqP1FdBG8_FCnpyK_WoY"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0020",
+      "name": "Twinkly Festoon Gold  Silver - Patio String Lights - Amber  ",
+      "price": "$64.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJIgVcH4kL3nC_DFOkFwzUn8PecsVka1El6jFq8dSfi8FrBn8NfF3NdblqB5xJdMH664H6zhS2My63BaFk8gmc1JNmFnlAj_co-kJ1HuiQIiSNcYBsA4w7Jw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0021",
+      "name": "Twinkly 400 RGB LED Cluster",
+      "price": "$99.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSZPSA1wtqdBz-HKJXp8S-VIHqgijH2ExfjXP8xAzCAv3LxmY4HdDdIsqDL2IR813642_BK1AN7lBLCNpkw7XrnBO8fHLiZrlfcUTM1t330zmXyaBgV20hz"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0022",
+      "name": "Twinkly App Controlled Rgb Christmas Lights",
+      "price": "$120.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRfJJOBcLcdDpNs0EzUuEY7A9yV7e4-XTI1cDGbAjlSgGw6ZRkvWDdgwiBn18H9N5XBbuFCe_-o3tjQ4Xt1DZB3lg4l7b482q2KfuB8AcdXECjsX7RLptAQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0023",
+      "name": "Twinkly 150-Light RGB LED Light Set",
+      "price": "$71.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTbYN3FlDK1uVFeBbfaCj8udMaaXvpPkdXj9_B4tRBy8xEFrFe95A2QzEeJbml0PJRp8vXcMKwVkAGG9tEYf8fch6YtPegvJtIc2g-lt3_i"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0024",
+      "name": "Twinkly Festoon App-Controlled Smart LED Light String",
+      "price": "$67.86",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQelgvzWojE4GK0dktcRx6pAOFSo8fbzF7IJLmKrfaewI2ekNIw7xEItgRFehD4GbxF19FIeSl4d5oJMbUatgSGGzrmYHI0zu9uF83hGaY"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0025",
+      "name": "HOLIDAY BRIGHT LIGHTS Twinkly Pro Strings MAX  2x125 RGBW PL",
+      "price": "$200.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTU45sr09VnPkrCd-x8OwFpzoEV5W9OGHijZ7gMCs2QkYbrjlQwoTsMrZn1qEJFWuoEvxxrhqaTpdawpKtpLzGNPdUDkWTpLKJY2ctAueQ71aaJiKi36LLG7w"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0026",
+      "name": "Twinkly Plus 82ft LED Light String Transparent Wire",
+      "price": "$175.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSGYi_AuGtLdFx5bmGe50eozovkI6OnwJsloqULsEEkJ9_ou1ODIaDDS5Wp_eHNdZf83ZwWuketLG8fVhvl7EVlKj_m4tL39oLmNd16HqspTGVYSGgU3Sg0MA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0027",
+      "name": "Twinkly Dots RGB Smart LED Light String",
+      "price": "$159.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQKGSyQd-npLuWFxqRrcfN5XOdu_dfwfX2abKyB4shzmkqRpi50l3Vm7grTYRHgW6h_dwcUKmOgEZ4km62B1ROxF9NKweNDjiUI3SIWyx5_VKdyg0jKluvewg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0028",
+      "name": "Twinkly 190 LED Icicle",
+      "price": "$71.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQEssG80-885Jchd5xuSwv0nzCvaNhqlhp2gG_YBF6k900FQ1NCHS4NDf29eGXx8_CKeciCiuIZHtWcOb4DvSmn_uqzpleDWFuY2ETJhiNAGMNbgNBkMcA4"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0029",
+      "name": "Twinkly 250 LED Strings",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSQ8d0LGsWeBDbceEVpafNnB7n4_i02s4QeTaeYXh9zSxuUbAeqnU1OBfCj9qHlU3MHnP-2caafsXetAtWRSkn9OTrvFGe_zshED-a3rJeb"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0030",
+      "name": "Twinkly Pro - RGB Capsule Dual Line String Light with Green ",
+      "price": "$141.93",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS5-5QWGp59_dmNF2darerwRIPi9iyzzhScpF1dtcN6kIehxv9ebzZIl6bwvqBaLpBAKlB-DHdsLIElhNYwbLox3JnfrPtn8Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0031",
+      "name": "Celebrations Platinum LED C9 RGBW 50 ct String Smart-Enabled",
+      "price": "$41.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ_ZqKiHzEYR6XEGLIxLQEdqT2OlEaE52TA_BZ7tqEyltLApAoDdkdZhAvO3p7yo9cpQ5Zmeatb5NMIykiUzVx4lxHHrY0tbbH5XFXth7uc2XOObMbDifDK"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0032",
+      "name": "Twinkly PLUS Smart RGB-W Light Curtain 250 LEDs IP65 Transpa",
+      "price": "$200.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRqbw17_unHRD-KQ_hJCc0Y_NszcpQ-RiWaIn-sOk-HPfjOaCmwqjuUGAmlm3buThXBdrnQmIEcxzm-O09-IotHCikcupowKaLidNxmplcXSDfz8VQW2O7z"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0033",
+      "name": "Twinkly LED RGB Candies String Lights Stars",
+      "price": "$62.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTn5WUn5SouSWy54Ky46wO0Wp44vXq0JCbHTq_NNAbGfI_TmbHqf1VZiiuybZ2c5ZsED1z0W66hKHMOaVgCy0Ho2i7n9mWtSX7eMW--oYQb-nAcmh8nUIKw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0034",
+      "name": "LIFX 30-Light 50 ft Outdoor Plug-In RGBW LED Smart Wi-Fi Per",
+      "price": "$149.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSeLydnzYfW7i7_zW5TPOwu7UFyVlFLcbbf268WF86ng2t1oEU_jXIcSgOMiq0__gIroSjQjrm-I9-ILsQQx8F_OoFHQ1gEPagc5SCmeAf0Pbrw9wsc2Q3gfA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0035",
+      "name": "Smart Led Christmas Lights for Tree Bluetooth Color Changing",
+      "price": "$45.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS4wDIpNM7xQ_03e6W7jMHz5molzE_D9O0YFH7-Nz39jh7U3f9-j3cOo9XuxWbU88nbT6KHTf50X3pHzLRSxUjkQxXK3pbJmhgEB6u0bpY"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0036",
+      "name": "Kurt Adler Twinkly LED 25-Drop 200-Light Icicle App Light Se",
+      "price": "$80.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTEY34SBcpy5Q7MJhKMhFwDXBufFYmyCROlb4cDnvKDtZDEawkuq-mRjOJMgyHljNiPEYaIHR46iE04KeZOm_1KcG1KmOykm6XC5FGovJ0J0ku_E9mio5E4"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0037",
+      "name": "Twinkly Color Changing Patio Lights S14 PLUS Bistro lights B",
+      "price": "$213.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSeppwli9PgJbzbwxAstssnYI3RRU6v8hlVWWis8HdaSD-2ReHzogkBhn45AZpdgVMnJByBecsWMFf5DmIBlclSwFrwYXi3vepTeZbQc62ZSLZQ2ZPSvhNeRA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0038",
+      "name": "Twinkly Pro Strings MAX  1x250 RGB PLC LEDs IP65 Black Wire",
+      "price": "$180.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTX-R9rYQ9EYIV_4j6ZWkvRMuGGU0WxpyDNm2AGkl60sJ5y_ublpNsna8_pvzbLnxx0f6ExALu_KyByz8bzjkExteWHjh29DJg67ezd94wZYZKgPNWYMZvA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0039",
+      "name": "Twinkly TWPLUS-PLC-D-250SPP-T 41 PLUS Dots",
+      "price": "$119.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQcZKs0SQnlCJfTp_qpZ8iXuGq0ruIh09boFNgH00hSzgIE0MHczfmDkhoHyy2RAoZ2yDdM2eKB0tAFDjpMdvztRI6030RSlB0CLkm2WX9-CCkJ5amvK7RVQA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0040",
+      "name": "Twinkly 250 Light RGB LED Light Set - Wi-Fi Enabled Bluetoot",
+      "price": "$259.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRiqj6nndCZScKJedFXL6F6BLRdMiiQkI1_Tl06T-0EH_Qu4BgvesSMUYRFcU0bkNKWLHqdQxwuYjOh1QxgiBkDjR0gjaIm5nFUSN6ieiR9HJ3wuC6YLkHeSA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "premium-pet-supply": [
+    {
+      "id": "LIFESTYLE-0041",
+      "name": "Smart Maxx HD Feeder Black",
+      "price": "$178.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRUcKBhI50bYtEjFot_yycPafG1pv0eVD1S5wz4FXhUiv_67JXjiCop1ZcDOYWYsCdgc2X3Xcc3fnAcG6u5wQcZcyQFxX-22BZkgRSp5mckb_0GwkMqDLQ_WA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0042",
+      "name": "Fun Feeder Slo-Bowl Outward Hound",
+      "price": "$11.19",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSAzxeirbOsCozMhPoztdH1hmF42t1DLhaJnO9NzQUgYUtbdzd3VAR8VkDJbMvDu4697Yv9rcYuoMKkMszDIcI0zDIgj99sLavpR-P94JJL7_vdciwSNLvTlQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0043",
+      "name": "Pets Feed Dispenser Nedis Wifi",
+      "price": "$175.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRbvKLYer5520HU2x-a8Zb7QPQnKPbTg5HeIiLuI2_xmTA1Oqjgm9gOSR0Bm6OHzbEWmoMcHaXmeLvBghaHXQG9qT84JftlmuWwAebl5BuI"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0044",
+      "name": "Bowsers Artisan Double Wood Raised Dog Feeder",
+      "price": "$389.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR7IdivTZpdu216w450qkVn8BmFrzTuFRpABiu2h04MdN3nF5yd0TjOiOeBAWn0YpMyn1ZeQLi3fgUf_LdChA4VekiKRcthh1neLytKjY8CeSpfx9eFxS4F"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0045",
+      "name": "Fun Feeder Slo-Bowl Outward Hound",
+      "price": "$11.19",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSAzxeirbOsCozMhPoztdH1hmF42t1DLhaJnO9NzQUgYUtbdzd3VAR8VkDJbMvDu4697Yv9rcYuoMKkMszDIcI0zDIgj99sLavpR-P94JJL7_vdciwSNLvTlQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0046",
+      "name": "Mastercard 100 OFF Xiaomi bhr9028gb Smart Pet Feeder 2",
+      "price": "$82.33",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTMVpu2nIu9HciokF4frsLEyG2tXws6RbHObWR5zuvHur6T7-sRHZuz2V2pIieXo010yIf3C5H8DrTpqW1O6RW4JBLAJrk8cjhZOauQUxgixJk6g6AFQNuSJQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0047",
+      "name": "Pet Automatic Smart Feeder",
+      "price": "$169.98",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRp5lFhGuUZK5EdcuRTmW6FC-k_BBEYQQa3YwusSxsRo4OPbzTJRoO27of8_yqCcGUYpQN8aFfxQ4c9xCEjTgroUjx_RC-DGMvv8OhDPQeKF_rEuFDPrGpYwA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0048",
+      "name": "Pet Automatic Smart Feeder",
+      "price": "$169.98",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRp5lFhGuUZK5EdcuRTmW6FC-k_BBEYQQa3YwusSxsRo4OPbzTJRoO27of8_yqCcGUYpQN8aFfxQ4c9xCEjTgroUjx_RC-DGMvv8OhDPQeKF_rEuFDPrGpYwA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0049",
+      "name": "Pet Automatic Smart Feeder",
+      "price": "$169.98",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRp5lFhGuUZK5EdcuRTmW6FC-k_BBEYQQa3YwusSxsRo4OPbzTJRoO27of8_yqCcGUYpQN8aFfxQ4c9xCEjTgroUjx_RC-DGMvv8OhDPQeKF_rEuFDPrGpYwA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0050",
+      "name": "1 Pc Lightweight Practical Timed Feeder Automatic Feeder Fee",
+      "price": "$63.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQj4ZrUjuUBb2uVJbNR0-s1c7C8b5_8RV_8HpqktLfMazFwPYl-Y5vjCMCS7aDqzLLgpvUhrtIjpGpchlqZJGldjvdDVvKp1jnXxpXi5PBrfs5znbZqdcvq"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0051",
+      "name": "Homerunpet Smart Pet Feeder PF20",
+      "price": "$130.33",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTpddXSOqh_uhUGJH7KkuRJ5rFdPSuqDogf3gUxC9zMq0TyeReOJshmQizRIv8F1TkMJ9_zCg1NP3IirYkE9fEzaqrmuDFvQbJihuo5SRSyQ-h2QrnFVFE4"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0052",
+      "name": "Single High Pet Feeding Systems",
+      "price": "$79.95",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRlj7U809g6p9vYN6IxEdjQgxr7QmLIyG9VAMf2VeuSGD_jODmk1ETvFL7STxwlVcq9TdhLwKHJdh1sK7M3R7tKt1pVuMNw1Q-LR5N0lbOuRcnNaYI4bPc1TA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0053",
+      "name": "Top Paw Landscape Dog Slow Feeder Mat Healthy Digestion",
+      "price": "$7.79",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR4HzqEA7s4uJb0BOCj5bNRou-xf19XoM2_SFmWuSPQdAjQRyF3uTYOdX1fMStTOBoBMmk6mZ1Mp0QnoLI6VFErOY-_iJQ7YkoAFPNdBAgrGgQ9Y8nzN4yP"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0054",
+      "name": "GAMMA2 Vittles Vault Feeder Dog Elevated Storage",
+      "price": "$69.95",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTnfUObuXsqplDLVfOzhNmMvScvyVlTEjS9aKMcPWHHVITVjhmc2TM0sQiHw0SbSmGfnIiYTIg65dIfTzoOqgItd2bVhpvSXbu_fDDhauCtUZ3F8CyjT5aH"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0055",
+      "name": "Smart Wifi Automatic Pet Feeder  4l Food Dispenser With App ",
+      "price": "$89.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQig1fBcHOMO3U0lxzo6M7QhdOAtkE724CqbGkG7ZNkHOJui7jk2T0dchS9P2KB_K5ButW1cx3rC7bc0IG-nihAR4XRmPsEWaRjFzRSpAjMR5ppdgbEs1Cpe3c"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0056",
+      "name": "Xiaomi Smart Pet Food Feeder Drying Box Set",
+      "price": "$18.33",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSR99VqeV-I9kuw-tH91fetF0YN9bVq5pKPZtsnr5eXe5Ak0955AZKOHqAplE0ABiYY7lD1oyrvLUciZHEddWugCpxn4iWhJVh1yAdGI_qXYIzffw2evEir"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0057",
+      "name": "Smart Timing Pet Feeder Detachable Dog Food Storage Bowl Pet",
+      "price": "$58.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQt-apPX8LbeMhYhdJx2CY3QcL_Nhfh_DmwOXA9jTbx_EBYw4KDuOHbN6UVQfmsjMHSYytELCYonRQWCheMEAVvonsu6A3pKQsr7kkwITJN02vVTuTYki-0vQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0058",
+      "name": "PetSafe FlexFeed Automatic Pet Feeder",
+      "price": "$64.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT-Of2UF6Sw-xhSP7vgJ-nlDgM1BQfzMfxVgsVyL41ZnDj77-IfELFVsoAYD1-ddhG091RznmfLbms3uYrWPAwWftm00EKBNQYsSBN843XQtANtpxV7WrSmFQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0059",
+      "name": "Automatic Smart Modern Pet Feeder",
+      "price": "$148.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRp5lFhGuUZK5EdcuRTmW6FC-k_BBEYQQa3YwusSxsRo4OPbzTJRoO27of8_yqCcGUYpQN8aFfxQ4c9xCEjTgroUjx_RC-DGMvv8OhDPQeKF_rEuFDPrGpYwA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0060",
+      "name": "Top Paw Black Gravity Pet Feeder",
+      "price": "$11.29",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTPXGkAXGfiF1jNXFMPffpEjFZbEaOpPRxZAMrz6EZW4hSznDS1AIfnfgJ5goFlz0OTlpuf1YhkRtryWWvBPE9qk4ItlfO6kdZp4mWtzVLqUf9KcBjh2tVF"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0061",
+      "name": "PetSafe Smart Feed Automatic Dog and Cat Feeder",
+      "price": "$173.02",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRDleMYKNBipYs0LRibHchz2BaXybwL-pUN7NVjFGJtAPkT-Nn0YYxoplVcBIo6KwLGA23a5UNM31YyBjVbTgHF222Gx6lQfl4RmIGXcYTu"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0062",
+      "name": "Bowsers Moderno Single Wood Feeder",
+      "price": "$89.96",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS4y84DUreOrGNbkYjOTZc5rV-Kt-0bESriFgMrW9Ync8UGZkRyxedyHIAgpaZXk67ecxpQ8XS4eZHApnESj58ETA2HcIYHVEQPQz-OW8vym-ZhyVX-k9gt"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0063",
+      "name": "Luxury Wood Artisan Elevated Feeder Bowl Fossil  Single  Lar",
+      "price": "$184.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR7IdivTZpdu216w450qkVn8BmFrzTuFRpABiu2h04MdN3nF5yd0TjOiOeBAWn0YpMyn1ZeQLi3fgUf_LdChA4VekiKRcthh1neLytKjY8CeSpfx9eFxS4F"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0064",
+      "name": "Spunky Pup Slow FeederLick Pad Duo",
+      "price": "$8.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTryIGF6lB1hPilqEEx3A-iQtHCKTP2XZpxAj47NbSlDBkiM44fLAPOhy_mevaauWZtQFUnb7XYyUH6AS9WZhTn2fFttPhGhazVtjBk8cZJE7H10bNIH68ztw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0065",
+      "name": "Luxury Wood Artisan Elevated Feeder Bowl Bamboo  Single  Lar",
+      "price": "$184.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTaJJhoRjou30Q4CBmXuuqvDAcvJJxPckjdw37QQzHnUgtfTuhmBU2prBC_OpMLUv2KYbiANn90QxUz99TgE71wOG301WWIpZyyX-VswK04d2T4NPuZzAcu"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0066",
+      "name": "Everyyay Slow Feeder Mat for Dogs",
+      "price": "$8.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTwXOYc9ZQu6yIjOeK5zysXRx3AYW_5g8jFB3-0iAv5sB7C5Jd2qW3mWefnnHQf6uQ42AVUcVP0VEmM-6M3_-6tgER3Le9ee3SPOSk0oGkVsusQnIwFDdkk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0067",
+      "name": "Petmate Pearl Replendish Feeder With Microban 10lb White",
+      "price": "$19.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTGkjj3wjnJ5Ps42psfoTUWkTqLfD3o5alj4wGYtuAjXUR01cMxUIlSb8WJfr8q7nFWPyjgnxJLO4R6LZYWcLXhoSWCCbi83WcEtKLuQxGKT1Y0BD6THRy_aQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0068",
+      "name": "Automatic Feeder PetSafe",
+      "price": "$223.20",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRNiNZIZIgiQelH_KR-6sAzW3D57tqqSBpHIF9zPZIsbwg3fi-C-LsN8ZTbV9xYlvk3eK8bIOPU73MYwprUSnGCalgM468-rqNMHUI8un8z"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0069",
+      "name": "WeatherTech Double High Pet Feeding System pdhc6410lglg",
+      "price": "$118.95",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR6lpnkJdSDH1wy-bnrLaE_3Q63IYzKA6qSye6mg19F5EHFx0O1Sn-cmy1c3Z9l_bBFskeQRpD5d6r7eXycHF2odG_1_Fi9NdfBkgOxpa1rcVMPzf6eN20vfQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0070",
+      "name": "Air WiFi Feeder",
+      "price": "$49.96",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTC5mob6C2K6LhzpYgmJX6FkMdhqJXvh9vGzBAfOC_By0PpoDTaGI3iDT5c1Eahd1jiefdR6E3BlDssMan5O9zeiHcw2dRgk6lKegoSAOIamDEPmXwUTpD5"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0071",
+      "name": "WeatherTech Single High Pet Feeding System psh",
+      "price": "$65.95",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSTPPgFaFlDomfXWgPyurQQninQYe9z6LG7n8PKRsNTI-OSu3re1J3cx4G_tRZAPGejHXd95vm6nPY6C5EGnizLtqKLTLp1npHK5sCiLADHlvJ_pnBRPlmSvys"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0072",
+      "name": "Smart Maxx HD Feeder White",
+      "price": "$178.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT7Wk4Fg7v1j4PC-JJ91wQwZwmGYSZ0vpOvNH9626fw8Nhxp2otlwRkMheva-Jf1UIhLu_rPwbcZleh5rBxHkIrIfKA_wxZFvdWlceKyf4XSGjWOpLxxTTDlg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0073",
+      "name": "WeatherTech Double High Pet Feeding System pdhc3208lglg",
+      "price": "$88.95",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTF16l_707ico5Nqj8tBb9gXpF2Qk-Rcl85ok7ST2vaqjtiyMYEyuINOCziF2UBP7wcPgt8Rt1YPDEvWK0qsNgRUCQxFQegbBYrUVa_kGIXlKy79_eGJdV7EA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0074",
+      "name": "WeatherTech Single High Pet Feeding System psh",
+      "price": "$53.95",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSTPPgFaFlDomfXWgPyurQQninQYe9z6LG7n8PKRsNTI-OSu3re1J3cx4G_tRZAPGejHXd95vm6nPY6C5EGnizLtqKLTLp1npHK5sCiLADHlvJ_pnBRPlmSvys"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0075",
+      "name": "WeatherTech Single High Pet Feeding System psh",
+      "price": "$47.95",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSTPPgFaFlDomfXWgPyurQQninQYe9z6LG7n8PKRsNTI-OSu3re1J3cx4G_tRZAPGejHXd95vm6nPY6C5EGnizLtqKLTLp1npHK5sCiLADHlvJ_pnBRPlmSvys"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0076",
+      "name": "Safavieh Lilith Pet Feeder",
+      "price": "$62.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSeX9AcMgCR_-B09bjqokoTM4WKQwdvROooRox4QWSAJER4vL3t-jyQkh2YvDmM5bhcypjBUJiwd4sNQU8oB9g3DvAlcZzRIcVuKiUJh3xSs765QMKm9xMY"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0077",
+      "name": "PetSafe 5 Meal Pet Feeder",
+      "price": "$64.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR3QHOVV5S9viHP0fN43CmulmlxQNu93EsMzbRpJmhpLhIKZEA6KG5FBi-D2-aqMiMtFVLcor4WhGTMISRLAihWuYOyjMTDj-yXgOWJ0tUC8iquuw-BndeWjQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0078",
+      "name": "WeatherTech Single High Pet Feeding System sh0803lglg",
+      "price": "$79.95",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQDS-ki-o2ScYjXXyUvB-7hNV-qJrcFVAPcWWm4F7cpxVfYayDLYEBL31oUehSj6HJYJoJuGmheOEMKLY8Uc6aXz3sUe8tr6LaUFV1rPN16kNiaW0Fex7AmmA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0079",
+      "name": "Everyyay Slow Feeder Mat for Dogs",
+      "price": "$10.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTwXOYc9ZQu6yIjOeK5zysXRx3AYW_5g8jFB3-0iAv5sB7C5Jd2qW3mWefnnHQf6uQ42AVUcVP0VEmM-6M3_-6tgER3Le9ee3SPOSk0oGkVsusQnIwFDdkk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0080",
+      "name": "WeatherTech Double High Pet Feeding System",
+      "price": "$202.79",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQJpPfooYYqcd4iSEsj4a-Byp2p_12zXnIWM0LtA0X-gUggGonhcYsFF1gbWL7RsInp1vG-qG0fi3v0PgfMdFqHeavF5_AORAFuJ4ZIEwdjjamhMJB41n6y"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "viral-home-trends": [
+    {
+      "id": "LIFESTYLE-0081",
+      "name": "Vaso trmico personalizado de 20 oz y altavoz Bluetooth brill",
+      "price": "$49.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ3pcRHz3MyA2punwFEom6_ldUkiXzMyl5n2-1LmUuW2EcAYkvVWGAJvfpnE-H3Tvhmz_29EwrUHCu6-x9Aah6I28LtlUYteuNTcZHC8po"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0082",
+      "name": "Liquid Activated LED Light Up Glass Cup Set - Classic Round ",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQrsg9gud18XWu85hQVn273Re0OoDvkVZX0vXDb9SD52cRQKqVPy_ICltJPR8MZHmt3uDWfZK36lQ2dn3P3Ch-Bp_BIlthvjTIF3iZmmQev3GRm4TpdN5VgUQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0083",
+      "name": "3D Hologram Fan Projector with Cover Incl 88cm Holograph BTW",
+      "price": "$59.90",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQxB62ukhKD4zUXb21dJHXH8FLolkhNTy_ZMXEUi3rMZ-NCQ64lV-sqJGmOaDibhTUALeAL0O4wMh33oBImmPJmrjldSW6wC3Nzq83eD9A0wAaNTX-71Z_f-g"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0084",
+      "name": "Glow in the Dark Family Recipe Snowglobe Tumbler",
+      "price": "$25.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSe1MakTip39ga-YsCPRwVbYYfGK5HTQSYM4nFAm73PYENHarkehNnH76-uwcQrHrdzHdtNQb0UngRqrnXNk0BScaZubwskcqSE_PNscngWmysMCfyeozCs"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0085",
+      "name": "Upgrade 10 in 1 Modern Tabletop Planetarium Projector Suitab",
+      "price": "$24.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRpba5-nCg898QyJJQi4wW1f0_O_6Lf5j4mfOPwE1sb3USeuOCiuxLERA4oFbzcz7e-t4eSlLQsyewrEMoSsbeZv00ioKXwB5ciqZIKSI-9"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0086",
+      "name": "Galaxy Projector Egg Night Light for Relaxing Meditation wit",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRc-sxTfujJH77QAk-uAqsqZRwSiTFNd4n4xNLSNNkQAHRu2APDSiL6No3E8HCToIgUPc7Sdmscej3jXFqHNpxDvX7L0e4WbN_Sj0TXxYFxkvK_xyC6vXpO"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0087",
+      "name": "Galaxy Projector for Bedroom Pro Version HD 12 in 1 Film Dis",
+      "price": "$68.83",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTFazCAMGveIDYjfLqer5OOtMOJevxN-O5ooj7rr0Y9thwFb_ZWr18sPS5xCmx_DVZbqL5cS7tQ3b7PcmzwHgjS-6afSm3h45uADrjq-nDNbBz-x1jjNnVG"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0088",
+      "name": "Holographic Tumbler - Blue Create Your Own Magic",
+      "price": "$15.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjd6uSnrppqMuMbUS-n6ou6RktaxRaB80o8G3nJvj15Lu2RDtry69l4tir44o7VdDM9woTDwkMskf-OfXrnrv2i6pzRX-bluHFwv_zi5c"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0089",
+      "name": "Galaxy Projector Egg Night Light for Relaxing Meditation wit",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS6zzCHP_2ZRPq-Ovx_PgTTw6Ic4X0HbhM23FVIXpLD-cecTxznRi1I2fzpUEFDGdBCKqTY38ZQkggOHG-rJqwDQwVmZxadriocvSj5p10mBhp4Hioewe_v"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0090",
+      "name": "40 oz Antisocial Alien Glitter Tumbler - Ombre Purple  Pink ",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQCnKlohbaaRFR8s9KsU047YpY8BWKpnhipO1qOOp4yQAWKllzMqjSoRRkV3iCtp41-B47Hkg7yCIeiKdsdlZjPLJWF6EgS2e8nEPKJegI"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0091",
+      "name": "Glamorous TikTok Tumbler for Bold Women  Sparkling Snowglobe",
+      "price": "$23.63",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTX5c7YS14AVHhPuNfMos7C2HaxfPcaSOqPi40uGoLPIWV2ytO_2-w98Rjj_oWwAKRndlksGbZ6KTIx28SH2C3cn8IBpazS898U_NLZceiU6XqQrlE-Xqys"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0092",
+      "name": "Star Galaxy Projector Night Light App  BT Speaker",
+      "price": "$99.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTZ-1RvuKW2xDiz-FGYjdbAlmNuHRN1Qws7x98NnXM9EMWWa5zKJv1XQmjX7OO4e9vcNCj2V4vyTTBlceMDP65Odgo-3eb5fMV1xea8WVCq"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0093",
+      "name": "DLP Galaxy Projector Pro - Upgraded 12-in-1 Star Projector w",
+      "price": "$61.87",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQYuURh8kA6_uenEDTUh9lMlZyF4xEfCn-E3_CA2GLF_PVvDE7hGawbU4ZWQsKyTZfqi2ylaT94Xp62RUty-naLn9gGiFWjZsAhn9Cf3aE5nki9m3fwk5_P_Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0094",
+      "name": "Tiktok Live Tumblers 20 oz Wireless Speaker",
+      "price": "$45.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQCWyVwB7ZQsZnPOHr47CYm-kHY19nDQon0A9pPX6cYxGvVCGgZnxOkIMwOjgP346OicO6x79SwiISRPSbM8mVV1UGd6BaYdvA4pcrJbiGaaxlYaWIdYEY1"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0095",
+      "name": "SHIXING Smart Space Galaxy Star Projector Lamp Alexa-Compati",
+      "price": "$32.90",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRvodG0foRtoD3Tov2TLIGejRYhoPhra_5hSoRzeLtKm2hhCOPhkHvmETMgStOHrDl4_E_g6BmDLBNZENRGWAxM_FnZ6ZypeGCymk0ZlT7v"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0096",
+      "name": "Dope Galaxy Projector With Remote  Bluetooth",
+      "price": "$141.95",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqgfi1mCftbL-u45XkYwrIpqBWmqnrwNecID60OcE3v15qZ7yAMlLTTvoZbUmI-vzUlexuu6zVthCaKnMGngd7VlinWjwjTwiIOX7uLMnf"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0097",
+      "name": "Holographic Tumbler - Pink Create Your Own Magic",
+      "price": "$15.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQoFVkNAtWrTcu9BCONASdPEPPTke_yOzQbtc99-Iv0_QkTdhxJi8sj3gtUfXNl8oK_m-5nHfidLGja1UviTJdvh6qy4FOawW61adEw4y0"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0098",
+      "name": "Galaxy Tumbler  Planets and Stars  Nebula",
+      "price": "$25.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRMbMiEdeHZqAq2QM2XuD8pY5_6j7K9nP-JQNQEZpWM4Vb36j2lvc4vccDsWixilqKN0TYDwrJ8HcYY9fukDPefyzxHsxZVGbpyHevDvVw7kafkf43esW9AoGg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0099",
+      "name": "16oz Stainless Steel Insulated Bluetooth Speaker Tumbler - V",
+      "price": "$12.95",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTybCFs5kZCgQVC6sATzVgcuwzt_4GaUAvDpg9o5_jlFZxDfG8ISUjRkrNWIp0FyrrMRHaxpMzbVKVHWuStqTcrSynYiFSHjr-kv05Cia4HwfSTZlCl2uaM"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0100",
+      "name": "Newest Meteor 13 in 1 Ultra Clear Galaxy Projector Ultra Cle",
+      "price": "$24.69",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ9qff1IUrp7aiN3ujkYFm2WnznOZGOuWCXjcxehX7yiu5ZsGD_3ankw-rqDR7WJKHbNUX9tORbODljdqTujbpO8MLGXe5A0cj80sw-UZD4Rtw6e6mhlAFIvg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0101",
+      "name": "Newest Meteor 13 in 1 Ultra Clear Galaxy Projector Ultra Cle",
+      "price": "$45.49",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ9qff1IUrp7aiN3ujkYFm2WnznOZGOuWCXjcxehX7yiu5ZsGD_3ankw-rqDR7WJKHbNUX9tORbODljdqTujbpO8MLGXe5A0cj80sw-UZD4Rtw6e6mhlAFIvg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0102",
+      "name": "16oz Stainless Steel Bluetooth Insulated Travel Tumbler - Bu",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSI96tRAK7HQCIMQu_Z806wxrHyXtvKailX4yjAxDR7wf7eySUMwuxhB9--QNNNFSRVo3cjgAvYcOUihNM4eNWP-pkc1fKozXPlSh4dHxC2Cz2pGURW4Dtj"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0103",
+      "name": "Bluetooth Tumbler Cup - Blue Bottle with Graffiti Design Ide",
+      "price": "$60.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSpb2-0Sd6TNsE1QtdBIbpR7s--Z-wnkai4S8ISXxkZoTHhNQM4Qe0pK0-wm2QdyZ8tEILGbUguUUosBSnPuhhbqAtO7YjhSX3ZJmtMYPhF"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0104",
+      "name": "16oz Stainless Steel Bluetooth Insulated Travel Tumbler - Bu",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSINVFHyU7v3ThNO8EO0qodH0rwAKDnzWSzpPIJwyqTWz_g2Y9Zp5Hts8qWoWhLpufsgDTvZqEUI2jIBnkMfY5d1cMUz-b-aL4eGQr5PnEIN0crs4yRKiRk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0105",
+      "name": "Galaxy Projector Pro 4K Glasses-Free 3D Holographic Projecto",
+      "price": "$279.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTLVKugChfBNjFnBl70HoFvYlVZ-MMfEo1yC5gHWI76NHN521uEN_invOsWoaMHyqPZv5p2n1kHginNmu3A-h-e-IDB5ucoNXk-fhEI7ho"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0106",
+      "name": "Galaxy Star Projector Bluetooth Speaker Night Light",
+      "price": "$259.66",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSzRK-D35Li4VDhtQ8G7suDT_L0-sHbtY_MexryQPYVrokYw6D2uEO2CfFqvQ5iV-sichjjR6nunl6QjzGeWra2W38G7Vc44Z59UP9voMG3yJX_rnnJKyDg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0107",
+      "name": "CUSTOM 20oz Tumbler w LED Speaker",
+      "price": "$40.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQcHJrTG9uw6cei0eTcoVcmbL5IQ71Rj-NVkA2v0fAyEMTCBNVB1FTfS4iFfv4c02Tb9GlewCupWUi6L2r4P6IN4Mqf3KBEu-A8aaJJ4Hcgx6qUPhORFCu5bQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0108",
+      "name": "3d Galaxy Projector Bluetooth Speaker With 60 Scenes  App Co",
+      "price": "$307.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSzcDrIAYDvNcfsF_qs0k7Pxq5JLXaC-LgR-E38EjOeVQc3WfT0ck6IkaFDjJ6-LvI0O9WYc_L01KZ-CW32HLbiNw-mh4A2pKsO24NgdbU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0109",
+      "name": "20oz LED Bluetooth Speaker Tumbler Light Up Cup with Straw S",
+      "price": "$34.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQGx4DFEB2R0nn_JESUlcDC7zzCvz45BXmUuH1hoOioatNE-aci3vX061FyNySnTOh2S1lxv_wydB-WqP6MZImC1sH8gDI5G3KbF7KYFezU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0110",
+      "name": "Cosmic Galaxy Tumbler - Frosted Galaxy - 20oz",
+      "price": "$33.33",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTIPRv8MwsQd9j3_xNhEQDzGHz7g6jxOzHQ5EEsw_zy5O5rpxQQ0p6kjo4dIE7QdTtn-FARoUsqxKT77pc7Fdv3N0raAWzR1DXSbK99S9IrxUV66CHRkwycmQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0111",
+      "name": "Galaxy Projector 13 Film Discs Projector 12 in 1 HD Planetar",
+      "price": "$48.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQmZTFQ6HfmyHL42QUdYfLuZ5xUjIcnqvSBuRGVR0vweR6grLgN6UvZDpDWYXuQHKrKsvV1z-vxLV2yfeZ8fDaritBb4Uxs9q61eIDq3E0"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0112",
+      "name": "Speaker Tumbler - Glittery Finish Water-Resistant Design Ide",
+      "price": "$45.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTatMnMxFa1Fn6m8ydNJLuCxncB-7q_7B0uK14e0ZHVEMtOOkdF4Joklvl-ykOyXwlw0WUJBToJN_TorfN4UNl1Dxa1Sz20Byh_Jfhav1EGECDSL73seC8H"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0113",
+      "name": "316 Stainless Steel Smart Temperature-Display Tumbler 450ml ",
+      "price": "$11.90",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRAgE2FjzAxk4ubCxEFf6BbV-35RIdiaxM-aDnxvy0Ix04u4O5Ws3iqraUyvkyRtTFWozQAYjlulRotP0UOXyeCJAtiTlr4AUW8Q-xNhQG6KsdI4udDvnCE"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0114",
+      "name": "16 oz Stainless Steel Bluetooth Insulated Tumbler - Digital ",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSINVFHyU7v3ThNO8EO0qodH0rwAKDnzWSzpPIJwyqTWz_g2Y9Zp5Hts8qWoWhLpufsgDTvZqEUI2jIBnkMfY5d1cMUz-b-aL4eGQr5PnEIN0crs4yRKiRk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0115",
+      "name": "16 oz Stainless Steel Bluetooth Insulated Tumbler - Digital ",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSI96tRAK7HQCIMQu_Z806wxrHyXtvKailX4yjAxDR7wf7eySUMwuxhB9--QNNNFSRVo3cjgAvYcOUihNM4eNWP-pkc1fKozXPlSh4dHxC2Cz2pGURW4Dtj"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0116",
+      "name": "30oz SUBLIMATABLE HOLOGRAPHIC SPEAKER GRIPPY TUMBLER - Unico",
+      "price": "$35.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSLUDaVOp5AvpDNudOqG06xp2Y6FlaU--O1PcXUaQtzanT5gMKO7NnuqgoU-ummGMZPd5HFzUJRJV4wOlm7ek3rq7FHH9U5EDKENPynVukV6WyM1ppbQa7c9A"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0117",
+      "name": "360 Spinning Geometric Gem Texture LED Glow Crystal Glass Tu",
+      "price": "$15.11",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQC0gdtJ7R8YBdsh9ybUkFIqMOzRbqUE2s5rQjZ5CpZLn7tBkM-IlD0D5dh7tAy3H76EWdTBnnEUr8AJ8OmqxILYQjEVqEI858vSccTyew"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0118",
+      "name": "Brizlabs Galaxy Projector Pro 4K Glasses-Free 3D Holographic",
+      "price": "$145.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTBhaI-ucvpwCHq3G9yvT9f6gZtcYy1N_8XZJOacLV8Kh-0tKIASIY4vopT_layjK_bVDPhjL11Wco4D3jrs6zGcqRaCFjOcttRU-ZKbv4"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0119",
+      "name": "3d Galaxy Projector Bluetooth Speaker With 60 Scenes  App Co",
+      "price": "$230.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSzcDrIAYDvNcfsF_qs0k7Pxq5JLXaC-LgR-E38EjOeVQc3WfT0ck6IkaFDjJ6-LvI0O9WYc_L01KZ-CW32HLbiNw-mh4A2pKsO24NgdbU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "LIFESTYLE-0120",
+      "name": "Smart Galaxy Star Projector - App Control Bluetooth Speaker ",
+      "price": "$44.42",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTXaoMlcF0xS5_5dNCm5vznPz6HXYutTcQi_e72WAiEi3VdZABDdNeh6kiUsq10rZyURGKL2Q1g7idE71rEduak_3kHQS-mJti00E3Metvr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Lifestyle",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
   ]
 };
