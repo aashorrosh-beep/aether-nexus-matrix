@@ -10556,5 +10556,4499 @@ export const masterInventory: Record<string, any[]> = {
       },
       "status": "LIVE_MARKET_VERIFIED"
     }
+  ],
+  "super-squishies-hub": [
+    {
+      "id": "TRAFFIC-00001",
+      "name": "12-Inch Squishmallows Landry Yellow Meringue Macaron Plush",
+      "price": "$15.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQwqrFRXc7DWp9kPXFDHn3aJGjbB6eP3rq4f9IhTrDTCPppxQmWlurRN2P3_yf_yov2VPLfnTLLxr7CTssrGz5LXBHu7YjX6TtQj2E7_Sg-"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00002",
+      "name": "Squishmallow Collectors Tin",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQhTdFxHinck_fQEpV91A662f9eEDJCA7UnEVVgWqQDNAMibU5OmaL9yCL8annUFlp6tqEKpqtowRQH-u8gAYRQkGZKjvSyd29xnOJdMJJu8WxdwPAKD4WF"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00003",
+      "name": "Squishmallows Norma the Squishmallow Color Cream",
+      "price": "$18.80",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTpv6HTNLC_05kqhYq0f82FmDy3ZqVPz8UkAd8jHek76p8FsLRs-p7B2HY0bHsT7EcKN0sCb9wCkHif4FNw_jdMXXVLBu3Jgbxjt2BpD2hF2pLtofaYs1eCqw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00004",
+      "name": "Squishmallows Squishmallow Trading Card Collector Tin Series",
+      "price": "$17.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTRs6QlQthuDqXcbtnJmcHgebYMgtV5swfd0cN849r7GpmgFFaQphBuaJsT2mL9rFhY4kBNRPoIQTkRpOkUUUJGTZLuRfz6ZJ46TIYyb5NaVJt_YM1my4WH6Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00005",
+      "name": "Squishmallows 8 Inch Plush",
+      "price": "$24.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQiUjjI58WtnpBQZUPZf3pM32v9b2LUvJKeRrcLyPtG2WmL0-97ITLX5ZewBc6lDZuNFmlDXfrPdKzbM3I937hy6Iut__5TFOaOi5pdh9FjnkNpXyLHyDbL"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00006",
+      "name": "Squishmallows Original 10 inch DC Batman",
+      "price": "$14.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTgksGmQpTyKz0HpO1mx9eeYRGAvTexiwBZ-m0kun3z8hhwQcREHTviuQnMpK38w8AAHPtuLdE6lMuTNOQH_Lo61oD7n7ey7oX3z_5ZypE"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00007",
+      "name": "Squishmallows 8 Inch Skip The Bigfoot Bat Blue Plush Stuffed",
+      "price": "$19.60",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSr-zm2T4fcm407YXufwvy1WXSjFHA1LLuJrzitVr8eAoi3DU-JJxwn71jnB-cIrv1psZQ71L8aDYIfIK5-pR0xqv-770GijbRTxBdymlvl"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00008",
+      "name": "Squishmallows Skip Gray And Black Bigfoot Bat Weighted Sleep",
+      "price": "$40.61",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTtj-3Wp1lOxMcEhC-0nhDFHNlHE46EK6lvK-gVgRKQ61b9gsoj03ji_dQNYZXT15Nk6WwXaVNxq5yDtj-mDEu-T4FTpxTngkkefoE54xBKw7YhQCsQeXUSIw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00009",
+      "name": "Squishmallows Pikachu Plush Toy",
+      "price": "$15.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQlapGnqR2n7AfYc0M8G3EAJXeOa2cgtLSth4OJtXJYbh0q5SS1Jzf1swJecwFlTcZzMPNo5h_TwNTRSapCZRwZl9Sq_PPmterk7ofBiTw2F7zP7CFYzwmppg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00010",
+      "name": "Squishmallows Esmina Fairy",
+      "price": "$14.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQJeZaxJovQrSKh1b9Eqyj9afQ-X3sOCaIP_s5YB0Uu7qsJ41CTZWwlqTtU1EeQOmhj7mgmmzmhGxGIrO3q4Woxteqkk-Ge4YAQkHDolYI"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00011",
+      "name": "Squishmallow 5 Alva Coffin Tombstone Gravestone Halloween CA",
+      "price": "$14.39",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQDYDrPHi1JmWB0h9T-qOO8Zcnyr6dQ6C3QLBuRBhOYMofQRkdUXrZHYeSlOopDhrELqlwwo6KRpb-cwkkBOVFgubEQ7Z0aZrWSpdvQBwJeB7iCPgFkjo13RpY"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00012",
+      "name": "Squishmallows Sheila The Chocolate Pancake Brown 8 Inch Plus",
+      "price": "$44.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQWYWZwzCUBBF80JvrHgGkT5CioXFyS6Y4AskMU-FWcd6hFBFuQ9zNuQJaGtY8ObW3aXAOTXNes3TpGfhYkf9o0tsZ-BpicD4iEY7Yrfysjr9HVKIJNbFeCxA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00013",
+      "name": "Squishmallows Felton the Siamese Cat",
+      "price": "$27.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTH0e78l09hdIYfWOwi-aLOVErRpraYAs2_XdETDv_NLoDKpnEcXRovRKWMsgm3Ryj6S9cLoDeza3mPilD5bYrrovePcPN2GJRlJWLrEz9f_1K6qe5Q0aM9Tg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00014",
+      "name": "Squishmallows Toys San Diego Comic Con 2023 Exclusive Resul ",
+      "price": "$30.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR0ho561YZ2XWsbC3tYjGMRiNLAuB7-lRSlstao0DnX9it2C-N-ALhrgaHaM_7Z_RkpeTGui-1fnB48_E4beOYCVM91GjsrUKG-Rsjo1SpF"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00015",
+      "name": "Squishmallow Disney 5 Inch Plush Tinker Bell",
+      "price": "$8.85",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhnhuHcTtz_xuKNWh-iCXTkXmdr4rKYV6kPrMxze1d7drwNJSAv50uhJuGgUK0LOhgHocxwtWCbcdNeg3vx4UgFZeZ5402N2T9RFNA9ariY-r0jYL_LfD2"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00016",
+      "name": "Squishmallows Chaitra The Pink Lemur 14 Valentine Stuffed Pl",
+      "price": "$25.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTDraVEQOOb34nRmRM-SPK4S9_yCA_nfIrg8Mr46BuMIF87XwpbFrC2HO7aBZm3Y1ceShbdnFd_E2BbKnpDG5k8GsOFT5nuYVnjBku3DPtA_GrDMr2h7O5p"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00017",
+      "name": "Squishmallows 10 Norma The Gnome Plushie",
+      "price": "$28.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRMQQ4ETcv5NTzQ8RipL35LD6U0_uJiuet-7BK2zH47n8YL8gUfeZ9TZGp8n2R7LPMqNwCKwugLtlXtzYSCGmuDm3m00N7oogTcESGa4kO90U1zkMMCNWuG1Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00018",
+      "name": "Squishmallows 16 Kwame the Gray Walrus Plush Toy",
+      "price": "$68.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSiw2NLupannVEQBJcdOONaHANl4SAtXhzLVf02l0ngHfaUwRYnCIei8Sn6m0k7uJh8Yq5U7C17_TsWm_uxK87lpa6dHCBuDMuqAoEktv_f"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00019",
+      "name": "Squishmallows Squishmallow Trading Card Collector Tin Series",
+      "price": "$65.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQlxy1gG3G6Hm7cIkYWTeyaWR1l1GbxcuxjSMuda4mfeZNmpatJD61jOiGIGW--gHUs8d1arsvS4YX9z6_nC56rDkWUFlHveThlzUoT5DE"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00020",
+      "name": "Squishmallows Skip Bigfoot Bat Micromallow - New Toys  Colle",
+      "price": "$8.12",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ81qKl9aHslo_kqfD1YOvf9pQJotVqq8aEjwpfG2VOoKCc9_0VyUDv0IaRvQh9isRZlI9iDYWrcHoUcy75wJPni0xGrZ71bV8y-qQE7dxTLVGS62umLEDofA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00021",
+      "name": "Squishmallows 12 inch Squishmallow Pride Frog",
+      "price": "$29.95",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS6S8QYVJOlIOW3B4bnfX4dtdR7sWcGM6M5cIF9FdKOOp5GQk8H5gUHPg44dTiZvRQVZGayiabH3b6nrWvRfo235hrN9GeubY6ucNeE9SY8WNubmhZKJ3UTlQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00022",
+      "name": "Squishmallows Simone the Shrimp",
+      "price": "$15.95",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcToZuwT-Xl0oVS3hnurX3_t2HKcOKWZIpwAXVCUk2I_GipsOHYhNW0wQf-1geYVjFj3otZAW1qa3h8D2fjq_NAU9A1wrfCKNixUCHj81Rnaaol1wMm5oFWu"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00023",
+      "name": "Squishmallows Squishmallow 5 Inch Sealife Blind Bag Plush",
+      "price": "$5.48",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSiaPzBBqq1eH4btMv9cHuapkVk8I57x0z6MyurreLzAvh7CddP1afJiBzxIQHLpGmQ2YhE5N6-LPM2EYV0QuF5nKelcJ-2mw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00024",
+      "name": "Squishmallows Skip The Bat Bigfoot Sleepmallow - New Toys  C",
+      "price": "$31.50",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT95FdhBh5zdodEnjmf-yOFNYw4dKwm1fBbSf5xI7pRmYmF8uEY5SF3MXi0bOEJhLO4ndHUgrA79UCH6NfbTh8aeBrvCoKbfJIQF0DK_04"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00025",
+      "name": "Squish-a-longs by Original Squishmallows 14 Pack",
+      "price": "$15.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTIe6rEC67RV5TeoXb7ek2MJgmUnf56m6flbjOcQqldImhEvoDX-4ftIrZqoBn_ZeyrlAWVDM-JpkU_R753Ec7YFbz-PLpOYrB00snn3KwP"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00026",
+      "name": "Squishmallows Bigfoot Skip The Bigfoot Bat Hybrid 8 Inch Sof",
+      "price": "$30.40",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQxNqE8q3mGvZnvPzfW130NxfWKLs2X6Gboou9wtUVVrD6cicxSfDl_hhJhpXXBXob-71Jli9_3qeAFX0ErLlZaeC-E8PJ2wlb21HVyuGwtSPemRlrt5lnB"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00027",
+      "name": "Squishmallows Original 10-Inch Monty The Border Collie Puppy",
+      "price": "$18.80",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQGI_mF4qWoK_WoxlQLaptChRDgEWfP1MG8PWeDbawyyQKALrQwH8prJ83pdAzowcUN4qMGPaWTl3za4ifV-11YmNEOyjG8pj-zRlpvs-QmQTo3Z7Q-d4fo"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00028",
+      "name": "Squishmallows Skip Bigfoot Bat 8 - New Toys  Collectibles",
+      "price": "$28.50",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQKsU7zvoJIEb4pTznuZYiHHTnhH7SUe_f7B91R-twMJKfT-EiiPS1WoQkCTO6NfhwOBN64t0HKR3BwgTpHW6UvXT1KfKVTdITN5oaiUtk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00029",
+      "name": "Squishmallows 6-Inch Mini Plush 5-Pack- Snuggle Collection P",
+      "price": "$18.37",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQO1WqPXE1ycKARMDcfV92XKyYq8xv_FxKtSCuCv5sXVB7QbNYAS07pfcy6H7H7vDH9xTYjXu0I1rr1OQLBTFrM7fRYiEytc9Urvhwjc2iN-y7e3EojRZZn"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00030",
+      "name": "ultra Rare S8 2580 Squishmallows Sheila Chocolate Pancakes",
+      "price": "$36.25",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcREndRK5cWfwb-i2A02YAv37zpVsEILrWJ6Q6D4R61LzkGqxSW5R4B8TUsi50zpD9B755OtR-UlOvpGcu_jaBySa6IutLV6nkzm6tGtp070"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00031",
+      "name": "Squishmallows Skip The Bigfoot Bat 12 Inch Stuff Plush BNWT ",
+      "price": "$37.13",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQVvL2QlG6vFUWfRIMkZlbEjizu_K6EQf7mkcCc2EcC1kBiCzp8CkIKwTawB_pxwx4B-cdwQ6R6ixRZbzRLqnxtZhYPez3jLwVJdwO2pJ346WxiNdRe6Lrv"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00032",
+      "name": "Squishmallows 8 Ultra Rare Sheila the Chocolate Pancake Plus",
+      "price": "$50.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSIUylRtwVoNqbpGZ1Uwk0pNV-zzhlKx80-8LK_BUhO6on3mNzTTBr0wnFJvb8lP5UswZ4GteXMmmTimOLjvyyoeWVWuPgXjB6WeRozaz8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00033",
+      "name": "Squishmallows Harly The Goblin 12 Inch Mischievous Select Se",
+      "price": "$80.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRwagEXChpuRO4LxFIrAVRFKn2qj1bzQtR9MfgIHBV9nlExAvZvRDjZ-2uip36hTaVGVZ2vRUBYO_O1ATcFeAFrfIWlcsBd6i_r8goOd-MpH5ZKZRIq8cEo"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00034",
+      "name": "Original Squishmallows 5 Disney 100 Anniversary Limited Edit",
+      "price": "$15.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRElGlV_DCocqP79NdJmKKwUFqiIkPHuM1XX4pkLJFflRDRo-cEbtt1iWtrWIfIWxXllj1cCj_xEjg9UZ80GQQCOO-GL5IGKkYWyrjLYI7DgGxg0HqyUnlhGg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00035",
+      "name": "Squishmallows Pet Shop Squad Rhys the Rainbow Tie Dye Guinea",
+      "price": "$14.38",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ_umiG82XLW9_82ufyOt1bY--9S12lnhfPvkbiXRvEH5SgTzCUD2q318fkDxGlptwMhFCrKarw39XicF-IaZhPn9k8zo-dJGKW4sxngKv8MuwO5_r_28TzjRI"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00036",
+      "name": "Squishmallow 5 Inch Mini Sealife Plush Fabiola the Rainbow F",
+      "price": "$13.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQnt13s0Z_YSMlmKD278Xacl7QFKybmM_PPGulqfYtwTFMNBnYY76OYliO7Lvb-5j-xMvj8a0wEsV44xynfY3g3cBLHWhxcj4TNKwPQheNhberZJQUTsxLV"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00037",
+      "name": "Squishmallows SKIP The Bigfoot Bat 8 NEW With Tag NWT - New ",
+      "price": "$13.89",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQgXzSOkRxyepWVEfPH3k-zYYN2vt7TZGjhdgD13856vDPJXFyTZkVtoPZDOh86ilHuCksjcfddMXcpb5t8uLY3tcL7wNdfQHH1FtFuNS4"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00038",
+      "name": "Authentic Squishmallow Serge Skeleton Bird 7 In Plush Black ",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSq5gF9cmnnxRkf1fdazug1gn4NxdjwB-pE7qdV1ptlrP3ePeSMiAUwRU13H2gCf5O_OQqM8ddGt7YHQN1MM1ef1ktbf9YvsdsWuwFqyZWSyLM0qytgK252zg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00039",
+      "name": "Squishmallow plushie stuffies Collection Lot of 19 -",
+      "price": "$79.60",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQHpsLxeRWCx9pioYt7s9kqfApdEZWvs9f6-tP-GQsXN1zRb-LO3ZZJNNuZvkba6_GKYX6gLmAnzlKWuGvHpQJG3U_nx8FwPK1-2XRp4rQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00040",
+      "name": "Squishmallows Skip The Bigfoot Bat 12-inch Stuff Plush BNWT ",
+      "price": "$44.98",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSzGVj_aASHRkm69sZ4RGm0W-8GGjoxsGHTW9bUomAE4ArAR-Z8EmKaNgz1CBYfd3R8nyRWXb9izMgcHBz3Gx-C2U6MPWEJCFQ0SHa4TonjmG2yVyGd-cOU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "blind-box-vault": [
+    {
+      "id": "TRAFFIC-00041",
+      "name": "POP MART Naruto Shippuden Series Battle Against Akatsuki Vin",
+      "price": "$10.19",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRTifGkaL5yELZ6SS1uQms91hmkVIMTdFiBWRfY6xiUNljUh1mPWyOibhNeR4Md2T7ursD8lPWVUwcvxc5uMWGbzcRplAxtp5q4cYbHqaa_wCXsJZpQUu1ZAQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00042",
+      "name": "POP MART Hirono Monsters Carnival Series Figures",
+      "price": "$29.95",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSsYz-nRgQfmTboCv6iJe3t8QuurCX6kXWI1R3Wt7D_o553SPCRVM-mpU8UDxk_NbUMchUeAKpnFbzz6tkKb3Jl5y8SMpeUTQc_coV0lkbM2ZbnllWecv2e"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00043",
+      "name": "POP MART Hirono Echo Series Figures Blind Box",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT_I5mkT4mnYRzgzMhAXszopTCQzk7LjAVheLuoT7ZG1wBqxuil2Sbve9ZNl4kj5LZmeK8EifrgU1kzynMz_9VvIkOgA31uit9NG7Mb_b8ZzsYo7ZbZDttU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00044",
+      "name": "POP MART WHY SO SERIOUS Series Vinyl Plush Pendant Blind Box",
+      "price": "$35.55",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSOurmqVStP82XBEM3ZxmWvNI6eUs9Y460IWuMQil0JVcz6qiR0eMMI4WhI-AmE8ef-7OeSHh_gMrsZYidFIgL-cICDbuS4giLhUUgQEZHvNcaeE1EzB6VD"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00045",
+      "name": "Pop Mart X Skullpanda Image Of Reality Series Confirmed Figu",
+      "price": "$123.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSOUFTxnp2ckkLeoPxi5il12yMfMz2JX9mneHFLW8v6bVl3jDfsXDHS3hD3T8PLgElaMlso04QZrsBG5ukoLYtkMfeFt5ynhBVE0oNMcLQk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00046",
+      "name": "Pop Mart X Hirono Reshape Series Figures Confirmed Figure Se",
+      "price": "$10.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ9p-_s5dE5vXYHwJgeO1BXRy9xOx7KlDC_3zCaPwONnv5YasY-ENCGl0RUAtBlNRYK4IPsCa4S4qr6X09EZtYuSiinHJEK9zycuI6eKTP0pyeiIt4-IBYn"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00047",
+      "name": "POP MART THE MONSTERS Almost Hidden Series - New Toys  Colle",
+      "price": "$19.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRimF3PF4sJ8eCz9C29TqYILOXfWhBSJ85B1L93OueJarGJTYLJrUeCL7pZpXIpfMoZb-urOdSb5L5k_jXxMTW6bDpDtd1KSKFFPYmkbU-v"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00048",
+      "name": "POP MART Popmart The Monsters Almost Hidden Series Mailbox -",
+      "price": "$14.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSrd0BC_azkYz9VTrt5StzeDHDXsEdkoCWMVy1zyqy1Zmst75fdPxsgmlVFsAjEjUOi0MH6Pa0Zr8Trjig8CsuyHxg3X-F24DDd0-L6ItI"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00049",
+      "name": "Pop Mart Skull Panda Image Of Reality Series Figures The Piv",
+      "price": "$23.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTORBfmaLm9_EF3eU44QCDUouZyyeL4xJUE7w5Rm_3yTamYiw6uJdWEN3PVOakjx9XmI1y4kS5RPNzPASRpggpU_jNFYlebq_K5Eboixfrd"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00050",
+      "name": "Pop Mart X Hirono Reshape Series Figures Confirmed Figure Se",
+      "price": "$92.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSODlL3P8dJvGu_ExrBUcq3H4H9zdafnvjZ53KzcDXkNmmbJgCV-zrFdmlHinmFbnRIrDIejeEiWk_iDk5Ft9HNEZj2wvJb3dxngZML-lGayV5TSL8HBjMPrg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00051",
+      "name": "POP MART x Hirono Echo Series Confirmed Figure Doll",
+      "price": "$10.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT5U0YPyA9XcuBDUq6t8sbEWK0JB4svQMD3zYhKKE5mCKfnbN-vBJaZZZMHdp_APoa_uUhWPkIjlEZlmKTOeSMjLWl41gR1OeWIoNhwa0BGWxBXGMQ_fkHB"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00052",
+      "name": "Pop Mart X Naruto Shippuden Series Battle Against Akatsuki C",
+      "price": "$14.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTj9T2bYtWLcYYkQkn7F6Iiy66QKaMZXyHb2Ei4mVYH-xaL5_x1XHMopmIqWMZqIINxvFmHTJHX98gBhshm_kc5KWljUbeuUv9AfuVXGPk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00053",
+      "name": "Pop Mart X Skullpanda Image Of Reality Series Confirmed Figu",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTmTKiAoGP9RrXeNJXWQJBSv_MLOtZ7D14ppK8B-x3G4oilAKfsSRa-Z6CIKk_tlT0JBYd61JSOAWXwOOLNMAbWlLlZMv4i1UerQrGEOCwpreJb7emvfRY6ug"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00054",
+      "name": "Pop Mart X Naruto Shippuden Series Battle Against Akatsuki C",
+      "price": "$99.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSgeO-KXlBtf1TX28RTZaArbAirRVJrYVCTpP-GNchydj7JB3hNfOwtmGKV_NSTmx1ZX4RQXuXYUgZ358IqA7Yk_kQzXvHtEn7z9TRrrdM"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00055",
+      "name": "Pop Mart X Skullpanda Image Of Reality Series Confirmed Figu",
+      "price": "$12.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSM8zbG0-gSp53m2UfN_mvlZqfeLyGbiwOaClBYcQAMgmAHXhM9sd11mKG3Mfuj9wjvvw2VK5e8CQlu2PgIgxbAXshWtZtBnPxXlLARusQOJTBo2J2bwYgk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00056",
+      "name": "POP MART x Hirono Echo Series Confirmed Figure Doll",
+      "price": "$11.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRA2nwXn08S6LXRbsDyf_2zVBHR2M-fL_hHDyVkmZpJ4fUmCKydBbAirSRaFK1KXCL9HNmk_rXzm7WMJ2cu8x_Nt7lQSkX_iHkE1RTpkEIFarcQYnqKprv2"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00057",
+      "name": "POP MART Labubu The Monsters x One Piece Series Sealed Case ",
+      "price": "$307.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR3TYX24Vv_UYqObLCc1UDuppFD9m6UhmQQWs0mne5_9VT5tqew7CiI-XY7-Apxw-Y2IER0tZ2UMAbIbBTyiGcFmYdGOoXMndhZHP93LsjXBrUiY2Zq8RBInno"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Collector Grade / Authenticated",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00058",
+      "name": "POP MART Labubu The Monsters X One Piece Series Single - Bli",
+      "price": "$19.55",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR2M8diVKQLshU8maYN8T3GaT5sMJEnryD-ssIF0wnzHL5qVGr0HJmZQq3ow8iCBe-cUFQcuJl-RZ-m8pjJFY-Lr1tjPNmXpoe_aQzHNla_Xrab0UabApXCIA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00059",
+      "name": "Pop Mart X Hirono Shelter Series Figures Confirmed Figure Se",
+      "price": "$99.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTryrA_hXO1wKBvBziCaC_fHS0QONh_9Bv0tHDzIhQ8OtT8Xlke0NaYWY5BGsHwJ8LEuF0gZkBpdXyMB2mUPWq_SlwTqPeJkEzwYzZNs_anbUl22GFOC1lPQQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00060",
+      "name": "POP MART Labubu The Monsters x One Piece Series Sealed Case ",
+      "price": "$339.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR3TYX24Vv_UYqObLCc1UDuppFD9m6UhmQQWs0mne5_9VT5tqew7CiI-XY7-Apxw-Y2IER0tZ2UMAbIbBTyiGcFmYdGOoXMndhZHP93LsjXBrUiY2Zq8RBInno"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Collector Grade / Authenticated",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00061",
+      "name": "Pop Mart X Hirono Shelter Series Figures Confirmed Figure Se",
+      "price": "$20.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTurBjUR0Wc69UdmvIJgp45ESGpDR8B5K-Bhpz2vF5coSjkz6yNNyXsrAfe9x5bGgBya-l8NSr95f8dW1TalpEbDNhh4HAzmzD5pG8TBdq-NkLema5wQppq"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00062",
+      "name": "Pop Mart X Hirono Shelter Series Figures Confirmed Figure Se",
+      "price": "$12.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS6JYq5XjJCxcIfQo8f4psbwpdkbtFrbm3W_i_2OVm7pfWhpHHH-m88D7MLyENLATuZVjoJ8wARMDj_7Ocl9qzFjVPDWcg3KzSIVPCdjKxCZvb9ZBBYVXFS"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00063",
+      "name": "POP MART Care Bears Colorful Hugs Series Figure Blind Box",
+      "price": "$20.41",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcStZxoYpX5R9aFyX0TWbPu-EcbOS_XeaFIKLQ5nO9rNVN0HODu1nbUwK3n_VP-CNc-ptbTAkcfr39TrLKw7oqGBDA8COM614EJvYvaeVz3A33j1Ulm3wapgcQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00064",
+      "name": "Pop Mart Labubu THE MONSTERS x One Piece Series Sealed Singl",
+      "price": "$95.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTo91R0JsZYLJjVWJx7os3uWeOpa3CoxR5RtHQ0aeRLgT89Eps7EjXPBgCbarPlKqOtB-HAYkBu6Fl82oYYfmPWORRu0FQliVYrlMfLxgF-PS7g65IjRv14"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00065",
+      "name": "POP MART Hirono Road Journal Series Plush Doll Pendant Blind",
+      "price": "$100.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSeXtzNIaJWbyn5B8IdQ1IR2NupoMTFHS3uvL14UHCrmdwxy_6ZvQi438wX489WeaO2P-KFVR7sJUqbACbElflHG7kJ8MJEcTZq3wf-bj8b-Ce3RgU_avEd"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00066",
+      "name": "POP MART The Monsters Almost Hidden Series Statue - New Toys",
+      "price": "$17.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTJ-5kbrVcjhpEt_UCnzLcERIFz3AVZbGeizVX03LpWkwvv-LNlbHVAwbBKdTr5ceqgHN3p1gNP-vm8N-oasGiVAjZpY_k7gMG0OabAQHg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00067",
+      "name": "POP MART The Monsters Almost Hidden Factory Sealed AUTHENTIC",
+      "price": "$22.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT55vYKV7S9roeK-oApUT1i88vXTOynVSlC6DkWCpeC-cdmqfbyXJDWH9k-N9t6bxMCY3HxiPuDRHVLYwgAX65r02ebnG-AM8FMAgY5-nw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00068",
+      "name": "POP MART Labubu The Monsters x One Piece Series Sealed Case ",
+      "price": "$325.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR3TYX24Vv_UYqObLCc1UDuppFD9m6UhmQQWs0mne5_9VT5tqew7CiI-XY7-Apxw-Y2IER0tZ2UMAbIbBTyiGcFmYdGOoXMndhZHP93LsjXBrUiY2Zq8RBInno"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Collector Grade / Authenticated",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00069",
+      "name": "POP MART Labubu One Piece Blind Box Sabo - New Toys  Collect",
+      "price": "$30.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQigYTnkWigHZKTppqx9m6Gs9k4ZSzUnTQd732CTcXvCL4tzXhSGHwpnwxhu7me1RDTUMzSKGXZVKAixzZpf-FwH9pNv4a85_Uc0d-Zie8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00070",
+      "name": "POP MART The Monsters X One Piece Box Set - New Toys  Collec",
+      "price": "$269.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTFpzLCwLviLxW9QPAVSpBglezvwygjfzzeP2-U8XuJSTssXfSVGetuoC-v_l7Kyq6QBKlW9IcQWIR5Sh9gt3hZqEAERZ6VzzRXczMCjbO0pRONX93a8dN1"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00071",
+      "name": "POP MART Fantastic Beasts Series Figures Blind Box",
+      "price": "$13.95",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRYzTrpriG-tcNzKJnyNvEVoLWK3CQVtRGI6RvjvO0t8X0WoXmIu8pfDy2AZ2nlWc8J_Tsqk3xcAjIeUd-ci-OZ_lXt2FL0fi-aOC0lfk-H6aeSrwBAnC9O"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00072",
+      "name": "Pop Mart X Hirono Shelter Series Figures Confirmed Figure Se",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTxh2oq_JjlkGG1NEjiyG7fQAHG9iFY8gKDeId34UJhc25VqZGUCD4gQ7-CtCu2B6SIKu9H6xo_8v_l5e1iFNrJK31AptKUNJahbaBr92oYqT4uf8jN9bHF6w"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00073",
+      "name": "POP MART Skullpanda Image of Reality Blind Box Confirmed Fig",
+      "price": "$20.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRHAUkUBoioyB8sIQ5GDRKbJxVAHnRzTT79QMHuUXCUS1PTdL8pTzNzDnnHGefc6OxVeovPm0bXassNwXq3DJ5ItQhDG1VDwM8rtQL_rKTUEOkUE4O49xrj5A"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00074",
+      "name": "Pop Mart Skullpanda Image Of Reality Blind Box Confirmed Fig",
+      "price": "$27.43",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS4mBOUfnB2l0a99JVKp8-VqcvZvEjMQ9J55XgbjPdMb_fNPhR2ccHci4qV2tjgA05YQcO8HthIAXcxAtJD67yku6Bqem7RKWynmUG-u6EAPwcRTX5n7fip"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00075",
+      "name": "Pop Mart X Hirono Shelter Series Figures Confirmed Figure Se",
+      "price": "$12.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTDJUR6XqoQc6G382KjRckMUek3NDxHpAz8ytwHTgAqApFJLHdKK2fG1l-1ul0l9bOwkl4YZ6zBOXh44NLa_QTQjYntWvLPPGFnfDjLg5ygVYZWJ6UrGmoaQA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00076",
+      "name": "Pop Mart X Hirono Shelter Series Figures Confirmed Figure Se",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTscbn6WOsaJ14iKp748PRb0m5sEXmvBmC2KiKVyvWC62rRaKhMi9csVWa8sV-VBv6qwGyb-TGD-u7mcKueJM6Oz9sdTTTsoAizU7L-nRqfmrYe1XJzKMyA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00077",
+      "name": "POP MART Labubu One Piece Blind Boxe - New Toys  Collectible",
+      "price": "$25.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR9ZwV0IEboYph8EEBdl_Fca0O_DoFcufMck9TnVPKjeKsOLCj0C1lWAJDmkdM5FZ2XFY-dvT7LPvgo25_agiOmFqJ5eaNnIUlnJsXDX3c"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00078",
+      "name": "Pop Mart Hirono Tamed Wildgrass Series Confirmed Figures Sea",
+      "price": "$11.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTQTRNIiMmbFb9fvMAWgr6x-PAabEvZwhP9vBurQvXeFGv-LfEs1T5L7mvNFiwTxYwUWhTbubSecVRFXCVJD-XiCjng98WBh4iqfLsO3WhOOCfxPIEaVMlD"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00079",
+      "name": "Popmart Labubu The Monsters One Piece Whole Box 1x12pcs Secr",
+      "price": "$280.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTkV5YDz9K9RlFjqsh-nwDmdVwjgGzb0IjuwBFHtYCC894lVu-8Jx-DTnfmOAVZWaSm-1FgbiOwDxkrjWXsE2Yx8f_ZLyg4Q3em-yVdEvh2Ll_zacBDLaa1mQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00080",
+      "name": "Pop Mart Hirono Tamed Wildgrass Series Confirmed Figures Sea",
+      "price": "$14.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSCrF_rTGBKLdbfTmdBSlNOqtBDTjLAvmBLCVfJJ9xt4190LsGe3G2qebxRg9fTY9f_46jZkIjq-HChieyZtbk36ohrhb_YXeVRT8_ebTT1Zgvb6XeWSWPgYw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "the-lost-edge": [
+    {
+      "id": "TRAFFIC-00081",
+      "name": "Spencers Kayla Malecc 21  Legally Shitfaced Banner",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQhMdv5TvFWtX7RrOsNX4rvIMAxL9RSYbKRHSD5aM4OiOeB0YXjUXobiX-lnWFpW5mWFhpOpoUjhoWPVtPrWugtn32B4HHxpLxvCm9utEQch_QN8FNdBepk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00082",
+      "name": "Spencers Shocking Pen Black",
+      "price": "$5.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSu1N7X4w9UlTUSjwwW-C1IXIKsBIJiP8SoDgPh184SZ4TRZn189pjajs2FRUhEN6B3uhWcBp84mFTQPwIEoh3ZPIjJs66M1sxu5ReaxExg-MTA66B4q-uR0Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00083",
+      "name": "Spencers Just Turned 21 Shot Glass",
+      "price": "$5.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS9sXaw5qzwjlgeTt03BTEDN1MlsFgjk53CbJedeRX65SIRNhi0ktbt9m2puzVHeDaK9IHfcF-T4qaITSR8A2G0a4Qsqqk0P3UmZuH2MJm_umuEIBDl_QrY"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00084",
+      "name": "Spencers Five Nights at Freddys Celebrate Fleece Blanket",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQAdklOkEA8q_uzJgRHO_a6-dXhMOA1KPZ0NFqscdld8SkE58yv9pLI6rZNa-h_2SwpVOKYwhS1bk_G-5eG0Pp9d8DuNKl1Ugv7EPgAkHsPpqap4GVCILre"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00085",
+      "name": "Weezer Blue Album T Shirt",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTX0_UbYvVxf9esPQJDeFaXs9VzJ6Sdf2Ja4RzG8sAq54TeM1f3HBN5CcJHfu-NerMTqyccC0s8pbp-ZrGvmPDQ2ziPSRnvMRICXinQCYiCdQ1DH0bAWt2u"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00086",
+      "name": "Spencers Killer Clown Machete",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ6d4i6ugBkRJYEAeS8tSs6IQjCt0-Ialm48hINjEBzBp02juWjdS3LMAlwdT_IaSlC3XQRTA_V7L8rjgREKmiwOVKCrcDIGOlQHc3stNa4p_Br9-RN24M0Gw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00087",
+      "name": "Spencers Fart Bomb 3 Pack",
+      "price": "$2.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTcIzPf909vihrzjd50qnemMFkngSv6TJBfLUJEsXs7KBOK-QCo4_uGrUrLKhcdPaIT2opX1n1NMoUk_lIbjdFwEVPwZdjNl8y7GnKDnEjOQHkiylGe7zjMoA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00088",
+      "name": "Spencers Ghost Face Pink Mask and Knife Plush Pillow",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT3fM3RzozckbEfRG5ncNg4qNQX81usATab948wNgDSVU6EqFplIa1p0lN1txFJ5f140X_hYjmRBk5jSLhC8kDnG5TZcKAFHAkhjVad4Muv9odrHaGvcw5vpA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00089",
+      "name": "Spencers Mens Black Multi-Colored Chain Wallet",
+      "price": "$28.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTZz7BZgyUD2a-Y1gYw32MfxHeg9vueIDGUR1H-Vi4vbCcIMdpe_aSD0ETl5t-alyI94LhK7xhw-4VjJQlqbxAsioIUudlaFgk5yvwnjLeQfN9xfXquDDJGdg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00090",
+      "name": "Holy Hammered Drinking Book - Spencers",
+      "price": "$12.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSl-JueYRrBI39MU2Ios1VAjDHFdM_WWf_tmPIPVQ-CniHruWSCe1caFbDmEh8dNI-6q-S2G3xN_sECvBb-T-dCG9VsBqNFqRb8ESqS_SYScevYEBYOsqgoPA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00091",
+      "name": "Weezer Blue Album T Shirt",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTX0_UbYvVxf9esPQJDeFaXs9VzJ6Sdf2Ja4RzG8sAq54TeM1f3HBN5CcJHfu-NerMTqyccC0s8pbp-ZrGvmPDQ2ziPSRnvMRICXinQCYiCdQ1DH0bAWt2u"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00092",
+      "name": "Spencers Buy Me a Shot Birthday Sash",
+      "price": "$10.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTZCYq14TFNkYOxqUqfLIeSo4_5bTpMIJe1zcmjVWKxzDaJSCy9RVU2A5U4Na3NvjAUe38jb-wSBYM3lgcSGO17MySjxYn2e8_xPJF9m9YmUvVmSBb86LAR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00093",
+      "name": "Chucky Doll Spencers",
+      "price": "$69.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSg3scM5-9t3drXQoiVafGb36zi2pzrTCqc9fshHYMm1cF2HU4j4WZ1f2JXC6BCTz-Y65aLj-BWTG-19K-ZVCC6QZKDvQojAj2_SYABu0kvjNEXeLnoFH-n"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00094",
+      "name": "Weezer Blue Album T Shirt",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTX0_UbYvVxf9esPQJDeFaXs9VzJ6Sdf2Ja4RzG8sAq54TeM1f3HBN5CcJHfu-NerMTqyccC0s8pbp-ZrGvmPDQ2ziPSRnvMRICXinQCYiCdQ1DH0bAWt2u"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00095",
+      "name": "Spencers Ghost Face Pink Bling Full Mask",
+      "price": "$24.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQPjdFFolh468-V-M1f-5unUY1xg1FmmHgGXEVhvs6sTbjKVX8gX56v3iVkUVklPZe3nOpehbQKFLgDDFPvv7D6v9mC55H6hX6v25PinWFkX_ENq1qv_eJ3cg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00096",
+      "name": "Spencers Glen Doll Chucky",
+      "price": "$69.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSQKYrMTt_dOA0AdrTWtokgmvnqazCjBAsv9hDZUPiB-eBReC_LwCzcBtDguUBsubtHyHytbMMLkipQMHHThSv9sm2KLiXfdG1k5x7jCFkd6n6jqxsRqcBdaA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00097",
+      "name": "Spencers Talking Tiffany Doll",
+      "price": "$89.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRg_KKYtEh5SjSZmPiDM4nvsMVcKzdVvl2H0ba3HNYSqBvDNmdA-89l3X-kxtw6azLVQ_nJ4q4LWCeaefuZ2xOPz4bEvdImI0JBr3MgKgHcxLx0C2zjsdxGtQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00098",
+      "name": "Spencers Gifts Mega Fart Bomb Pranksters",
+      "price": "$12.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTvRG4-TdTkWJUQb_J9B5xNDbv6Pqz_qOcKv6InnGGJMBjhMX-QiK_-fjAL-X3ds5vFI6AkNcA82tKjRd2g-8CAs77FuoNUjuHxctNNFYmJTLWpSkY5VPV5NQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00099",
+      "name": "Spencers Sandworm Septum Ring 16 Gauge",
+      "price": "$18.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT_WIdQ6QbKWRbdbHzHqXxZdgIeqOq2O6_ZDPr7o_lS3XCKz662x9q_FpEuY09ZAUuJR-EblwZlwf5L07A2ALcN9pyT08WVuuZoe7nNRtthArDOTwkqaMwS"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00100",
+      "name": "Spencers Betty Boop Polka Dot Shot Glass",
+      "price": "$7.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT3BewebkwrRKp_Xmd9FMZRZ10eIjlFPaHqS2rzzCBlkr86RIijnJusofeN0s6iBFXUaWYoCqjERCyjuMwGQ4PTyEWuVAu9Ln8gQe5IE2esYrTuyVNgn28CMw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00101",
+      "name": "Ghost Face Tank Top and Shorts Set",
+      "price": "$39.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSUFQg_S-h9L6jm3FhhjCstrFrFYUIhB98tUNpOBo53yubWSf14wY2h9MlDRzj7seC9Ia3uboIRpZ68bzisHQDMteINlwiDdPLbioyqtAYf47iftkyep9-r"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00102",
+      "name": "Art the Clown Wings T Shirt - Terrifier Black Medium - Spenc",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPBJky7NW0I__od3T_B0b6BDkIXLJ0XWRqpgIzn_6tz-fU6zmhic-k_r3i9tM0qW6suedtYTFd7vJTUhltEL6MmFf9IsWZBRRa201l7NE"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00103",
+      "name": "Ghost Face Tank Top and Shorts Set",
+      "price": "$39.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSUFQg_S-h9L6jm3FhhjCstrFrFYUIhB98tUNpOBo53yubWSf14wY2h9MlDRzj7seC9Ia3uboIRpZ68bzisHQDMteINlwiDdPLbioyqtAYf47iftkyep9-r"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00104",
+      "name": "Spencers Any Hole is My Goal Sleeveless Hoodie With Drinking",
+      "price": "$15.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQE-DljQgkVMcnCOyquuMSPeXfpWsZ3DP4QTcNmnUNxmeSjFVTzgXmoZJp87wB9DG0bAm4X3DMV-L9gwQO3UIvjXNNiI_TgeoaI0cVILwJtTyD3dn1AEa2cfg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00105",
+      "name": "Spencers 2 Inches Take It or Leave It T Shirt",
+      "price": "$21.59",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTj0ufwgLGb0KAzrpZ-iOBQDPehmgX42Tkle2D2T4uOkkZ70TUzGDwVemH3u1-JDtBPv7JmrPPPiqv_3Kx7zCJ5j58Iuhx0o89_WlN0UU2GGqWToSi9gyGz"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00106",
+      "name": "Spencers Spider Man-Chalk Sketch T Shirt",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSXzdGgCEf-UxeCT_4Cgfs94t8YQhox1PYTazAYUwdq-5bD6E34zCwo_Bxyia1rTxlOhAIHAzlA76Sft7nqn3IZl9k2yAB2wJ2VIQkxR6F_kfAs5pClZpYsNQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00107",
+      "name": "Spencers Spider Man-Chalk Sketch T Shirt",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSXzdGgCEf-UxeCT_4Cgfs94t8YQhox1PYTazAYUwdq-5bD6E34zCwo_Bxyia1rTxlOhAIHAzlA76Sft7nqn3IZl9k2yAB2wJ2VIQkxR6F_kfAs5pClZpYsNQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00108",
+      "name": "Spencers Spider Man-Chalk Sketch T Shirt",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSXzdGgCEf-UxeCT_4Cgfs94t8YQhox1PYTazAYUwdq-5bD6E34zCwo_Bxyia1rTxlOhAIHAzlA76Sft7nqn3IZl9k2yAB2wJ2VIQkxR6F_kfAs5pClZpYsNQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00109",
+      "name": "Spencers Any Hole is My Goal Sleeveless Hoodie With Drinking",
+      "price": "$15.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQE-DljQgkVMcnCOyquuMSPeXfpWsZ3DP4QTcNmnUNxmeSjFVTzgXmoZJp87wB9DG0bAm4X3DMV-L9gwQO3UIvjXNNiI_TgeoaI0cVILwJtTyD3dn1AEa2cfg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00110",
+      "name": "Spencers Resident Evil Eye T Shirt",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQXUwsVs1zKc5T7s0Q7yJPGBTwmxb_qmOowKGqG9B9rLxvFHw_3JWilutIHpmeYxsISwpPAq99w18vdAl8YaFTlyJ5yjDNj_aysJ0SPxJqPht013_5-rynV"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00111",
+      "name": "Spencers Michael Myers Real Men Chase You T Shirt",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTEoCwhUF9BXaFK_JzSKRhWx72A1D8N6eNP9ijUjbuXJz1P2zSwoQpb9pwnTC_LEKFIaHemFF9atJlx0gtSGufsOQTOVd9SqFYu767iscAAvJuGWf05Opj2Tg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00112",
+      "name": "Spencers Nirvana Glow in the Dark Smiley Face Logo T Shirt",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTx7FZsUjrXPdZNB67wPt52yW0TKwQQZSGsYwzAhBBxDIACJM2B0FuudhdW0q0_asVUJz0CNolwCy5YXCA7tH00aOux_jshPUWdgqEm7WW9zUplz0ItukxM"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00113",
+      "name": "Spencers Ghost Face Cutting Board Light Brown",
+      "price": "$22.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSwOtWAcnIhna2ndBCEaHW-KqbRIrVDIZJN-_v5yAuLHk4w-PivG5Hzltmy_Gv3NeQFiB3mWxA6i3NZ0H8v5vrV6A-LcuK-vKip2J0_p_MmYMPp47yPlTy6"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00114",
+      "name": "Spencers Nirvana Glow in the Dark Smiley Face Logo T Shirt",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTx7FZsUjrXPdZNB67wPt52yW0TKwQQZSGsYwzAhBBxDIACJM2B0FuudhdW0q0_asVUJz0CNolwCy5YXCA7tH00aOux_jshPUWdgqEm7WW9zUplz0ItukxM"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00115",
+      "name": "Spencers Ghost Face Crossbody Bag",
+      "price": "$19.98",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSbAwTylTyZS_uJZSjBNzJJ3aOoKZSrbkzNMQziBe7cw3lwh3NKiY7AqlDYgQl6BHBSh7B_MpjjlnjgCF9a69KiCgVm5GglkDrl2AiOzs8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00116",
+      "name": "Spencers Ghost Face Crossbody Bag",
+      "price": "$15.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSbAwTylTyZS_uJZSjBNzJJ3aOoKZSrbkzNMQziBe7cw3lwh3NKiY7AqlDYgQl6BHBSh7B_MpjjlnjgCF9a69KiCgVm5GglkDrl2AiOzs8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00117",
+      "name": "Spencers Ghost Face x Scream Tank Top",
+      "price": "$24.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrsREJc4mFikzioF9FM97FxeYBBK5iheDnNV8Ls_a6AJxxMMAz8AyY4CjH49XdyPxlqiQrQJNm2TPwtdvLvuDx-CirJX6G2aliR-VMkhBsCKJmClLmjahS"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00118",
+      "name": "Spencers Ghost Face x Scream Tank Top",
+      "price": "$24.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrsREJc4mFikzioF9FM97FxeYBBK5iheDnNV8Ls_a6AJxxMMAz8AyY4CjH49XdyPxlqiQrQJNm2TPwtdvLvuDx-CirJX6G2aliR-VMkhBsCKJmClLmjahS"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00119",
+      "name": "Spencers Ghost Face x Scream Tank Top",
+      "price": "$24.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrsREJc4mFikzioF9FM97FxeYBBK5iheDnNV8Ls_a6AJxxMMAz8AyY4CjH49XdyPxlqiQrQJNm2TPwtdvLvuDx-CirJX6G2aliR-VMkhBsCKJmClLmjahS"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00120",
+      "name": "Spirit Halloween Ghost Face x Scream Varsity Jacket",
+      "price": "$69.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT4ecr3M6ejhMmiRSG-Apem_-guJqlM2nd57UmBYvb5-FHFJErTwCjpTk_-NIqJFBF7aDKccBsoRvsEQEBt3sG4qtBTATVVANq8cn4WEDlWKxTOV2EUK8BMPg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Edge",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "decade-60s-70s": [
+    {
+      "id": "TRAFFIC-00121",
+      "name": "Mystery Style Bundle Vintage 50s60s70s Personalized 5 Piece ",
+      "price": "$125.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQaY-DaQvC-XH0IjpHJdAB4I2z_TtkLbQXy67a9hCAnMB3mCDXAPjOHE7LcH38ITTu899VzXmWOBeQw8i96wFgQ5dKlaFNSaBdU3UZkTMM"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00122",
+      "name": "Vintage 1960s 1970s Cotton Bandana Print Dress",
+      "price": "$64.50",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTvQat6ooE-qw74LoC89cpq7ZRM6hF8dskntjdtLxLoe47xl6ISKo0Pgn7bnoPXrfp4BxiIS-ztdjLRzMT5VLIJVbNe2sgRADWoVhTRsty-qHnhAnMxuMUi"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00123",
+      "name": "60s 70s Dress Crew Bowknot Sleeveless Orange Floral Mod Mini",
+      "price": "$37.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPqM5-W0yAIOgmQsmN4fG9FrTKlzTKk3zUbwpTMK8QWBNfHzpuvPoE4v1-dnqLdzQUY8gtdHaU993_SRUiMwvx6rvSXowPE0uwsEkVmUsETCuIi1fKDlwV6Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00124",
+      "name": "Saks Fifth Avenue Vintage Late 1960s - Early 1970s Coat in P",
+      "price": "$775.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTtTLkI7xP8bW1B9TLuNh6K6LC22pefDFR7h1jq8Cj9pmBVe_PVLR_dx3ToqG9H2-X3IR2QJhV5sgSsf9dXr_AY0dC0hBUqJHtnKB8QOXoSeOaZYmBvftiAWQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Collector Grade / Authenticated",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00125",
+      "name": "196070s Green Floral Embroidered Dress - ML",
+      "price": "$60.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTy1cqNPAf4QuidWB0Bq2XPnnM_9W772QhJ-l84jkJjpkygOqbSNaTh3-D8X-3hjImqNxvj0EDZY4QJ9OKncOn409MMlMpg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00126",
+      "name": "Vintage 1960s 60s 1970s 70s Hippie Blouse hippie top handmad",
+      "price": "$65.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ8ES2_io_ZD7k5-Pggm5Yzqdq8cs1CnVnY2qvKWv6sP2Pp9dnVeMP2TSvdjB81rC93Htu4j38XAWyW7yK8mr6EuK3_tTbmHuD9qt_OYXo23y2D-6gwRUgkZA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00127",
+      "name": "Vintage 6070s Alfred Shaheen Art Deco Cape Blouse W Pants 8 ",
+      "price": "$79.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTi220yxVX5A9Jp4-xYDhZ_v00UQse-SIJYplnriQZFiWUHxtwdHwfMvfpASG9ONcl39uDSeKvhEKKst5K0a5EJr2UpyaPho5DxFSWjCOpZieg_IRdlmxovCQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00128",
+      "name": "1960s1970s Sears The Doesnt Slip Red Floral Lace Nylon Linge",
+      "price": "$68.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQQzZQ1PKVCzNLu6jWyo_4a5NhT5u1xFGlSTC9kJQVK4H3cSf0noC8QNvz4s-35apdWsv_0YIx04HkaWh76fY-GV0pi8UT38jJa8aMlVSxOS7YTOVLEZDsO"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00129",
+      "name": "HAWAIIAN Accordion Crystal Pleated 1960s 60s 1970s 70s Vinta",
+      "price": "$325.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTLCUNJRf2gTSUL3eU_IvyMbZaJGnWa9BpMqDXPpTlJ5o9i2sI_5lItXjuQZ11nkzO3-Qsf-24ZTjHD3voBQYU5KUNX6jC5AyVjKtkgw91T"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Collector Grade / Authenticated",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00130",
+      "name": "Vtg 60s 70s Pumpkin Duster Long Tunic Cardigan Secretary Dia",
+      "price": "$24.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT0kn--j5O7_3cun3u-3rEaYn_EvoHzCl9tzKpN6AcGL3fnf8MQLVdpvJ_bg9_e12Bm3Gc8JkJGSBc0ZrIGi1S21T0YOdhhi2HkeFYpHocQAAVU6KXLi5SXDQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00131",
+      "name": "Vintage 60s 70s cotton tapestry dress",
+      "price": "$80.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ0pkiTO85bO-JW2-EcSNtKR9vj5l1pH21dpoJ5fsPJN8js0w6_8N2-tGduKOw41e63YiGtZW_m3z1O2p7r0RP7TlSj-rfh"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00132",
+      "name": "Vintage Green Scotts Lawn Pro Cardigan Sweater Mad Men Woman",
+      "price": "$44.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT-QDPvc28B-f1T9TerK2oORfUm9-M6mBI1P3dsyAtkDSoLoxI3mfZ41znBHbkzUmqOp_538dzg-_VtS7xyt4zEgg9ijpCsGUaupH21wh8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00133",
+      "name": "Rare 1960s1970s Marimekko Hedelmkori Orange Fruit Tent Dress",
+      "price": "$250.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR4fkeWnb4vQzA7N33i61Om0igqyvRrSLZ5OiyplGhj3RNpbjwKv0ylTKGyoDAGbFjWmoBc3c9TUCSeXysUgw1LEbBpWm431bki-On7ns9Uj-2k8Uhi-Cnn"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00134",
+      "name": "Larry Aldrich Vintage Late 1960s - Early 1970s Tunic in Neut",
+      "price": "$375.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcST9sxfjzkh5eSu0B6hyq3oSh7WzGiIiRnHmPTRBXR7bBfNUht3nNInjtVChaN2HF8BS4ziGFykatCpSk2AstLWiFlv9DvuXax74S12En54J9-x0APfMcJE"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Collector Grade / Authenticated",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00135",
+      "name": "1960s-70s novelty print halter maxi sundress unworn XS-S",
+      "price": "$95.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQwj0_VOAEmNisGoPWiOj1S65C9shmhJQk3JYrvCCUV-qTHv7vjCgyACMDoragehBXrHDSo8aXteEeQl2NKFa7qWmpJe4IWcqAE9s25Y8iR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00136",
+      "name": "Vintage 60s 70s Turquoise Pleated Sleeve Bohemian Maxi Dress",
+      "price": "$147.15",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRXTsa-hsXwplOOQ_MAgAXelZM7RNrFXe-5fTg0cbWwmD3eCrkuFpuWC11OhXoXYRS8ofv8EAgs_2OBkPlBRuf94VRA7A9QD62_l1CbAlQgZctQKO6Rd8KidQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00137",
+      "name": "Vtg 60s 70s Ilgwu Psychedelic Floral Maxi Dress Fredericks F",
+      "price": "$164.88",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTryvRvuyhM15tCsSdz4ys_4E6ik3yXOfnAk0oie8oTa0UyirPmcZgQM44jS9hHGHM0IQh1ZxFK9JpMsNcEiboPqW_LMcoN_7HrZEZzuwz4qyT8GLh5IDlM"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00138",
+      "name": "True Vintage 1960-1970s Navy Floral Mini Dress with Orange P",
+      "price": "$67.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRHly5nsiiUJf_gCq6Bod2oJqdVc2XL2lmbx0HiXGC5TTp_UGkXt2_CaMZTEpsfVRs7HgXUzKiqzKiKy7VkYuH7hniOwN0gGg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00139",
+      "name": "UK 810 US 46 Stunning Vintage 1960s  1970s Psychedelic Orang",
+      "price": "$228.66",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQVMwd0U3ceAqMJ4IujF84ctVid5MGs0Teq4_cxPQWFUcBFRTiK05H3_L9YNfJTQUZeiIel_BJRZt6mU6Iey1vbImAvZM5zfYW7wX_K1OpX-3I28507LttxnA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00140",
+      "name": "Vtg 60s 70s 30s Graphic Art Deco Jacquard Knit Winter Green ",
+      "price": "$160.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR8d6A3wgddwJtxGNLpXcWe1J6JRNvtw3YswEGbsQcZaBJSjqxCaI5bqPSaj1TWdzK_XImGiSlYEIwe9aE3z3iX7gt5ZbZS6hhSNTqdCMPM"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00141",
+      "name": "1960s 1970s Psychedelic Mod Dress",
+      "price": "$125.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRVWlt_f5LAsb7Exg8vJqzG6_MpThm1KzDE7pUJRxamQNkm7XNqbChNDeQCMSrsVtd3g8A65PgX3KsrLWQsO0lm-1Ldj7mpooNe02z5WVg9XZsVscgydawx3Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00142",
+      "name": "1960s1970s Red  Metallic Gold Fleece Evelyn Pearson Loungewe",
+      "price": "$105.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSM4IbkUBAlI5h4woRjdkeAHevMpFtEn33NKP1rfQbJmtC7x7KcpORb54n_oKhqELqpSiXxlinUgk5DmFHWBx8eRgK8lbl4K--UO5yirkZ1"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00143",
+      "name": "Vtg 60s 70s Nordstrom Best Psychedelic Colorful Hippie Dress",
+      "price": "$224.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXxP8u4tikwinhBqLPF9g7Y_waTMGm_HJO-FvpDLKRotvHlEbzArKiC2DKsdese-bD7ZkivL-L_MMZtN7FWOKVVRjEahEABuzaEnS-zxr3"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00144",
+      "name": "Vintage 60s to 70s Afghan Embroidered Hippie Dress w Ceramic",
+      "price": "$137.50",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSwS0sdBvjLOX1Oy9G0t8Jjlwt7Pt39oeUfFZHuNi6x2gbJfcSwOKGRzaXdC9t8X3F0lJN94PcU2s5CGa84jwltI16JJ4pvWPNMioABrYIHHsZOMFNZusHC"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00145",
+      "name": "Vintage Dresses  1960s-1970s Embroidered Floral Buds All Ove",
+      "price": "$98.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSUD2jHnHcwuDT2o0Fc2negsSsq6kE6ch6pk9_UB9sOFLW3qbEyBHnjYlLLN-3BnLbM3fdsPYpm7geT5j7wKNGqM18rM-ln_l2sAa3TMGx8rsGbeJURG0Mp_Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00146",
+      "name": "60s 70s Artisan Printed Pakistani Cotton Boho Hippie Empire ",
+      "price": "$149.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRRtnl-dhktay1DEnaT4aSpLGRSoLjT5tn_hEkf5_t4ryWT1-xSXPKEVAAY9C9bHlHvPwk-sEOTuxR-eMtAXh-b32vdM39GEo84tWBoTtDkcBafMNGEFYY5"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00147",
+      "name": "Sale Deadstock Vintage 70s BOHO Festival Maxi DRESS INDIAN C",
+      "price": "$145.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQj9A7jjkfnFhPz4VzZFMC7sflZUOdcntLJLw6XkyK3n5SUhP0BH2oMP-F15dbCdgEGNNLHxfmw4UDNOeCBU2Mg3bzupXC0x6IY-jb94wU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00148",
+      "name": "Vietnam War OG-107 Utility Fatigue Pants",
+      "price": "$57.80",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSz9dx5Q6OjsVSfFrZtFOA2p8_wYhAYONpWuDk0WpIcAwnjQ8SggrwDxwstOqKzs7Y-UQD5mLzy_c416umDNqqn66ZsIoqKElR2eRb1TqQgHLfJUWlMFMyk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00149",
+      "name": "Vintage 1960s 1970s Handmade Psychedelic Mod Dress Groovy Sw",
+      "price": "$18.88",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSIShUEUAs1mMlUNJCYchoOVv17lQUj53ZRc1_f_kHpGqJ6OaWPHANYnc4YH6PG4R_Oo5Kiat8vd1Yrec5-htvwXlN4YKplSr9SixGGsM_7-DRdNOAaQ82z"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00150",
+      "name": "Vintage 1960s - 1970s Handmade Mod Dress  Excellent Conditio",
+      "price": "$37.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTdZkNo-hgWXMf8ucKcSLHQTOxyL2EOwzzZ305GKg3Au1FfDsC26TJE9EYNzwDhbWflJSAYtRrF811DKIgwqT7f5-F2H7CRLEwuXbZ-2Vsw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00151",
+      "name": "Original Vintage Dresses  60s-70s Hand Woven  Block Printed ",
+      "price": "$100.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRInXjWbJlA7wssMgjVkRZR1LLisMVlZvhPHciLjxgjZ26DxTr9OWDpHsp5HDiNvl8CwfP18xRQihCjTh05nqPKq26noUtawvc-NAPLNClp"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00152",
+      "name": "Vintage 60s 70s Sears Scallop Print Full Length Dress A-line",
+      "price": "$49.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQONzN80Kk__43btr7gCmBL4GJr-yxjkQWogljZDzG0y-lnlsugO9A7nRbHzs90bMjF2VA2BSWFQ7F-3UUbnViQw82C31q7OK0b7bZu45l-4tUGOsj26rze"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00153",
+      "name": "1960s1970s South American Ethnic Folk Embroidered Skirt  Can",
+      "price": "$200.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTMjC-ziOQgwxXm6lT7sawg4Co9lo4n4VDatk0Y5ggQk3MBMkvLTj4sEJZIsRtAZYcF9tMUVDgdy3DBdJLiX58G9xqfLGi4lv7zpU5W_zoOQgEvS4qFX8LZGQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00154",
+      "name": "True Vintage 1960s Green and White Mod Dress",
+      "price": "$42.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT8CkcY42fJAyshgmHHHVgEG5B0kqMqbcTNC8m9WJcod77nd9MnaVIUhvkTPOvoOBS6TFIRlBiglyr92u1__7pIeRkEMS-0NXXqVhMyu8BgF_cROpbG0BJX"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00155",
+      "name": "Vtg 1960s 70s Womans Dress",
+      "price": "$55.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTYU_jgsFDpcoUriHcIKjoduryueLKQhc9BLZjpGMPhT1mpSZJRqYCffYGeHFLzwieOSDuiacrgE6ObwN5FwcQwJJIiegiifcgPv5_6SnUdHMs9diNNXVpmmg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00156",
+      "name": "196070s Stavropoulos  Pink Chiffon  Chenille Beaded Gown",
+      "price": "$1850.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQlVFNSUJprf19rMezjflroCIDgCkpSsDjMkQZDmbHbXyg6KxiYfyydYkjVwbNI-MjaOVWbdcJSnGk6l7Iqyi9-55-zxS8vwQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Collector Grade / Authenticated",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00157",
+      "name": "Authentic 1970s vintage wool hand embroidered vest The most ",
+      "price": "$187.25",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ424riialuyZPIoRk5JsLVQtT87_aTb27C2XBAoycTYKPt-YDUIEZ9WSyZoJsHxchqaMRXtGCIjiFK6xN32hTCaRy4v6KKRthwMcA4r6Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00158",
+      "name": "Vintage 1960s-70s Boho Maxi Dress Hippie Arabic Afghan Nativ",
+      "price": "$38.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTA1eWRm4MgBxQZ1R1KxFtPynxaLcjukZUh-N5oPGeSp54Ajl0nh32618r074EzDNfuwUI_jWvdJ5gUJTDwv4MClRMonyDO0lyEZgtDQ8ly"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00159",
+      "name": "Lanz Dresses  Vintage 1960-1970s Lanz Original Rare Floral B",
+      "price": "$300.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQgzEaLg3dzOY6QJcDX2U21uTSKitgSeJPfklCCLWZLWlSP8wMhEiyEkvZsU9xjpQ8lf8ze_OngfzBztF-B1wUuCXq5uTqb5tcZs3pr8JJG8-nu7m2_QImE_A"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00160",
+      "name": "Vintage 60s70s Floral Housedre M  Used Secondhand Resell",
+      "price": "$31.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRROs4BzYSDCsqYTMNQnRjyqmuSYwCslyZa95pj9gKq5ZjUEyXz6ewz6k4IzSThLwWXDsHp_JsxUNvmUT5T08lWC-SCeOhpSQfPgbnr8QPFkKbrKuBERR4qXA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "decade-80s-90s": [
+    {
+      "id": "TRAFFIC-00161",
+      "name": "Vintage Staples Sweatshirt Size Xl 1990s 80s",
+      "price": "$40.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcStO77V1JN7qfTQirVr76CDBNW7C6EddKDAMAHM_oM0UciUSwvk_0OdcijLDzqubhhC6m1WGy87MFOYkPfBUqSABQZJVh-Z-PX7yC6fcvwhMiiFVNHUj1IWUA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00162",
+      "name": "Staples Vintage Hoodie Jacket Size Medium",
+      "price": "$75.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTqYZOZAX2_ngvs1Pq9cnSVtBpzEQ1-Oz2wJW5rO_U4NzRl435X0RQpIweUkUdENRAVLnqkKdhIxNXF5KyyF5y8a_4_XSO4"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00163",
+      "name": "L- vintage floral wrap around tie 80s together brand dress c",
+      "price": "$78.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSS1fg8HpOSvV7R4feA_Ubui7gjhNWahGG-7_iIGCcU8OvvE_-8qTnlNHLBaPA-QFSRf3Wf5omkxsn0htVTyliyYwbuAwyHAXvNL1ECZv8hkUVVVHQfUPLlqA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00164",
+      "name": "Staples Imation Hanes Vintage 90s Single Stitch Graphic T-sh",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_2l9MaOwLGdB1rrxcOYk3Ua0K6t81Krt0FV8XN1vveSJz0lwkTL8qMDqk-LmaofQ5NE2YB7rCh1Ekl1h9jJ39f1mqd7MrnDR5LkyaW9Q-C8QH4j728z44Bg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00165",
+      "name": "kimsoong Women 90s 80s Outfit Shirt 80s Theme Party Disco Sh",
+      "price": "$13.98",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRM76mORGj_P3JSpPkLbqu_UM1XiPWHz5bpm1eRneDZ2PnqOTqefEAHCcCZvHpMNH8aNEDctf-4Z7CTO8-8KmObrhD13QgSA39peeP-6HaLJwNCWC6RGrPgxQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00166",
+      "name": "1980s Claybrooke Short Sleeve Button Up",
+      "price": "$40.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ9nyRRDmXSVtgjyWqgA6xxTYtX-baJNSqhrY7El3LN2Yut4LrB8bVVOiNiSCVO-eQHYw53IN-S5wlc-ilhSvWJHUvaTEixDBJEc2jFBPM"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00167",
+      "name": "Vtg 90s Staple World Renown Pigeon Brand Sz Xl Blue White Pi",
+      "price": "$21.48",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRGn7qdojW_NEPNJ7mqEXSqxuzGNhmheSsuO-4CLbl0Wbw5mlB9BEImauvno7v9NhW2tRPuCa-KFDz3x7W0URoEDYh5BCJTxxxCNz6B4AA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00168",
+      "name": "80s Vintage Tilbury Sweater Size Small Crewneck Pink Green S",
+      "price": "$30.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRwC3xFy1B5iOAq_sQM1T-hfRSCZfw-4w1Mp8ZfubSIurpZHDDmjSMyuzEUohNbbNU5R1nah7WTbqFdoLDzJHkB8UmWVPqjas0EhZfbK_T8LuF6Dz0h41sVOQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00169",
+      "name": "Sudadera vintage Staples talla XL aos 8090",
+      "price": "$48.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSFc5_OqjvlHFY526FbxKDr6QfZmpVHc_dPlgHIhYl5UwOzq7TqQ_AMmR_EqRv7YGdBaz2zJt_NIbzbn9bJVco0WqcOIgzjeRT0BVubvy40AJc4B1iDTPCh"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00170",
+      "name": "Staples T-shirt Adult X-large",
+      "price": "$15.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT1UEToeCe1BvvLLGXy05ZHtX-II-rFnqJZz-1nUHA-FcfeIZmQVcNsdNXxgYuWPfArKU61hjeY8WCGxxx_ajWUpFxxwlVZfuOv7zx2cto"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00171",
+      "name": "Womens Vintage 1980s Limited Edition T Shirt Funny Cool 1980",
+      "price": "$14.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSdKgfPk5ISXv0aQFpKKTYS9llSOtWg_ZLfastk9wP-cty4LyGi94YX67SJml-N5hBv1U31JVyiWXTow3gpweNpTmifYpIGH3Od7EW-JMRlKSryFrgspLh8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00172",
+      "name": "Vtg 90s Staples Usa Blazer Jacket Metallic Purple Xl Tie Fro",
+      "price": "$52.77",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRvZWesIbrb9i_Y0iRxyr_TLnr0Zyg3Gr6nU2mtFJU_atS9k0cQP6IFAyX1gkCOFJbor8YZTWZ0VUYHsK-dPGXFNIpKwKwDU7kBx-iclLctPperrL5yreda"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00173",
+      "name": "VTG NBA X STAPLES Varsity Bomber Jacket - Mens 2XL Collabora",
+      "price": "$67.50",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR9wFq5YRUmGy237NzTdPTcgLKZCXU6OCuZCK4KpjJ7uGcdeA2_tobTe_rU3FpIAmtAct_r9YiWzhNtCfetjK5ePV2Of1A8x2icsVifEw-W9LCNiQpzeucMiQ8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00174",
+      "name": "Sassalilly I Love The 80s 1980s Vintage Style Eighties Retro",
+      "price": "$5.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQRkFkEStxKdag2IT6H02l-MftNkKbQzOgfKyJbc33Nicc5W2WCWBoY62jNHg-DHiFQxmkAb2z4CL8fyK1wMdkpr6Hk_NvmWAHT56nCfb0"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00175",
+      "name": "Staples World Guide 1997 Graphic Print T-shirt Size L Large ",
+      "price": "$7.49",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT2wOmXX3G1WrQ5gfwMw9TFmGAV4S5zWyqBeP1CAFqn5RUHRiJUW62nj4eCG10DLmtiYvKK17TgzHBp0ELKrr5Gs0Bgjmxg832qPwWqjG7OpaWee1kapm0mjA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00176",
+      "name": "Vintage 80s Cable Knit Chunky Striped Sweater Wingtip Collar",
+      "price": "$72.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTSvYfWurLgPOGnwdVKvtW6vIDJKER-YVuNYplw140PtgEqFJ0LkgAuf4I7aCF0JVniTueTF_Oppf3c1tnU49uf8URl32uAnuiBRp29MAw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00177",
+      "name": "Staple Shirts  Staple Black Hoodie With Yellow And Blue Acce",
+      "price": "$27.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR5Iqv4bRxtTMAqkL41PQWEAu9vH2RjBR6jakWbv5eHYN4zL-uiNQMYCpX936or1ejRWBVPOyKZENlQXwdYO5lBXQRC8TZ4_5aUOtVMvDI"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00178",
+      "name": "Vintage 80s90s Winston Logo Red Thermal Ls Shirt  Pants Sz L",
+      "price": "$27.87",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMIbTm69tkFl_7Hk32nUqyhlIvPQ4XgVJoePQYjqscCAexzlRBxci5kt6gD-ihRr_HF6JLjck6do-mSLU3VMZad93-9DJhOhK-w5s8RQQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00179",
+      "name": "Kimsoong Retro Theme Party Disco Shirt 80s 90s Outfits 80s H",
+      "price": "$14.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQx0aVAA9Bk915AtzLQnVDE71ByCk8sAv0EYKQfy5jrLl2YfLjrKnHeDEHvQoqM5Vo1RtPWJrI9VeMMbtv7wWrXJ814Y5k-iJNW5ft5BLErrMzmR0I_BUzi"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00180",
+      "name": "y2k Stapel Pigeon sweatshirt white red graphic printed Size ",
+      "price": "$27.95",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS_Hum-oNnf8AhVHci7cX7RS_QJioPVuX29bvmfK5fSPGiy4N85LeawHO4Tv84y2acrss6SHHM6Mdy-wV2y9EjAppLjeDmOuGZtplUN82Hv"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00181",
+      "name": "Staple Tricolor Logo Crewneck Men Navy",
+      "price": "$22.46",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRy2h4kAWjcnTii051W2G3VQ8moMIV8WrZE8hF-hWWsjNdjqkBa6FVUe9313X42yFT8jxVacrqneK5t0I-LkM7BGpKiTLjP7STBRWJ4WZSAwUzmzTVlApPR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00182",
+      "name": "Vintage Bleyle Geometric Pattern Button Up Shirt 1980s",
+      "price": "$24.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcShye5zObIeropIWAprIxh2I2DJDXt34-r88iqphQx-KBK32RcE5C_dyMrhcjc7qOL5kjNyJgFpCgH4a1Vjvst9L55ekhGY2h_2lbcKJMbFTEugeOLiNJmd"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00183",
+      "name": "Vintage 90s Vintage Studio Purple Checkered Plaid Preppy Gra",
+      "price": "$28.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSK4L9HeW9XAWTgcYeuNnSBXeqxfJtVrUL6G_7lOza51ICalEJmJCfmvXIIL81L67w6C8G7MAZTNXvSsBweWYRqBzQcn8tZlgGNExtUzQV9uibMRY9fI9MYIQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00184",
+      "name": "Mens Black Staples Graphic T Shirt Size X Large",
+      "price": "$8.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcThB9h8FoaATnlodJmRUVMHIRXQtqWfajW3a8P-jbzVsFg-Je72dVzHZygONrhI_RooMTgYvcW7SSSuJtisscocBvg5exgskqzYsK9416S3"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00185",
+      "name": "Vintage Fly Atlantic Princess Diana Sweatshirt T-shirt Hoodi",
+      "price": "$14.76",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRuVNSvwPdm0biVoCbQzL6KdeEo_bX39DbKNEkm1imed1DYRmYAJohVw7MKHTyUAebmsKQQO4ErRukI4J6su3hTe87mZyMRumJZb-LJrcZhnZ-yPvUvCAuR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00186",
+      "name": "Vintage 80s Asoka Abstract Geometric Graphic Polo Shirt",
+      "price": "$37.95",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR_qHQvy-QRnZ0KQTY6XvDS1OC3-g9bTx1D1X5Ig1pra8JIwU8iEAgOAo8b2vvwvlj64sZMXx3gKMSrizOAK-bIZ8bgDRi8zvChr8ZbIwjPbNrWIykcPjqPNQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00187",
+      "name": "Staples Mens Black T-shirt",
+      "price": "$14.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR9DLne3gBT7yoWPmJ2_XGUfBjmhb2o5n-PIVLSDLvxR8RTHFQ_ZNsaU7EWHaqtfxyqiRI4noTu8-_PuGL_fmf18W80GhBKK1axfIE1Yxim"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00188",
+      "name": "PRINIC Vintage Retro 80s Rock Band Short Seelve Casual T-Shi",
+      "price": "$8.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_gSutB6xp-OnfQdsJ2KX_kun0MFVCjmRBQkgC30rTWelWuEHpD28kcG9exw3RulODnWH2xUwX_Yn9j6FCP5InB13CsoVMNIZMyiZWcaY"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00189",
+      "name": "SFneewho Women U-neck Maxi Dresses 80s 90s Purple Neon Casse",
+      "price": "$26.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTGwyWSnGM5tcuXZYEo3w-EnfEIzVgOAfj-hGQFde4h47sXFRyEeWDl6bJ6wASkUwjy2gjafY3meWwklmZAMHnmXIa2QpJQSHTB-8jE8O0RWmyEhE9EV5cO"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00190",
+      "name": "Vintage 80s 90s Clothing Adidas Sportswear Men Size Large  O",
+      "price": "$30.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaOFAz1VSDuLwSwbY1PkQNT4g7PeeloecOfiKHoBrRlS6b4AC7XLp7Al5LCZ6aYe0sORo3TCpiV4Kziabe3aBygp7-TPkMxA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00191",
+      "name": "Vintage Separate Issue 1980s Short Sleeve Elastic Waist Blue",
+      "price": "$31.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRVIDsKb3BgWoqFBNp9wkP0Px8Rwtytvof-MFG9GkFfRwlmIBFsx-sbilB6bKwY4mLe9mCZxajiGgWAy36xxj49TXrwTOHgHZOKqqEg6KTEpYsMFrc17MTZQA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00192",
+      "name": "Vintage 1980s Home-Sewn Yellow Floral Dress",
+      "price": "$80.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTDNX0Tvm7wA5uPsfJQDbwnrgTTVsOSTK9NPjxRwALTFX28VmyQ4OLOavnwkNIBhjppJVKSNvT2a-sNVjgqBMGB2HIDFAxlcTh5q5XvSc42XjjtLlPTKoOC"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00193",
+      "name": "Vintage 90s Color Block Streetwear Shorts - Medium 28 Waist",
+      "price": "$54.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTTk7kkG895fdXZdC-56YaTVwH2TyeDMxVh-zg6uWi0fhOEd_BYLZSFKNt_oKForakniafEzkt8dZOcC4f78SMjwOAL2fLYCEwmTw6BnxJb2otbqCTwwr0eDp1U"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00194",
+      "name": "Staple World Reknown Pigeon Brand Shirt  Vintage Rare Size S",
+      "price": "$25.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT2pxcoakYDsbqzQoPJMYCnoh-26TB0xVPzixZIT91B6COSKsPCRRdHiKmqi4y6etxhztYwLyf1JmAfGDiqPxRxqbfPvSIq-sQRdXrruStynBaP4GNpQGTA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00195",
+      "name": "Vintage 80s90s Spalding PolyesterCotton Blend Short Sleeve A",
+      "price": "$55.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTK20l_InHKpnroXzbQfUWlMragl3K7s24lJMjE2T_qjazWhtUrARN7ZVyJn2L4hs_USiwWMG0ieaBb0WzefYn8Y0WCsxs1i_zMUbHxXFOVcBL-cH1w7Wn3"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00196",
+      "name": "Laura Ashley Dresses  Vintage Laura Ashley Sweetheart Floral",
+      "price": "$300.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQWL4dEuZZ1EYQ4uOXkAZMd_T5itPo3DhzvbZrG5fB8MvBSI6_9HRYqSbwhyTcVlh_8RyzjzxJBcpiTPm5nUXo6TDnlk8Lu1izmonqkkFuD"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00197",
+      "name": "Vintage Coca Cola By Staple Embroidered Red T-shirt Shirt Me",
+      "price": "$20.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSXwDA2k4GbAQMei_gNMnrfwfLb4IiD83pNezMIPZdRayVcRyvG9lhM9UXrlrowc3s49LubMP7uc5glP5egwTCVt0fy1IHCIyT63cNPkkIOh4ufRt8m5935"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00198",
+      "name": "Vintage Tultex Turquoise Snap Button Up Sweatshirt 1980s",
+      "price": "$25.49",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRGlGYeaXOEhG5L9-dwbYOTj_21g559ue9yKf1kWCEpBQuuvSa6sSPuCXZ85wINmObOMYt3uyyU3KXGaXBLz2GODWUYh3nn-Evprs5-OTt2scZM9YER6xXy"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00199",
+      "name": "vintage 1990s poly STA prest LEVIS brand action slacks DEADS",
+      "price": "$46.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSYYligm9QI9xw83sxAToROv6gAQmrzpbpqztZaljq-ZXTNUsAXTgYc8R8eBvHwP8ZPr_7quiLKinl2IewXJZbhVDdsJ34FOtUcJiPEmoA3MCIRr0c1z1n8pQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00200",
+      "name": "Vintage Retro 80-90s Rafaella Tapestry Paisley Vest Silver B",
+      "price": "$26.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTy7VDQpm6UGLt7do67PvAzC9e0OZlHO8vkY_Zoz8-FIJQOw4xXy9niJUqR0y0zikOeU6BkCHxoTq7GrPVlWnpfjdNvFnPma8qnylmlHZo"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "decade-y2k": [
+    {
+      "id": "TRAFFIC-00201",
+      "name": "Miu Miu Suede Cowboy Hat - Brown",
+      "price": "$1576.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQs4UZO_gKGFhotQ0mUGyJGOMoZ7n-E2xz7LltWwKmPhfA4jp0K6cfMlwFgdUCa-vnQf0X_mlIR75qj5j0nefJx2i_z9U2GsrdotIu3U1EbEzmfhusqofsiXbNw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Collector Grade / Authenticated",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00202",
+      "name": "10pcs Lips Sticker Art Temporary Tattoos",
+      "price": "$25.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR5y41HlO1O_um3_I6tKt62PW2bcsAlmJ6NMtUa4tyJLAxNVKyNxq-9pJWS_v1tnw4mf2-NDotN87Aq0sKOR_7WjrtZkl1ydGdg7vIacZq0oeswFjWA97uHZQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00203",
+      "name": "Miu Miu Womens Suede Cowboy Hat - Beige Khaki",
+      "price": "$1620.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQxt0TiqKFakCitqW628y6187hOnBRe5X6U4RPxgubXkHNsFfQBKedAREi8pWN0WuvJBnGVQRZQl6HwMGK_TRYVzUsP8WJtLHdGsXdUYzqqr8VLLw32JvZxlY8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Collector Grade / Authenticated",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00204",
+      "name": "Miu Miu Suede Cowboy Hat - Brown",
+      "price": "$1520.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQvVV2GOoiAWArKW4_hONxRWNCbc7cvCECXPiaBEk1q22zM1PX5bVEGz5ZvP3qFOj4zOYOADGAMBDSSV8aomdGMm5-6_zw3XK1N2rF4DghXhZsqF6vxLbZMxg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Collector Grade / Authenticated",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00205",
+      "name": "Miu Miu Suede Cowboy Hat Woman",
+      "price": "$1550.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRvhA5yuhnd6pABP4V4Zw0pmtEtVctlK5Re398DvIvqnrU0GdBxJopQJhXY5xynL0YMxZ_4KVJtWCFUIKUvlZN96U03wdPURLDrYkNEeqxHLQP11wheRvx5EQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Collector Grade / Authenticated",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00206",
+      "name": "Miu Miu Suede Cowboy Hat - Brown",
+      "price": "$1520.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQvVV2GOoiAWArKW4_hONxRWNCbc7cvCECXPiaBEk1q22zM1PX5bVEGz5ZvP3qFOj4zOYOADGAMBDSSV8aomdGMm5-6_zw3XK1N2rF4DghXhZsqF6vxLbZMxg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Collector Grade / Authenticated",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00207",
+      "name": "Womens Suede Cowboy Hat In Brown",
+      "price": "$1620.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSGJw38uWohcvxMbw_sJfVoGTQ1MR-Rehm29Yr58gzsx64EyWy5SDZTVBKwKE-_m7qQ3awIW4-mqgcD1sMWeq_-okHhxqpDBS2hJILlegGjqaTZsPBPrM3S"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Collector Grade / Authenticated",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00208",
+      "name": "Dream Angels Daisy Chain Embroidery Strapless Corset Top In ",
+      "price": "$33.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSJtMbKWX3DOyPbpg9O2uRKK-FmFZGsy9EWBmEnkx45byKPJUrqu11Vo-CSJZ7D7MSnf3TjWTkgRcSYmB1RWJpYs6SLVELPeToSmCDeLCo"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00209",
+      "name": "Get In Loser Were Going Back To The 2000s Letter Balloon Kit",
+      "price": "$16.50",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS_QX_5SVdA3pPdR3AgEAiP2m4owPEwiqPK_rMNVyA3KW-ESghgmg0sOEV-wW2ChVjcQsq7-uHaZA5BGRcL7vBSO11VjegKLdLHs-JJv0CaQTpTlTQG6qgW"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00210",
+      "name": "Olga Berg Ellie Crystal Mesh Bag",
+      "price": "$106.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQtN02fzCExQ_p2U7nnVR_MxiNLJp7FsIUOBsVAu_8rd2pOa43gxdl5WvtP-RaL5mS1jKtD1vV_1TqUrbHRZOifWmaF2597SdkvRoYTZxauCOJpKsCKBDxd"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00211",
+      "name": "Operation Oakley Judge Y2k Chronograph Tech Watch Fashion Ac",
+      "price": "$2784.98",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQGlC0VxbCbpu4llgB1P-33x09coIHAx80Z794mexNSc4cGMTmgdgL3sLaj3wYkR72aFeoB3lpW_lNY_AGhvzwMmeG_EG_zt16IXu2nyM_sZS2FtmCuoJJO"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Collector Grade / Authenticated",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00212",
+      "name": "Bumper sticker  Car Tramp Stamp  Y2K  Heart  Wings  Gothic  ",
+      "price": "$9.29",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQeqwCCJM9xG49btus5yMkINi1mEu_TXnqs7njbaizZvPnXNlqREcBvoyxUdzruVOzNUMPehVQ01YC3WCxg9V_yrsz1aeJDzlnxs-lw1NQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00213",
+      "name": "Operation Oakley Judge Y2k Chronograph Tech Watch Fashion Ac",
+      "price": "$2754.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQGlC0VxbCbpu4llgB1P-33x09coIHAx80Z794mexNSc4cGMTmgdgL3sLaj3wYkR72aFeoB3lpW_lNY_AGhvzwMmeG_EG_zt16IXu2nyM_sZS2FtmCuoJJO"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Collector Grade / Authenticated",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00214",
+      "name": "Operation Oakley Judge Y2K Chronograph Tech Watch Fashion Ac",
+      "price": "$1143.37",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQzAVYGbsDnzgG8_ytDGr_ITDPxOrxhvd-yLT17N0OAKM-lhK7dbWfJeEVX_F87Q8T8oPm8RPvOkRyVE52SvD7rKZBGl-Deo-EpUfsgvqcNu6UARyitgmxo5Mw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Collector Grade / Authenticated",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00215",
+      "name": "VISOONE Vintage Square Sunglasses for Women Men Reinforced W",
+      "price": "$39.11",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTCNvhUazvY50IJhueZyM7EVaFReXQ9b-fSwWwtwBZqtagLnuiKM1y3e3g2pFqm0o2szvXqYjozgypH5rTPhNIAN2Q_Ws8D-yNBsMV2BQCUXZHKuUECa7EqGA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00216",
+      "name": "Olga Berg Bags  Olga Bergellie Crystal Mesh Ring Handle Bag ",
+      "price": "$395.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRBk07JY1GId1n93Sd4Ra1a8NIv7Awr9HqDbQkXKT4GlFOO_7ddpQ8fXE0eWJEvCatgKFWXaIFWdNhjgDHI-OpxnYWEoEqRTq3VEeE2sxAF"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Collector Grade / Authenticated",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00217",
+      "name": "Y2K Chrome Silver Rimless Rectangle Eyeglasses Gothic Rivet ",
+      "price": "$40.25",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQLv44I8wWpb5aodnkInCW2a86hmCMIY-_sQmOKbH6zotzNKThKIMe-CCdusY3veC0WXSFEFxYV-s94ts3DjKsovj_HsRP6q3vfR6RpIqG9xoAwumLO_UWB"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00218",
+      "name": "Mini Functional Clock Watch Ring Y2K Style Unisex Adjustable",
+      "price": "$11.25",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR1QLKA2drXmEN4mf2Cy_lgyPcwV4U0Hqf3ZY5UwLIWt_HfTIntvtb4BCMVr9ZIeLS9dW81VZjXHvuaXduaMfNIeSGYGiSTIt1tI5zoOC4S"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00219",
+      "name": "Order Now - Chrome Silver Finished Wired Earphones - Univers",
+      "price": "$20.71",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ-8fh7P4HqxNxrD97Etvg-HCHYphTIrLWWjMQDelfLLEPjrjexfviCWEqLng-M1XfpSs6nanbHnapSAd4BDE-ggVTm6E4B1WBuB-KAhYyJiKt7eSO3heAABPk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00220",
+      "name": "Cool Y2k Stars And Dice Keychain  Punk Gothic Grunge Keychai",
+      "price": "$18.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTfXSlDFEX_J-fthEmjnyCN_OlLd6dkFXsHz0ZBaPH02jAucFGCEY47hftcT8V7Od5HWtApe0O1WyecBfbSxbN1_xdbqqzakJno_LNXAKuDsEpZTwZmzstn"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00221",
+      "name": "Mens Womens Y2k Punk Spiked Sunglasses Rock Roll Accessories",
+      "price": "$12.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRxtcDGpc7gr_VLJU3vB6IuSVbA32B1YgS5U9zzYD4_JwTXwuNUwxhBVAGIKLVpP181SbyWdoT4MwkP5krZk9jTd6r2UlSae1ZTaFRJqUtAiGORywR6ksY5Ig"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00222",
+      "name": "Mens Womens Y2k Punk Spiked Sunglasses Rock Roll Accessories",
+      "price": "$12.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTsdH373MPJiUC5k6kp0NjU8Q0JBkMiyqwMY4dr_LBkYkUCEgpTkcLFmixgwUjO0-vXOw1vTvxFAOPwvtlLhF6Ajt3HXaJGytaUET4UCiuoiJP12MF0CBmzvg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00223",
+      "name": "Mens Womens Y2k Punk Spiked Sunglasses Rock Roll Accessories",
+      "price": "$12.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSMMPRjRGkJxMAYgOEKcs0vlb_E-whP6_xy8rVRhctyZYdkcsf2x0eaaWZxIfUPOPOA1sz-EwFJwOPgU9dkrpa0hQaSv675tjULhV0R4EkrpPTUjwBotfnJ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00224",
+      "name": "Mens Womens Y2k Punk Spiked Sunglasses Rock Roll Accessories",
+      "price": "$12.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSC41oZEnX-163yNg0bxHzBXicg_Tag2FeHOoXCwABGTxhiWu9_myA15VQleZ89Cukez_efjHkxUvGPl4vqTX1g2RhCvU5uVRtmyhxlw9rx_vlwZ6HrCO5G_Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00225",
+      "name": "Mens Womens Y2k Punk Spiked Sunglasses Rock Roll Accessories",
+      "price": "$22.89",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaJWqxCHPQ7jCt1xWKaah8mfDc6OailT5oQ9nuk-dszteu0ZT5nv_NW9MCiZfCQdZzSxvYx-45VGWNQR6dwq323RJz0tI2SBeo9zbwrDv12TMRpCxOnRIfBXw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00226",
+      "name": "Punk Y2K Mystery Jewelry Jar The Undefined Me Necklace Earri",
+      "price": "$17.91",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR8pXkASLtMU-W-sAqiOZIVGlz5nGeiYbhPqAE6sOrKa8I_hhN74WYidXzIekaQZ81OJCnZNo0t00xrE29dZ3U7F8GnLWzymEXMXfBcB9eL"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00227",
+      "name": "Y2K Silver Initial Phone Charm Chrome Phone Strap Chain Pers",
+      "price": "$25.36",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT6ZmojvzWQqqcdXqUjYtDMVzRTYHBHUuK5LOEH32Zp3ImXRyup5Jfz5xwncbYlnOaoKLf-aSBSQUtizKhN26QHFklG0nZUR-quCfBWng_y"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00228",
+      "name": "Daily Y2K Shoulder Bag Women BohoDesign Girl Soft PU Leather",
+      "price": "$38.25",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRrcGh_6--7v6yenywWK6C145pJtJqFbLKIg8Ed2byUvzQyleG8YHEsj1EuEo4CGMAjDF0sLy8xAk1cEAWCqMszsSjAxcUEKiUUdmKOc02OBkadX2m_OB_Cow"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00229",
+      "name": "Paris Hilton Y2K Rhinestone Watch Pink Strap Early 2000s Vin",
+      "price": "$28.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ3ytegMPw3VoNZ9RXtlXlQBfJX8mpDSADvYW3VUFhaZ9wrYPjrP0Ze4ChfQirkSKS5V4kp_ZVcqOM6aCs6mnodngCzfMlu-KNduAM0WQC8z8GIKut4YNLAAA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00230",
+      "name": "Britney Y2K Faux Fur Leg Warmers Womens",
+      "price": "$34.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT_UQK8iu71dR23pM0evFrmKPG90M3zzzUQVhCihmjgP-E2bKlqXBhs307uRx6kX0nk86PVw74mhVAZfNQGNdJ8JDFYUG-vZEg0jdN7TSVMZhlUDKR75YBQpQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00231",
+      "name": "Y2K Gothic Cross Jeans Chain Grunge Wallet Accessory",
+      "price": "$32.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQKdPMjHrOoXriwtc1laO1dkDL0L3if-2a0nwQ-pwI0Lo1eiVnIjLLcjamjsuVyJZrE0A8eAWcbnlWEWF58aekUwUMVQkxaXp0nNq8rie8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00232",
+      "name": "Studded Punk Y2k Goth Belt Men Women Cool Scene Style Appare",
+      "price": "$16.53",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSQFY-xheLNukPi6o6CTqB6s-NnaZN6nUqoSr28JWGONEaFzEEQMnjmzJtsoB3pgCoTdKwK3M7IN3M4JkRSkfCR0haTxrRu75C3THuiaQfOdzdd5H23IQBT2A"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00233",
+      "name": "Rhinestone Cigarette Bag Charm  Y2K Sparkly Keychain  Bling ",
+      "price": "$26.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQZ1iIZ86CaZj-aImX_OtQStjoFkCxXK0WSKku79890MDsYrogY4jIXM3wTbJe7P3VHq84FPP84n0Dgd4AHzB8HNc86DjjHohs62sRJhxOyfwDl5AqwWxOI"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00234",
+      "name": "y2k 90s Tattoo Choker Necklace Stretchy elastic choker teen ",
+      "price": "$0.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQJBl-uAb_5FGt1ObQedKymNZ6AiEsQTDXD1u6sIVEiC-9dxRMp5N-eHUXJnI0-MKdHBl18Gwy22ABeUKhPLjVHDgidUNFgWV-SZ421OlU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00235",
+      "name": "streetwear carabiner Y2K retro keychain keys holder for car ",
+      "price": "$22.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQMXKALoz8oitTI8JrV16LWhdXIjOFFtjqPVdQMR-zuKPN55_Xu3WcFuHCbWiYGqkjxjls0VvkhxJyHCeoSsVrjot-3wNAWz-2KS9dELlY"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00236",
+      "name": "Hccfit Y2k Accessories Hats Skull Rhinestones Hats for Men a",
+      "price": "$26.51",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSHCgqcMklDU25vj_WpJ6hrHmxLlHILs-dulZkdIFufvK9vBpTRPE4Ox6kOARMljrc6kAg_ltt6u0HWbZ4_mIbxmLvcDunkZG7Rw1rvhYvNtBMLRmvxynbNCg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00237",
+      "name": "Y2K Freak Ankle Bracelet",
+      "price": "$19.90",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR6cDqsna32PACeK1Natl6e6KshnArZvTibUbL3ac06rYYOrkMvbPfJEGtgURqSjNGBhDJhW-c1actjOx3YWKnnxT_8NG1BWnt5p7WfXZsfbU0OFhR6Jeo"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00238",
+      "name": "Y2K Hair Clip Set",
+      "price": "$16.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSsBIdHSshbnYhlS2nVVumnkMgid4ZiKqxfDpoPim-AmoUQJGCUxB-OCD-ypmUcFsL6Yy5B3eaUkucIJ-GMNuiQNxLhShgzlvKSa_jkB7ML_mw4M1LNSt_iyg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00239",
+      "name": "Vintage Y2K Boho Glam Dangles Millennial Glamour Jewelry",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQYkn6y2t_JTBR190NtEwipsoyIFPHW1Vd3YD-9juSw59vlzHop8MP9-uZ9TamHEyarkUyzz1oFhfTey_NS18Rp4UXt9ooJ11nsThdABcC_RFSYV80-4dgI"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($4.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00240",
+      "name": "Y2K Star Skinny Scarf Standart  Pinkgrey",
+      "price": "$26.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTLfXmNGydNBxji8yOf7hMgq66mDOXNWeDaiCHKsY5Byn-r1kgPSVljjg_QMuDbjkP_YUVT57wwYnMabgBPeLMVSgt0pXoqgcnOHrXdmlb22r_ELzh49Y8VcA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Heritage Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "consignment-vault": [
+    {
+      "id": "TRAFFIC-00241",
+      "name": "Team Rockets Houndoom 2025 Pokemon Destined Rivals Illustrat",
+      "price": "$24.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ1X0Cuwc4CMHwZWEHZfK6jK-GBx809IYgKRndC1oqmY8xKEUZnQEhvuz_OkiK_LVvO971hEEykWjAzlEMtx5DdN-z7os22k-34goVI-sXC"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00242",
+      "name": "Lillies Clefairy EX 2026 Pokemon Ascended Heroes Special Ill",
+      "price": "$130.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRl_-MfJKi-gE_sh9I1ZDJDFApIdJn2KlkJ3B0Bu43cVszPUZtdY0M6xfJduTFJn0cQyHLGlsSlrt8bVXqbGWEf8S49xbwfas3W0IOeMi4"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00243",
+      "name": "Pikachu with Grey Felt Hat 2023 Pokemon Scarlet  Violet Prom",
+      "price": "$2899.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTalXYV5Oh4VKNuM7Zx0ibGO0SmzeYslsfFwxu50afUH76sDH1nIDXxPMNLZYPkeznlsmihZ-Cld-U00u_kxMY_GnyQNAc1uQsXSGcjNSMO"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Collector Grade / Authenticated",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00244",
+      "name": "Zapdos EX 2023 Pokemon 151 Ultra Rare 192 PSA Authenticated ",
+      "price": "$23.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTU8Svr03UloMNO7EVVCFg383PnGPUtIrXDZf-kS38Iy4-a9mu8fRwZX39GY6oZVa1U74YgxBsNO9gYAz82xOVX9uk4ES9yEMuJiudybiLm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00245",
+      "name": "Psa Graded 10 Basketball Rookie Cards",
+      "price": "$2500.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQIEmMYKpg8U1XWqBiw8uROTB3OQ3kRoykt8s38SdZNsDCr5mEoHDCTyB2J3wLPMQRTiXSr58sz3VL0e8whj_MExkAyDdbOMClcLJRW06dH"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Collector Grade / Authenticated",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00246",
+      "name": "Trafalgar Law 2025 One Piece Royal Blood Parallel SEC OP10-1",
+      "price": "$174.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSJydt3UFGkIjhXD4oXMpFftfOMq4hRjKcYrbqEJdjHJ7D4iXzueAp-sOwPjL763Unw5yOCQYZUK0nXN-N9Y02IWOIke3y2sBlSWyahG7u56edX0mE6R_QfFg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00247",
+      "name": "Lillies Determination 2025 Pokemon Mega Evolution Ultra Rare",
+      "price": "$21.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRGBq7VIl-69YuHdoO98pYU1iIQ8nV4JbNFkOL785lvbNH3XN-RpU9MIY82nA4z16AlQQqd3jzatkYLbPm2Tbyl3S6a3HMwm-7CA6j8RiEQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00248",
+      "name": "1995 IMT T-206 Reprint Honus Wagner PSA 10 Legendary Card",
+      "price": "$174.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQodWtbzLLLv7hpdjEjWBwj_ko_SM4dNGS-7Cmf1R7gf7OHNQJrjSizmhiyFEM9K8So_b4z8e_DuSlq7BABmN757m1lp5bHM0q7k-NL22lwO9zFDtdJJVQN"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00249",
+      "name": "Steelix 2025 Pokemon Mega Evolution Illustration Rare 150 PS",
+      "price": "$62.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSMixqITLTPp6WrtLdxA8Q85ZJjtMtki5XNd7aMaQDAnX_z27QjRblLW3F3O5yrVn76Y5bfIlkTcdWoEDo7MoEi8ygR3VOQ3KIOcZjL52FQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00250",
+      "name": "202526 Topps Finest Cooper Flagg Masters Rookie Auto Red Geo",
+      "price": "$13500.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQhZ2va7jFWFgpAKaHPS7wq5l0a6Kty3uH_Wq5-w_6PJoxTWrrHQ2uxrX8BvyH60TPCir-EM76NG_044K6ovGuyiH76NWA9NF_GKmSi4AE"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Collector Grade / Authenticated",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00251",
+      "name": "2024 Pokemon Japanese Sv7a-Paradise Dragona Latias EX 087 Sp",
+      "price": "$259.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSU_EVHF_ESVDEAV-P19UaJ96Bp9N1UU3WxG98aA3-bf8EWyabRrTZznmopNMnP0-dg3WvMYa4zBE5SHySvdKg0c20k4_VpJmbxCiQxvYAZqdC5NqoAOTOgJg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00252",
+      "name": "Lillies Clefairy EX 2025 Pokemon Journey Together Special Il",
+      "price": "$62.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSroibP1lW0UIcl7n5avwF962Ie1jJvmibnWVid8cStDpmJJAeW8NvIro2mbREcq4kWmL-W_x8uHy4pdv2mVZ2GdtNOJ_Tb7nHih7SEXIbI"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00253",
+      "name": "Zekrom EX 2025 Pokemon Black Bolt Special Illustration Rare ",
+      "price": "$799.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT0bU27l6G02c9R06Lsz7HQ1OA_Al0RsAeVy474YZcfopPa45XpKZ2-3Q20_pmleLr1_73G2LH4HN4xCBdoL6EmjQPVwVVG"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Collector Grade / Authenticated",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00254",
+      "name": "Ns Reshiram 2025 Pokemon Battle Partners Japanese Art Rare 1",
+      "price": "$76.67",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR521mPB1XNtUDiGN2HXpumfEagsfOtm7ovp-w685yHluUbKpFFIwC-ZBvaFDNtWKPj-ovpFO0pVPk1GyIpoqC9InWf3f30QJSXjG3lKuJn"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00255",
+      "name": "Bea 2020 Pokemon Vivid Voltage Ultra Rare 180 PSA Authentica",
+      "price": "$62.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTJTr2LFvreLyWlI0xUlDpny11TxHvDZhHFHqvA9ih7yh2_3NUrosYxgH_DLKxUi0BZh-BJhtG1m6W-VEXCTlWGl34wGIsV99EZoye7MhI"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00256",
+      "name": "Psa 10 Dark Magician Girl Dragon Knight Rc03-jp020 Collector",
+      "price": "$89.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS7o88C9ExdzNOXrVARQr_NN5dXfsNJz6YvmtPeXnrV0A3Yb9tWKGbgpdiDXahJDsjWdUOVVXt70DtOTRQCiz4ZgKmWcbirfGEYB5JpVrw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00257",
+      "name": "Patrick Mahomes Graded PSA 10 Mystery Pack with Many Other H",
+      "price": "$65.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcShaForap1kgaW4MYreoWC2NjdHxkAgytvjtmz3qrYQWGpssCEDsetE_s7B_MCSf38uoyh4HKeVv5BrNpgfJrS011XGXtKAVgTqs83oRzs"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00258",
+      "name": "Nico Robin 2026 One Piece Heroines Edition Alternate Art 055",
+      "price": "$65.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSOGbNzDsAhuE14XhOb65aFrTClWHpTqhocqWHJcb9OgGxyUe_yUKokjsvamJP-2bxujqW_omDYXjbUyfFd26onH1qdFB9XvqVZVwDsqrU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00259",
+      "name": "Team Rockets Mewtwo EX 2025 Pokemon Destined Rivals Special ",
+      "price": "$950.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSY5B1qEVC-uALdUDnOExaUcsu6Jc4PW9vOHbW86nV_No0BEAVlkF-rWRsvQoDBVPm9AJJMICUuGJQBz3l-fqNfu4SrPhaMAnOGZREAueuI"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Collector Grade / Authenticated",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00260",
+      "name": "2025 Pokemon Phantasmal Flames 056094 Mega Gengar ex Double ",
+      "price": "$74.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTFM_trvnqq0XSoqdI8zejertNhfwrX2qLNhkdWZeznbJ6OCcVCDszTdV0gJJJ4FyVwUuMZsS3pGLAd44_gu-eD93KwUD6k"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00261",
+      "name": "Dragon Ball S Goku Forever In Our Memories First Edition Foi",
+      "price": "$800.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRVVtkwP_xk0C31J43U__zcb5Qgud_yH5e7cM53gK5t96dyVbZuIgUzaZOQfyN1vH6b9c8Dsk43HbKh8SQ68GkOdTtw42heC2l8AXlrm2U"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Collector Grade / Authenticated",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00262",
+      "name": "Team Rockets Meowth 2025 Pokemon Destined Rivals Illustratio",
+      "price": "$26.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRdNDaeeKuJ1F9sIHF3mnHDXh-BHi6v_ih9vDPzgFBKiGUXv4yGPZ_9szLe59x9Q_FIwaCEFcN-VbZ5nsplolsgjBrH6kxzUA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00263",
+      "name": "Brett Favre Rookie Card RC Graded PSA 10 Gem Mint Packers Fa",
+      "price": "$240.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRrfN09lB0SboJJQd54GKGVxbT6HQWOFQiuQ2SseoMmZ0Adl9VllbqBoFYU2HC_YKG_1KFwxAe5eroCfa1rNGLM7aaJdWqEZ6UR_u1y8e1qATp2vPI9wTWPVA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00264",
+      "name": "Pokemon Tcg PSA Graded Mint Spidops Ex 019 Svi En Scarlet  V",
+      "price": "$80.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQxpbfzh_iolnR5cD7oIXUQMYVoW4MKZtf9UfcFyHT24P3KemirnjwmafOfpmVWiFiyKGFt6Nx_o8Y-lcTuKI0KJdGEmgZiVlx4ellii5M"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00265",
+      "name": "CHARIZARD-HOLO 2020 POKEMON SWORD  SHIELD VIVID VOLTAGE 025",
+      "price": "$100.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRdNDaeeKuJ1F9sIHF3mnHDXh-BHi6v_ih9vDPzgFBKiGUXv4yGPZ_9szLe59x9Q_FIwaCEFcN-VbZ5nsplolsgjBrH6kxzUA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00266",
+      "name": "Psa 10 Mewtwo  Mew Gx 097094 Sm11 Miracle Twins Pokemon Card",
+      "price": "$590.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT4fiAnT7ucGkBMbqqZCK3WCIbaOwRK7Ty9LmQ2o8ljP69fw-ZZCPrRnsep7wEvMuk7HFA0YjVu9vutSNg8fYA3gZ6KIKDYZFsVVtpoW3Y"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Collector Grade / Authenticated",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00267",
+      "name": "Suicune V 2023 Pokemon Crown Zenith Galarian Gallery Ultra R",
+      "price": "$190.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS0WxqO8sC0EtEmh_tyWjdknQS7LE89y4O0iEGt28PIODJksA6gom3HwIEUVbrNpwHuCr9KosW0YuA0wBQINNXoqZgkSvDlel2gjf-jrRo"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00268",
+      "name": "Taruka Darkrai 2025 Pokemon Deck Full Art NNO PSA Authentica",
+      "price": "$49.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT9OSQmjtTG1ZAcscnlc9qYjVI_c7Rt1o5AssYqUc-hmGAXhYbiVqCVnZmKRyXOSpLiSjYmx_DJ_U4LatAuJFR_TIgw-A1z"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00269",
+      "name": "2021 Pokemon Japanese S Promo Pikachu 208 YU Nagaba X Pokemo",
+      "price": "$288.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTCZIQ9XavXcornLzC9BcJvaI7kw2-9nN7siuC2DZeNgoBwjXDdM9reD8wh8NnN5ACX2tcqvJUbYFGHT7kwvfpOlZ44CPgtOw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00270",
+      "name": "Rayquaza V 2021 Pokemon Evolving Skies Full Art 194 PSA Auth",
+      "price": "$625.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQQPCq16t4UsSdsShQ3YVE9V8eUHAIzCg78lusiEGhfyCpGNEIYUEFiAtFUX7YIL25oTpqPub79kIPZYJmlDM9wJRCD5-DmSVh6WFVkYgZO"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Collector Grade / Authenticated",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00271",
+      "name": "Psa 10 Mew Vmax Hr Hyper Rare 118100 S8 Fusion Arts Japanese",
+      "price": "$235.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcScbtLoZGvPpbqOXlD333vIIaNtAlk79Cv5gYZohU0PGL2GfKzf2RsJxXansUHP1JpoO3i9CPvxVa81zvGN2-plxQGoakx70UYi3-G6W-M"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00272",
+      "name": "Mega Gardevoir ex 2026 Pokemon Evolution Promo 32 PSA Authen",
+      "price": "$70.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcThhTN_RnrGgA9tINk12KJuYt4p4ObktLUNtiNnrDSXBJO-Z8T19GSmjMeLnucLJgB88D_9JYTpVDf5ezaVQbaWEMb0DKTq6oz64ruvsiwelA1TDqB8m11p"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00273",
+      "name": "Vinsmoke Sanji 2025 One Piece Legacy of the Master Treasure ",
+      "price": "$140.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQlqDMW81QiG7gX3GvQIfdxi7R5nkS3fB6TprnZ9ku_XwDscpSZiuUqFQ47EHNE-ZccYymouy7Jna_O4PUdW0O5ibwO4iqD1i-hoXMOC9s"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00274",
+      "name": "Graded PSA 10 2023 Pokemon Japanese Sv1v Violet EX Drowzee A",
+      "price": "$92.92",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQZb3hGxIvA87h_Q31JAXnPfy_IGo3BSgeklot_4z9j9gyNKf_FNHUGe3QgGdfqSwgevZithyujxWJs_hlaSDRte78l6ctQX5aJI9RADd4"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00275",
+      "name": "2024 TOPPS NOW SHOHEI OHTANI 722 PSA 10",
+      "price": "$100.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQeP-0Z8BLcFTALI8IxfFxXjTvSVFFfu2GFHs2IQQpc4YXYWDQ8EygRvONvlfKS6CWuhrVQtysWPxHCngtaLSWKZpTqfnz4LtbCDk81JC2UCbtVANCvxrENLA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00276",
+      "name": "1996 Japanese Pokemon Fossil Articuno Holo 144 PSA 10",
+      "price": "$112.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR2paQCldD3Hf1KUA8GtUvb3YaVg12aHe_lE6nTt34tu3AHvHrxcS_2JdOjmzfnsXCyrvWy7NLsRXD0gNPJzFD3rzYDEiwkctzNzGbY_7s"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00277",
+      "name": "Arvens Mabosstiff ex 2025 Pokemon Destined Rivals Special Il",
+      "price": "$149.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSzMjvJ3_GijUVbQQlCYxxuhdOCw_bMDfvTTmqPWfwm1fXtaH9llw4SHHyJt96QOqXcsmzG02Opx0yYjmzGG6CgJm_EZVQZ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00278",
+      "name": "Ceruledge 2024 Pokemon Super Electric Breaker Japanese Art R",
+      "price": "$31.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTVrnImHFhOOX4oe2lk1SlS6deJ4goToV_9z6swv4cyztGlIJCVoSi1KEhY2cQDwZn0mZvLPAGwWSx3yNQfoXCzNLi0ATC_VA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00279",
+      "name": "Pokmon - Tatsugiri Reverse Holo Electric Breaker SV8 121 PSA",
+      "price": "$60.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQG9T4eo_26Tly9NoXk1YFY77Zrq6Jc0yPORtL4YrC7LrwRdjMbLePQMvW3gQvmKeSHtNYQKf9V8d0YrDWaqXYpnEoww1QXzzJeIwzgpT3o"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($14.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TRAFFIC-00280",
+      "name": "sports card lot Of PSA 10 And Rookies",
+      "price": "$160.81",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTM7WsLMCLydz31ueAO3HRZJzMO4CqBWu_qnmHJ7YeVchV2Mlz0GpsudrSzmVM5vc8STne5hW812vKAr5cVosLWLd-_VaUpHOYeOgFvNMaY"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Vault",
+        "condition": "Retail Market",
+        "shipping": "Tracked Shipping ($24.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
   ]
 };
