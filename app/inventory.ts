@@ -10559,7 +10559,7 @@ export const masterInventory: Record<string, any[]> = {
   ],
   "super-squishies-hub": [
     {
-      "id": "TRAFFIC-00001",
+      "id": "MEGA-00001",
       "name": "12-Inch Squishmallows Landry Yellow Meringue Macaron Plush",
       "price": "$15.00",
       "media": [
@@ -10568,14 +10568,14 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00002",
+      "id": "MEGA-00002",
       "name": "Squishmallow Collectors Tin",
       "price": "$9.99",
       "media": [
@@ -10584,14 +10584,30 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00003",
+      "id": "MEGA-00003",
+      "name": "Squishmallows 6 Care Bears Cheer Bear",
+      "price": "$14.95",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRxiIU2K2yslWxsGBiC3MXVrlFaf6cahymjxdDNxG4ah3Druyq9gv8Ut2wwDnrCsSbDywzBw-Z1nVj8HxFbQ4dxG5WWVBJ-g11aupH6qDb5nAiS7KhWvoZq"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00004",
       "name": "Squishmallows Norma the Squishmallow Color Cream",
       "price": "$18.80",
       "media": [
@@ -10600,46 +10616,30 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00004",
-      "name": "Squishmallows Squishmallow Trading Card Collector Tin Series",
-      "price": "$17.00",
-      "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTRs6QlQthuDqXcbtnJmcHgebYMgtV5swfd0cN849r7GpmgFFaQphBuaJsT2mL9rFhY4kBNRPoIQTkRpOkUUUJGTZLuRfz6ZJ46TIYyb5NaVJt_YM1my4WH6Q"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00005",
-      "name": "Squishmallows 8 Inch Plush",
-      "price": "$24.99",
-      "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQiUjjI58WtnpBQZUPZf3pM32v9b2LUvJKeRrcLyPtG2WmL0-97ITLX5ZewBc6lDZuNFmlDXfrPdKzbM3I937hy6Iut__5TFOaOi5pdh9FjnkNpXyLHyDbL"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
+        "condition": "Retail Mint",
         "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00006",
+      "id": "MEGA-00005",
+      "name": "Squishmallows Felton the Siamese Cat",
+      "price": "$15.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTH0e78l09hdIYfWOwi-aLOVErRpraYAs2_XdETDv_NLoDKpnEcXRovRKWMsgm3Ryj6S9cLoDeza3mPilD5bYrrovePcPN2GJRlJWLrEz9f_1K6qe5Q0aM9Tg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00006",
       "name": "Squishmallows Original 10 inch DC Batman",
       "price": "$14.99",
       "media": [
@@ -10648,46 +10648,30 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00007",
-      "name": "Squishmallows 8 Inch Skip The Bigfoot Bat Blue Plush Stuffed",
-      "price": "$19.60",
-      "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSr-zm2T4fcm407YXufwvy1WXSjFHA1LLuJrzitVr8eAoi3DU-JJxwn71jnB-cIrv1psZQ71L8aDYIfIK5-pR0xqv-770GijbRTxBdymlvl"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00008",
-      "name": "Squishmallows Skip Gray And Black Bigfoot Bat Weighted Sleep",
-      "price": "$40.61",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTtj-3Wp1lOxMcEhC-0nhDFHNlHE46EK6lvK-gVgRKQ61b9gsoj03ji_dQNYZXT15Nk6WwXaVNxq5yDtj-mDEu-T4FTpxTngkkefoE54xBKw7YhQCsQeXUSIw"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
+        "condition": "Retail Mint",
         "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00009",
+      "id": "MEGA-00007",
+      "name": "Squishmallows 8 Inch Plush",
+      "price": "$24.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQiUjjI58WtnpBQZUPZf3pM32v9b2LUvJKeRrcLyPtG2WmL0-97ITLX5ZewBc6lDZuNFmlDXfrPdKzbM3I937hy6Iut__5TFOaOi5pdh9FjnkNpXyLHyDbL"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00008",
       "name": "Squishmallows Pikachu Plush Toy",
       "price": "$15.00",
       "media": [
@@ -10696,14 +10680,30 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00010",
+      "id": "MEGA-00009",
+      "name": "Squishmallow 5 Alva Coffin Tombstone Gravestone Halloween CA",
+      "price": "$14.37",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQDYDrPHi1JmWB0h9T-qOO8Zcnyr6dQ6C3QLBuRBhOYMofQRkdUXrZHYeSlOopDhrELqlwwo6KRpb-cwkkBOVFgubEQ7Z0aZrWSpdvQBwJeB7iCPgFkjo13RpY"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00010",
       "name": "Squishmallows Esmina Fairy",
       "price": "$14.99",
       "media": [
@@ -10712,94 +10712,14 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00011",
-      "name": "Squishmallow 5 Alva Coffin Tombstone Gravestone Halloween CA",
-      "price": "$14.39",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQDYDrPHi1JmWB0h9T-qOO8Zcnyr6dQ6C3QLBuRBhOYMofQRkdUXrZHYeSlOopDhrELqlwwo6KRpb-cwkkBOVFgubEQ7Z0aZrWSpdvQBwJeB7iCPgFkjo13RpY"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00012",
-      "name": "Squishmallows Sheila The Chocolate Pancake Brown 8 Inch Plus",
-      "price": "$44.00",
-      "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQWYWZwzCUBBF80JvrHgGkT5CioXFyS6Y4AskMU-FWcd6hFBFuQ9zNuQJaGtY8ObW3aXAOTXNes3TpGfhYkf9o0tsZ-BpicD4iEY7Yrfysjr9HVKIJNbFeCxA"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
+        "condition": "Retail Mint",
         "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00013",
-      "name": "Squishmallows Felton the Siamese Cat",
-      "price": "$27.99",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTH0e78l09hdIYfWOwi-aLOVErRpraYAs2_XdETDv_NLoDKpnEcXRovRKWMsgm3Ryj6S9cLoDeza3mPilD5bYrrovePcPN2GJRlJWLrEz9f_1K6qe5Q0aM9Tg"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00014",
-      "name": "Squishmallows Toys San Diego Comic Con 2023 Exclusive Resul ",
-      "price": "$30.00",
-      "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR0ho561YZ2XWsbC3tYjGMRiNLAuB7-lRSlstao0DnX9it2C-N-ALhrgaHaM_7Z_RkpeTGui-1fnB48_E4beOYCVM91GjsrUKG-Rsjo1SpF"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00015",
-      "name": "Squishmallow Disney 5 Inch Plush Tinker Bell",
-      "price": "$8.85",
-      "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhnhuHcTtz_xuKNWh-iCXTkXmdr4rKYV6kPrMxze1d7drwNJSAv50uhJuGgUK0LOhgHocxwtWCbcdNeg3vx4UgFZeZ5402N2T9RFNA9ariY-r0jYL_LfD2"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00016",
+      "id": "MEGA-00011",
       "name": "Squishmallows Chaitra The Pink Lemur 14 Valentine Stuffed Pl",
       "price": "$25.00",
       "media": [
@@ -10808,14 +10728,46 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
+        "condition": "Retail Mint",
         "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00017",
+      "id": "MEGA-00012",
+      "name": "Squishmallows Original 5-Inch Brock The Bulldog Official Jaz",
+      "price": "$12.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTR29kw_8TVUbj4IxLOqwyWOoMLYsYH5jIgnmZQpYV8eXf6PAPVKe5Mreb78SMmsD2KjaSfsubL8SXI2x62oJeqRo-NmFk8RSjFuoby0cA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00013",
+      "name": "Squishmallows Sheila The Chocolate Pancake Brown 8 Inch Plus",
+      "price": "$44.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQWYWZwzCUBBF80JvrHgGkT5CioXFyS6Y4AskMU-FWcd6hFBFuQ9zNuQJaGtY8ObW3aXAOTXNes3TpGfhYkf9o0tsZ-BpicD4iEY7Yrfysjr9HVKIJNbFeCxA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00014",
       "name": "Squishmallows 10 Norma The Gnome Plushie",
       "price": "$28.00",
       "media": [
@@ -10824,126 +10776,30 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
+        "condition": "Retail Mint",
         "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00018",
-      "name": "Squishmallows 16 Kwame the Gray Walrus Plush Toy",
-      "price": "$68.00",
+      "id": "MEGA-00015",
+      "name": "Squishmallows Felton the Siamese Cat",
+      "price": "$27.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSiw2NLupannVEQBJcdOONaHANl4SAtXhzLVf02l0ngHfaUwRYnCIei8Sn6m0k7uJh8Yq5U7C17_TsWm_uxK87lpa6dHCBuDMuqAoEktv_f"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTH0e78l09hdIYfWOwi-aLOVErRpraYAs2_XdETDv_NLoDKpnEcXRovRKWMsgm3Ryj6S9cLoDeza3mPilD5bYrrovePcPN2GJRlJWLrEz9f_1K6qe5Q0aM9Tg"
       ],
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00019",
-      "name": "Squishmallows Squishmallow Trading Card Collector Tin Series",
-      "price": "$65.00",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQlxy1gG3G6Hm7cIkYWTeyaWR1l1GbxcuxjSMuda4mfeZNmpatJD61jOiGIGW--gHUs8d1arsvS4YX9z6_nC56rDkWUFlHveThlzUoT5DE"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00020",
-      "name": "Squishmallows Skip Bigfoot Bat Micromallow - New Toys  Colle",
-      "price": "$8.12",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ81qKl9aHslo_kqfD1YOvf9pQJotVqq8aEjwpfG2VOoKCc9_0VyUDv0IaRvQh9isRZlI9iDYWrcHoUcy75wJPni0xGrZ71bV8y-qQE7dxTLVGS62umLEDofA"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00021",
-      "name": "Squishmallows 12 inch Squishmallow Pride Frog",
-      "price": "$29.95",
-      "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS6S8QYVJOlIOW3B4bnfX4dtdR7sWcGM6M5cIF9FdKOOp5GQk8H5gUHPg44dTiZvRQVZGayiabH3b6nrWvRfo235hrN9GeubY6ucNeE9SY8WNubmhZKJ3UTlQ"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
+        "condition": "Retail Mint",
         "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00022",
-      "name": "Squishmallows Simone the Shrimp",
-      "price": "$15.95",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcToZuwT-Xl0oVS3hnurX3_t2HKcOKWZIpwAXVCUk2I_GipsOHYhNW0wQf-1geYVjFj3otZAW1qa3h8D2fjq_NAU9A1wrfCKNixUCHj81Rnaaol1wMm5oFWu"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00023",
-      "name": "Squishmallows Squishmallow 5 Inch Sealife Blind Bag Plush",
-      "price": "$5.48",
-      "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSiaPzBBqq1eH4btMv9cHuapkVk8I57x0z6MyurreLzAvh7CddP1afJiBzxIQHLpGmQ2YhE5N6-LPM2EYV0QuF5nKelcJ-2mw"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00024",
-      "name": "Squishmallows Skip The Bat Bigfoot Sleepmallow - New Toys  C",
-      "price": "$31.50",
-      "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT95FdhBh5zdodEnjmf-yOFNYw4dKwm1fBbSf5xI7pRmYmF8uEY5SF3MXi0bOEJhLO4ndHUgrA79UCH6NfbTh8aeBrvCoKbfJIQF0DK_04"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00025",
+      "id": "MEGA-00016",
       "name": "Squish-a-longs by Original Squishmallows 14 Pack",
       "price": "$15.00",
       "media": [
@@ -10952,174 +10808,158 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00026",
-      "name": "Squishmallows Bigfoot Skip The Bigfoot Bat Hybrid 8 Inch Sof",
-      "price": "$30.40",
-      "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQxNqE8q3mGvZnvPzfW130NxfWKLs2X6Gboou9wtUVVrD6cicxSfDl_hhJhpXXBXob-71Jli9_3qeAFX0ErLlZaeC-E8PJ2wlb21HVyuGwtSPemRlrt5lnB"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
+        "condition": "Retail Mint",
         "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00027",
+      "id": "MEGA-00017",
+      "name": "Squishmallows Toys San Diego Comic Con 2023 Exclusive Resul ",
+      "price": "$30.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR0ho561YZ2XWsbC3tYjGMRiNLAuB7-lRSlstao0DnX9it2C-N-ALhrgaHaM_7Z_RkpeTGui-1fnB48_E4beOYCVM91GjsrUKG-Rsjo1SpF"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00018",
+      "name": "Squishmallow Disney 5 Inch Plush Tinker Bell",
+      "price": "$8.85",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhnhuHcTtz_xuKNWh-iCXTkXmdr4rKYV6kPrMxze1d7drwNJSAv50uhJuGgUK0LOhgHocxwtWCbcdNeg3vx4UgFZeZ5402N2T9RFNA9ariY-r0jYL_LfD2"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00019",
+      "name": "Squishmallows 12 inch Squishmallow Pride Frog",
+      "price": "$29.95",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS6S8QYVJOlIOW3B4bnfX4dtdR7sWcGM6M5cIF9FdKOOp5GQk8H5gUHPg44dTiZvRQVZGayiabH3b6nrWvRfo235hrN9GeubY6ucNeE9SY8WNubmhZKJ3UTlQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00020",
+      "name": "Squishmallows 16 Kwame the Gray Walrus Plush Toy",
+      "price": "$49.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRj0sJns8oKs0SESFsqWw87oNhqg-JBET6h9RzJe_-Th-84pAjEzSO4tPL0ernBt8wRI7yN_fv9m02VSX2tR180RLuNP7__picFoHUI3A0"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00021",
+      "name": "Squishmallows Simone the Shrimp",
+      "price": "$15.95",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcToZuwT-Xl0oVS3hnurX3_t2HKcOKWZIpwAXVCUk2I_GipsOHYhNW0wQf-1geYVjFj3otZAW1qa3h8D2fjq_NAU9A1wrfCKNixUCHj81Rnaaol1wMm5oFWu"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00022",
+      "name": "Squishmallows Squishmallow 5 Inch Sealife Blind Bag Plush",
+      "price": "$5.48",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSiaPzBBqq1eH4btMv9cHuapkVk8I57x0z6MyurreLzAvh7CddP1afJiBzxIQHLpGmQ2YhE5N6-LPM2EYV0QuF5nKelcJ-2mw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00023",
       "name": "Squishmallows Original 10-Inch Monty The Border Collie Puppy",
-      "price": "$18.80",
+      "price": "$18.75",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQGI_mF4qWoK_WoxlQLaptChRDgEWfP1MG8PWeDbawyyQKALrQwH8prJ83pdAzowcUN4qMGPaWTl3za4ifV-11YmNEOyjG8pj-zRlpvs-QmQTo3Z7Q-d4fo"
       ],
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00028",
-      "name": "Squishmallows Skip Bigfoot Bat 8 - New Toys  Collectibles",
-      "price": "$28.50",
-      "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQKsU7zvoJIEb4pTznuZYiHHTnhH7SUe_f7B91R-twMJKfT-EiiPS1WoQkCTO6NfhwOBN64t0HKR3BwgTpHW6UvXT1KfKVTdITN5oaiUtk"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
+        "condition": "Retail Mint",
         "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00029",
-      "name": "Squishmallows 6-Inch Mini Plush 5-Pack- Snuggle Collection P",
-      "price": "$18.37",
+      "id": "MEGA-00024",
+      "name": "Squishmallows Squishmallow Trading Card Collector Tin Series",
+      "price": "$65.00",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQO1WqPXE1ycKARMDcfV92XKyYq8xv_FxKtSCuCv5sXVB7QbNYAS07pfcy6H7H7vDH9xTYjXu0I1rr1OQLBTFrM7fRYiEytc9Urvhwjc2iN-y7e3EojRZZn"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQlxy1gG3G6Hm7cIkYWTeyaWR1l1GbxcuxjSMuda4mfeZNmpatJD61jOiGIGW--gHUs8d1arsvS4YX9z6_nC56rDkWUFlHveThlzUoT5DE"
       ],
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00030",
-      "name": "ultra Rare S8 2580 Squishmallows Sheila Chocolate Pancakes",
-      "price": "$36.25",
-      "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcREndRK5cWfwb-i2A02YAv37zpVsEILrWJ6Q6D4R61LzkGqxSW5R4B8TUsi50zpD9B755OtR-UlOvpGcu_jaBySa6IutLV6nkzm6tGtp070"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
+        "condition": "Retail Mint",
         "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00031",
-      "name": "Squishmallows Skip The Bigfoot Bat 12 Inch Stuff Plush BNWT ",
-      "price": "$37.13",
+      "id": "MEGA-00025",
+      "name": "Squishmallows 8H Felize White Ghost with Flower Crown Weight",
+      "price": "$49.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQVvL2QlG6vFUWfRIMkZlbEjizu_K6EQf7mkcCc2EcC1kBiCzp8CkIKwTawB_pxwx4B-cdwQ6R6ixRZbzRLqnxtZhYPez3jLwVJdwO2pJ346WxiNdRe6Lrv"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR921uADo-a7_DUwnf5PuLOnIjWzvXjAhAcPIyylaq4AU7JdLQluGqiG40DX5X62uiJxR0zJC6jdGIbJ3BSFUJd6OrLvllenQffgBsHYkx8GxS2j2QT6gnEhA"
       ],
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
+        "condition": "Retail Mint",
         "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00032",
-      "name": "Squishmallows 8 Ultra Rare Sheila the Chocolate Pancake Plus",
-      "price": "$50.00",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSIUylRtwVoNqbpGZ1Uwk0pNV-zzhlKx80-8LK_BUhO6on3mNzTTBr0wnFJvb8lP5UswZ4GteXMmmTimOLjvyyoeWVWuPgXjB6WeRozaz8"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00033",
-      "name": "Squishmallows Harly The Goblin 12 Inch Mischievous Select Se",
-      "price": "$80.00",
-      "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRwagEXChpuRO4LxFIrAVRFKn2qj1bzQtR9MfgIHBV9nlExAvZvRDjZ-2uip36hTaVGVZ2vRUBYO_O1ATcFeAFrfIWlcsBd6i_r8goOd-MpH5ZKZRIq8cEo"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00034",
-      "name": "Original Squishmallows 5 Disney 100 Anniversary Limited Edit",
-      "price": "$15.00",
-      "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRElGlV_DCocqP79NdJmKKwUFqiIkPHuM1XX4pkLJFflRDRo-cEbtt1iWtrWIfIWxXllj1cCj_xEjg9UZ80GQQCOO-GL5IGKkYWyrjLYI7DgGxg0HqyUnlhGg"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00035",
-      "name": "Squishmallows Pet Shop Squad Rhys the Rainbow Tie Dye Guinea",
-      "price": "$14.38",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ_umiG82XLW9_82ufyOt1bY--9S12lnhfPvkbiXRvEH5SgTzCUD2q318fkDxGlptwMhFCrKarw39XicF-IaZhPn9k8zo-dJGKW4sxngKv8MuwO5_r_28TzjRI"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00036",
+      "id": "MEGA-00026",
       "name": "Squishmallow 5 Inch Mini Sealife Plush Fabiola the Rainbow F",
       "price": "$13.00",
       "media": [
@@ -11128,46 +10968,62 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00037",
-      "name": "Squishmallows SKIP The Bigfoot Bat 8 NEW With Tag NWT - New ",
-      "price": "$13.89",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQgXzSOkRxyepWVEfPH3k-zYYN2vt7TZGjhdgD13856vDPJXFyTZkVtoPZDOh86ilHuCksjcfddMXcpb5t8uLY3tcL7wNdfQHH1FtFuNS4"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00038",
-      "name": "Authentic Squishmallow Serge Skeleton Bird 7 In Plush Black ",
-      "price": "$29.99",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSq5gF9cmnnxRkf1fdazug1gn4NxdjwB-pE7qdV1ptlrP3ePeSMiAUwRU13H2gCf5O_OQqM8ddGt7YHQN1MM1ef1ktbf9YvsdsWuwFqyZWSyLM0qytgK252zg"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
+        "condition": "Retail Mint",
         "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00039",
+      "id": "MEGA-00027",
+      "name": "Squishmallows 6-Inch Mini Plush 5-Pack- Snuggle Collection P",
+      "price": "$18.37",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQO1WqPXE1ycKARMDcfV92XKyYq8xv_FxKtSCuCv5sXVB7QbNYAS07pfcy6H7H7vDH9xTYjXu0I1rr1OQLBTFrM7fRYiEytc9Urvhwjc2iN-y7e3EojRZZn"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00028",
+      "name": "Squishmallows 8 Ultra Rare Sheila the Chocolate Pancake Plus",
+      "price": "$50.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSIUylRtwVoNqbpGZ1Uwk0pNV-zzhlKx80-8LK_BUhO6on3mNzTTBr0wnFJvb8lP5UswZ4GteXMmmTimOLjvyyoeWVWuPgXjB6WeRozaz8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00029",
+      "name": "ultra Rare S8 2580 Squishmallows Sheila Chocolate Pancakes",
+      "price": "$36.25",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcREndRK5cWfwb-i2A02YAv37zpVsEILrWJ6Q6D4R61LzkGqxSW5R4B8TUsi50zpD9B755OtR-UlOvpGcu_jaBySa6IutLV6nkzm6tGtp070"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00030",
       "name": "Squishmallow plushie stuffies Collection Lot of 19 -",
       "price": "$79.60",
       "media": [
@@ -11176,23 +11032,807 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00040",
-      "name": "Squishmallows Skip The Bigfoot Bat 12-inch Stuff Plush BNWT ",
-      "price": "$44.98",
+      "id": "MEGA-00031",
+      "name": "Squishmallows Pet Shop Squad Rhys the Rainbow Tie Dye Guinea",
+      "price": "$14.38",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSzGVj_aASHRkm69sZ4RGm0W-8GGjoxsGHTW9bUomAE4ArAR-Z8EmKaNgz1CBYfd3R8nyRWXb9izMgcHBz3Gx-C2U6MPWEJCFQ0SHa4TonjmG2yVyGd-cOU"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ_umiG82XLW9_82ufyOt1bY--9S12lnhfPvkbiXRvEH5SgTzCUD2q318fkDxGlptwMhFCrKarw39XicF-IaZhPn9k8zo-dJGKW4sxngKv8MuwO5_r_28TzjRI"
       ],
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00032",
+      "name": "Squishmallows Harly The Goblin 12 Inch Mischievous Select Se",
+      "price": "$80.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRwagEXChpuRO4LxFIrAVRFKn2qj1bzQtR9MfgIHBV9nlExAvZvRDjZ-2uip36hTaVGVZ2vRUBYO_O1ATcFeAFrfIWlcsBd6i_r8goOd-MpH5ZKZRIq8cEo"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00033",
+      "name": "Sheila The Chocolate Pancake Squishmallows Ultra Rare 11 In ",
+      "price": "$26.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTk8-HIl7heafZwkUfZhSWrtsGXkEO33IxLL8MskSbC9s-xw3xG0Q1gFv0kU7SgALP-UOli8ZYbR9MrymgCQuRpYlUeRVNPsJfAbGIw7NmMjj45eyQe6Y5Eyg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00034",
+      "name": "Squishmallows Sheila The Chocolate Pancake Stack Ultra Rare ",
+      "price": "$19.97",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS2XXjHXJHlW4O3mpwU4h25qy6rm1r89X8zD-3EmAWeRUxDjEtMIH9sK7EA_ITFs_jMRJeUqYc07z-JDtE6cPd8m7fg6L9qKvQaOWovxHm_ZvwfCe5ayVaTsw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00035",
+      "name": "Squishmallows Sheila The Chocolate Pancake Brown 8 Inch 8 Ul",
+      "price": "$60.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRcyTDwtYsr5Dm8b2QEBoa2jRThS81E-aijqJYk3MfkVwYBn9JU4mn7JqQiWJk2nsiePktzk649_TqUICqbK48oPRJFktdBWcD4yXOll8P7"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00036",
+      "name": "Squishmallows - Sheila The Chocolate Pancake Brown 8 Inch Ul",
+      "price": "$100.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT92PwL9OdZjWZCvp5ga0uPNtgXvuiaJlXAx8ImQKBq4EcS-wnZWc7w8wcfH7bR_lJGCaXp6kWGimSQpRT5ZbpbeGG_ZbBCGhiG4BjpOH8NXgTsGA2BqrNE"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00037",
+      "name": "Squishmallows Jakarria looks untouched you found one rare fl",
+      "price": "$34.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQx6EN5-9V6X-IK6KKqV_TSGAS7JdEljPTqCvqOJmB7R8wBCB3uoUlrjN6UNUMLCYtCeHdqnOCjkLBpjjzaU4eReOvArmRbQCIyxEFCk2p9"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00038",
+      "name": "Squishmallow Plush Lot Small Vtg Style Soft Stuffed Animals ",
+      "price": "$39.95",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTXaGT-tuWs72A50n7ibRDyIieQWsGZHe4qRIZcCwE9ExgdnmWCYbmeHgd7xyh4yhYT8X4uTzIJFUsb59AEzPB6S5GSdYvmwRKGiLgPSEc"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00039",
+      "name": "Squishmallows 8 Sheila Chocolate Pancake Ultra-Rare - Toys  ",
+      "price": "$26.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRfipqZAyXqrxm3M9Aj8dCzZH3hNcBWCsRTHQFZtcQtWrMA0tjFUntRCZIseGLRSCQhmaTNrf2u-utAnV-lPZsmdyoSxsCdBEuY_MyxOV7Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00040",
+      "name": "Squishmallows - Sheila The Chocolate Pancake Brown 8 Inch Ul",
+      "price": "$33.20",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTSfznBphV5NtB4kc8TqpTMzPNKbTXYFu-U1JOCA8f6U0D5w25RNsmQJObsNMYhhueLwMlL9AGe-iTA5A6zlsSn7u3mPRSNFB4S41FYFU4"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00041",
+      "name": "Squishmallow Collectors Tin",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQAXa2SPS7ejESZmOQXAxURpnjYjXkK-6jzC-4b-PC6Kyf6e51c8W15p3_3lMFhvCEs8_z2NTtP0njMAbcl7pF_galauyVPahvr61G42eQM"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00042",
+      "name": "Squishmallows 6 Care Bears Cheer Bear",
+      "price": "$14.95",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRxiIU2K2yslWxsGBiC3MXVrlFaf6cahymjxdDNxG4ah3Druyq9gv8Ut2wwDnrCsSbDywzBw-Z1nVj8HxFbQ4dxG5WWVBJ-g11aupH6qDb5nAiS7KhWvoZq"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00043",
+      "name": "Squishmallows Norma the Squishmallow Color Cream",
+      "price": "$18.80",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTpv6HTNLC_05kqhYq0f82FmDy3ZqVPz8UkAd8jHek76p8FsLRs-p7B2HY0bHsT7EcKN0sCb9wCkHif4FNw_jdMXXVLBu3Jgbxjt2BpD2hF2pLtofaYs1eCqw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00044",
+      "name": "Squishmallows Carl Cheeseburger",
+      "price": "$11.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS2SrJdoPUgilgIZ_5b3KZroxWzS6Vf7HHVL_dK4j-xK7R3qUAug_lYkEUpe1LQhVLlKyBUfGIDQy-s1DWiv9K7JrhWJaoCYiBDzwM-1e9BfW_PqweL4FF_Jw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00045",
+      "name": "Squishmallows Original 10 inch DC Batman",
+      "price": "$14.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTgksGmQpTyKz0HpO1mx9eeYRGAvTexiwBZ-m0kun3z8hhwQcREHTviuQnMpK38w8AAHPtuLdE6lMuTNOQH_Lo61oD7n7ey7oX3z_5ZypE"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00046",
+      "name": "Squishmallows 8 Inch Plush",
+      "price": "$24.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQiUjjI58WtnpBQZUPZf3pM32v9b2LUvJKeRrcLyPtG2WmL0-97ITLX5ZewBc6lDZuNFmlDXfrPdKzbM3I937hy6Iut__5TFOaOi5pdh9FjnkNpXyLHyDbL"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00047",
+      "name": "Squishmallows Original 8 Inch Junie the Banana SmallSized Ul",
+      "price": "$5.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSgX4qtLSxsuEA_tboxAfFC3Jc3jSueIQHG8Ds0DKZhCHmtF9K_bfP68aDNV9g8SgYB0iBOi6xiioJKbpXMWna9VjgDJr2y0FRq7MJzED8J"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00048",
+      "name": "Squishmallows Pikachu Plush Toy",
+      "price": "$15.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQlapGnqR2n7AfYc0M8G3EAJXeOa2cgtLSth4OJtXJYbh0q5SS1Jzf1swJecwFlTcZzMPNo5h_TwNTRSapCZRwZl9Sq_PPmterk7ofBiTw2F7zP7CFYzwmppg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00049",
+      "name": "Squishmallow 5 Alva Coffin Tombstone Gravestone Halloween CA",
+      "price": "$14.37",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQDYDrPHi1JmWB0h9T-qOO8Zcnyr6dQ6C3QLBuRBhOYMofQRkdUXrZHYeSlOopDhrELqlwwo6KRpb-cwkkBOVFgubEQ7Z0aZrWSpdvQBwJeB7iCPgFkjo13RpY"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00050",
+      "name": "Squishmallows Esmina Fairy",
+      "price": "$14.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQJeZaxJovQrSKh1b9Eqyj9afQ-X3sOCaIP_s5YB0Uu7qsJ41CTZWwlqTtU1EeQOmhj7mgmmzmhGxGIrO3q4Woxteqkk-Ge4YAQkHDolYI"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00051",
+      "name": "Squishmallows Chaitra The Pink Lemur 14 Valentine Stuffed Pl",
+      "price": "$25.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTDraVEQOOb34nRmRM-SPK4S9_yCA_nfIrg8Mr46BuMIF87XwpbFrC2HO7aBZm3Y1ceShbdnFd_E2BbKnpDG5k8GsOFT5nuYVnjBku3DPtA_GrDMr2h7O5p"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00052",
+      "name": "Squishmallows Sheila The Chocolate Pancake Brown 8 Inch Plus",
+      "price": "$44.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQWYWZwzCUBBF80JvrHgGkT5CioXFyS6Y4AskMU-FWcd6hFBFuQ9zNuQJaGtY8ObW3aXAOTXNes3TpGfhYkf9o0tsZ-BpicD4iEY7Yrfysjr9HVKIJNbFeCxA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00053",
+      "name": "Squishmallows Original Sanrio 14-Inch My Melody Floral Print",
+      "price": "$35.40",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRkP5TlWunSYpVO0fZoVx1-jovJ41AC4_RXidzp1Cmr89DC-RKeLnDdz5Iig0KOuSz8uKUm0v8kUAL9z-ydRsOS0sbsuzf6vXkNs6JHYT1qFAAOMKMDwndw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00054",
+      "name": "Squishmallows 10 Norma The Gnome Plushie",
+      "price": "$28.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRMQQ4ETcv5NTzQ8RipL35LD6U0_uJiuet-7BK2zH47n8YL8gUfeZ9TZGp8n2R7LPMqNwCKwugLtlXtzYSCGmuDm3m00N7oogTcESGa4kO90U1zkMMCNWuG1Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00055",
+      "name": "Squishmallows Carl Cheeseburger",
+      "price": "$11.55",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS2SrJdoPUgilgIZ_5b3KZroxWzS6Vf7HHVL_dK4j-xK7R3qUAug_lYkEUpe1LQhVLlKyBUfGIDQy-s1DWiv9K7JrhWJaoCYiBDzwM-1e9BfW_PqweL4FF_Jw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00056",
+      "name": "Squishmallows Austin The Avocado Plush",
+      "price": "$20.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSmBuadfuy-DT6MUO99V6D-hi5XXyshzPVbHbYNmC2xWi4qXngSUJRqhSKW_KKk1fHygiBZmoocxGOTSlF7Hr91tOvBC4en2Ed-uD6xbpWM"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00057",
+      "name": "Squishmallows Pegasus Unicorn Plush Toy",
+      "price": "$11.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSNYY4jT706g2U_6UTNK24Q3H8cJinwTPMRJu1T-SRUlvwnUCN4LOwU4AMje8cOu2wPb37cK39rl2uzoCkaUjjHcYfs0chW9bT7DauE-6xaueuxiuehQhnI"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00058",
+      "name": "Squish-a-longs by Original Squishmallows 14 Pack",
+      "price": "$21.50",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ70dqpky6Jtnykr1NwQ_BCZOlSK1KHwBuN6lHbHU7tfZnVfADhRF8VgVOlVw9CEksilLm2PmbbHlUNr1I7X4V8TzsEaTxbdVv1IDbB7TV3"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00059",
+      "name": "Squishmallows Toys San Diego Comic Con 2023 Exclusive Resul ",
+      "price": "$30.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR0ho561YZ2XWsbC3tYjGMRiNLAuB7-lRSlstao0DnX9it2C-N-ALhrgaHaM_7Z_RkpeTGui-1fnB48_E4beOYCVM91GjsrUKG-Rsjo1SpF"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00060",
+      "name": "Squishmallow Disney 5 Inch Plush Tinker Bell",
+      "price": "$8.85",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhnhuHcTtz_xuKNWh-iCXTkXmdr4rKYV6kPrMxze1d7drwNJSAv50uhJuGgUK0LOhgHocxwtWCbcdNeg3vx4UgFZeZ5402N2T9RFNA9ariY-r0jYL_LfD2"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00061",
+      "name": "Kellytoy Squishmallow 16 Inch Plush",
+      "price": "$28.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR4Q2RJl2bIBf_Pbd1nIRhpzKstVUUq0ehgalTMF_Ma8muLGXuCJlsY22kSebekW4jAk-25hG7J03TIp_fCRC7E6eeEND9eo-skMq9lqvVFJKdo7mMDBZrG9g"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00062",
+      "name": "Squishmallows 12 inch Squishmallow Pride Frog",
+      "price": "$29.95",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS6S8QYVJOlIOW3B4bnfX4dtdR7sWcGM6M5cIF9FdKOOp5GQk8H5gUHPg44dTiZvRQVZGayiabH3b6nrWvRfo235hrN9GeubY6ucNeE9SY8WNubmhZKJ3UTlQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00063",
+      "name": "Squishmallows Maui The Pineapple Plush",
+      "price": "$36.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQgzr1_NbH29PR8GTABZ999m-FtInH0IYXwn31cyFC1MmCJ86FK3JOWaxbIYYwjsFvS12ocef_lN1_GH-6wwItOxpuSwa2SF2SLE6Rt9YNv"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00064",
+      "name": "Squishmallows Ambergris Burgundy Goblin King 16-Inch Plush",
+      "price": "$16.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQTQDMeqhXUYWUpDD5iWl_5PU73lt5sw7gNTpJIS3ThBXZqoejIY_VB40snUnMxUEJFLp20ZuBJZ_JAiqNFw6eZ3_sD1mEKibL0BX6zyGr_rCami_O8e0u7"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00065",
+      "name": "Squishmallows Squishmallow 5 Inch Sealife Blind Bag Plush",
+      "price": "$5.48",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSiaPzBBqq1eH4btMv9cHuapkVk8I57x0z6MyurreLzAvh7CddP1afJiBzxIQHLpGmQ2YhE5N6-LPM2EYV0QuF5nKelcJ-2mw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00066",
+      "name": "Squishmallows Original 10-Inch Monty The Border Collie Puppy",
+      "price": "$18.75",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQGI_mF4qWoK_WoxlQLaptChRDgEWfP1MG8PWeDbawyyQKALrQwH8prJ83pdAzowcUN4qMGPaWTl3za4ifV-11YmNEOyjG8pj-zRlpvs-QmQTo3Z7Q-d4fo"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00067",
+      "name": "Squishmallows Collection",
+      "price": "$700.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQuN9oaaS1PvC6pJfO_7abhlYyMp8Is391TXzKRame5P2mgNaIk5fv0cqaliEVAdgp-CX06ZxTOK77uR1pntmbh5_GWV3UPeYNEBafB0gc"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00068",
+      "name": "Squishmallows Squishmallow Trading Card Collector Tin Series",
+      "price": "$65.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQlxy1gG3G6Hm7cIkYWTeyaWR1l1GbxcuxjSMuda4mfeZNmpatJD61jOiGIGW--gHUs8d1arsvS4YX9z6_nC56rDkWUFlHveThlzUoT5DE"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00069",
+      "name": "Squishmallows Maui The Pineapple Plush",
+      "price": "$129.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQgzr1_NbH29PR8GTABZ999m-FtInH0IYXwn31cyFC1MmCJ86FK3JOWaxbIYYwjsFvS12ocef_lN1_GH-6wwItOxpuSwa2SF2SLE6Rt9YNv"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00070",
+      "name": "Squishmallows 5 Mackinney The Rooster",
+      "price": "$9.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRg0Kq1xgSQHrcOBysLIuxwYHnun5LPZuYW0T1zRBKwlzZjkhajYgmCBQZ-lNh_riU1Kg9XPO6K97uX3jubo6O61VFpPG1rHRSOQ_s7hdQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00071",
+      "name": "Squishmallow 5 Inch Mini Sealife Plush Fabiola the Rainbow F",
+      "price": "$15.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSRVCq7PGFLKxTmXn_Ri9zoDppCsX1d83h0gBn86xlQhSSxnOOvJp8mVMdxIa5KnDdNQkCe5-srQ6FrP3HxWB5hIyU7HpDvEwW6AYbYMRNCzmRTcZNhRX4O3g"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00072",
+      "name": "Squishmallows 6-Inch Mini Plush 5-Pack- Snuggle Collection P",
+      "price": "$18.37",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQO1WqPXE1ycKARMDcfV92XKyYq8xv_FxKtSCuCv5sXVB7QbNYAS07pfcy6H7H7vDH9xTYjXu0I1rr1OQLBTFrM7fRYiEytc9Urvhwjc2iN-y7e3EojRZZn"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00073",
+      "name": "Squishmallows 8 Ultra Rare Sheila the Chocolate Pancake Plus",
+      "price": "$50.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSIUylRtwVoNqbpGZ1Uwk0pNV-zzhlKx80-8LK_BUhO6on3mNzTTBr0wnFJvb8lP5UswZ4GteXMmmTimOLjvyyoeWVWuPgXjB6WeRozaz8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00074",
+      "name": "ultra Rare S8 2580 Squishmallows Sheila Chocolate Pancakes",
+      "price": "$36.25",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcREndRK5cWfwb-i2A02YAv37zpVsEILrWJ6Q6D4R61LzkGqxSW5R4B8TUsi50zpD9B755OtR-UlOvpGcu_jaBySa6IutLV6nkzm6tGtp070"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00075",
+      "name": "Squishmallow plushie stuffies Collection Lot of 19 -",
+      "price": "$79.60",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQHpsLxeRWCx9pioYt7s9kqfApdEZWvs9f6-tP-GQsXN1zRb-LO3ZZJNNuZvkba6_GKYX6gLmAnzlKWuGvHpQJG3U_nx8FwPK1-2XRp4rQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00076",
+      "name": "Squishmallows Harly The Goblin 12 Inch Mischievous Select Se",
+      "price": "$80.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRwagEXChpuRO4LxFIrAVRFKn2qj1bzQtR9MfgIHBV9nlExAvZvRDjZ-2uip36hTaVGVZ2vRUBYO_O1ATcFeAFrfIWlcsBd6i_r8goOd-MpH5ZKZRIq8cEo"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00077",
+      "name": "Squishmallows Pet Shop Squad Rhys the Rainbow Tie Dye Guinea",
+      "price": "$14.38",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ_umiG82XLW9_82ufyOt1bY--9S12lnhfPvkbiXRvEH5SgTzCUD2q318fkDxGlptwMhFCrKarw39XicF-IaZhPn9k8zo-dJGKW4sxngKv8MuwO5_r_28TzjRI"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00078",
+      "name": "Squishmallows Sheila The Chocolate Pancake Brown 8 Inch 8 Ul",
+      "price": "$60.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRcyTDwtYsr5Dm8b2QEBoa2jRThS81E-aijqJYk3MfkVwYBn9JU4mn7JqQiWJk2nsiePktzk649_TqUICqbK48oPRJFktdBWcD4yXOll8P7"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00079",
+      "name": "Squishmallows - Sheila The Chocolate Pancake Brown 8 Inch Ul",
+      "price": "$100.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT92PwL9OdZjWZCvp5ga0uPNtgXvuiaJlXAx8ImQKBq4EcS-wnZWc7w8wcfH7bR_lJGCaXp6kWGimSQpRT5ZbpbeGG_ZbBCGhiG4BjpOH8NXgTsGA2BqrNE"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00080",
+      "name": "Squishmallows Mackinney The Rooster 16 Ultra Rare Chicken",
+      "price": "$33.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQN7cweAmQzFp4UmGq38O1kZA5XkHJ7GppVyb-iD_2dfQm2jjqyz-ToPjw2Zu9AfizdVrWe3Lc8IUvQ_dXuEFEqzRJhTjomFBxTWJfT063y"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
         "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
@@ -11201,7 +11841,663 @@ export const masterInventory: Record<string, any[]> = {
   ],
   "blind-box-vault": [
     {
-      "id": "TRAFFIC-00041",
+      "id": "MEGA-00081",
+      "name": "Pop Mart Hirono Little Mischief Series Blind Box",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTC_Zwje5ws1ktfs4Yw0TgyJWIPYvxzG4_USitCBO_DpKHbeIkD1JhS51IV9KcyDquUI6r8vwCmLEGJY2Pq1ibjIlTYc9sfhQAIRX8BJ173Vj48Q1XTD1Ywaw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00082",
+      "name": "POP MART Hirono Shelter Series Figures Blind Box",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSJaCzD4N4OYJ3EHKQjUjDpIffWcWAbDfz-ZW3j6K_HxnBavvsYmkRMVGbyTT1BYzJxLaoFyOisjpg9JmIV4U9GvsPBwTjtFkK_3H_K_H5GUcj1ZfbJ7UhmkA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00083",
+      "name": "POP MART Peach Riot Punk Fairy Series Figures",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSFpiSb9EmVNIkQHXKXR2gGlEC46o-L7cRLxcRzIldrwbuQolBA3yG6WkpkDrTilTtpmgkM3NMrOz1z72GdqUQPlwFX0P5xh8OkkA3Na2BrEdteWGsQCQQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00084",
+      "name": "POP MART The Monsters Coca Cola Series",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQD87LHMRGAXkR3QePQfI2nKXlTkDXSM497rODYfbaWm74FIbPuCNlnSNSFjootHAFw92sS5yjttvzBF-sv_Eu3DWXKSy5DcvsV7Xwo4OE5OsGJsbqRz8B0HQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00085",
+      "name": "POP MART Peach Riot Rise Up Series Figures",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTx1lmc8XCunDTW7FS4YY2uR5W2kZrDM4Vsxv68DksRkzeW52eYLXKJGHlGICWsETLs1LCF6rVmpG5C9BQs9wA24XU3q1Uro_bODebe8NYyb9_qwIv7HhZ3"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00086",
+      "name": "Pop Mart Hand in Hand Series Figures",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSe0ZJyhwGXIb-7QFBp8Qp_PCZamgTPq0bPWGHuayFL-pYmRnZBTs6NwnZPljwIxGYOk6E0MUEW0RD4ioCWS9ku2-a-astxwgD52hrrwowb"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00087",
+      "name": "Pop Mart THE MONSTERS  One Piece Series Figure",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRG0eEsOC-Z4jmqHpYhf_N2NPcICGo7880ruVNs_rmXdlwM57HfDESDRzrsZxVnY7ADriOIBZ0GEAZM1IaJYIykrVsRn_-g-ECi3rDHiPZM"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00088",
+      "name": "POP MART x HELLO KITTY 45th Anniversary Secret Mini Figure",
+      "price": "$135.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRTF0q7pVsbF1CYrWr9wnlKOBqQoupIxFiLV5qbcIqamkLeOy4qzqJ65FAvU9AU_Ypzmm0xPMQuVew7t0bRrvpGOELsm9bbIT2Wy6bP6sCn7RtZDRS4PRotZA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00089",
+      "name": "POP Mart Star Wars Series Figures Blind Box",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSdG8hCUZYDnzR94klRsc62doifQpOOttrZeb_Nz8BuzLugU59R-pDh13a3g1qH-9XR6F4exb4hWsLaBzxtoe5s6Kn-RNUaGhZqhvRHjRGtd7C8bmDfZ7mQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00090",
+      "name": "POP MART MOLLY Anniversary Statues Classical Retro Series Bl",
+      "price": "$20.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrY_d9ujFw0Adw72q5S-6f1t5kD2dseihq0RU2KniW4plk9ph-WfMLsCjeIk_aJ0PVfWdggxEcel1vwzHGFqAIvaPxP9SJymL1BWUVATK04Hww21eMi7HtdA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00091",
+      "name": "POP Mart KUBO City of Sunset Series Figures",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTiYRxC6IjnkjgiwZgZcTe4oK8AFVl2nP3BhKluAIxtLjEWXNNMowryvaKat_ieBC7arf-OIN4fbUYYMDr8yrtwXodlDvdkbhiAEgynkyqcv0s6de3iVcY3"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00092",
+      "name": "Pop Mart Inosoul The Forgotten Land Series The World Secret",
+      "price": "$69.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT8dLsI4ijyxkP2YI18PmVou8bT_1qBUL1m94I4PkL88YUWIXaqslC_9WKvPiR_nD29kurOnqNbJxVXKyua296tJOlVc_4ufppChuLTYcDKmnIbj2SOqWxO9g"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00093",
+      "name": "Popmart ChaseSecret Figure Handmade Luxury Dolls",
+      "price": "$168.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcStRhW6bmqa3rMdGYODFkTZ6y9fFEAP5_egGPnE90pjFrXmaXnoopzHsx91A91a-eozsX-EZXRvT1zSxTqn_nBV7OD0xxQGv55-5aOJGaY"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00094",
+      "name": "Pop Mart THE MONSTERS Almost Hidden Series",
+      "price": "$17.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQUVNE7h64errA_-LLK6fMVwJl1W8DCwbjJ786D6c31eBnuupmCVOu7Hmh9z0hz5dpFzuwFlIpLG12WfSj_A_1ps0Dj3HCsRk6lAKULNSTHbwwk6R0qPD_vCQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00095",
+      "name": "Pop Mart Keya A Lucid Dream First Light Secret Rare Figure",
+      "price": "$237.50",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ4PHvfvrgb9ZNHaetekpaUiLC9YafXcODb4jTsBlHjZ8qZSqWMWyghP-wBGknJ9YnAr04gLuRhurPO6maqETpWB4Xso9P14TlLnI_L-x9N9WQOL7trNdjJpA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00096",
+      "name": "Pop Mart By Your Side Series Imaginary Encounter Secret Edit",
+      "price": "$105.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQmS2jTW-_MXt4xIZihNmA7s-m_vHa_dvfCkU-SloPOWwBEuowJGfPRAsmRZJi1WywTZXhj3irpSZD4ABP8zj5LipYv_pN7WBb6CDRiNh79IlELaRg1SwIx"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00097",
+      "name": "POP MART Lil Peach Riot Sleepover Series Figures",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSGzAGoHQ0UVE_Rqm-H0PMAk29xoDWSLzeR8FC7s5oXsCikVS6XVk3-RULhFdURtN9NG7qWwvCWonVV3bRWbUzKKSCqFDy_oow-IQAnscRu"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00098",
+      "name": "Authentic Pop Mart The Secret Theatre Club Confirmed Blind B",
+      "price": "$445.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRvu0croSmco9P8xiA-yg2uV0tEYWq_6IhtLWBVlQH2ZJIUAXfLuJapnrw0EgtlgRMxWB_NUr5bM9VMbH93jjkLCrpHiNIcy-9J7NAnoWp2"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00099",
+      "name": "Pop Mart DIMOO The Missing Day Series Where Days Dont Count ",
+      "price": "$60.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSqvnfNmKKpzRL5A4C2n112KF0YPZuDR5TqoQHnQHjWWwl3NeIzV_Vmj9dwHM6NxIoCgsdc93qVVsakaHZsKNphSx3dsWOn6mIgGeu0ATz-k32JK7LHs7D1Ow"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00100",
+      "name": "POP MART Peach Riot Rush Hour Series Figures",
+      "price": "$80.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcShORDH_LlE7x-NzZZXE_XhsvER8mB3h_bo__LwpiBtljQ56R9T-KnesThwiUWZP7vZ0ATzm_k6S28A1hkb1hJRwnlmpZ7i0-p4m8ofGkWWrq8VSTU9foAS"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00101",
+      "name": "Pop Mart Blind Box League of Legends Classic Characters Seri",
+      "price": "$22.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQo9RpoK5iYSjqZiSxry25Nd7wmDHs6tCp1i3qBPiCO0iPY5-caSmqop9WK2e6u7D94oGAX_eAyEYyEK7uzlqrBnd4SzH3ZAtVDEnPTtkpUQb5E9qNZT9Jgkw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00102",
+      "name": "Pop Mart Twinkle Twinkle Sweet Dreams Forecast Series-Plush ",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtNlyncT_032UPwqyvgdK098qzIsqnHeT0GAAy9Ixt3TeYtKkJcwbOuA31uLzacZRdjAZIrsIOFcpAnFmX8L6nS5EGftmZqx5tY5bh7F0l"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00103",
+      "name": "Pop Mart Hirono Echo Series SECRET EDITION-NEVER GROWING UP",
+      "price": "$200.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT4M1g_VfIh2-GktJ8MQwWuTteft5mMtUFIyuo6pN1CHZtVOs_3p9nSgyeAzV-DcIvzpldTDmqbeKvGP49Q0ic12UQYWilWkFwbRzYxF-0"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00104",
+      "name": "Pop Mart The Attic of Oddities Series Buried in Dust Secret ",
+      "price": "$274.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRNZmndij-rAUNgS_wBa7L1UH7n5qeWmtI6_NX9m82XhQGqd81FCkjyH7g_vW7JGNMctZTD__fPPaZaUsj5X8fM6UfnRBqWiqeooJyI1weij-nW9sAtStiJ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00105",
+      "name": "POP MART Fantastic Beasts Series Figures Blind Box",
+      "price": "$16.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQaO4o7EAgMM-NO6k_1l7F9JPH6UD0JQHiDLAaWLTiXnDQsOf4fzPV_6_hdO7ruSN_qxFpG1mIjzkuc3PbgrpzkWoLhASNVrgHgZFpTFxs2rbMFqyblttB9zw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00106",
+      "name": "Pop Mart X Dimoo World Retro Dreamworld Secret Mini Figure O",
+      "price": "$120.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRvLJJLLdiGTUzjQn7z7Z3f3XfQ7ENyNMYU6Ld_242CKp-z7J11vR2ucUSks3-EfeFZKs11WgdauUPoykPTssdR9ba3n0QrM5OfPOfHmRg74UX9mJWEMAh0"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00107",
+      "name": "POP MART Mystery Boxes Confirmed-Hidden Style-Restart Open",
+      "price": "$388.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTCPHUdtPKhhQsik1PXqcZHQObIG77O2CYN0awNiSDUktd5IO3fRUHX8yqkyrKt5jPTbv3Idbm5kOP-_UjR5G6SJheTFtrGX7AWvs9otomHpHtXIOIGOQ4Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00108",
+      "name": "POP MART Hirono Mime Series Blind Box Figure - Secret Chance",
+      "price": "$20.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTbMe-FXITTEjGSU5OysGIMM6AXaHir0qyK-SahYiJgzm_E1zZM42Xg7SLzPyUlVw63nHUFKVb2I3Y-_G17G62RW6rR_jaVGQbMP9mMZoU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00109",
+      "name": "Pop Mart We are Twinkle Twinkle Series The Master of Chill F",
+      "price": "$115.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQJ_pAuPa3tFr2D48njR-bIr-NSGNfktVNE90O285fPP5M20ZTJ-uJrvi6KU3H0UlatOCd-LaTpIzGXYEjyDfFfoS4lKv8P4qRbwJzoYSMBzfBz4jesNGgc"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00110",
+      "name": "Pop Mart Hand in Hand Series Figures Tranquility Blossom Sup",
+      "price": "$132.25",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTwiH0fYg54Q_GYfhpGNEhTitXoJ4Kls_X0ZTrB9T3wQ4hKZU73QHF-BJAwmRWao1Dr_6NTlsh1lFOYeGSi9DkSEeVUtPwiZSBfsPjTQpvlX2liae2l_v_4sg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00111",
+      "name": "Secret Pop Mart The Grand Duckoo Hotel Series Blind Box Foun",
+      "price": "$102.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ3j7sppY_SmFJVFl_HrTwu-PgFkGSXSLpmDXKiOtzGl4HFidijzbL31CI3B3LdkjzQxH-OIqJfkidwIg4tjCdbMaSbxHAWEFmyCJL0Yds"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00112",
+      "name": "POP MART SKULLPANDA The Warmth Series Blind Box",
+      "price": "$29.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS_xqRLuSs_s0YZW6xRy0c31hf40HBjW6AQAMtKlulBv9Ia7YDH-t52CrxVsK3HmSJACOuvAiuRhXyjbUPSiLACb86I_EnmL5aTBnzVKRL4_vvz92BF3kx70Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00113",
+      "name": "Authentic Pop Mart Polar Secret Figure",
+      "price": "$69.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRask3lMfq74-4y-5GcpPaZwOgzQnDIZYZ3Dt_v3ChzbYTqqNJpYasvl5FNLO3qT3PCyNHKH_KB6nKgjc4Qp0GAvTdOTW7ktkc8l_iyNZI"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00114",
+      "name": "Pop Mart Hacipupu The Constellation Series Wishing Secret Ed",
+      "price": "$93.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTl62GYxHFphNU7uipqZ4rM04MZdnQWdZOdQ3SxLuM_oZfXuuYMsRaaw7tACG3ArzJ4qC1JP-xfCyMGXRdk35yCCh7BuIpkB6bwPCS1DrbKR-8Y6fRgOAaNDg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00115",
+      "name": "POP MART The Grand DUCKOO Hotel Series Figures",
+      "price": "$20.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTWh20vJ485ywfm-iDko5QpOc2CqQzgLM_hEkfXNyQa4w927zY3KsVfIjgbG2Sl63KaUUO12oLmp4jRRR8Lg_4tukdHhmwxF44PHazBZf-b_pH69OvWXs6V"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00116",
+      "name": "Pop Mart Dimoo World Space Travel Cosmic Boy Secret Rare Hid",
+      "price": "$63.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBSlQmJGFTtgy8jvPlHbZelci2N9iV8l0fxoBnWUZQVxO7YNo22A61jQj4938BD6YkpuFoR1WMfPNGrqqnsZ8T0B4TzEqTl2xQPc-6qUFJWO7PUwcc961ppg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00117",
+      "name": "POP MART 1001MOONS Winds Intention Series Figures Blind Box ",
+      "price": "$239.88",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRxAYwbR3Fn8Ea25MKCIiKGi7mtZhstrGtVfPhw1tMNmrCH5D6xOAbVVzqjyy8uTeJ6cCSCgoNFs0EXMm6B77Kui8oMPxKThMUDRT4v3BqDG-j61IPSCw_O"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00118",
+      "name": "Pop Mart Labubu Secret Rare authentic",
+      "price": "$300.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQhFLGyApPXZNja6Hy8fA5OYSJGQo5HSWLW0MIRQG8DbbNIJgMgCp-f8JHEkHxzN_FMYdTyao-X4u0GRgBA2Rh_5ubJe5XAHJcVTQsePGU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00119",
+      "name": "Pop Mart HIRONO Little Mischief Series UNKNOWN JOURNEY Secre",
+      "price": "$189.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTo88iebtS5mIDT4Fv1dt0o4zyqmmhw_jSRK2uzURa6Ou1vAYzVh7nOKKdzGK-cHvTiXUM31PkGiDEW7ugA1wvduzQX3dU4Sy0bYD-eZR8jAQyD4h0f7HibVw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00120",
+      "name": "Pop Mart Hirono Blind Box  The Other One Series",
+      "price": "$24.36",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQc5dsm7vHdXwf-X-oKsqr5lNyklsDvfx5Fz-R2Svcyou5n2Gn6YdLfNhl0bTFOo4Nhd2mjV2gETmzFmNfAkxu6V02egnVyWdSKFDOJD84AwBI9CDr_VwbP9Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00121",
+      "name": "Pop Mart Naruto Shippuden Series Battle Against Akatsuki The",
+      "price": "$99.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRHVahRF5JoGHVpw2m0ojtgGeZ1h7IrqOtarK8kcsdpMnU1Cvn7v0IsLFkztc3tJcgv10jrSpOdGH0GZnRRnf0ZrYer3GB49FVEcueaP3mJxwqS-j_X0QdU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00122",
       "name": "POP MART Naruto Shippuden Series Battle Against Akatsuki Vin",
       "price": "$10.19",
       "media": [
@@ -11210,46 +12506,30 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00042",
-      "name": "POP MART Hirono Monsters Carnival Series Figures",
-      "price": "$29.95",
-      "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSsYz-nRgQfmTboCv6iJe3t8QuurCX6kXWI1R3Wt7D_o553SPCRVM-mpU8UDxk_NbUMchUeAKpnFbzz6tkKb3Jl5y8SMpeUTQc_coV0lkbM2ZbnllWecv2e"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
+        "condition": "Retail Mint",
         "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00043",
-      "name": "POP MART Hirono Echo Series Figures Blind Box",
-      "price": "$9.99",
+      "id": "MEGA-00123",
+      "name": "POP MART Hirono Road Journal Series Plush Doll Pendant Blind",
+      "price": "$100.00",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT_I5mkT4mnYRzgzMhAXszopTCQzk7LjAVheLuoT7ZG1wBqxuil2Sbve9ZNl4kj5LZmeK8EifrgU1kzynMz_9VvIkOgA31uit9NG7Mb_b8ZzsYo7ZbZDttU"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRpNPSoohNo3g_mt2cvXRB0_kwafjWKIyb4XgHpvNM8Gc3DInKI-ttXH7unoCRPYKonJRRX-LMI0EI5ZzoIr9vsGYQe8iD8n3YLynnr1Iqf2gYvLhrgabDI3w"
       ],
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00044",
+      "id": "MEGA-00124",
       "name": "POP MART WHY SO SERIOUS Series Vinyl Plush Pendant Blind Box",
       "price": "$35.55",
       "media": [
@@ -11258,30 +12538,14 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
+        "condition": "Retail Mint",
         "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00045",
-      "name": "Pop Mart X Skullpanda Image Of Reality Series Confirmed Figu",
-      "price": "$123.99",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSOUFTxnp2ckkLeoPxi5il12yMfMz2JX9mneHFLW8v6bVl3jDfsXDHS3hD3T8PLgElaMlso04QZrsBG5ukoLYtkMfeFt5ynhBVE0oNMcLQk"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00046",
+      "id": "MEGA-00125",
       "name": "Pop Mart X Hirono Reshape Series Figures Confirmed Figure Se",
       "price": "$10.99",
       "media": [
@@ -11290,14 +12554,14 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00047",
+      "id": "MEGA-00126",
       "name": "POP MART THE MONSTERS Almost Hidden Series - New Toys  Colle",
       "price": "$19.00",
       "media": [
@@ -11306,14 +12570,14 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00048",
+      "id": "MEGA-00127",
       "name": "POP MART Popmart The Monsters Almost Hidden Series Mailbox -",
       "price": "$14.00",
       "media": [
@@ -11322,30 +12586,30 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00049",
-      "name": "Pop Mart Skull Panda Image Of Reality Series Figures The Piv",
-      "price": "$23.00",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTORBfmaLm9_EF3eU44QCDUouZyyeL4xJUE7w5Rm_3yTamYiw6uJdWEN3PVOakjx9XmI1y4kS5RPNzPASRpggpU_jNFYlebq_K5Eboixfrd"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
+        "condition": "Retail Mint",
         "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00050",
+      "id": "MEGA-00128",
+      "name": "Pop Mart X Hirono Reshape Series Figures Confirmed Figure Se",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTqGd4rVhD-IPQz6pPrb7YThzl_AmrGE82h-FDZsUNRQgCqereqhJjj4NcGhyQDuHXuL9VlxXARI_e4yQgpv7xaC8m7DzY0AtMI2UelK2b7"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00129",
       "name": "Pop Mart X Hirono Reshape Series Figures Confirmed Figure Se",
       "price": "$92.99",
       "media": [
@@ -11354,14 +12618,14 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00051",
+      "id": "MEGA-00130",
       "name": "POP MART x Hirono Echo Series Confirmed Figure Doll",
       "price": "$10.99",
       "media": [
@@ -11370,14 +12634,14 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00052",
+      "id": "MEGA-00131",
       "name": "Pop Mart X Naruto Shippuden Series Battle Against Akatsuki C",
       "price": "$14.99",
       "media": [
@@ -11386,30 +12650,14 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00053",
-      "name": "Pop Mart X Skullpanda Image Of Reality Series Confirmed Figu",
-      "price": "$9.99",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTmTKiAoGP9RrXeNJXWQJBSv_MLOtZ7D14ppK8B-x3G4oilAKfsSRa-Z6CIKk_tlT0JBYd61JSOAWXwOOLNMAbWlLlZMv4i1UerQrGEOCwpreJb7emvfRY6ug"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00054",
+      "id": "MEGA-00132",
       "name": "Pop Mart X Naruto Shippuden Series Battle Against Akatsuki C",
       "price": "$99.99",
       "media": [
@@ -11418,14 +12666,30 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00055",
+      "id": "MEGA-00133",
+      "name": "Pop Mart X Skullpanda Image Of Reality Series Confirmed Figu",
+      "price": "$28.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTGyDAG4lpOINvE8zOvWsiDyGESS2XALwN4U_v9ahooczXPwsZqoT3hBCQbgVnr76XNuS-oZOjU3r79goSgnmIKzmY8FqAAXZOV6eViTy0M29x16FN-jVJ1"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00134",
       "name": "Pop Mart X Skullpanda Image Of Reality Series Confirmed Figu",
       "price": "$12.99",
       "media": [
@@ -11434,30 +12698,46 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00056",
+      "id": "MEGA-00135",
       "name": "POP MART x Hirono Echo Series Confirmed Figure Doll",
       "price": "$11.99",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRA2nwXn08S6LXRbsDyf_2zVBHR2M-fL_hHDyVkmZpJ4fUmCKydBbAirSRaFK1KXCL9HNmk_rXzm7WMJ2cu8x_Nt7lQSkX_iHkE1RTpkEIFarcQYnqKprv2"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTqQxjicLHkkl3SS3ijjFRVBdynY-lU_MCja-7FiknTzjqSlhonWy0_cOIl8Q4WJ6JFLy5G5HNa7WRGzybpNt1Z45td_rjIHG8CzNIQNjeWrXoNG5vV6DhQ"
       ],
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00057",
+      "id": "MEGA-00136",
+      "name": "POP MART Labubu The Monsters x One Piece Series Sealed Case ",
+      "price": "$340.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR3TYX24Vv_UYqObLCc1UDuppFD9m6UhmQQWs0mne5_9VT5tqew7CiI-XY7-Apxw-Y2IER0tZ2UMAbIbBTyiGcFmYdGOoXMndhZHP93LsjXBrUiY2Zq8RBInno"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00137",
       "name": "POP MART Labubu The Monsters x One Piece Series Sealed Case ",
       "price": "$307.00",
       "media": [
@@ -11466,46 +12746,30 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Collector Grade / Authenticated",
-        "shipping": "Tracked Shipping ($24.99)",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00058",
-      "name": "POP MART Labubu The Monsters X One Piece Series Single - Bli",
-      "price": "$19.55",
-      "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR2M8diVKQLshU8maYN8T3GaT5sMJEnryD-ssIF0wnzHL5qVGr0HJmZQq3ow8iCBe-cUFQcuJl-RZ-m8pjJFY-Lr1tjPNmXpoe_aQzHNla_Xrab0UabApXCIA"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00059",
+      "id": "MEGA-00138",
       "name": "Pop Mart X Hirono Shelter Series Figures Confirmed Figure Se",
-      "price": "$99.99",
+      "price": "$95.99",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTryrA_hXO1wKBvBziCaC_fHS0QONh_9Bv0tHDzIhQ8OtT8Xlke0NaYWY5BGsHwJ8LEuF0gZkBpdXyMB2mUPWq_SlwTqPeJkEzwYzZNs_anbUl22GFOC1lPQQ"
       ],
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00060",
+      "id": "MEGA-00139",
       "name": "POP MART Labubu The Monsters x One Piece Series Sealed Case ",
       "price": "$339.00",
       "media": [
@@ -11514,14 +12778,30 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Collector Grade / Authenticated",
-        "shipping": "Tracked Shipping ($24.99)",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00061",
+      "id": "MEGA-00140",
+      "name": "Pop Mart Hirono Monsters Carnival Series Confirmed Figure Se",
+      "price": "$17.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyCBzfsVd9Qnefn1yXP7P_VfZ4j3q21YQp0dXhbRF6CSdW5d7TMqv6vzUEFgjpaI72vgra9a_Y4LBtQzE8rdtmexI_Etcgt8-1jaEnBQUyokUefsbMK5oKBg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00141",
       "name": "Pop Mart X Hirono Shelter Series Figures Confirmed Figure Se",
       "price": "$20.99",
       "media": [
@@ -11530,46 +12810,30 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
+        "condition": "Retail Mint",
         "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00062",
-      "name": "Pop Mart X Hirono Shelter Series Figures Confirmed Figure Se",
-      "price": "$12.99",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS6JYq5XjJCxcIfQo8f4psbwpdkbtFrbm3W_i_2OVm7pfWhpHHH-m88D7MLyENLATuZVjoJ8wARMDj_7Ocl9qzFjVPDWcg3KzSIVPCdjKxCZvb9ZBBYVXFS"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00063",
+      "id": "MEGA-00142",
       "name": "POP MART Care Bears Colorful Hugs Series Figure Blind Box",
-      "price": "$20.41",
+      "price": "$14.21",
       "media": [
         "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcStZxoYpX5R9aFyX0TWbPu-EcbOS_XeaFIKLQ5nO9rNVN0HODu1nbUwK3n_VP-CNc-ptbTAkcfr39TrLKw7oqGBDA8COM614EJvYvaeVz3A33j1Ulm3wapgcQ"
       ],
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
+        "condition": "Retail Mint",
         "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00064",
+      "id": "MEGA-00143",
       "name": "Pop Mart Labubu THE MONSTERS x One Piece Series Sealed Singl",
       "price": "$95.00",
       "media": [
@@ -11578,30 +12842,14 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00065",
-      "name": "POP MART Hirono Road Journal Series Plush Doll Pendant Blind",
-      "price": "$100.00",
-      "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSeXtzNIaJWbyn5B8IdQ1IR2NupoMTFHS3uvL14UHCrmdwxy_6ZvQi438wX489WeaO2P-KFVR7sJUqbACbElflHG7kJ8MJEcTZq3wf-bj8b-Ce3RgU_avEd"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00066",
+      "id": "MEGA-00144",
       "name": "POP MART The Monsters Almost Hidden Series Statue - New Toys",
       "price": "$17.00",
       "media": [
@@ -11610,14 +12858,14 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00067",
+      "id": "MEGA-00145",
       "name": "POP MART The Monsters Almost Hidden Factory Sealed AUTHENTIC",
       "price": "$22.00",
       "media": [
@@ -11626,14 +12874,14 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
+        "condition": "Retail Mint",
         "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00068",
+      "id": "MEGA-00146",
       "name": "POP MART Labubu The Monsters x One Piece Series Sealed Case ",
       "price": "$325.00",
       "media": [
@@ -11642,30 +12890,14 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Collector Grade / Authenticated",
-        "shipping": "Tracked Shipping ($24.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00069",
-      "name": "POP MART Labubu One Piece Blind Box Sabo - New Toys  Collect",
-      "price": "$30.00",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQigYTnkWigHZKTppqx9m6Gs9k4ZSzUnTQd732CTcXvCL4tzXhSGHwpnwxhu7me1RDTUMzSKGXZVKAixzZpf-FwH9pNv4a85_Uc0d-Zie8"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
+        "condition": "Retail Mint",
         "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00070",
+      "id": "MEGA-00147",
       "name": "POP MART The Monsters X One Piece Box Set - New Toys  Collec",
       "price": "$269.99",
       "media": [
@@ -11674,30 +12906,30 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($24.99)",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00071",
+      "id": "MEGA-00148",
       "name": "POP MART Fantastic Beasts Series Figures Blind Box",
-      "price": "$13.95",
+      "price": "$11.19",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRYzTrpriG-tcNzKJnyNvEVoLWK3CQVtRGI6RvjvO0t8X0WoXmIu8pfDy2AZ2nlWc8J_Tsqk3xcAjIeUd-ci-OZ_lXt2FL0fi-aOC0lfk-H6aeSrwBAnC9O"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTimooPXvl4Hj4AWducKiCvCHWT0yYETmigxP8-YsM93z7dlHwtVh_Fv1kqumAAi74rG7AL-1DQ7hHPFOcoGOwrWEK0p1X9zm3z40dxje8Wt_xPm_UrlGNnjg"
       ],
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00072",
+      "id": "MEGA-00149",
       "name": "Pop Mart X Hirono Shelter Series Figures Confirmed Figure Se",
       "price": "$9.99",
       "media": [
@@ -11706,110 +12938,62 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00073",
-      "name": "POP MART Skullpanda Image of Reality Blind Box Confirmed Fig",
-      "price": "$20.99",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRHAUkUBoioyB8sIQ5GDRKbJxVAHnRzTT79QMHuUXCUS1PTdL8pTzNzDnnHGefc6OxVeovPm0bXassNwXq3DJ5ItQhDG1VDwM8rtQL_rKTUEOkUE4O49xrj5A"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
+        "condition": "Retail Mint",
         "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00074",
-      "name": "Pop Mart Skullpanda Image Of Reality Blind Box Confirmed Fig",
-      "price": "$27.43",
-      "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS4mBOUfnB2l0a99JVKp8-VqcvZvEjMQ9J55XgbjPdMb_fNPhR2ccHci4qV2tjgA05YQcO8HthIAXcxAtJD67yku6Bqem7RKWynmUG-u6EAPwcRTX5n7fip"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00075",
-      "name": "Pop Mart X Hirono Shelter Series Figures Confirmed Figure Se",
-      "price": "$12.99",
-      "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTDJUR6XqoQc6G382KjRckMUek3NDxHpAz8ytwHTgAqApFJLHdKK2fG1l-1ul0l9bOwkl4YZ6zBOXh44NLa_QTQjYntWvLPPGFnfDjLg5ygVYZWJ6UrGmoaQA"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00076",
+      "id": "MEGA-00150",
       "name": "Pop Mart X Hirono Shelter Series Figures Confirmed Figure Se",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTscbn6WOsaJ14iKp748PRb0m5sEXmvBmC2KiKVyvWC62rRaKhMi9csVWa8sV-VBv6qwGyb-TGD-u7mcKueJM6Oz9sdTTTsoAizU7L-nRqfmrYe1XJzKMyA"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQW01exFfN5HrltTj9g1xN4pZEBVmyf-JDMxti-SzIu7arGovnxyEnyzlRx2bAHpLup4zhew-QDmCdRAMUq9xxT6cCJKnMzDZW01Ty2lOLgBiZYyIAFu6OfHA"
       ],
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
-        "market_value": "Live Google Shopping Index"
-      },
-      "status": "LIVE_MARKET_VERIFIED"
-    },
-    {
-      "id": "TRAFFIC-00077",
-      "name": "POP MART Labubu One Piece Blind Boxe - New Toys  Collectible",
-      "price": "$25.00",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR9ZwV0IEboYph8EEBdl_Fca0O_DoFcufMck9TnVPKjeKsOLCj0C1lWAJDmkdM5FZ2XFY-dvT7LPvgo25_agiOmFqJ5eaNnIUlnJsXDX3c"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
+        "condition": "Retail Mint",
         "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00078",
-      "name": "Pop Mart Hirono Tamed Wildgrass Series Confirmed Figures Sea",
-      "price": "$11.99",
+      "id": "MEGA-00151",
+      "name": "Pop Mart X Hirono Shelter Series Figures Confirmed Figure Se",
+      "price": "$9.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTQTRNIiMmbFb9fvMAWgr6x-PAabEvZwhP9vBurQvXeFGv-LfEs1T5L7mvNFiwTxYwUWhTbubSecVRFXCVJD-XiCjng98WBh4iqfLsO3WhOOCfxPIEaVMlD"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQLzwb6lSfaZtcFR3VRLKNk6pWggXOKcFjoM1ZUDCHWTV4GxTSnvQI6Uwd1i_lFupivOCEuBh0o9KngMxx_nZU_aEuns8Yvktct4EILRXgozql8OK-LiP3vfw"
       ],
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00079",
+      "id": "MEGA-00152",
+      "name": "POP MART Official Almost Hidden The Monsters - New Toys  Col",
+      "price": "$40.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQIcvkckGE_YOxkd06HnwHTKYNN156gjnFi4GTp77wB-X6wRv2wjREPzprAuAVJMdr2WCS9h-ZfOWV9bUnJpbwhqUPnrioCPKSEGhDF2P88"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00153",
       "name": "Popmart Labubu The Monsters One Piece Whole Box 1x12pcs Secr",
       "price": "$280.00",
       "media": [
@@ -11818,14 +13002,30 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($24.99)",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
-      "id": "TRAFFIC-00080",
+      "id": "MEGA-00154",
+      "name": "POP MART Hirono Road Journal Series Plush Doll Pendant Blind",
+      "price": "$30.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRpNPSoohNo3g_mt2cvXRB0_kwafjWKIyb4XgHpvNM8Gc3DInKI-ttXH7unoCRPYKonJRRX-LMI0EI5ZzoIr9vsGYQe8iD8n3YLynnr1Iqf2gYvLhrgabDI3w"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00155",
       "name": "Pop Mart Hirono Tamed Wildgrass Series Confirmed Figures Sea",
       "price": "$14.99",
       "media": [
@@ -11834,8 +13034,88 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus Pop",
-        "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00156",
+      "name": "POP MART Sculpture Almost Hidden - New Toys  Collectibles",
+      "price": "$31.59",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQFQpBe6OSGFXI-C3fVpP6106kHBVKv8v_rAjEmIkfLY8yQFxTpwFPYKuyf5X7AHfjHoUyVScVPyJd8uDJLT2GAHcA1maaoQRVkqPrsIg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00157",
+      "name": "Pop Mart Hirono Tamed Wildgrass Series Confirmed Figures Sea",
+      "price": "$15.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQZqVJc-dDzKwW6PVQNQIEcJcrPUWxlYc_qmQIvAc0XSqMtSuV5mO4RUh6RruU598cLB7yF8bmjzBina8Eq33EhZyETN-nFhrG4tYVMyrIQ9M10D2pFl2PBFA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00158",
+      "name": "POP MART Almost Hidden - The Monsters Unopened - New Toys  C",
+      "price": "$15.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQUCYdq-07kdgNFwmWh6Bvu36MYizwK8wSfXoU7BmKMcGYDcqzsAYj85EjnEB2EyqivNSo6mPVG8pDNmWR_yirFgWkxmehSRwIjLGA3REM"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00159",
+      "name": "POP MART Labubu X One Piece Blind Box 9 - New Toys  Collecti",
+      "price": "$25.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS6mSYoombQOW9JiW42LtBWIgS_ZnAuwGjo2IrCvHk5uyXk8K-vyjIAm9RjWyzVc0uFgaI5pCCv_BvSWLxyItpbMokJDCqFpsGubt7lH20"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MEGA-00160",
+      "name": "POP MART Labubu X One Piece Blind Box 5 - New Toys  Collecti",
+      "price": "$25.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS6mSYoombQOW9JiW42LtBWIgS_ZnAuwGjo2IrCvHk5uyXk8K-vyjIAm9RjWyzVc0uFgaI5pCCv_BvSWLxyItpbMokJDCqFpsGubt7lH20"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Pop",
+        "condition": "Retail Mint",
+        "shipping": "Tracked Shipping ($7.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
