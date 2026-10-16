@@ -12950,5 +12950,2265 @@ export const masterInventory: Record<string, any[]> = {
       },
       "status": "CRUCIBLE_VERIFIED"
     }
+  ],
+  "synthwave-audio": [
+    {
+      "id": "5XX-0001",
+      "name": "Hyper X Cloud Orbit S Synthwave Headset [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTBUJLSBrPoc5svzkqj32wn-IjE7izFF_z01TrlA-xjGz0c5gF3Qw63iwwj1jH_IqaFv5yenzLzFMD2p8jawmu3sfH8U9Bn2vhqnoCUXPOzZbw5qu-krT_O0A"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0002",
+      "name": "SteelSeries Arctis Pro Neon Wireless Headset [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT3CBlOe4-Dycq1hhEFITUUNrf_lFkDjqvoYlX4kFkYgHX5kWNFQnCSZx9eyer0duMw03TQfOP4qImgjJKqXPpLcDU6ika-edh19xQrj4T_t_caIi4NcxMc"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0003",
+      "name": "Audio Technica ATH-M50xBT Synthwave Edition [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTvtTcUJQ88oeVTKonKZu_GnOBwzuDK_fOk1XsgBvhnhSuv6mU_TaCF7ElHdXsOMaxw5y49vj07rFjy4SGehfafxjv4egWmlcEuvmch6h4A57OtpO-T7LcQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0004",
+      "name": "Razer Nari Ultimate Synthwave Headset [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRbhUpC6z7Mqx--X1-n9xjJgZFeNKF4Z0Kn3aMJoDE8rsyU9P0teINYbq-SA2seE2adlExIU-iuolFBUs4_cF0n2Xb7Qta4tQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0005",
+      "name": "Sennheiser HD 660 S Neon Edition Headset [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTTmEsiQoSe6cnWP82nPuNy25Z9QL8UEDHtm6dXTlsMWbUf_OHDfRhlLyJordgQ_R52yshCcRkhFn2iBfPeiMUzQ5MJ0rGTvOZUuV9hapeL"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0006",
+      "name": "Bose Quiet Comfort 35 II Synthwave Edition [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQiwPSDimLzVnpJX8m0u7poWbmxPxOUvyW4Ku-BbQ9fGC8S77w7_F1HjXA2-wQIuQ6LT1YNiLbV7iGgGMbksSBQqmj1Po5irjntMwlcF2Qzncj2XeV4Q8o-"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0007",
+      "name": "JBL Quantum ONE Neon Gaming Headset [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQf8HbFTef0RYtbePGkXbUmKp7DRHRx901_DJip8zxwLlsVvc96f5aDYKLPKpKmANo23RSZ9CheD3Xbp40cXpaWP7iplBT-OOmhMEfE9oGMwsI027O9pn36"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0008",
+      "name": "Philips Fidelio X3 Synthwave Edition Headset [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSD_Eyv-qe_OkLiQzF4WgGCzv0AfL2tw0McPWC6Ljxmy9a9giXzIFor-A0ZrICvJoc8PfAL3d7JoOUWS0Q1fOhvjmhSYmEGr3OUw8SwryTi7d1mv2FSi6LoGg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0009",
+      "name": "Sony WH-1000XM4 Neon Wireless Headset [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRy2O7yBgczLeuK4ueyGwuy8lcpLpLrdwRWQ_6rCHtqxiwUbF34dkSpfuvIuaQ0SlW1TasrclL8SbxCDq1zjg39AS0qSH5usCtpoScEH8U"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0010",
+      "name": "Bang & Olufsen Beoplay H9 3rd Gen Synthwave Edition [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR3esLqQw8kPTZLx-PuRz1jNYDCGoBJQq3GZAwNcOArBfAg6PHCha3PD5wSwCi96u637VgEdVTKtfeumn4bIDxcraWobgVXuJFO_yvVwLH6WdluLLg34TpKVA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0011",
+      "name": "Hyper X Cloud Orbit S Synthwave Headset [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTBUJLSBrPoc5svzkqj32wn-IjE7izFF_z01TrlA-xjGz0c5gF3Qw63iwwj1jH_IqaFv5yenzLzFMD2p8jawmu3sfH8U9Bn2vhqnoCUXPOzZbw5qu-krT_O0A"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0012",
+      "name": "SteelSeries Arctis Pro Neon Wireless Headset [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT3CBlOe4-Dycq1hhEFITUUNrf_lFkDjqvoYlX4kFkYgHX5kWNFQnCSZx9eyer0duMw03TQfOP4qImgjJKqXPpLcDU6ika-edh19xQrj4T_t_caIi4NcxMc"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0013",
+      "name": "Audio Technica ATH-M50xBT Synthwave Edition [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTvtTcUJQ88oeVTKonKZu_GnOBwzuDK_fOk1XsgBvhnhSuv6mU_TaCF7ElHdXsOMaxw5y49vj07rFjy4SGehfafxjv4egWmlcEuvmch6h4A57OtpO-T7LcQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0014",
+      "name": "Razer Nari Ultimate Synthwave Headset [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRbhUpC6z7Mqx--X1-n9xjJgZFeNKF4Z0Kn3aMJoDE8rsyU9P0teINYbq-SA2seE2adlExIU-iuolFBUs4_cF0n2Xb7Qta4tQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0015",
+      "name": "Sennheiser HD 660 S Neon Edition Headset [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTTmEsiQoSe6cnWP82nPuNy25Z9QL8UEDHtm6dXTlsMWbUf_OHDfRhlLyJordgQ_R52yshCcRkhFn2iBfPeiMUzQ5MJ0rGTvOZUuV9hapeL"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0016",
+      "name": "Bose Quiet Comfort 35 II Synthwave Edition [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQiwPSDimLzVnpJX8m0u7poWbmxPxOUvyW4Ku-BbQ9fGC8S77w7_F1HjXA2-wQIuQ6LT1YNiLbV7iGgGMbksSBQqmj1Po5irjntMwlcF2Qzncj2XeV4Q8o-"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0017",
+      "name": "JBL Quantum ONE Neon Gaming Headset [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQf8HbFTef0RYtbePGkXbUmKp7DRHRx901_DJip8zxwLlsVvc96f5aDYKLPKpKmANo23RSZ9CheD3Xbp40cXpaWP7iplBT-OOmhMEfE9oGMwsI027O9pn36"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0018",
+      "name": "Philips Fidelio X3 Synthwave Edition Headset [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSD_Eyv-qe_OkLiQzF4WgGCzv0AfL2tw0McPWC6Ljxmy9a9giXzIFor-A0ZrICvJoc8PfAL3d7JoOUWS0Q1fOhvjmhSYmEGr3OUw8SwryTi7d1mv2FSi6LoGg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0019",
+      "name": "Sony WH-1000XM4 Neon Wireless Headset [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRy2O7yBgczLeuK4ueyGwuy8lcpLpLrdwRWQ_6rCHtqxiwUbF34dkSpfuvIuaQ0SlW1TasrclL8SbxCDq1zjg39AS0qSH5usCtpoScEH8U"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0020",
+      "name": "Bang & Olufsen Beoplay H9 3rd Gen Synthwave Edition [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR3esLqQw8kPTZLx-PuRz1jNYDCGoBJQq3GZAwNcOArBfAg6PHCha3PD5wSwCi96u637VgEdVTKtfeumn4bIDxcraWobgVXuJFO_yvVwLH6WdluLLg34TpKVA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0021",
+      "name": "Hyper X Cloud Orbit S Synthwave Headset [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTBUJLSBrPoc5svzkqj32wn-IjE7izFF_z01TrlA-xjGz0c5gF3Qw63iwwj1jH_IqaFv5yenzLzFMD2p8jawmu3sfH8U9Bn2vhqnoCUXPOzZbw5qu-krT_O0A"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0022",
+      "name": "SteelSeries Arctis Pro Neon Wireless Headset [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT3CBlOe4-Dycq1hhEFITUUNrf_lFkDjqvoYlX4kFkYgHX5kWNFQnCSZx9eyer0duMw03TQfOP4qImgjJKqXPpLcDU6ika-edh19xQrj4T_t_caIi4NcxMc"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0023",
+      "name": "Audio Technica ATH-M50xBT Synthwave Edition [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTvtTcUJQ88oeVTKonKZu_GnOBwzuDK_fOk1XsgBvhnhSuv6mU_TaCF7ElHdXsOMaxw5y49vj07rFjy4SGehfafxjv4egWmlcEuvmch6h4A57OtpO-T7LcQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0024",
+      "name": "Razer Nari Ultimate Synthwave Headset [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRbhUpC6z7Mqx--X1-n9xjJgZFeNKF4Z0Kn3aMJoDE8rsyU9P0teINYbq-SA2seE2adlExIU-iuolFBUs4_cF0n2Xb7Qta4tQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0025",
+      "name": "Sennheiser HD 660 S Neon Edition Headset [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTTmEsiQoSe6cnWP82nPuNy25Z9QL8UEDHtm6dXTlsMWbUf_OHDfRhlLyJordgQ_R52yshCcRkhFn2iBfPeiMUzQ5MJ0rGTvOZUuV9hapeL"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0026",
+      "name": "Bose Quiet Comfort 35 II Synthwave Edition [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQiwPSDimLzVnpJX8m0u7poWbmxPxOUvyW4Ku-BbQ9fGC8S77w7_F1HjXA2-wQIuQ6LT1YNiLbV7iGgGMbksSBQqmj1Po5irjntMwlcF2Qzncj2XeV4Q8o-"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0027",
+      "name": "JBL Quantum ONE Neon Gaming Headset [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQf8HbFTef0RYtbePGkXbUmKp7DRHRx901_DJip8zxwLlsVvc96f5aDYKLPKpKmANo23RSZ9CheD3Xbp40cXpaWP7iplBT-OOmhMEfE9oGMwsI027O9pn36"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0028",
+      "name": "Philips Fidelio X3 Synthwave Edition Headset [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSD_Eyv-qe_OkLiQzF4WgGCzv0AfL2tw0McPWC6Ljxmy9a9giXzIFor-A0ZrICvJoc8PfAL3d7JoOUWS0Q1fOhvjmhSYmEGr3OUw8SwryTi7d1mv2FSi6LoGg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0029",
+      "name": "Sony WH-1000XM4 Neon Wireless Headset [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRy2O7yBgczLeuK4ueyGwuy8lcpLpLrdwRWQ_6rCHtqxiwUbF34dkSpfuvIuaQ0SlW1TasrclL8SbxCDq1zjg39AS0qSH5usCtpoScEH8U"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0030",
+      "name": "Bang & Olufsen Beoplay H9 3rd Gen Synthwave Edition [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR3esLqQw8kPTZLx-PuRz1jNYDCGoBJQq3GZAwNcOArBfAg6PHCha3PD5wSwCi96u637VgEdVTKtfeumn4bIDxcraWobgVXuJFO_yvVwLH6WdluLLg34TpKVA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    }
+  ],
+  "stealth-tech": [
+    {
+      "id": "5XX-0031",
+      "name": "1. Cloaking Device Suit: A suit that uses light-bending technology to make the wearer invisible. [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0032",
+      "name": "2. Proximity Hacking Tool: A small device capable of remotely hacking into any electronic system within a certain radius. [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRWOKP18snm7jatAEhGKpSABGHhLfynvU6y7tO4X20RDhjtA0Ql4QojUbigk_YHgaY5M4HmfjN-M9q9se8sUaiNaCNg5Si-evy6iDjwLXroe2vwPsPUXt25"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0033",
+      "name": "3. Nano-Drone Swarm: A group of tiny, flying drones equipped with cameras and other surveillance tools. [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0034",
+      "name": "4. Holo-Decoy Projector: A device that creates a realistic holographic decoy of the user, used for misdirection or distraction. [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSxNl8JbbJIKJH688XrMx-Mkv-knTaRBsAQijKJ9ikNRPqKF0G6"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0035",
+      "name": "5. Teleportation Belt: A wearable device that allows the user to teleport short distances. [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0036",
+      "name": "6. Neural Interface Helmet: A helmet that provides direct neural interface with various electronic systems. [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRbl6BvoRwHEn8QGlC7gp13kFcqjwuvTu8utahXwMY7KHVyXoDjiaeu45-PNtfo66dM5S1U0afdvE0lzliEhW66mIygLrU86wdPRCy6KqtBBhXYXlKKJxGM"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0037",
+      "name": "7. Quantum Lockpick: A device capable of unlocking any mechanical or electronic lock by manipulating the quantum state of its components. [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0038",
+      "name": "8. Augmented Reality Contact Lenses: Lenses that provide a heads-up display with real-time information, facial recognition, and other data overlays. [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0039",
+      "name": "9. Plasmatic Grappling Hook: A device that fires a beam of plasma which solidifies into a rope-like structure, capable of supporting the weight of a human. [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS8DnRK8eEQKVbL0v_F9F3osFbUzqWRcL5PVyCEwB125RcX-tU_kjK6yFN4P2LuLmTicZLG_4c"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0040",
+      "name": "10. Psionic Amplifier: A device that enhances the user's psychic abilities, such as telepathy or telekinesis. [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQvAOLR9DMPvHHiB-nYpQBxfyk4hwfv-GJ2k0bxDfTad9IGVwzIDUSojW5y6Dznvr2w1V-01sDj4xSuJS4jGIfju3Piq9yqJNEaIgeF_-PZ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0041",
+      "name": "1. Cloaking Device Suit: A suit that uses light-bending technology to make the wearer invisible. [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0042",
+      "name": "2. Proximity Hacking Tool: A small device capable of remotely hacking into any electronic system within a certain radius. [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRWOKP18snm7jatAEhGKpSABGHhLfynvU6y7tO4X20RDhjtA0Ql4QojUbigk_YHgaY5M4HmfjN-M9q9se8sUaiNaCNg5Si-evy6iDjwLXroe2vwPsPUXt25"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0043",
+      "name": "3. Nano-Drone Swarm: A group of tiny, flying drones equipped with cameras and other surveillance tools. [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0044",
+      "name": "4. Holo-Decoy Projector: A device that creates a realistic holographic decoy of the user, used for misdirection or distraction. [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSxNl8JbbJIKJH688XrMx-Mkv-knTaRBsAQijKJ9ikNRPqKF0G6"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0045",
+      "name": "5. Teleportation Belt: A wearable device that allows the user to teleport short distances. [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0046",
+      "name": "6. Neural Interface Helmet: A helmet that provides direct neural interface with various electronic systems. [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRbl6BvoRwHEn8QGlC7gp13kFcqjwuvTu8utahXwMY7KHVyXoDjiaeu45-PNtfo66dM5S1U0afdvE0lzliEhW66mIygLrU86wdPRCy6KqtBBhXYXlKKJxGM"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0047",
+      "name": "7. Quantum Lockpick: A device capable of unlocking any mechanical or electronic lock by manipulating the quantum state of its components. [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0048",
+      "name": "8. Augmented Reality Contact Lenses: Lenses that provide a heads-up display with real-time information, facial recognition, and other data overlays. [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0049",
+      "name": "9. Plasmatic Grappling Hook: A device that fires a beam of plasma which solidifies into a rope-like structure, capable of supporting the weight of a human. [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS8DnRK8eEQKVbL0v_F9F3osFbUzqWRcL5PVyCEwB125RcX-tU_kjK6yFN4P2LuLmTicZLG_4c"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0050",
+      "name": "10. Psionic Amplifier: A device that enhances the user's psychic abilities, such as telepathy or telekinesis. [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQvAOLR9DMPvHHiB-nYpQBxfyk4hwfv-GJ2k0bxDfTad9IGVwzIDUSojW5y6Dznvr2w1V-01sDj4xSuJS4jGIfju3Piq9yqJNEaIgeF_-PZ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0051",
+      "name": "1. Cloaking Device Suit: A suit that uses light-bending technology to make the wearer invisible. [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0052",
+      "name": "2. Proximity Hacking Tool: A small device capable of remotely hacking into any electronic system within a certain radius. [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRWOKP18snm7jatAEhGKpSABGHhLfynvU6y7tO4X20RDhjtA0Ql4QojUbigk_YHgaY5M4HmfjN-M9q9se8sUaiNaCNg5Si-evy6iDjwLXroe2vwPsPUXt25"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0053",
+      "name": "3. Nano-Drone Swarm: A group of tiny, flying drones equipped with cameras and other surveillance tools. [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0054",
+      "name": "4. Holo-Decoy Projector: A device that creates a realistic holographic decoy of the user, used for misdirection or distraction. [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSxNl8JbbJIKJH688XrMx-Mkv-knTaRBsAQijKJ9ikNRPqKF0G6"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0055",
+      "name": "5. Teleportation Belt: A wearable device that allows the user to teleport short distances. [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0056",
+      "name": "6. Neural Interface Helmet: A helmet that provides direct neural interface with various electronic systems. [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRbl6BvoRwHEn8QGlC7gp13kFcqjwuvTu8utahXwMY7KHVyXoDjiaeu45-PNtfo66dM5S1U0afdvE0lzliEhW66mIygLrU86wdPRCy6KqtBBhXYXlKKJxGM"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0057",
+      "name": "7. Quantum Lockpick: A device capable of unlocking any mechanical or electronic lock by manipulating the quantum state of its components. [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0058",
+      "name": "8. Augmented Reality Contact Lenses: Lenses that provide a heads-up display with real-time information, facial recognition, and other data overlays. [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0059",
+      "name": "9. Plasmatic Grappling Hook: A device that fires a beam of plasma which solidifies into a rope-like structure, capable of supporting the weight of a human. [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS8DnRK8eEQKVbL0v_F9F3osFbUzqWRcL5PVyCEwB125RcX-tU_kjK6yFN4P2LuLmTicZLG_4c"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0060",
+      "name": "10. Psionic Amplifier: A device that enhances the user's psychic abilities, such as telepathy or telekinesis. [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQvAOLR9DMPvHHiB-nYpQBxfyk4hwfv-GJ2k0bxDfTad9IGVwzIDUSojW5y6Dznvr2w1V-01sDj4xSuJS4jGIfju3Piq9yqJNEaIgeF_-PZ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    }
+  ],
+  "techwear-tailor": [
+    {
+      "id": "5XX-0061",
+      "name": "LED Illuminated Hoodie [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTbwlogWDkBijISs9nAFwYhIAk_T14UK5NTqcBdyrmuyQ2gps2BbF4qqSJtVYoEMTK2yvQ0XlFzYaDDyX_lH_-IB2yDoaLm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0062",
+      "name": "Neon-Accented Tech Bomber Jacket [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR0-MO-3mpJ114m80zEdWTdz0apwNYAXx7ynaFgJrd0n3BBXH2hLQqgvSmNoJuLwyPpsARtfNXTMTrGFt6fvtuood8qbTkf4eEZHxw9eesY1u3NAHURhGDt"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0063",
+      "name": "Digital Display Smart Glasses [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTIB1HHEvpteqyUN89YO7qnbJK4FE6Z7Aanz1KCZnfkIjBvyQoklbzhBqaaG7nNAfJosr-rwr1zUeCZP2iNll-hCRkhhv3It_3BDIfFMQDHQGQI9Ezpa7SpxQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0064",
+      "name": "Holographic Projection Gloves [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRZVgNycYpszbR3hy2iTU0KnML3hzuK6w6gwUt5zxhhWoM_df7cJSnxjSLzVJPmacPT7RHRzxzAYBBT7rWraIF9P8QJsMcuyqXUKgqiaBH5HZCzLlmn6BPtWQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0065",
+      "name": "Voice-Controlled Cybernetic Boots [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0066",
+      "name": "Self-Heating Windbreaker [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRbjq32R-xGG4MNPfztQRmrkUZwUU6j_vjY7yCI687kGRoFyw1kgbc3gnPRSxZWF8yU-luRlafH_---wpMOJISjNytcSt2l0FY0xQzcBuc-Ozm2QvOfeERM4A"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0067",
+      "name": "AI-Integrated Smart Watch [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT2Pidw1ui1tYPJ_vN6a7DIzUsuGW1enN6Yq1MKzkes37AaJ2H_M7TXLL_qhWAkmcwC5ZpY6ihjphLjRlfbTtQDUmRx_o0e6bGYLbgWr8ZKSdc-MdCnlupISQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0068",
+      "name": "Augmented Reality Contact Lenses [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0069",
+      "name": "Thermo-regulated Nano-fabric Pants [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ4HVww64p-VDw4SsCydMX0PXLPvRV7SLGPxidNg_ShQ5t0ArMIOpUsPHdq8LO_4yWhwhbYezgXXmyhz1Zlc46ZpQJ-YXu9_B2ATBk1fxtKKgtwBXRztsle"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0070",
+      "name": "Kinetic Energy Charging Backpack [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT9qMmpoNlAKI62K3_QaDGE8MlVONXNGQi5dd2IuO1NkRiFYmTpu5aQHUhKmyEaPozmjZiXku1cbCZGNAqTmKP5ONc0Ki7ANjeTqaPk3OwU-4sFRx5EgSpf"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0071",
+      "name": "LED Illuminated Hoodie [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTbwlogWDkBijISs9nAFwYhIAk_T14UK5NTqcBdyrmuyQ2gps2BbF4qqSJtVYoEMTK2yvQ0XlFzYaDDyX_lH_-IB2yDoaLm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0072",
+      "name": "Neon-Accented Tech Bomber Jacket [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR0-MO-3mpJ114m80zEdWTdz0apwNYAXx7ynaFgJrd0n3BBXH2hLQqgvSmNoJuLwyPpsARtfNXTMTrGFt6fvtuood8qbTkf4eEZHxw9eesY1u3NAHURhGDt"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0073",
+      "name": "Digital Display Smart Glasses [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTIB1HHEvpteqyUN89YO7qnbJK4FE6Z7Aanz1KCZnfkIjBvyQoklbzhBqaaG7nNAfJosr-rwr1zUeCZP2iNll-hCRkhhv3It_3BDIfFMQDHQGQI9Ezpa7SpxQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0074",
+      "name": "Holographic Projection Gloves [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRZVgNycYpszbR3hy2iTU0KnML3hzuK6w6gwUt5zxhhWoM_df7cJSnxjSLzVJPmacPT7RHRzxzAYBBT7rWraIF9P8QJsMcuyqXUKgqiaBH5HZCzLlmn6BPtWQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0075",
+      "name": "Voice-Controlled Cybernetic Boots [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0076",
+      "name": "Self-Heating Windbreaker [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRbjq32R-xGG4MNPfztQRmrkUZwUU6j_vjY7yCI687kGRoFyw1kgbc3gnPRSxZWF8yU-luRlafH_---wpMOJISjNytcSt2l0FY0xQzcBuc-Ozm2QvOfeERM4A"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0077",
+      "name": "AI-Integrated Smart Watch [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT2Pidw1ui1tYPJ_vN6a7DIzUsuGW1enN6Yq1MKzkes37AaJ2H_M7TXLL_qhWAkmcwC5ZpY6ihjphLjRlfbTtQDUmRx_o0e6bGYLbgWr8ZKSdc-MdCnlupISQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0078",
+      "name": "Augmented Reality Contact Lenses [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQxj-ESiuShsP7VHgbpoL2HUGSPdAZNcSAbOzk-T0c_mbFSTA1FrwhZx3HVfmrRDYXP1RwXD26Xn3PVnGaJdZTPp2KFVR5eIqVd_qWJfIjvwfKregW8fLl20Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0079",
+      "name": "Thermo-regulated Nano-fabric Pants [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ4HVww64p-VDw4SsCydMX0PXLPvRV7SLGPxidNg_ShQ5t0ArMIOpUsPHdq8LO_4yWhwhbYezgXXmyhz1Zlc46ZpQJ-YXu9_B2ATBk1fxtKKgtwBXRztsle"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0080",
+      "name": "Kinetic Energy Charging Backpack [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT9qMmpoNlAKI62K3_QaDGE8MlVONXNGQi5dd2IuO1NkRiFYmTpu5aQHUhKmyEaPozmjZiXku1cbCZGNAqTmKP5ONc0Ki7ANjeTqaPk3OwU-4sFRx5EgSpf"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0081",
+      "name": "LED Illuminated Hoodie [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTbwlogWDkBijISs9nAFwYhIAk_T14UK5NTqcBdyrmuyQ2gps2BbF4qqSJtVYoEMTK2yvQ0XlFzYaDDyX_lH_-IB2yDoaLm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0082",
+      "name": "Neon-Accented Tech Bomber Jacket [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR0-MO-3mpJ114m80zEdWTdz0apwNYAXx7ynaFgJrd0n3BBXH2hLQqgvSmNoJuLwyPpsARtfNXTMTrGFt6fvtuood8qbTkf4eEZHxw9eesY1u3NAHURhGDt"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0083",
+      "name": "Digital Display Smart Glasses [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTIB1HHEvpteqyUN89YO7qnbJK4FE6Z7Aanz1KCZnfkIjBvyQoklbzhBqaaG7nNAfJosr-rwr1zUeCZP2iNll-hCRkhhv3It_3BDIfFMQDHQGQI9Ezpa7SpxQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0084",
+      "name": "Holographic Projection Gloves [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRZVgNycYpszbR3hy2iTU0KnML3hzuK6w6gwUt5zxhhWoM_df7cJSnxjSLzVJPmacPT7RHRzxzAYBBT7rWraIF9P8QJsMcuyqXUKgqiaBH5HZCzLlmn6BPtWQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0085",
+      "name": "Voice-Controlled Cybernetic Boots [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0086",
+      "name": "Self-Heating Windbreaker [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRbjq32R-xGG4MNPfztQRmrkUZwUU6j_vjY7yCI687kGRoFyw1kgbc3gnPRSxZWF8yU-luRlafH_---wpMOJISjNytcSt2l0FY0xQzcBuc-Ozm2QvOfeERM4A"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0087",
+      "name": "AI-Integrated Smart Watch [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT2Pidw1ui1tYPJ_vN6a7DIzUsuGW1enN6Yq1MKzkes37AaJ2H_M7TXLL_qhWAkmcwC5ZpY6ihjphLjRlfbTtQDUmRx_o0e6bGYLbgWr8ZKSdc-MdCnlupISQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0088",
+      "name": "Augmented Reality Contact Lenses [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQxj-ESiuShsP7VHgbpoL2HUGSPdAZNcSAbOzk-T0c_mbFSTA1FrwhZx3HVfmrRDYXP1RwXD26Xn3PVnGaJdZTPp2KFVR5eIqVd_qWJfIjvwfKregW8fLl20Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0089",
+      "name": "Thermo-regulated Nano-fabric Pants [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ4HVww64p-VDw4SsCydMX0PXLPvRV7SLGPxidNg_ShQ5t0ArMIOpUsPHdq8LO_4yWhwhbYezgXXmyhz1Zlc46ZpQJ-YXu9_B2ATBk1fxtKKgtwBXRztsle"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0090",
+      "name": "Kinetic Energy Charging Backpack [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT9qMmpoNlAKI62K3_QaDGE8MlVONXNGQi5dd2IuO1NkRiFYmTpu5aQHUhKmyEaPozmjZiXku1cbCZGNAqTmKP5ONc0Ki7ANjeTqaPk3OwU-4sFRx5EgSpf"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    }
+  ],
+  "vr-immersion-bay": [
+    {
+      "id": "5XX-0091",
+      "name": "Teslasuit [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSjal2bNu9KOkCZaulqSXR5dhGKdwNx2D2LQZ4ld_9EUHCar9yNjsWo80_MKc6wI_Q87b3oWPPb1ymgiKGwPug726dPKuWya5DxJLCWolACTjz2xXlhllAo"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0092",
+      "name": "bHaptics Tactsuit X40 [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ4ZtLom3iXur62E_uaHOyl7C6_w-slcCqfF_P-enwl7pllrGv62C9FwHImHuQZXpGdLa3Jo8FgWoHQyLjp6ApRGTmoGd5vqS_7MOj3ZKhS8W2aZXzzXUfg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0093",
+      "name": "bHaptics Tactsuit X16 [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSCZxlkFyb1BWVhuDK_AyvSuNIF-iZpk6d5d-0oJlKj-sEl5aaFAtwEi1a6yZGT6US5Q8nblZK8unLZou884JXVmMXsZzefLkrSbiYo3IN069iXeT-yIGAC"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0094",
+      "name": "Hardlight VR Suit [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcROBc6SivJz4YqE5GvPfWbb8wGBPGO8IrHL1bd3mNLBHGAfddU-4fKXf4fmNQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0095",
+      "name": "Nullspace VR Mark 2 Suit [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTxFaKjLgTB9ckHYrGBYe5Qsw8RtI3Hx6L45KDV9q-i5VkJ2h60gRgPuQMXVwrhKeVMu6HrOXbwBlktTsG8CeYTYXGFz4_laJzkOU5ckWc"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0096",
+      "name": "Woojer Vest Pro [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRiLI1pZpkyJp1YFvgKmn4WFp_i9T7VoNmAwPRnDgRDNedx4aiAgnr94qzOrWbmGZXGwCjvEGVhJ8ZObtJ1EypIBEFEV2EH2hj-lydtP4tVB3wQfootxynelA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0097",
+      "name": "Araig Multi-Sensory Feedback Suit [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR4gNN7LjWFYJ1Ub_Xt6zRAx8diVGYCgI_PNgMa8imANpf4MRGpPsXjIVmKjyCvh9Pqw6-hzvrGcJh5OvH_3j4DxAl9KLFsAQIS8yTC2f7lO5nLu2jKDqf0"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0098",
+      "name": "HoloSuit [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQh-WZ7JPXO4N-VInnlBSFsTa5xmOt4tXDZbcl0DCLPJPfmOW9DFf8Rs8YkrdHUp_VEucoXP2mD-R0OafBcJ489MGm7k6V_7335MubPp1tUmfqMD7q8bfsk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0099",
+      "name": "Razer Hydra Motion Controller [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQXcVachD5GM4ehvNBnm-nzSV2y54dsY7N6PdlPl7goaJJCZrbLNgD6zCT8SC6-F9K1izIk4Y2s9ueKA3FFnEhuchRCU4B4cRhIEsdTXgg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0100",
+      "name": "3DRudder Foot Motion Controller [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQLhVqOdBGfL063632LQy9321wGjqsZgS7I9TbZ1jK7KK_x1jSH3Awee3wGLXy022BZvfibyRqd-tWWAE6YLzkj8wOuEcl4tA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0101",
+      "name": "Teslasuit [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSjal2bNu9KOkCZaulqSXR5dhGKdwNx2D2LQZ4ld_9EUHCar9yNjsWo80_MKc6wI_Q87b3oWPPb1ymgiKGwPug726dPKuWya5DxJLCWolACTjz2xXlhllAo"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0102",
+      "name": "bHaptics Tactsuit X40 [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ4ZtLom3iXur62E_uaHOyl7C6_w-slcCqfF_P-enwl7pllrGv62C9FwHImHuQZXpGdLa3Jo8FgWoHQyLjp6ApRGTmoGd5vqS_7MOj3ZKhS8W2aZXzzXUfg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0103",
+      "name": "bHaptics Tactsuit X16 [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSCZxlkFyb1BWVhuDK_AyvSuNIF-iZpk6d5d-0oJlKj-sEl5aaFAtwEi1a6yZGT6US5Q8nblZK8unLZou884JXVmMXsZzefLkrSbiYo3IN069iXeT-yIGAC"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0104",
+      "name": "Hardlight VR Suit [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcROBc6SivJz4YqE5GvPfWbb8wGBPGO8IrHL1bd3mNLBHGAfddU-4fKXf4fmNQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0105",
+      "name": "Nullspace VR Mark 2 Suit [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTxFaKjLgTB9ckHYrGBYe5Qsw8RtI3Hx6L45KDV9q-i5VkJ2h60gRgPuQMXVwrhKeVMu6HrOXbwBlktTsG8CeYTYXGFz4_laJzkOU5ckWc"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0106",
+      "name": "Woojer Vest Pro [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRiLI1pZpkyJp1YFvgKmn4WFp_i9T7VoNmAwPRnDgRDNedx4aiAgnr94qzOrWbmGZXGwCjvEGVhJ8ZObtJ1EypIBEFEV2EH2hj-lydtP4tVB3wQfootxynelA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0107",
+      "name": "Araig Multi-Sensory Feedback Suit [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR4gNN7LjWFYJ1Ub_Xt6zRAx8diVGYCgI_PNgMa8imANpf4MRGpPsXjIVmKjyCvh9Pqw6-hzvrGcJh5OvH_3j4DxAl9KLFsAQIS8yTC2f7lO5nLu2jKDqf0"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0108",
+      "name": "HoloSuit [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQh-WZ7JPXO4N-VInnlBSFsTa5xmOt4tXDZbcl0DCLPJPfmOW9DFf8Rs8YkrdHUp_VEucoXP2mD-R0OafBcJ489MGm7k6V_7335MubPp1tUmfqMD7q8bfsk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0109",
+      "name": "Razer Hydra Motion Controller [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQXcVachD5GM4ehvNBnm-nzSV2y54dsY7N6PdlPl7goaJJCZrbLNgD6zCT8SC6-F9K1izIk4Y2s9ueKA3FFnEhuchRCU4B4cRhIEsdTXgg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0110",
+      "name": "3DRudder Foot Motion Controller [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQLhVqOdBGfL063632LQy9321wGjqsZgS7I9TbZ1jK7KK_x1jSH3Awee3wGLXy022BZvfibyRqd-tWWAE6YLzkj8wOuEcl4tA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0111",
+      "name": "Teslasuit [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSjal2bNu9KOkCZaulqSXR5dhGKdwNx2D2LQZ4ld_9EUHCar9yNjsWo80_MKc6wI_Q87b3oWPPb1ymgiKGwPug726dPKuWya5DxJLCWolACTjz2xXlhllAo"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0112",
+      "name": "bHaptics Tactsuit X40 [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ4ZtLom3iXur62E_uaHOyl7C6_w-slcCqfF_P-enwl7pllrGv62C9FwHImHuQZXpGdLa3Jo8FgWoHQyLjp6ApRGTmoGd5vqS_7MOj3ZKhS8W2aZXzzXUfg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0113",
+      "name": "bHaptics Tactsuit X16 [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSCZxlkFyb1BWVhuDK_AyvSuNIF-iZpk6d5d-0oJlKj-sEl5aaFAtwEi1a6yZGT6US5Q8nblZK8unLZou884JXVmMXsZzefLkrSbiYo3IN069iXeT-yIGAC"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0114",
+      "name": "Hardlight VR Suit [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcROBc6SivJz4YqE5GvPfWbb8wGBPGO8IrHL1bd3mNLBHGAfddU-4fKXf4fmNQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0115",
+      "name": "Nullspace VR Mark 2 Suit [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTxFaKjLgTB9ckHYrGBYe5Qsw8RtI3Hx6L45KDV9q-i5VkJ2h60gRgPuQMXVwrhKeVMu6HrOXbwBlktTsG8CeYTYXGFz4_laJzkOU5ckWc"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0116",
+      "name": "Woojer Vest Pro [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRiLI1pZpkyJp1YFvgKmn4WFp_i9T7VoNmAwPRnDgRDNedx4aiAgnr94qzOrWbmGZXGwCjvEGVhJ8ZObtJ1EypIBEFEV2EH2hj-lydtP4tVB3wQfootxynelA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0117",
+      "name": "Araig Multi-Sensory Feedback Suit [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR4gNN7LjWFYJ1Ub_Xt6zRAx8diVGYCgI_PNgMa8imANpf4MRGpPsXjIVmKjyCvh9Pqw6-hzvrGcJh5OvH_3j4DxAl9KLFsAQIS8yTC2f7lO5nLu2jKDqf0"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0118",
+      "name": "HoloSuit [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQh-WZ7JPXO4N-VInnlBSFsTa5xmOt4tXDZbcl0DCLPJPfmOW9DFf8Rs8YkrdHUp_VEucoXP2mD-R0OafBcJ489MGm7k6V_7335MubPp1tUmfqMD7q8bfsk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0119",
+      "name": "Razer Hydra Motion Controller [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQXcVachD5GM4ehvNBnm-nzSV2y54dsY7N6PdlPl7goaJJCZrbLNgD6zCT8SC6-F9K1izIk4Y2s9ueKA3FFnEhuchRCU4B4cRhIEsdTXgg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0120",
+      "name": "3DRudder Foot Motion Controller [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQLhVqOdBGfL063632LQy9321wGjqsZgS7I9TbZ1jK7KK_x1jSH3Awee3wGLXy022BZvfibyRqd-tWWAE6YLzkj8wOuEcl4tA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    }
+  ],
+  "synth-food-replicators": [
+    {
+      "id": "5XX-0121",
+      "name": "3D Food Printer [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSlw87IO1VQw41k0gJ795jcf1ZGpou1roaHynNkVdpXis1rAScyVJ_2j8Hvm6DyFPxfx2Z6SkuErRjnq5k4Oo8Pn5vtn7IaTQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0122",
+      "name": "Intelligent refrigerator with biometric access [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSnCm9J2CbTvC2B9g-AX07yggD1LmxGy9wRCF9Xa4pIOuX8ypScKhn5Df4I2cUHEuFZPMXF8RVNnURnWNdYGbcDge07iOdipl8IDoJISnCc"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0123",
+      "name": "Automated Chef Robot [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSNmrGhptZi6RoVrccLQX2Ake10_z4g90F80ZKxCNA1Q9HRpxy_piJyd2EZWf0ph1Ln6w21RLfvK9Zq3KPhfs79mvCqSLqKPMaGSfn5eTq2Y4rC0kFKbEKvnA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0124",
+      "name": "Holographic recipe projector [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR85zqU7PVYQjjY-wCBIReRJC62LvYebufafJ7Z3r8JhrKJq4qxA2McnFsXpphUYJMBAcwPCfo"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0125",
+      "name": "Nutrient Analyzer [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT0rM4axF60mCLALgTiDVM_UDR8a3lzi1X-YoWe7IwyvZcq5ppnQlGNEMCffnwcLMuMIQOj4q7WPg9lPp1VHB8XSYIejC92mnHnb7LBUAxoJkakzdXZuBYm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0126",
+      "name": "AI integrated food waste converter [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS86yXmYMg_L9ZKFw1WvVxksYYiCuVUQZOjokC_7w9q5rV8mpOQypvkY-iYw6NYuecsiHqk9Ne9uUUi_UkOUYseA02SizuDTZ0K9EyFr9yae4_X_hBa54lP"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0127",
+      "name": "Laser knife with heat adjustment [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRMfjvBNpVBDCKaLIZEs4j5HzBiXoe8bLWd2MB4OJ9NrIbbHqM5DauL1Z1m-3TutBARj5GKyy49r_xaqalRLkh9t4uiOz-jGxg-ZRM7D5jY"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0128",
+      "name": "Molecular Gastronomy kit [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSL1hqH3h1Dam-BAnr1GXP8ZJ8lAQstEbOt8WjRU4NapP1RpqMtG6WCAFVsOYP83anrxJyQFpPlsyOII9J1K2E8ZoKzbu_c3mdx7ZfiwRzmj5ZyOO0j902mhA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0129",
+      "name": "Thermoelectric Stove [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0130",
+      "name": "Bio-engineered food cultivator [STANDARD]",
+      "price": "$29.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Retail Mint",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0131",
+      "name": "3D Food Printer [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSlw87IO1VQw41k0gJ795jcf1ZGpou1roaHynNkVdpXis1rAScyVJ_2j8Hvm6DyFPxfx2Z6SkuErRjnq5k4Oo8Pn5vtn7IaTQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0132",
+      "name": "Intelligent refrigerator with biometric access [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSnCm9J2CbTvC2B9g-AX07yggD1LmxGy9wRCF9Xa4pIOuX8ypScKhn5Df4I2cUHEuFZPMXF8RVNnURnWNdYGbcDge07iOdipl8IDoJISnCc"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0133",
+      "name": "Automated Chef Robot [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSNmrGhptZi6RoVrccLQX2Ake10_z4g90F80ZKxCNA1Q9HRpxy_piJyd2EZWf0ph1Ln6w21RLfvK9Zq3KPhfs79mvCqSLqKPMaGSfn5eTq2Y4rC0kFKbEKvnA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0134",
+      "name": "Holographic recipe projector [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR85zqU7PVYQjjY-wCBIReRJC62LvYebufafJ7Z3r8JhrKJq4qxA2McnFsXpphUYJMBAcwPCfo"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0135",
+      "name": "Nutrient Analyzer [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT0rM4axF60mCLALgTiDVM_UDR8a3lzi1X-YoWe7IwyvZcq5ppnQlGNEMCffnwcLMuMIQOj4q7WPg9lPp1VHB8XSYIejC92mnHnb7LBUAxoJkakzdXZuBYm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0136",
+      "name": "AI integrated food waste converter [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS86yXmYMg_L9ZKFw1WvVxksYYiCuVUQZOjokC_7w9q5rV8mpOQypvkY-iYw6NYuecsiHqk9Ne9uUUi_UkOUYseA02SizuDTZ0K9EyFr9yae4_X_hBa54lP"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0137",
+      "name": "Laser knife with heat adjustment [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRMfjvBNpVBDCKaLIZEs4j5HzBiXoe8bLWd2MB4OJ9NrIbbHqM5DauL1Z1m-3TutBARj5GKyy49r_xaqalRLkh9t4uiOz-jGxg-ZRM7D5jY"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0138",
+      "name": "Molecular Gastronomy kit [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSL1hqH3h1Dam-BAnr1GXP8ZJ8lAQstEbOt8WjRU4NapP1RpqMtG6WCAFVsOYP83anrxJyQFpPlsyOII9J1K2E8ZoKzbu_c3mdx7ZfiwRzmj5ZyOO0j902mhA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0139",
+      "name": "Thermoelectric Stove [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0140",
+      "name": "Bio-engineered food cultivator [PREMIUM]",
+      "price": "$59.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Verified Premium Asset",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0141",
+      "name": "3D Food Printer [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSlw87IO1VQw41k0gJ795jcf1ZGpou1roaHynNkVdpXis1rAScyVJ_2j8Hvm6DyFPxfx2Z6SkuErRjnq5k4Oo8Pn5vtn7IaTQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0142",
+      "name": "Intelligent refrigerator with biometric access [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSnCm9J2CbTvC2B9g-AX07yggD1LmxGy9wRCF9Xa4pIOuX8ypScKhn5Df4I2cUHEuFZPMXF8RVNnURnWNdYGbcDge07iOdipl8IDoJISnCc"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0143",
+      "name": "Automated Chef Robot [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSNmrGhptZi6RoVrccLQX2Ake10_z4g90F80ZKxCNA1Q9HRpxy_piJyd2EZWf0ph1Ln6w21RLfvK9Zq3KPhfs79mvCqSLqKPMaGSfn5eTq2Y4rC0kFKbEKvnA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0144",
+      "name": "Holographic recipe projector [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR85zqU7PVYQjjY-wCBIReRJC62LvYebufafJ7Z3r8JhrKJq4qxA2McnFsXpphUYJMBAcwPCfo"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0145",
+      "name": "Nutrient Analyzer [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT0rM4axF60mCLALgTiDVM_UDR8a3lzi1X-YoWe7IwyvZcq5ppnQlGNEMCffnwcLMuMIQOj4q7WPg9lPp1VHB8XSYIejC92mnHnb7LBUAxoJkakzdXZuBYm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0146",
+      "name": "AI integrated food waste converter [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS86yXmYMg_L9ZKFw1WvVxksYYiCuVUQZOjokC_7w9q5rV8mpOQypvkY-iYw6NYuecsiHqk9Ne9uUUi_UkOUYseA02SizuDTZ0K9EyFr9yae4_X_hBa54lP"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0147",
+      "name": "Laser knife with heat adjustment [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRMfjvBNpVBDCKaLIZEs4j5HzBiXoe8bLWd2MB4OJ9NrIbbHqM5DauL1Z1m-3TutBARj5GKyy49r_xaqalRLkh9t4uiOz-jGxg-ZRM7D5jY"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0148",
+      "name": "Molecular Gastronomy kit [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSL1hqH3h1Dam-BAnr1GXP8ZJ8lAQstEbOt8WjRU4NapP1RpqMtG6WCAFVsOYP83anrxJyQFpPlsyOII9J1K2E8ZoKzbu_c3mdx7ZfiwRzmj5ZyOO0j902mhA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0149",
+      "name": "Thermoelectric Stove [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "5XX-0150",
+      "name": "Bio-engineered food cultivator [COLLECTOR]",
+      "price": "$129.99",
+      "media": [
+        "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Matrix",
+        "condition": "Collector Grade - Mint",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    }
   ]
 };

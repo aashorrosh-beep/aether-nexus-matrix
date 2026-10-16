@@ -1,12 +1,8 @@
-// ============================================================================
-// NEXUS PLATOON COMMANDER: BATCH EXECUTION FOR 20 UNIQUE ROOMS
-// ============================================================================
 import fs from 'fs';
 import path from 'path';
 
-// 🎯 CHANGE THIS NUMBER (1, 2, 3, or 4) TO FIRE THE NEXT PLATOON
-const ACTIVE_PLATOON = 4; 
-// ============================================================================
+// 🎯 SET TO 5 FOR SYNTH WING, THEN 6 FOR DIGITAL RETRO
+const ACTIVE_PLATOON = 5; 
 
 function loadEnv() {
   try {
@@ -55,39 +51,23 @@ async function callSourcingBrain(searchQuery) {
   return "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=800"; 
 }
 
-// 🏢 THE 4 PLATOONS: UNIQUE PROMPTS AND BRANDS FOR EVERY ROOM
 const platoons = {
-  1: [ // NOSTALGIA PLATOON A
-    { room: "retro-toy-chest", brand: "Heritage Vault", mall: "nostalgia", prompt: "Give me 10 classic 80s/90s toys (e.g., Furbies, Tamagotchi). JSON array of strings." },
-    { room: "the-comic-stash", brand: "Heritage Vault", mall: "nostalgia", prompt: "Give me 10 highly sought after 90s comic books. JSON array of strings." },
-    { room: "vhs-archive", brand: "Heritage Vault", mall: "nostalgia", prompt: "Give me 10 classic nostalgic 80s/90s VHS tapes. JSON array of strings." },
-    { room: "trading-card-syndicate", brand: "Heritage Vault", mall: "nostalgia", prompt: "Give me 10 rare 90s trading cards (Pokemon, Magic, Sports). JSON array of strings." },
-    { room: "retro-arcade", brand: "Heritage Vault", mall: "nostalgia", prompt: "Give me 10 classic 80s/90s arcade machines or home consoles. JSON array of strings." }
+  5: [ 
+    { room: "synthwave-audio", brand: "Nexus Matrix", mall: "netrix", prompt: "Give me 10 futuristic synthwave audio headsets and neon speakers. JSON array of strings." },
+    { room: "stealth-tech", brand: "Nexus Matrix", mall: "netrix", prompt: "Give me 10 sci-fi stealth gadgets or cyberpunk tactical gear. JSON array of strings." },
+    { room: "techwear-tailor", brand: "Nexus Matrix", mall: "netrix", prompt: "Give me 10 futuristic cyberpunk techwear clothing items. JSON array of strings." },
+    { room: "vr-immersion-bay", brand: "Nexus Matrix", mall: "netrix", prompt: "Give me 10 high-end VR haptic suits and immersion gaming accessories. JSON array of strings." },
+    { room: "synth-food-replicators", brand: "Nexus Matrix", mall: "netrix", prompt: "Give me 10 futuristic kitchen gadgets or sci-fi food replicator props. JSON array of strings." }
   ],
-  2: [ // NOSTALGIA PLATOON B
-    { room: "grunge-apparel", brand: "Heritage Vault", mall: "nostalgia", prompt: "Give me 10 iconic 90s grunge apparel items (e.g., Flannel shirts, Doc Martens). JSON array of strings." },
-    { room: "y2k-pop-merch", brand: "Heritage Vault", mall: "nostalgia", prompt: "Give me 10 iconic Y2K pop music merch items (e.g., Britney Spears posters, Nsync tees). JSON array of strings." },
-    { room: "polaroid-and-film", brand: "Heritage Vault", mall: "nostalgia", prompt: "Give me 10 vintage Polaroid cameras and film types. JSON array of strings." },
-    { room: "vintage-vinyl", brand: "Heritage Vault", mall: "nostalgia", prompt: "Give me 10 iconic 80s/90s vinyl records. JSON array of strings." },
-    { room: "neon-roller-rink", brand: "Heritage Vault", mall: "nostalgia", prompt: "Give me 10 retro roller rink items (e.g., Neon skates, glow sticks). JSON array of strings." }
-  ],
-  3: [ // MATRIX PLATOON A
-    { room: "cyberware-depot", brand: "Nexus Matrix", mall: "netrix", prompt: "Give me 10 cyberpunk tech accessories (e.g., LED Visor, Cyber-deck). JSON array of strings." },
-    { room: "bionic-prosthetics", brand: "Nexus Matrix", mall: "netrix", prompt: "Give me 10 sci-fi bionic arm/leg prop replicas. JSON array of strings." },
-    { room: "quantum-processing", brand: "Nexus Matrix", mall: "netrix", prompt: "Give me 10 high-end futuristic PC components or quantum drive props. JSON array of strings." },
-    { room: "drone-depot", brand: "Nexus Matrix", mall: "netrix", prompt: "Give me 10 high-tech consumer drones or cyberpunk quadcopters. JSON array of strings." },
-    { room: "neural-uplinks", brand: "Nexus Matrix", mall: "netrix", prompt: "Give me 10 sci-fi neural interface headsets or VR rigs. JSON array of strings." }
-  ],
-  4: [ // MATRIX PLATOON B
-    { room: "zero-g-gear", brand: "Nexus Matrix", mall: "netrix", prompt: "Give me 10 futuristic astronaut/zero-g survival gear items. JSON array of strings." },
-    { room: "mars-colony-route", brand: "Nexus Matrix", mall: "netrix", prompt: "Give me 10 space colonization props or Mars terrain kits. JSON array of strings." },
-    { room: "dyson-sphere-initiative", brand: "Nexus Matrix", mall: "netrix", prompt: "Give me 10 sci-fi solar energy or Dyson sphere concept models. JSON array of strings." },
-    { room: "survival-edc", brand: "Nexus Matrix", mall: "netrix", prompt: "Give me 10 futuristic tactical everyday carry (EDC) survival tools. JSON array of strings." },
-    { room: "oracle-ai-core", brand: "Nexus Matrix", mall: "netrix", prompt: "Give me 10 AI smart home hubs or futuristic server props. JSON array of strings." }
+  6: [ 
+    { room: "8-bit-consoles", brand: "Heritage Vault", mall: "nostalgia", prompt: "Give me 10 classic 8-bit retro gaming consoles and accessories. JSON array of strings." },
+    { room: "crt-graveyard", brand: "Heritage Vault", mall: "nostalgia", prompt: "Give me 10 vintage CRT TVs and retro gaming monitors. JSON array of strings." },
+    { room: "digital-pets", brand: "Heritage Vault", mall: "nostalgia", prompt: "Give me 10 nostalgic 90s digital pets. JSON array of strings." },
+    { room: "pogs-and-slammers", brand: "Heritage Vault", mall: "nostalgia", prompt: "Give me 10 rare 90s Pog sets and heavy metal slammers. JSON array of strings." },
+    { room: "threads-and-tracks", brand: "Heritage Vault", mall: "nostalgia", prompt: "Give me 10 iconic 90s tracksuits and vintage streetwear items. JSON array of strings." }
   ]
 };
 
-// 🧮 STANDARD 30-ITEM ROOM DISTRIBUTION
 const distribution = [
   { tier: "STANDARD", count: 10, price: 29.99, cond: "Retail Mint" },
   { tier: "PREMIUM", count: 10, price: 59.99, cond: "Verified Premium Asset" },
@@ -124,22 +104,14 @@ async function executePlatoon() {
       const customerShipping = getShippingCharge(dist.price);
       for (let i = 0; i < dist.count; i++) {
         const theme = themes[i % themes.length] || "Vintage Item"; 
-        const itemName = `${theme} [${dist.tier}]`;
         const sku = `${ACTIVE_PLATOON}XX-${String(globalSkuId).padStart(4, '0')}`;
-        
         const imgUrl = await callSourcingBrain(`${theme} ${division.brand}`);
         await sleep(800); 
 
         roomCatalog.push({
-          id: sku, name: itemName, price: `$${dist.price.toFixed(2)}`, media: [imgUrl], video: false,
+          id: sku, name: `${theme} [${dist.tier}]`, price: `$${dist.price.toFixed(2)}`, media: [imgUrl], video: false,
           specs: { manufacturer: division.brand, condition: dist.cond, shipping: `Tiered Tracked Shipping ($${customerShipping.toFixed(2)})` },
           status: "CRUCIBLE_VERIFIED"
-        });
-
-        googleMerchantFeed.push({
-          id: sku, title: itemName, description: `Official ${division.brand} ${dist.tier} item.`, 
-          link: `https://aether-nexus-matrix.vercel.app/${division.mall}/${division.room}`,
-          image_link: imgUrl, price: `${dist.price.toFixed(2)} USD`, availability: "in stock", brand: division.brand
         });
         
         console.log(`✅ [LOCKED] ${sku} | ${division.room}`);
@@ -150,17 +122,6 @@ async function executePlatoon() {
   }
 
   fs.writeFileSync(inventoryPath, `export const masterInventory: Record<string, any[]> = ${JSON.stringify(currentInventory, null, 2)};\n`, 'utf8');
-  
-  const publicDir = path.join(process.cwd(), 'public');
-  if (!fs.existsSync(publicDir)) fs.mkdirSync(publicDir, { recursive: true });
-  
-  const feedPath = path.join(publicDir, 'google-merchant-feed.json');
-  let currentFeed = [];
-  if (fs.existsSync(feedPath)) {
-    try { currentFeed = JSON.parse(fs.readFileSync(feedPath, 'utf8')); } catch (e) {}
-  }
-  fs.writeFileSync(feedPath, JSON.stringify(currentFeed.concat(googleMerchantFeed), null, 2), 'utf8');
-
   console.log(`\n🎯 [PLATOON ${ACTIVE_PLATOON} SYNC COMPLETE] 5 Rooms actively generated and appended.`);
 }
 
