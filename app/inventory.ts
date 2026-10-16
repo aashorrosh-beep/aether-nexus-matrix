@@ -18256,5 +18256,471 @@ export const masterInventory: Record<string, any[]> = {
       },
       "status": "LIVE_MARKET_VERIFIED"
     }
+  ],
+  "the-christmas-story": [
+    {
+      "id": "XMAS-0001",
+      "name": "A Christmas Story  Leg Lamp  Christmas Sweatshirt  Fra-gee-l",
+      "price": "$38.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTzfGmg4mSMNQ9RyM_L-MSzAAI3kkhSaoTT34GVHL0JCqXzmNKjNSwcG63anX42UUz9KJUHyC7A0_BS5vFwYR7mnXqWstGEn4B6HR5vjuNRROYFxDiIIG88FNI"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0002",
+      "name": "A Christmas Story Leg Lamp Front Only Adult Knit Sweater",
+      "price": "$30.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQC-Bq7iV4_whA0wd69YadeAaK20HZUjZ_I_nJ1UyYOSjysMGvCmQk05LKy0AwKHlslgXd5NPo7vTq8yk07xv2rnJb2xeeZ4ovU0AtFDaYW"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0003",
+      "name": "Fragile Christmas Sweatshirt The Leg Lamp Christmas Story Ug",
+      "price": "$29.90",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRyPZyNPy7-QOjiyIQIKaPbeo9y4kOz7dl4BxMjfDvaA-7thY0jAxBKq_nVuFrJ1s-tctEvIXVEXxEzRQeWuLcwYbiY7er-JBYzLO6F9ypamrLwVUMmprZhfA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0004",
+      "name": "A Christmas Story Leg Lamp Funny Ugly Christmas Sweater Men ",
+      "price": "$42.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTLfv2iUEeMT_3Gu-wpsDLIHLaZglqgjpwuCe6SglWrvqLPW6DqBSCEc1n65wkvmSuTBmV1zi-UMseq9Bshqi3NwhyAxUfF1t4mYPZETR0CYQjoiV9bTwEZ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0005",
+      "name": "Made to Order Ugly Sweater A Christmas Story You choose Leg ",
+      "price": "$75.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRj_n-N0PcKKb0yr4lx1BCJE9tY5-pLDHXK4y7WClVH17lEGi9dAt933KBz4S6ndaeeOCnZSAVvCfBREAwYPPM_72AK7ZaQEfciteijAkc"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0006",
+      "name": "Christmas Leg Lamp SVG Fra Gee Lay Christmas Design Funny Ho",
+      "price": "$1.85",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTVvFSCCATimRvQCOONwJ6KvVlRMysFDc4oZk0Gva_5cfXKCEt-4lvR2_AGI32LmcDzc8mIu713ab7WrK9-mj-AH-gLiNlOprKO2OOuZ4U"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0007",
+      "name": "Leg Lamp Ugly Christmas Sweater DIY Kit A Christmas Story",
+      "price": "$34.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSAFxd8ruXB539v5X2cum3ex0ZSCVwpI1oyzMZ0MJyBz-wzkUuwklOENElh4BaahnrrVTHawGuR7DplQPzOyW9XKNtsnia0S2XBbYwBoksGopmbF-35JjtS"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0008",
+      "name": "Fragile Brwon Leg Lamp Ugly Christmas Sweater Sweatshirt",
+      "price": "$34.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTcSrU5P_9Why-HCZaqm7Kb7quSDYMLGLgM1n3qk6tIDfzQGSXYZTbVK8HA7tud5NvNhp7e4M2BYTmUBGLUL2tU_umj6aKvOKikfTYSiDesWb1WimgKS0pAAA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0009",
+      "name": "Its a Major Award Sweatshirt  Funny Christmas Sweater  Leg L",
+      "price": "$42.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTkX6wW3mUWGkUN0KPua-hPAxmsn7eVd2_ImINNxVnHbeq1ToHMIAZRgqt5rsD0Gy0Okjwh7nU9uCYMv9ejVBUAqLPklId32xN3iUD14e_O04OKdgrih3zu"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0010",
+      "name": "Womens A Christmas Story Fragile Leg Lamp Light Up",
+      "price": "$53.19",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS823MM_dV8oi0lHzFB9DIJ3_k7wafM7HRyX9CR8X2qz-1L8IbXXOTWa_cn9Zl7rovJWZZAzDCviJpF8134T1etr8muuRIHXe0ewwkaL6c"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0011",
+      "name": "Leg Lamp Ornament Its A Major Award A Christmas Story Orname",
+      "price": "$14.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRpRJA_h5of-ykiXyktH4vDcCUAMTy7DevOWgHxsiHG8m0QMhjPSZNZ4ow1a-wQgF3-Wt05FkhDaT-sDIMD1vGvAN3VKHeSCbo5T4CWqgTO"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0012",
+      "name": "A Christmas Story Leg Lamp T-Shirt Funny Holiday Shirt Fra-G",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRcCRT7piXnABGJVwTDTye5RagzUw7lQ9e7cOXbsK_Rl3C2dgLHajqaHRENenCsDfZlY2KvHIEWbv_LzFTa85dUd9DcEkbvR5bavt205RFcpXRa1WVb-wsDLjo"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0013",
+      "name": "Christmas Story SVG  Ugly Sweater SVG  Fra Gee Lay That Must",
+      "price": "$2.80",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQVUqMmrX13MLsuK3EqAEMvbvWgf6eNQ2WlrNnGSYb2dvhrl_RoBny_EPgzG3sV2JIZMdZVBJ3MZSBhhVPFGOOkYhKgn3EwbwxPGLSQyxzn"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0014",
+      "name": "A Christmas Story Ornament - Leg Lamp Vintage Ornament Funny",
+      "price": "$12.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTubxdL5UdTvaxoBXXXc0gtamqg7t2xQSvTcvrdfolAiwOwNT5DzHYmZnXKJDpBu46eu7vGi6U4rbSaM6ypeKOTnSJeaspSD935aVT7sZOp"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0015",
+      "name": "The Christmas Story Leg Lamp Ornament Humorous Holiday Decor",
+      "price": "$22.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQU0l1VfdWnCvJNWmwJt16ZgS04-sBQsHKCcbqfD7XoFsAFgUDepJz8cLmmGLF03Gwy_dGzWfdI2xbjMQEcigp4yxD04BXGZbg-uvHayJ4"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0016",
+      "name": "Crochet Old Man and Leg Lamp Pattern Funny Christmas Decor P",
+      "price": "$8.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTCx9o-ibVWLn7-irVVXI4pR7jmK0SlI3AXLoSqJGdBTvxI4wugTAxzmlgoNP72UbE3j2OUTPXgvPxaltxcbtvj434Rveesjc2PDrHP5Z0"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0017",
+      "name": "Mad Engine A Christmas Story Ralphie Broken Glasses and Leg ",
+      "price": "$44.95",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcToMvVnABSdmcFhr_GLGhKhhq8qXj45eMi8ZGFFoSRnaVeIONRA89j-NFdiF4LO9DdbkRjNhuyXxtT8-9PhFJRoXcnVblEdhAvTofMaclQeNsw5-W7O2dmA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0018",
+      "name": "Fragile Leg Lamp Christmas Story Ugly Christmas Sweater",
+      "price": "$34.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRROp7W52Cmk7zt0_4PDjiDqVPax0aEFMjZHh6972tFCd2onRhmsxlN5qni-BGcyacgB4PyWEjZh1lfJhYK9pzYu_PUpXwpCOwwDL3YR_gsHSktFkF_IRDYrQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0019",
+      "name": "Funny Leg Lamp Christmas Sweatshirt I Hope Your Holidays Are",
+      "price": "$33.50",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQw1MjmiFq0BQtCjzEFHhXsA6209ZN1rIzurH-0Nbc5Di_PnGPpUWrs90EhmoetLfyf2ZEAQ9q-8sB_04rkTY3KEXsKrSk521FVyu3a0IKbMxtOhFAdrxn3"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0020",
+      "name": "Christmas Story SVG Ugly Sweater SVG Fra Gee Lay That Must B",
+      "price": "$2.80",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTs-Pzvwnk5hBaeumfIw9G1cGPNTOu3tF41Rr3-Pvyi_cYxuDxaImw1C7QiJT_9yR9vzohcMu_DanyxwdcfE_c91smUpfLm3_4722rgdMhO"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0021",
+      "name": "Leg Lamp SVG PNG - Major Award Funny Christmas Movie Holiday",
+      "price": "$1.80",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSqaDALWm6Up4uTzKh1qvSsmNNrurIRR0_Lf2nrjzCkjrEzqENC89UtGUZr1klNQSEiBOLUzxTYLzRuxULC3aMql9B7KypuYW3_Uw4aAD4"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0022",
+      "name": "You Were Always Jealous Of This Lamp Christmas Shirt A Chris",
+      "price": "$9.50",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTs4dihJ0-xWTfp8rorQLHOG6msy9oqiJS6HjNkvBDnF-CNNOhCIXodomkBCcuRBk5ncaMznug0xc0SbsK9v_6PzPfax0lSsj0tCSgXZcRY"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0023",
+      "name": "Leg lamp Christmas story sweater funny Christmas sweatshirt ",
+      "price": "$40.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTZ1mx8ab787PRv_XoYfv9OAkX2lpFM4YLh_29wk76GvFhx8SJ0chJ2NqRZYgAdiH25DVclsXd401SQLdpY-UBAy3_cYbte--n7wyY6oynr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0024",
+      "name": "Leg Lamp Christmas SVG Its A Major Award Ornament Digital Do",
+      "price": "$1.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT6NFI4Sz-i-wEXorK1q6DV78RBh44DvL2acz6DZW6ki__4CqtdJ0fV0HY7nWIR5X20rYXtHQeqSXAkSw-u2akXWWVSfH6UFbMdm2q108dKKDZAnvtzPiGX"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0025",
+      "name": "You Were Always Jealous Of This Lamp Christmas Shirt A Chris",
+      "price": "$9.50",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSPfZr1zY6kR1xT_uT21Lpk5UdVAEDFfOKM7NzmgvOUV23rUC966ttdodT_nEecD8CzrX0OOX6RDtDtXt5K9GrOtD2ZsV6ESehB-bsGq245"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0026",
+      "name": "Mens Tipsy Elves Christmas Leg Lamp Ugly Christmas Sweater",
+      "price": "$69.95",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSGbm3Y4eOQkPNzFpHosewuNNSzuokg9MBrMyHwfN3WUj3oEbkDxcb9KJd1CN7bursFmsELLJ7_97PE4ZdrQC_jOPt7q-QU0_CeIAk3EyQE"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0027",
+      "name": "Porch Goose Leg Lamp Outfit Funny Christmas Goose Decor",
+      "price": "$45.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQhI1H33ggd9tBoBtKfEodCjN4r2-FLGFugmkQmRcw2Dxbh_voIG0Z7cYhguhHiOkll6afRA6bZZN8rqId_qfzUEqTFnu5wuPdD-j2cylI"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0028",
+      "name": "Leg Lamp Fragile Get Ugly Sweater Size M",
+      "price": "$24.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSGd4tUOYC8_2hzpZG_cuJhauQkVp37D4ciQLn_94WnAZGru5O7oywohf2HhZzNvzu00CmGDvyhrzQudWPsUQyS0fxftbGH-_ANfJpB-0gD"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "XMAS-0029",
+      "name": "A Christmas Story Leg Lamp Funny Ugly Christmas Sweater Men ",
+      "price": "$24.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRN4I03RIdXbnkO2YT5kfJY84Nn2MOxN-37WfrW1-nGqZHjKit5U1sV_Y5IypvRZS1a_UUL3qQi8uHPLPgMugNdKMGzOi8p4ENIBhSvnrU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Seasonal",
+        "condition": "Retail New",
+        "shipping": "Tracked Shipping ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
   ]
 };

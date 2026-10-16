@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
-const ACTIVE_PLATOON = 9; 
+const ACTIVE_PLATOON = 10; 
 
 function loadEnv() {
   try {
@@ -20,16 +20,9 @@ loadEnv();
 const SERPAPI_KEY = process.env.SERPAPI_API_KEY;
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
-function getShippingCharge(price) {
-  if (price <= 20) return 4.99; 
-  if (price <= 50) return 7.99; 
-  if (price <= 150) return 14.99; 
-  return 24.99; 
-}
-
-// 🧠 LIVE MARKET SCRAPER
+// 🧠 LIVE MARKET SCRAPER - MAXIMIZED FOR 100 ITEMS
 async function pullLiveMarketData(searchQuery, maxItems) {
-  console.log(`\n📡 Scanning Live Market for: "${searchQuery}"...`);
+  console.log(`\n📡 Scanning Live National Market for: "${searchQuery}" (Target: ${maxItems} units)...`);
   const url = `https://serpapi.com/search.json?engine=google_shopping&q=${encodeURIComponent(searchQuery)}&num=100&hl=en&gl=us&api_key=${SERPAPI_KEY}`;
   
   try {
@@ -51,12 +44,9 @@ async function pullLiveMarketData(searchQuery, maxItems) {
   } catch (e) { return []; }
 }
 
-// THE Q4 LIFESTYLE & HOLIDAY LINEUP
 const platoons = {
-  9: [ 
-    { room: "holiday-illumination", brand: "Nexus Seasonal", query: "twinkly smart christmas lights commercial grade outdoor led", max: 50 },
-    { room: "premium-pet-supply", brand: "Nexus Lifestyle", query: "luxury smart pet dog feeder orthotic bed accessories", max: 50 },
-    { room: "viral-home-trends", brand: "Nexus Lifestyle", query: "viral tiktok smart home galaxy projector premium drinkware", max: 50 }
+  10: [ 
+    { room: "the-christmas-story", brand: "Nexus Seasonal", query: "funny white elephant gag gift ugly christmas sweater leg lamp novelty", max: 100 }
   ]
 };
 
@@ -65,7 +55,7 @@ async function executePlatoon() {
   if (!activeDivisions) return console.error("❌ Invalid Platoon Selected.");
 
   console.log("==================================================================");
-  console.log(`🚀 DEPLOYING PLATOON 9: HOLIDAY LIGHTS, PETS & VIRAL TRENDS`);
+  console.log(`🚀 DEPLOYING PLATOON 10: THE CHRISTMAS STORY (WHITE ELEPHANT & GAGS)`);
   console.log("==================================================================");
 
   let currentInventory = {};
@@ -85,9 +75,7 @@ async function executePlatoon() {
     const roomCatalog = [];
 
     for (const item of liveItems) {
-      const sku = `LIFESTYLE-${String(globalSkuId).padStart(4, '0')}`;
-      const customerShipping = getShippingCharge(item.price);
-
+      const sku = `XMAS-${String(globalSkuId).padStart(4, '0')}`;
       roomCatalog.push({
         id: sku, 
         name: item.name, 
@@ -97,7 +85,7 @@ async function executePlatoon() {
         specs: { 
           manufacturer: division.brand, 
           condition: "Retail New", 
-          shipping: `Tracked Shipping ($${customerShipping.toFixed(2)})`,
+          shipping: `Tracked Shipping ($7.99)`,
           market_value: "Live Google Shopping Index"
         },
         status: "LIVE_MARKET_VERIFIED"
@@ -109,11 +97,10 @@ async function executePlatoon() {
     }
     
     currentInventory[division.room] = roomCatalog; 
-    await sleep(2000); 
   }
 
   fs.writeFileSync(inventoryPath, `export const masterInventory: Record<string, any[]> = ${JSON.stringify(currentInventory, null, 2)};\n`, 'utf8');
-  console.log(`\n🎯 [PLATOON 9 COMPLETE] Lifestyle & Holiday Rooms Active.`);
+  console.log(`\n🎯 [PLATOON 10 COMPLETE] The Christmas Story room is locked and loaded.`);
 }
 
 executePlatoon();
