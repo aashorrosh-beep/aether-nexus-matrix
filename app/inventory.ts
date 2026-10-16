@@ -39742,5 +39742,1613 @@ export const masterInventory: Record<string, any[]> = {
       },
       "status": "LIVE_MARKET_VERIFIED"
     }
+  ],
+  "diet-meal-delivery": [
+    {
+      "id": "WELL-12000",
+      "name": "Paleo Meal Delivery in LA  Paleo Meal Plan by Kooshi Gourmet",
+      "price": "$540.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQOtG708EUXRfXmsftd1UhkcMPWNpaaoQK9Zc6erMReNXZdm8GN6vILe5qBJ3H92OqLoz-ud8sUgHFd-cC5kQyZ3WEvnyrd-SYuhjVEeUxpFEyr4J5Pbc43"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Nutrition",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12001",
+      "name": "Eat Clean  Paleo Meal Kit  Large Size  12 Meals Per Week  Ch",
+      "price": "$67.98",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTaEBEgJzvPVN2XpeYNhD06bsHLvUTJG6-Zw-YaepmS4IJ20ocl8kF_yZtDt5xpb4gIULrR5DXhuaXqRfZ9jRbEdu2WYLMdB-taCcdJkByD"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Nutrition",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12002",
+      "name": "Clean Eatz Kitchen Keto Box",
+      "price": "$63.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRKkCPrUZdjgYrWlm8ije-pkMY8FaYrz4Ji1iyQLwkEVWox5WEbZdVIo04oevT7E171cc9p8egW86_M3l4cLmm_7iPlI3MaZ4qqywPVdkA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Nutrition",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12003",
+      "name": "Keto Meals 2GO Shipping Box",
+      "price": "$113.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSfquXRmcN8dJh-fnO2co_2PZXoExk_2u5btU4bf5oDRi7vQvNMFhI3yfPDlVl5sXZxsq6Y4ozVbegXeuAd-WZ0JHLfMdHSvyTlXbhTnEDJ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Nutrition",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12004",
+      "name": "Eat Clean  Keto Meal Kit  Regular Size  20 Meals Per Week  C",
+      "price": "$86.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRSyNVDgvDJJYovKiB-0P7qedVnab8fSQzU6l5Y-3EVnih32AtMsVYDzeIxl2ePEBWX599HmYLFB5DRVD-TvI4C9-tVZBq8Ow3ObnWdEjI"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Nutrition",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12005",
+      "name": "Front Porch Pantry Lower Carb Lifestyle Box",
+      "price": "$99.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR4O2oQAB0PYYIEZB0858BbeiV48Uhlyg2-6u1bHfKhyK8XSa5O9E4CZEOCTfsFZdB2O-OJB8wAQh7zW-1beay3kKs9uueCCvFpu2Oy3q10"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Nutrition",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12006",
+      "name": "Breakfast Lunch  Dinner Pre-Made Package Paleo",
+      "price": "$164.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRkOa_djQf1zsWD23iaR0x9reDiqnPEulbIajFvH_nMfRYjm9SRnv89_PsuBFZud3iCaM6KRIr_QzNDUV3bCQMCAhu0NtnQN22UhbLAdzed"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Nutrition",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12007",
+      "name": "Keto Box 12",
+      "price": "$55.85",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT73b9L7Qsl2qjgwiWfPf6kbXFAs6Mogqseg265KWBmtJtMt20vAfFP4qVmxFXSYPdpHD8WZX88hfY3zVIJZCTCnwSImoiwOQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Nutrition",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12008",
+      "name": "Starter Pack",
+      "price": "$84.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR-zxLcrLonozJlq9nHR7hlPAnO-sgKypz-hPBwlEFzf4HTU6kEJn70GjqJiPPGi71_3G55R7EJcuRD5IHXSB41LAVT3fdrbN2uBp2HOHKu"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Nutrition",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12009",
+      "name": "The Paleo Keto Box",
+      "price": "$42.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSBjwZXanpaer8I-vHNLll6GF_tSQPkCaIXA1gK4Ga0MyexWabz1R0Tx_bEIwPEB_2hZkIihOzvsijhDlryrs57lzJnRWzMgHBngIVLNXIgUajiyDnb0GyL"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Nutrition",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12010",
+      "name": "Eat Clean  High-Protein Meal Kit  Large Size  6 Meals Per We",
+      "price": "$40.74",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSLf-FVmltin0KYJGgWFnp9ibzEEZXPYaXbPFPxBqZ6VaIcsMS0xpw1PUJqxncTmYgCuuExO3r3P02ZENbKxXKxsY1bNzhhhjEuSqPwq-PbhbHPDTyU0Iv0"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Nutrition",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12011",
+      "name": "Perfect Keto Keto Starter Kit",
+      "price": "$119.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQm32OUJ3VrFTkrqrskxYp35Ud7irzXwT5IZnXETOaUWUwIbkS036Fxw6JPadQhCo-EksRnvStaXoZcQt1iHaq1BaNi2fUwGucsf6ugNXPYao-pCosCCPWz"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Nutrition",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12012",
+      "name": "The Cooks Box - Paleo",
+      "price": "$49.90",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTtzU6fhcctT8xR64vaiaUuWM-EXSa-7aL1-iQwemyHuvdEAMipS8HBvCL4dgNDCoKrJ0dEJEg8-5J7IutSYuC0mWaG_34cYQJtEAwWmwD3"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Nutrition",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12013",
+      "name": "Keto Meal Box - Yoshis Kitchen 21 meals",
+      "price": "$259.89",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcReQ8o55fItrOb017po60vXP6M33t-UVLYIR3alq8Dry9t8GmIPZ_0tAeAC3OhlCt0rC9cOnwtaJhK8oj2Kr2WVy8siiWyyx_IWkuk_Yh4uAVviOAUBpWWx_Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Nutrition",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12014",
+      "name": "The Complete Meal Prep Box- 20 Meals",
+      "price": "$271.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQU-cwBYxzBYwtyuu2aDk2ZhsN3d9AXYXMaCl4pFQntI3uF5msMWLFWe9TPLH4RVXiZoBkbNuO00OG-YGzbnRIOb1aK38sj_dUZ7QXxuig"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Nutrition",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12015",
+      "name": "10-Meal Weekly Plan",
+      "price": "$139.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQGVRehJ4bctI4BVYvl5fFLpxuceriR505phUrh_XPHkSCyKlo8tFLy7--v6cYDE7qvZa122FlHDi_P7Q48vjjtqBvkCTCZeIOP4VHPIDtRsxcMFn1arszL2Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Nutrition",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12016",
+      "name": "Low-Carb Meal Kit  50 Off 1st Box  Regular Size  8 Meals Per",
+      "price": "$49.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTXz6GsfI5sa4bF_6oh5T0OjX-3Z_1IoJgbDnWLybfwxhJd--C_TDUQ5oL-2Gf5ppfq95i_Zg__rcODPoU5fdYoNQ9eya-WciQKvgql3Yg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Nutrition",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12017",
+      "name": "the KetoMeal-Prep Box Subscription",
+      "price": "$96.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR4G_ZpBEQWk9hOypj5dQvqnuCzu097WlSJAYRhWu9N4XgSoBunuP8dJsG6H8fnQ-ZT7kQGT5yEnGQevrgM3zB_CHH8UtL8Ae8vS9V0m6BIiAHYhmgrJSqM"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Nutrition",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12018",
+      "name": "Paleo Meal Delivery Plan Paleo Meal Plan Service Miami",
+      "price": "$59.25",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSBp81GaiEO2GUzMIuWytHQd_ULH2TMGfQkXt-Qu-sMyiGUqaRDk8lAaRo4zofTsQCfHSHcAEJ3ryjqcHhG5-SWQwQQ4Rj0P98SigcG_99tnDnDdM5NBWOd"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Nutrition",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12019",
+      "name": "LunchDinner Package 5  Paleo",
+      "price": "$69.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTYzrAB62qTOfooblIRhMBPhUa7Ef8mkkmrs9LlnDXVo43_p12nefue3BkFusVvrrqer8-18DPQFPWQ8242RaeOCbaMF6KuC8fZ4s9IlHDv"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Nutrition",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12020",
+      "name": "Primal Protein Box",
+      "price": "$199.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRjj1_hVaFde4uNuO3OOKmSY7ubC63J_Odb_rtg6rD5rzo7Q_TAOxxRKWz6nry0Rsr7JTiwil4i5vZpxUCND3nCp6SgGJcsnA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Nutrition",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12021",
+      "name": "5-Meal Weekly Plan",
+      "price": "$69.95",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTkUpzlk04lnCoA2xDQ-UiiwxJp24skQM7v8CQcO50VJAG6AVO-0xd76YMBUldBbq6P2b7NS2-cYn9B0T3_iwFXubAVPHHRjEffqXMUKjJyJWBpUQbZCYWe"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Nutrition",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12022",
+      "name": "Keto 3 mealday",
+      "price": "$165.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTa39gjtnmmzLxuPjrAO-L2Uzvq_h_Hr5TngWogtgUFwmrhIEF1JuSOEZVeCksELZoQKXAwBFuYHGjtP2tdtlH3A8Q7N0YFTEThn8WWZ6h4zFOtqD8IhJ1Rbg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Nutrition",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12023",
+      "name": "Month Of KETO Meals 40 Meals Simply G Meals - San Diegos Bes",
+      "price": "$310.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRi1JuHZ6z-o1zADhE6PpjpKcRpVGAxHfGZYQ_uBFGepx-h2XdXRbalbxNgbKv5qVr_a8FFYlSKVurpgEevRdglBhz-D79U_Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Nutrition",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12024",
+      "name": "Keto Best Sellers Box",
+      "price": "$136.00",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS4u4hFZNeKY4o6fD1TmpEIb2ZAF51nXKwRs96rPhdPHbv3NZ0H4PijoZDcseOG0-Sukn8kCQYdft6kU9RY1RQ8h0pkgQ4MsLXOpOw_APY"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Nutrition",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "organic-health-pantry": [
+    {
+      "id": "WELL-12025",
+      "name": "Grass Fed Organic Bone Broth Protein Hydrolyzed Collagen For",
+      "price": "$31.95",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT2_ZaE1xkHlWV7iBBR5tF1NYxZgRc9IvUTFKkbwpwP7CGRBbTSHeRKAwASK6_b1lfHfZ3sUm0XT2Gm027k_OFP9fqLU6UcicTGbjlH56nmSbnpZIGDuAoukA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Organics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12026",
+      "name": "3 pack Grass-Fed Bone Broth Capsules with Collagen from Orga",
+      "price": "$79.17",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQAW-87jaKhDvbjyBEMA9eojbxjIl8vHLE6JL3vv5EW-WwVLsDdvyEmGtanopSIlMA8O1XPMtZNztGoTzbju60l3EAuCpwhIGOsuUQvdVdsGFMZaMxkTQGM"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Organics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12027",
+      "name": "Left Coast Performance Bone Broth Protein Powder",
+      "price": "$70.52",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS5g8qxr17tXjfXoZGNDgKpwmKy0OwOIAY3rqmQwyp7oWZrGKJuZ1hZQ8HyyY_UF6G7MWmKTMqToBA7QLTq-nA_q3UEm-V5D01LOj0prih0VEsSBDiGeVfO7w"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Organics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12028",
+      "name": "Zammex Grass Fed Bone Broth Proteincollagen Powder Hydrolyze",
+      "price": "$60.79",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQXpua2NsU8nKt5JNWEZwuskytN_xECtrbumLXm6VmSsoISsrNw-fk52OtANhre4_Tvi00pFLkjRToBy2VyFSYj1P-x0NajGoMaD-ibiTbC6hNWwT0ncD0t"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Organics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12029",
+      "name": "Vitauthority Bone Broth Collagen Powder Two Chicken  Herb 10",
+      "price": "$64.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRvtp3zl5uo93N2Bu_mLt59ijz1d6b2_4MucZmnEpucJZVY-tNIbHykKYKxR8z4ZX7KssbPkwXtc9qOjmsvwg9SUatmtWzHFCr8N5RrehEr-ATcj_Ca1f1hFg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Organics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12030",
+      "name": "Ancient Nutrition Grass Fed Bone Broth Protein Powder 20g Pr",
+      "price": "$33.49",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRBZb5BYTOl72SdAlIrBRI5WYZNJMGsfGK4FFU8kQ6rpLbktIWvwiJYDpOhhIXZgNTmmZBfvjM_EDTunPBQ9lkLJQl40ItKvdr78S6tI0OgI_8u1kwYoZr56A"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Organics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12031",
+      "name": "Nutraviva Bone Broth Beef Collagen Enriched Pure 300g",
+      "price": "$66.65",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTXpUXXKiOeedjmV3f1mXUuchxd_Tsi_HecaigFP4sZpQuAkpq0bh1azKM7JjSwlqiKcy5G7glxjzPy0MWPB7L-M6My8O3WzzD9KLTR0vxFGuhaNFi2VHEW"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Organics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12032",
+      "name": "Bone Marrow Broth with Collagen",
+      "price": "$7.49",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSi1rUyufmVOKfug-1VMuTXJ0Pt3rOmGkv3-iYiX9E_13IjuhhkeP2zGjMV-jqm_ocuebMufkg6PiQYpAA5rAt1tC6Z43vvBnp3ztDaU20"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Organics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12033",
+      "name": "Left Coast Performance Grass Fed Bone Broth Capsules with Co",
+      "price": "$32.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRjUZ7lxeLzfdBMwivOPEsMBr7pht8k_kAgvSm4fgpItBYQabY0t91nqiaujEBJV57hmXxSygSOxGSLK6Kxnamt07hMfEx-1kZ6tBU9XdE"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Organics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12034",
+      "name": "Antler Farms 100 Grass Fed New Zealand Bone Broth Powder",
+      "price": "$35.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQeKHrIWaVPirnwAJZT-gDMjMp0_o7nkcOlG49Vo3bFBOtqZkrV-Kxvd8YfYLQPACKSZa7ewt4a0AvzBysn7IPU5r79W_8fOko7E8lVVJzpr_IYab2u39Fgyw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Organics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12035",
+      "name": "Grass Fed Bone Broth Protein Powder Pure",
+      "price": "$104.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRq6KylUpfSatDe18zZ3nHOmxRFtrxBUKrFoafxQeCNxghju-1VunD5wFILWOmkUsyvETWlYrgg2cCbnbGAkLsOVAtS-k6bbQo0VvsplyQVsi8NsOqRIiPx9Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Organics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12036",
+      "name": "Nordic Kings Supplements Organic Premium Beef Bone Broth Pow",
+      "price": "$44.92",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSGsxGI3HphKd5v202YDF5zKCNcc2IQRgMkjEBpBzUp0B5l_1XTKRpb6fheo0LJ-AEVZOYkIwBIYvsyVwrQHMIqZEgC1QqoA-jGCFcHuJFZS-wmooC_qsAy3Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Organics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12037",
+      "name": "Dr Mercola Organic Bone Broth Collagen from Beef",
+      "price": "$46.25",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSwA8wqC1NbXRa9eFMJF65yUlH1PrNiYxRInM-9g-DdggHzK-B-Kv-QSdtkqQ2fslbaKf_pfAw57cO9JR60sJbnqHOQgAMPXrT9C5yFv5_l1kj2AyFXM4qOmA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Organics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12038",
+      "name": "Grass Fed Bone Broth Protein Powder Vanilla",
+      "price": "$78.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR8MKci7I9NEYUVGDtWVHxy_QslN7zTmBDFfatQxFN_1-msLSi-YaHybcAPxcoa15fXQkZ4_IdJuR5uKy0LF9YGk4qfl4AF67pwGliyie2gsFCY_zj8RHDq"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Organics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12039",
+      "name": "Paradise Naturals Organic Bone Broth Protein Collagen Powder",
+      "price": "$107.90",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcScVdKJzBQHPhrGks1xiC-qi0p1GvG5QPHhnyUfK0QtdEq7Y3e73BXbJZk0RkvJ4Snwqn1uDa2tAS7-TY7vB7gOD5KDPgA4IYR_ZiJIN4JLIYZVMqKqMvy7"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Organics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12040",
+      "name": "Dr Mercola Organic Bone Broth Collagen from Beef",
+      "price": "$99.97",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSwA8wqC1NbXRa9eFMJF65yUlH1PrNiYxRInM-9g-DdggHzK-B-Kv-QSdtkqQ2fslbaKf_pfAw57cO9JR60sJbnqHOQgAMPXrT9C5yFv5_l1kj2AyFXM4qOmA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Organics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12041",
+      "name": "Dr Mercola Organic Bone Broth Collagen Powder",
+      "price": "$59.97",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSBcTxiEl4nHyMAsRzhX_W-5Zi3625h9tznpXRW-a6_HOEB8O4RXHfFnoK7aE-Ua7B8c8O4oor6NKBGekdtBMndytfruoNIud8ayO2IOVGBB8ZldUdfsEhm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Organics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12042",
+      "name": "Left Coast Performance Collagen Bone Broth Powder 2lb Bone B",
+      "price": "$45.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQM5aFsO6ibnSA-ZN01nIOTuMxsvvsf5o0SBgryhl_PkEQxHDDw4nBaQKWr4rGdGWFxPXAvSyaGEXRi2CWTSQ5uQcRgQXb2XhPgKri1pZeq"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Organics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12043",
+      "name": "Premium Collagen Peptides Bone Broth Powder Grass Fed Hydrol",
+      "price": "$96.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSGv6_Y7-aBBBPU_h9ZHZ9_IKuD4rfolbuTkasImguvbxSKXj-93lgQFCMcE6ybUslaYqP81iCMTALqJpJzyrmPSz8Mq7whkkBqbZskRYg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Organics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12044",
+      "name": "Intentionally Bare Bone Broth Protein Powder 20 grams Protei",
+      "price": "$35.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQYwhX8BY4ciRU_3CFIIXp9w1cnmONGO0ouFktzosZYFVVZYVmnchc4-6RGMeJdalMIdiht36HrIFiFJthaJSnFzV0V34ShODWiT7DDN3AEInFxmZ1k59llyw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Organics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12045",
+      "name": "Collagen Chew--Organic Chicken Bone Broth Wild-Caught Marine",
+      "price": "$33.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRRA93OFiGWdZdI2KZmYDqxI7jyljyjDLiqkaz2xAQBKVddDXZUE_C9Y0l0Y__NNiswMYF3i972XvnjkCLP9UZzsWA_C6sgykMC6Ssz_gnzIcPq0_VoYke9gA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Organics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12046",
+      "name": "Beef Bone Broth Powder With Probiotics Collagen Grass-fed Gl",
+      "price": "$77.27",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSnHmxEyQiNJMQs6_L1xRi7sBU0J-L6JSClJH4JxeI-UUWSxa2sVhuMTaYVvtJHFVtzVE9pMUSQBZKiFkJcWCwgHkja0o4Yn8yQSfE2-2Pk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Organics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12047",
+      "name": "Bone Broth Powder - Pure Protein Organics - Grass-fed 300g",
+      "price": "$30.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRvmri90f6uHSr9rA0PXKwFF9dmDKM_veZ0e5K0eyRP2OX7ibjiPCrizDmSFjMOP7K-xXfv_TOeWNO6amEA7qV16xkW-J-Ej1y7IXURy7clC9ES2fyJE56m"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Organics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12048",
+      "name": "Dr Mercola Organic Bone Broth Collagen Powder",
+      "price": "$59.97",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSBcTxiEl4nHyMAsRzhX_W-5Zi3625h9tznpXRW-a6_HOEB8O4RXHfFnoK7aE-Ua7B8c8O4oor6NKBGekdtBMndytfruoNIud8ayO2IOVGBB8ZldUdfsEhm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Organics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12049",
+      "name": "Bone Broth Powder - Pure Protein Organics - Grass-fed 300g",
+      "price": "$22.95",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqvjL8YAqtlKZAE2OstI4cVI8pGCKJmT77TUYHpobgnY4qaa4vAl5w9nSGHxwtAnYIXpBvHOmSZK_hPNq93ly8D47gtqsMWoeC1vsTJEToIqPHBnKPrCDSOw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Organics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "peptide-research-vault": [
+    {
+      "id": "WELL-12050",
+      "name": "The Ordinary Buffet  Copper Peptides 1",
+      "price": "$26.60",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTA-hLq76DADpQn0YrmQecKXPIoyX2tFEMggbPISXKBB7Sz9gMT-oBK8yGks_cEtRDQIUNSjPuCkJK6gO3gfTxJb7WhfLUAt22gquyQT6c"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus BioLabs",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12051",
+      "name": "2x Asterwood Copper Peptides Serum For Face With Ghkcu Pepti",
+      "price": "$24.97",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRYATD1t5WnsPbXB7k09UiW3Wa-BR7zq5PBRC906-DvZ6KxK5QoFDKQkvyAhDMzRvWEuCrEUKI54AdiktWUtrWNC6k1ob8mK9Zid7wPp0ELeW_tBQVZh7B4"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus BioLabs",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12052",
+      "name": "Asterwood Copper Peptides Serum",
+      "price": "$31.54",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRoSNlolAAWbJgagZEygkUwUr_5OkikzYD9eFvyf_jlFKqXnlcgR2wm9TZBTDHPV61VFEfdRZZMJFU6O50Na6s82Zn8Ep5PKyYBMebQInsHFUO9yRf5Zkoe"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus BioLabs",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12053",
+      "name": "Complete Skin Solutions Copper Peptide Face Serum Collagen W",
+      "price": "$52.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRALPUgNfrrWk9cZ4kuFV6iOTFVQw2L6zTMqm13j118ThmG5y-To3e_MyQuUQQcSUNqebSWpFIbqyDOU6p4PxehyFvAeuS_qZh6GJq0q__z127DfqS6V_O5"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus BioLabs",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12054",
+      "name": "3 Pack Asterwood Copper Peptides Serum For Faceghk-cu Peptid",
+      "price": "$47.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS9br6vuNQlC0gYsZKUYefeDww-Tjw2N0p-EljibGjK-Lh1tF-O3hD65s8m1xhTNFRmbXosVKmdXkAeZAPca6fdM_yUS-kfpMtnrYwdxD1l"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus BioLabs",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12055",
+      "name": "Copper Peptide Face Serum for Healthy Aging  Remedy Science ",
+      "price": "$30.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQobYYJoDBs0--eUJ8xkUDyRcLD9vWi7Zeti7ybRpyumTUsoeUi4XHQOewf7DMf63QswwA_jwd_kVrOE_HWt_D6ye5JGmExiROIG3daGfGE"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus BioLabs",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12056",
+      "name": "Nad Ghk-Cu Peptide Skin Renewing Micro- Needle Serum Kit",
+      "price": "$267.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRO9iZGGjNBY3nExGGS76_0tjh4yXNgrpZeJASlQunvqG2JqkuaABQEGz-d3WaPyF6NMxcXNQF046__VjTt_kezMhB2d9UXW0-eHbS-x4_R7-5ie4DGc5-K"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus BioLabs",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12057",
+      "name": "Copper Peptide Serum for Firm  Youthful Skin  Remedy Science",
+      "price": "$30.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQobYYJoDBs0--eUJ8xkUDyRcLD9vWi7Zeti7ybRpyumTUsoeUi4XHQOewf7DMf63QswwA_jwd_kVrOE_HWt_D6ye5JGmExiROIG3daGfGE"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus BioLabs",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12058",
+      "name": "Firming Serum with Copper Peptides  Remedy Science  Doctorly",
+      "price": "$30.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQobYYJoDBs0--eUJ8xkUDyRcLD9vWi7Zeti7ybRpyumTUsoeUi4XHQOewf7DMf63QswwA_jwd_kVrOE_HWt_D6ye5JGmExiROIG3daGfGE"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus BioLabs",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12059",
+      "name": "Copper Peptide Serum for Face - with Ghk-cu  Hyaluronic Acid",
+      "price": "$11.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQwNoBIXR3MKU_vj3c3Lz9cfHepkRwG-fb2cQXjhMkI9RrAJbNPql0FmBsG72a8HPhSYP1duhbbYcYS__thVpgFZFVfbbb-ocmXysBflFRqjF8Uom7zV7p4Gw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus BioLabs",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12060",
+      "name": "Bmrewax GHK-Cu Copper Peptide Serum MoisturizingLightweight ",
+      "price": "$12.98",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcThuVZa4X3ccrCVSFaraFWiv1gbZdhFJo-1PGcd6qYAf5W9LP8pgYQaMJftKEViRxCSP7jYAIEwziubfWHj5gQFqPX8AzdmzWuofnjHH_SO2r1GUCGJ45t4UA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus BioLabs",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12061",
+      "name": "REMEDY GHK-Cu Firming Serum  Advanced Skin Renewal  Remedy S",
+      "price": "$30.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQobYYJoDBs0--eUJ8xkUDyRcLD9vWi7Zeti7ybRpyumTUsoeUi4XHQOewf7DMf63QswwA_jwd_kVrOE_HWt_D6ye5JGmExiROIG3daGfGE"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus BioLabs",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12062",
+      "name": "Copper Peptide Complex Advanced Firming Serum",
+      "price": "$30.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQobYYJoDBs0--eUJ8xkUDyRcLD9vWi7Zeti7ybRpyumTUsoeUi4XHQOewf7DMf63QswwA_jwd_kVrOE_HWt_D6ye5JGmExiROIG3daGfGE"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus BioLabs",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12063",
+      "name": "REMEDY Copper Peptide Firming Serum  GHK-Cu Anti-Aging Treat",
+      "price": "$30.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQobYYJoDBs0--eUJ8xkUDyRcLD9vWi7Zeti7ybRpyumTUsoeUi4XHQOewf7DMf63QswwA_jwd_kVrOE_HWt_D6ye5JGmExiROIG3daGfGE"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus BioLabs",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12064",
+      "name": "Copper Peptide Firming Serum  GHK-Cu Anti-Aging Treatment  R",
+      "price": "$30.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQobYYJoDBs0--eUJ8xkUDyRcLD9vWi7Zeti7ybRpyumTUsoeUi4XHQOewf7DMf63QswwA_jwd_kVrOE_HWt_D6ye5JGmExiROIG3daGfGE"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus BioLabs",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12065",
+      "name": "GHK-Cu Copper Peptide Serum for Face  Remedy Science  Doctor",
+      "price": "$30.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQobYYJoDBs0--eUJ8xkUDyRcLD9vWi7Zeti7ybRpyumTUsoeUi4XHQOewf7DMf63QswwA_jwd_kVrOE_HWt_D6ye5JGmExiROIG3daGfGE"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus BioLabs",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12066",
+      "name": "REMEDY GHK-Cu Copper Peptide Serum  Firm  Restore Skin  Reme",
+      "price": "$30.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQobYYJoDBs0--eUJ8xkUDyRcLD9vWi7Zeti7ybRpyumTUsoeUi4XHQOewf7DMf63QswwA_jwd_kVrOE_HWt_D6ye5JGmExiROIG3daGfGE"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus BioLabs",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12067",
+      "name": "ghk cu topical peptide serum 1 GHK-Cu Copper toned complexio",
+      "price": "$24.44",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT2vnhoXbwEkINucvHLHqsbxhGYnibIh_mOaXfz6LqUW6h226YMihwpVFYefVNEHw6m2mBcCi42OnVQc37Z2SBElT6CFIFXW4P3K5WenCRkm3tSki1qlTpDAA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus BioLabs",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12068",
+      "name": "Copper Peptide Serum with 1 GHK-Cu peptide Argireline and Ma",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT8IG6GmLX_co-1qV8RFE-JVe5TNHbJlcsN7WY0JuFVvVyqulV17JGtT3BtrxjHmIfDq435GLUjerP7WpY935fSoSM8rC9vqaogVC8esl2Z8KwTaRhAwxqTKg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus BioLabs",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12069",
+      "name": "Copper Peptide GHK-Cu 100 ml",
+      "price": "$82.86",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRnun8qfw77a6Z4pqivEAj1M5lhXSSK_UWZ3uZOZCcYocXVJmei0aL8eBexI_AVsByK8EJDHvcYBPRxUDXvYMpOL1QyfL8ghVzd2DAD9n8lt5sqPGjRPHsU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus BioLabs",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12070",
+      "name": "ghk-cu copper peptide benefits skin anti-aging hair We are s",
+      "price": "$22.91",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTsDyVcMO2fQsp-VCgKHoxYBNYVhEuLHD1g88S1RgtaZohrVxYmtVLVtCrArmFusdpgABTuq5OWtpQ5vVM8hOuU_6tYB4XUJVxnBYknVGWj3q5GjdOzU5v0"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus BioLabs",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12071",
+      "name": "ghk cu ampoule GHK-Cu Topical Copper Peptide Serum  Dual-Act",
+      "price": "$29.75",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTecpV_k9Uik0F58r1ErDWpEkKNXkGsluSOgHqdRzI3U2znFlqP5Gu_JJ0TOif5ggaB9Y7Ut9b8wZKHV_WO-SOewV6oABy6f1SWe_qHRqRdW5AJ3_3gQJup"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus BioLabs",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12072",
+      "name": "Ghk Cu Copper Peptides Serum for Face Advanced Anti Aging Se",
+      "price": "$17.88",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSIh-1byPkuGpKeLWvDPaEodqXelbLy8AF9TDepMN4_IzWNxobppKB9lR_Yr5t1aNYzjZf6QeGeWAixXyH1ogqviTC3el0fhfhipznibci6Ed9ht45T7naD"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus BioLabs",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12073",
+      "name": "Copper Peptide Serum GHK-Cu",
+      "price": "$13.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQyIO2ee6BeCM34YCnfJloPF5EZLqDJZ7qf9iyW-uOEjpYrFDd8NBHVTGS2A5sbTRcnsEFtZgtWog_rr32AoqT6U-uxVLSjd_AO0NTortcBBVFkRsILEKPSGA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus BioLabs",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12074",
+      "name": "Wholesale GHK-Cu Blue Copper Peptides  EGF kin Care Product ",
+      "price": "$133.00",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQleon1vMZOmSw_fPnC4Nw_Qjr7n_lxSY1g5li6TfNLKnswklY_BhSvq7pNTsfhScCJcSkv94hGYj1hfvPO3t2sHK4RiIuvOnl4uDLbfh57Gqa22jTcXyZ12A"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus BioLabs",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "home-fitness-recovery": [
+    {
+      "id": "WELL-12075",
+      "name": "Rapid Reboot REVAMP HotCold Sleeve  Sauna Republic XL",
+      "price": "$35.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTQ_2Klm3b4wZu011zINNTnOm-CSFJtVPC8fSXA-DrPmmPSlF_mCTyVys4_Av5av-V-RovVV1yTPSYwzdCiIZfKxR5iOwkU-yB03wztYn2TF30BGvJ_vkCp"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Athletics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12076",
+      "name": "Adjustable Fitness Bench with Dumbbells and Resistance Bands",
+      "price": "$97.95",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ_qqdC16yx93amxE8YXhWOgMdwEJ0NqVfwkzXhgaa_G0X7kcgGh2maD6SlwL7RABruyoWsbgROg0jQvJh6qXw_vCp4pFCIvbmjBJgT9bw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Athletics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12077",
+      "name": "thinkstar GARENDE Dumbbell Kettlebell Adjustable Dumbbell Se",
+      "price": "$196.22",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTwMuqC2BDif-N4leuadhfb1As_6XRQZNVT7zD_3Q5PvFda2eTKPTfhf3wW1YJAQ_IytPYoBSmrCtcrXvoKFIOi82kWYHz6x6RKo71eW7j6AoqllkWo2RwwVA"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Athletics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12078",
+      "name": "thinkstar ERGOLIFE 65LB-40LB Adjustable Kettlebell Set 6-in-",
+      "price": "$181.78",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTU_Lsgt09zxkuUYgnPp-f65MLjJzTROAJHDxBiRGwc-SjjQMVFTWUXNb5IWmmhyK7y-z4oruaQocgR8rMnH_KI-Cak6tIT-kLuGILdOQXkn9OcnIX_BHot"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Athletics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12079",
+      "name": "thinkstar Adjustable Kettlebell Set for Versatile Workouts  ",
+      "price": "$127.53",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS-yKqoCPi_W5PWbXAbnjL90ymYPFQe9RTWx3Z1ak939uPHtNx85ibscPu-4P9XKN2_chUCRRpw7H3p_TeMt8xlbBqXNmeVek7GH7uU-kU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Athletics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12080",
+      "name": "thinkstar 2-in-1 Adjustable Kettlebell 15-45LB Kettlebells W",
+      "price": "$226.78",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSjkYc_MJ6sNU1TgUWgQruFRv1M0lH5OcLMegnJYkM4b7l7MPK-Gk9DiE_lfkBqCUMQfHazSWIT6FcxKgT2MenDQliE5gWNt2Jqqctqkxc"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Athletics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12081",
+      "name": "Adjustable Kettlebell 544 lbs  Complimentary Gift  7-in-1 St",
+      "price": "$152.52",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ7k5sPUNEQjK54rBLBfd0ECi8kBDPICQoT-ZhSbWwjAGx8gU6S7fuD-2020mOKpckuMdWRrVeuFV6LV2c_m8hjp7zEHdL6"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Athletics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12082",
+      "name": "thinkstar Adjustable Dumbbell Set 4 in 1 Adjustable Kettlebe",
+      "price": "$122.38",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQVRgtgpJEmwLD0uKFji3Yp2j95XDhaQDpf2rad7nHYR4b_PVZhfM2zf10-_O9ek4bSeB3RzS-mAZKmK3k4GpT2AfxjlFubBtStK5gAiWFKLd9XF63EgP9R"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Athletics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12083",
+      "name": "thinkstar 4-in-1 Multifunctional 88 LBS Adjustable Dumbbell ",
+      "price": "$199.64",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSchpDv2ks652zmg97nTD1uJb8dnaCkynQ4KBbpVF-buQ857IMsuSgw1DyQMANbnvk9LcolAguyEcHGyahHyhutiMLl94Jtlb2dOZGF7CJhgngd_pGVbeFa"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Athletics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12084",
+      "name": "thinkstar Adjustable Kettlebell Set for Versatile Workouts f",
+      "price": "$127.53",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS-yKqoCPi_W5PWbXAbnjL90ymYPFQe9RTWx3Z1ak939uPHtNx85ibscPu-4P9XKN2_chUCRRpw7H3p_TeMt8xlbBqXNmeVek7GH7uU-kU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Athletics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12085",
+      "name": "thinkstar kisnbld Adjustable Kettlebell Set 2 in 1 Free Weig",
+      "price": "$83.48",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTV_HLzIo2KJVz24D7ESGHuEhog-keGaP3kdZMCoHEt13LNhxcRBjhUaE41aX-0nrGjl1ugyitE6pgIiouegU5g-HK8-fnW_xPCabQvSCaAPYBTFcQRkMxo"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Athletics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12086",
+      "name": "thinkstar kurefit Adjustable Kettlebell  5 lb - 12 lb  Kettl",
+      "price": "$95.38",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTVi4LBrkk7pMIDGgcDXu0qdpe4L7TC9nUR1s7Z6o2x8B1zalJ_PR0H9Kv5AWYrWrLv2BlcIqnXGyZW65QFoEQUwwzpcFXk_GyGjrpoPaHoTemSfb0MmjOwng"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Athletics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12087",
+      "name": "Soft Shell Kettlebells with Ergonomic Handle Adjustable Weig",
+      "price": "$29.98",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRvsy0ru_3gyz0hBShpWluCpPcuey7zeZLYHgs3wKrGpSpRA2KyhkgWMie-xt581buoBVGH3yXnrcxNCvA1gqa9OxhVBcog8wuF-yIZORVl_ggB9tYz5Ll_"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Athletics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12088",
+      "name": "BURN BB BUNDLE HOME Bundle Deal",
+      "price": "$120.00",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR1Fq8L9cwey_xzt-LI0LJUJiphQYlJV-qb8Yf8HDdtPn6syKo3_heYfQJcu-NuZDv1rngA58CuB1vcm3kuyfq53UdTE2ene3nDQ_dcevpp9985YaBB4rEc7g"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Athletics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12089",
+      "name": "Adjustable Resistance Weight Belt - Extra Cushioning for Hom",
+      "price": "$10.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhbiO5xx4xa0GIg90xgIy3btP5GTjMTgxrygVLToQFdUprDM63XukOVytqm3f9UthrLi3ICPPkssaPCQQFIZQUkNyxUYkGuA9MUzUxWSoFbZF5MFbQbk8B"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Athletics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12090",
+      "name": "Hip Thrust Adjustable Resistance Weight Belt for Home Workou",
+      "price": "$10.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTTt7y8otVibiDcuigtU1GMwtatqg_tPPjZeHTEq6EfJ65kxOSxWZBTZN4L2SFleY0ive9B6XNrSyQ6oQEZ988mYQqH7l6vs7qKjnzDZ4NI9I4W4uVrigObQg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Athletics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12091",
+      "name": "Soft Shell Kettlebells with Ergonomic Handle Adjustable Weig",
+      "price": "$22.88",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ4T9Vg12dqoBqNLFpZc0hpNk8xi2mHw7nLlLvk3m6hLtphaAvmslAhVAC9PAOoI94fsYkbmFf1tQqqbhhejYK_eqOUkuvDc5rHyjRD6t2UD36APzm-c5pJ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Athletics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12092",
+      "name": "kurefit Adjustable Kettlebell  5 lb - 12 lb  Kettlebell Weig",
+      "price": "$99.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTh2U2Ou7t_KsaRNJKohdTQYi_zfVdqZznTdG_CA1BEt1Xz7RsMVMaaX1D2uC0C_mA782NBUFTWZNtDtNJIYBh4fOehlNcw6Czo1BT4NXxD"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Athletics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12093",
+      "name": "Soft Shell Kettlebells with Ergonomic Handle Adjustable Weig",
+      "price": "$34.98",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTRsqc44syqE6tiReuRNLUTgKwwmlldb15Bi2Omfriz8iBue1rjfBJ74F00KuYTN4m-I6I-eL6EZC7zkBHHtGAKE9EUfae6-2rHgspy3yr5mro5gxt9h8HEfg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Athletics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12094",
+      "name": "Soft Shell Kettlebells with Ergonomic Handle Adjustable Weig",
+      "price": "$39.98",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSgnEQ-WYb8t0Vxlqviyec-Jjwq6IiWSYuruLBaqsThxOAxfC_NoaLYSYk3a6N5whPGtt01dN5cK0ap8_gQPTPD5RES6CBS3p84gH-P3j7MwToOKztaUJ89"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Athletics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12095",
+      "name": "Soft Shell Kettlebells with Ergonomic Handle Adjustable Weig",
+      "price": "$28.95",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRvsy0ru_3gyz0hBShpWluCpPcuey7zeZLYHgs3wKrGpSpRA2KyhkgWMie-xt581buoBVGH3yXnrcxNCvA1gqa9OxhVBcog8wuF-yIZORVl_ggB9tYz5Ll_"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Athletics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12096",
+      "name": "Hip Thrust Adjustable Resistance Weight Belt for Home Workou",
+      "price": "$10.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTT_N08SuVTkL-83MtRgUxxsm9-ucFJLZIoh_1pRosvXy8rLKJGsl6VL0KL7EXRixRrS0sxU9yLaUTfpriq7ikKcE7WUSCin3CZASqqR3acfFF81RbX-tbd"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Athletics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12097",
+      "name": "Adjustable Soft Kettlebell with Handle Grip 15lb Pink Streng",
+      "price": "$29.48",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRw52JLe5MlIzVmEJR5I23BqT1v-ndKSk_RtnltMK6u_2lUEXArjj9pDY3np9qMGQHkkBrcMx12tJBurnp-Fb9orx1YYpUrdb7n573cJWe3SlicsPRugTgx"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Athletics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12098",
+      "name": "Hip Thrust Adjustable Resistance Weight Belt for Home Workou",
+      "price": "$10.61",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ2aroaWRe5R3tJdxuty4s2cII77lsjS46hFgQ4o7eE5HQ0AiNNY6Tolo4t30sO0ZADXg_4RjYnF_3_qJs9Ic9oofXEwmYiVfX5UsMq-dWprFV66ZQ1jTj0OQ"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Athletics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "WELL-12099",
+      "name": "Soft Kettlebell Adjustable Sets For Workouts Home Fitness Eq",
+      "price": "$63.36",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSzHhB-t4kwOmetbMjEn9g3vBIxcadWPb6RPP9bLi9IdAWvKH03k4gvQ6KHeiVUcJFH_k9GLjqDY4o0Xl5d6OCUX1NJstLKTwd4jE0nJyI"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Athletics",
+        "condition": "Factory Sealed / DSHEA Compliant",
+        "shipping": "Tracked Priority ($7.99)",
+        "market_value": "Live Google Shopping Index"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
   ]
 };
