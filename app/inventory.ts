@@ -607,7 +607,7 @@ export const masterInventory: Record<string, any[]> = {
       "name": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRW-OVV1j4u6XtjAIhX79UR2JfJKuyai8SZaMMF6WsrFU782ZS1Bsygg7TrBhqhP9HukqltvG8"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaimI1zeK_qsX-U_DCgjajKgMXvgumrTwZW2oVM737mgrXwBAFIwBCgcfNoaR_v3e6bg2Yfv_bL6qXZhfHg9okPzwDgH1B0CP9JiYmAHppTe51a-HAM7B9OQ"
       ],
       "video": false,
       "specs": {
@@ -619,10 +619,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0002",
-      "name": "Neo-Squish Mystery Crate: Rainbow Butterfly Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Valentine's Day Dragon Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSD4Ej_M_Ii0l6cZv3baHrWOiO-EspWQVD_9tGmYGEOExer7cxpfa7ZDrl6OnnUy2pvZiw8D5A16pE1RxMKbcPlmJmr3xpwYOlRmjqPhP1dU_UsjUtQhDN"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTszIu3GLCm1cZLb_gZGpUHPm2sj31bTPfHVkbl9_KQorEoTBD5cHugMsJA-H8xWwlWtCl2mECeMBQS8wppjlQyz567yvGGpCq_YNco58TXo2mkIUtxp2ft"
       ],
       "video": false,
       "specs": {
@@ -634,10 +634,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0003",
-      "name": "Neo-Squish Mystery Crate: Holiday Reindeer Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Christmas Sloth Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ06xONZAGm-6O4jyCHYUkEF19E_kpj27BVaTLOgi8BB5UZFIFIwJMvaFWW7-P5I_ljbfEnUiQGEsJekypVfJhZ_X0d9UI5oWtppSQ6CmU"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7yaUiDc4PvD76iUBtz-z3cMyrfWSsBiiAfaZiwd_7xl_G6aU2cDTGnf9ib8sAkYzJKvXA-jc2c6UUVYk3qDmziE1ccUnVt8_sWUOVkj59"
       ],
       "video": false,
       "specs": {
@@ -649,51 +649,6 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0004",
-      "name": "Neo-Squish Mystery Crate: Space Narwhal Edition [MICRO]",
-      "price": "$9.99",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ09BT2Vjs_fexHXN6mIfRfzGwfltyjxWBxTuAIWirILaL9JCvopSDl7AZKRSwvZ9pE6uNfdO0SQosC7TTd4rukG2ocwUoCaDX2PLoOaO3"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Entry Level Crate",
-        "shipping": "Tiered Tracked Shipping ($1.99)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0005",
-      "name": "Neo-Squish Mystery Crate: Cosmic Dragon Edition [MICRO]",
-      "price": "$9.99",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJqKadusJ-4Kx3lKzpVJQG_wwLjpgAY__reI_SlRy4hVb29mk8Jv5zdso9kR5BZtuCO0TsiMmWhn1UUddv_bken5DBM-MEMH5Oo_j7RiVGP8uNMYZ6m3PDwQ"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Entry Level Crate",
-        "shipping": "Tiered Tracked Shipping ($1.99)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0006",
-      "name": "Neo-Squish Mystery Crate: Valentine’s Day Panda Edition [MICRO]",
-      "price": "$9.99",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_cXiuT16JWEsQRAwd-iGwNmsC1UNM2p1bgZXG8GkGhz5yYugC0fiXKjBqPvI5jIUNadvTevKL35mARwWs6TFnX86KbtoqgShbd08p0muX"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Entry Level Crate",
-        "shipping": "Tiered Tracked Shipping ($1.99)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0007",
       "name": "Neo-Squish Mystery Crate: Easter Bunny Edition [MICRO]",
       "price": "$9.99",
       "media": [
@@ -708,11 +663,56 @@ export const masterInventory: Record<string, any[]> = {
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "SQSH-0008",
-      "name": "Neo-Squish Mystery Crate: St. Patrick’s Day Frog Edition [MICRO]",
+      "id": "SQSH-0005",
+      "name": "Neo-Squish Mystery Crate: Tie Dye Llama Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6KRgGUuYBv8xT232yDs0tgv3Jvke_GJsJn7rtaReTl5TpoZ25ytPoDMAktqfhcb70CY5eJv0_34BUbMVU6qbpd4lrnsJYfZcNF9RbPQ930qe2tgSoMPrU"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJSB3Yel66pOqgQYYdWjsgCuCEEklbEs3uBLnnd5XMxLxkzOPIFC9e3oVYw2m2RBzON6F5E-CTW4Vrjhk5Hf1AsULRPSFNtjmsCfW2MhLR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0006",
+      "name": "Neo-Squish Mystery Crate: Rainbow Octopus Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGZ__6vPMa83Mfk2sCcObLMnQh_FIG9kMKWBRu2husyrIRL_SooN7uAAc5Ho4"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0007",
+      "name": "Neo-Squish Mystery Crate: Halloween Cat Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBkL6x5aM7qGkKVAOu3nHjxdd3zrOEDR7eVbcp2zPDPyfd-lmqKMA8-CspekVB50UVRjAydtD3rgsmA1-dtUTyVw9TLHAehQkzQF4Y1G5Ym-29ABm_DMFq"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0008",
+      "name": "Neo-Squish Mystery Crate: Galaxy Narwhal Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRHWWAS5p2Mkk1sUZW8A19aAKNTrf7EXXyBks2QVfjdA3XIHxfpo50UQn2eRROFdo9ZAzPEcI3jpkYqdoKybiXBNepz6509nXlhNyDy0xAE"
       ],
       "video": false,
       "specs": {
@@ -724,10 +724,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0009",
-      "name": "Neo-Squish Mystery Crate: Summer Flamingo Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Floral Fox Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMkGmYBwjDDxv1-w8mXrSIq6iGDtwv5vVez0tzpFY7KIAh6dRAr-nx1tdIfJxvRDpKX1k1BArMTlEL8n2I6IuoHYMelCCXHb4Q-qL1q57jyTW08awQ8s3-"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS1p6Q0eijWrD_4tCh-phc1bcMw-ODD73wD45azEACgSFPDH-jvC5RBO9iCXf-Pam7ifQf5JbOWLCQEKU90EM2DDpUVxRNw2LQJ6PibdTD0EvUIcKirXK8Jcw"
       ],
       "video": false,
       "specs": {
@@ -739,10 +739,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0010",
-      "name": "Neo-Squish Mystery Crate: Halloween Ghost Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Autumn Owl Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQrhDoDLiEC1zqHfcI80wyk2J4YI5hapGnAXJ6IKLmy3OtoY0OigztbTlAmHLqn9oMKPvub-V98IaWuvKy6wJj8Vv5K9mRzkhtjO64hh-M"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSyj4QK71sHDiv9uAjRG2ELnEqmuITYvahMVeSkqvRKrhn7J7j7hpVpjVCstGMxPGykeNKwSXQd6OPq9UozRtVdOOSEx31YgaL2BMmGHTWM_xUzJI38OwzE"
       ],
       "video": false,
       "specs": {
@@ -754,10 +754,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0011",
-      "name": "Neo-Squish Mystery Crate: Autumn Fox Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Tropical Toucan Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ1ub6wsv_VU6ByPOZgGSiQ8DDUpEIWgjBU0zql4vfEMqSC6TUou0R1zutQlE2txT2UPD9ZiECLhIPZBsuy-LHGZN9VOyYAA1OqBNQBGcOY"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSZxFE3U1qEgTdwEK-AOCjM4nT0Yg9_sfMURH9uRH251W3axxtNicKFjuU8lPycmZgbBz6DjVswG9D4QIwxt28cbH1LX4xpIEUAFIE-u2bWxu-Fixj1QxdwAg"
       ],
       "video": false,
       "specs": {
@@ -769,10 +769,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0012",
-      "name": "Neo-Squish Mystery Crate: Winter Penguin Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Pirate Panda Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSbt9esk1cXSF8UWO8bqzXYaeaQPbXSBIK4Wzb6lZzYJQ97uZVPBT51zsmOU-79V6WNoxkEHX4WAL0GkKhJIKTYUyhhBKDdLjX88f_Zd6Q"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSoXYICMdLuW963mucjhqjlU594-IPDzG_PHPF97pGtV0vMwHuFzZW8WIwG9-q71Ah0G_dL6S2QQyxb65pFAjj_A8esLD9Htlzlq-eg1R4"
       ],
       "video": false,
       "specs": {
@@ -784,10 +784,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0013",
-      "name": "Neo-Squish Mystery Crate: Ocean Seahorse Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Safari Giraffe Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRrcr39r4yiWq9wKxlLpLPoa--QFmqTj9utYJwIphEiC1selaw-QIzeTeBNTKJBN-XcgoA4JffP0yc-SFxWbkH00g41JFAIwFoEcttK4XcNTTG4nbwjm6dzhA"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQOuNm4BN4ChuegntdSwjpVq34aAgzYFa-o-ytKv93jZ0qU91vchHuO_D6v1pzSqXaHhUc-TCMhMbQ5fql36xY5D7Qa8Fln32T9VqkiWVDP6n9fUfBnuz-Xbw"
       ],
       "video": false,
       "specs": {
@@ -799,10 +799,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0014",
-      "name": "Neo-Squish Mystery Crate: Safari Elephant Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Ice Cream Cone Bear Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrLLVLIwG4UO3K3-tXw9FERcUBee-94FIiyNjlvRRxfAeS5Y63dVa_SAkMjPHx-sONXLKjlmxZWJRJTArw1PgxV40brhiKiyI-OM1w_Ik2"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTjbvHU4avE_J0sO7xzIPahxqkx3McdWadm-ebcbEatT6suIlhBzc-aCaOmg7jhhiG-JsLdLAYyjGkT3mjVvkhSolGkIdlSp1jZyabe1MhQXw4NUKe7CWf7"
       ],
       "video": false,
       "specs": {
@@ -814,10 +814,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0015",
-      "name": "Neo-Squish Mystery Crate: Superhero Koala Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Space Alien Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT0LA0p_x_z8iKT7N5XqGXpLN0UvsJaqGJv4DiT8FhnxXHckM0_Y-LJLasdev_0L_ub6bzpEjXpBBwrpyljlGuttJ3jpBYc3JzLmOYjZxgziPNikVvxXxlLGg"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSjwOkBCw9ZSVNsR_-6O-wzBpAVhpjBIur1wXDF6dYmg6aDAdpz70TVhGF4J1P_uSpo09MpzgF6-Iqayjj2M14EvkC-1i07XM2gt4T1ko-r6HyzuS6aA1OZpA"
       ],
       "video": false,
       "specs": {
@@ -832,7 +832,7 @@ export const masterInventory: Record<string, any[]> = {
       "name": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRW-OVV1j4u6XtjAIhX79UR2JfJKuyai8SZaMMF6WsrFU782ZS1Bsygg7TrBhqhP9HukqltvG8"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaimI1zeK_qsX-U_DCgjajKgMXvgumrTwZW2oVM737mgrXwBAFIwBCgcfNoaR_v3e6bg2Yfv_bL6qXZhfHg9okPzwDgH1B0CP9JiYmAHppTe51a-HAM7B9OQ"
       ],
       "video": false,
       "specs": {
@@ -844,10 +844,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0017",
-      "name": "Neo-Squish Mystery Crate: Rainbow Butterfly Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Valentine's Day Dragon Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSD4Ej_M_Ii0l6cZv3baHrWOiO-EspWQVD_9tGmYGEOExer7cxpfa7ZDrl6OnnUy2pvZiw8D5A16pE1RxMKbcPlmJmr3xpwYOlRmjqPhP1dU_UsjUtQhDN"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTszIu3GLCm1cZLb_gZGpUHPm2sj31bTPfHVkbl9_KQorEoTBD5cHugMsJA-H8xWwlWtCl2mECeMBQS8wppjlQyz567yvGGpCq_YNco58TXo2mkIUtxp2ft"
       ],
       "video": false,
       "specs": {
@@ -859,10 +859,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0018",
-      "name": "Neo-Squish Mystery Crate: Holiday Reindeer Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Christmas Sloth Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ06xONZAGm-6O4jyCHYUkEF19E_kpj27BVaTLOgi8BB5UZFIFIwJMvaFWW7-P5I_ljbfEnUiQGEsJekypVfJhZ_X0d9UI5oWtppSQ6CmU"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7yaUiDc4PvD76iUBtz-z3cMyrfWSsBiiAfaZiwd_7xl_G6aU2cDTGnf9ib8sAkYzJKvXA-jc2c6UUVYk3qDmziE1ccUnVt8_sWUOVkj59"
       ],
       "video": false,
       "specs": {
@@ -874,51 +874,6 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0019",
-      "name": "Neo-Squish Mystery Crate: Space Narwhal Edition [MICRO]",
-      "price": "$9.99",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ09BT2Vjs_fexHXN6mIfRfzGwfltyjxWBxTuAIWirILaL9JCvopSDl7AZKRSwvZ9pE6uNfdO0SQosC7TTd4rukG2ocwUoCaDX2PLoOaO3"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Entry Level Crate",
-        "shipping": "Tiered Tracked Shipping ($1.99)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0020",
-      "name": "Neo-Squish Mystery Crate: Cosmic Dragon Edition [MICRO]",
-      "price": "$9.99",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJqKadusJ-4Kx3lKzpVJQG_wwLjpgAY__reI_SlRy4hVb29mk8Jv5zdso9kR5BZtuCO0TsiMmWhn1UUddv_bken5DBM-MEMH5Oo_j7RiVGP8uNMYZ6m3PDwQ"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Entry Level Crate",
-        "shipping": "Tiered Tracked Shipping ($1.99)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0021",
-      "name": "Neo-Squish Mystery Crate: Valentine’s Day Panda Edition [MICRO]",
-      "price": "$9.99",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_cXiuT16JWEsQRAwd-iGwNmsC1UNM2p1bgZXG8GkGhz5yYugC0fiXKjBqPvI5jIUNadvTevKL35mARwWs6TFnX86KbtoqgShbd08p0muX"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Entry Level Crate",
-        "shipping": "Tiered Tracked Shipping ($1.99)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0022",
       "name": "Neo-Squish Mystery Crate: Easter Bunny Edition [MICRO]",
       "price": "$9.99",
       "media": [
@@ -933,11 +888,56 @@ export const masterInventory: Record<string, any[]> = {
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "SQSH-0023",
-      "name": "Neo-Squish Mystery Crate: St. Patrick’s Day Frog Edition [MICRO]",
+      "id": "SQSH-0020",
+      "name": "Neo-Squish Mystery Crate: Tie Dye Llama Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6KRgGUuYBv8xT232yDs0tgv3Jvke_GJsJn7rtaReTl5TpoZ25ytPoDMAktqfhcb70CY5eJv0_34BUbMVU6qbpd4lrnsJYfZcNF9RbPQ930qe2tgSoMPrU"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJSB3Yel66pOqgQYYdWjsgCuCEEklbEs3uBLnnd5XMxLxkzOPIFC9e3oVYw2m2RBzON6F5E-CTW4Vrjhk5Hf1AsULRPSFNtjmsCfW2MhLR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0021",
+      "name": "Neo-Squish Mystery Crate: Rainbow Octopus Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGZ__6vPMa83Mfk2sCcObLMnQh_FIG9kMKWBRu2husyrIRL_SooN7uAAc5Ho4"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0022",
+      "name": "Neo-Squish Mystery Crate: Halloween Cat Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBkL6x5aM7qGkKVAOu3nHjxdd3zrOEDR7eVbcp2zPDPyfd-lmqKMA8-CspekVB50UVRjAydtD3rgsmA1-dtUTyVw9TLHAehQkzQF4Y1G5Ym-29ABm_DMFq"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0023",
+      "name": "Neo-Squish Mystery Crate: Galaxy Narwhal Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRHWWAS5p2Mkk1sUZW8A19aAKNTrf7EXXyBks2QVfjdA3XIHxfpo50UQn2eRROFdo9ZAzPEcI3jpkYqdoKybiXBNepz6509nXlhNyDy0xAE"
       ],
       "video": false,
       "specs": {
@@ -949,10 +949,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0024",
-      "name": "Neo-Squish Mystery Crate: Summer Flamingo Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Floral Fox Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMkGmYBwjDDxv1-w8mXrSIq6iGDtwv5vVez0tzpFY7KIAh6dRAr-nx1tdIfJxvRDpKX1k1BArMTlEL8n2I6IuoHYMelCCXHb4Q-qL1q57jyTW08awQ8s3-"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS1p6Q0eijWrD_4tCh-phc1bcMw-ODD73wD45azEACgSFPDH-jvC5RBO9iCXf-Pam7ifQf5JbOWLCQEKU90EM2DDpUVxRNw2LQJ6PibdTD0EvUIcKirXK8Jcw"
       ],
       "video": false,
       "specs": {
@@ -964,10 +964,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0025",
-      "name": "Neo-Squish Mystery Crate: Halloween Ghost Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Autumn Owl Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQrhDoDLiEC1zqHfcI80wyk2J4YI5hapGnAXJ6IKLmy3OtoY0OigztbTlAmHLqn9oMKPvub-V98IaWuvKy6wJj8Vv5K9mRzkhtjO64hh-M"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSyj4QK71sHDiv9uAjRG2ELnEqmuITYvahMVeSkqvRKrhn7J7j7hpVpjVCstGMxPGykeNKwSXQd6OPq9UozRtVdOOSEx31YgaL2BMmGHTWM_xUzJI38OwzE"
       ],
       "video": false,
       "specs": {
@@ -979,10 +979,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0026",
-      "name": "Neo-Squish Mystery Crate: Autumn Fox Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Tropical Toucan Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ1ub6wsv_VU6ByPOZgGSiQ8DDUpEIWgjBU0zql4vfEMqSC6TUou0R1zutQlE2txT2UPD9ZiECLhIPZBsuy-LHGZN9VOyYAA1OqBNQBGcOY"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSZxFE3U1qEgTdwEK-AOCjM4nT0Yg9_sfMURH9uRH251W3axxtNicKFjuU8lPycmZgbBz6DjVswG9D4QIwxt28cbH1LX4xpIEUAFIE-u2bWxu-Fixj1QxdwAg"
       ],
       "video": false,
       "specs": {
@@ -994,10 +994,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0027",
-      "name": "Neo-Squish Mystery Crate: Winter Penguin Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Pirate Panda Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSbt9esk1cXSF8UWO8bqzXYaeaQPbXSBIK4Wzb6lZzYJQ97uZVPBT51zsmOU-79V6WNoxkEHX4WAL0GkKhJIKTYUyhhBKDdLjX88f_Zd6Q"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSoXYICMdLuW963mucjhqjlU594-IPDzG_PHPF97pGtV0vMwHuFzZW8WIwG9-q71Ah0G_dL6S2QQyxb65pFAjj_A8esLD9Htlzlq-eg1R4"
       ],
       "video": false,
       "specs": {
@@ -1009,10 +1009,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0028",
-      "name": "Neo-Squish Mystery Crate: Ocean Seahorse Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Safari Giraffe Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRrcr39r4yiWq9wKxlLpLPoa--QFmqTj9utYJwIphEiC1selaw-QIzeTeBNTKJBN-XcgoA4JffP0yc-SFxWbkH00g41JFAIwFoEcttK4XcNTTG4nbwjm6dzhA"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQOuNm4BN4ChuegntdSwjpVq34aAgzYFa-o-ytKv93jZ0qU91vchHuO_D6v1pzSqXaHhUc-TCMhMbQ5fql36xY5D7Qa8Fln32T9VqkiWVDP6n9fUfBnuz-Xbw"
       ],
       "video": false,
       "specs": {
@@ -1024,10 +1024,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0029",
-      "name": "Neo-Squish Mystery Crate: Safari Elephant Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Ice Cream Cone Bear Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrLLVLIwG4UO3K3-tXw9FERcUBee-94FIiyNjlvRRxfAeS5Y63dVa_SAkMjPHx-sONXLKjlmxZWJRJTArw1PgxV40brhiKiyI-OM1w_Ik2"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTjbvHU4avE_J0sO7xzIPahxqkx3McdWadm-ebcbEatT6suIlhBzc-aCaOmg7jhhiG-JsLdLAYyjGkT3mjVvkhSolGkIdlSp1jZyabe1MhQXw4NUKe7CWf7"
       ],
       "video": false,
       "specs": {
@@ -1039,10 +1039,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0030",
-      "name": "Neo-Squish Mystery Crate: Superhero Koala Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Space Alien Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT0LA0p_x_z8iKT7N5XqGXpLN0UvsJaqGJv4DiT8FhnxXHckM0_Y-LJLasdev_0L_ub6bzpEjXpBBwrpyljlGuttJ3jpBYc3JzLmOYjZxgziPNikVvxXxlLGg"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSjwOkBCw9ZSVNsR_-6O-wzBpAVhpjBIur1wXDF6dYmg6aDAdpz70TVhGF4J1P_uSpo09MpzgF6-Iqayjj2M14EvkC-1i07XM2gt4T1ko-r6HyzuS6aA1OZpA"
       ],
       "video": false,
       "specs": {
@@ -1057,7 +1057,7 @@ export const masterInventory: Record<string, any[]> = {
       "name": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRW-OVV1j4u6XtjAIhX79UR2JfJKuyai8SZaMMF6WsrFU782ZS1Bsygg7TrBhqhP9HukqltvG8"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaimI1zeK_qsX-U_DCgjajKgMXvgumrTwZW2oVM737mgrXwBAFIwBCgcfNoaR_v3e6bg2Yfv_bL6qXZhfHg9okPzwDgH1B0CP9JiYmAHppTe51a-HAM7B9OQ"
       ],
       "video": false,
       "specs": {
@@ -1069,10 +1069,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0032",
-      "name": "Neo-Squish Mystery Crate: Rainbow Butterfly Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Valentine's Day Dragon Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSD4Ej_M_Ii0l6cZv3baHrWOiO-EspWQVD_9tGmYGEOExer7cxpfa7ZDrl6OnnUy2pvZiw8D5A16pE1RxMKbcPlmJmr3xpwYOlRmjqPhP1dU_UsjUtQhDN"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTszIu3GLCm1cZLb_gZGpUHPm2sj31bTPfHVkbl9_KQorEoTBD5cHugMsJA-H8xWwlWtCl2mECeMBQS8wppjlQyz567yvGGpCq_YNco58TXo2mkIUtxp2ft"
       ],
       "video": false,
       "specs": {
@@ -1084,10 +1084,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0033",
-      "name": "Neo-Squish Mystery Crate: Holiday Reindeer Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Christmas Sloth Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ06xONZAGm-6O4jyCHYUkEF19E_kpj27BVaTLOgi8BB5UZFIFIwJMvaFWW7-P5I_ljbfEnUiQGEsJekypVfJhZ_X0d9UI5oWtppSQ6CmU"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7yaUiDc4PvD76iUBtz-z3cMyrfWSsBiiAfaZiwd_7xl_G6aU2cDTGnf9ib8sAkYzJKvXA-jc2c6UUVYk3qDmziE1ccUnVt8_sWUOVkj59"
       ],
       "video": false,
       "specs": {
@@ -1099,51 +1099,6 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0034",
-      "name": "Neo-Squish Mystery Crate: Space Narwhal Edition [MICRO]",
-      "price": "$9.99",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ09BT2Vjs_fexHXN6mIfRfzGwfltyjxWBxTuAIWirILaL9JCvopSDl7AZKRSwvZ9pE6uNfdO0SQosC7TTd4rukG2ocwUoCaDX2PLoOaO3"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Entry Level Crate",
-        "shipping": "Tiered Tracked Shipping ($1.99)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0035",
-      "name": "Neo-Squish Mystery Crate: Cosmic Dragon Edition [MICRO]",
-      "price": "$9.99",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJqKadusJ-4Kx3lKzpVJQG_wwLjpgAY__reI_SlRy4hVb29mk8Jv5zdso9kR5BZtuCO0TsiMmWhn1UUddv_bken5DBM-MEMH5Oo_j7RiVGP8uNMYZ6m3PDwQ"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Entry Level Crate",
-        "shipping": "Tiered Tracked Shipping ($1.99)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0036",
-      "name": "Neo-Squish Mystery Crate: Valentine’s Day Panda Edition [MICRO]",
-      "price": "$9.99",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_cXiuT16JWEsQRAwd-iGwNmsC1UNM2p1bgZXG8GkGhz5yYugC0fiXKjBqPvI5jIUNadvTevKL35mARwWs6TFnX86KbtoqgShbd08p0muX"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Entry Level Crate",
-        "shipping": "Tiered Tracked Shipping ($1.99)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0037",
       "name": "Neo-Squish Mystery Crate: Easter Bunny Edition [MICRO]",
       "price": "$9.99",
       "media": [
@@ -1158,11 +1113,56 @@ export const masterInventory: Record<string, any[]> = {
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "SQSH-0038",
-      "name": "Neo-Squish Mystery Crate: St. Patrick’s Day Frog Edition [MICRO]",
+      "id": "SQSH-0035",
+      "name": "Neo-Squish Mystery Crate: Tie Dye Llama Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6KRgGUuYBv8xT232yDs0tgv3Jvke_GJsJn7rtaReTl5TpoZ25ytPoDMAktqfhcb70CY5eJv0_34BUbMVU6qbpd4lrnsJYfZcNF9RbPQ930qe2tgSoMPrU"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJSB3Yel66pOqgQYYdWjsgCuCEEklbEs3uBLnnd5XMxLxkzOPIFC9e3oVYw2m2RBzON6F5E-CTW4Vrjhk5Hf1AsULRPSFNtjmsCfW2MhLR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0036",
+      "name": "Neo-Squish Mystery Crate: Rainbow Octopus Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGZ__6vPMa83Mfk2sCcObLMnQh_FIG9kMKWBRu2husyrIRL_SooN7uAAc5Ho4"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0037",
+      "name": "Neo-Squish Mystery Crate: Halloween Cat Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBkL6x5aM7qGkKVAOu3nHjxdd3zrOEDR7eVbcp2zPDPyfd-lmqKMA8-CspekVB50UVRjAydtD3rgsmA1-dtUTyVw9TLHAehQkzQF4Y1G5Ym-29ABm_DMFq"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Entry Level Crate",
+        "shipping": "Tiered Tracked Shipping ($1.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0038",
+      "name": "Neo-Squish Mystery Crate: Galaxy Narwhal Edition [MICRO]",
+      "price": "$9.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRHWWAS5p2Mkk1sUZW8A19aAKNTrf7EXXyBks2QVfjdA3XIHxfpo50UQn2eRROFdo9ZAzPEcI3jpkYqdoKybiXBNepz6509nXlhNyDy0xAE"
       ],
       "video": false,
       "specs": {
@@ -1174,10 +1174,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0039",
-      "name": "Neo-Squish Mystery Crate: Summer Flamingo Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Floral Fox Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMkGmYBwjDDxv1-w8mXrSIq6iGDtwv5vVez0tzpFY7KIAh6dRAr-nx1tdIfJxvRDpKX1k1BArMTlEL8n2I6IuoHYMelCCXHb4Q-qL1q57jyTW08awQ8s3-"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS1p6Q0eijWrD_4tCh-phc1bcMw-ODD73wD45azEACgSFPDH-jvC5RBO9iCXf-Pam7ifQf5JbOWLCQEKU90EM2DDpUVxRNw2LQJ6PibdTD0EvUIcKirXK8Jcw"
       ],
       "video": false,
       "specs": {
@@ -1189,10 +1189,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0040",
-      "name": "Neo-Squish Mystery Crate: Halloween Ghost Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Autumn Owl Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQrhDoDLiEC1zqHfcI80wyk2J4YI5hapGnAXJ6IKLmy3OtoY0OigztbTlAmHLqn9oMKPvub-V98IaWuvKy6wJj8Vv5K9mRzkhtjO64hh-M"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSyj4QK71sHDiv9uAjRG2ELnEqmuITYvahMVeSkqvRKrhn7J7j7hpVpjVCstGMxPGykeNKwSXQd6OPq9UozRtVdOOSEx31YgaL2BMmGHTWM_xUzJI38OwzE"
       ],
       "video": false,
       "specs": {
@@ -1204,10 +1204,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0041",
-      "name": "Neo-Squish Mystery Crate: Autumn Fox Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Tropical Toucan Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ1ub6wsv_VU6ByPOZgGSiQ8DDUpEIWgjBU0zql4vfEMqSC6TUou0R1zutQlE2txT2UPD9ZiECLhIPZBsuy-LHGZN9VOyYAA1OqBNQBGcOY"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSZxFE3U1qEgTdwEK-AOCjM4nT0Yg9_sfMURH9uRH251W3axxtNicKFjuU8lPycmZgbBz6DjVswG9D4QIwxt28cbH1LX4xpIEUAFIE-u2bWxu-Fixj1QxdwAg"
       ],
       "video": false,
       "specs": {
@@ -1219,10 +1219,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0042",
-      "name": "Neo-Squish Mystery Crate: Winter Penguin Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Pirate Panda Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSbt9esk1cXSF8UWO8bqzXYaeaQPbXSBIK4Wzb6lZzYJQ97uZVPBT51zsmOU-79V6WNoxkEHX4WAL0GkKhJIKTYUyhhBKDdLjX88f_Zd6Q"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSoXYICMdLuW963mucjhqjlU594-IPDzG_PHPF97pGtV0vMwHuFzZW8WIwG9-q71Ah0G_dL6S2QQyxb65pFAjj_A8esLD9Htlzlq-eg1R4"
       ],
       "video": false,
       "specs": {
@@ -1234,10 +1234,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0043",
-      "name": "Neo-Squish Mystery Crate: Ocean Seahorse Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Safari Giraffe Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRrcr39r4yiWq9wKxlLpLPoa--QFmqTj9utYJwIphEiC1selaw-QIzeTeBNTKJBN-XcgoA4JffP0yc-SFxWbkH00g41JFAIwFoEcttK4XcNTTG4nbwjm6dzhA"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQOuNm4BN4ChuegntdSwjpVq34aAgzYFa-o-ytKv93jZ0qU91vchHuO_D6v1pzSqXaHhUc-TCMhMbQ5fql36xY5D7Qa8Fln32T9VqkiWVDP6n9fUfBnuz-Xbw"
       ],
       "video": false,
       "specs": {
@@ -1249,10 +1249,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0044",
-      "name": "Neo-Squish Mystery Crate: Safari Elephant Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Ice Cream Cone Bear Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrLLVLIwG4UO3K3-tXw9FERcUBee-94FIiyNjlvRRxfAeS5Y63dVa_SAkMjPHx-sONXLKjlmxZWJRJTArw1PgxV40brhiKiyI-OM1w_Ik2"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTjbvHU4avE_J0sO7xzIPahxqkx3McdWadm-ebcbEatT6suIlhBzc-aCaOmg7jhhiG-JsLdLAYyjGkT3mjVvkhSolGkIdlSp1jZyabe1MhQXw4NUKe7CWf7"
       ],
       "video": false,
       "specs": {
@@ -1264,10 +1264,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0045",
-      "name": "Neo-Squish Mystery Crate: Superhero Koala Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Space Alien Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT0LA0p_x_z8iKT7N5XqGXpLN0UvsJaqGJv4DiT8FhnxXHckM0_Y-LJLasdev_0L_ub6bzpEjXpBBwrpyljlGuttJ3jpBYc3JzLmOYjZxgziPNikVvxXxlLGg"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSjwOkBCw9ZSVNsR_-6O-wzBpAVhpjBIur1wXDF6dYmg6aDAdpz70TVhGF4J1P_uSpo09MpzgF6-Iqayjj2M14EvkC-1i07XM2gt4T1ko-r6HyzuS6aA1OZpA"
       ],
       "video": false,
       "specs": {
@@ -1282,7 +1282,7 @@ export const masterInventory: Record<string, any[]> = {
       "name": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRW-OVV1j4u6XtjAIhX79UR2JfJKuyai8SZaMMF6WsrFU782ZS1Bsygg7TrBhqhP9HukqltvG8"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaimI1zeK_qsX-U_DCgjajKgMXvgumrTwZW2oVM737mgrXwBAFIwBCgcfNoaR_v3e6bg2Yfv_bL6qXZhfHg9okPzwDgH1B0CP9JiYmAHppTe51a-HAM7B9OQ"
       ],
       "video": false,
       "specs": {
@@ -1294,10 +1294,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0047",
-      "name": "Neo-Squish Mystery Crate: Rainbow Butterfly Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Valentine's Day Dragon Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSD4Ej_M_Ii0l6cZv3baHrWOiO-EspWQVD_9tGmYGEOExer7cxpfa7ZDrl6OnnUy2pvZiw8D5A16pE1RxMKbcPlmJmr3xpwYOlRmjqPhP1dU_UsjUtQhDN"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTszIu3GLCm1cZLb_gZGpUHPm2sj31bTPfHVkbl9_KQorEoTBD5cHugMsJA-H8xWwlWtCl2mECeMBQS8wppjlQyz567yvGGpCq_YNco58TXo2mkIUtxp2ft"
       ],
       "video": false,
       "specs": {
@@ -1309,10 +1309,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0048",
-      "name": "Neo-Squish Mystery Crate: Holiday Reindeer Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Christmas Sloth Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ06xONZAGm-6O4jyCHYUkEF19E_kpj27BVaTLOgi8BB5UZFIFIwJMvaFWW7-P5I_ljbfEnUiQGEsJekypVfJhZ_X0d9UI5oWtppSQ6CmU"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7yaUiDc4PvD76iUBtz-z3cMyrfWSsBiiAfaZiwd_7xl_G6aU2cDTGnf9ib8sAkYzJKvXA-jc2c6UUVYk3qDmziE1ccUnVt8_sWUOVkj59"
       ],
       "video": false,
       "specs": {
@@ -1324,10 +1324,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0049",
-      "name": "Neo-Squish Mystery Crate: Space Narwhal Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Easter Bunny Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ09BT2Vjs_fexHXN6mIfRfzGwfltyjxWBxTuAIWirILaL9JCvopSDl7AZKRSwvZ9pE6uNfdO0SQosC7TTd4rukG2ocwUoCaDX2PLoOaO3"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ8lNJvUJX52a1AWsiIbqnmai-aTXmtU6V6TzkvhBf7RlOAfBQlRJfPO7N3HLm468ZYMrCy5TI7LGYGhW_GDK-EiIOUH_9wGowjzWr6VOEZnzalqki80MdJQ"
       ],
       "video": false,
       "specs": {
@@ -1339,10 +1339,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0050",
-      "name": "Neo-Squish Mystery Crate: Cosmic Dragon Edition [MICRO]",
+      "name": "Neo-Squish Mystery Crate: Tie Dye Llama Edition [MICRO]",
       "price": "$9.99",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJqKadusJ-4Kx3lKzpVJQG_wwLjpgAY__reI_SlRy4hVb29mk8Jv5zdso9kR5BZtuCO0TsiMmWhn1UUddv_bken5DBM-MEMH5Oo_j7RiVGP8uNMYZ6m3PDwQ"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJSB3Yel66pOqgQYYdWjsgCuCEEklbEs3uBLnnd5XMxLxkzOPIFC9e3oVYw2m2RBzON6F5E-CTW4Vrjhk5Hf1AsULRPSFNtjmsCfW2MhLR"
       ],
       "video": false,
       "specs": {
@@ -1357,7 +1357,7 @@ export const masterInventory: Record<string, any[]> = {
       "name": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRW-OVV1j4u6XtjAIhX79UR2JfJKuyai8SZaMMF6WsrFU782ZS1Bsygg7TrBhqhP9HukqltvG8"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaimI1zeK_qsX-U_DCgjajKgMXvgumrTwZW2oVM737mgrXwBAFIwBCgcfNoaR_v3e6bg2Yfv_bL6qXZhfHg9okPzwDgH1B0CP9JiYmAHppTe51a-HAM7B9OQ"
       ],
       "video": false,
       "specs": {
@@ -1369,10 +1369,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0052",
-      "name": "Neo-Squish Mystery Crate: Rainbow Butterfly Edition [COMMON]",
+      "name": "Neo-Squish Mystery Crate: Valentine's Day Dragon Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSD4Ej_M_Ii0l6cZv3baHrWOiO-EspWQVD_9tGmYGEOExer7cxpfa7ZDrl6OnnUy2pvZiw8D5A16pE1RxMKbcPlmJmr3xpwYOlRmjqPhP1dU_UsjUtQhDN"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTszIu3GLCm1cZLb_gZGpUHPm2sj31bTPfHVkbl9_KQorEoTBD5cHugMsJA-H8xWwlWtCl2mECeMBQS8wppjlQyz567yvGGpCq_YNco58TXo2mkIUtxp2ft"
       ],
       "video": false,
       "specs": {
@@ -1384,10 +1384,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0053",
-      "name": "Neo-Squish Mystery Crate: Holiday Reindeer Edition [COMMON]",
+      "name": "Neo-Squish Mystery Crate: Christmas Sloth Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ06xONZAGm-6O4jyCHYUkEF19E_kpj27BVaTLOgi8BB5UZFIFIwJMvaFWW7-P5I_ljbfEnUiQGEsJekypVfJhZ_X0d9UI5oWtppSQ6CmU"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7yaUiDc4PvD76iUBtz-z3cMyrfWSsBiiAfaZiwd_7xl_G6aU2cDTGnf9ib8sAkYzJKvXA-jc2c6UUVYk3qDmziE1ccUnVt8_sWUOVkj59"
       ],
       "video": false,
       "specs": {
@@ -1399,51 +1399,6 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0054",
-      "name": "Neo-Squish Mystery Crate: Space Narwhal Edition [COMMON]",
-      "price": "$19.99",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ09BT2Vjs_fexHXN6mIfRfzGwfltyjxWBxTuAIWirILaL9JCvopSDl7AZKRSwvZ9pE6uNfdO0SQosC7TTd4rukG2ocwUoCaDX2PLoOaO3"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Common Pull Guarantee",
-        "shipping": "Tiered Tracked Shipping ($2.50)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0055",
-      "name": "Neo-Squish Mystery Crate: Cosmic Dragon Edition [COMMON]",
-      "price": "$19.99",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJqKadusJ-4Kx3lKzpVJQG_wwLjpgAY__reI_SlRy4hVb29mk8Jv5zdso9kR5BZtuCO0TsiMmWhn1UUddv_bken5DBM-MEMH5Oo_j7RiVGP8uNMYZ6m3PDwQ"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Common Pull Guarantee",
-        "shipping": "Tiered Tracked Shipping ($2.50)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0056",
-      "name": "Neo-Squish Mystery Crate: Valentine’s Day Panda Edition [COMMON]",
-      "price": "$19.99",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_cXiuT16JWEsQRAwd-iGwNmsC1UNM2p1bgZXG8GkGhz5yYugC0fiXKjBqPvI5jIUNadvTevKL35mARwWs6TFnX86KbtoqgShbd08p0muX"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Common Pull Guarantee",
-        "shipping": "Tiered Tracked Shipping ($2.50)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0057",
       "name": "Neo-Squish Mystery Crate: Easter Bunny Edition [COMMON]",
       "price": "$19.99",
       "media": [
@@ -1458,11 +1413,56 @@ export const masterInventory: Record<string, any[]> = {
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "SQSH-0058",
-      "name": "Neo-Squish Mystery Crate: St. Patrick’s Day Frog Edition [COMMON]",
+      "id": "SQSH-0055",
+      "name": "Neo-Squish Mystery Crate: Tie Dye Llama Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6KRgGUuYBv8xT232yDs0tgv3Jvke_GJsJn7rtaReTl5TpoZ25ytPoDMAktqfhcb70CY5eJv0_34BUbMVU6qbpd4lrnsJYfZcNF9RbPQ930qe2tgSoMPrU"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJSB3Yel66pOqgQYYdWjsgCuCEEklbEs3uBLnnd5XMxLxkzOPIFC9e3oVYw2m2RBzON6F5E-CTW4Vrjhk5Hf1AsULRPSFNtjmsCfW2MhLR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0056",
+      "name": "Neo-Squish Mystery Crate: Rainbow Octopus Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGZ__6vPMa83Mfk2sCcObLMnQh_FIG9kMKWBRu2husyrIRL_SooN7uAAc5Ho4"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0057",
+      "name": "Neo-Squish Mystery Crate: Halloween Cat Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBkL6x5aM7qGkKVAOu3nHjxdd3zrOEDR7eVbcp2zPDPyfd-lmqKMA8-CspekVB50UVRjAydtD3rgsmA1-dtUTyVw9TLHAehQkzQF4Y1G5Ym-29ABm_DMFq"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0058",
+      "name": "Neo-Squish Mystery Crate: Galaxy Narwhal Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRHWWAS5p2Mkk1sUZW8A19aAKNTrf7EXXyBks2QVfjdA3XIHxfpo50UQn2eRROFdo9ZAzPEcI3jpkYqdoKybiXBNepz6509nXlhNyDy0xAE"
       ],
       "video": false,
       "specs": {
@@ -1474,10 +1474,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0059",
-      "name": "Neo-Squish Mystery Crate: Summer Flamingo Edition [COMMON]",
+      "name": "Neo-Squish Mystery Crate: Floral Fox Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMkGmYBwjDDxv1-w8mXrSIq6iGDtwv5vVez0tzpFY7KIAh6dRAr-nx1tdIfJxvRDpKX1k1BArMTlEL8n2I6IuoHYMelCCXHb4Q-qL1q57jyTW08awQ8s3-"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS1p6Q0eijWrD_4tCh-phc1bcMw-ODD73wD45azEACgSFPDH-jvC5RBO9iCXf-Pam7ifQf5JbOWLCQEKU90EM2DDpUVxRNw2LQJ6PibdTD0EvUIcKirXK8Jcw"
       ],
       "video": false,
       "specs": {
@@ -1489,10 +1489,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0060",
-      "name": "Neo-Squish Mystery Crate: Halloween Ghost Edition [COMMON]",
+      "name": "Neo-Squish Mystery Crate: Autumn Owl Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQrhDoDLiEC1zqHfcI80wyk2J4YI5hapGnAXJ6IKLmy3OtoY0OigztbTlAmHLqn9oMKPvub-V98IaWuvKy6wJj8Vv5K9mRzkhtjO64hh-M"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSyj4QK71sHDiv9uAjRG2ELnEqmuITYvahMVeSkqvRKrhn7J7j7hpVpjVCstGMxPGykeNKwSXQd6OPq9UozRtVdOOSEx31YgaL2BMmGHTWM_xUzJI38OwzE"
       ],
       "video": false,
       "specs": {
@@ -1504,10 +1504,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0061",
-      "name": "Neo-Squish Mystery Crate: Autumn Fox Edition [COMMON]",
+      "name": "Neo-Squish Mystery Crate: Tropical Toucan Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ1ub6wsv_VU6ByPOZgGSiQ8DDUpEIWgjBU0zql4vfEMqSC6TUou0R1zutQlE2txT2UPD9ZiECLhIPZBsuy-LHGZN9VOyYAA1OqBNQBGcOY"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSZxFE3U1qEgTdwEK-AOCjM4nT0Yg9_sfMURH9uRH251W3axxtNicKFjuU8lPycmZgbBz6DjVswG9D4QIwxt28cbH1LX4xpIEUAFIE-u2bWxu-Fixj1QxdwAg"
       ],
       "video": false,
       "specs": {
@@ -1519,10 +1519,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0062",
-      "name": "Neo-Squish Mystery Crate: Winter Penguin Edition [COMMON]",
+      "name": "Neo-Squish Mystery Crate: Pirate Panda Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSbt9esk1cXSF8UWO8bqzXYaeaQPbXSBIK4Wzb6lZzYJQ97uZVPBT51zsmOU-79V6WNoxkEHX4WAL0GkKhJIKTYUyhhBKDdLjX88f_Zd6Q"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSoXYICMdLuW963mucjhqjlU594-IPDzG_PHPF97pGtV0vMwHuFzZW8WIwG9-q71Ah0G_dL6S2QQyxb65pFAjj_A8esLD9Htlzlq-eg1R4"
       ],
       "video": false,
       "specs": {
@@ -1534,10 +1534,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0063",
-      "name": "Neo-Squish Mystery Crate: Ocean Seahorse Edition [COMMON]",
+      "name": "Neo-Squish Mystery Crate: Safari Giraffe Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRrcr39r4yiWq9wKxlLpLPoa--QFmqTj9utYJwIphEiC1selaw-QIzeTeBNTKJBN-XcgoA4JffP0yc-SFxWbkH00g41JFAIwFoEcttK4XcNTTG4nbwjm6dzhA"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQOuNm4BN4ChuegntdSwjpVq34aAgzYFa-o-ytKv93jZ0qU91vchHuO_D6v1pzSqXaHhUc-TCMhMbQ5fql36xY5D7Qa8Fln32T9VqkiWVDP6n9fUfBnuz-Xbw"
       ],
       "video": false,
       "specs": {
@@ -1549,10 +1549,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0064",
-      "name": "Neo-Squish Mystery Crate: Safari Elephant Edition [COMMON]",
+      "name": "Neo-Squish Mystery Crate: Ice Cream Cone Bear Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrLLVLIwG4UO3K3-tXw9FERcUBee-94FIiyNjlvRRxfAeS5Y63dVa_SAkMjPHx-sONXLKjlmxZWJRJTArw1PgxV40brhiKiyI-OM1w_Ik2"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTjbvHU4avE_J0sO7xzIPahxqkx3McdWadm-ebcbEatT6suIlhBzc-aCaOmg7jhhiG-JsLdLAYyjGkT3mjVvkhSolGkIdlSp1jZyabe1MhQXw4NUKe7CWf7"
       ],
       "video": false,
       "specs": {
@@ -1564,10 +1564,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0065",
-      "name": "Neo-Squish Mystery Crate: Superhero Koala Edition [COMMON]",
+      "name": "Neo-Squish Mystery Crate: Space Alien Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT0LA0p_x_z8iKT7N5XqGXpLN0UvsJaqGJv4DiT8FhnxXHckM0_Y-LJLasdev_0L_ub6bzpEjXpBBwrpyljlGuttJ3jpBYc3JzLmOYjZxgziPNikVvxXxlLGg"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSjwOkBCw9ZSVNsR_-6O-wzBpAVhpjBIur1wXDF6dYmg6aDAdpz70TVhGF4J1P_uSpo09MpzgF6-Iqayjj2M14EvkC-1i07XM2gt4T1ko-r6HyzuS6aA1OZpA"
       ],
       "video": false,
       "specs": {
@@ -1582,7 +1582,7 @@ export const masterInventory: Record<string, any[]> = {
       "name": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRW-OVV1j4u6XtjAIhX79UR2JfJKuyai8SZaMMF6WsrFU782ZS1Bsygg7TrBhqhP9HukqltvG8"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaimI1zeK_qsX-U_DCgjajKgMXvgumrTwZW2oVM737mgrXwBAFIwBCgcfNoaR_v3e6bg2Yfv_bL6qXZhfHg9okPzwDgH1B0CP9JiYmAHppTe51a-HAM7B9OQ"
       ],
       "video": false,
       "specs": {
@@ -1594,10 +1594,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0067",
-      "name": "Neo-Squish Mystery Crate: Rainbow Butterfly Edition [COMMON]",
+      "name": "Neo-Squish Mystery Crate: Valentine's Day Dragon Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSD4Ej_M_Ii0l6cZv3baHrWOiO-EspWQVD_9tGmYGEOExer7cxpfa7ZDrl6OnnUy2pvZiw8D5A16pE1RxMKbcPlmJmr3xpwYOlRmjqPhP1dU_UsjUtQhDN"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTszIu3GLCm1cZLb_gZGpUHPm2sj31bTPfHVkbl9_KQorEoTBD5cHugMsJA-H8xWwlWtCl2mECeMBQS8wppjlQyz567yvGGpCq_YNco58TXo2mkIUtxp2ft"
       ],
       "video": false,
       "specs": {
@@ -1609,10 +1609,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0068",
-      "name": "Neo-Squish Mystery Crate: Holiday Reindeer Edition [COMMON]",
+      "name": "Neo-Squish Mystery Crate: Christmas Sloth Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ06xONZAGm-6O4jyCHYUkEF19E_kpj27BVaTLOgi8BB5UZFIFIwJMvaFWW7-P5I_ljbfEnUiQGEsJekypVfJhZ_X0d9UI5oWtppSQ6CmU"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7yaUiDc4PvD76iUBtz-z3cMyrfWSsBiiAfaZiwd_7xl_G6aU2cDTGnf9ib8sAkYzJKvXA-jc2c6UUVYk3qDmziE1ccUnVt8_sWUOVkj59"
       ],
       "video": false,
       "specs": {
@@ -1624,51 +1624,6 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0069",
-      "name": "Neo-Squish Mystery Crate: Space Narwhal Edition [COMMON]",
-      "price": "$19.99",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ09BT2Vjs_fexHXN6mIfRfzGwfltyjxWBxTuAIWirILaL9JCvopSDl7AZKRSwvZ9pE6uNfdO0SQosC7TTd4rukG2ocwUoCaDX2PLoOaO3"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Common Pull Guarantee",
-        "shipping": "Tiered Tracked Shipping ($2.50)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0070",
-      "name": "Neo-Squish Mystery Crate: Cosmic Dragon Edition [COMMON]",
-      "price": "$19.99",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJqKadusJ-4Kx3lKzpVJQG_wwLjpgAY__reI_SlRy4hVb29mk8Jv5zdso9kR5BZtuCO0TsiMmWhn1UUddv_bken5DBM-MEMH5Oo_j7RiVGP8uNMYZ6m3PDwQ"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Common Pull Guarantee",
-        "shipping": "Tiered Tracked Shipping ($2.50)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0071",
-      "name": "Neo-Squish Mystery Crate: Valentine’s Day Panda Edition [COMMON]",
-      "price": "$19.99",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_cXiuT16JWEsQRAwd-iGwNmsC1UNM2p1bgZXG8GkGhz5yYugC0fiXKjBqPvI5jIUNadvTevKL35mARwWs6TFnX86KbtoqgShbd08p0muX"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Common Pull Guarantee",
-        "shipping": "Tiered Tracked Shipping ($2.50)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0072",
       "name": "Neo-Squish Mystery Crate: Easter Bunny Edition [COMMON]",
       "price": "$19.99",
       "media": [
@@ -1683,11 +1638,56 @@ export const masterInventory: Record<string, any[]> = {
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "SQSH-0073",
-      "name": "Neo-Squish Mystery Crate: St. Patrick’s Day Frog Edition [COMMON]",
+      "id": "SQSH-0070",
+      "name": "Neo-Squish Mystery Crate: Tie Dye Llama Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6KRgGUuYBv8xT232yDs0tgv3Jvke_GJsJn7rtaReTl5TpoZ25ytPoDMAktqfhcb70CY5eJv0_34BUbMVU6qbpd4lrnsJYfZcNF9RbPQ930qe2tgSoMPrU"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJSB3Yel66pOqgQYYdWjsgCuCEEklbEs3uBLnnd5XMxLxkzOPIFC9e3oVYw2m2RBzON6F5E-CTW4Vrjhk5Hf1AsULRPSFNtjmsCfW2MhLR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0071",
+      "name": "Neo-Squish Mystery Crate: Rainbow Octopus Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGZ__6vPMa83Mfk2sCcObLMnQh_FIG9kMKWBRu2husyrIRL_SooN7uAAc5Ho4"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0072",
+      "name": "Neo-Squish Mystery Crate: Halloween Cat Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBkL6x5aM7qGkKVAOu3nHjxdd3zrOEDR7eVbcp2zPDPyfd-lmqKMA8-CspekVB50UVRjAydtD3rgsmA1-dtUTyVw9TLHAehQkzQF4Y1G5Ym-29ABm_DMFq"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0073",
+      "name": "Neo-Squish Mystery Crate: Galaxy Narwhal Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRHWWAS5p2Mkk1sUZW8A19aAKNTrf7EXXyBks2QVfjdA3XIHxfpo50UQn2eRROFdo9ZAzPEcI3jpkYqdoKybiXBNepz6509nXlhNyDy0xAE"
       ],
       "video": false,
       "specs": {
@@ -1699,10 +1699,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0074",
-      "name": "Neo-Squish Mystery Crate: Summer Flamingo Edition [COMMON]",
+      "name": "Neo-Squish Mystery Crate: Floral Fox Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMkGmYBwjDDxv1-w8mXrSIq6iGDtwv5vVez0tzpFY7KIAh6dRAr-nx1tdIfJxvRDpKX1k1BArMTlEL8n2I6IuoHYMelCCXHb4Q-qL1q57jyTW08awQ8s3-"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS1p6Q0eijWrD_4tCh-phc1bcMw-ODD73wD45azEACgSFPDH-jvC5RBO9iCXf-Pam7ifQf5JbOWLCQEKU90EM2DDpUVxRNw2LQJ6PibdTD0EvUIcKirXK8Jcw"
       ],
       "video": false,
       "specs": {
@@ -1714,10 +1714,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0075",
-      "name": "Neo-Squish Mystery Crate: Halloween Ghost Edition [COMMON]",
+      "name": "Neo-Squish Mystery Crate: Autumn Owl Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQrhDoDLiEC1zqHfcI80wyk2J4YI5hapGnAXJ6IKLmy3OtoY0OigztbTlAmHLqn9oMKPvub-V98IaWuvKy6wJj8Vv5K9mRzkhtjO64hh-M"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSyj4QK71sHDiv9uAjRG2ELnEqmuITYvahMVeSkqvRKrhn7J7j7hpVpjVCstGMxPGykeNKwSXQd6OPq9UozRtVdOOSEx31YgaL2BMmGHTWM_xUzJI38OwzE"
       ],
       "video": false,
       "specs": {
@@ -1729,10 +1729,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0076",
-      "name": "Neo-Squish Mystery Crate: Autumn Fox Edition [COMMON]",
+      "name": "Neo-Squish Mystery Crate: Tropical Toucan Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ1ub6wsv_VU6ByPOZgGSiQ8DDUpEIWgjBU0zql4vfEMqSC6TUou0R1zutQlE2txT2UPD9ZiECLhIPZBsuy-LHGZN9VOyYAA1OqBNQBGcOY"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSZxFE3U1qEgTdwEK-AOCjM4nT0Yg9_sfMURH9uRH251W3axxtNicKFjuU8lPycmZgbBz6DjVswG9D4QIwxt28cbH1LX4xpIEUAFIE-u2bWxu-Fixj1QxdwAg"
       ],
       "video": false,
       "specs": {
@@ -1744,10 +1744,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0077",
-      "name": "Neo-Squish Mystery Crate: Winter Penguin Edition [COMMON]",
+      "name": "Neo-Squish Mystery Crate: Pirate Panda Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSbt9esk1cXSF8UWO8bqzXYaeaQPbXSBIK4Wzb6lZzYJQ97uZVPBT51zsmOU-79V6WNoxkEHX4WAL0GkKhJIKTYUyhhBKDdLjX88f_Zd6Q"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSoXYICMdLuW963mucjhqjlU594-IPDzG_PHPF97pGtV0vMwHuFzZW8WIwG9-q71Ah0G_dL6S2QQyxb65pFAjj_A8esLD9Htlzlq-eg1R4"
       ],
       "video": false,
       "specs": {
@@ -1759,10 +1759,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0078",
-      "name": "Neo-Squish Mystery Crate: Ocean Seahorse Edition [COMMON]",
+      "name": "Neo-Squish Mystery Crate: Safari Giraffe Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRrcr39r4yiWq9wKxlLpLPoa--QFmqTj9utYJwIphEiC1selaw-QIzeTeBNTKJBN-XcgoA4JffP0yc-SFxWbkH00g41JFAIwFoEcttK4XcNTTG4nbwjm6dzhA"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQOuNm4BN4ChuegntdSwjpVq34aAgzYFa-o-ytKv93jZ0qU91vchHuO_D6v1pzSqXaHhUc-TCMhMbQ5fql36xY5D7Qa8Fln32T9VqkiWVDP6n9fUfBnuz-Xbw"
       ],
       "video": false,
       "specs": {
@@ -1774,10 +1774,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0079",
-      "name": "Neo-Squish Mystery Crate: Safari Elephant Edition [COMMON]",
+      "name": "Neo-Squish Mystery Crate: Ice Cream Cone Bear Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrLLVLIwG4UO3K3-tXw9FERcUBee-94FIiyNjlvRRxfAeS5Y63dVa_SAkMjPHx-sONXLKjlmxZWJRJTArw1PgxV40brhiKiyI-OM1w_Ik2"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTjbvHU4avE_J0sO7xzIPahxqkx3McdWadm-ebcbEatT6suIlhBzc-aCaOmg7jhhiG-JsLdLAYyjGkT3mjVvkhSolGkIdlSp1jZyabe1MhQXw4NUKe7CWf7"
       ],
       "video": false,
       "specs": {
@@ -1789,10 +1789,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0080",
-      "name": "Neo-Squish Mystery Crate: Superhero Koala Edition [COMMON]",
+      "name": "Neo-Squish Mystery Crate: Space Alien Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT0LA0p_x_z8iKT7N5XqGXpLN0UvsJaqGJv4DiT8FhnxXHckM0_Y-LJLasdev_0L_ub6bzpEjXpBBwrpyljlGuttJ3jpBYc3JzLmOYjZxgziPNikVvxXxlLGg"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSjwOkBCw9ZSVNsR_-6O-wzBpAVhpjBIur1wXDF6dYmg6aDAdpz70TVhGF4J1P_uSpo09MpzgF6-Iqayjj2M14EvkC-1i07XM2gt4T1ko-r6HyzuS6aA1OZpA"
       ],
       "video": false,
       "specs": {
@@ -1807,7 +1807,7 @@ export const masterInventory: Record<string, any[]> = {
       "name": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRW-OVV1j4u6XtjAIhX79UR2JfJKuyai8SZaMMF6WsrFU782ZS1Bsygg7TrBhqhP9HukqltvG8"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaimI1zeK_qsX-U_DCgjajKgMXvgumrTwZW2oVM737mgrXwBAFIwBCgcfNoaR_v3e6bg2Yfv_bL6qXZhfHg9okPzwDgH1B0CP9JiYmAHppTe51a-HAM7B9OQ"
       ],
       "video": false,
       "specs": {
@@ -1819,10 +1819,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0082",
-      "name": "Neo-Squish Mystery Crate: Rainbow Butterfly Edition [COMMON]",
+      "name": "Neo-Squish Mystery Crate: Valentine's Day Dragon Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSD4Ej_M_Ii0l6cZv3baHrWOiO-EspWQVD_9tGmYGEOExer7cxpfa7ZDrl6OnnUy2pvZiw8D5A16pE1RxMKbcPlmJmr3xpwYOlRmjqPhP1dU_UsjUtQhDN"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTszIu3GLCm1cZLb_gZGpUHPm2sj31bTPfHVkbl9_KQorEoTBD5cHugMsJA-H8xWwlWtCl2mECeMBQS8wppjlQyz567yvGGpCq_YNco58TXo2mkIUtxp2ft"
       ],
       "video": false,
       "specs": {
@@ -1834,10 +1834,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0083",
-      "name": "Neo-Squish Mystery Crate: Holiday Reindeer Edition [COMMON]",
+      "name": "Neo-Squish Mystery Crate: Christmas Sloth Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ06xONZAGm-6O4jyCHYUkEF19E_kpj27BVaTLOgi8BB5UZFIFIwJMvaFWW7-P5I_ljbfEnUiQGEsJekypVfJhZ_X0d9UI5oWtppSQ6CmU"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7yaUiDc4PvD76iUBtz-z3cMyrfWSsBiiAfaZiwd_7xl_G6aU2cDTGnf9ib8sAkYzJKvXA-jc2c6UUVYk3qDmziE1ccUnVt8_sWUOVkj59"
       ],
       "video": false,
       "specs": {
@@ -1849,51 +1849,6 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0084",
-      "name": "Neo-Squish Mystery Crate: Space Narwhal Edition [COMMON]",
-      "price": "$19.99",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ09BT2Vjs_fexHXN6mIfRfzGwfltyjxWBxTuAIWirILaL9JCvopSDl7AZKRSwvZ9pE6uNfdO0SQosC7TTd4rukG2ocwUoCaDX2PLoOaO3"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Common Pull Guarantee",
-        "shipping": "Tiered Tracked Shipping ($2.50)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0085",
-      "name": "Neo-Squish Mystery Crate: Cosmic Dragon Edition [COMMON]",
-      "price": "$19.99",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJqKadusJ-4Kx3lKzpVJQG_wwLjpgAY__reI_SlRy4hVb29mk8Jv5zdso9kR5BZtuCO0TsiMmWhn1UUddv_bken5DBM-MEMH5Oo_j7RiVGP8uNMYZ6m3PDwQ"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Common Pull Guarantee",
-        "shipping": "Tiered Tracked Shipping ($2.50)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0086",
-      "name": "Neo-Squish Mystery Crate: Valentine’s Day Panda Edition [COMMON]",
-      "price": "$19.99",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_cXiuT16JWEsQRAwd-iGwNmsC1UNM2p1bgZXG8GkGhz5yYugC0fiXKjBqPvI5jIUNadvTevKL35mARwWs6TFnX86KbtoqgShbd08p0muX"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Common Pull Guarantee",
-        "shipping": "Tiered Tracked Shipping ($2.50)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0087",
       "name": "Neo-Squish Mystery Crate: Easter Bunny Edition [COMMON]",
       "price": "$19.99",
       "media": [
@@ -1908,11 +1863,56 @@ export const masterInventory: Record<string, any[]> = {
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "SQSH-0088",
-      "name": "Neo-Squish Mystery Crate: St. Patrick’s Day Frog Edition [COMMON]",
+      "id": "SQSH-0085",
+      "name": "Neo-Squish Mystery Crate: Tie Dye Llama Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6KRgGUuYBv8xT232yDs0tgv3Jvke_GJsJn7rtaReTl5TpoZ25ytPoDMAktqfhcb70CY5eJv0_34BUbMVU6qbpd4lrnsJYfZcNF9RbPQ930qe2tgSoMPrU"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJSB3Yel66pOqgQYYdWjsgCuCEEklbEs3uBLnnd5XMxLxkzOPIFC9e3oVYw2m2RBzON6F5E-CTW4Vrjhk5Hf1AsULRPSFNtjmsCfW2MhLR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0086",
+      "name": "Neo-Squish Mystery Crate: Rainbow Octopus Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGZ__6vPMa83Mfk2sCcObLMnQh_FIG9kMKWBRu2husyrIRL_SooN7uAAc5Ho4"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0087",
+      "name": "Neo-Squish Mystery Crate: Halloween Cat Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBkL6x5aM7qGkKVAOu3nHjxdd3zrOEDR7eVbcp2zPDPyfd-lmqKMA8-CspekVB50UVRjAydtD3rgsmA1-dtUTyVw9TLHAehQkzQF4Y1G5Ym-29ABm_DMFq"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Common Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($2.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0088",
+      "name": "Neo-Squish Mystery Crate: Galaxy Narwhal Edition [COMMON]",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRHWWAS5p2Mkk1sUZW8A19aAKNTrf7EXXyBks2QVfjdA3XIHxfpo50UQn2eRROFdo9ZAzPEcI3jpkYqdoKybiXBNepz6509nXlhNyDy0xAE"
       ],
       "video": false,
       "specs": {
@@ -1924,10 +1924,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0089",
-      "name": "Neo-Squish Mystery Crate: Summer Flamingo Edition [COMMON]",
+      "name": "Neo-Squish Mystery Crate: Floral Fox Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMkGmYBwjDDxv1-w8mXrSIq6iGDtwv5vVez0tzpFY7KIAh6dRAr-nx1tdIfJxvRDpKX1k1BArMTlEL8n2I6IuoHYMelCCXHb4Q-qL1q57jyTW08awQ8s3-"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS1p6Q0eijWrD_4tCh-phc1bcMw-ODD73wD45azEACgSFPDH-jvC5RBO9iCXf-Pam7ifQf5JbOWLCQEKU90EM2DDpUVxRNw2LQJ6PibdTD0EvUIcKirXK8Jcw"
       ],
       "video": false,
       "specs": {
@@ -1939,10 +1939,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0090",
-      "name": "Neo-Squish Mystery Crate: Halloween Ghost Edition [COMMON]",
+      "name": "Neo-Squish Mystery Crate: Autumn Owl Edition [COMMON]",
       "price": "$19.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQrhDoDLiEC1zqHfcI80wyk2J4YI5hapGnAXJ6IKLmy3OtoY0OigztbTlAmHLqn9oMKPvub-V98IaWuvKy6wJj8Vv5K9mRzkhtjO64hh-M"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSyj4QK71sHDiv9uAjRG2ELnEqmuITYvahMVeSkqvRKrhn7J7j7hpVpjVCstGMxPGykeNKwSXQd6OPq9UozRtVdOOSEx31YgaL2BMmGHTWM_xUzJI38OwzE"
       ],
       "video": false,
       "specs": {
@@ -1957,7 +1957,7 @@ export const masterInventory: Record<string, any[]> = {
       "name": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRW-OVV1j4u6XtjAIhX79UR2JfJKuyai8SZaMMF6WsrFU782ZS1Bsygg7TrBhqhP9HukqltvG8"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaimI1zeK_qsX-U_DCgjajKgMXvgumrTwZW2oVM737mgrXwBAFIwBCgcfNoaR_v3e6bg2Yfv_bL6qXZhfHg9okPzwDgH1B0CP9JiYmAHppTe51a-HAM7B9OQ"
       ],
       "video": false,
       "specs": {
@@ -1969,10 +1969,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0092",
-      "name": "Neo-Squish Mystery Crate: Rainbow Butterfly Edition [UNCOMMON]",
+      "name": "Neo-Squish Mystery Crate: Valentine's Day Dragon Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSD4Ej_M_Ii0l6cZv3baHrWOiO-EspWQVD_9tGmYGEOExer7cxpfa7ZDrl6OnnUy2pvZiw8D5A16pE1RxMKbcPlmJmr3xpwYOlRmjqPhP1dU_UsjUtQhDN"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTszIu3GLCm1cZLb_gZGpUHPm2sj31bTPfHVkbl9_KQorEoTBD5cHugMsJA-H8xWwlWtCl2mECeMBQS8wppjlQyz567yvGGpCq_YNco58TXo2mkIUtxp2ft"
       ],
       "video": false,
       "specs": {
@@ -1984,10 +1984,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0093",
-      "name": "Neo-Squish Mystery Crate: Holiday Reindeer Edition [UNCOMMON]",
+      "name": "Neo-Squish Mystery Crate: Christmas Sloth Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ06xONZAGm-6O4jyCHYUkEF19E_kpj27BVaTLOgi8BB5UZFIFIwJMvaFWW7-P5I_ljbfEnUiQGEsJekypVfJhZ_X0d9UI5oWtppSQ6CmU"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7yaUiDc4PvD76iUBtz-z3cMyrfWSsBiiAfaZiwd_7xl_G6aU2cDTGnf9ib8sAkYzJKvXA-jc2c6UUVYk3qDmziE1ccUnVt8_sWUOVkj59"
       ],
       "video": false,
       "specs": {
@@ -1999,51 +1999,6 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0094",
-      "name": "Neo-Squish Mystery Crate: Space Narwhal Edition [UNCOMMON]",
-      "price": "$29.99",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ09BT2Vjs_fexHXN6mIfRfzGwfltyjxWBxTuAIWirILaL9JCvopSDl7AZKRSwvZ9pE6uNfdO0SQosC7TTd4rukG2ocwUoCaDX2PLoOaO3"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Uncommon Pull Guarantee",
-        "shipping": "Tiered Tracked Shipping ($3.50)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0095",
-      "name": "Neo-Squish Mystery Crate: Cosmic Dragon Edition [UNCOMMON]",
-      "price": "$29.99",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJqKadusJ-4Kx3lKzpVJQG_wwLjpgAY__reI_SlRy4hVb29mk8Jv5zdso9kR5BZtuCO0TsiMmWhn1UUddv_bken5DBM-MEMH5Oo_j7RiVGP8uNMYZ6m3PDwQ"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Uncommon Pull Guarantee",
-        "shipping": "Tiered Tracked Shipping ($3.50)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0096",
-      "name": "Neo-Squish Mystery Crate: Valentine’s Day Panda Edition [UNCOMMON]",
-      "price": "$29.99",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_cXiuT16JWEsQRAwd-iGwNmsC1UNM2p1bgZXG8GkGhz5yYugC0fiXKjBqPvI5jIUNadvTevKL35mARwWs6TFnX86KbtoqgShbd08p0muX"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Uncommon Pull Guarantee",
-        "shipping": "Tiered Tracked Shipping ($3.50)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0097",
       "name": "Neo-Squish Mystery Crate: Easter Bunny Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
@@ -2058,11 +2013,56 @@ export const masterInventory: Record<string, any[]> = {
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "SQSH-0098",
-      "name": "Neo-Squish Mystery Crate: St. Patrick’s Day Frog Edition [UNCOMMON]",
+      "id": "SQSH-0095",
+      "name": "Neo-Squish Mystery Crate: Tie Dye Llama Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6KRgGUuYBv8xT232yDs0tgv3Jvke_GJsJn7rtaReTl5TpoZ25ytPoDMAktqfhcb70CY5eJv0_34BUbMVU6qbpd4lrnsJYfZcNF9RbPQ930qe2tgSoMPrU"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJSB3Yel66pOqgQYYdWjsgCuCEEklbEs3uBLnnd5XMxLxkzOPIFC9e3oVYw2m2RBzON6F5E-CTW4Vrjhk5Hf1AsULRPSFNtjmsCfW2MhLR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0096",
+      "name": "Neo-Squish Mystery Crate: Rainbow Octopus Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGZ__6vPMa83Mfk2sCcObLMnQh_FIG9kMKWBRu2husyrIRL_SooN7uAAc5Ho4"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0097",
+      "name": "Neo-Squish Mystery Crate: Halloween Cat Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBkL6x5aM7qGkKVAOu3nHjxdd3zrOEDR7eVbcp2zPDPyfd-lmqKMA8-CspekVB50UVRjAydtD3rgsmA1-dtUTyVw9TLHAehQkzQF4Y1G5Ym-29ABm_DMFq"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0098",
+      "name": "Neo-Squish Mystery Crate: Galaxy Narwhal Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRHWWAS5p2Mkk1sUZW8A19aAKNTrf7EXXyBks2QVfjdA3XIHxfpo50UQn2eRROFdo9ZAzPEcI3jpkYqdoKybiXBNepz6509nXlhNyDy0xAE"
       ],
       "video": false,
       "specs": {
@@ -2074,10 +2074,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0099",
-      "name": "Neo-Squish Mystery Crate: Summer Flamingo Edition [UNCOMMON]",
+      "name": "Neo-Squish Mystery Crate: Floral Fox Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMkGmYBwjDDxv1-w8mXrSIq6iGDtwv5vVez0tzpFY7KIAh6dRAr-nx1tdIfJxvRDpKX1k1BArMTlEL8n2I6IuoHYMelCCXHb4Q-qL1q57jyTW08awQ8s3-"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS1p6Q0eijWrD_4tCh-phc1bcMw-ODD73wD45azEACgSFPDH-jvC5RBO9iCXf-Pam7ifQf5JbOWLCQEKU90EM2DDpUVxRNw2LQJ6PibdTD0EvUIcKirXK8Jcw"
       ],
       "video": false,
       "specs": {
@@ -2089,10 +2089,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0100",
-      "name": "Neo-Squish Mystery Crate: Halloween Ghost Edition [UNCOMMON]",
+      "name": "Neo-Squish Mystery Crate: Autumn Owl Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQrhDoDLiEC1zqHfcI80wyk2J4YI5hapGnAXJ6IKLmy3OtoY0OigztbTlAmHLqn9oMKPvub-V98IaWuvKy6wJj8Vv5K9mRzkhtjO64hh-M"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSyj4QK71sHDiv9uAjRG2ELnEqmuITYvahMVeSkqvRKrhn7J7j7hpVpjVCstGMxPGykeNKwSXQd6OPq9UozRtVdOOSEx31YgaL2BMmGHTWM_xUzJI38OwzE"
       ],
       "video": false,
       "specs": {
@@ -2104,10 +2104,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0101",
-      "name": "Neo-Squish Mystery Crate: Autumn Fox Edition [UNCOMMON]",
+      "name": "Neo-Squish Mystery Crate: Tropical Toucan Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ1ub6wsv_VU6ByPOZgGSiQ8DDUpEIWgjBU0zql4vfEMqSC6TUou0R1zutQlE2txT2UPD9ZiECLhIPZBsuy-LHGZN9VOyYAA1OqBNQBGcOY"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSZxFE3U1qEgTdwEK-AOCjM4nT0Yg9_sfMURH9uRH251W3axxtNicKFjuU8lPycmZgbBz6DjVswG9D4QIwxt28cbH1LX4xpIEUAFIE-u2bWxu-Fixj1QxdwAg"
       ],
       "video": false,
       "specs": {
@@ -2119,10 +2119,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0102",
-      "name": "Neo-Squish Mystery Crate: Winter Penguin Edition [UNCOMMON]",
+      "name": "Neo-Squish Mystery Crate: Pirate Panda Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSbt9esk1cXSF8UWO8bqzXYaeaQPbXSBIK4Wzb6lZzYJQ97uZVPBT51zsmOU-79V6WNoxkEHX4WAL0GkKhJIKTYUyhhBKDdLjX88f_Zd6Q"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSoXYICMdLuW963mucjhqjlU594-IPDzG_PHPF97pGtV0vMwHuFzZW8WIwG9-q71Ah0G_dL6S2QQyxb65pFAjj_A8esLD9Htlzlq-eg1R4"
       ],
       "video": false,
       "specs": {
@@ -2134,10 +2134,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0103",
-      "name": "Neo-Squish Mystery Crate: Ocean Seahorse Edition [UNCOMMON]",
+      "name": "Neo-Squish Mystery Crate: Safari Giraffe Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRrcr39r4yiWq9wKxlLpLPoa--QFmqTj9utYJwIphEiC1selaw-QIzeTeBNTKJBN-XcgoA4JffP0yc-SFxWbkH00g41JFAIwFoEcttK4XcNTTG4nbwjm6dzhA"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQOuNm4BN4ChuegntdSwjpVq34aAgzYFa-o-ytKv93jZ0qU91vchHuO_D6v1pzSqXaHhUc-TCMhMbQ5fql36xY5D7Qa8Fln32T9VqkiWVDP6n9fUfBnuz-Xbw"
       ],
       "video": false,
       "specs": {
@@ -2149,10 +2149,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0104",
-      "name": "Neo-Squish Mystery Crate: Safari Elephant Edition [UNCOMMON]",
+      "name": "Neo-Squish Mystery Crate: Ice Cream Cone Bear Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrLLVLIwG4UO3K3-tXw9FERcUBee-94FIiyNjlvRRxfAeS5Y63dVa_SAkMjPHx-sONXLKjlmxZWJRJTArw1PgxV40brhiKiyI-OM1w_Ik2"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTjbvHU4avE_J0sO7xzIPahxqkx3McdWadm-ebcbEatT6suIlhBzc-aCaOmg7jhhiG-JsLdLAYyjGkT3mjVvkhSolGkIdlSp1jZyabe1MhQXw4NUKe7CWf7"
       ],
       "video": false,
       "specs": {
@@ -2164,10 +2164,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0105",
-      "name": "Neo-Squish Mystery Crate: Superhero Koala Edition [UNCOMMON]",
+      "name": "Neo-Squish Mystery Crate: Space Alien Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT0LA0p_x_z8iKT7N5XqGXpLN0UvsJaqGJv4DiT8FhnxXHckM0_Y-LJLasdev_0L_ub6bzpEjXpBBwrpyljlGuttJ3jpBYc3JzLmOYjZxgziPNikVvxXxlLGg"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSjwOkBCw9ZSVNsR_-6O-wzBpAVhpjBIur1wXDF6dYmg6aDAdpz70TVhGF4J1P_uSpo09MpzgF6-Iqayjj2M14EvkC-1i07XM2gt4T1ko-r6HyzuS6aA1OZpA"
       ],
       "video": false,
       "specs": {
@@ -2182,7 +2182,7 @@ export const masterInventory: Record<string, any[]> = {
       "name": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRW-OVV1j4u6XtjAIhX79UR2JfJKuyai8SZaMMF6WsrFU782ZS1Bsygg7TrBhqhP9HukqltvG8"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaimI1zeK_qsX-U_DCgjajKgMXvgumrTwZW2oVM737mgrXwBAFIwBCgcfNoaR_v3e6bg2Yfv_bL6qXZhfHg9okPzwDgH1B0CP9JiYmAHppTe51a-HAM7B9OQ"
       ],
       "video": false,
       "specs": {
@@ -2194,10 +2194,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0107",
-      "name": "Neo-Squish Mystery Crate: Rainbow Butterfly Edition [UNCOMMON]",
+      "name": "Neo-Squish Mystery Crate: Valentine's Day Dragon Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSD4Ej_M_Ii0l6cZv3baHrWOiO-EspWQVD_9tGmYGEOExer7cxpfa7ZDrl6OnnUy2pvZiw8D5A16pE1RxMKbcPlmJmr3xpwYOlRmjqPhP1dU_UsjUtQhDN"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTszIu3GLCm1cZLb_gZGpUHPm2sj31bTPfHVkbl9_KQorEoTBD5cHugMsJA-H8xWwlWtCl2mECeMBQS8wppjlQyz567yvGGpCq_YNco58TXo2mkIUtxp2ft"
       ],
       "video": false,
       "specs": {
@@ -2209,10 +2209,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0108",
-      "name": "Neo-Squish Mystery Crate: Holiday Reindeer Edition [UNCOMMON]",
+      "name": "Neo-Squish Mystery Crate: Christmas Sloth Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ06xONZAGm-6O4jyCHYUkEF19E_kpj27BVaTLOgi8BB5UZFIFIwJMvaFWW7-P5I_ljbfEnUiQGEsJekypVfJhZ_X0d9UI5oWtppSQ6CmU"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7yaUiDc4PvD76iUBtz-z3cMyrfWSsBiiAfaZiwd_7xl_G6aU2cDTGnf9ib8sAkYzJKvXA-jc2c6UUVYk3qDmziE1ccUnVt8_sWUOVkj59"
       ],
       "video": false,
       "specs": {
@@ -2224,51 +2224,6 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0109",
-      "name": "Neo-Squish Mystery Crate: Space Narwhal Edition [UNCOMMON]",
-      "price": "$29.99",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ09BT2Vjs_fexHXN6mIfRfzGwfltyjxWBxTuAIWirILaL9JCvopSDl7AZKRSwvZ9pE6uNfdO0SQosC7TTd4rukG2ocwUoCaDX2PLoOaO3"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Uncommon Pull Guarantee",
-        "shipping": "Tiered Tracked Shipping ($3.50)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0110",
-      "name": "Neo-Squish Mystery Crate: Cosmic Dragon Edition [UNCOMMON]",
-      "price": "$29.99",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJqKadusJ-4Kx3lKzpVJQG_wwLjpgAY__reI_SlRy4hVb29mk8Jv5zdso9kR5BZtuCO0TsiMmWhn1UUddv_bken5DBM-MEMH5Oo_j7RiVGP8uNMYZ6m3PDwQ"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Uncommon Pull Guarantee",
-        "shipping": "Tiered Tracked Shipping ($3.50)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0111",
-      "name": "Neo-Squish Mystery Crate: Valentine’s Day Panda Edition [UNCOMMON]",
-      "price": "$29.99",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_cXiuT16JWEsQRAwd-iGwNmsC1UNM2p1bgZXG8GkGhz5yYugC0fiXKjBqPvI5jIUNadvTevKL35mARwWs6TFnX86KbtoqgShbd08p0muX"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Uncommon Pull Guarantee",
-        "shipping": "Tiered Tracked Shipping ($3.50)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0112",
       "name": "Neo-Squish Mystery Crate: Easter Bunny Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
@@ -2283,11 +2238,56 @@ export const masterInventory: Record<string, any[]> = {
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "SQSH-0113",
-      "name": "Neo-Squish Mystery Crate: St. Patrick’s Day Frog Edition [UNCOMMON]",
+      "id": "SQSH-0110",
+      "name": "Neo-Squish Mystery Crate: Tie Dye Llama Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6KRgGUuYBv8xT232yDs0tgv3Jvke_GJsJn7rtaReTl5TpoZ25ytPoDMAktqfhcb70CY5eJv0_34BUbMVU6qbpd4lrnsJYfZcNF9RbPQ930qe2tgSoMPrU"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJSB3Yel66pOqgQYYdWjsgCuCEEklbEs3uBLnnd5XMxLxkzOPIFC9e3oVYw2m2RBzON6F5E-CTW4Vrjhk5Hf1AsULRPSFNtjmsCfW2MhLR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0111",
+      "name": "Neo-Squish Mystery Crate: Rainbow Octopus Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGZ__6vPMa83Mfk2sCcObLMnQh_FIG9kMKWBRu2husyrIRL_SooN7uAAc5Ho4"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0112",
+      "name": "Neo-Squish Mystery Crate: Halloween Cat Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBkL6x5aM7qGkKVAOu3nHjxdd3zrOEDR7eVbcp2zPDPyfd-lmqKMA8-CspekVB50UVRjAydtD3rgsmA1-dtUTyVw9TLHAehQkzQF4Y1G5Ym-29ABm_DMFq"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Uncommon Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($3.50)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0113",
+      "name": "Neo-Squish Mystery Crate: Galaxy Narwhal Edition [UNCOMMON]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRHWWAS5p2Mkk1sUZW8A19aAKNTrf7EXXyBks2QVfjdA3XIHxfpo50UQn2eRROFdo9ZAzPEcI3jpkYqdoKybiXBNepz6509nXlhNyDy0xAE"
       ],
       "video": false,
       "specs": {
@@ -2299,10 +2299,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0114",
-      "name": "Neo-Squish Mystery Crate: Summer Flamingo Edition [UNCOMMON]",
+      "name": "Neo-Squish Mystery Crate: Floral Fox Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMkGmYBwjDDxv1-w8mXrSIq6iGDtwv5vVez0tzpFY7KIAh6dRAr-nx1tdIfJxvRDpKX1k1BArMTlEL8n2I6IuoHYMelCCXHb4Q-qL1q57jyTW08awQ8s3-"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS1p6Q0eijWrD_4tCh-phc1bcMw-ODD73wD45azEACgSFPDH-jvC5RBO9iCXf-Pam7ifQf5JbOWLCQEKU90EM2DDpUVxRNw2LQJ6PibdTD0EvUIcKirXK8Jcw"
       ],
       "video": false,
       "specs": {
@@ -2314,10 +2314,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0115",
-      "name": "Neo-Squish Mystery Crate: Halloween Ghost Edition [UNCOMMON]",
+      "name": "Neo-Squish Mystery Crate: Autumn Owl Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQrhDoDLiEC1zqHfcI80wyk2J4YI5hapGnAXJ6IKLmy3OtoY0OigztbTlAmHLqn9oMKPvub-V98IaWuvKy6wJj8Vv5K9mRzkhtjO64hh-M"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSyj4QK71sHDiv9uAjRG2ELnEqmuITYvahMVeSkqvRKrhn7J7j7hpVpjVCstGMxPGykeNKwSXQd6OPq9UozRtVdOOSEx31YgaL2BMmGHTWM_xUzJI38OwzE"
       ],
       "video": false,
       "specs": {
@@ -2329,10 +2329,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0116",
-      "name": "Neo-Squish Mystery Crate: Autumn Fox Edition [UNCOMMON]",
+      "name": "Neo-Squish Mystery Crate: Tropical Toucan Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ1ub6wsv_VU6ByPOZgGSiQ8DDUpEIWgjBU0zql4vfEMqSC6TUou0R1zutQlE2txT2UPD9ZiECLhIPZBsuy-LHGZN9VOyYAA1OqBNQBGcOY"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSZxFE3U1qEgTdwEK-AOCjM4nT0Yg9_sfMURH9uRH251W3axxtNicKFjuU8lPycmZgbBz6DjVswG9D4QIwxt28cbH1LX4xpIEUAFIE-u2bWxu-Fixj1QxdwAg"
       ],
       "video": false,
       "specs": {
@@ -2344,10 +2344,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0117",
-      "name": "Neo-Squish Mystery Crate: Winter Penguin Edition [UNCOMMON]",
+      "name": "Neo-Squish Mystery Crate: Pirate Panda Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSbt9esk1cXSF8UWO8bqzXYaeaQPbXSBIK4Wzb6lZzYJQ97uZVPBT51zsmOU-79V6WNoxkEHX4WAL0GkKhJIKTYUyhhBKDdLjX88f_Zd6Q"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSoXYICMdLuW963mucjhqjlU594-IPDzG_PHPF97pGtV0vMwHuFzZW8WIwG9-q71Ah0G_dL6S2QQyxb65pFAjj_A8esLD9Htlzlq-eg1R4"
       ],
       "video": false,
       "specs": {
@@ -2359,10 +2359,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0118",
-      "name": "Neo-Squish Mystery Crate: Ocean Seahorse Edition [UNCOMMON]",
+      "name": "Neo-Squish Mystery Crate: Safari Giraffe Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRrcr39r4yiWq9wKxlLpLPoa--QFmqTj9utYJwIphEiC1selaw-QIzeTeBNTKJBN-XcgoA4JffP0yc-SFxWbkH00g41JFAIwFoEcttK4XcNTTG4nbwjm6dzhA"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQOuNm4BN4ChuegntdSwjpVq34aAgzYFa-o-ytKv93jZ0qU91vchHuO_D6v1pzSqXaHhUc-TCMhMbQ5fql36xY5D7Qa8Fln32T9VqkiWVDP6n9fUfBnuz-Xbw"
       ],
       "video": false,
       "specs": {
@@ -2374,10 +2374,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0119",
-      "name": "Neo-Squish Mystery Crate: Safari Elephant Edition [UNCOMMON]",
+      "name": "Neo-Squish Mystery Crate: Ice Cream Cone Bear Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrLLVLIwG4UO3K3-tXw9FERcUBee-94FIiyNjlvRRxfAeS5Y63dVa_SAkMjPHx-sONXLKjlmxZWJRJTArw1PgxV40brhiKiyI-OM1w_Ik2"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTjbvHU4avE_J0sO7xzIPahxqkx3McdWadm-ebcbEatT6suIlhBzc-aCaOmg7jhhiG-JsLdLAYyjGkT3mjVvkhSolGkIdlSp1jZyabe1MhQXw4NUKe7CWf7"
       ],
       "video": false,
       "specs": {
@@ -2389,10 +2389,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0120",
-      "name": "Neo-Squish Mystery Crate: Superhero Koala Edition [UNCOMMON]",
+      "name": "Neo-Squish Mystery Crate: Space Alien Edition [UNCOMMON]",
       "price": "$29.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT0LA0p_x_z8iKT7N5XqGXpLN0UvsJaqGJv4DiT8FhnxXHckM0_Y-LJLasdev_0L_ub6bzpEjXpBBwrpyljlGuttJ3jpBYc3JzLmOYjZxgziPNikVvxXxlLGg"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSjwOkBCw9ZSVNsR_-6O-wzBpAVhpjBIur1wXDF6dYmg6aDAdpz70TVhGF4J1P_uSpo09MpzgF6-Iqayjj2M14EvkC-1i07XM2gt4T1ko-r6HyzuS6aA1OZpA"
       ],
       "video": false,
       "specs": {
@@ -2407,7 +2407,7 @@ export const masterInventory: Record<string, any[]> = {
       "name": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [RARE]",
       "price": "$49.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRW-OVV1j4u6XtjAIhX79UR2JfJKuyai8SZaMMF6WsrFU782ZS1Bsygg7TrBhqhP9HukqltvG8"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaimI1zeK_qsX-U_DCgjajKgMXvgumrTwZW2oVM737mgrXwBAFIwBCgcfNoaR_v3e6bg2Yfv_bL6qXZhfHg9okPzwDgH1B0CP9JiYmAHppTe51a-HAM7B9OQ"
       ],
       "video": false,
       "specs": {
@@ -2419,10 +2419,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0122",
-      "name": "Neo-Squish Mystery Crate: Rainbow Butterfly Edition [RARE]",
+      "name": "Neo-Squish Mystery Crate: Valentine's Day Dragon Edition [RARE]",
       "price": "$49.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSD4Ej_M_Ii0l6cZv3baHrWOiO-EspWQVD_9tGmYGEOExer7cxpfa7ZDrl6OnnUy2pvZiw8D5A16pE1RxMKbcPlmJmr3xpwYOlRmjqPhP1dU_UsjUtQhDN"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTszIu3GLCm1cZLb_gZGpUHPm2sj31bTPfHVkbl9_KQorEoTBD5cHugMsJA-H8xWwlWtCl2mECeMBQS8wppjlQyz567yvGGpCq_YNco58TXo2mkIUtxp2ft"
       ],
       "video": false,
       "specs": {
@@ -2434,10 +2434,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0123",
-      "name": "Neo-Squish Mystery Crate: Holiday Reindeer Edition [RARE]",
+      "name": "Neo-Squish Mystery Crate: Christmas Sloth Edition [RARE]",
       "price": "$49.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ06xONZAGm-6O4jyCHYUkEF19E_kpj27BVaTLOgi8BB5UZFIFIwJMvaFWW7-P5I_ljbfEnUiQGEsJekypVfJhZ_X0d9UI5oWtppSQ6CmU"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7yaUiDc4PvD76iUBtz-z3cMyrfWSsBiiAfaZiwd_7xl_G6aU2cDTGnf9ib8sAkYzJKvXA-jc2c6UUVYk3qDmziE1ccUnVt8_sWUOVkj59"
       ],
       "video": false,
       "specs": {
@@ -2449,51 +2449,6 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0124",
-      "name": "Neo-Squish Mystery Crate: Space Narwhal Edition [RARE]",
-      "price": "$49.99",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ09BT2Vjs_fexHXN6mIfRfzGwfltyjxWBxTuAIWirILaL9JCvopSDl7AZKRSwvZ9pE6uNfdO0SQosC7TTd4rukG2ocwUoCaDX2PLoOaO3"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Rare Pull Guarantee",
-        "shipping": "Tiered Tracked Shipping ($4.99)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0125",
-      "name": "Neo-Squish Mystery Crate: Cosmic Dragon Edition [RARE]",
-      "price": "$49.99",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJqKadusJ-4Kx3lKzpVJQG_wwLjpgAY__reI_SlRy4hVb29mk8Jv5zdso9kR5BZtuCO0TsiMmWhn1UUddv_bken5DBM-MEMH5Oo_j7RiVGP8uNMYZ6m3PDwQ"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Rare Pull Guarantee",
-        "shipping": "Tiered Tracked Shipping ($4.99)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0126",
-      "name": "Neo-Squish Mystery Crate: Valentine’s Day Panda Edition [RARE]",
-      "price": "$49.99",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_cXiuT16JWEsQRAwd-iGwNmsC1UNM2p1bgZXG8GkGhz5yYugC0fiXKjBqPvI5jIUNadvTevKL35mARwWs6TFnX86KbtoqgShbd08p0muX"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Rare Pull Guarantee",
-        "shipping": "Tiered Tracked Shipping ($4.99)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0127",
       "name": "Neo-Squish Mystery Crate: Easter Bunny Edition [RARE]",
       "price": "$49.99",
       "media": [
@@ -2508,11 +2463,56 @@ export const masterInventory: Record<string, any[]> = {
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "SQSH-0128",
-      "name": "Neo-Squish Mystery Crate: St. Patrick’s Day Frog Edition [RARE]",
+      "id": "SQSH-0125",
+      "name": "Neo-Squish Mystery Crate: Tie Dye Llama Edition [RARE]",
       "price": "$49.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6KRgGUuYBv8xT232yDs0tgv3Jvke_GJsJn7rtaReTl5TpoZ25ytPoDMAktqfhcb70CY5eJv0_34BUbMVU6qbpd4lrnsJYfZcNF9RbPQ930qe2tgSoMPrU"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJSB3Yel66pOqgQYYdWjsgCuCEEklbEs3uBLnnd5XMxLxkzOPIFC9e3oVYw2m2RBzON6F5E-CTW4Vrjhk5Hf1AsULRPSFNtjmsCfW2MhLR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Rare Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0126",
+      "name": "Neo-Squish Mystery Crate: Rainbow Octopus Edition [RARE]",
+      "price": "$49.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGZ__6vPMa83Mfk2sCcObLMnQh_FIG9kMKWBRu2husyrIRL_SooN7uAAc5Ho4"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Rare Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0127",
+      "name": "Neo-Squish Mystery Crate: Halloween Cat Edition [RARE]",
+      "price": "$49.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBkL6x5aM7qGkKVAOu3nHjxdd3zrOEDR7eVbcp2zPDPyfd-lmqKMA8-CspekVB50UVRjAydtD3rgsmA1-dtUTyVw9TLHAehQkzQF4Y1G5Ym-29ABm_DMFq"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Rare Pull Guarantee",
+        "shipping": "Tiered Tracked Shipping ($4.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0128",
+      "name": "Neo-Squish Mystery Crate: Galaxy Narwhal Edition [RARE]",
+      "price": "$49.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRHWWAS5p2Mkk1sUZW8A19aAKNTrf7EXXyBks2QVfjdA3XIHxfpo50UQn2eRROFdo9ZAzPEcI3jpkYqdoKybiXBNepz6509nXlhNyDy0xAE"
       ],
       "video": false,
       "specs": {
@@ -2524,10 +2524,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0129",
-      "name": "Neo-Squish Mystery Crate: Summer Flamingo Edition [RARE]",
+      "name": "Neo-Squish Mystery Crate: Floral Fox Edition [RARE]",
       "price": "$49.99",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMkGmYBwjDDxv1-w8mXrSIq6iGDtwv5vVez0tzpFY7KIAh6dRAr-nx1tdIfJxvRDpKX1k1BArMTlEL8n2I6IuoHYMelCCXHb4Q-qL1q57jyTW08awQ8s3-"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS1p6Q0eijWrD_4tCh-phc1bcMw-ODD73wD45azEACgSFPDH-jvC5RBO9iCXf-Pam7ifQf5JbOWLCQEKU90EM2DDpUVxRNw2LQJ6PibdTD0EvUIcKirXK8Jcw"
       ],
       "video": false,
       "specs": {
@@ -2539,10 +2539,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0130",
-      "name": "Neo-Squish Mystery Crate: Halloween Ghost Edition [RARE]",
+      "name": "Neo-Squish Mystery Crate: Autumn Owl Edition [RARE]",
       "price": "$49.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQrhDoDLiEC1zqHfcI80wyk2J4YI5hapGnAXJ6IKLmy3OtoY0OigztbTlAmHLqn9oMKPvub-V98IaWuvKy6wJj8Vv5K9mRzkhtjO64hh-M"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSyj4QK71sHDiv9uAjRG2ELnEqmuITYvahMVeSkqvRKrhn7J7j7hpVpjVCstGMxPGykeNKwSXQd6OPq9UozRtVdOOSEx31YgaL2BMmGHTWM_xUzJI38OwzE"
       ],
       "video": false,
       "specs": {
@@ -2554,10 +2554,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0131",
-      "name": "Neo-Squish Mystery Crate: Autumn Fox Edition [RARE]",
+      "name": "Neo-Squish Mystery Crate: Tropical Toucan Edition [RARE]",
       "price": "$49.99",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ1ub6wsv_VU6ByPOZgGSiQ8DDUpEIWgjBU0zql4vfEMqSC6TUou0R1zutQlE2txT2UPD9ZiECLhIPZBsuy-LHGZN9VOyYAA1OqBNQBGcOY"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSZxFE3U1qEgTdwEK-AOCjM4nT0Yg9_sfMURH9uRH251W3axxtNicKFjuU8lPycmZgbBz6DjVswG9D4QIwxt28cbH1LX4xpIEUAFIE-u2bWxu-Fixj1QxdwAg"
       ],
       "video": false,
       "specs": {
@@ -2569,10 +2569,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0132",
-      "name": "Neo-Squish Mystery Crate: Winter Penguin Edition [RARE]",
+      "name": "Neo-Squish Mystery Crate: Pirate Panda Edition [RARE]",
       "price": "$49.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSbt9esk1cXSF8UWO8bqzXYaeaQPbXSBIK4Wzb6lZzYJQ97uZVPBT51zsmOU-79V6WNoxkEHX4WAL0GkKhJIKTYUyhhBKDdLjX88f_Zd6Q"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSoXYICMdLuW963mucjhqjlU594-IPDzG_PHPF97pGtV0vMwHuFzZW8WIwG9-q71Ah0G_dL6S2QQyxb65pFAjj_A8esLD9Htlzlq-eg1R4"
       ],
       "video": false,
       "specs": {
@@ -2584,10 +2584,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0133",
-      "name": "Neo-Squish Mystery Crate: Ocean Seahorse Edition [RARE]",
+      "name": "Neo-Squish Mystery Crate: Safari Giraffe Edition [RARE]",
       "price": "$49.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRrcr39r4yiWq9wKxlLpLPoa--QFmqTj9utYJwIphEiC1selaw-QIzeTeBNTKJBN-XcgoA4JffP0yc-SFxWbkH00g41JFAIwFoEcttK4XcNTTG4nbwjm6dzhA"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQOuNm4BN4ChuegntdSwjpVq34aAgzYFa-o-ytKv93jZ0qU91vchHuO_D6v1pzSqXaHhUc-TCMhMbQ5fql36xY5D7Qa8Fln32T9VqkiWVDP6n9fUfBnuz-Xbw"
       ],
       "video": false,
       "specs": {
@@ -2599,10 +2599,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0134",
-      "name": "Neo-Squish Mystery Crate: Safari Elephant Edition [RARE]",
+      "name": "Neo-Squish Mystery Crate: Ice Cream Cone Bear Edition [RARE]",
       "price": "$49.99",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrLLVLIwG4UO3K3-tXw9FERcUBee-94FIiyNjlvRRxfAeS5Y63dVa_SAkMjPHx-sONXLKjlmxZWJRJTArw1PgxV40brhiKiyI-OM1w_Ik2"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTjbvHU4avE_J0sO7xzIPahxqkx3McdWadm-ebcbEatT6suIlhBzc-aCaOmg7jhhiG-JsLdLAYyjGkT3mjVvkhSolGkIdlSp1jZyabe1MhQXw4NUKe7CWf7"
       ],
       "video": false,
       "specs": {
@@ -2614,10 +2614,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0135",
-      "name": "Neo-Squish Mystery Crate: Superhero Koala Edition [RARE]",
+      "name": "Neo-Squish Mystery Crate: Space Alien Edition [RARE]",
       "price": "$49.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT0LA0p_x_z8iKT7N5XqGXpLN0UvsJaqGJv4DiT8FhnxXHckM0_Y-LJLasdev_0L_ub6bzpEjXpBBwrpyljlGuttJ3jpBYc3JzLmOYjZxgziPNikVvxXxlLGg"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSjwOkBCw9ZSVNsR_-6O-wzBpAVhpjBIur1wXDF6dYmg6aDAdpz70TVhGF4J1P_uSpo09MpzgF6-Iqayjj2M14EvkC-1i07XM2gt4T1ko-r6HyzuS6aA1OZpA"
       ],
       "video": false,
       "specs": {
@@ -2632,7 +2632,7 @@ export const masterInventory: Record<string, any[]> = {
       "name": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [RARE]",
       "price": "$49.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRW-OVV1j4u6XtjAIhX79UR2JfJKuyai8SZaMMF6WsrFU782ZS1Bsygg7TrBhqhP9HukqltvG8"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaimI1zeK_qsX-U_DCgjajKgMXvgumrTwZW2oVM737mgrXwBAFIwBCgcfNoaR_v3e6bg2Yfv_bL6qXZhfHg9okPzwDgH1B0CP9JiYmAHppTe51a-HAM7B9OQ"
       ],
       "video": false,
       "specs": {
@@ -2644,10 +2644,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0137",
-      "name": "Neo-Squish Mystery Crate: Rainbow Butterfly Edition [RARE]",
+      "name": "Neo-Squish Mystery Crate: Valentine's Day Dragon Edition [RARE]",
       "price": "$49.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSD4Ej_M_Ii0l6cZv3baHrWOiO-EspWQVD_9tGmYGEOExer7cxpfa7ZDrl6OnnUy2pvZiw8D5A16pE1RxMKbcPlmJmr3xpwYOlRmjqPhP1dU_UsjUtQhDN"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTszIu3GLCm1cZLb_gZGpUHPm2sj31bTPfHVkbl9_KQorEoTBD5cHugMsJA-H8xWwlWtCl2mECeMBQS8wppjlQyz567yvGGpCq_YNco58TXo2mkIUtxp2ft"
       ],
       "video": false,
       "specs": {
@@ -2659,10 +2659,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0138",
-      "name": "Neo-Squish Mystery Crate: Holiday Reindeer Edition [RARE]",
+      "name": "Neo-Squish Mystery Crate: Christmas Sloth Edition [RARE]",
       "price": "$49.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ06xONZAGm-6O4jyCHYUkEF19E_kpj27BVaTLOgi8BB5UZFIFIwJMvaFWW7-P5I_ljbfEnUiQGEsJekypVfJhZ_X0d9UI5oWtppSQ6CmU"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7yaUiDc4PvD76iUBtz-z3cMyrfWSsBiiAfaZiwd_7xl_G6aU2cDTGnf9ib8sAkYzJKvXA-jc2c6UUVYk3qDmziE1ccUnVt8_sWUOVkj59"
       ],
       "video": false,
       "specs": {
@@ -2674,10 +2674,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0139",
-      "name": "Neo-Squish Mystery Crate: Space Narwhal Edition [RARE]",
+      "name": "Neo-Squish Mystery Crate: Easter Bunny Edition [RARE]",
       "price": "$49.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ09BT2Vjs_fexHXN6mIfRfzGwfltyjxWBxTuAIWirILaL9JCvopSDl7AZKRSwvZ9pE6uNfdO0SQosC7TTd4rukG2ocwUoCaDX2PLoOaO3"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ8lNJvUJX52a1AWsiIbqnmai-aTXmtU6V6TzkvhBf7RlOAfBQlRJfPO7N3HLm468ZYMrCy5TI7LGYGhW_GDK-EiIOUH_9wGowjzWr6VOEZnzalqki80MdJQ"
       ],
       "video": false,
       "specs": {
@@ -2689,10 +2689,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0140",
-      "name": "Neo-Squish Mystery Crate: Cosmic Dragon Edition [RARE]",
+      "name": "Neo-Squish Mystery Crate: Tie Dye Llama Edition [RARE]",
       "price": "$49.99",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJqKadusJ-4Kx3lKzpVJQG_wwLjpgAY__reI_SlRy4hVb29mk8Jv5zdso9kR5BZtuCO0TsiMmWhn1UUddv_bken5DBM-MEMH5Oo_j7RiVGP8uNMYZ6m3PDwQ"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJSB3Yel66pOqgQYYdWjsgCuCEEklbEs3uBLnnd5XMxLxkzOPIFC9e3oVYw2m2RBzON6F5E-CTW4Vrjhk5Hf1AsULRPSFNtjmsCfW2MhLR"
       ],
       "video": false,
       "specs": {
@@ -2707,7 +2707,7 @@ export const masterInventory: Record<string, any[]> = {
       "name": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [EPIC]",
       "price": "$149.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRW-OVV1j4u6XtjAIhX79UR2JfJKuyai8SZaMMF6WsrFU782ZS1Bsygg7TrBhqhP9HukqltvG8"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaimI1zeK_qsX-U_DCgjajKgMXvgumrTwZW2oVM737mgrXwBAFIwBCgcfNoaR_v3e6bg2Yfv_bL6qXZhfHg9okPzwDgH1B0CP9JiYmAHppTe51a-HAM7B9OQ"
       ],
       "video": false,
       "specs": {
@@ -2719,10 +2719,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0142",
-      "name": "Neo-Squish Mystery Crate: Rainbow Butterfly Edition [EPIC]",
+      "name": "Neo-Squish Mystery Crate: Valentine's Day Dragon Edition [EPIC]",
       "price": "$149.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSD4Ej_M_Ii0l6cZv3baHrWOiO-EspWQVD_9tGmYGEOExer7cxpfa7ZDrl6OnnUy2pvZiw8D5A16pE1RxMKbcPlmJmr3xpwYOlRmjqPhP1dU_UsjUtQhDN"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTszIu3GLCm1cZLb_gZGpUHPm2sj31bTPfHVkbl9_KQorEoTBD5cHugMsJA-H8xWwlWtCl2mECeMBQS8wppjlQyz567yvGGpCq_YNco58TXo2mkIUtxp2ft"
       ],
       "video": false,
       "specs": {
@@ -2734,10 +2734,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0143",
-      "name": "Neo-Squish Mystery Crate: Holiday Reindeer Edition [EPIC]",
+      "name": "Neo-Squish Mystery Crate: Christmas Sloth Edition [EPIC]",
       "price": "$149.99",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ06xONZAGm-6O4jyCHYUkEF19E_kpj27BVaTLOgi8BB5UZFIFIwJMvaFWW7-P5I_ljbfEnUiQGEsJekypVfJhZ_X0d9UI5oWtppSQ6CmU"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7yaUiDc4PvD76iUBtz-z3cMyrfWSsBiiAfaZiwd_7xl_G6aU2cDTGnf9ib8sAkYzJKvXA-jc2c6UUVYk3qDmziE1ccUnVt8_sWUOVkj59"
       ],
       "video": false,
       "specs": {
@@ -2749,51 +2749,6 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0144",
-      "name": "Neo-Squish Mystery Crate: Space Narwhal Edition [EPIC]",
-      "price": "$149.99",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ09BT2Vjs_fexHXN6mIfRfzGwfltyjxWBxTuAIWirILaL9JCvopSDl7AZKRSwvZ9pE6uNfdO0SQosC7TTd4rukG2ocwUoCaDX2PLoOaO3"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Premium Scale Crate",
-        "shipping": "Tiered Tracked Shipping ($7.99)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0145",
-      "name": "Neo-Squish Mystery Crate: Cosmic Dragon Edition [EPIC]",
-      "price": "$149.99",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJqKadusJ-4Kx3lKzpVJQG_wwLjpgAY__reI_SlRy4hVb29mk8Jv5zdso9kR5BZtuCO0TsiMmWhn1UUddv_bken5DBM-MEMH5Oo_j7RiVGP8uNMYZ6m3PDwQ"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Premium Scale Crate",
-        "shipping": "Tiered Tracked Shipping ($7.99)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0146",
-      "name": "Neo-Squish Mystery Crate: Valentine’s Day Panda Edition [EPIC]",
-      "price": "$149.99",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_cXiuT16JWEsQRAwd-iGwNmsC1UNM2p1bgZXG8GkGhz5yYugC0fiXKjBqPvI5jIUNadvTevKL35mARwWs6TFnX86KbtoqgShbd08p0muX"
-      ],
-      "video": false,
-      "specs": {
-        "manufacturer": "Nexus Gamified",
-        "condition": "Premium Scale Crate",
-        "shipping": "Tiered Tracked Shipping ($7.99)"
-      },
-      "status": "CRUCIBLE_VERIFIED"
-    },
-    {
-      "id": "SQSH-0147",
       "name": "Neo-Squish Mystery Crate: Easter Bunny Edition [EPIC]",
       "price": "$149.99",
       "media": [
@@ -2808,11 +2763,56 @@ export const masterInventory: Record<string, any[]> = {
       "status": "CRUCIBLE_VERIFIED"
     },
     {
-      "id": "SQSH-0148",
-      "name": "Neo-Squish Mystery Crate: St. Patrick’s Day Frog Edition [EPIC]",
+      "id": "SQSH-0145",
+      "name": "Neo-Squish Mystery Crate: Tie Dye Llama Edition [EPIC]",
       "price": "$149.99",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6KRgGUuYBv8xT232yDs0tgv3Jvke_GJsJn7rtaReTl5TpoZ25ytPoDMAktqfhcb70CY5eJv0_34BUbMVU6qbpd4lrnsJYfZcNF9RbPQ930qe2tgSoMPrU"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJSB3Yel66pOqgQYYdWjsgCuCEEklbEs3uBLnnd5XMxLxkzOPIFC9e3oVYw2m2RBzON6F5E-CTW4Vrjhk5Hf1AsULRPSFNtjmsCfW2MhLR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Premium Scale Crate",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0146",
+      "name": "Neo-Squish Mystery Crate: Rainbow Octopus Edition [EPIC]",
+      "price": "$149.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGZ__6vPMa83Mfk2sCcObLMnQh_FIG9kMKWBRu2husyrIRL_SooN7uAAc5Ho4"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Premium Scale Crate",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0147",
+      "name": "Neo-Squish Mystery Crate: Halloween Cat Edition [EPIC]",
+      "price": "$149.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBkL6x5aM7qGkKVAOu3nHjxdd3zrOEDR7eVbcp2zPDPyfd-lmqKMA8-CspekVB50UVRjAydtD3rgsmA1-dtUTyVw9TLHAehQkzQF4Y1G5Ym-29ABm_DMFq"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "Nexus Gamified",
+        "condition": "Premium Scale Crate",
+        "shipping": "Tiered Tracked Shipping ($7.99)"
+      },
+      "status": "CRUCIBLE_VERIFIED"
+    },
+    {
+      "id": "SQSH-0148",
+      "name": "Neo-Squish Mystery Crate: Galaxy Narwhal Edition [EPIC]",
+      "price": "$149.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRHWWAS5p2Mkk1sUZW8A19aAKNTrf7EXXyBks2QVfjdA3XIHxfpo50UQn2eRROFdo9ZAzPEcI3jpkYqdoKybiXBNepz6509nXlhNyDy0xAE"
       ],
       "video": false,
       "specs": {
@@ -2824,10 +2824,10 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "SQSH-0149",
-      "name": "Neo-Squish Mystery Crate: Summer Flamingo Edition [EPIC]",
+      "name": "Neo-Squish Mystery Crate: Floral Fox Edition [EPIC]",
       "price": "$149.99",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMkGmYBwjDDxv1-w8mXrSIq6iGDtwv5vVez0tzpFY7KIAh6dRAr-nx1tdIfJxvRDpKX1k1BArMTlEL8n2I6IuoHYMelCCXHb4Q-qL1q57jyTW08awQ8s3-"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS1p6Q0eijWrD_4tCh-phc1bcMw-ODD73wD45azEACgSFPDH-jvC5RBO9iCXf-Pam7ifQf5JbOWLCQEKU90EM2DDpUVxRNw2LQJ6PibdTD0EvUIcKirXK8Jcw"
       ],
       "video": false,
       "specs": {
@@ -2842,7 +2842,7 @@ export const masterInventory: Record<string, any[]> = {
       "name": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [CHASE]",
       "price": "$500.00",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRW-OVV1j4u6XtjAIhX79UR2JfJKuyai8SZaMMF6WsrFU782ZS1Bsygg7TrBhqhP9HukqltvG8"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaimI1zeK_qsX-U_DCgjajKgMXvgumrTwZW2oVM737mgrXwBAFIwBCgcfNoaR_v3e6bg2Yfv_bL6qXZhfHg9okPzwDgH1B0CP9JiYmAHppTe51a-HAM7B9OQ"
       ],
       "video": false,
       "specs": {

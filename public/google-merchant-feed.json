@@ -8428,5 +8428,1505 @@
     "price": "129.99 USD",
     "availability": "in stock",
     "brand": "Nexus Matrix"
+  },
+  {
+    "id": "SQSH-0001",
+    "title": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaimI1zeK_qsX-U_DCgjajKgMXvgumrTwZW2oVM737mgrXwBAFIwBCgcfNoaR_v3e6bg2Yfv_bL6qXZhfHg9okPzwDgH1B0CP9JiYmAHppTe51a-HAM7B9OQ",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0002",
+    "title": "Neo-Squish Mystery Crate: Valentine's Day Dragon Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTszIu3GLCm1cZLb_gZGpUHPm2sj31bTPfHVkbl9_KQorEoTBD5cHugMsJA-H8xWwlWtCl2mECeMBQS8wppjlQyz567yvGGpCq_YNco58TXo2mkIUtxp2ft",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0003",
+    "title": "Neo-Squish Mystery Crate: Christmas Sloth Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7yaUiDc4PvD76iUBtz-z3cMyrfWSsBiiAfaZiwd_7xl_G6aU2cDTGnf9ib8sAkYzJKvXA-jc2c6UUVYk3qDmziE1ccUnVt8_sWUOVkj59",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0004",
+    "title": "Neo-Squish Mystery Crate: Easter Bunny Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ8lNJvUJX52a1AWsiIbqnmai-aTXmtU6V6TzkvhBf7RlOAfBQlRJfPO7N3HLm468ZYMrCy5TI7LGYGhW_GDK-EiIOUH_9wGowjzWr6VOEZnzalqki80MdJQ",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0005",
+    "title": "Neo-Squish Mystery Crate: Tie Dye Llama Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJSB3Yel66pOqgQYYdWjsgCuCEEklbEs3uBLnnd5XMxLxkzOPIFC9e3oVYw2m2RBzON6F5E-CTW4Vrjhk5Hf1AsULRPSFNtjmsCfW2MhLR",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0006",
+    "title": "Neo-Squish Mystery Crate: Rainbow Octopus Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGZ__6vPMa83Mfk2sCcObLMnQh_FIG9kMKWBRu2husyrIRL_SooN7uAAc5Ho4",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0007",
+    "title": "Neo-Squish Mystery Crate: Halloween Cat Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBkL6x5aM7qGkKVAOu3nHjxdd3zrOEDR7eVbcp2zPDPyfd-lmqKMA8-CspekVB50UVRjAydtD3rgsmA1-dtUTyVw9TLHAehQkzQF4Y1G5Ym-29ABm_DMFq",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0008",
+    "title": "Neo-Squish Mystery Crate: Galaxy Narwhal Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRHWWAS5p2Mkk1sUZW8A19aAKNTrf7EXXyBks2QVfjdA3XIHxfpo50UQn2eRROFdo9ZAzPEcI3jpkYqdoKybiXBNepz6509nXlhNyDy0xAE",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0009",
+    "title": "Neo-Squish Mystery Crate: Floral Fox Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS1p6Q0eijWrD_4tCh-phc1bcMw-ODD73wD45azEACgSFPDH-jvC5RBO9iCXf-Pam7ifQf5JbOWLCQEKU90EM2DDpUVxRNw2LQJ6PibdTD0EvUIcKirXK8Jcw",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0010",
+    "title": "Neo-Squish Mystery Crate: Autumn Owl Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSyj4QK71sHDiv9uAjRG2ELnEqmuITYvahMVeSkqvRKrhn7J7j7hpVpjVCstGMxPGykeNKwSXQd6OPq9UozRtVdOOSEx31YgaL2BMmGHTWM_xUzJI38OwzE",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0011",
+    "title": "Neo-Squish Mystery Crate: Tropical Toucan Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSZxFE3U1qEgTdwEK-AOCjM4nT0Yg9_sfMURH9uRH251W3axxtNicKFjuU8lPycmZgbBz6DjVswG9D4QIwxt28cbH1LX4xpIEUAFIE-u2bWxu-Fixj1QxdwAg",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0012",
+    "title": "Neo-Squish Mystery Crate: Pirate Panda Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSoXYICMdLuW963mucjhqjlU594-IPDzG_PHPF97pGtV0vMwHuFzZW8WIwG9-q71Ah0G_dL6S2QQyxb65pFAjj_A8esLD9Htlzlq-eg1R4",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0013",
+    "title": "Neo-Squish Mystery Crate: Safari Giraffe Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQOuNm4BN4ChuegntdSwjpVq34aAgzYFa-o-ytKv93jZ0qU91vchHuO_D6v1pzSqXaHhUc-TCMhMbQ5fql36xY5D7Qa8Fln32T9VqkiWVDP6n9fUfBnuz-Xbw",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0014",
+    "title": "Neo-Squish Mystery Crate: Ice Cream Cone Bear Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTjbvHU4avE_J0sO7xzIPahxqkx3McdWadm-ebcbEatT6suIlhBzc-aCaOmg7jhhiG-JsLdLAYyjGkT3mjVvkhSolGkIdlSp1jZyabe1MhQXw4NUKe7CWf7",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0015",
+    "title": "Neo-Squish Mystery Crate: Space Alien Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSjwOkBCw9ZSVNsR_-6O-wzBpAVhpjBIur1wXDF6dYmg6aDAdpz70TVhGF4J1P_uSpo09MpzgF6-Iqayjj2M14EvkC-1i07XM2gt4T1ko-r6HyzuS6aA1OZpA",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0016",
+    "title": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaimI1zeK_qsX-U_DCgjajKgMXvgumrTwZW2oVM737mgrXwBAFIwBCgcfNoaR_v3e6bg2Yfv_bL6qXZhfHg9okPzwDgH1B0CP9JiYmAHppTe51a-HAM7B9OQ",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0017",
+    "title": "Neo-Squish Mystery Crate: Valentine's Day Dragon Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTszIu3GLCm1cZLb_gZGpUHPm2sj31bTPfHVkbl9_KQorEoTBD5cHugMsJA-H8xWwlWtCl2mECeMBQS8wppjlQyz567yvGGpCq_YNco58TXo2mkIUtxp2ft",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0018",
+    "title": "Neo-Squish Mystery Crate: Christmas Sloth Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7yaUiDc4PvD76iUBtz-z3cMyrfWSsBiiAfaZiwd_7xl_G6aU2cDTGnf9ib8sAkYzJKvXA-jc2c6UUVYk3qDmziE1ccUnVt8_sWUOVkj59",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0019",
+    "title": "Neo-Squish Mystery Crate: Easter Bunny Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ8lNJvUJX52a1AWsiIbqnmai-aTXmtU6V6TzkvhBf7RlOAfBQlRJfPO7N3HLm468ZYMrCy5TI7LGYGhW_GDK-EiIOUH_9wGowjzWr6VOEZnzalqki80MdJQ",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0020",
+    "title": "Neo-Squish Mystery Crate: Tie Dye Llama Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJSB3Yel66pOqgQYYdWjsgCuCEEklbEs3uBLnnd5XMxLxkzOPIFC9e3oVYw2m2RBzON6F5E-CTW4Vrjhk5Hf1AsULRPSFNtjmsCfW2MhLR",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0021",
+    "title": "Neo-Squish Mystery Crate: Rainbow Octopus Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGZ__6vPMa83Mfk2sCcObLMnQh_FIG9kMKWBRu2husyrIRL_SooN7uAAc5Ho4",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0022",
+    "title": "Neo-Squish Mystery Crate: Halloween Cat Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBkL6x5aM7qGkKVAOu3nHjxdd3zrOEDR7eVbcp2zPDPyfd-lmqKMA8-CspekVB50UVRjAydtD3rgsmA1-dtUTyVw9TLHAehQkzQF4Y1G5Ym-29ABm_DMFq",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0023",
+    "title": "Neo-Squish Mystery Crate: Galaxy Narwhal Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRHWWAS5p2Mkk1sUZW8A19aAKNTrf7EXXyBks2QVfjdA3XIHxfpo50UQn2eRROFdo9ZAzPEcI3jpkYqdoKybiXBNepz6509nXlhNyDy0xAE",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0024",
+    "title": "Neo-Squish Mystery Crate: Floral Fox Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS1p6Q0eijWrD_4tCh-phc1bcMw-ODD73wD45azEACgSFPDH-jvC5RBO9iCXf-Pam7ifQf5JbOWLCQEKU90EM2DDpUVxRNw2LQJ6PibdTD0EvUIcKirXK8Jcw",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0025",
+    "title": "Neo-Squish Mystery Crate: Autumn Owl Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSyj4QK71sHDiv9uAjRG2ELnEqmuITYvahMVeSkqvRKrhn7J7j7hpVpjVCstGMxPGykeNKwSXQd6OPq9UozRtVdOOSEx31YgaL2BMmGHTWM_xUzJI38OwzE",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0026",
+    "title": "Neo-Squish Mystery Crate: Tropical Toucan Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSZxFE3U1qEgTdwEK-AOCjM4nT0Yg9_sfMURH9uRH251W3axxtNicKFjuU8lPycmZgbBz6DjVswG9D4QIwxt28cbH1LX4xpIEUAFIE-u2bWxu-Fixj1QxdwAg",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0027",
+    "title": "Neo-Squish Mystery Crate: Pirate Panda Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSoXYICMdLuW963mucjhqjlU594-IPDzG_PHPF97pGtV0vMwHuFzZW8WIwG9-q71Ah0G_dL6S2QQyxb65pFAjj_A8esLD9Htlzlq-eg1R4",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0028",
+    "title": "Neo-Squish Mystery Crate: Safari Giraffe Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQOuNm4BN4ChuegntdSwjpVq34aAgzYFa-o-ytKv93jZ0qU91vchHuO_D6v1pzSqXaHhUc-TCMhMbQ5fql36xY5D7Qa8Fln32T9VqkiWVDP6n9fUfBnuz-Xbw",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0029",
+    "title": "Neo-Squish Mystery Crate: Ice Cream Cone Bear Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTjbvHU4avE_J0sO7xzIPahxqkx3McdWadm-ebcbEatT6suIlhBzc-aCaOmg7jhhiG-JsLdLAYyjGkT3mjVvkhSolGkIdlSp1jZyabe1MhQXw4NUKe7CWf7",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0030",
+    "title": "Neo-Squish Mystery Crate: Space Alien Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSjwOkBCw9ZSVNsR_-6O-wzBpAVhpjBIur1wXDF6dYmg6aDAdpz70TVhGF4J1P_uSpo09MpzgF6-Iqayjj2M14EvkC-1i07XM2gt4T1ko-r6HyzuS6aA1OZpA",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0031",
+    "title": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaimI1zeK_qsX-U_DCgjajKgMXvgumrTwZW2oVM737mgrXwBAFIwBCgcfNoaR_v3e6bg2Yfv_bL6qXZhfHg9okPzwDgH1B0CP9JiYmAHppTe51a-HAM7B9OQ",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0032",
+    "title": "Neo-Squish Mystery Crate: Valentine's Day Dragon Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTszIu3GLCm1cZLb_gZGpUHPm2sj31bTPfHVkbl9_KQorEoTBD5cHugMsJA-H8xWwlWtCl2mECeMBQS8wppjlQyz567yvGGpCq_YNco58TXo2mkIUtxp2ft",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0033",
+    "title": "Neo-Squish Mystery Crate: Christmas Sloth Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7yaUiDc4PvD76iUBtz-z3cMyrfWSsBiiAfaZiwd_7xl_G6aU2cDTGnf9ib8sAkYzJKvXA-jc2c6UUVYk3qDmziE1ccUnVt8_sWUOVkj59",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0034",
+    "title": "Neo-Squish Mystery Crate: Easter Bunny Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ8lNJvUJX52a1AWsiIbqnmai-aTXmtU6V6TzkvhBf7RlOAfBQlRJfPO7N3HLm468ZYMrCy5TI7LGYGhW_GDK-EiIOUH_9wGowjzWr6VOEZnzalqki80MdJQ",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0035",
+    "title": "Neo-Squish Mystery Crate: Tie Dye Llama Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJSB3Yel66pOqgQYYdWjsgCuCEEklbEs3uBLnnd5XMxLxkzOPIFC9e3oVYw2m2RBzON6F5E-CTW4Vrjhk5Hf1AsULRPSFNtjmsCfW2MhLR",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0036",
+    "title": "Neo-Squish Mystery Crate: Rainbow Octopus Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGZ__6vPMa83Mfk2sCcObLMnQh_FIG9kMKWBRu2husyrIRL_SooN7uAAc5Ho4",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0037",
+    "title": "Neo-Squish Mystery Crate: Halloween Cat Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBkL6x5aM7qGkKVAOu3nHjxdd3zrOEDR7eVbcp2zPDPyfd-lmqKMA8-CspekVB50UVRjAydtD3rgsmA1-dtUTyVw9TLHAehQkzQF4Y1G5Ym-29ABm_DMFq",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0038",
+    "title": "Neo-Squish Mystery Crate: Galaxy Narwhal Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRHWWAS5p2Mkk1sUZW8A19aAKNTrf7EXXyBks2QVfjdA3XIHxfpo50UQn2eRROFdo9ZAzPEcI3jpkYqdoKybiXBNepz6509nXlhNyDy0xAE",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0039",
+    "title": "Neo-Squish Mystery Crate: Floral Fox Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS1p6Q0eijWrD_4tCh-phc1bcMw-ODD73wD45azEACgSFPDH-jvC5RBO9iCXf-Pam7ifQf5JbOWLCQEKU90EM2DDpUVxRNw2LQJ6PibdTD0EvUIcKirXK8Jcw",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0040",
+    "title": "Neo-Squish Mystery Crate: Autumn Owl Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSyj4QK71sHDiv9uAjRG2ELnEqmuITYvahMVeSkqvRKrhn7J7j7hpVpjVCstGMxPGykeNKwSXQd6OPq9UozRtVdOOSEx31YgaL2BMmGHTWM_xUzJI38OwzE",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0041",
+    "title": "Neo-Squish Mystery Crate: Tropical Toucan Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSZxFE3U1qEgTdwEK-AOCjM4nT0Yg9_sfMURH9uRH251W3axxtNicKFjuU8lPycmZgbBz6DjVswG9D4QIwxt28cbH1LX4xpIEUAFIE-u2bWxu-Fixj1QxdwAg",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0042",
+    "title": "Neo-Squish Mystery Crate: Pirate Panda Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSoXYICMdLuW963mucjhqjlU594-IPDzG_PHPF97pGtV0vMwHuFzZW8WIwG9-q71Ah0G_dL6S2QQyxb65pFAjj_A8esLD9Htlzlq-eg1R4",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0043",
+    "title": "Neo-Squish Mystery Crate: Safari Giraffe Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQOuNm4BN4ChuegntdSwjpVq34aAgzYFa-o-ytKv93jZ0qU91vchHuO_D6v1pzSqXaHhUc-TCMhMbQ5fql36xY5D7Qa8Fln32T9VqkiWVDP6n9fUfBnuz-Xbw",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0044",
+    "title": "Neo-Squish Mystery Crate: Ice Cream Cone Bear Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTjbvHU4avE_J0sO7xzIPahxqkx3McdWadm-ebcbEatT6suIlhBzc-aCaOmg7jhhiG-JsLdLAYyjGkT3mjVvkhSolGkIdlSp1jZyabe1MhQXw4NUKe7CWf7",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0045",
+    "title": "Neo-Squish Mystery Crate: Space Alien Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSjwOkBCw9ZSVNsR_-6O-wzBpAVhpjBIur1wXDF6dYmg6aDAdpz70TVhGF4J1P_uSpo09MpzgF6-Iqayjj2M14EvkC-1i07XM2gt4T1ko-r6HyzuS6aA1OZpA",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0046",
+    "title": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaimI1zeK_qsX-U_DCgjajKgMXvgumrTwZW2oVM737mgrXwBAFIwBCgcfNoaR_v3e6bg2Yfv_bL6qXZhfHg9okPzwDgH1B0CP9JiYmAHppTe51a-HAM7B9OQ",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0047",
+    "title": "Neo-Squish Mystery Crate: Valentine's Day Dragon Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTszIu3GLCm1cZLb_gZGpUHPm2sj31bTPfHVkbl9_KQorEoTBD5cHugMsJA-H8xWwlWtCl2mECeMBQS8wppjlQyz567yvGGpCq_YNco58TXo2mkIUtxp2ft",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0048",
+    "title": "Neo-Squish Mystery Crate: Christmas Sloth Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7yaUiDc4PvD76iUBtz-z3cMyrfWSsBiiAfaZiwd_7xl_G6aU2cDTGnf9ib8sAkYzJKvXA-jc2c6UUVYk3qDmziE1ccUnVt8_sWUOVkj59",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0049",
+    "title": "Neo-Squish Mystery Crate: Easter Bunny Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ8lNJvUJX52a1AWsiIbqnmai-aTXmtU6V6TzkvhBf7RlOAfBQlRJfPO7N3HLm468ZYMrCy5TI7LGYGhW_GDK-EiIOUH_9wGowjzWr6VOEZnzalqki80MdJQ",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0050",
+    "title": "Neo-Squish Mystery Crate: Tie Dye Llama Edition [MICRO]",
+    "description": "Official Nexus Gamified MICRO item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJSB3Yel66pOqgQYYdWjsgCuCEEklbEs3uBLnnd5XMxLxkzOPIFC9e3oVYw2m2RBzON6F5E-CTW4Vrjhk5Hf1AsULRPSFNtjmsCfW2MhLR",
+    "price": "9.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0051",
+    "title": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaimI1zeK_qsX-U_DCgjajKgMXvgumrTwZW2oVM737mgrXwBAFIwBCgcfNoaR_v3e6bg2Yfv_bL6qXZhfHg9okPzwDgH1B0CP9JiYmAHppTe51a-HAM7B9OQ",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0052",
+    "title": "Neo-Squish Mystery Crate: Valentine's Day Dragon Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTszIu3GLCm1cZLb_gZGpUHPm2sj31bTPfHVkbl9_KQorEoTBD5cHugMsJA-H8xWwlWtCl2mECeMBQS8wppjlQyz567yvGGpCq_YNco58TXo2mkIUtxp2ft",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0053",
+    "title": "Neo-Squish Mystery Crate: Christmas Sloth Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7yaUiDc4PvD76iUBtz-z3cMyrfWSsBiiAfaZiwd_7xl_G6aU2cDTGnf9ib8sAkYzJKvXA-jc2c6UUVYk3qDmziE1ccUnVt8_sWUOVkj59",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0054",
+    "title": "Neo-Squish Mystery Crate: Easter Bunny Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ8lNJvUJX52a1AWsiIbqnmai-aTXmtU6V6TzkvhBf7RlOAfBQlRJfPO7N3HLm468ZYMrCy5TI7LGYGhW_GDK-EiIOUH_9wGowjzWr6VOEZnzalqki80MdJQ",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0055",
+    "title": "Neo-Squish Mystery Crate: Tie Dye Llama Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJSB3Yel66pOqgQYYdWjsgCuCEEklbEs3uBLnnd5XMxLxkzOPIFC9e3oVYw2m2RBzON6F5E-CTW4Vrjhk5Hf1AsULRPSFNtjmsCfW2MhLR",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0056",
+    "title": "Neo-Squish Mystery Crate: Rainbow Octopus Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGZ__6vPMa83Mfk2sCcObLMnQh_FIG9kMKWBRu2husyrIRL_SooN7uAAc5Ho4",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0057",
+    "title": "Neo-Squish Mystery Crate: Halloween Cat Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBkL6x5aM7qGkKVAOu3nHjxdd3zrOEDR7eVbcp2zPDPyfd-lmqKMA8-CspekVB50UVRjAydtD3rgsmA1-dtUTyVw9TLHAehQkzQF4Y1G5Ym-29ABm_DMFq",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0058",
+    "title": "Neo-Squish Mystery Crate: Galaxy Narwhal Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRHWWAS5p2Mkk1sUZW8A19aAKNTrf7EXXyBks2QVfjdA3XIHxfpo50UQn2eRROFdo9ZAzPEcI3jpkYqdoKybiXBNepz6509nXlhNyDy0xAE",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0059",
+    "title": "Neo-Squish Mystery Crate: Floral Fox Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS1p6Q0eijWrD_4tCh-phc1bcMw-ODD73wD45azEACgSFPDH-jvC5RBO9iCXf-Pam7ifQf5JbOWLCQEKU90EM2DDpUVxRNw2LQJ6PibdTD0EvUIcKirXK8Jcw",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0060",
+    "title": "Neo-Squish Mystery Crate: Autumn Owl Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSyj4QK71sHDiv9uAjRG2ELnEqmuITYvahMVeSkqvRKrhn7J7j7hpVpjVCstGMxPGykeNKwSXQd6OPq9UozRtVdOOSEx31YgaL2BMmGHTWM_xUzJI38OwzE",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0061",
+    "title": "Neo-Squish Mystery Crate: Tropical Toucan Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSZxFE3U1qEgTdwEK-AOCjM4nT0Yg9_sfMURH9uRH251W3axxtNicKFjuU8lPycmZgbBz6DjVswG9D4QIwxt28cbH1LX4xpIEUAFIE-u2bWxu-Fixj1QxdwAg",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0062",
+    "title": "Neo-Squish Mystery Crate: Pirate Panda Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSoXYICMdLuW963mucjhqjlU594-IPDzG_PHPF97pGtV0vMwHuFzZW8WIwG9-q71Ah0G_dL6S2QQyxb65pFAjj_A8esLD9Htlzlq-eg1R4",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0063",
+    "title": "Neo-Squish Mystery Crate: Safari Giraffe Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQOuNm4BN4ChuegntdSwjpVq34aAgzYFa-o-ytKv93jZ0qU91vchHuO_D6v1pzSqXaHhUc-TCMhMbQ5fql36xY5D7Qa8Fln32T9VqkiWVDP6n9fUfBnuz-Xbw",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0064",
+    "title": "Neo-Squish Mystery Crate: Ice Cream Cone Bear Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTjbvHU4avE_J0sO7xzIPahxqkx3McdWadm-ebcbEatT6suIlhBzc-aCaOmg7jhhiG-JsLdLAYyjGkT3mjVvkhSolGkIdlSp1jZyabe1MhQXw4NUKe7CWf7",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0065",
+    "title": "Neo-Squish Mystery Crate: Space Alien Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSjwOkBCw9ZSVNsR_-6O-wzBpAVhpjBIur1wXDF6dYmg6aDAdpz70TVhGF4J1P_uSpo09MpzgF6-Iqayjj2M14EvkC-1i07XM2gt4T1ko-r6HyzuS6aA1OZpA",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0066",
+    "title": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaimI1zeK_qsX-U_DCgjajKgMXvgumrTwZW2oVM737mgrXwBAFIwBCgcfNoaR_v3e6bg2Yfv_bL6qXZhfHg9okPzwDgH1B0CP9JiYmAHppTe51a-HAM7B9OQ",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0067",
+    "title": "Neo-Squish Mystery Crate: Valentine's Day Dragon Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTszIu3GLCm1cZLb_gZGpUHPm2sj31bTPfHVkbl9_KQorEoTBD5cHugMsJA-H8xWwlWtCl2mECeMBQS8wppjlQyz567yvGGpCq_YNco58TXo2mkIUtxp2ft",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0068",
+    "title": "Neo-Squish Mystery Crate: Christmas Sloth Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7yaUiDc4PvD76iUBtz-z3cMyrfWSsBiiAfaZiwd_7xl_G6aU2cDTGnf9ib8sAkYzJKvXA-jc2c6UUVYk3qDmziE1ccUnVt8_sWUOVkj59",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0069",
+    "title": "Neo-Squish Mystery Crate: Easter Bunny Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ8lNJvUJX52a1AWsiIbqnmai-aTXmtU6V6TzkvhBf7RlOAfBQlRJfPO7N3HLm468ZYMrCy5TI7LGYGhW_GDK-EiIOUH_9wGowjzWr6VOEZnzalqki80MdJQ",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0070",
+    "title": "Neo-Squish Mystery Crate: Tie Dye Llama Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJSB3Yel66pOqgQYYdWjsgCuCEEklbEs3uBLnnd5XMxLxkzOPIFC9e3oVYw2m2RBzON6F5E-CTW4Vrjhk5Hf1AsULRPSFNtjmsCfW2MhLR",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0071",
+    "title": "Neo-Squish Mystery Crate: Rainbow Octopus Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGZ__6vPMa83Mfk2sCcObLMnQh_FIG9kMKWBRu2husyrIRL_SooN7uAAc5Ho4",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0072",
+    "title": "Neo-Squish Mystery Crate: Halloween Cat Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBkL6x5aM7qGkKVAOu3nHjxdd3zrOEDR7eVbcp2zPDPyfd-lmqKMA8-CspekVB50UVRjAydtD3rgsmA1-dtUTyVw9TLHAehQkzQF4Y1G5Ym-29ABm_DMFq",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0073",
+    "title": "Neo-Squish Mystery Crate: Galaxy Narwhal Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRHWWAS5p2Mkk1sUZW8A19aAKNTrf7EXXyBks2QVfjdA3XIHxfpo50UQn2eRROFdo9ZAzPEcI3jpkYqdoKybiXBNepz6509nXlhNyDy0xAE",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0074",
+    "title": "Neo-Squish Mystery Crate: Floral Fox Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS1p6Q0eijWrD_4tCh-phc1bcMw-ODD73wD45azEACgSFPDH-jvC5RBO9iCXf-Pam7ifQf5JbOWLCQEKU90EM2DDpUVxRNw2LQJ6PibdTD0EvUIcKirXK8Jcw",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0075",
+    "title": "Neo-Squish Mystery Crate: Autumn Owl Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSyj4QK71sHDiv9uAjRG2ELnEqmuITYvahMVeSkqvRKrhn7J7j7hpVpjVCstGMxPGykeNKwSXQd6OPq9UozRtVdOOSEx31YgaL2BMmGHTWM_xUzJI38OwzE",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0076",
+    "title": "Neo-Squish Mystery Crate: Tropical Toucan Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSZxFE3U1qEgTdwEK-AOCjM4nT0Yg9_sfMURH9uRH251W3axxtNicKFjuU8lPycmZgbBz6DjVswG9D4QIwxt28cbH1LX4xpIEUAFIE-u2bWxu-Fixj1QxdwAg",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0077",
+    "title": "Neo-Squish Mystery Crate: Pirate Panda Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSoXYICMdLuW963mucjhqjlU594-IPDzG_PHPF97pGtV0vMwHuFzZW8WIwG9-q71Ah0G_dL6S2QQyxb65pFAjj_A8esLD9Htlzlq-eg1R4",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0078",
+    "title": "Neo-Squish Mystery Crate: Safari Giraffe Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQOuNm4BN4ChuegntdSwjpVq34aAgzYFa-o-ytKv93jZ0qU91vchHuO_D6v1pzSqXaHhUc-TCMhMbQ5fql36xY5D7Qa8Fln32T9VqkiWVDP6n9fUfBnuz-Xbw",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0079",
+    "title": "Neo-Squish Mystery Crate: Ice Cream Cone Bear Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTjbvHU4avE_J0sO7xzIPahxqkx3McdWadm-ebcbEatT6suIlhBzc-aCaOmg7jhhiG-JsLdLAYyjGkT3mjVvkhSolGkIdlSp1jZyabe1MhQXw4NUKe7CWf7",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0080",
+    "title": "Neo-Squish Mystery Crate: Space Alien Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSjwOkBCw9ZSVNsR_-6O-wzBpAVhpjBIur1wXDF6dYmg6aDAdpz70TVhGF4J1P_uSpo09MpzgF6-Iqayjj2M14EvkC-1i07XM2gt4T1ko-r6HyzuS6aA1OZpA",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0081",
+    "title": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaimI1zeK_qsX-U_DCgjajKgMXvgumrTwZW2oVM737mgrXwBAFIwBCgcfNoaR_v3e6bg2Yfv_bL6qXZhfHg9okPzwDgH1B0CP9JiYmAHppTe51a-HAM7B9OQ",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0082",
+    "title": "Neo-Squish Mystery Crate: Valentine's Day Dragon Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTszIu3GLCm1cZLb_gZGpUHPm2sj31bTPfHVkbl9_KQorEoTBD5cHugMsJA-H8xWwlWtCl2mECeMBQS8wppjlQyz567yvGGpCq_YNco58TXo2mkIUtxp2ft",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0083",
+    "title": "Neo-Squish Mystery Crate: Christmas Sloth Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7yaUiDc4PvD76iUBtz-z3cMyrfWSsBiiAfaZiwd_7xl_G6aU2cDTGnf9ib8sAkYzJKvXA-jc2c6UUVYk3qDmziE1ccUnVt8_sWUOVkj59",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0084",
+    "title": "Neo-Squish Mystery Crate: Easter Bunny Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ8lNJvUJX52a1AWsiIbqnmai-aTXmtU6V6TzkvhBf7RlOAfBQlRJfPO7N3HLm468ZYMrCy5TI7LGYGhW_GDK-EiIOUH_9wGowjzWr6VOEZnzalqki80MdJQ",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0085",
+    "title": "Neo-Squish Mystery Crate: Tie Dye Llama Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJSB3Yel66pOqgQYYdWjsgCuCEEklbEs3uBLnnd5XMxLxkzOPIFC9e3oVYw2m2RBzON6F5E-CTW4Vrjhk5Hf1AsULRPSFNtjmsCfW2MhLR",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0086",
+    "title": "Neo-Squish Mystery Crate: Rainbow Octopus Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGZ__6vPMa83Mfk2sCcObLMnQh_FIG9kMKWBRu2husyrIRL_SooN7uAAc5Ho4",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0087",
+    "title": "Neo-Squish Mystery Crate: Halloween Cat Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBkL6x5aM7qGkKVAOu3nHjxdd3zrOEDR7eVbcp2zPDPyfd-lmqKMA8-CspekVB50UVRjAydtD3rgsmA1-dtUTyVw9TLHAehQkzQF4Y1G5Ym-29ABm_DMFq",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0088",
+    "title": "Neo-Squish Mystery Crate: Galaxy Narwhal Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRHWWAS5p2Mkk1sUZW8A19aAKNTrf7EXXyBks2QVfjdA3XIHxfpo50UQn2eRROFdo9ZAzPEcI3jpkYqdoKybiXBNepz6509nXlhNyDy0xAE",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0089",
+    "title": "Neo-Squish Mystery Crate: Floral Fox Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS1p6Q0eijWrD_4tCh-phc1bcMw-ODD73wD45azEACgSFPDH-jvC5RBO9iCXf-Pam7ifQf5JbOWLCQEKU90EM2DDpUVxRNw2LQJ6PibdTD0EvUIcKirXK8Jcw",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0090",
+    "title": "Neo-Squish Mystery Crate: Autumn Owl Edition [COMMON]",
+    "description": "Official Nexus Gamified COMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSyj4QK71sHDiv9uAjRG2ELnEqmuITYvahMVeSkqvRKrhn7J7j7hpVpjVCstGMxPGykeNKwSXQd6OPq9UozRtVdOOSEx31YgaL2BMmGHTWM_xUzJI38OwzE",
+    "price": "19.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0091",
+    "title": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaimI1zeK_qsX-U_DCgjajKgMXvgumrTwZW2oVM737mgrXwBAFIwBCgcfNoaR_v3e6bg2Yfv_bL6qXZhfHg9okPzwDgH1B0CP9JiYmAHppTe51a-HAM7B9OQ",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0092",
+    "title": "Neo-Squish Mystery Crate: Valentine's Day Dragon Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTszIu3GLCm1cZLb_gZGpUHPm2sj31bTPfHVkbl9_KQorEoTBD5cHugMsJA-H8xWwlWtCl2mECeMBQS8wppjlQyz567yvGGpCq_YNco58TXo2mkIUtxp2ft",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0093",
+    "title": "Neo-Squish Mystery Crate: Christmas Sloth Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7yaUiDc4PvD76iUBtz-z3cMyrfWSsBiiAfaZiwd_7xl_G6aU2cDTGnf9ib8sAkYzJKvXA-jc2c6UUVYk3qDmziE1ccUnVt8_sWUOVkj59",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0094",
+    "title": "Neo-Squish Mystery Crate: Easter Bunny Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ8lNJvUJX52a1AWsiIbqnmai-aTXmtU6V6TzkvhBf7RlOAfBQlRJfPO7N3HLm468ZYMrCy5TI7LGYGhW_GDK-EiIOUH_9wGowjzWr6VOEZnzalqki80MdJQ",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0095",
+    "title": "Neo-Squish Mystery Crate: Tie Dye Llama Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJSB3Yel66pOqgQYYdWjsgCuCEEklbEs3uBLnnd5XMxLxkzOPIFC9e3oVYw2m2RBzON6F5E-CTW4Vrjhk5Hf1AsULRPSFNtjmsCfW2MhLR",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0096",
+    "title": "Neo-Squish Mystery Crate: Rainbow Octopus Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGZ__6vPMa83Mfk2sCcObLMnQh_FIG9kMKWBRu2husyrIRL_SooN7uAAc5Ho4",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0097",
+    "title": "Neo-Squish Mystery Crate: Halloween Cat Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBkL6x5aM7qGkKVAOu3nHjxdd3zrOEDR7eVbcp2zPDPyfd-lmqKMA8-CspekVB50UVRjAydtD3rgsmA1-dtUTyVw9TLHAehQkzQF4Y1G5Ym-29ABm_DMFq",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0098",
+    "title": "Neo-Squish Mystery Crate: Galaxy Narwhal Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRHWWAS5p2Mkk1sUZW8A19aAKNTrf7EXXyBks2QVfjdA3XIHxfpo50UQn2eRROFdo9ZAzPEcI3jpkYqdoKybiXBNepz6509nXlhNyDy0xAE",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0099",
+    "title": "Neo-Squish Mystery Crate: Floral Fox Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS1p6Q0eijWrD_4tCh-phc1bcMw-ODD73wD45azEACgSFPDH-jvC5RBO9iCXf-Pam7ifQf5JbOWLCQEKU90EM2DDpUVxRNw2LQJ6PibdTD0EvUIcKirXK8Jcw",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0100",
+    "title": "Neo-Squish Mystery Crate: Autumn Owl Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSyj4QK71sHDiv9uAjRG2ELnEqmuITYvahMVeSkqvRKrhn7J7j7hpVpjVCstGMxPGykeNKwSXQd6OPq9UozRtVdOOSEx31YgaL2BMmGHTWM_xUzJI38OwzE",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0101",
+    "title": "Neo-Squish Mystery Crate: Tropical Toucan Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSZxFE3U1qEgTdwEK-AOCjM4nT0Yg9_sfMURH9uRH251W3axxtNicKFjuU8lPycmZgbBz6DjVswG9D4QIwxt28cbH1LX4xpIEUAFIE-u2bWxu-Fixj1QxdwAg",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0102",
+    "title": "Neo-Squish Mystery Crate: Pirate Panda Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSoXYICMdLuW963mucjhqjlU594-IPDzG_PHPF97pGtV0vMwHuFzZW8WIwG9-q71Ah0G_dL6S2QQyxb65pFAjj_A8esLD9Htlzlq-eg1R4",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0103",
+    "title": "Neo-Squish Mystery Crate: Safari Giraffe Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQOuNm4BN4ChuegntdSwjpVq34aAgzYFa-o-ytKv93jZ0qU91vchHuO_D6v1pzSqXaHhUc-TCMhMbQ5fql36xY5D7Qa8Fln32T9VqkiWVDP6n9fUfBnuz-Xbw",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0104",
+    "title": "Neo-Squish Mystery Crate: Ice Cream Cone Bear Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTjbvHU4avE_J0sO7xzIPahxqkx3McdWadm-ebcbEatT6suIlhBzc-aCaOmg7jhhiG-JsLdLAYyjGkT3mjVvkhSolGkIdlSp1jZyabe1MhQXw4NUKe7CWf7",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0105",
+    "title": "Neo-Squish Mystery Crate: Space Alien Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSjwOkBCw9ZSVNsR_-6O-wzBpAVhpjBIur1wXDF6dYmg6aDAdpz70TVhGF4J1P_uSpo09MpzgF6-Iqayjj2M14EvkC-1i07XM2gt4T1ko-r6HyzuS6aA1OZpA",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0106",
+    "title": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaimI1zeK_qsX-U_DCgjajKgMXvgumrTwZW2oVM737mgrXwBAFIwBCgcfNoaR_v3e6bg2Yfv_bL6qXZhfHg9okPzwDgH1B0CP9JiYmAHppTe51a-HAM7B9OQ",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0107",
+    "title": "Neo-Squish Mystery Crate: Valentine's Day Dragon Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTszIu3GLCm1cZLb_gZGpUHPm2sj31bTPfHVkbl9_KQorEoTBD5cHugMsJA-H8xWwlWtCl2mECeMBQS8wppjlQyz567yvGGpCq_YNco58TXo2mkIUtxp2ft",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0108",
+    "title": "Neo-Squish Mystery Crate: Christmas Sloth Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7yaUiDc4PvD76iUBtz-z3cMyrfWSsBiiAfaZiwd_7xl_G6aU2cDTGnf9ib8sAkYzJKvXA-jc2c6UUVYk3qDmziE1ccUnVt8_sWUOVkj59",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0109",
+    "title": "Neo-Squish Mystery Crate: Easter Bunny Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ8lNJvUJX52a1AWsiIbqnmai-aTXmtU6V6TzkvhBf7RlOAfBQlRJfPO7N3HLm468ZYMrCy5TI7LGYGhW_GDK-EiIOUH_9wGowjzWr6VOEZnzalqki80MdJQ",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0110",
+    "title": "Neo-Squish Mystery Crate: Tie Dye Llama Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJSB3Yel66pOqgQYYdWjsgCuCEEklbEs3uBLnnd5XMxLxkzOPIFC9e3oVYw2m2RBzON6F5E-CTW4Vrjhk5Hf1AsULRPSFNtjmsCfW2MhLR",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0111",
+    "title": "Neo-Squish Mystery Crate: Rainbow Octopus Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGZ__6vPMa83Mfk2sCcObLMnQh_FIG9kMKWBRu2husyrIRL_SooN7uAAc5Ho4",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0112",
+    "title": "Neo-Squish Mystery Crate: Halloween Cat Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBkL6x5aM7qGkKVAOu3nHjxdd3zrOEDR7eVbcp2zPDPyfd-lmqKMA8-CspekVB50UVRjAydtD3rgsmA1-dtUTyVw9TLHAehQkzQF4Y1G5Ym-29ABm_DMFq",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0113",
+    "title": "Neo-Squish Mystery Crate: Galaxy Narwhal Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRHWWAS5p2Mkk1sUZW8A19aAKNTrf7EXXyBks2QVfjdA3XIHxfpo50UQn2eRROFdo9ZAzPEcI3jpkYqdoKybiXBNepz6509nXlhNyDy0xAE",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0114",
+    "title": "Neo-Squish Mystery Crate: Floral Fox Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS1p6Q0eijWrD_4tCh-phc1bcMw-ODD73wD45azEACgSFPDH-jvC5RBO9iCXf-Pam7ifQf5JbOWLCQEKU90EM2DDpUVxRNw2LQJ6PibdTD0EvUIcKirXK8Jcw",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0115",
+    "title": "Neo-Squish Mystery Crate: Autumn Owl Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSyj4QK71sHDiv9uAjRG2ELnEqmuITYvahMVeSkqvRKrhn7J7j7hpVpjVCstGMxPGykeNKwSXQd6OPq9UozRtVdOOSEx31YgaL2BMmGHTWM_xUzJI38OwzE",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0116",
+    "title": "Neo-Squish Mystery Crate: Tropical Toucan Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSZxFE3U1qEgTdwEK-AOCjM4nT0Yg9_sfMURH9uRH251W3axxtNicKFjuU8lPycmZgbBz6DjVswG9D4QIwxt28cbH1LX4xpIEUAFIE-u2bWxu-Fixj1QxdwAg",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0117",
+    "title": "Neo-Squish Mystery Crate: Pirate Panda Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSoXYICMdLuW963mucjhqjlU594-IPDzG_PHPF97pGtV0vMwHuFzZW8WIwG9-q71Ah0G_dL6S2QQyxb65pFAjj_A8esLD9Htlzlq-eg1R4",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0118",
+    "title": "Neo-Squish Mystery Crate: Safari Giraffe Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQOuNm4BN4ChuegntdSwjpVq34aAgzYFa-o-ytKv93jZ0qU91vchHuO_D6v1pzSqXaHhUc-TCMhMbQ5fql36xY5D7Qa8Fln32T9VqkiWVDP6n9fUfBnuz-Xbw",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0119",
+    "title": "Neo-Squish Mystery Crate: Ice Cream Cone Bear Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTjbvHU4avE_J0sO7xzIPahxqkx3McdWadm-ebcbEatT6suIlhBzc-aCaOmg7jhhiG-JsLdLAYyjGkT3mjVvkhSolGkIdlSp1jZyabe1MhQXw4NUKe7CWf7",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0120",
+    "title": "Neo-Squish Mystery Crate: Space Alien Edition [UNCOMMON]",
+    "description": "Official Nexus Gamified UNCOMMON item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSjwOkBCw9ZSVNsR_-6O-wzBpAVhpjBIur1wXDF6dYmg6aDAdpz70TVhGF4J1P_uSpo09MpzgF6-Iqayjj2M14EvkC-1i07XM2gt4T1ko-r6HyzuS6aA1OZpA",
+    "price": "29.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0121",
+    "title": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [RARE]",
+    "description": "Official Nexus Gamified RARE item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaimI1zeK_qsX-U_DCgjajKgMXvgumrTwZW2oVM737mgrXwBAFIwBCgcfNoaR_v3e6bg2Yfv_bL6qXZhfHg9okPzwDgH1B0CP9JiYmAHppTe51a-HAM7B9OQ",
+    "price": "49.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0122",
+    "title": "Neo-Squish Mystery Crate: Valentine's Day Dragon Edition [RARE]",
+    "description": "Official Nexus Gamified RARE item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTszIu3GLCm1cZLb_gZGpUHPm2sj31bTPfHVkbl9_KQorEoTBD5cHugMsJA-H8xWwlWtCl2mECeMBQS8wppjlQyz567yvGGpCq_YNco58TXo2mkIUtxp2ft",
+    "price": "49.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0123",
+    "title": "Neo-Squish Mystery Crate: Christmas Sloth Edition [RARE]",
+    "description": "Official Nexus Gamified RARE item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7yaUiDc4PvD76iUBtz-z3cMyrfWSsBiiAfaZiwd_7xl_G6aU2cDTGnf9ib8sAkYzJKvXA-jc2c6UUVYk3qDmziE1ccUnVt8_sWUOVkj59",
+    "price": "49.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0124",
+    "title": "Neo-Squish Mystery Crate: Easter Bunny Edition [RARE]",
+    "description": "Official Nexus Gamified RARE item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ8lNJvUJX52a1AWsiIbqnmai-aTXmtU6V6TzkvhBf7RlOAfBQlRJfPO7N3HLm468ZYMrCy5TI7LGYGhW_GDK-EiIOUH_9wGowjzWr6VOEZnzalqki80MdJQ",
+    "price": "49.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0125",
+    "title": "Neo-Squish Mystery Crate: Tie Dye Llama Edition [RARE]",
+    "description": "Official Nexus Gamified RARE item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJSB3Yel66pOqgQYYdWjsgCuCEEklbEs3uBLnnd5XMxLxkzOPIFC9e3oVYw2m2RBzON6F5E-CTW4Vrjhk5Hf1AsULRPSFNtjmsCfW2MhLR",
+    "price": "49.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0126",
+    "title": "Neo-Squish Mystery Crate: Rainbow Octopus Edition [RARE]",
+    "description": "Official Nexus Gamified RARE item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGZ__6vPMa83Mfk2sCcObLMnQh_FIG9kMKWBRu2husyrIRL_SooN7uAAc5Ho4",
+    "price": "49.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0127",
+    "title": "Neo-Squish Mystery Crate: Halloween Cat Edition [RARE]",
+    "description": "Official Nexus Gamified RARE item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBkL6x5aM7qGkKVAOu3nHjxdd3zrOEDR7eVbcp2zPDPyfd-lmqKMA8-CspekVB50UVRjAydtD3rgsmA1-dtUTyVw9TLHAehQkzQF4Y1G5Ym-29ABm_DMFq",
+    "price": "49.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0128",
+    "title": "Neo-Squish Mystery Crate: Galaxy Narwhal Edition [RARE]",
+    "description": "Official Nexus Gamified RARE item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRHWWAS5p2Mkk1sUZW8A19aAKNTrf7EXXyBks2QVfjdA3XIHxfpo50UQn2eRROFdo9ZAzPEcI3jpkYqdoKybiXBNepz6509nXlhNyDy0xAE",
+    "price": "49.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0129",
+    "title": "Neo-Squish Mystery Crate: Floral Fox Edition [RARE]",
+    "description": "Official Nexus Gamified RARE item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS1p6Q0eijWrD_4tCh-phc1bcMw-ODD73wD45azEACgSFPDH-jvC5RBO9iCXf-Pam7ifQf5JbOWLCQEKU90EM2DDpUVxRNw2LQJ6PibdTD0EvUIcKirXK8Jcw",
+    "price": "49.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0130",
+    "title": "Neo-Squish Mystery Crate: Autumn Owl Edition [RARE]",
+    "description": "Official Nexus Gamified RARE item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSyj4QK71sHDiv9uAjRG2ELnEqmuITYvahMVeSkqvRKrhn7J7j7hpVpjVCstGMxPGykeNKwSXQd6OPq9UozRtVdOOSEx31YgaL2BMmGHTWM_xUzJI38OwzE",
+    "price": "49.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0131",
+    "title": "Neo-Squish Mystery Crate: Tropical Toucan Edition [RARE]",
+    "description": "Official Nexus Gamified RARE item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSZxFE3U1qEgTdwEK-AOCjM4nT0Yg9_sfMURH9uRH251W3axxtNicKFjuU8lPycmZgbBz6DjVswG9D4QIwxt28cbH1LX4xpIEUAFIE-u2bWxu-Fixj1QxdwAg",
+    "price": "49.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0132",
+    "title": "Neo-Squish Mystery Crate: Pirate Panda Edition [RARE]",
+    "description": "Official Nexus Gamified RARE item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSoXYICMdLuW963mucjhqjlU594-IPDzG_PHPF97pGtV0vMwHuFzZW8WIwG9-q71Ah0G_dL6S2QQyxb65pFAjj_A8esLD9Htlzlq-eg1R4",
+    "price": "49.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0133",
+    "title": "Neo-Squish Mystery Crate: Safari Giraffe Edition [RARE]",
+    "description": "Official Nexus Gamified RARE item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQOuNm4BN4ChuegntdSwjpVq34aAgzYFa-o-ytKv93jZ0qU91vchHuO_D6v1pzSqXaHhUc-TCMhMbQ5fql36xY5D7Qa8Fln32T9VqkiWVDP6n9fUfBnuz-Xbw",
+    "price": "49.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0134",
+    "title": "Neo-Squish Mystery Crate: Ice Cream Cone Bear Edition [RARE]",
+    "description": "Official Nexus Gamified RARE item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTjbvHU4avE_J0sO7xzIPahxqkx3McdWadm-ebcbEatT6suIlhBzc-aCaOmg7jhhiG-JsLdLAYyjGkT3mjVvkhSolGkIdlSp1jZyabe1MhQXw4NUKe7CWf7",
+    "price": "49.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0135",
+    "title": "Neo-Squish Mystery Crate: Space Alien Edition [RARE]",
+    "description": "Official Nexus Gamified RARE item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSjwOkBCw9ZSVNsR_-6O-wzBpAVhpjBIur1wXDF6dYmg6aDAdpz70TVhGF4J1P_uSpo09MpzgF6-Iqayjj2M14EvkC-1i07XM2gt4T1ko-r6HyzuS6aA1OZpA",
+    "price": "49.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0136",
+    "title": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [RARE]",
+    "description": "Official Nexus Gamified RARE item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaimI1zeK_qsX-U_DCgjajKgMXvgumrTwZW2oVM737mgrXwBAFIwBCgcfNoaR_v3e6bg2Yfv_bL6qXZhfHg9okPzwDgH1B0CP9JiYmAHppTe51a-HAM7B9OQ",
+    "price": "49.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0137",
+    "title": "Neo-Squish Mystery Crate: Valentine's Day Dragon Edition [RARE]",
+    "description": "Official Nexus Gamified RARE item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTszIu3GLCm1cZLb_gZGpUHPm2sj31bTPfHVkbl9_KQorEoTBD5cHugMsJA-H8xWwlWtCl2mECeMBQS8wppjlQyz567yvGGpCq_YNco58TXo2mkIUtxp2ft",
+    "price": "49.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0138",
+    "title": "Neo-Squish Mystery Crate: Christmas Sloth Edition [RARE]",
+    "description": "Official Nexus Gamified RARE item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7yaUiDc4PvD76iUBtz-z3cMyrfWSsBiiAfaZiwd_7xl_G6aU2cDTGnf9ib8sAkYzJKvXA-jc2c6UUVYk3qDmziE1ccUnVt8_sWUOVkj59",
+    "price": "49.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0139",
+    "title": "Neo-Squish Mystery Crate: Easter Bunny Edition [RARE]",
+    "description": "Official Nexus Gamified RARE item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ8lNJvUJX52a1AWsiIbqnmai-aTXmtU6V6TzkvhBf7RlOAfBQlRJfPO7N3HLm468ZYMrCy5TI7LGYGhW_GDK-EiIOUH_9wGowjzWr6VOEZnzalqki80MdJQ",
+    "price": "49.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0140",
+    "title": "Neo-Squish Mystery Crate: Tie Dye Llama Edition [RARE]",
+    "description": "Official Nexus Gamified RARE item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJSB3Yel66pOqgQYYdWjsgCuCEEklbEs3uBLnnd5XMxLxkzOPIFC9e3oVYw2m2RBzON6F5E-CTW4Vrjhk5Hf1AsULRPSFNtjmsCfW2MhLR",
+    "price": "49.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0141",
+    "title": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [EPIC]",
+    "description": "Official Nexus Gamified EPIC item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaimI1zeK_qsX-U_DCgjajKgMXvgumrTwZW2oVM737mgrXwBAFIwBCgcfNoaR_v3e6bg2Yfv_bL6qXZhfHg9okPzwDgH1B0CP9JiYmAHppTe51a-HAM7B9OQ",
+    "price": "149.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0142",
+    "title": "Neo-Squish Mystery Crate: Valentine's Day Dragon Edition [EPIC]",
+    "description": "Official Nexus Gamified EPIC item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTszIu3GLCm1cZLb_gZGpUHPm2sj31bTPfHVkbl9_KQorEoTBD5cHugMsJA-H8xWwlWtCl2mECeMBQS8wppjlQyz567yvGGpCq_YNco58TXo2mkIUtxp2ft",
+    "price": "149.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0143",
+    "title": "Neo-Squish Mystery Crate: Christmas Sloth Edition [EPIC]",
+    "description": "Official Nexus Gamified EPIC item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7yaUiDc4PvD76iUBtz-z3cMyrfWSsBiiAfaZiwd_7xl_G6aU2cDTGnf9ib8sAkYzJKvXA-jc2c6UUVYk3qDmziE1ccUnVt8_sWUOVkj59",
+    "price": "149.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0144",
+    "title": "Neo-Squish Mystery Crate: Easter Bunny Edition [EPIC]",
+    "description": "Official Nexus Gamified EPIC item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ8lNJvUJX52a1AWsiIbqnmai-aTXmtU6V6TzkvhBf7RlOAfBQlRJfPO7N3HLm468ZYMrCy5TI7LGYGhW_GDK-EiIOUH_9wGowjzWr6VOEZnzalqki80MdJQ",
+    "price": "149.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0145",
+    "title": "Neo-Squish Mystery Crate: Tie Dye Llama Edition [EPIC]",
+    "description": "Official Nexus Gamified EPIC item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJSB3Yel66pOqgQYYdWjsgCuCEEklbEs3uBLnnd5XMxLxkzOPIFC9e3oVYw2m2RBzON6F5E-CTW4Vrjhk5Hf1AsULRPSFNtjmsCfW2MhLR",
+    "price": "149.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0146",
+    "title": "Neo-Squish Mystery Crate: Rainbow Octopus Edition [EPIC]",
+    "description": "Official Nexus Gamified EPIC item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGZ__6vPMa83Mfk2sCcObLMnQh_FIG9kMKWBRu2husyrIRL_SooN7uAAc5Ho4",
+    "price": "149.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0147",
+    "title": "Neo-Squish Mystery Crate: Halloween Cat Edition [EPIC]",
+    "description": "Official Nexus Gamified EPIC item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBkL6x5aM7qGkKVAOu3nHjxdd3zrOEDR7eVbcp2zPDPyfd-lmqKMA8-CspekVB50UVRjAydtD3rgsmA1-dtUTyVw9TLHAehQkzQF4Y1G5Ym-29ABm_DMFq",
+    "price": "149.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0148",
+    "title": "Neo-Squish Mystery Crate: Galaxy Narwhal Edition [EPIC]",
+    "description": "Official Nexus Gamified EPIC item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRHWWAS5p2Mkk1sUZW8A19aAKNTrf7EXXyBks2QVfjdA3XIHxfpo50UQn2eRROFdo9ZAzPEcI3jpkYqdoKybiXBNepz6509nXlhNyDy0xAE",
+    "price": "149.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0149",
+    "title": "Neo-Squish Mystery Crate: Floral Fox Edition [EPIC]",
+    "description": "Official Nexus Gamified EPIC item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS1p6Q0eijWrD_4tCh-phc1bcMw-ODD73wD45azEACgSFPDH-jvC5RBO9iCXf-Pam7ifQf5JbOWLCQEKU90EM2DDpUVxRNw2LQJ6PibdTD0EvUIcKirXK8Jcw",
+    "price": "149.99 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
+  },
+  {
+    "id": "SQSH-0150",
+    "title": "Neo-Squish Mystery Crate: Unicorn Mermaid Edition [CHASE]",
+    "description": "Official Nexus Gamified CHASE item.",
+    "link": "https://aether-nexus-matrix.vercel.app/netrix/neo-squish",
+    "image_link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaimI1zeK_qsX-U_DCgjajKgMXvgumrTwZW2oVM737mgrXwBAFIwBCgcfNoaR_v3e6bg2Yfv_bL6qXZhfHg9okPzwDgH1B0CP9JiYmAHppTe51a-HAM7B9OQ",
+    "price": "500.00 USD",
+    "availability": "in stock",
+    "brand": "Nexus Gamified"
   }
 ]
