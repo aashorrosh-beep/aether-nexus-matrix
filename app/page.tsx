@@ -1,18 +1,15 @@
 import Link from 'next/link';
 import { masterInventory } from './inventory';
 
-// Helper to check if a room actually has items
 const isLive = (roomId: string) => masterInventory && masterInventory[roomId] && masterInventory[roomId].length > 0;
 
 export default function PremiumLobby() {
   return (
     <main className="min-h-screen bg-black text-white p-6 md:p-12 font-sans relative overflow-hidden">
-      {/* Dynamic Cyber Grid Background */}
       <div className="absolute inset-0 bg-[linear-gradient(rgba(255,255,255,0.03)_1px,transparent_1px),linear-gradient(90deg,rgba(255,255,255,0.03)_1px,transparent_1px)] bg-[size:40px_40px] pointer-events-none"></div>
       
       <div className="max-w-7xl mx-auto space-y-16 relative z-10">
         
-        {/* HEADER */}
         <div className="text-center space-y-4 pt-8">
           <h1 className="text-6xl md:text-9xl font-black uppercase tracking-tighter italic drop-shadow-2xl">Aether Nexus</h1>
           <p className="text-xl md:text-2xl font-mono text-zinc-400 uppercase tracking-widest">Global E-Commerce Matrix • Sector 001</p>
@@ -24,6 +21,37 @@ export default function PremiumLobby() {
           <div className="space-y-10">
             <div className="bg-red-600 p-4 border-l-8 border-yellow-400 shadow-[0_0_40px_rgba(220,38,38,0.5)]">
               <h2 className="text-5xl font-black uppercase italic">Nostalgia Wing</h2>
+            </div>
+
+            {/* NEW: Q4 SEASONAL DROP */}
+            <div className="space-y-4">
+              <div className="border-b-2 border-emerald-900 pb-2">
+                <h3 className="text-2xl font-black text-emerald-500 uppercase tracking-widest">Q4 Holiday Drop</h3>
+                <p className="text-zinc-500 font-mono text-sm">Friendsgiving, Ugly Sweaters & Seasonal Gags</p>
+              </div>
+              <div className="grid grid-cols-1 gap-4">
+                {isLive('ugly-sweater-party') && (
+                  <Link href="/nostalgia/ugly-sweater-party" className="bg-zinc-900 border border-zinc-700 p-6 font-black text-xl uppercase hover:bg-emerald-900 hover:border-emerald-500 transition-all shadow-lg flex justify-between items-center group relative overflow-hidden">
+                    <div className="absolute top-0 right-0 bg-emerald-600 text-xs px-2 py-1 font-bold tracking-widest">SEASONAL</div>
+                    <span>Ugly Sweater Party</span> <span className="text-emerald-500 group-hover:translate-x-2 transition-transform">→</span>
+                  </Link>
+                )}
+                {isLive('friendsgiving-vault') && (
+                  <Link href="/nostalgia/friendsgiving-vault" className="bg-zinc-900 border border-zinc-700 p-6 font-black text-xl uppercase hover:bg-emerald-900 hover:border-emerald-500 transition-all shadow-lg flex justify-between items-center group">
+                    <span>Friendsgiving Vault</span> <span className="text-emerald-500 group-hover:translate-x-2 transition-transform">→</span>
+                  </Link>
+                )}
+                {isLive('holiday-gag-gifts') && (
+                  <Link href="/nostalgia/holiday-gag-gifts" className="bg-zinc-900 border border-zinc-700 p-6 font-black text-xl uppercase hover:bg-emerald-900 hover:border-emerald-500 transition-all shadow-lg flex justify-between items-center group">
+                    <span>Gen Z Holiday Gags</span> <span className="text-emerald-500 group-hover:translate-x-2 transition-transform">→</span>
+                  </Link>
+                )}
+                {isLive('seasonal-gift-baskets') && (
+                  <Link href="/nostalgia/seasonal-gift-baskets" className="bg-zinc-900 border border-zinc-700 p-6 font-black text-xl uppercase hover:bg-emerald-900 hover:border-emerald-500 transition-all shadow-lg flex justify-between items-center group">
+                    <span>Curated Gift Baskets</span> <span className="text-emerald-500 group-hover:translate-x-2 transition-transform">→</span>
+                  </Link>
+                )}
+              </div>
             </div>
 
             {/* CORRIDOR 1: NEXUS POP */}
@@ -100,6 +128,22 @@ export default function PremiumLobby() {
           <div className="space-y-10">
             <div className="bg-cyan-600 p-4 border-l-8 border-cyan-300 shadow-[0_0_40px_rgba(8,145,178,0.5)]">
               <h2 className="text-5xl font-black uppercase italic text-black">The Matrix</h2>
+            </div>
+
+            {/* NEW: LIFESTYLE & AESTHETICS */}
+            <div className="space-y-4">
+              <div className="border-b-2 border-indigo-900 pb-2">
+                <h3 className="text-2xl font-black text-indigo-500 uppercase tracking-widest">Aesthetics & Lifestyle</h3>
+                <p className="text-zinc-500 font-mono text-sm">Curated Spaces & Modern Setup Gear</p>
+              </div>
+              <div className="grid grid-cols-1 gap-4">
+                {isLive('lofi-study-room') && (
+                  <Link href="/netrix/lofi-study-room" className="bg-zinc-900 border border-zinc-700 p-6 font-black text-xl uppercase hover:bg-indigo-950 hover:border-indigo-500 transition-all shadow-lg flex justify-between items-center group relative overflow-hidden">
+                    <div className="absolute top-0 right-0 bg-indigo-600 text-xs px-2 py-1 font-bold tracking-widest">AESTHETIC</div>
+                    <span>Lofi Study Sanctuary</span> <span className="text-indigo-500 group-hover:translate-x-2 transition-transform">→</span>
+                  </Link>
+                )}
+              </div>
             </div>
 
             {/* CORRIDOR 1: HARDWARE & AI */}
