@@ -62,3 +62,5 @@ async function sendExecutiveEmail() {
   }
 }
 sendExecutiveEmail();
+
+fs.writeFileSync("public/executive-report.html","<!DOCTYPE html><html><head><meta charset=utf-8><title>ALBS End-of-Day Report</title><style>body{background:#09090b;color:#fff;font-family:monospace;padding:24px;max-width:950px;margin:0 auto}button{background:#10b981;color:#000;font-weight:900;padding:12px 24px;border:none;border-radius:8px;cursor:pointer}@media print{body{background:#fff;color:#000}.no-print{display:none}}</style></head><body><div class=no-print><button onclick=window.print()>🖨️ PRINT END-OF-DAY REPORT</button> <a href=/ style=color:#38bdf8;margin-left:16px>← Back to Mall</a></div><pre style=white-space:pre-wrap;margin-top:20px>"+report+"</pre></body></html>","utf8");

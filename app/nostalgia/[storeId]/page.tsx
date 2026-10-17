@@ -130,7 +130,7 @@ export default function DynamicStorefront() {
                   <div className="flex justify-between pb-2"><span className="text-sm font-bold text-zinc-500 uppercase">Fulfillment</span><span className="text-sm font-bold text-blue-600">{selectedItem.specs?.shipping || "Flat $2.99 Shipping"}</span></div>
                   
                   {parseFloat(selectedItem.price.replace(/[^0-9.]/g, '')) >= 500 && (
-                    <div className="flex justify-between pt-2 border-t border-zinc-200"><span className="text-sm font-bold text-red-600 uppercase">Escrow Protocol</span><span className="text-sm font-bold text-red-600">50% Refundable Deposit Required</span></div>
+                    <div className="flex justify-between pt-2 border-t border-zinc-200"><span className="text-sm font-bold text-red-600 uppercase">Escrow Protocol</span><span className="text-sm font-bold text-red-600">Direct Full-Purchase Checkout</span></div>
                   )}
                 </div>
               </div>

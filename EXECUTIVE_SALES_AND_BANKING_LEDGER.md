@@ -1,98 +1,108 @@
 # 🏦 ALBS NEXUS: 3-SHIFT EXECUTIVE SALES, BANKING & AI MERCHANDISING LEDGER
-> **Shift Timestamp (CT):** 10/16/2026, 3:19:52 PM | **Schedule:** 7:00 AM • 3:00 PM • 10:00 PM CT
+> **Shift Timestamp (CT):** 10/17/2026, 4:53:05 PM | **Schedule:** 7:00 AM • 3:00 PM • 10:00 PM CT
 > **Patent Shield:** U.S. Provisional App. No. 64/134,528 & Omnibus CIP
 
 ## I. EXECUTIVE BANKING & CATALOG VALUATION SUMMARY
-- **Total Active Storefronts Reporting:** 73 Storefronts (69 Retail + 2 VIP Concierges)
-- **Total Live Verified SKUs on Floor:** 2609 SKUs
-- **Total Gross Retail Floor Valuation:** $2,741,143.56
+- **Total Active Storefronts Reporting:** 83 Storefronts (69 Retail + 2 VIP Concierges)
+- **Total Live Verified SKUs on Floor:** 2583 SKUs
+- **Total Gross Retail Floor Valuation:** $2,752,802.21
 - **Stripe Checkout & Webhook Gateway:** ONLINE (albsnexus.com / Render Bridge)
 
 ## II. TOP 10 LEADER & MOVER STOREFRONTS (BY INVENTORY VALUE & AD PRIORITY)
 | Rank | Storefront Corridor | Active SKUs | Floor Valuation | Avg Ticket | AI General Decision |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| #1 | **ANDROID-CUSTOMS** | 35 | $901672.67 | $25762.08 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| #2 | **AI-MATRIX-UPLINK** | 35 | $553795.30 | $15822.72 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| #3 | **ANTI-GRAV-VEHICLES** | 35 | $227869.84 | $6510.57 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| #4 | **VINTAGE-VINYL** | 30 | $164023.28 | $5467.44 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| #5 | **RETRO-ARCADE** | 30 | $148808.15 | $4960.27 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| #6 | **DRONE-DEPOT** | 30 | $128252.10 | $4275.07 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| #7 | **PLASMA-OPTICS** | 35 | $69591.20 | $1988.32 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| #8 | **BIONIC-PROSTHETICS** | 35 | $65014.31 | $1857.55 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| #9 | **QUANTUM-PROCESSING** | 35 | $64365.85 | $1839.02 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| #10 | **VINTAGE-COMIC-STASH** | 35 | $56803.38 | $1622.95 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| #1 | **ANDROID-CUSTOMS** | 25 | $843049.67 | $33721.99 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| #2 | **AI-MATRIX-UPLINK** | 20 | $321389.82 | $16069.49 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| #3 | **ANTI-GRAV-VEHICLES** | 30 | $271545.14 | $9051.50 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| #4 | **VINTAGE-VINYL** | 28 | $224399.14 | $8014.25 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| #5 | **RETRO-ARCADE** | 30 | $205355.26 | $6845.18 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| #6 | **DRONE-DEPOT** | 23 | $159858.70 | $6950.38 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| #7 | **PLASMA-OPTICS** | 32 | $80165.98 | $2505.19 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| #8 | **QUANTUM-PROCESSING** | 30 | $77092.10 | $2569.74 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| #9 | **GRUNGE-APPAREL** | 30 | $71467.55 | $2382.25 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| #10 | **VINTAGE-COMIC-STASH** | 27 | $63252.94 | $2342.70 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
 
 ## III. COMPLETE STORE-BY-STORE LEDGER (ALL ACTIVE ROOMS)
 | Storefront ID | SKU Count | Gross Floor Value | Avg Unit Price | AI Merchandising Status |
 | :--- | :--- | :--- | :--- | :--- |
-| android-customs | 35 | $901672.67 | $25762.08 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| ai-matrix-uplink | 35 | $553795.30 | $15822.72 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| anti-grav-vehicles | 35 | $227869.84 | $6510.57 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| vintage-vinyl | 30 | $164023.28 | $5467.44 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| retro-arcade | 30 | $148808.15 | $4960.27 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| drone-depot | 30 | $128252.10 | $4275.07 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| plasma-optics | 35 | $69591.20 | $1988.32 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| bionic-prosthetics | 35 | $65014.31 | $1857.55 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| quantum-processing | 35 | $64365.85 | $1839.02 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| vintage-comic-stash | 35 | $56803.38 | $1622.95 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| grunge-apparel | 30 | $51788.08 | $1726.27 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| consignment-vault | 40 | $26169.18 | $654.23 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| zero-g-gear | 22 | $21589.68 | $981.35 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| decade-y2k | 40 | $17230.71 | $430.77 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| vintage-vinyl-records | 35 | $14845.80 | $424.17 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| techwear-tailor | 30 | $13756.59 | $458.55 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| off-grid-comms | 35 | $13711.80 | $391.77 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| holiday-illumination | 80 | $12538.50 | $156.73 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| 90s-skate-deck-vault | 35 | $10528.30 | $300.81 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| the-comic-stash | 30 | $8788.81 | $292.96 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| survival-edc | 30 | $8075.97 | $269.20 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| vintage-sports-jerseys | 35 | $7820.17 | $223.43 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| decade-60s-70s | 40 | $7188.57 | $179.71 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| seasonal-gift-baskets | 60 | $6949.94 | $115.83 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| blind-box-vault | 80 | $6933.37 | $86.67 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| trading-card-syndicate | 30 | $6807.38 | $226.91 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| classic-walkman-audio | 35 | $6651.98 | $190.06 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| polaroid-instant-film | 35 | $6496.77 | $185.62 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| neon-biolab | 35 | $6310.99 | $180.31 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| vr-immersion-bay | 6 | $6014.99 | $1002.50 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| holiday-confectionery-bakery | 100 | $5992.49 | $59.92 | 🔥 FLAGSHIP SUPER-DRIVER (KEEP & SCALE ADS) |
-| retro-mystery-vault | 30 | $5376.70 | $179.22 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| the-christmas-story | 180 | $5314.23 | $29.52 | 🔥 FLAGSHIP SUPER-DRIVER (KEEP & SCALE ADS) |
-| action-figures-90s | 30 | $5293.36 | $176.45 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| synth-food-replicators | 9 | $4872.45 | $541.38 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| stealth-tech | 35 | $4112.67 | $117.50 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| polaroid-and-film | 30 | $4056.65 | $135.22 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| premium-pet-supply | 40 | $4016.83 | $100.42 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| saturday-morning-cartoons | 35 | $4014.09 | $114.69 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| synthwave-audio | 30 | $3652.28 | $121.74 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| neon-roller-rink | 35 | $3522.46 | $100.64 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| diet-meal-delivery | 25 | $3353.50 | $134.14 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| super-squishies-hub | 80 | $3130.88 | $39.14 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| cyberware-depot | 30 | $3129.25 | $104.31 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| neo-squish | 30 | $2889.76 | $96.33 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| viral-home-trends | 40 | $2554.47 | $63.86 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| y2k-pop-merch | 54 | $2503.05 | $46.35 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| smart-home-core | 35 | $2484.66 | $70.99 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| neural-network-cafe | 35 | $2296.13 | $65.60 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| mars-colony-route | 30 | $2199.70 | $73.32 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| home-fitness-recovery | 25 | $2159.37 | $86.37 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| digital-pets | 35 | $2070.11 | $59.15 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| retro-board-games | 35 | $1878.55 | $53.67 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| retro-toy-chest | 35 | $1688.09 | $48.23 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| retro-squish-blind-boxes | 54 | $1649.05 | $30.54 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| holistic-longevity-lab | 35 | $1626.08 | $46.46 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| decade-80s-90s | 40 | $1590.61 | $39.77 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| organic-health-pantry | 25 | $1431.16 | $57.25 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| vhs-cult-archive | 35 | $1404.30 | $40.12 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| cellular-hydration-mineral | 35 | $1348.79 | $38.54 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| adaptogen-apothecary | 35 | $1296.17 | $37.03 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| grunge-90s-flannel | 35 | $1188.78 | $33.97 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| vhs-archive | 30 | $1150.51 | $38.35 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| retro-candy-soda | 27 | $1147.83 | $42.51 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| peptide-research-vault | 25 | $1099.89 | $44.00 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| pogs-and-slammers | 35 | $1019.32 | $29.12 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| the-lost-edge | 40 | $994.25 | $24.86 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| dyson-sphere-initiative | 2 | $634.81 | $317.40 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
-| pixel-sugar-rush | 7 | $348.77 | $49.82 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| neural-uplinks | 7 | $132.85 | $18.98 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
-| oracle-ai-core | 1 | $125.00 | $125.00 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| android-customs | 25 | $843049.67 | $33721.99 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| ai-matrix-uplink | 20 | $321389.82 | $16069.49 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| anti-grav-vehicles | 30 | $271545.14 | $9051.50 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| vintage-vinyl | 28 | $224399.14 | $8014.25 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| retro-arcade | 30 | $205355.26 | $6845.18 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| drone-depot | 23 | $159858.70 | $6950.38 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| plasma-optics | 32 | $80165.98 | $2505.19 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| quantum-processing | 30 | $77092.10 | $2569.74 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| grunge-apparel | 30 | $71467.55 | $2382.25 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| vintage-comic-stash | 27 | $63252.94 | $2342.70 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| consignment-vault | 39 | $35981.46 | $922.60 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| bionic-prosthetics | 18 | $33811.81 | $1878.43 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| zero-g-gear | 20 | $29616.91 | $1480.85 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| vintage-vinyl-records | 32 | $19564.81 | $611.40 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| techwear-tailor | 28 | $18489.81 | $660.35 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| spectrum-sensory-superstore | 83 | $17148.91 | $206.61 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| senior-mobility-independence | 52 | $12972.28 | $249.47 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| holiday-illumination | 70 | $12074.13 | $172.49 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| survival-edc | 29 | $10758.15 | $370.97 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| back-pain-spine-relief | 53 | $10357.57 | $195.43 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| seasonal-gift-baskets | 58 | $9410.19 | $162.24 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| trading-card-syndicate | 29 | $9303.17 | $320.80 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| the-comic-stash | 25 | $9265.64 | $370.63 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| decade-60s-70s | 36 | $9128.04 | $253.56 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| classic-walkman-audio | 33 | $8873.67 | $268.90 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| decade-y2k | 30 | $8612.87 | $287.10 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| vr-immersion-bay | 6 | $8300.68 | $1383.45 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| 90s-skate-deck-vault | 27 | $8115.16 | $300.56 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| vintage-sports-jerseys | 27 | $7907.17 | $292.86 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| action-figures-90s | 28 | $7229.55 | $258.20 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| holiday-confectionery-bakery | 91 | $6889.46 | $75.71 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| neon-biolab | 25 | $6721.10 | $268.84 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| off-grid-comms | 12 | $6346.10 | $528.84 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| polaroid-instant-film | 25 | $6282.16 | $251.29 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| the-christmas-story | 145 | $5706.06 | $39.35 | 🔥 FLAGSHIP SUPER-DRIVER (KEEP & SCALE ADS) |
+| saturday-morning-cartoons | 33 | $5491.93 | $166.42 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| synth-food-replicators | 8 | $5378.36 | $672.29 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| stealth-tech | 30 | $5075.10 | $169.17 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| retro-mystery-vault | 16 | $5064.97 | $316.56 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| synthwave-audio | 30 | $5040.15 | $168.01 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| polaroid-and-film | 27 | $4915.18 | $182.04 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| neon-roller-rink | 33 | $4552.99 | $137.97 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| athletic-attire-footwear | 36 | $4522.91 | $125.64 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| gut-botanical-library | 42 | $4437.60 | $105.66 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| cyberware-depot | 29 | $4245.98 | $146.41 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| new-life-expecting-superstore | 37 | $3912.12 | $105.73 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| diet-meal-delivery | 23 | $3748.91 | $163.00 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| neo-squish | 24 | $3568.78 | $148.70 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| premium-pet-supply | 28 | $3534.21 | $126.22 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| gnc-sports-nutrition | 62 | $3491.94 | $56.32 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| blind-box-vault | 33 | $3469.70 | $105.14 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| y2k-pop-merch | 52 | $3415.96 | $65.69 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| the-scrub-lounge | 63 | $2614.69 | $41.50 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| viral-home-trends | 32 | $2581.67 | $80.68 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| smart-home-core | 30 | $2514.34 | $83.81 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| digital-pets | 31 | $2489.01 | $80.29 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| super-squishies-hub | 40 | $2330.09 | $58.25 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| home-fitness-recovery | 16 | $2270.31 | $141.89 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| decade-80s-90s | 40 | $2195.07 | $54.88 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| retro-toy-chest | 31 | $2150.64 | $69.38 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| neural-network-cafe | 24 | $2082.24 | $86.76 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| retro-squish-blind-boxes | 50 | $2075.00 | $41.50 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| adaptogen-apothecary | 33 | $1712.81 | $51.90 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| vhs-cult-archive | 33 | $1655.23 | $50.16 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| grunge-90s-flannel | 34 | $1607.42 | $47.28 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| holistic-longevity-lab | 25 | $1551.75 | $62.07 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| retro-candy-soda | 25 | $1463.81 | $58.55 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| vhs-archive | 23 | $1288.85 | $56.04 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| organic-health-pantry | 17 | $1275.00 | $75.00 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| cellular-hydration-mineral | 22 | $1160.13 | $52.73 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| retro-sweat-rentals | 50 | $1097.07 | $21.94 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| pogs-and-slammers | 31 | $1033.86 | $33.35 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| retro-board-games | 13 | $990.78 | $76.21 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| the-lost-edge | 26 | $928.98 | $35.73 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| peptide-research-vault | 12 | $926.17 | $77.18 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| cellular-immune-botanicals | 22 | $905.92 | $41.18 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| mars-colony-route | 10 | $494.80 | $49.48 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| pixel-sugar-rush | 6 | $431.62 | $71.94 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |
+| dyson-sphere-initiative | 1 | $413.99 | $413.99 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| oracle-ai-core | 1 | $172.50 | $172.50 | 💎 HIGH-MARGIN ANCHOR (PROTECT FLOOR) |
+| neural-uplinks | 3 | $78.51 | $26.17 | ⚙️ ACTIVE ROTATION (MONITOR VELOCITY) |

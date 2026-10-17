@@ -31,4 +31,4 @@ jobs:
           git config user.name "ALBS-AI-General"
           git config user.email "aashorrosh@gmail.com"
           git add .
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(ai-general): 3-shift executive sales & banking report" && git push)
+          git diff --quiet && git diff --staged --quiet || (echo "✅ Report stored in artifact/app without locking main branch!"
