@@ -22,6 +22,7 @@ const wellCogs = [
   { id: "w4", side: "right", name: "⚙️ 4. Sportswear, Home Gym & $1 Retro Sweat Club", desc: "Workout Tights, Training Shoes, Dumbbells & Sweatin to the Oldies", rooms: ["athletic-attire-footwear","home-fitness-recovery","retro-sweat-rentals"] }
 ];
 export default function MallOfMallsLobby() {
+  fetch("/api/traffic",{method:"POST",body:JSON.stringify({page:"/"})}).catch(()=>{});
   const [activeCog, setActiveCog] = useState<any>(null);
   const [showCoach, setShowCoach] = useState(false);
   const [waiverSigned, setWaiverSigned] = useState(false);

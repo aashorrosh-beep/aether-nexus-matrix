@@ -1,0 +1,20 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>ALBS Live Traffic & Social Sniper Command</title>
+<style>body{background:#09090b;color:#fff;font-family:sans-serif;padding:24px;max-width:1100px;margin:0 auto}h1{color:#34d399;text-transform:uppercase}h2{color:#38bdf8;border-bottom:1px solid #27272a;padding-bottom:8px;margin-top:28px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:16px}.card{background:#18181b;border:1px solid #27272a;padding:18px;border-radius:14px}.stat{font-size:36px;font-weight:900;color:#fde047}.btn{background:#10b981;color:#000;font-weight:900;padding:10px 16px;border-radius:8px;text-decoration:none;display:inline-block;font-size:12px;text-transform:uppercase;border:none;cursor:pointer}.copy-box{background:#000;border:1px solid #3f3f46;padding:12px;border-radius:8px;font-size:12px;color:#d4d4d8;margin:10px 0}</style></head><body>
+<div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap"><h1>📡 ALBS Live Traffic & Autism Social Sniper Hub</h1><a class="btn" href="/">← Back to Mall</a></div>
+<div class="grid"><div class="card"><div>TOTAL RECORDED MALL HITS</div><div id="hitCount" class="stat">Loading...</div><p style="font-size:12px;color:#a1a1aa">Plus check Vercel Dashboard → Analytics tab for unique IP & city maps.</p></div>
+<div class="card"><div>1-CLICK AUTISM BOARD VALUE PITCH (ZERO-BAN)</div><div class="copy-box" id="pitch1">Hey everyone — we just built a free National 20-Mile Autism & Sensory-Friendly Event Radar (plus a 2026 Hospital Research Vault and 140+ hard-to-find sensory tools like 300lb swings, safety beds & XXT chewelry where 5% goes to an Autism Family Equipment Grant). You can type in any US ZIP code with no login required: https://www.albsnexus.com/spectrum-knowledge-vault.html</div><button class="btn" onclick="navigator.clipboard.writeText(document.getElementById('pitch1').innerText);this.innerText='✅ COPIED!'">📋 Copy Autism Board Pitch</button></div></div>
+<h2>🎯 Live Autism, Sensory & Holiday Social Boards (Click to Open Live Threads & Drop Pitch)</h2>
+<div id="redditFeed" class="grid">Scanning live social boards...</div>
+<script>
+fetch("/api/traffic").then(r=>r.json()).then(d=>{ document.getElementById("hitCount").innerText = d.total; });
+async function loadBoards() {
+  const subs = ["Autism_Parenting", "autism", "SpecialNeedsChildren", "GiftIdeas"];
+  let out = "";
+  for (const s of subs) {
+    out += "<div class=\x27card\x27><b style=\x27color:#38bdf8\x27>r/" + s + " (Live Community Board)</b><p style=\x27font-size:12px;color:#a1a1aa\x27>Active parents & shoppers discussing sensory tools, events, and gifts.</p><a class=\x27btn\x27 target=\x27_blank\x27 href=\x27https://www.reddit.com/r/" + s + "/new/\x27>Open Live Board & Reply →</a></div>";
+  }
+  out += "<div class=\x27card\x27><b style=\x27color:#34d399\x27>Facebook Autism Parent & Sensory Groups</b><p style=\x27font-size:12px;color:#a1a1aa\x27>Search live autism parent support groups to share the Free 20-Mile ZIP Event Radar.</p><a class=\x27btn\x27 target=\x27_blank\x27 href=\x27https://www.facebook.com/search/groups/?q=autism%20parents%20sensory%20support\x27>Open FB Autism Groups →</a></div>";
+  document.getElementById("redditFeed").innerHTML = out;
+}
+loadBoards();
+</script></body></html>
