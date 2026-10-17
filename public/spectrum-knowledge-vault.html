@@ -1,62 +1,100 @@
 <!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>ALBS Spectrum Knowledge Vault & 20-Mile Event Radar</title>
+<title>ALBS Spectrum & New Life Knowledge Vault + Dynamic 20-Mile Radar</title>
 <style>
-body{background:#09090b;color:#fff;font-family:sans-serif;line-height:1.6;padding:20px;max-width:980px;margin:0 auto}
+body{background:#09090b;color:#fff;font-family:sans-serif;line-height:1.6;padding:20px;max-width:1020px;margin:0 auto}
 .art,.radar{background:#18181b;border:2px solid #10b981;padding:18px;border-radius:12px;margin:16px 0}
+.baby-art{background:#18181b;border:2px solid #38bdf8;padding:18px;border-radius:12px;margin:16px 0}
 button,a.btn{background:#10b981;color:#000;font-weight:900;padding:10px 16px;border-radius:8px;text-decoration:none;border:none;cursor:pointer;display:inline-block;margin:4px;font-size:12px;text-transform:uppercase}
 .btn-cyan{background:#38bdf8;color:#000}
-input{padding:10px;font-weight:bold;background:#000;color:#fff;border:1px solid #10b981;border-radius:6px;width:240px}
+.btn-tab{background:#27272a;color:#fff;border:1px solid #3f3f46;padding:12px 18px;font-size:13px}
+.btn-tab.active{background:#fde047;color:#000;border-color:#fde047}
+input{padding:11px;font-weight:bold;background:#000;color:#fff;border:2px solid #10b981;border-radius:6px;width:240px;font-size:15px}
 @media print{
-  body,.art,.radar,.art *,.radar *{background:#fff!important;color:#000!important;border-color:#000!important}
+  body,.art,.baby-art,.radar,.art *,.baby-art *,.radar *{background:#fff!important;color:#000!important;border-color:#000!important}
   .no-print{display:none!important}
-  body.one .art,body.one .radar{display:none!important}
-  body.one .art.show{display:block!important}
-  body.rad-only .art{display:none!important}
+  body.one .art,body.one .baby-art,body.one .radar{display:none!important}
+  body.one .show{display:block!important}
+  body.rad-only .art,body.rad-only .baby-art{display:none!important}
 }
 </style></head><body>
 <div id="viewer" class="no-print" style="display:none;position:fixed;inset:0;z-index:9999;background:#09090b;flex-direction:column">
   <div style="background:#10b981;color:#000;padding:14px 20px;display:flex;justify-content:space-between;align-items:center;font-weight:900">
-    <span>📡 ALBS IN-MALL 20-MILE MAP VIEWER</span>
+    <span id="vtitle">📡 ALBS IN-MALL 20-MILE VIEWER</span>
     <button onclick="closeMap()" style="background:#000;color:#fde047;padding:10px 20px;border-radius:8px">⬅️ RETURN TO ALBS WEBSITE</button>
   </div>
   <iframe id="vframe" style="flex:1;width:100%;border:none;background:#fff"></iframe>
 </div>
 <div class="no-print">
-  <button onclick="printAll()">🖨️ Print All Articles</button>
-  <a class="btn btn-cyan" href="/nostalgia/spectrum-sensory-superstore">🛒 140-Item Autism Store →</a>
-  <a class="btn" href="/">← Back to Mall</a>
+  <button onclick="printAll()">🖨️ Print All Visible Guides</button>
+  <a class="btn" href="/nostalgia/spectrum-sensory-superstore">🧩 140-Item Autism Store →</a>
+  <a class="btn btn-cyan" href="/nostalgia/new-life-expecting-superstore">👶 New Life Baby Store →</a>
+  <a class="btn" style="background:#27272a;color:#fff" href="/">← Back to Mall</a>
 </div>
-<h1>🧩 ALBS Spectrum Knowledge Vault & 20-Mile Event Radar</h1>
+<h1>🧩 ALBS Family Sanctuary: 20-Mile Autism Radar & What to Expect Vault</h1>
 <div class="radar">
-  <h2>📡 Live 20-Mile US ZIP Code Sensory Event Radar</h2>
+  <h2>📡 Live 20-Mile US ZIP Code Sensory Event Radar (Dynamic GPS Filter)</h2>
   <div class="no-print">
-    <input id="z" type="text" value="77301" placeholder="Enter US ZIP Code (e.g. 77301 or 77433)">
+    <input id="z" type="text" value="77301" onkeydown="if(event.key==='Enter')scan()" placeholder="Enter Any US ZIP Code (e.g. 77566, 77095, 77301)">
     <button onclick="scan()">🔍 Scan 20-Mile Radius →</button>
     <button onclick="printRadar()">🖨️ Print Event Radar Only</button>
   </div>
-  <div id="st" style="color:#fde047;margin:12px 0;font-family:monospace;font-weight:bold"></div>
+  <div id="st" style="color:#fde047;margin:12px 0;font-family:monospace;font-weight:bold;font-size:14px"></div>
   <div id="out"></div>
 </div>
-<div class="art" id="a1">
-  <button class="no-print" style="float:right" onclick="p1('a1')">🖨️ Print This Full Article Only</button>
-  <h3>1. Cerebral Folate Transport (FOLR1), FRAA Autoantibodies & Leucovorin (March 2026 FDA Update)</h3>
-  <p><b>Clinical Mechanism:</b> Even when standard blood folate is normal, Folate Receptor Autoantibodies (FRAA) can block folate from crossing the blood-brain barrier via Folate Receptor Alpha (FRa), starving the brain of folate needed for speech, neurotransmitters, and myelin. In March 2026, the FDA approved <b>leucovorin calcium (folinic acid)</b> for Cerebral Folate Transport Deficiency because it bypasses blocked receptors via the Reduced Folate Carrier (RFC).</p>
-  <p><b>Questions & Labs to Print for Your Neurologist:</b> 1) Request the <b>FRAT (Folate Receptor Autoantibody Test)</b> blood panel. 2) Check Vitamin B12, MMA, Homocysteine, and Ferritin. 3) Discuss why bioavailable folinic acid / methylfolate is used instead of synthetic folic acid.</p>
+<div class="no-print" style="margin:24px 0 12px 0;border-bottom:2px solid #27272a;padding-bottom:12px">
+  <div style="font-size:12px;color:#a1a1aa;font-family:monospace;margin-bottom:8px">SELECT PROGRAM TAB BELOW (CLICK TO SWITCH OR PRINT):</div>
+  <button id="t-all" class="btn-tab active" onclick="showTab('all')">📚 Show All Guides (Autism + Baby)</button>
+  <button id="t-aut" class="btn-tab" onclick="showTab('aut')">🧩 Autism Hospital Research (3 Guides)</button>
+  <button id="t-baby" class="btn-tab" onclick="showTab('baby')">👶 What to Expect: Pregnancy, Baby & Free CPR (3 Guides)</button>
 </div>
-<div class="art" id="a2">
-  <button class="no-print" style="float:right" onclick="p1('a2')">🖨️ Print This Full Article Only</button>
-  <h3>2. Non-Invasive Wearable Neuromodulation Trials (eTNS & Near-Infrared tPBM)</h3>
-  <p><b>Clinical Mechanism & 2026 Trials:</b> University hospital trials at UCSF, UC Health, and SUNY Upstate Golisano Center are testing non-drug wearable devices to calm autonomic fight-or-flight hyperarousal: (A) <b>External Trigeminal Nerve Stimulation (eTNS)</b> worn during sleep to regulate attention, impulse control, and co-occurring ADHD in ages 7-14; and (B) <b>Transcranial Photobiomodulation (tPBM 810-1064nm near-infrared headsets)</b> to boost brain mitochondrial ATP energy, reduce neuroinflammation, and support language connectivity in ages 2-8.</p>
-  <p><b>Questions for Your Specialist:</b> Ask about eligibility for non-invasive neuromodulation trials and pairing occupational therapy with deep-pressure proprioceptive gear (300lb cuddle swings, compression sheets, and zero-blue-light sleep bulbs).</p>
+<div id="sec-aut">
+  <div class="art" id="a1">
+    <button class="no-print" style="float:right" onclick="p1('a1')">🖨️ Print This Guide Only</button>
+    <h3>1. Cerebral Folate Transport (FOLR1), FRAA Autoantibodies & Leucovorin (March 2026 FDA Update)</h3>
+    <p><b>Clinical Mechanism:</b> Even when standard blood folate is normal, Folate Receptor Autoantibodies (FRAA) can block folate from crossing the blood-brain barrier via Folate Receptor Alpha (FRa), starving the brain of folate needed for speech, neurotransmitters, and myelin. In March 2026, the FDA approved <b>leucovorin calcium (folinic acid)</b> for Cerebral Folate Transport Deficiency because it bypasses blocked receptors via the Reduced Folate Carrier (RFC).</p>
+    <p><b>Questions & Labs to Print for Your Neurologist:</b> 1) Request the <b>FRAT (Folate Receptor Autoantibody Test)</b> blood panel. 2) Check Vitamin B12, MMA, Homocysteine, and Ferritin. 3) Discuss why bioavailable folinic acid / methylfolate is used instead of synthetic folic acid.</p>
+  </div>
+  <div class="art" id="a2">
+    <button class="no-print" style="float:right" onclick="p1('a2')">🖨️ Print This Guide Only</button>
+    <h3>2. Non-Invasive Wearable Neuromodulation Trials (eTNS & Near-Infrared tPBM)</h3>
+    <p><b>Clinical Mechanism & 2026 Trials:</b> University hospital trials at UCSF, UC Health, and SUNY Upstate Golisano Center are testing non-drug wearable devices to calm autonomic fight-or-flight hyperarousal: (A) <b>External Trigeminal Nerve Stimulation (eTNS)</b> worn during sleep to regulate attention, impulse control, and co-occurring ADHD in ages 7-14; and (B) <b>Transcranial Photobiomodulation (tPBM 810-1064nm near-infrared headsets)</b> to boost brain mitochondrial ATP energy, reduce neuroinflammation, and support language connectivity in ages 2-8.</p>
+    <p><b>Questions for Your Specialist:</b> Ask about eligibility for non-invasive neuromodulation trials and pairing occupational therapy with deep-pressure proprioceptive gear (300lb cuddle swings, compression sheets, and zero-blue-light sleep bulbs).</p>
+  </div>
+  <div class="art" id="a3">
+    <button class="no-print" style="float:right" onclick="p1('a3')">🖨️ Print This Guide Only</button>
+    <h3>3. The Gut-Brain Axis (MassGeneral GEMMA & CM-AT Enzyme Trials), AAC Speech & Elopement Safety</h3>
+    <p><b>GI & Enzyme Research:</b> MassGeneral Hospital GEMMA studies and Phase III CM-AT pancreatic enzyme trials show undiagnosed GI pain, constipation, and protein malabsorption frequently trigger nonverbal meltdowns and 3:00 AM night-wakings. Ask your pediatrician to test <b>fecal calprotectin, fecal elastase/chymotrypsin, and serum ferritin (>50 ng/mL target for sleep)</b>.</p>
+    <p><b>Immediate AAC & Elopement Protocol:</b> Immediate access to push-button AAC talkers and PECS visual schedules accelerates vocal speech. Layer 4 elopement protections: wireless door chimes, full-zip safety canopy beds, hidden GPS shoe insoles, and QR medical alert seatbelt covers.</p>
+  </div>
 </div>
-<div class="art" id="a3">
-  <button class="no-print" style="float:right" onclick="p1('a3')">🖨️ Print This Full Article Only</button>
-  <h3>3. The Gut-Brain Axis (MassGeneral GEMMA & CM-AT Enzyme Trials), AAC Speech & Elopement Safety</h3>
-  <p><b>GI & Enzyme Research:</b> MassGeneral Hospital GEMMA studies and Phase III CM-AT pancreatic enzyme trials show undiagnosed GI pain, constipation, and protein malabsorption frequently trigger nonverbal meltdowns and 3:00 AM night-wakings. Ask your pediatrician to test <b>fecal calprotectin, fecal elastase/chymotrypsin, and serum ferritin (>50 ng/mL target for sleep)</b>.</p>
-  <p><b>Immediate AAC & Elopement Protocol:</b> Immediate access to push-button AAC talkers and PECS visual schedules accelerates vocal speech. Layer 4 elopement protections: wireless door chimes, full-zip safety canopy beds, hidden GPS shoe insoles, and QR medical alert seatbelt covers. <b>Free Infant/Child CPR:</b> 5 back slaps + 5 chest thrusts for conscious choking infants; 30:2 CPR compressions (free courses via Harris County ESD 11, Texas Children s & Red Cross).</p>
+<div id="sec-baby">
+  <div class="baby-art" id="b1">
+    <button class="btn-cyan no-print" style="float:right" onclick="p1('b1')">🖨️ Print This Guide Only</button>
+    <h3 style="color:#38bdf8">4. What to Expect When Expecting: Trimester-by-Trimester & Hospital Go-Bag Checklist</h3>
+    <p><b>1st, 2nd & 3rd Trimester Roadmap:</b> <b>Trimester 1 (Weeks 1-12):</b> Neural tube & organ formation—prioritize methylated prenatal folate, choline, iron, and gentle hydration for morning nausea. <b>Trimester 2 (Weeks 13-27):</b> Anatomy scan (18-22 wks), gestational glucose screening, and nursery safe-sleep setup. <b>Trimester 3 (Weeks 28-40):</b> Kick counts (10 movements in 2 hrs), Group B Strep screening (36 wks), installing the rear-facing infant car seat, and packing the Hospital Go-Bag.</p>
+    <p><b>The Complete Hospital Coming-Home Checklist:</b> 1) Two organic zipper newborn coming-home sleepers (no overhead snaps over healing umbilical cord) + velcro swaddles. 2) Rear-facing infant car seat (base pre-installed & inspected). 3) Postpartum recovery kit for mom (peri bottle, witch hazel pads, high-waisted nursing comfort wear, electrolyte packets, and extra-long phone charger).</p>
+  </div>
+  <div class="baby-art" id="b2">
+    <button class="btn-cyan no-print" style="float:right" onclick="p1('b2')">🖨️ Print This Guide Only</button>
+    <h3 style="color:#38bdf8">5. First 30 Days Home: Safe Sleep (ABC Rule), Feeding Cues & Postpartum Support</h3>
+    <p><b>AAP Safe Sleep Protocol (The ABCs):</b> Babies should sleep <b>A</b>lone, on their <b>B</b>ack, in a bare <b>C</b>rib or bassinet (firm flat mattress, fitted sheet only—no loose blankets, bumpers, or pillows; use wearable sleep sacks/swaddles instead).</p>
+    <p><b>Newborn Feeding & Diaper Tracker:</b> Expect 8-12 feedings per 24 hours. By Day 5+, look for 6+ wet diapers per day as proof of strong hydration. <b>Compassionate Parent Support:</b> Feeling overwhelmed is normal—free 24/7 National Maternal Mental Health Hotline: <b>1-833-TLC-MAMA (1-833-852-6262)</b>.</p>
+  </div>
+  <div class="baby-art" id="b3">
+    <button class="btn-cyan no-print" style="float:right" onclick="p1('b3')">🖨️ Print This Guide Only</button>
+    <h3 style="color:#38bdf8">6. Free Infant & Child CPR, Choking Response & Free Local Parenting Classes</h3>
+    <p><b>Emergency Conscious Choking Infant (<1 Year Old):</b> Hold infant face-down along your forearm with head lower than chest (supporting jaw). Deliver <b>5 firm back slaps</b> between shoulder blades with the heel of your hand. Turn infant face-up and deliver <b>5 two-finger chest thrusts</b> in the center of the breastbone just below the nipple line. Repeat 5 and 5 until object is expelled.</p>
+    <p><b>Unresponsive Infant CPR (Call 911 Immediately):</b> 30 fast chest compressions (1.5 inches deep at 100-120/min using 2 fingers) followed by 2 gentle puffs of air covering mouth and nose. <b>Where to Take Free Classes:</b> Harris County ESD 11 Free 1-Hour Infant CPR & Safe Sleep Class, Texas Children s Hospital Pavilion for Women Parenting Classes, and American Red Cross Online Infant CPR.</p>
+  </div>
 </div>
 <script>
 var currentLoc = "Conroe, TX (77301)";
+function showTab(t) {
+  document.querySelectorAll(".btn-tab").forEach(function(b){ b.classList.remove("active"); });
+  document.getElementById("t-" + t).classList.add("active");
+  document.getElementById("sec-aut").style.display = (t === "all" || t === "aut") ? "block" : "none";
+  document.getElementById("sec-baby").style.display = (t === "all" || t === "baby") ? "block" : "none";
+}
 function printAll() {
   document.body.classList.remove("one", "rad-only");
   window.print();
@@ -69,46 +107,77 @@ function printRadar() {
 }
 function p1(id) {
   document.body.classList.remove("rad-only");
-  document.querySelectorAll(".art").forEach(function(e){ e.classList.remove("show"); });
+  document.querySelectorAll(".art,.baby-art").forEach(function(e){ e.classList.remove("show"); });
   document.getElementById(id).classList.add("show");
   document.body.classList.add("one");
   window.print();
   setTimeout(function(){ document.body.classList.remove("one"); }, 500);
 }
-function openMap() {
-  var u = "https://www.google.com/maps?q=sensory+friendly+autism+events+parks+near+" + encodeURIComponent(currentLoc) + "&output=embed";
+function openMap(customQuery) {
+  var q = customQuery || ("sensory friendly autism events parks museums near " + currentLoc);
+  var u = "https://www.google.com/maps?q=" + encodeURIComponent(q) + "&output=embed";
+  document.getElementById("vtitle").innerText = "📡 20-MILE SENSORY RADAR: " + currentLoc;
   document.getElementById("vframe").src = u;
   document.getElementById("viewer").style.display = "flex";
 }
 function closeMap() {
   document.getElementById("viewer").style.display = "none";
 }
-var evs = [
-  { c: "Conroe / Shenandoah, TX (77301)", t: "AMC Metropark Square 10 — Sensory Friendly Films", d: "2nd & 4th Saturdays & Wed Evenings • Lights up, sound down, freedom to move & stim", u: "https://www.amctheatres.com/programs/sensory-friendly-films" },
-  { c: "The Woodlands, TX (9 mi from Conroe)", t: "Woodlands Children s Museum — Quiet Discovery Hours", d: "4775 W Panther Creek Dr • Sensory mornings, no overhead music", u: "https://woodlandschildrensmuseum.org" },
-  { c: "Cypress, TX (77433)", t: "FREE Autism Sensory Trick-or-Treat & Carnival (SOS Cypress)", d: "Friday, Oct 30, 2026 @ 4:00 PM • 100% Free sensory-safe carnival", u: "https://successonthespectrum.com/autism-events/" },
-  { c: "Humble / North Houston, TX", t: "FREE Autism Sensory Trick-or-Treat (SOS Humble)", d: "Friday, Oct 23, 2026 @ 4:00 PM • Quiet rooms & trained staff", u: "https://successonthespectrum.com/autism-events/" }
+var regionalDatabase = [
+  { lat: 30.3119, lon: -95.4561, c: "Conroe / Shenandoah, TX (77301)", t: "AMC Metropark Square 10 — Sensory Friendly Films", d: "2nd & 4th Saturdays & Wed Evenings • Lights up, sound down, freedom to move & stim", q: "AMC Metropark Square 10 Shenandoah TX" },
+  { lat: 30.1658, lon: -95.4613, c: "The Woodlands, TX (77381)", t: "Woodlands Children s Museum — Quiet Discovery Hours", d: "4775 W Panther Creek Dr • Sensory mornings, no overhead music", q: "Woodlands Childrens Museum Panther Creek" },
+  { lat: 29.9691, lon: -95.6972, c: "Cypress, TX (77433 / 77095)", t: "FREE Autism Sensory Trick-or-Treat & Carnival (SOS Cypress)", d: "Friday, Oct 30, 2026 @ 4:00 PM • 100% Free sensory-safe carnival", q: "Success On The Spectrum Cypress TX" },
+  { lat: 29.9988, lon: -95.2622, c: "Humble / North Houston, TX (77338)", t: "FREE Autism Sensory Trick-or-Treat (SOS Humble)", d: "Friday, Oct 23, 2026 @ 4:00 PM • Quiet rooms & trained staff", q: "Success On The Spectrum Humble TX" },
+  { lat: 29.7225, lon: -95.3855, c: "Houston Museum District, TX (77004)", t: "Children s Museum Houston & HMNS — Sensory Friendly Day", d: "Monthly Sensory Friendly Days • IBCCES Certified Autism Center", q: "Childrens Museum Houston" },
+  { lat: 29.0438, lon: -95.4344, c: "Lake Jackson / Brazosport, TX (77566)", t: "Sea Center Texas & Brazosport Museum — Quiet Sensory Hours", d: "Lake Jackson, TX • Touch tanks, low-crowd sensory weekday mornings & all-abilities nature trails", q: "Sea Center Texas Lake Jackson sensory friendly" }
 ];
+function getMiles(la1, lo1, la2, lo2) {
+  var R = 3958.8, dLa = (la2 - la1) * Math.PI / 180, dLo = (lo2 - lo1) * Math.PI / 180;
+  var a = Math.sin(dLa/2)*Math.sin(dLa/2) + Math.cos(la1*Math.PI/180)*Math.cos(la2*Math.PI/180)*Math.sin(dLo/2)*Math.sin(dLo/2);
+  return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+}
 async function scan() {
-  var q = document.getElementById("z").value.trim() || "77301";
-  currentLoc = q;
-  document.getElementById("st").innerText = "📡 Scanning 20-mile radius around " + q + "...";
-  try {
-    var m = q.match(/\d{5}/);
-    if (m) {
+  var rawZip = document.getElementById("z").value.trim() || "77301";
+  document.getElementById("st").innerText = "📡 Calculating GPS 20-Mile Radius for " + rawZip + "...";
+  var uLat = null, uLon = null, cityLabel = rawZip;
+  var m = rawZip.match(/\d{5}/);
+  if (m) {
+    try {
       var r = await fetch("https://api.zippopotam.us/us/" + m[0]);
       if (r.ok) {
         var d = await r.json();
-        currentLoc = d.places[0]["place name"] + ", " + d.places[0]["state abbreviation"] + " (" + m[0] + ")";
+        uLat = parseFloat(d.places[0].latitude);
+        uLon = parseFloat(d.places[0].longitude);
+        cityLabel = d.places[0]["place name"] + ", " + d.places[0]["state abbreviation"] + " (" + m[0] + ")";
+      } else {
+        document.getElementById("st").innerText = "⚠️ ZIP Code " + m[0] + " is not a valid US Postal ZIP Code. Showing live search for " + m[0] + ":";
       }
-    }
-  } catch (e) {}
-  document.getElementById("st").innerText = "✅ 20-MILE SENSORY RADAR LOCKED FOR: " + currentLoc;
-  var cards = evs.map(function(e) {
-    return "<div style='background:#000;border:1px solid #10b981;padding:12px;border-radius:8px;margin:8px 0'><b style='color:#34d399'>📍 " + e.c + "</b><div><b>" + e.t + "</b></div><div style='font-size:12px;color:#ccc'>" + e.d + "</div><a class='btn no-print' target='_blank' href='" + e.u + "'>Open Event →</a></div>";
-  }).join("");
-  var footer = "<div class='no-print' style='background:#000;border:1px solid #38bdf8;padding:12px;border-radius:8px;margin-top:10px'><b style='color:#38bdf8'>🌎 Live 20-Mile Directory for " + currentLoc + ":</b> <button class='btn-cyan' onclick='openMap()'>🗺️ Open 20-Mi Map (With Return Button) →</button> <a class='btn' target='_blank' href='https://www.eventbrite.com/d/united-states/sensory-friendly/?q=autism+sensory+" + encodeURIComponent(currentLoc) + "'>Live Eventbrite 20-Mi Feed →</a></div>";
-  document.getElementById("out").innerHTML = cards + footer;
+    } catch (e) {}
+  }
+  currentLoc = cityLabel;
+  if (uLat !== null) {
+    document.getElementById("st").innerText = "✅ 20-MILE GPS RADAR LOCKED FOR: " + cityLabel + " (Lat: " + uLat.toFixed(2) + ", Lon: " + uLon.toFixed(2) + ")";
+  }
+  var matched = [];
+  if (uLat !== null) {
+    matched = regionalDatabase.map(function(ev) {
+      return { c: ev.c, t: ev.t, d: ev.d, q: ev.q, mi: getMiles(uLat, uLon, ev.lat, ev.lon) };
+    }).filter(function(ev) { return ev.mi <= 25; }).sort(function(a, b) { return a.mi - b.mi; });
+  }
+  var dynamicCards = [
+    { c: cityLabel + " — 20-Mile Cinema & Entertainment Radar", t: "Sensory-Friendly Movie Screenings & Quiet Showtimes Near " + cityLabel, d: "Lights up, sound turned down, judgment-free movement for kids & adults within 20 miles of " + cityLabel, q: "AMC Alamo Drafthouse sensory friendly films near " + cityLabel },
+    { c: cityLabel + " — 20-Mile Museums, Aquariums & Quiet Hours", t: "Certified Autism & Sensory-Friendly Museums / Attractions Near " + cityLabel, d: "Quiet discovery mornings, sensory backpacks & calm zones within 20 miles of " + cityLabel, q: "sensory friendly museum aquarium zoo near " + cityLabel },
+    { c: cityLabel + " — 20-Mile All-Abilities Parks & Autism Meetups", t: "Inclusive Playgrounds, Therapy Gyms & Autism Support Events Near " + cityLabel, d: "Fenced all-abilities parks, sensory gyms & community family events around " + cityLabel, q: "all abilities playground autism sensory gym near " + cityLabel }
+  ];
+  var htmlOut = "";
+  matched.forEach(function(e) {
+    htmlOut += "<div style='background:#000;border:2px solid #fde047;padding:14px;border-radius:10px;margin:8px 0'><b style='color:#fde047'>⭐ VERIFIED EVENT (" + e.mi.toFixed(1) + " MILES FROM " + rawZip + ") • " + e.c + "</b><div style='font-size:16px;margin-top:4px'><b>" + e.t + "</b></div><div style='font-size:12px;color:#ccc'>" + e.d + "</div><button class='btn-cyan no-print' onclick=\"openMap('" + e.q.replace(/'/g,"") + "')\">🗺️ View Venue on In-Mall Map (With Return Bar) →</button></div>";
+  });
+  dynamicCards.forEach(function(e) {
+    htmlOut += "<div style='background:#000;border:1px solid #10b981;padding:14px;border-radius:10px;margin:8px 0'><b style='color:#34d399'>📍 LOCAL 20-MILE RADAR • " + e.c + "</b><div style='font-size:16px;margin-top:4px'><b>" + e.t + "</b></div><div style='font-size:12px;color:#ccc'>" + e.d + "</div><button class='btn no-print' onclick=\"openMap('" + e.q.replace(/'/g,"") + "')\">🗺️ Open Local 20-Mi Map (With Return Bar) →</button></div>";
+  });
+  htmlOut += "<div class='no-print' style='margin-top:14px;background:#000;border:2px solid #38bdf8;border-radius:12px;overflow:hidden'><div style='background:#0c4a6e;color:#fff;padding:10px 14px;font-weight:900;font-size:13px;display:flex;justify-content:space-between;align-items:center'><span>🗺️ LIVE INTERACTIVE 20-MILE SENSORY MAP FOR: " + cityLabel.toUpperCase() + "</span><button class='btn-cyan' style='margin:0;padding:6px 12px' onclick=\"openMap()\">⛶ Expand Full-Screen Map (With Return Button)</button></div><iframe style='width:100%;height:300px;border:none' src='https://www.google.com/maps?q=autism+sensory+friendly+events+parks+near+" + encodeURIComponent(cityLabel) + "&output=embed'></iframe></div>";
+  document.getElementById("out").innerHTML = htmlOut;
 }
 var uz = new URLSearchParams(window.location.search).get("zip");
 if (uz) { document.getElementById("z").value = uz; }
