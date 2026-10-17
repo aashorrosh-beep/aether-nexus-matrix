@@ -16,9 +16,10 @@ const nostCogs = [
   { id: "n4", name: "⚙️ 4. Retro Gaming, Arcade, VHS & Toys", desc: "Action Figures, 8-Bit, Pogs, Tamagotchi & Vinyl", rooms: ["action-figures-90s","retro-toy-chest","8-bit-consoles","vintage-arcade","retro-arcade-systems","classic-consoles","saturday-morning-cartoons","retro-board-games","vintage-comic-stash","vhs-cult-archive","vintage-vinyl-records","polaroid-instant-film","classic-walkman-audio","pogs-and-slammers","digital-pets","pop-culture-relics"] }
 ];
 const wellCogs = [
-  { id: "w1", name: "⚙️ 1. GNC-Style Pro Protein, Ostrich Sticks & Meal Boxes", desc: "Protein Shakes, Ostrich Sticks, Clean Pantry & Diet Plans", rooms: ["gnc-sports-nutrition","diet-meal-delivery","organic-health-pantry","gut-botanical-library"] },
-  { id: "w2", name: "⚙️ 2. Scrub Lounge, Sportswear, Gym & Back Pain Relief", desc: "Cute/Funny Scrubs, Workout Tights, Shoes, Spine Relief & Home Gym", rooms: ["the-scrub-lounge","athletic-attire-footwear","back-pain-spine-relief","home-fitness-recovery"] },
-  { id: "w3", name: "⚙️ 3. Senior Mobility & Sweatin to the Oldies ($1 Club)", desc: "Walkers, Rollators, Toilet Seats & $1 Retro Aerobics Rentals", rooms: ["senior-mobility-independence","retro-sweat-rentals","holistic-longevity-lab","adaptogen-apothecary","cellular-hydration-mineral"] }
+  { id: "w1", side: "left", name: "⚙️ 1. All-in-One Holistic, Botanicals & Peptides", desc: "Turkey Tail, Sulforaphane, Soursop, NAD+, Peptides, Shilajit & Books", rooms: ["cellular-immune-botanicals","holistic-longevity-lab","peptide-research-vault","adaptogen-apothecary","cellular-hydration-mineral","gut-botanical-library"] },
+  { id: "w2", side: "left", name: "⚙️ 2. GNC-Style Pro Protein, Ostrich & Meal Boxes", desc: "Protein Shakes, Ostrich Sticks, Clean Pantry & Prepared Diet Plans", rooms: ["gnc-sports-nutrition","diet-meal-delivery","organic-health-pantry"] },
+  { id: "w3", side: "right", name: "⚙️ 3. Scrub Lounge, Back Relief & Senior Mobility", desc: "Cute/Funny Scrubs, Walkers, Rollators, Toilet Seats & Spine Relief", rooms: ["the-scrub-lounge","senior-mobility-independence","back-pain-spine-relief"] },
+  { id: "w4", side: "right", name: "⚙️ 4. Sportswear, Home Gym & $1 Retro Sweat Club", desc: "Workout Tights, Training Shoes, Dumbbells & Sweatin to the Oldies", rooms: ["athletic-attire-footwear","home-fitness-recovery","retro-sweat-rentals"] }
 ];
 export default function MallOfMallsLobby() {
   const [activeCog, setActiveCog] = useState<any>(null);
@@ -95,14 +96,58 @@ export default function MallOfMallsLobby() {
             <button onClick={() => setShowCoach(true)} className="bg-emerald-500 hover:bg-emerald-400 text-black font-black text-xs uppercase px-6 py-4 rounded-xl shadow-lg">
               🩺 Launch FREE AI Workout, Meal Plan & Biomarker Coach →
             </button>
+            <a href="/spectrum-knowledge-vault.html" className="bg-cyan-500 hover:bg-cyan-400 text-black font-black text-xs uppercase px-6 py-4 rounded-xl shadow-lg text-center">
+              📚 Open Autism Hospital Research & Downloadable Info Vault →
+            </a>
           </div>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-            {wellCogs.map(c => (
-              <button key={c.id} onClick={() => setActiveCog(c)} className="text-left bg-zinc-900/90 hover:bg-emerald-950 border border-emerald-700/50 p-5 rounded-2xl transition-all">
-                <div className="font-black text-base uppercase text-white">{c.name}</div>
-                <div className="text-xs text-emerald-300/80 font-mono mt-1">{c.desc} →</div>
-              </button>
-            ))}
+          <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 items-stretch">
+            {/* LEFT FLANK: HOLISTIC, BOTANICALS, PEPTIDES & PRO NUTRITION */}
+            <div className="lg:col-span-3 flex flex-col justify-between gap-4">
+              {wellCogs.filter((c: any) => c.side === "left").map((c: any) => (
+                <button key={c.id} onClick={() => setActiveCog(c)} className="text-left bg-zinc-900/90 hover:bg-emerald-950 border border-emerald-700/50 p-5 rounded-2xl transition-all flex-1">
+                  <div className="font-black text-sm uppercase text-white">{c.name}</div>
+                  <div className="text-xs text-emerald-300/80 font-mono mt-1">{c.desc} →</div>
+                </button>
+              ))}
+            </div>
+            {/* CENTER HEART: SPECTRUM AUTISM SUPERSTORE & NEW LIFE EXPECTING BABY SANCTUARY */}
+            <div className="lg:col-span-6 bg-gradient-to-b from-emerald-950 via-black to-cyan-950 border-2 border-yellow-400 rounded-3xl p-6 space-y-5 shadow-[0_0_50px_rgba(16,185,129,0.3)]">
+              <div className="text-center space-y-1 border-b border-emerald-800/60 pb-3">
+                <span className="bg-yellow-400 text-black text-[10px] font-black uppercase px-3 py-1 rounded-full tracking-widest">❤️ THE HEART OF ALBS • 5% DIRECT FAMILY GRANT + 3% LEGACY CHARTER</span>
+                <h3 className="text-2xl md:text-3xl font-black uppercase text-white pt-1">Autism & New Life Family Sanctuary</h3>
+                <p className="text-xs text-emerald-300 font-mono">1% Texas Children s Hospital • 1% Autism Family Fund • 1% Military Veterans</p>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <Link href="/nostalgia/spectrum-sensory-superstore" className="bg-zinc-900/95 hover:bg-emerald-900 border-2 border-emerald-400 p-5 rounded-2xl flex flex-col justify-between space-y-3 shadow-lg group">
+                  <div>
+                    <span className="text-[10px] font-mono uppercase bg-emerald-500 text-black font-black px-2 py-0.5 rounded">CENTERPIECE #1 • 140+ ITEMS</span>
+                    <h4 className="text-xl font-black uppercase text-white mt-2">🧩 Spectrum Autism Superstore</h4>
+                    <p className="text-xs text-zinc-300 mt-1">Top-50 Hard-to-Find Sensory Tools, 300lb Swings, Crash Pads, AAC Talkers, XXT Chewelry & Safety Beds.</p>
+                  </div>
+                  <div className="text-xs font-mono font-black text-emerald-400 group-hover:translate-x-1 transition-transform">ENTER AUTISM SUPERSTORE →</div>
+                </Link>
+                <Link href="/nostalgia/new-life-expecting-superstore" className="bg-zinc-900/95 hover:bg-cyan-900 border-2 border-cyan-400 p-5 rounded-2xl flex flex-col justify-between space-y-3 shadow-lg group">
+                  <div>
+                    <span className="text-[10px] font-mono uppercase bg-cyan-400 text-black font-black px-2 py-0.5 rounded">CENTERPIECE #2 • EXPECTING & BABY</span>
+                    <h4 className="text-xl font-black uppercase text-white mt-2">👶 What to Expect: New Life Hub</h4>
+                    <p className="text-xs text-zinc-300 mt-1">Newborn Coming-Home Outfits, Smart Nursery, Safe Sleep, Expecting Books & Free Infant CPR Training.</p>
+                  </div>
+                  <div className="text-xs font-mono font-black text-cyan-300 group-hover:translate-x-1 transition-transform">ENTER NEW LIFE SANCTUARY →</div>
+                </Link>
+              </div>
+              <a href="/spectrum-knowledge-vault.html" className="block w-full bg-gradient-to-r from-emerald-400 via-teal-300 to-cyan-400 hover:opacity-95 text-black font-black text-xs md:text-sm uppercase py-4 px-4 rounded-xl text-center shadow-xl">
+                📡 Open 20-Mile National Autism Event Radar, Hospital Research Vault & Free Infant CPR Guide →
+              </a>
+            </div>
+            {/* RIGHT FLANK: SCRUB LOUNGE, SENIOR MOBILITY, BACK RELIEF & RETRO SWEAT */}
+            <div className="lg:col-span-3 flex flex-col justify-between gap-4">
+              {wellCogs.filter((c: any) => c.side === "right").map((c: any) => (
+                <button key={c.id} onClick={() => setActiveCog(c)} className="text-left bg-zinc-900/90 hover:bg-emerald-950 border border-emerald-700/50 p-5 rounded-2xl transition-all flex-1">
+                  <div className="font-black text-sm uppercase text-white">{c.name}</div>
+                  <div className="text-xs text-emerald-300/80 font-mono mt-1">{c.desc} →</div>
+                </button>
+              ))}
+            </div>
           </div>
           <p className="text-[10px] font-mono text-zinc-500 text-center">*FDA DSHEA NOTICE: Statements in the Holistic Mall have not been evaluated by the FDA. Products and AI tools are for educational wellness purposes only and are not intended to diagnose, treat, cure, or prevent any disease.</p>
         </div>
