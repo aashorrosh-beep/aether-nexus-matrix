@@ -137,7 +137,7 @@ export default function MallOfMallsLobby() {
                 </Link>
               </div>
               <a href="/spectrum-knowledge-vault.html" className="block w-full bg-gradient-to-r from-emerald-400 via-teal-300 to-cyan-400 hover:opacity-95 text-black font-black text-xs md:text-sm uppercase py-4 px-4 rounded-xl text-center shadow-xl">
-                📡 Open 20-Mile National Autism Event Radar, Hospital Research Vault & Free Infant CPR Guide →
+                📡 Open 20-Mile Autism Event Radar & Hospital Research Vault →</a><a href="/new-life-expecting-vault.html" className="block w-full bg-cyan-400 hover:bg-cyan-300 text-black font-black text-xs md:text-sm uppercase py-3.5 px-4 rounded-xl text-center shadow-xl mt-2">👶 Open What to Expect: Pregnancy, Newborn & Free Infant CPR Guide →
               </a>
             </div>
             {/* RIGHT FLANK: SCRUB LOUNGE, SENIOR MOBILITY, BACK RELIEF & RETRO SWEAT */}

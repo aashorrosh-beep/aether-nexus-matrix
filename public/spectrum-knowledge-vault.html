@@ -27,10 +27,10 @@ input{padding:11px;font-weight:bold;background:#000;color:#fff;border:2px solid 
 <div class="no-print">
   <button onclick="printAll()">🖨️ Print All Visible Guides</button>
   <a class="btn" href="/nostalgia/spectrum-sensory-superstore">🧩 140-Item Autism Store →</a>
-  <a class="btn btn-cyan" href="/nostalgia/new-life-expecting-superstore">👶 New Life Baby Store →</a>
+  
   <a class="btn" style="background:#27272a;color:#fff" href="/">← Back to Mall</a>
 </div>
-<h1>🧩 ALBS Family Sanctuary: 20-Mile Autism Radar & What to Expect Vault</h1>
+<h1>🧩 ALBS Spectrum Knowledge Vault & 20-Mile Sensory Event Radar</h1>
 <div class="radar">
   <h2>📡 Live 20-Mile US ZIP Code Sensory Event Radar (Dynamic GPS Filter)</h2>
   <div class="no-print">
@@ -40,12 +40,6 @@ input{padding:11px;font-weight:bold;background:#000;color:#fff;border:2px solid 
   </div>
   <div id="st" style="color:#fde047;margin:12px 0;font-family:monospace;font-weight:bold;font-size:14px"></div>
   <div id="out"></div>
-</div>
-<div class="no-print" style="margin:24px 0 12px 0;border-bottom:2px solid #27272a;padding-bottom:12px">
-  <div style="font-size:12px;color:#a1a1aa;font-family:monospace;margin-bottom:8px">SELECT PROGRAM TAB BELOW (CLICK TO SWITCH OR PRINT):</div>
-  <button id="t-all" class="btn-tab active" onclick="showTab('all')">📚 Show All Guides (Autism + Baby)</button>
-  <button id="t-aut" class="btn-tab" onclick="showTab('aut')">🧩 Autism Hospital Research (3 Guides)</button>
-  <button id="t-baby" class="btn-tab" onclick="showTab('baby')">👶 What to Expect: Pregnancy, Baby & Free CPR (3 Guides)</button>
 </div>
 <div id="sec-aut">
   <div class="art" id="a1">
@@ -65,26 +59,6 @@ input{padding:11px;font-weight:bold;background:#000;color:#fff;border:2px solid 
     <h3>3. The Gut-Brain Axis (MassGeneral GEMMA & CM-AT Enzyme Trials), AAC Speech & Elopement Safety</h3>
     <p><b>GI & Enzyme Research:</b> MassGeneral Hospital GEMMA studies and Phase III CM-AT pancreatic enzyme trials show undiagnosed GI pain, constipation, and protein malabsorption frequently trigger nonverbal meltdowns and 3:00 AM night-wakings. Ask your pediatrician to test <b>fecal calprotectin, fecal elastase/chymotrypsin, and serum ferritin (>50 ng/mL target for sleep)</b>.</p>
     <p><b>Immediate AAC & Elopement Protocol:</b> Immediate access to push-button AAC talkers and PECS visual schedules accelerates vocal speech. Layer 4 elopement protections: wireless door chimes, full-zip safety canopy beds, hidden GPS shoe insoles, and QR medical alert seatbelt covers.</p>
-  </div>
-</div>
-<div id="sec-baby">
-  <div class="baby-art" id="b1">
-    <button class="btn-cyan no-print" style="float:right" onclick="p1('b1')">🖨️ Print This Guide Only</button>
-    <h3 style="color:#38bdf8">4. What to Expect When Expecting: Trimester-by-Trimester & Hospital Go-Bag Checklist</h3>
-    <p><b>1st, 2nd & 3rd Trimester Roadmap:</b> <b>Trimester 1 (Weeks 1-12):</b> Neural tube & organ formation—prioritize methylated prenatal folate, choline, iron, and gentle hydration for morning nausea. <b>Trimester 2 (Weeks 13-27):</b> Anatomy scan (18-22 wks), gestational glucose screening, and nursery safe-sleep setup. <b>Trimester 3 (Weeks 28-40):</b> Kick counts (10 movements in 2 hrs), Group B Strep screening (36 wks), installing the rear-facing infant car seat, and packing the Hospital Go-Bag.</p>
-    <p><b>The Complete Hospital Coming-Home Checklist:</b> 1) Two organic zipper newborn coming-home sleepers (no overhead snaps over healing umbilical cord) + velcro swaddles. 2) Rear-facing infant car seat (base pre-installed & inspected). 3) Postpartum recovery kit for mom (peri bottle, witch hazel pads, high-waisted nursing comfort wear, electrolyte packets, and extra-long phone charger).</p>
-  </div>
-  <div class="baby-art" id="b2">
-    <button class="btn-cyan no-print" style="float:right" onclick="p1('b2')">🖨️ Print This Guide Only</button>
-    <h3 style="color:#38bdf8">5. First 30 Days Home: Safe Sleep (ABC Rule), Feeding Cues & Postpartum Support</h3>
-    <p><b>AAP Safe Sleep Protocol (The ABCs):</b> Babies should sleep <b>A</b>lone, on their <b>B</b>ack, in a bare <b>C</b>rib or bassinet (firm flat mattress, fitted sheet only—no loose blankets, bumpers, or pillows; use wearable sleep sacks/swaddles instead).</p>
-    <p><b>Newborn Feeding & Diaper Tracker:</b> Expect 8-12 feedings per 24 hours. By Day 5+, look for 6+ wet diapers per day as proof of strong hydration. <b>Compassionate Parent Support:</b> Feeling overwhelmed is normal—free 24/7 National Maternal Mental Health Hotline: <b>1-833-TLC-MAMA (1-833-852-6262)</b>.</p>
-  </div>
-  <div class="baby-art" id="b3">
-    <button class="btn-cyan no-print" style="float:right" onclick="p1('b3')">🖨️ Print This Guide Only</button>
-    <h3 style="color:#38bdf8">6. Free Infant & Child CPR, Choking Response & Free Local Parenting Classes</h3>
-    <p><b>Emergency Conscious Choking Infant (<1 Year Old):</b> Hold infant face-down along your forearm with head lower than chest (supporting jaw). Deliver <b>5 firm back slaps</b> between shoulder blades with the heel of your hand. Turn infant face-up and deliver <b>5 two-finger chest thrusts</b> in the center of the breastbone just below the nipple line. Repeat 5 and 5 until object is expelled.</p>
-    <p><b>Unresponsive Infant CPR (Call 911 Immediately):</b> 30 fast chest compressions (1.5 inches deep at 100-120/min using 2 fingers) followed by 2 gentle puffs of air covering mouth and nose. <b>Where to Take Free Classes:</b> Harris County ESD 11 Free 1-Hour Infant CPR & Safe Sleep Class, Texas Children s Hospital Pavilion for Women Parenting Classes, and American Red Cross Online Infant CPR.</p>
   </div>
 </div>
 <script>

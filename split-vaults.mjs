@@ -1,0 +1,80 @@
+import fs from 'fs';
+
+// 1. Remove ALL Baby/Expecting content and tabs from the Autism Vault
+let aut = fs.readFileSync('public/spectrum-knowledge-vault.html', 'utf8');
+const tabStart = aut.indexOf('<div class="no-print" style="margin:24px 0 12px 0');
+const autSecStart = aut.indexOf('<div id="sec-aut">');
+if (tabStart !== -1 && autSecStart !== -1) {
+  aut = aut.substring(0, tabStart) + aut.substring(autSecStart);
+}
+const babySecStart = aut.indexOf('<div id="sec-baby">');
+const scriptStart = aut.indexOf('<script>');
+if (babySecStart !== -1 && scriptStart !== -1) {
+  aut = aut.substring(0, babySecStart) + aut.substring(scriptStart);
+}
+aut = aut.replace(/<a class="btn btn-cyan" href="\/nostalgia\/new-life-expecting-superstore">.*?<\/a>/g, '');
+aut = aut.replace('ALBS Family Sanctuary: 20-Mile Autism Radar & What to Expect Vault', 'ALBS Spectrum Knowledge Vault & 20-Mile Sensory Event Radar');
+fs.writeFileSync('public/spectrum-knowledge-vault.html', aut, 'utf8');
+
+// 2. Create the 100% Separate "What to Expect: New Life & Baby Vault"
+const babyHtml = [
+  '<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">',
+  '<title>What to Expect: New Life, Newborn & Free Infant CPR Vault</title>',
+  '<style>',
+  'body{background:#09090b;color:#fff;font-family:sans-serif;line-height:1.6;padding:20px;max-width:980px;margin:0 auto}',
+  'h1{color:#38bdf8;font-size:28px;text-transform:uppercase;margin-bottom:4px}',
+  '.baby-art{background:#18181b;border:2px solid #38bdf8;padding:20px;border-radius:12px;margin:18px 0}',
+  'button,a.btn{background:#38bdf8;color:#000;font-weight:900;padding:10px 16px;border-radius:8px;text-decoration:none;border:none;cursor:pointer;display:inline-block;margin:4px;font-size:12px;text-transform:uppercase}',
+  '@media print{',
+  '  body,.baby-art,.baby-art *{background:#fff!important;color:#000!important;border-color:#000!important}',
+  '  .no-print{display:none!important}',
+  '  body.one .baby-art{display:none!important}',
+  '  body.one .baby-art.show{display:block!important}',
+  '}',
+  '</style></head><body>',
+  '<div class="no-print">',
+  '  <button onclick="printAll()">🖨️ Print Complete Expecting & Newborn Packet</button>',
+  '  <a class="btn" href="/nostalgia/new-life-expecting-superstore">👶 Shop New Life & Baby Superstore →</a>',
+  '  <a class="btn" style="background:#27272a;color:#fff" href="/">← Back to Mall</a>',
+  '</div>',
+  '<h1>👶 What to Expect: New Life, Safe Nursery & Free Infant CPR Vault</h1>',
+  '<p style="color:#a1a1aa;font-family:monospace;font-size:12px">TRIMESTER ROADMAP • HOSPITAL GO-BAG CHECKLIST • FIRST 30 DAYS SAFE SLEEP • FREE INFANT CPR</p>',
+  '<div class="baby-art" id="b1">',
+  '  <button class="no-print" style="float:right" onclick="p1(\'b1\')">🖨️ Print This Guide Only</button>',
+  '  <h3 style="color:#38bdf8">1. What to Expect When Expecting: Trimester-by-Trimester & Hospital Go-Bag Checklist</h3>',
+  '  <p><b>1st, 2nd & 3rd Trimester Roadmap:</b> <b>Trimester 1 (Weeks 1-12):</b> Focus on gentle hydration, prenatal vitamins with methylated folate, choline, and rest. <b>Trimester 2 (Weeks 13-27):</b> Anatomy ultrasound (18-22 wks), nursery setup, and selecting a pediatrician. <b>Trimester 3 (Weeks 28-40):</b> Daily kick counts, Group B Strep screening (36 wks), installing the rear-facing infant car seat, and packing your Hospital Go-Bag.</p>',
+  '  <p><b>The Complete Hospital Coming-Home Checklist:</b> 1) Two organic zipper newborn coming-home sleepers (easy diaper access without irritating the umbilical cord) + velcro swaddles. 2) Rear-facing infant car seat (base pre-installed). 3) Postpartum comfort kit for mom (peri bottle, witch hazel pads, nursing comfort wear, electrolyte packets, and a 10-foot phone charger).</p>',
+  '</div>',
+  '<div class="baby-art" id="b2">',
+  '  <button class="no-print" style="float:right" onclick="p1(\'b2\')">🖨️ Print This Guide Only</button>',
+  '  <h3 style="color:#38bdf8">2. First 30 Days Home: Safe Sleep (ABC Rule), Feeding Cues & Postpartum Support</h3>',
+  '  <p><b>AAP Safe Sleep Protocol (The ABCs):</b> Babies sleep safest <b>A</b>lone, on their <b>B</b>ack, in a bare <b>C</b>rib or bassinet (firm flat mattress with a fitted sheet only—use wearable sleep sacks or swaddles instead of loose blankets).</p>',
+  '  <p><b>Newborn Feeding & Diaper Tracker:</b> Newborns typically feed 8-12 times per 24 hours. By Day 5+, 6 or more wet diapers per day shows strong hydration. <b>24/7 Free Support for New Parents:</b> National Maternal Mental Health Hotline: <b>1-833-TLC-MAMA (1-833-852-6262)</b>.</p>',
+  '</div>',
+  '<div class="baby-art" id="b3">',
+  '  <button class="no-print" style="float:right" onclick="p1(\'b3\')">🖨️ Print This Guide Only</button>',
+  '  <h3 style="color:#38bdf8">3. Free Infant CPR, Choking Response & Free Parenting Classes</h3>',
+  '  <p><b>Emergency Conscious Choking Infant (<1 Year Old):</b> Hold baby face-down along your forearm with head lower than chest (supporting jaw). Give <b>5 firm back slaps</b> between the shoulder blades. Turn baby face-up and give <b>5 two-finger chest thrusts</b> in the center of the breastbone just below the nipple line. Repeat until clear.</p>',
+  '  <p><b>Unresponsive Infant CPR (Call 911 Immediately):</b> 30 gentle chest compressions (1.5 inches deep at 100-120/min using 2 fingers) followed by 2 gentle puffs of air. <b>Free Local & Online Classes:</b> Harris County ESD 11 Free 1-Hour Infant CPR & Safe Sleep Class, Community Hospital Parenting Classes, and American Red Cross Online Infant CPR.</p>',
+  '</div>',
+  '<script>',
+  'function printAll(){ document.body.classList.remove("one"); window.print(); }',
+  'function p1(id){',
+  '  document.querySelectorAll(".baby-art").forEach(function(e){ e.classList.remove("show"); });',
+  '  document.getElementById(id).classList.add("show");',
+  '  document.body.classList.add("one");',
+  '  window.print();',
+  '  setTimeout(function(){ document.body.classList.remove("one"); }, 500);',
+  '}',
+  '</script></body></html>'
+].join('\n');
+fs.writeFileSync('public/new-life-expecting-vault.html', babyHtml, 'utf8');
+
+// 3. Give each Sanctuary its own separate Vault button on the Homepage (app/page.tsx)
+let page = fs.readFileSync('app/page.tsx', 'utf8');
+page = page.replace(
+  '📡 Open 20-Mile National Autism Event Radar, Hospital Research Vault & Free Infant CPR Guide →',
+  '📡 Open 20-Mile Autism Event Radar & Hospital Research Vault →</a><a href="/new-life-expecting-vault.html" className="block w-full bg-cyan-400 hover:bg-cyan-300 text-black font-black text-xs md:text-sm uppercase py-3.5 px-4 rounded-xl text-center shadow-xl mt-2">👶 Open What to Expect: Pregnancy, Newborn & Free Infant CPR Guide →'
+);
+fs.writeFileSync('app/page.tsx', page, 'utf8');
+console.log('✅ TWO INDEPENDENT VAULTS CREATED (ZERO CROSSOVER)!');
