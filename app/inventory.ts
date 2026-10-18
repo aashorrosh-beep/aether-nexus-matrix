@@ -41034,5 +41034,55 @@ export const masterInventory: Record<string, any[]> = {
       },
       "status": "LIVE_MARKET_VERIFIED"
     }
+  ],
+  "monthly-viral-doorbusters": [
+    {
+      "id": "VIRAL-MAGNET-1",
+      "name": "Squishmallows Collection",
+      "price": "$954.75",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQuN9oaaS1PvC6pJfO_7abhlYyMp8Is391TXzKRame5P2mgNaIk5fv0cqaliEVAdgp-CX06ZxTOK77uR1pntmbh5_GWV3UPeYNEBafB0gc"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Monthly Viral Doorbuster (High-Quantity Allocation)",
+        "condition": "🔥 MONTHLY TRAFFIC MAGNET • 5%–10% Razor-Margin Blowout",
+        "shipping": "Fast Tracked Shipping ($6.99)",
+        "market_value": "Regular Retail: $1611.69 — VIRAL DOORBUSTER:$954.75 (Limit 2 Per Order)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "VIRAL-MAGNET-2",
+      "name": "POP MART Mystery Boxes Confirmed-Hidden Style-Restart Open",
+      "price": "$529.36",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTCPHUdtPKhhQsik1PXqcZHQObIG77O2CYN0awNiSDUktd5IO3fRUHX8yqkyrKt5jPTbv3Idbm5kOP-_UjR5G6SJheTFtrGX7AWvs9otomHpHtXIOIGOQ4Q"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Monthly Viral Doorbuster (High-Quantity Allocation)",
+        "condition": "🔥 MONTHLY TRAFFIC MAGNET • 5%–10% Razor-Margin Blowout",
+        "shipping": "Fast Tracked Shipping ($6.99)",
+        "market_value": "Regular Retail: $893.34 — VIRAL DOORBUSTER:$529.36 (Limit 2 Per Order)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "VIRAL-MAGNET-3",
+      "name": "25 Copies Wacky Waving Inflatable Tube Guy The Original RP M",
+      "price": "$300.98",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQK6LiP-cPO8fXRc5w30m-2URGEL-mhkAmAGaubVBzwtnb9kPal6MDzYv5upqRgWAIxEqJ1Fa7dbkzzjkA0b2gzjNUjziMwuEbyBqrQHic_egBul9LxGZX6ig"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Monthly Viral Doorbuster (High-Quantity Allocation)",
+        "condition": "🔥 MONTHLY TRAFFIC MAGNET • 5%–10% Razor-Margin Blowout",
+        "shipping": "Fast Tracked Shipping ($6.99)",
+        "market_value": "Regular Retail: $507.68 — VIRAL DOORBUSTER:$300.98 (Limit 2 Per Order)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
   ]
 };
