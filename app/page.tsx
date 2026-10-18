@@ -51,7 +51,7 @@ export default function MallOfMallsLobby() {
             {matrixCogs.map(c => (
               <button key={c.id} onClick={() => setActiveCog(c)} className="w-full text-left bg-zinc-900 hover:bg-cyan-950 border border-cyan-800/60 p-4 rounded-xl transition-all">
                 <div className="font-black text-sm uppercase text-white">{c.name}</div>
-                <div className="text-[11px] text-cyan-300/80 font-mono mt-1">{c.desc} →</div>
+                <div className="text-[11px] text-cyan-300/80 font-mono mt-1">{c.desc} • <span className="text-yellow-400 font-bold">{c.rooms.filter((r: string) => isLive(r)).length} LIVE STORES</span> →</div>
               </button>
             ))}
           </div>
@@ -80,7 +80,7 @@ export default function MallOfMallsLobby() {
             {nostCogs.map(c => (
               <button key={c.id} onClick={() => setActiveCog(c)} className="w-full text-left bg-zinc-900 hover:bg-pink-950 border border-pink-800/60 p-4 rounded-xl transition-all">
                 <div className="font-black text-sm uppercase text-white">{c.name}</div>
-                <div className="text-[11px] text-pink-300/80 font-mono mt-1">{c.desc} →</div>
+                <div className="text-[11px] text-pink-300/80 font-mono mt-1">{c.desc} • <span className="text-yellow-400 font-bold">{c.rooms.filter((r: string) => isLive(r)).length} LIVE STORES</span> →</div>
               </button>
             ))}
           </div>
