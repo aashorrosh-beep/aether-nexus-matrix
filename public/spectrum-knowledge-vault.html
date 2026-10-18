@@ -1,5 +1,5 @@
 <!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>ALBS Spectrum & New Life Knowledge Vault + Dynamic 20-Mile Radar</title>
+<title>ALBS Spectrum & New Life Knowledge Vault + Dynamic 12-Mile Radar</title>
 <style>
 body{background:#09090b;color:#fff;font-family:sans-serif;line-height:1.6;padding:20px;max-width:1020px;margin:0 auto}
 .art,.radar{background:#18181b;border:2px solid #10b981;padding:18px;border-radius:12px;margin:16px 0}
@@ -19,7 +19,7 @@ input{padding:11px;font-weight:bold;background:#000;color:#fff;border:2px solid 
 </style></head><body>
 <div id="viewer" class="no-print" style="display:none;position:fixed;inset:0;z-index:9999;background:#09090b;flex-direction:column">
   <div style="background:#10b981;color:#000;padding:14px 20px;display:flex;justify-content:space-between;align-items:center;font-weight:900">
-    <span id="vtitle">📡 ALBS IN-MALL 20-MILE VIEWER</span>
+    <span id="vtitle">📡 ALBS IN-MALL 12-MILE VIEWER</span>
     <button onclick="closeMap()" style="background:#000;color:#fde047;padding:10px 20px;border-radius:8px">⬅️ RETURN TO ALBS WEBSITE</button>
   </div>
   <iframe id="vframe" style="flex:1;width:100%;border:none;background:#fff"></iframe>
@@ -30,12 +30,12 @@ input{padding:11px;font-weight:bold;background:#000;color:#fff;border:2px solid 
   
   <a class="btn" style="background:#27272a;color:#fff" href="/">← Back to Mall</a>
 </div>
-<h1>🧩 ALBS Spectrum Knowledge Vault & 20-Mile Sensory Event Radar</h1>
+<h1>🧩 ALBS Spectrum Knowledge Vault & 12-Mile Sensory Event Radar</h1>
 <div class="radar">
-  <h2>📡 Live 20-Mile US ZIP Code Sensory Event Radar (Dynamic GPS Filter)</h2>
+  <h2>📡 Live 12-Mile US ZIP Code Sensory Event Radar (Dynamic GPS Filter)</h2>
   <div class="no-print">
     <input id="z" type="text" value="77301" onkeydown="if(event.key==='Enter')scan()" placeholder="Enter Any US ZIP Code (e.g. 77566, 77095, 77301)">
-    <button onclick="scan()">🔍 Scan 20-Mile Radius →</button>
+    <button onclick="scan()">🔍 Scan 12-Mile Radius →</button>
     <button onclick="printRadar()">🖨️ Print Event Radar Only</button>
   </div>
   <div id="st" style="color:#fde047;margin:12px 0;font-family:monospace;font-weight:bold;font-size:14px"></div>
@@ -103,7 +103,7 @@ function p1(id) {
 function openMap(customQuery) {
   var q = customQuery || ("sensory friendly autism events parks museums near " + currentLoc);
   var u = "https://www.google.com/maps?q=" + encodeURIComponent(q) + "&output=embed";
-  document.getElementById("vtitle").innerText = "📡 20-MILE SENSORY RADAR: " + currentLoc;
+  document.getElementById("vtitle").innerText = "📡 12-MILE SENSORY RADAR: " + currentLoc;
   document.getElementById("vframe").src = u;
   document.getElementById("viewer").style.display = "flex";
 }
@@ -125,7 +125,7 @@ function getMiles(la1, lo1, la2, lo2) {
 }
 async function scan() {
   var rawZip = document.getElementById("z").value.trim() || "77301";
-  document.getElementById("st").innerText = "📡 Calculating GPS 20-Mile Radius for " + rawZip + "...";
+  document.getElementById("st").innerText = "📡 Calculating GPS 12-Mile Radius for " + rawZip + "...";
   var uLat = null, uLon = null, cityLabel = rawZip;
   var m = rawZip.match(/\d{5}/);
   if (m) {
@@ -143,27 +143,27 @@ async function scan() {
   }
   currentLoc = cityLabel;
   if (uLat !== null) {
-    document.getElementById("st").innerText = "✅ 20-MILE GPS RADAR LOCKED FOR: " + cityLabel + " (Lat: " + uLat.toFixed(2) + ", Lon: " + uLon.toFixed(2) + ")";
+    document.getElementById("st").innerText = "✅ 12-MILE GPS RADAR LOCKED FOR: " + cityLabel + " (Lat: " + uLat.toFixed(2) + ", Lon: " + uLon.toFixed(2) + ")";
   }
   var matched = [];
   if (uLat !== null) {
     matched = regionalDatabase.map(function(ev) {
       return { c: ev.c, t: ev.t, d: ev.d, q: ev.q, mi: getMiles(uLat, uLon, ev.lat, ev.lon) };
-    }).filter(function(ev) { return ev.mi <= 25; }).sort(function(a, b) { return a.mi - b.mi; });
+    }).filter(function(ev) { return ev.mi <= 15; }).sort(function(a, b) { return a.mi - b.mi; });
   }
   var dynamicCards = [
-    { c: cityLabel + " — 20-Mile Cinema & Entertainment Radar", t: "Sensory-Friendly Movie Screenings & Quiet Showtimes Near " + cityLabel, d: "Lights up, sound turned down, judgment-free movement for kids & adults within 20 miles of " + cityLabel, q: "AMC Alamo Drafthouse sensory friendly films near " + cityLabel },
-    { c: cityLabel + " — 20-Mile Museums, Aquariums & Quiet Hours", t: "Certified Autism & Sensory-Friendly Museums / Attractions Near " + cityLabel, d: "Quiet discovery mornings, sensory backpacks & calm zones within 20 miles of " + cityLabel, q: "sensory friendly museum aquarium zoo near " + cityLabel },
-    { c: cityLabel + " — 20-Mile All-Abilities Parks & Autism Meetups", t: "Inclusive Playgrounds, Therapy Gyms & Autism Support Events Near " + cityLabel, d: "Fenced all-abilities parks, sensory gyms & community family events around " + cityLabel, q: "all abilities playground autism sensory gym near " + cityLabel }
+    { c: cityLabel + " — 12-Mile Cinema & Entertainment Radar", t: "Sensory-Friendly Movie Screenings & Quiet Showtimes Near " + cityLabel, d: "Lights up, sound turned down, judgment-free movement for kids & adults within 20 miles of " + cityLabel, q: "AMC Alamo Drafthouse sensory friendly films near " + cityLabel },
+    { c: cityLabel + " — 12-Mile Museums, Aquariums & Quiet Hours", t: "Certified Autism & Sensory-Friendly Museums / Attractions Near " + cityLabel, d: "Quiet discovery mornings, sensory backpacks & calm zones within 20 miles of " + cityLabel, q: "sensory friendly museum aquarium zoo near " + cityLabel },
+    { c: cityLabel + " — 12-Mile All-Abilities Parks & Autism Meetups", t: "Inclusive Playgrounds, Therapy Gyms & Autism Support Events Near " + cityLabel, d: "Fenced all-abilities parks, sensory gyms & community family events around " + cityLabel, q: "all abilities playground autism sensory gym near " + cityLabel }
   ];
   var htmlOut = "";
   matched.forEach(function(e) {
     htmlOut += "<div style='background:#000;border:2px solid #fde047;padding:14px;border-radius:10px;margin:8px 0'><b style='color:#fde047'>⭐ VERIFIED EVENT (" + e.mi.toFixed(1) + " MILES FROM " + rawZip + ") • " + e.c + "</b><div style='font-size:16px;margin-top:4px'><b>" + e.t + "</b></div><div style='font-size:12px;color:#ccc'>" + e.d + "</div><button class='btn-cyan no-print' onclick=\"openMap('" + e.q.replace(/'/g,"") + "')\">🗺️ View Venue on In-Mall Map (With Return Bar) →</button></div>";
   });
   dynamicCards.forEach(function(e) {
-    htmlOut += "<div style='background:#000;border:1px solid #10b981;padding:14px;border-radius:10px;margin:8px 0'><b style='color:#34d399'>📍 LOCAL 20-MILE RADAR • " + e.c + "</b><div style='font-size:16px;margin-top:4px'><b>" + e.t + "</b></div><div style='font-size:12px;color:#ccc'>" + e.d + "</div><button class='btn no-print' onclick=\"openMap('" + e.q.replace(/'/g,"") + "')\">🗺️ Open Local 20-Mi Map (With Return Bar) →</button></div>";
+    htmlOut += "<div style='background:#000;border:1px solid #10b981;padding:14px;border-radius:10px;margin:8px 0'><b style='color:#34d399'>📍 LOCAL 12-MILE RADAR • " + e.c + "</b><div style='font-size:16px;margin-top:4px'><b>" + e.t + "</b></div><div style='font-size:12px;color:#ccc'>" + e.d + "</div><button class='btn no-print' onclick=\"openMap('" + e.q.replace(/'/g,"") + "')\">🗺️ Open Local 12-Mi Map (With Return Bar) →</button></div>";
   });
-  htmlOut += "<div class='no-print' style='margin-top:14px;background:#000;border:2px solid #38bdf8;border-radius:12px;overflow:hidden'><div style='background:#0c4a6e;color:#fff;padding:10px 14px;font-weight:900;font-size:13px;display:flex;justify-content:space-between;align-items:center'><span>🗺️ LIVE INTERACTIVE 20-MILE SENSORY MAP FOR: " + cityLabel.toUpperCase() + "</span><button class='btn-cyan' style='margin:0;padding:6px 12px' onclick=\"openMap()\">⛶ Expand Full-Screen Map (With Return Button)</button></div><iframe style='width:100%;height:300px;border:none' src='https://www.google.com/maps?q=autism+sensory+friendly+events+parks+near+" + encodeURIComponent(cityLabel) + "&output=embed'></iframe></div>";
+  htmlOut += "<div class='no-print' style='margin-top:14px;background:#000;border:2px solid #38bdf8;border-radius:12px;overflow:hidden'><div style='background:#0c4a6e;color:#fff;padding:10px 14px;font-weight:900;font-size:13px;display:flex;justify-content:space-between;align-items:center'><span>🗺️ LIVE INTERACTIVE 12-MILE SENSORY MAP FOR: " + cityLabel.toUpperCase() + "</span><button class='btn-cyan' style='margin:0;padding:6px 12px' onclick=\"openMap()\">⛶ Expand Full-Screen Map (With Return Button)</button></div><iframe style='width:100%;height:300px;border:none' src='https://www.google.com/maps?q=autism+sensory+friendly+events+parks+near+" + encodeURIComponent(cityLabel) + "&output=embed'></iframe></div>";
   document.getElementById("out").innerHTML = htmlOut;
 }
 var uz = new URLSearchParams(window.location.search).get("zip");

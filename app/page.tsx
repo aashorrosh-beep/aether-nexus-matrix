@@ -97,7 +97,7 @@ export default function MallOfMallsLobby() {
             <button onClick={() => setShowCoach(true)} className="bg-emerald-500 hover:bg-emerald-400 text-black font-black text-xs uppercase px-6 py-4 rounded-xl shadow-lg">
               🩺 Launch FREE AI Workout, Meal Plan & Biomarker Coach →
             </button>
-            <form action="/spectrum-knowledge-vault.html" method="GET" className="flex flex-col sm:flex-row gap-2 pt-2"><input name="zip" defaultValue="77301" placeholder="Enter US ZIP Code (e.g. 77301 Conroe)" className="flex-1 bg-black border-2 border-emerald-400 text-white px-4 py-3 rounded-xl text-xs font-mono font-bold uppercase" /><button type="submit" className="bg-yellow-400 hover:bg-yellow-300 text-black font-black text-xs uppercase px-5 py-3 rounded-xl">🔍 Scan 20-Mile Autism Radar →</button></form><a href="/spectrum-knowledge-vault.html" className="bg-cyan-500 hover:bg-cyan-400 text-black font-black text-xs uppercase px-6 py-4 rounded-xl shadow-lg text-center">
+            <form action="/spectrum-knowledge-vault.html" method="GET" className="flex flex-col sm:flex-row gap-2 pt-2"><input name="zip" defaultValue="77301" placeholder="Enter US ZIP Code (e.g. 77301 Conroe)" className="flex-1 bg-black border-2 border-emerald-400 text-white px-4 py-3 rounded-xl text-xs font-mono font-bold uppercase" /><button type="submit" className="bg-yellow-400 hover:bg-yellow-300 text-black font-black text-xs uppercase px-5 py-3 rounded-xl">🔍 Scan 12-Mile Autism Radar →</button></form><a href="/spectrum-knowledge-vault.html" className="bg-cyan-500 hover:bg-cyan-400 text-black font-black text-xs uppercase px-6 py-4 rounded-xl shadow-lg text-center">
               📚 Open Autism Hospital Research & Downloadable Info Vault →
             </a>
           </div>
@@ -137,7 +137,7 @@ export default function MallOfMallsLobby() {
                 </Link>
               </div>
               <a href="/spectrum-knowledge-vault.html" className="block w-full bg-gradient-to-r from-emerald-400 via-teal-300 to-cyan-400 hover:opacity-95 text-black font-black text-xs md:text-sm uppercase py-4 px-4 rounded-xl text-center shadow-xl">
-                📡 Open 20-Mile Autism Event Radar & Hospital Research Vault →</a><a href="/new-life-expecting-vault.html" className="block w-full bg-cyan-400 hover:bg-cyan-300 text-black font-black text-xs md:text-sm uppercase py-3.5 px-4 rounded-xl text-center shadow-xl mt-2">👶 Open What to Expect: Pregnancy, Newborn & Free Infant CPR Guide →
+                📡 Open 12-Mile Autism Event Radar & Hospital Research Vault →</a><a href="/new-life-expecting-vault.html" className="block w-full bg-cyan-400 hover:bg-cyan-300 text-black font-black text-xs md:text-sm uppercase py-3.5 px-4 rounded-xl text-center shadow-xl mt-2">👶 Open What to Expect: Pregnancy, Newborn & Free Infant CPR Guide →
               </a>
             </div>
             {/* RIGHT FLANK: SCRUB LOUNGE, SENIOR MOBILITY, BACK RELIEF & RETRO SWEAT */}
