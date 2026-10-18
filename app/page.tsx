@@ -195,7 +195,7 @@ export default function MallOfMallsLobby() {
               <div className="space-y-4 text-xs text-zinc-300 bg-black p-5 rounded-2xl border border-red-800/60">
                 <div className="text-red-400 font-black uppercase text-sm">🛡️ Mandatory Legal & HIPAA Ephemeral Safe-Harbor Waiver</div>
                 <p>1. <b>No Doctor-Patient Relationship:</b> This AI utility is strictly educational and does not diagnose, treat, cure, or prescribe.</p>
-                <p>2. <b>Omission & Accuracy Indemnification:</b> You accept 100% responsibility for the completeness of the data you share and hold harmless ALBS Nexus, Shorco Enterprises, Inc., and RE CELL INC.</p>
+                <p>2. <b>Omission & Accuracy Indemnification:</b> You accept 100% responsibility for the completeness of the data you share and hold harmless ALBS Nexus, ALBS Nexus and The Shorrosh Family Foundation</p>
                 <p>3. <b>Zero-Retention Privacy:</b> All inputs are processed in volatile memory and never permanently stored as medical records.</p>
                 <input value={sigName} onChange={e => setSigName(e.target.value)} placeholder="TYPE YOUR FULL LEGAL NAME TO SIGN & UNLOCK" className="w-full bg-zinc-900 border border-zinc-700 p-3 rounded font-bold uppercase text-white" />
                 <button onClick={() => { if (sigName.trim().length > 2) setWaiverSigned(true); }} className="w-full bg-emerald-500 text-black font-black uppercase py-3 rounded-xl">I Agree & Digitally Sign Waiver →</button>
@@ -212,7 +212,7 @@ export default function MallOfMallsLobby() {
         </div>
       )}
           <footer className="border-t border-zinc-800 bg-black py-6 px-4 text-center text-[11px] font-mono text-zinc-400 uppercase tracking-widest">
-        🛡️ U.S. PATENT PENDING (USPTO Provisional App. No. 64/134,528 & Omnibus CIP) • Copyright © 2026 Anthony Shorrosh / Shorco Enterprises, Inc. / RE CELL INC. All Rights Reserved. Unauthorized reproduction or cloning of the ALBS Mall-of-Malls, 5-Brain Crucible, or Virtual Outlet Architecture is strictly prohibited.
+        🛡️ U.S. PATENT PENDING (USPTO Provisional App. No. 64/134,528 & Omnibus CIP) • Copyright © 2026 ALBS Nexus & The Shorrosh Family Foundation All Rights Reserved. Unauthorized reproduction or cloning of the ALBS Mall-of-Malls, 5-Brain Crucible, or Virtual Outlet Architecture is strictly prohibited.
       </footer>
     </main>
   );

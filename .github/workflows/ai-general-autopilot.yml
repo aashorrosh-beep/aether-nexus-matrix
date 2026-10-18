@@ -24,6 +24,7 @@ jobs:
         env:
           SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
         run: |
+          node mall-prewalk-auditor.mjs
           node ai-general-telemetry.mjs
           npm run build
       - name: Commit & Publish Shift Report to Repository
