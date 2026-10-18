@@ -31,7 +31,7 @@ export default function MallOfMallsLobby() {
   const [coachPlan, setCoachPlan] = useState("");
   const all = Object.keys(masterInventory || {}).filter(r => isLive(r));
   return (
-    <main className="min-h-screen bg-black text-white font-sans relative overflow-x-hidden">
+    <main className="min-h-screen bg-transparent text-white font-sans relative overflow-x-hidden">
       {/* TOP TRENDING TICKER BANNER */}
       <div className="bg-gradient-to-r from-red-900 via-zinc-900 to-cyan-900 border-b border-zinc-700 py-2 px-4 text-center text-xs font-mono uppercase tracking-widest">
         🔥 #1 TRENDING CATEGORY: <span className="text-yellow-400 font-black">Q4 Holiday & White Elephant Drop</span> • ⚡ TOP 5 NOW: Super Squishies | PSA 10 Consignment | Holiday Bakery | Pure Shilajit | Survival EDC

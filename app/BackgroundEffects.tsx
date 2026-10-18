@@ -70,7 +70,7 @@ export default function BackgroundEffects() {
             <div className="holo-frame-red">
                <img src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=200&auto=format&fit=crop" alt="Vintage Telephone" className="w-full h-full object-cover opacity-80 sepia brightness-75 mix-blend-luminosity" />
             </div>
-            <span>◆ 1876: THE TELEPHONE ◆ "ROCK AND ROLL IS HERE TO STAY" - 1955 ◆</span>
+            <span>◆  ◆ "ROCK AND ROLL IS HERE TO STAY" - 1955 ◆</span>
             <div className="holo-frame-red">
                <img src="https://images.unsplash.com/photo-1550505096-748950d885a0?q=80&w=200&auto=format&fit=crop" alt="1950s Classic" className="w-full h-full object-cover opacity-80 sepia brightness-75 mix-blend-luminosity" />
             </div>
@@ -105,7 +105,7 @@ export default function BackgroundEffects() {
             <div className="holo-frame-cyan">
                <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=200&auto=format&fit=crop" alt="Quantum Grid" className="w-full h-full object-cover opacity-80 mix-blend-screen" />
             </div>
-            <span>◆ 2050: DYSON SPHERE INITIATIVE ◆</span>
+            <span>◆  ◆</span>
             <span>MARS COLONY ROUTE ◆ NEXT-GEN SURVIVAL HARDWARE</span>
             <div className="holo-frame-cyan">
                <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=200&auto=format&fit=crop" alt="Matrix Code" className="w-full h-full object-cover opacity-80 mix-blend-screen" />
