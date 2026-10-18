@@ -38767,10 +38767,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $10263.13 — YOUR PRICE (20% OFF): $8210.50 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $10263.13 — YOUR PRICE (10%–20% LOWER): $8210.50 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -38783,10 +38783,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $9655.06 — YOUR PRICE (20% OFF): $7724.05 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $9655.06 — YOUR PRICE (10%–20% LOWER): $7724.05 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -38799,10 +38799,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $493.07 — YOUR PRICE (20% OFF): $394.45 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $493.07 — YOUR PRICE (10%–20% LOWER): $394.45 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -38815,10 +38815,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $493.07 — YOUR PRICE (20% OFF): $394.45 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $493.07 — YOUR PRICE (10%–20% LOWER): $394.45 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -38831,10 +38831,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $431.98 — YOUR PRICE (20% OFF): $345.58 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $431.98 — YOUR PRICE (10%–20% LOWER): $345.58 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -38847,10 +38847,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $424.56 — YOUR PRICE (20% OFF): $339.65 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $424.56 — YOUR PRICE (10%–20% LOWER): $339.65 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -38863,10 +38863,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $412.26 — YOUR PRICE (20% OFF): $329.81 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $412.26 — YOUR PRICE (10%–20% LOWER): $329.81 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -38879,10 +38879,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $371.22 — YOUR PRICE (20% OFF): $296.97 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $371.22 — YOUR PRICE (10%–20% LOWER): $296.97 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -38895,10 +38895,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $252.96 — YOUR PRICE (20% OFF): $202.37 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $252.96 — YOUR PRICE (10%–20% LOWER): $202.37 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -38911,10 +38911,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $246.77 — YOUR PRICE (20% OFF): $197.42 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $246.77 — YOUR PRICE (10%–20% LOWER): $197.42 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -38927,10 +38927,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $246.51 — YOUR PRICE (20% OFF): $197.20 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $246.51 — YOUR PRICE (10%–20% LOWER): $197.20 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -38943,10 +38943,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $242.40 — YOUR PRICE (20% OFF): $193.92 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $242.40 — YOUR PRICE (10%–20% LOWER): $193.92 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -38959,10 +38959,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $216.00 — YOUR PRICE (20% OFF): $172.80 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $216.00 — YOUR PRICE (10%–20% LOWER): $172.80 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -38975,10 +38975,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $171.22 — YOUR PRICE (20% OFF): $136.98 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $171.22 — YOUR PRICE (10%–20% LOWER): $136.98 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -38991,10 +38991,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $161.33 — YOUR PRICE (20% OFF): $129.06 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $161.33 — YOUR PRICE (10%–20% LOWER): $129.06 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39007,10 +39007,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $157.61 — YOUR PRICE (20% OFF): $126.09 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $157.61 — YOUR PRICE (10%–20% LOWER): $126.09 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39023,10 +39023,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $145.93 — YOUR PRICE (20% OFF): $116.74 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $145.93 — YOUR PRICE (10%–20% LOWER): $116.74 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39039,10 +39039,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $140.10 — YOUR PRICE (20% OFF): $112.08 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $140.10 — YOUR PRICE (10%–20% LOWER): $112.08 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39055,10 +39055,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $136.20 — YOUR PRICE (20% OFF): $108.96 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $136.20 — YOUR PRICE (10%–20% LOWER): $108.96 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39071,10 +39071,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $130.36 — YOUR PRICE (20% OFF): $104.29 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $130.36 — YOUR PRICE (10%–20% LOWER): $104.29 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39087,10 +39087,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $116.73 — YOUR PRICE (20% OFF): $93.39 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $116.73 — YOUR PRICE (10%–20% LOWER): $93.39 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39103,10 +39103,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $114.80 — YOUR PRICE (20% OFF): $91.84 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $114.80 — YOUR PRICE (10%–20% LOWER): $91.84 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39119,10 +39119,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $112.08 — YOUR PRICE (20% OFF): $89.66 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $112.08 — YOUR PRICE (10%–20% LOWER): $89.66 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39135,10 +39135,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $111.98 — YOUR PRICE (20% OFF): $89.59 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $111.98 — YOUR PRICE (10%–20% LOWER): $89.59 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39151,10 +39151,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $107.02 — YOUR PRICE (20% OFF): $85.62 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $107.02 — YOUR PRICE (10%–20% LOWER): $85.62 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39167,10 +39167,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $105.06 — YOUR PRICE (20% OFF): $84.05 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $105.06 — YOUR PRICE (10%–20% LOWER): $84.05 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39183,10 +39183,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $97.28 — YOUR PRICE (20% OFF): $77.82 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $97.28 — YOUR PRICE (10%–20% LOWER): $77.82 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39199,10 +39199,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $95.35 — YOUR PRICE (20% OFF): $76.28 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $95.35 — YOUR PRICE (10%–20% LOWER): $76.28 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39215,10 +39215,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $95.35 — YOUR PRICE (20% OFF): $76.28 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $95.35 — YOUR PRICE (10%–20% LOWER): $76.28 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39231,10 +39231,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $91.45 — YOUR PRICE (20% OFF): $73.16 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $91.45 — YOUR PRICE (10%–20% LOWER): $73.16 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39247,10 +39247,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $87.57 — YOUR PRICE (20% OFF): $70.05 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $87.57 — YOUR PRICE (10%–20% LOWER): $70.05 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39263,10 +39263,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $86.10 — YOUR PRICE (20% OFF): $68.88 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $86.10 — YOUR PRICE (10%–20% LOWER): $68.88 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39279,10 +39279,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $86.10 — YOUR PRICE (20% OFF): $68.88 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $86.10 — YOUR PRICE (10%–20% LOWER): $68.88 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39295,10 +39295,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $85.60 — YOUR PRICE (20% OFF): $68.48 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $85.60 — YOUR PRICE (10%–20% LOWER): $68.48 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39311,10 +39311,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $77.81 — YOUR PRICE (20% OFF): $62.25 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $77.81 — YOUR PRICE (10%–20% LOWER): $62.25 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39327,10 +39327,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $77.81 — YOUR PRICE (20% OFF): $62.25 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $77.81 — YOUR PRICE (10%–20% LOWER): $62.25 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39343,10 +39343,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $77.62 — YOUR PRICE (20% OFF): $62.09 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $77.62 — YOUR PRICE (10%–20% LOWER): $62.09 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39359,10 +39359,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $75.88 — YOUR PRICE (20% OFF): $60.71 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $75.88 — YOUR PRICE (10%–20% LOWER): $60.71 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39375,10 +39375,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $74.91 — YOUR PRICE (20% OFF): $59.92 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $74.91 — YOUR PRICE (10%–20% LOWER): $59.92 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39391,10 +39391,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $73.94 — YOUR PRICE (20% OFF): $59.15 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $73.94 — YOUR PRICE (10%–20% LOWER): $59.15 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39407,10 +39407,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $68.46 — YOUR PRICE (20% OFF): $54.77 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $68.46 — YOUR PRICE (10%–20% LOWER): $54.77 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39423,10 +39423,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $68.10 — YOUR PRICE (20% OFF): $54.48 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $68.10 — YOUR PRICE (10%–20% LOWER): $54.48 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39439,10 +39439,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $68.09 — YOUR PRICE (20% OFF): $54.47 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $68.09 — YOUR PRICE (10%–20% LOWER): $54.47 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39455,10 +39455,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $68.09 — YOUR PRICE (20% OFF): $54.47 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $68.09 — YOUR PRICE (10%–20% LOWER): $54.47 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39471,10 +39471,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $66.72 — YOUR PRICE (20% OFF): $53.37 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $66.72 — YOUR PRICE (10%–20% LOWER): $53.37 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39487,10 +39487,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $66.16 — YOUR PRICE (20% OFF): $52.93 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $66.16 — YOUR PRICE (10%–20% LOWER): $52.93 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39503,10 +39503,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $66.14 — YOUR PRICE (20% OFF): $52.91 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $66.14 — YOUR PRICE (10%–20% LOWER): $52.91 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39519,10 +39519,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $65.95 — YOUR PRICE (20% OFF): $52.76 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $65.95 — YOUR PRICE (10%–20% LOWER): $52.76 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39535,10 +39535,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $61.00 — YOUR PRICE (20% OFF): $48.80 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $61.00 — YOUR PRICE (10%–20% LOWER): $48.80 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39551,10 +39551,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $58.37 — YOUR PRICE (20% OFF): $46.70 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $58.37 — YOUR PRICE (10%–20% LOWER): $46.70 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39567,10 +39567,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $58.36 — YOUR PRICE (20% OFF): $46.69 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $58.36 — YOUR PRICE (10%–20% LOWER): $46.69 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39583,10 +39583,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $58.68 — YOUR PRICE (20% OFF): $46.94 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $58.68 — YOUR PRICE (10%–20% LOWER): $46.94 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39599,10 +39599,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $57.40 — YOUR PRICE (20% OFF): $45.92 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $57.40 — YOUR PRICE (10%–20% LOWER): $45.92 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39615,10 +39615,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $52.37 — YOUR PRICE (20% OFF): $41.90 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $52.37 — YOUR PRICE (10%–20% LOWER): $41.90 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39631,10 +39631,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $52.37 — YOUR PRICE (20% OFF): $41.90 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $52.37 — YOUR PRICE (10%–20% LOWER): $41.90 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39647,10 +39647,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $52.16 — YOUR PRICE (20% OFF): $41.73 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $52.16 — YOUR PRICE (10%–20% LOWER): $41.73 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39663,10 +39663,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $49.23 — YOUR PRICE (20% OFF): $39.38 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $49.23 — YOUR PRICE (10%–20% LOWER): $39.38 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39679,10 +39679,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $49.14 — YOUR PRICE (20% OFF): $39.31 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $49.14 — YOUR PRICE (10%–20% LOWER): $39.31 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39695,10 +39695,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $47.15 — YOUR PRICE (20% OFF): $37.72 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $47.15 — YOUR PRICE (10%–20% LOWER): $37.72 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39711,10 +39711,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $43.99 — YOUR PRICE (20% OFF): $35.19 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $43.99 — YOUR PRICE (10%–20% LOWER): $35.19 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39727,10 +39727,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $43.98 — YOUR PRICE (20% OFF): $35.18 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $43.98 — YOUR PRICE (10%–20% LOWER): $35.18 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39743,10 +39743,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $42.95 — YOUR PRICE (20% OFF): $34.36 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $42.95 — YOUR PRICE (10%–20% LOWER): $34.36 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39759,10 +39759,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $42.95 — YOUR PRICE (20% OFF): $34.36 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $42.95 — YOUR PRICE (10%–20% LOWER): $34.36 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39775,10 +39775,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $42.95 — YOUR PRICE (20% OFF): $34.36 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $42.95 — YOUR PRICE (10%–20% LOWER): $34.36 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39791,10 +39791,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $42.40 — YOUR PRICE (20% OFF): $33.92 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $42.40 — YOUR PRICE (10%–20% LOWER): $33.92 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39807,10 +39807,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $41.90 — YOUR PRICE (20% OFF): $33.52 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $41.90 — YOUR PRICE (10%–20% LOWER): $33.52 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39823,10 +39823,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $38.56 — YOUR PRICE (20% OFF): $30.85 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $38.56 — YOUR PRICE (10%–20% LOWER): $30.85 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39839,10 +39839,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $37.07 — YOUR PRICE (20% OFF): $29.65 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $37.07 — YOUR PRICE (10%–20% LOWER): $29.65 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39855,10 +39855,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $32.96 — YOUR PRICE (20% OFF): $26.37 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $32.96 — YOUR PRICE (10%–20% LOWER): $26.37 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39871,10 +39871,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $31.44 — YOUR PRICE (20% OFF): $25.15 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $31.44 — YOUR PRICE (10%–20% LOWER): $25.15 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39887,10 +39887,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $27.24 — YOUR PRICE (20% OFF): $21.79 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $27.24 — YOUR PRICE (10%–20% LOWER): $21.79 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39903,10 +39903,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $16.55 — YOUR PRICE (20% OFF): $13.24 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $16.55 — YOUR PRICE (10%–20% LOWER): $13.24 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39919,10 +39919,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $12.57 — YOUR PRICE (20% OFF): $10.05 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $12.57 — YOUR PRICE (10%–20% LOWER): $10.05 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39935,10 +39935,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $12.55 — YOUR PRICE (20% OFF): $10.04 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $12.55 — YOUR PRICE (10%–20% LOWER): $10.04 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39951,10 +39951,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $11.29 — YOUR PRICE (20% OFF): $9.03 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $11.29 — YOUR PRICE (10%–20% LOWER): $9.03 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39967,10 +39967,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $10.46 — YOUR PRICE (20% OFF): $8.37 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $10.46 — YOUR PRICE (10%–20% LOWER): $8.37 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39983,10 +39983,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $10.04 — YOUR PRICE (20% OFF): $8.03 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $10.04 — YOUR PRICE (10%–20% LOWER): $8.03 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -39999,10 +39999,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $7.33 — YOUR PRICE (20% OFF): $5.86 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $7.33 — YOUR PRICE (10%–20% LOWER): $5.86 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40015,10 +40015,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $6.28 — YOUR PRICE (20% OFF): $5.02 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $6.28 — YOUR PRICE (10%–20% LOWER): $5.02 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40031,10 +40031,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $5.58 — YOUR PRICE (20% OFF): $4.47 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $5.58 — YOUR PRICE (10%–20% LOWER): $4.47 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40047,10 +40047,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $5.45 — YOUR PRICE (20% OFF): $4.36 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $5.45 — YOUR PRICE (10%–20% LOWER): $4.36 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40063,10 +40063,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $3.94 — YOUR PRICE (20% OFF): $3.15 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $3.94 — YOUR PRICE (10%–20% LOWER): $3.15 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40079,10 +40079,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS Spectrum Direct-Ship (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $3.76 — YOUR PRICE (20% OFF): $3.01 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $3.76 — YOUR PRICE (10%–20% LOWER): $3.01 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     }
@@ -40097,10 +40097,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $1203.39 — YOUR PRICE (20% OFF): $962.71 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $1203.39 — YOUR PRICE (10%–20% LOWER): $962.71 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40113,10 +40113,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $972.93 — YOUR PRICE (20% OFF): $778.34 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $972.93 — YOUR PRICE (10%–20% LOWER): $778.34 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40129,10 +40129,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $776.41 — YOUR PRICE (20% OFF): $621.13 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $776.41 — YOUR PRICE (10%–20% LOWER): $621.13 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40145,10 +40145,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $661.51 — YOUR PRICE (20% OFF): $529.21 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $661.51 — YOUR PRICE (10%–20% LOWER): $529.21 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40161,10 +40161,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $633.39 — YOUR PRICE (20% OFF): $506.71 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $633.39 — YOUR PRICE (10%–20% LOWER): $506.71 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40177,10 +40177,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $428.08 — YOUR PRICE (20% OFF): $342.47 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $428.08 — YOUR PRICE (10%–20% LOWER): $342.47 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40193,10 +40193,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $389.18 — YOUR PRICE (20% OFF): $311.34 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $389.18 — YOUR PRICE (10%–20% LOWER): $311.34 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40209,10 +40209,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $291.87 — YOUR PRICE (20% OFF): $233.49 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $291.87 — YOUR PRICE (10%–20% LOWER): $233.49 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40225,10 +40225,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $85.62 — YOUR PRICE (20% OFF): $68.50 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $85.62 — YOUR PRICE (10%–20% LOWER): $68.50 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40241,10 +40241,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $72.00 — YOUR PRICE (20% OFF): $57.60 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $72.00 — YOUR PRICE (10%–20% LOWER): $57.60 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40257,10 +40257,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $66.14 — YOUR PRICE (20% OFF): $52.91 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $66.14 — YOUR PRICE (10%–20% LOWER): $52.91 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40273,10 +40273,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $64.28 — YOUR PRICE (20% OFF): $51.43 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $64.28 — YOUR PRICE (10%–20% LOWER): $51.43 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40289,10 +40289,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $62.27 — YOUR PRICE (20% OFF): $49.82 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $62.27 — YOUR PRICE (10%–20% LOWER): $49.82 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40305,10 +40305,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $62.27 — YOUR PRICE (20% OFF): $49.82 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $62.27 — YOUR PRICE (10%–20% LOWER): $49.82 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40321,10 +40321,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $58.37 — YOUR PRICE (20% OFF): $46.70 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $58.37 — YOUR PRICE (10%–20% LOWER): $46.70 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40337,10 +40337,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $56.83 — YOUR PRICE (20% OFF): $45.46 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $56.83 — YOUR PRICE (10%–20% LOWER): $45.46 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40353,10 +40353,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $54.48 — YOUR PRICE (20% OFF): $43.58 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $54.48 — YOUR PRICE (10%–20% LOWER): $43.58 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40369,10 +40369,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $42.41 — YOUR PRICE (20% OFF): $33.93 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $42.41 — YOUR PRICE (10%–20% LOWER): $33.93 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40385,10 +40385,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $41.90 — YOUR PRICE (20% OFF): $33.52 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $41.90 — YOUR PRICE (10%–20% LOWER): $33.52 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40401,10 +40401,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $37.59 — YOUR PRICE (20% OFF): $30.08 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $37.59 — YOUR PRICE (10%–20% LOWER): $30.08 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40417,10 +40417,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $36.69 — YOUR PRICE (20% OFF): $29.35 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $36.69 — YOUR PRICE (10%–20% LOWER): $29.35 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40433,10 +40433,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $34.57 — YOUR PRICE (20% OFF): $27.66 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $34.57 — YOUR PRICE (10%–20% LOWER): $27.66 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40449,10 +40449,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $34.57 — YOUR PRICE (20% OFF): $27.66 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $34.57 — YOUR PRICE (10%–20% LOWER): $27.66 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40465,10 +40465,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $33.53 — YOUR PRICE (20% OFF): $26.83 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $33.53 — YOUR PRICE (10%–20% LOWER): $26.83 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40481,10 +40481,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $33.26 — YOUR PRICE (20% OFF): $26.61 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $33.26 — YOUR PRICE (10%–20% LOWER): $26.61 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40497,10 +40497,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $31.44 — YOUR PRICE (20% OFF): $25.15 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $31.44 — YOUR PRICE (10%–20% LOWER): $25.15 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40513,10 +40513,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $29.38 — YOUR PRICE (20% OFF): $23.50 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $29.38 — YOUR PRICE (10%–20% LOWER): $23.50 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40529,10 +40529,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $29.32 — YOUR PRICE (20% OFF): $23.45 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $29.32 — YOUR PRICE (10%–20% LOWER): $23.45 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40545,10 +40545,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $29.27 — YOUR PRICE (20% OFF): $23.42 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $29.27 — YOUR PRICE (10%–20% LOWER): $23.42 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40561,10 +40561,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $26.55 — YOUR PRICE (20% OFF): $21.24 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $26.55 — YOUR PRICE (10%–20% LOWER): $21.24 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40577,10 +40577,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $26.28 — YOUR PRICE (20% OFF): $21.02 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $26.28 — YOUR PRICE (10%–20% LOWER): $21.02 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40593,10 +40593,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $26.19 — YOUR PRICE (20% OFF): $20.95 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $26.19 — YOUR PRICE (10%–20% LOWER): $20.95 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40609,10 +40609,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $25.15 — YOUR PRICE (20% OFF): $20.12 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $25.15 — YOUR PRICE (10%–20% LOWER): $20.12 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40625,10 +40625,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $18.84 — YOUR PRICE (20% OFF): $15.07 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $18.84 — YOUR PRICE (10%–20% LOWER): $15.07 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40641,10 +40641,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $10.46 — YOUR PRICE (20% OFF): $8.37 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $10.46 — YOUR PRICE (10%–20% LOWER): $8.37 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40657,10 +40657,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $6.59 — YOUR PRICE (20% OFF): $5.27 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $6.59 — YOUR PRICE (10%–20% LOWER): $5.27 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
@@ -40673,10 +40673,10 @@ export const masterInventory: Record<string, any[]> = {
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
-        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "manufacturer": "ALBS New Life Sanctuary (10%–20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • 10%–20% Cheaper Than Competitors on Hard-to-Find Items",
         "shipping": "Tracked Direct-to-Door ($7.99)",
-        "market_value": "Competitor Price: $6.28 — YOUR PRICE (20% OFF): $5.02 • Supports 3% Legacy Charter"
+        "market_value": "Competitor Price: $6.28 — YOUR PRICE (10%–20% LOWER): $5.02 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     }
