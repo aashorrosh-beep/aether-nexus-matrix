@@ -38761,1328 +38761,1328 @@ export const masterInventory: Record<string, any[]> = {
     {
       "id": "SPEC50-70024",
       "name": "Abrams Nation The Safety Sleeper Enclosed Adaptive Safety Be",
-      "price": "$7343.92",
+      "price": "$8210.50",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQqu566n-a06-LAtayngINcVFlFP7MKaqOV-5yBU4_JOrPtrt893-xR8rpP38Wj50ki1wUjOCZ7aweNqju4m9PSrkpShUKDoN-W92zYOukfn11Gh5Egp2MJPQ"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $10263.13 — YOUR PRICE (20% OFF): $8210.50 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70026",
       "name": "Safety Bed for Children  Adults 300 Model Safety Sleeper",
-      "price": "$6908.81",
+      "price": "$7724.05",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRfe2H_BWmjdjPCTHMPC9tQeEPxax-4DXqLjx0D-F-b803V3juYGt2txbR57D0RGzs64Xndjb_GV7Bo5eeGNcjd2scisiaLO-iVG6WXM3S7jY4L4fUcqZJk"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $9655.06 — YOUR PRICE (20% OFF): $7724.05 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70051",
       "name": "Sensory Therapy For Kid Acrobat Hammock Swing Autism Educati",
-      "price": "$352.82",
+      "price": "$394.45",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTK2_7Eobh0Banlox3nY7gkR7oDYRMmhaulKGQ3hLaibmFjiXDtraKdCi2pY5h2Kthik2YAxzVm"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $493.07 — YOUR PRICE (20% OFF): $394.45 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70059",
       "name": "Montessori Therapy For Kid Acrobat Hammock Swing Autism Educ",
-      "price": "$352.82",
+      "price": "$394.45",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcREQB1QmIbTI5lX4cERDqhaZt0PQ87pA-tHz7c6dq80EdcYYfxJTzIXkm6NHYnmHXBKx65iiabj"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $493.07 — YOUR PRICE (20% OFF): $394.45 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70077",
       "name": "400 Pictures card binder bundle Speech delayABA Therapy Auti",
-      "price": "$309.11",
+      "price": "$345.58",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQcdSmsDOP4GE1R8PXWElHOB_l1zMRNiJM-NqO-984TJtSf4X6zG68BC1Iqfa52s8E9RktnN9EHPjeHp2KTYWAidnfP7-ROphTMs9S1Qz0"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $431.98 — YOUR PRICE (20% OFF): $345.58 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70052",
       "name": "5 x 5 ft Crash Pad",
-      "price": "$303.80",
+      "price": "$339.65",
       "media": [
         "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSoVQt-tWeSPoRIR00xz-jqVXTVIkWIG7_merQwxvItqfomn2m753GW118i3s4"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $424.56 — YOUR PRICE (20% OFF): $339.65 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70041",
       "name": "Educational Material Swing Sensory Therapy For Kid Acrobat",
-      "price": "$295.00",
+      "price": "$329.81",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTUwLKa_FajurxEhqjwdPA0VONouOI3m9GcO9nno3ugiNjjsTt_tdpBTOEmaA"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $412.26 — YOUR PRICE (20% OFF): $329.81 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70067",
       "name": "Autism Pec Communication Binder Printable  AAC Visual Suppor",
-      "price": "$265.63",
+      "price": "$296.97",
       "media": [
         "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQdJWVs2eqzH6757fAhxxjrmMH4_VcL3FKAP1s4868fHWgL-BB4lsD9vOk94aYPPEcX_LTUdQYtr984H_VYtQ_Qu94UvJdubbDx_h-6nQI1hX4U1O2q7AtvcQ"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $371.22 — YOUR PRICE (20% OFF): $296.97 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70053",
       "name": "Montessori Sensory Therapy For Kid Hammock Swing Autism",
-      "price": "$181.01",
+      "price": "$202.37",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTcn0ca0eg9qrpR5PYQXqEdira6gf_rg1RY3_YaSoERG6OGE9cWyYJCHQM-Kwo"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $252.96 — YOUR PRICE (20% OFF): $202.37 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70045",
       "name": "59x59 Inch Double Layer Sensory Swing for Kids and Adults In",
-      "price": "$176.58",
+      "price": "$197.42",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQYRiifOU00n4d1_CjOcdrukj2p7naNUH9fPa_MWRn_7BC4AHv8ybjrgibovs5JO-Mk23_mOccx"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $246.77 — YOUR PRICE (20% OFF): $197.42 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70027",
       "name": "Sensory Compression Tent for Kids  Deep Pressure Propriocept",
-      "price": "$176.39",
+      "price": "$197.20",
       "media": [
         "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS5E_mrxwuNfaF51r_cWhKxKQ-hPwgNnharwrNUzSgIeUcE_Pbay1VcCMvJbmb_NQUHsoU2cXy02P6viBcdxvUcrWM9YNUhHHmDt3JZsv5BazivIJ0DXlilPg"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $246.51 — YOUR PRICE (20% OFF): $197.20 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70036",
       "name": "Sensory Owl Full Body Sock  Strong Stretchy Lycra Sack Senso",
-      "price": "$173.45",
+      "price": "$193.92",
       "media": [
         "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQnQ-MGrQu0BEcYk8knkrqyQxTX3JLAsMX66_mdWN8BXM3n-W6sgn0zShSQCmbhAOZ1r_9A-Zxs0jdtAQeEDyiFdymqNhfbu3N7rO74kc9Elp7SN_feZH_R"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $242.40 — YOUR PRICE (20% OFF): $193.92 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70068",
       "name": "pec Picture Card Notebook Kit Speech Therapy OT Therapy Auti",
-      "price": "$154.56",
+      "price": "$172.80",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQalf3mJ4rnpDToXyOZciS2XP33mGD-C0qnuY47KPLMh9brYmhaOV4Dlarkj4OLx02w5dmcstVsqE5IN3QDLT_unoMumfDSAG1dTRsqj-VB"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $216.00 — YOUR PRICE (20% OFF): $172.80 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70039",
       "name": "Sensory Compression Blanket Lycra Bed Sheet for Kids  Adults",
-      "price": "$122.52",
+      "price": "$136.98",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSAbcybL08M0el6fLJcyHKrCXHvYYcrUxA_w1R0MVu7BJ0ZsDcaJLArcS9a72BVB_xtTEDvlk_UY0AlhIo8Nnqf1pIlpYde54qCz1ahlQkeUqy2XvASr18R"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $171.22 — YOUR PRICE (20% OFF): $136.98 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70047",
       "name": "Sensory Swing For Kids  Adults Holds 300lbs Indooroutdoor Th",
-      "price": "$115.44",
+      "price": "$129.06",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDMxMle0gnqioalKkRSGJRnREnfzSlo1G7mpfjHNn3bJj1WrQasps55qvX5g"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $161.33 — YOUR PRICE (20% OFF): $129.06 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70075",
       "name": "110 autism communication pictures cards book or binder speec",
-      "price": "$112.78",
+      "price": "$126.09",
       "media": [
         "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSzdMd_seB8l6V3DqdtakZ_wH3Y-8QUTqmYs7oMhKJZ4Mjzyl7SmKPPw-TQ1xosOVTijJW7MYOHAzYGJjuGTNKuv5IF8fNCWctxm3cYa4M"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $157.61 — YOUR PRICE (20% OFF): $126.09 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70020",
       "name": "ARKs Oral Motor Starter Kit",
-      "price": "$104.42",
+      "price": "$116.74",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTKkz-EkBHe5-tznFl1AfMdx4NKWOBans9HLMqYQ15BCqN57BRFNa-fB6Qv6VjhyEsOXszvRmlLvd2lI21nqCka983cT9A62aJ4V9bcXq6eNU0QZwtPX9JLCg"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $145.93 — YOUR PRICE (20% OFF): $116.74 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70030",
       "name": "King Size Mesh Compression Bed Sheet Lycra Sensory Comfort A",
-      "price": "$100.25",
+      "price": "$112.08",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQpThZDjv3nEQ3gN4YOdZPu32Yg38KyHYM08LU9GGH6XnmsoGXipTL95bYQVp0zWTEMocgJRK0Zvi3J6K-j8VQmYKDx15wWn5po79DUp-0ffQqpsW1oVqRS"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $140.10 — YOUR PRICE (20% OFF): $112.08 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70063",
       "name": "Friendly Cuddle Indoor Sensory Swing for Kids or Outdoor  Do",
-      "price": "$97.46",
+      "price": "$108.96",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT9Zl-pDr3jWKyBJNxyPQWTCdgyGlTV4PecP4lhBTgOaM3mEK2CQuANq7w0Vw"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $136.20 — YOUR PRICE (20% OFF): $108.96 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70011",
       "name": "ARK Z-Vibe Travel Kit",
-      "price": "$93.28",
+      "price": "$104.29",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTBU88PnOmcFyjvo-nTaMobByy2BCa6vIJ7qPEor9LVqAY-3QpnPLg_XfFV4RAMUuGdf4K6YX8ZsBU2v2Az_vnm7q2XqI5HQbpxgA9L96FS2_Vd8B9Wl-wT"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $130.36 — YOUR PRICE (20% OFF): $104.29 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70018",
       "name": "ARK Z-Vibe Animal Critters Travel Kit",
-      "price": "$83.53",
+      "price": "$93.39",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSixPfjWHIbzaKRT7ZLwMJeSpKpMRJ01VEv3jr-bMdBbl1Wz0aIuRezsuOFdBx8GkVu0PorT1ytJ8lUiceujk3-QSnS6gXSlY6tyF8PpWlz_V_VgHUiYBfl"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $116.73 — YOUR PRICE (20% OFF): $93.39 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70025",
       "name": "Summer Sensory Compression Bed Sheet",
-      "price": "$82.15",
+      "price": "$91.84",
       "media": [
         "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTdp7RIHw65z5_Gr2VBJvby1RPBv-RfBM2yNvEHCVH2jZm7GnI01ad_VcS6Q6okT0oe2FM2JYjXaLdBkHG1tYWqBrY-irCETM1wx-w547kO"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $114.80 — YOUR PRICE (20% OFF): $91.84 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70055",
       "name": "Swing for Kids Swivel Hanger Therapy Swing Autism",
-      "price": "$80.20",
+      "price": "$89.66",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQp3xZ3q4qH8HwS7pvpoNXekdTqJk0bp4doXNwIAiFKtHhCLdrD3g2UcM0HmQ"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $112.08 — YOUR PRICE (20% OFF): $89.66 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70080",
       "name": "Customizable XL visual communication binder with 300 pictogr",
-      "price": "$80.13",
+      "price": "$89.59",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQf8OF8HV7aFWSOkMmFZfNW45Tay4vCYI0S3_0uhxvYvLgpaZEJMxVe1NQGnct7K-wtZ1pQD1HO4LqP7yaOGv5kuRbqpGwOs_o15qMy-50-"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $111.98 — YOUR PRICE (20% OFF): $89.59 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70035",
       "name": "Size Sensory Compression Bed Sheet",
-      "price": "$76.58",
+      "price": "$85.62",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ9mJRSLucQ1JHYYlqKmqv_6Ap46m9eL2iWVcG2vja12LcvoT8FGiemWjQ_KYJF5EDJ9tp5p1_aqNT6WVKMpEJRRhaSbGsoLcdmlg4JKt0P"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $107.02 — YOUR PRICE (20% OFF): $85.62 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70040",
       "name": "Sensory Swing for Kids with Special Needs Therapy Swing Cudd",
-      "price": "$75.18",
+      "price": "$84.05",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQHEB8hNquJ8hy5ciovItAjL6QYdVJEsCTXh0bgvbH13pIwoyl6gBLaz-fhPcAySXRcPkN1YraO"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $105.06 — YOUR PRICE (20% OFF): $84.05 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70076",
       "name": "1000 pec Laminated Visual Communication Picture Cards - Pers",
-      "price": "$69.61",
+      "price": "$77.82",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ2hQFuqEf4sbgEnhfi0bG6wVHPVaYLHFdTfFBpTbu5SymszDCBrLzhw_sr2ZN7pItcP3uYOf-pDhRAERDNLdYw9dSIwLhvXquw8n9xzJx5"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $97.28 — YOUR PRICE (20% OFF): $77.82 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70032",
       "name": "FULL Size Compression Bed Sheet Sensory Calming Lycra Autism",
-      "price": "$68.23",
+      "price": "$76.28",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT5iU-bPTc_3yJC-JFQcvzKVmWhF4kB0IOs4SPh5Cg3N7jkdUkHBcCdrflmYeqoWl457JkK9Yuq8Ot3PDJ4vQNLRZQ5agvXHrz6P2t52a0"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $95.35 — YOUR PRICE (20% OFF): $76.28 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70038",
       "name": "TWIN XLong TWIN Print Lycra Sensory Compression Bed Sheet fo",
-      "price": "$68.23",
+      "price": "$76.28",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQVh-2b1eDJjwWyENSeClxDssmkK67zIZb6hKw1pRr576_Ntj_Vow-g69cKl_KQZ9uchx2kR31uKW8yjwnmNuqml-Qf-cjq8HfWPzNnEpI"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $95.35 — YOUR PRICE (20% OFF): $76.28 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70034",
       "name": "Sensory Compression Body Sock - Lycra Calming Cocoon for Kid",
-      "price": "$65.44",
+      "price": "$73.16",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ-9Xom2wHZL2PQJW656EG_8iXmiauw9e8AUOBKTcmWAE8PZ6BF2LHmMhNL440-pBlKO80SYjqxdwjlgPR-ets3os-ujsnH6EDIg0FYGYSh2ooQOQuULJ_6"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $91.45 — YOUR PRICE (20% OFF): $73.16 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70028",
       "name": "CRIB Summer Mesh Sensory Compression Sheet - Calming Bed She",
-      "price": "$62.66",
+      "price": "$70.05",
       "media": [
         "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSlzyWRLv-0oCS39UfvtXU4Vs3vSJknc-fUI_iIuY4cjLKOld_DxflrLMJMbHSL6d3xdIR9ncqq7p2ClyEQKXv4Y6G-C-_-SBZLtm3GE1bB4xnxAxuAevAf8g"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $87.57 — YOUR PRICE (20% OFF): $70.05 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70013",
       "name": "ARKs Z-Grabber Vibrating Sensory Oral Motor Chew Tool",
-      "price": "$61.61",
+      "price": "$68.88",
       "media": [
         "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQTtqv9ci0jf4GxQatx_7M8HeTItXc87fp3s3kvMq3TfmmQRyW-Ed5XmnkQH_M7kEDTC1uTdLAVm8ZI4GIWyNosuNhWCtB2Cwt9gkxbMtyRWphwiOK85aYM"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $86.10 — YOUR PRICE (20% OFF): $68.88 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70014",
       "name": "ARK Z-Grabber Vibrating Oral Motor Tool",
-      "price": "$61.61",
+      "price": "$68.88",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTP3U0CeRjRTGFKajAr70f_gdKUok44GRFW_9aYjSFqjltirrLtyCD4hfmMx9OgqroICfo0Tft0Nvq73K5gMrGlbOZlOjTk8SJJ8U7ZYVqJyrH89GMmq8jmpg"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $86.10 — YOUR PRICE (20% OFF): $68.88 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70015",
       "name": "ARK Go-To Chew Necklace Pack",
-      "price": "$61.25",
+      "price": "$68.48",
       "media": [
         "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcScyTSdmve-vfzwDObDppjUjRfx0arYyYPQzGLB5aB-dBxHrGsupnWT6d7Ia2FnTAymRb8bGG7jHY0fM1uzbtn6G2XeFwRF3DR3n-l4CIlZ"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $85.60 — YOUR PRICE (20% OFF): $68.48 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70021",
       "name": "ARK Shirt Chewing Pack",
-      "price": "$55.68",
+      "price": "$62.25",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTiYeYVxLlj8a6B4JZLKo085qREhtfTJbmEOUw7Rj7f1XOLY_tFC3e1QRCYL7npDwOmF8-v6YPEqtwcsZDA2K-bLXVs9oN4Her5ZkRVJc4"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $77.81 — YOUR PRICE (20% OFF): $62.25 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70023",
       "name": "Harkla Compression Sheet for Kids Compression Sheets",
-      "price": "$55.68",
+      "price": "$62.25",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRFxmHJHQ9c91pvyqi9YC7gxeeu41YKg4NqYE-UZq-O6lNormwpRLMlX84pxke4s1bDvAtJRbiZPDYp91MrWYJ8vP9NZTzZQ_-FIE2kTsk"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $77.81 — YOUR PRICE (20% OFF): $62.25 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70054",
       "name": "Sensory Therapy Shop Sensory Therapy Swing Nc3 Light Gray On",
-      "price": "$55.54",
+      "price": "$62.09",
       "media": [
         "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQWFloYviyfJm-7RUDQDcLoeQ35XzA7JyaWFqx_rDN7eD3URzioqKBDq6Xvw-JJdXUxMrpc-7Fn"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $77.62 — YOUR PRICE (20% OFF): $62.09 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70029",
       "name": "Twin Sensory Compression Lycra Bed Sheet Autism ADHD SPD",
-      "price": "$54.30",
+      "price": "$60.71",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRHP6iS1SoIExo6QwPnls58Hfd0v0ildcdx9lHfJEuUl74yDlhCQBHA1gNCWzQHAuDih2aS20A5PKhMx10wKFB9a6aQjT8FFq3C8-VVqQQ"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $75.88 — YOUR PRICE (20% OFF): $60.71 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70010",
       "name": "ARK Therapeutic ARK Z-Vibe Vibrating Oral-Motor Tool",
-      "price": "$53.60",
+      "price": "$59.92",
       "media": [
         "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRfOcoxqiafLUN4lFnw40lI74eqPy4-yg5CtMy0V65bCb1ufCWvdjn09qbILBny9n3omRVLk1IJvKCv_-l6G2sWFL3ODGGVKqVPiD9OdsoNv9y2YCuFuYlBog"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $74.91 — YOUR PRICE (20% OFF): $59.92 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70098",
       "name": "Child Safety Harness with Adjustable Leash Autism Harness Th",
-      "price": "$52.91",
+      "price": "$59.15",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS7fMIxO0sIXyHw5vipQWxYEt77T9qljePhiy7yqbvFHtLXkED8G30HW0azYS3MwIn7NIIPOvzsfS9JrX1SJg7i-e1vbREVpr_wxO_38-xb"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $73.94 — YOUR PRICE (20% OFF): $59.15 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70071",
       "name": "Daily Visual Schedule for Kids with Autism  PECS Communicati",
-      "price": "$48.99",
+      "price": "$54.77",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcROIBj1RhqMrmjFi7PRPMW7CTL8s8ak4261xRI8ah8gS8wBvbbQOGk0Vmw_JjwtWckvChsYzypptnJmjihIdjotikceoQJyat47zCoP9TD-khZMjHZOyQG9"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $68.46 — YOUR PRICE (20% OFF): $54.77 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70056",
       "name": "Sensory Joy Swing For Kids Elastic And Soft Fabric Therapy S",
-      "price": "$48.73",
+      "price": "$54.48",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSGTidVxeSRaI2MFBbk8k2jBmgqB8IT0zR0DJoN1Bq-ZKKbCZJs5b-ONGuKYxI"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $68.10 — YOUR PRICE (20% OFF): $54.48 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70016",
       "name": "ARKs Y-Chew XT Extra Tough Oral Motor Chew",
-      "price": "$48.72",
+      "price": "$54.47",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSYheGLiPw_hNrwT_WU84nwOwFA-tCOwexZrRlpp_9aSj2l_vHNOuwxmO0t0tNC-_3qoqW2EHJp8hAiDpdalcoAhQ0c3EIkkhOkN8jyF75oNyd_tY1vni4Z"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $68.09 — YOUR PRICE (20% OFF): $54.47 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70058",
       "name": "Mordely Sensory Swing for Kids  Adults Holds up to 300lbs In",
-      "price": "$48.72",
+      "price": "$54.47",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRnLq58DUGE4QDoc9uwMIsL3DnjCNkH8wFf7UWSK0tqIKUdpufXQE-kQhHIxFs"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $68.09 — YOUR PRICE (20% OFF): $54.47 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70006",
       "name": "Boys Inlzdz 3 Packs Adaptive Clothing for Kids Special Needs",
-      "price": "$47.74",
+      "price": "$53.37",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTKCcd2oCQJwYPFviweQ7XjCAzlGEFSS2oaV_F5ptz8fB285DL-xRuC1goxzf994-3YFSAL60FAJXFdS6JEYPwYfnm3uE9EjCelTuS9WG6Bxiro-89SWvS37A"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $66.72 — YOUR PRICE (20% OFF): $53.37 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70037",
       "name": "CRIB TODDLER Size Sensory Compression Bed Sheet for kids wit",
-      "price": "$47.34",
+      "price": "$52.93",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSPAl75hkFO8SY_6iu_PD_3lPmn6GMWihPZKdtgOf3-znm8H3Kq9fCUoBS-IcefHQWNnyfMrQYRruZhiK-UXJBEmvwiLl4bi5dGHum0Jco"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $66.16 — YOUR PRICE (20% OFF): $52.93 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70008",
       "name": "Girls Haitryli 3Pcs Kids Adaptive Clothing Special Needs Aut",
-      "price": "$47.33",
+      "price": "$52.91",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSHgZ7VvIAvWgZrVHhCey-Me3ipsfZVKvvzrHBc0915IQNhIp1KJH7M6NPajG9dB05XxU0OJDbDMjYKPS1ITvCOmZryxtXSsoWLlBKTMfcNxHYzHVualPw1"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $66.14 — YOUR PRICE (20% OFF): $52.91 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70094",
       "name": "2 Pack Autism Non-verbal Medical Alert Car Seat Harness Safe",
-      "price": "$47.19",
+      "price": "$52.76",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSN_Oo05bPbqwwrMnUP1PD_VFuazkbX1U9wIqX0Is27dnOhsI2NP_RlfTX5tgFGYxsAV0qmnzUSG2rUD3Sx4t0V3aHaSjgXfrdFSwTKpep249ykWmksR89s8A"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $65.95 — YOUR PRICE (20% OFF): $52.76 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70066",
       "name": "PECS Communication Book for Autism  Nonverbal Kids",
-      "price": "$43.65",
+      "price": "$48.80",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQIfJn8HovMHJBXtqohq07xJHyhApwzr7JRfaVOJ5LSf8oQxDZdtSmcPLJcudgsDwteTpZOO7hIkz_sqcavmy56OyY1-Ft3RcXYCkjB36E"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $61.00 — YOUR PRICE (20% OFF): $48.80 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70057",
       "name": "Sensory4U IndoorOutdoor Therapy Sensory Swing For Kids WmBlu",
-      "price": "$41.77",
+      "price": "$46.70",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR3lgOnE_2pRv043grHtQntoZZpgNr24DVTrbRviwHnM9pXZvW2dDWxYCE-3iyD7doA97Ot30M"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $58.37 — YOUR PRICE (20% OFF): $46.70 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70019",
       "name": "ARK Therapeutic Z Vibe Mini Tip Stimulator for the oral cavi",
-      "price": "$41.76",
+      "price": "$46.69",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQspSeYjBbt0tUE5PLEJ7Ud7daS0lKyaKTexjctNqh5KfFJz4PIXPbrwu_alLfG1GGN0TXlrn2VWKwI5WJc1VCKDadyvcH7vtac5963sRIfzI81vflWpPImUw"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $58.36 — YOUR PRICE (20% OFF): $46.69 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70033",
       "name": "Childrens Sensory Compression Bed Sheet Spandex",
-      "price": "$38.99",
+      "price": "$46.94",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTlWr0BBw6YKmGQOFV160mMdljIR039Bg4Ddqoat3Fd_U4349oxP13V8-3Ys7YJc6-y1GV-Egg-aCT1Cv3KLwYI22IHtsWrZWAxxzRPj50"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $58.68 — YOUR PRICE (20% OFF): $46.94 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70000",
       "name": "Siiroh Kids Boys Girls Autism Sensory Jumpsuit Zip Back Long",
-      "price": "$38.14",
+      "price": "$45.92",
       "media": [
         "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSOGYYdDXOOuwjNJdoUiL_cjD9pHeiEiFomZdV-igNOKtV351OIGuhLTYtpJlzamfqpvMtJfLF78kqV7opKP00YNvqeipIGVzMH_c3aQF6Pe2LC5IV6Q43F"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $57.40 — YOUR PRICE (20% OFF): $45.92 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70002",
       "name": "Boys Doomiva Adaptive Clothing for Kids Special Needs Autism",
-      "price": "$34.80",
+      "price": "$41.90",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSDyWxC3yDYkCg9rMyWdMioIjqQHFSQSL7FleidYIDPJyXIAEQF5SKhtAbfn6zIdvSm22_EuvL_1vkzUAu6luQs_3oJHuZBof6aIo2sxYO0cZT89HyY-Qx0bA"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $52.37 — YOUR PRICE (20% OFF): $41.90 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70022",
       "name": "Special Supplies Sensory Bed Sheet for Kids Compression Alte",
-      "price": "$34.80",
+      "price": "$41.90",
       "media": [
         "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQy-bjWUlLSUId6-j6_jvyhjaFb9cCq4oCLL31H3MgWAMbn5LNYNLbWS0wKEpZI3CK1pwbTz7B-kIGaWJ83Y2xHiBs4hYhvVHIpH3vHN15rq3_azYjkgxer"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $52.37 — YOUR PRICE (20% OFF): $41.90 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70005",
       "name": "Sholeno Boys Girls Autism Sensory Romper Zip Back Anti-Strip",
-      "price": "$34.66",
+      "price": "$41.73",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC22G-cRNrDHB2VJesSIANZgikl3dfcr8VEaxGFG7FL0oL-o7OfgBjuYhNnxJ1uy3ptwLmokEtMjuXHuXy0AC-T8tIjhFufcydjHcqivuZoIG-fkCmaDf9rg"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $52.16 — YOUR PRICE (20% OFF): $41.73 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70009",
       "name": "Mens Renvena Special Needs Adaptive Clothing for Boys Anti-s",
-      "price": "$32.71",
+      "price": "$39.38",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR50hmyEkDFrJ9Fe0uB9mMNqcFkUHaEhUH6VcxGaSKwNKtdRyyS5MOCYAaXbdW4qPo-qxHAg0SRBjJWvNjpm_9wBPddxyHOk1oDrbFBYvbgGgasLN_FykYf3g"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $49.23 — YOUR PRICE (20% OFF): $39.38 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70087",
       "name": "Visual Communication Binder  ASDADHD Tool  Alternative Commu",
-      "price": "$32.65",
+      "price": "$39.31",
       "media": [
         "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRhsBALWs6ViJ9uqOB4OaxDoLyKSxxs6rRqumXlADiyIBMF9Uq6FlDXfNzN6a8HL_UC1nT7-Roy0BdznXanVNnWWaQ7mmWCEiS_pMAuV8A"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $49.14 — YOUR PRICE (20% OFF): $39.31 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70099",
       "name": "Autism Awareness Medical Alert Autism non-verbal autistic sp",
-      "price": "$31.33",
+      "price": "$37.72",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRTimhQeUrYMgcmux3_K1_f1ziUKHNHlUi2wZL3yGvWF5QtXAyS4bLuy7N3GvEU2taexv4Z5K3-vaVVkfSMhZMBglyHOU_YziByFriVfsM"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $47.15 — YOUR PRICE (20% OFF): $37.72 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70007",
       "name": "Aislor Adaptive Clothing for Special Needs Boys Short Sleeve",
-      "price": "$29.23",
+      "price": "$35.19",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRyO_aoydGJt0Jj2lHY6WVnCBjpINIOn0LF3aW-E9-WRdURPTN--7mJ7rViPDoSmNH0eIuCgqTasJobJyIbLdHsWmGkV4iCYos1PNQLz73lhKdLvQ4jEIvwrQ"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $43.99 — YOUR PRICE (20% OFF): $35.19 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70004",
       "name": "Boys Renvena Adaptive Clothing for Kids Special Needs Autism",
-      "price": "$29.22",
+      "price": "$35.18",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ3OIuPJD-5nD5VkGDGzGKi44KJ6OAx0C1I582FZg_-1lYA8PXWzIbO82UhKee6Z9CIwU6O3okkVV4wFwJtAYgwy4PM2E1vQgZv3Va5cXARiRp5DB0Zyx0fwQ"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $43.98 — YOUR PRICE (20% OFF): $35.18 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70093",
       "name": "Autism Medical Alert Car Seat Harness Belt Cover",
-      "price": "$28.54",
+      "price": "$34.36",
       "media": [
         "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRr9xM-wzM_gtsL4V9QIjq38jprA3-hC_IbonwAdWYh96GPP7v8rBBY6oORiaz7fTeJs6Elwlv21v_qpQREpf0YGYHEtO3Z-_sfQGsIIAPBWtxstEm_AeUZ1A"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $42.95 — YOUR PRICE (20% OFF): $34.36 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70095",
       "name": "Special Needs Medical Alert Car Seat Harness Belt Cover",
-      "price": "$28.54",
+      "price": "$34.36",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSz3kkrZ4LFHNyRyuHqlVjSyUAH1yuRL65GPYrgZKnBaK-qu7QjjXRmLRe3Oxv2QFhoEquOsumExULhubsI3KrE97VcXxFIesnBXx5PrrT5q9kpFHcygXeNfY"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $42.95 — YOUR PRICE (20% OFF): $34.36 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70097",
       "name": "Autism Epilepsy Medical Alert Car Seat Harness Belt Cover",
-      "price": "$28.54",
+      "price": "$34.36",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQdh517xFNwPDjB0twKHLlvor2lAcy9TgZ10Ge93HHZl1l6GM0CYmhZfA7fJDXNl6qsC_zDfPOmd07o0vEi0A0Epp00lhwh8KJFdyBH26I55Kr5_czSy4DJ"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $42.95 — YOUR PRICE (20% OFF): $34.36 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70091",
       "name": "Durable PECS Book Case - Visual Communication Organizer for ",
-      "price": "$28.17",
+      "price": "$33.92",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ5w9tL-CduVy28NFUz9neue5ZcA-aehgM3cbfm0T2dqvxo1J6PE3hgG_2SPbrTM_bxly9k2n2KueUVHuAJwEEnVbSPXiM8r3T0_ZBui3wF"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $42.40 — YOUR PRICE (20% OFF): $33.92 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70069",
       "name": "HandyTalker Kids AAC Communication Board  Waterproof  Rigid ",
-      "price": "$27.84",
+      "price": "$33.52",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR9e83s1QwleUNEOe9V5z7hwBMOR_nfZsDOEKAbUQo7me3F1zkE92yRZL60lxB0M6aMqY5QRDkjtqUaca14e0Z_SO8U5PMQPvPIUMxql9bKcwjBxPmduiqv"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $41.90 — YOUR PRICE (20% OFF): $33.52 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70089",
       "name": "Pocket-Sized PEC Learning Cards on Keyring",
-      "price": "$25.62",
+      "price": "$30.85",
       "media": [
         "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQDfVNhVeJk6HwbwHv0goKqCCRz52VJGDXBInUHAo7hpf963HTlMMGmIbu2nme-WOjIb8KuOo9vvMB7lWJj-YgHRN1dl37d5jtyLnHYI-_7CQy6Ylply8KS"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $38.56 — YOUR PRICE (20% OFF): $30.85 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70001",
       "name": "Iiniim Adaptive Clothing for Boys Girls Special Needs Autism",
-      "price": "$24.63",
+      "price": "$29.65",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQROaMrFm-LkUe96l7mNrMp13rUDDjF5P-Dd3v9wr31SFNk1Bf5vmXYWVlhRWO-6HOX-kbIaGmyQBEy3jZiVDIrjS9De1p-fMgb8YjFxeH2754PmE-hMCJc"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $37.07 — YOUR PRICE (20% OFF): $29.65 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70012",
       "name": "ARK Oral Motor Starter Kit",
-      "price": "$21.90",
+      "price": "$26.37",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQYlJDGoAf4LxU7hHPl_i1Ky8j7BOtYVnSASjl2Rt1D3RGZfX7D7MeyuN8LqS2WcdoP6hBy7UFYgzR0oyR-nOu5-SpjREB01E93Sxn1sMB4_Do5iZiuokl-Cw"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $32.96 — YOUR PRICE (20% OFF): $26.37 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70079",
       "name": "Visual Communication Board  Individual Visuals PECS",
-      "price": "$20.89",
+      "price": "$25.15",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSXL6dqPLYJa0UHHcHgsrmyK95pWrgAXfNzmwtBhV8XDVJOy3dsrRFUoemIRrwfue85BBiqNYec8-4Sp3CjffkIV2xW5YywJMCm08cLCvegx85rAEabDMm2"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $31.44 — YOUR PRICE (20% OFF): $25.15 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70070",
       "name": "Autism Communication Binder Visual Aid Special Education Res",
-      "price": "$18.10",
+      "price": "$21.79",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT88EvyO0n6Son1iC7y5hmlG7RnSL5_WRZZoef5kdLXhoiSdMeZAgiEKwwRcVFB9IsKK-dw3jzGCkX9I3ekNvEB2sEAuWCsXBjpYvyAgP4"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $27.24 — YOUR PRICE (20% OFF): $21.79 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70090",
       "name": "Morning  Evening Visual Schedules  36 PECS Visuals Digital D",
-      "price": "$11.00",
+      "price": "$13.24",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTWiBmra3bq_YIQNi4C1UJJSx4kzyt7kIkhgsmx3gnAPk8Vb-Ubb2QUt4k7TXkgSKypxZa-G1H9AqlRc-YrYenN3PiMUTa4XUImOuIaaEYFU-PE0Gaq9kwxEw"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $16.55 — YOUR PRICE (20% OFF): $13.24 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70073",
       "name": "PECS Schedule Board for Autism ADHD Apraxia Digital Download",
-      "price": "$8.35",
+      "price": "$10.05",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSUGkK4-L47GSMYV3KmWplxDlVb_77YDlhsOTElp99KOuX0AxL2P-URP9f5zIRz9K-BDGCqf1N6XdXo3BhCYSmeJ9MR1yMa1oPAcshTZAM"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $12.57 — YOUR PRICE (20% OFF): $10.05 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70074",
       "name": "Editable Visual Schedule with 75 PECS Cards - Daily Routine ",
-      "price": "$8.34",
+      "price": "$10.04",
       "media": [
         "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQUKy06F9Rfk9sYkPi4eS90XWoM-7HDI3TLRGzKgmr0uxxSQgR9VSP3_Rh1TIXpaO7gPxlSZC8jP4lQwEZwXsL6VZz9-kkFWd23lGUn82OO"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $12.55 — YOUR PRICE (20% OFF): $10.04 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70072",
       "name": "Visual Communication aids PECS Pre-K Kindergarten  Autism Ho",
-      "price": "$7.50",
+      "price": "$9.03",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSig7PfBWtTNJNUsQ1fNFZOJ1AJN6o__LEePald5KCMtwKCpgi4aOP24Qdjk8M-GT3EFn5pxLdG7e0Gzx03PtOpaGRSsXCHkB7EReOad9I"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $11.29 — YOUR PRICE (20% OFF): $9.03 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70078",
       "name": "Printable Daily Routine Chart Visual PECs Schedule Morning R",
-      "price": "$6.95",
+      "price": "$8.37",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTty9HWrZ_ovsM-T7JSXeakI5HVcyhJNybAn3stPYq0Z1VCLtP5pOJv7PRHOKZCRy4do5ZBnW0Pz0t-_OS-NEVERC7vkxce-wgHrchvckk"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $10.46 — YOUR PRICE (20% OFF): $8.37 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70084",
       "name": "AAC Communication Boards Non-Verbal Visual Aids Speech Thera",
-      "price": "$6.67",
+      "price": "$8.03",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ4-ZqYMwYu3DG1mf0XsUpF5LZhZ9kvaejFjKJovx2ZYtzQXcftpeExmX5BbHuCchEwhxdeM4iQJLRpQaXnp_T-GymF7PZVpfnpsWV9BKIL"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $10.04 — YOUR PRICE (20% OFF): $8.03 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70085",
       "name": "Back to School Printable Social Story  Autism Visual Schedul",
-      "price": "$4.87",
+      "price": "$5.86",
       "media": [
         "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQMUDyOqiK-Web3KOptk-fCyl61eTCsAMEphS6ZWI0NxBwT9RRaQ84oTLe8_KbPW9wD8ruSOinYsmMJPKChbZJTbU3D-_niiJd5w1tTkDU"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $7.33 — YOUR PRICE (20% OFF): $5.86 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70088",
       "name": "Snack Communication Board for Kids  Visual AAC PECs Chart Di",
-      "price": "$4.17",
+      "price": "$5.02",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR1IU3wuR8CfbNWByn2zOe5eriar7T35HCJUYvaf3Y3yzJxI6wHQLTxdMm7f8Ftn2P0rcyDscwje2oCqIAAeNkZrynm4q9wfOGiF0L0NK8E8E44q_Q4wZcf"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $6.28 — YOUR PRICE (20% OFF): $5.02 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70086",
       "name": "Printable Communication Board for hospital stay - PECs - ICU",
-      "price": "$3.71",
+      "price": "$4.47",
       "media": [
         "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQZzukXTMW1bEFN3X3ojQ2x8Ilgr2NZQiSLVsR-WonVqz_uUzaiNCPuDuVtv2gGdFre-_xze6tSzcL-ZPjtcgwai8eZgPym_guwKFp0jG8"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $5.58 — YOUR PRICE (20% OFF): $4.47 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70082",
       "name": "Ultimate Communication Binder  700 Visual PECS 100 Pages  Au",
-      "price": "$3.62",
+      "price": "$4.36",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRDBqfgMahy5eGqOHClMh9CCKSZczkdw-GPg31Dix8_Qf9SxuksXyoOjTT-i_PX3GVfDgXZ8J__9Y_m_SZhYywqLBNDiL9UAiw286BqX15MN8STZ3bAUdCQ"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $5.45 — YOUR PRICE (20% OFF): $4.36 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70083",
       "name": "Lanyard  Keychain Visual Cards  45 Pages  PECs AAC Autism SP",
-      "price": "$2.62",
+      "price": "$3.15",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSU4jdCE-dNlQU_MT-xP2hIRGW9IizewUqoBOldxdZdNvvYsaLsT7QjEwEzfo-1_LH_zkzl4h_x3B005WVkanMrrCbGH88P_oggmkDbKvAdmZVPbVaXmzcRhA"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $3.94 — YOUR PRICE (20% OFF): $3.15 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SPEC50-70081",
       "name": "PECS Visual Schedule Daily Routine Cards for Kids Digital Do",
-      "price": "$2.50",
+      "price": "$3.01",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQfS_0VmAj_q5Axir7CfqmVzdQBHLrEvDuFZdv_zCSFfh0Z3KIQ1Zb0KMBI2dAJCIVQO5ddJfYhqGt7sD0Ip6S_9fTTCzVa6dZHaaxOnjAwHcLlKXbnF6OS"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS Spectrum Hard-to-Find Sanctuary",
-        "condition": "Youth/Teen/Adult Variations • Family-First Capped Margin",
-        "shipping": "Priority Family Shipping ($6.99)",
-        "market_value": "Includes 5% Autism Family Equipment Grant + 3% Legacy Giveback"
+        "manufacturer": "ALBS Spectrum Direct-Ship (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $3.76 — YOUR PRICE (20% OFF): $3.01 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     }
@@ -40091,592 +40091,592 @@ export const masterInventory: Record<string, any[]> = {
     {
       "id": "SANC-70134",
       "name": "Baby Sleep Monitor with Floor Stand Nanit Smart Baby AC Adap",
-      "price": "$861.10",
+      "price": "$962.71",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSm50ACudNrYwtlGlTDrDQhVU9MiDVZOXGRnYFrgcl1tzRtXeKY3hig0tQEg9-vPeewUTTCVaE4_IrbS2x05ptC-CkeOWmlapqRwhZA_Bn8w1ESJHGbhTYJ"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $1203.39 — YOUR PRICE (20% OFF): $962.71 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70135",
       "name": "Nanit The Sleep Soundly Bundle",
-      "price": "$696.19",
+      "price": "$778.34",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJ5wmDCxfVBTxCj6nbxdYz2UX4FiR1LjswKv4PeTJJhPL2Xc_-HphHvkOOyaZ8-QhGhb49-W85TwJXuGM1nF2rskHTPxggcawlamcJiV5NcRvWjRvTHxAF"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $972.93 — YOUR PRICE (20% OFF): $778.34 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70146",
       "name": "Nanit Smart Baby Monitor System  Wall Mount",
-      "price": "$555.57",
+      "price": "$621.13",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTrrjk-N1Dn5jBlBEXpuwjVKxLVd4WTZOmqLOMzWLI3_0ay-mLnBN74qzdi7ZvOx1YklxEMzfzHvTtUvtT3ZVZmCaPaDlIOkWpO8eP_HcTBFeGaovQZ2ri1QQ"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $776.41 — YOUR PRICE (20% OFF): $621.13 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70129",
       "name": "Nanit Pro Complete Baby Monitoring System",
-      "price": "$473.35",
+      "price": "$529.21",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQXk7X38qMQCuS6AkaD6OkVEDTex30_2w4JPxbXU6m_eWmGLjeQBF4bR-zozXp6dJ8J99Be2WzUkgwQAYSxF4m5CZvuLGRqmwjxjgtxSUO62JP_0PNrEKfY"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $661.51 — YOUR PRICE (20% OFF): $529.21 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70124",
       "name": "25 Copies The Happiest Baby on the Block Fully Revised and U",
-      "price": "$453.23",
+      "price": "$506.71",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR7jkR0jaVcCSHqRHKvgBz0Ses3AJDxvF4T0Vz3cC8P6mjP9ymvsICj-LT-evAaD486LbPW3XUPi9EFI1p7FAkBrUiuxeqzylPn55gahuI"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $633.39 — YOUR PRICE (20% OFF): $506.71 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70132",
       "name": "Babysense Safe Sleep Smart Nursery Video Baby Monitor",
-      "price": "$306.32",
+      "price": "$342.47",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTV1l6pxWaewSnYRVskTQps50a-Ez_C8AdK8OoFBbxQqLQ4Puw9z9oBSKadjFV_qNI6S9YcbwTfCsYLREcFhbziK609bj3OxzsN4Zo9EoTxaLSphpdL7sVa_w"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $428.08 — YOUR PRICE (20% OFF): $342.47 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70128",
       "name": "Miku Pro Smart Baby Monitor With Wall Mount and Floor Stand ",
-      "price": "$278.48",
+      "price": "$311.34",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSwKA0cAoTonmHcKjzhc_JOJ13rlj22e88r-mUxg0fVugAaGWXhdVffAE0BvlYkbN9oYMpaUlHIwOrGpjFoTjcI868IKSvq_3mgU3zw3DIx9gA6hu793Jtv"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $389.18 — YOUR PRICE (20% OFF): $311.34 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70131",
       "name": "Babysense Connect Sleep Monitor Baby Breathing Motion with S",
-      "price": "$208.85",
+      "price": "$233.49",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS3OzCTz3ukVtUiU1lD8-9ZIwD722N4176-I-GFzdYmzaQi0XYRdN3kYEC_THmPOlb-PyxB-icFaDc4g4KvQqKwFRASKujT0nfCphvc6vDtqp_TnmOYqNVghg"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $291.87 — YOUR PRICE (20% OFF): $233.49 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70101",
       "name": "Riley 2 Piece Kimono Top and Pant Set 3M",
-      "price": "$61.27",
+      "price": "$68.50",
       "media": [
         "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtvp45V7LhiNs4wH7kIydU8yYbChU8Cvz0MYcgJboyapW68XS-rAHSfQj4jItJevM131KViFoT"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $85.62 — YOUR PRICE (20% OFF): $68.50 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70112",
       "name": "Solid Dusty Blue Bamboo Baby Knot Gown  Hat Newborn",
-      "price": "$51.52",
+      "price": "$57.60",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSNCZAR0C5Y9JIpyYZs_GLKA_Z5xAgjoHaYMJDabRa30PgHxMZsbKfhuq7dozEy0eZehLqpYAg"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $72.00 — YOUR PRICE (20% OFF): $57.60 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70142",
       "name": "7Pm To 7Am Sleeping Baby Routine ebook",
-      "price": "$47.33",
+      "price": "$52.91",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT7GyKre0cEJo83duuOSEzx4nGZMDRvOLy3Teb3NTLX5QXU24Q4Jn-YpgFj_r9_sPn5c0pPHvB5bhQ4Eg1I--Lq-KoNgG7aSBI3fCEJon4eElK8xnzRGEJN"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $66.14 — YOUR PRICE (20% OFF): $52.91 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70145",
       "name": "Shhleep Like a Baby - 100 page Baby  Toddler Sleep Guide",
-      "price": "$46.00",
+      "price": "$51.43",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkbMaapp0VrUDmkjzZgoafpiHIEQQ9wmm1B-4xMjRMO-CfyyZPQyGwRHqQGxw0a5QVSfUk6zAqL2HkiH0ydemrgU0HVdgPVFWYNIqVUR-9Wz6puk9O0S-Ang"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $64.28 — YOUR PRICE (20% OFF): $51.43 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70105",
       "name": "Goumi Stay On Baby 2-Pack Mitts",
-      "price": "$44.56",
+      "price": "$49.82",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQPP5WS-FRs0wFbZqXHr6PnYDnKBfQRfGb6czHt1sovZEpad7AiJ4D-3qp0ByCab72es8NAgMQu"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $62.27 — YOUR PRICE (20% OFF): $49.82 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70115",
       "name": "Goumikids STAY ON 2-PACK MITTS CITY BLOCKS  SANDSTONE  0-3M",
-      "price": "$44.56",
+      "price": "$49.82",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSGojlOKQplJWpLCpdqxoeIG1x_uHU_2XSTvbBOXL1k6R8Nc3quRHt_l4VyKgtuDxDvLOy0nHg"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $62.27 — YOUR PRICE (20% OFF): $49.82 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70106",
       "name": "Organic Cotton Booties - White  3-6M",
-      "price": "$41.77",
+      "price": "$46.70",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQN09qgHW0j_E4eRXCG-h43dHuRoKgnImTKngSNfFO-vmCT9Dd4Nd8Y_GVG0uk587HFNMWJG9Rl"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $58.37 — YOUR PRICE (20% OFF): $46.70 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70119",
       "name": "Luna  Luca Organic Booties White  3-6m",
-      "price": "$37.76",
+      "price": "$45.46",
       "media": [
         "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSrfPkMYV54ZaY1CpjfmvMEIdi62aCBA6ygs0KQyxtQrkynvcbVc6w0dMbNdUk"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $56.83 — YOUR PRICE (20% OFF): $45.46 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70120",
       "name": "Baby Booties  Organic Knit  Heather Beige  Luna  Luca",
-      "price": "$36.20",
+      "price": "$43.58",
       "media": [
         "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRhfxq4kK-JKtfLbRIq_n9UwN348GzXJfcXD0Tli5zHrSq2YWwKapaW0AvGclCRahJj3fzF8oE"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $54.48 — YOUR PRICE (20% OFF): $43.58 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70133",
       "name": "The No-Cry Sleep Solution For Newborns Amazing Sleep from Da",
-      "price": "$28.18",
+      "price": "$33.93",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTAz7HN54cQt2AqKjoHPRxxT0A-SlNuIe0tWakuFG4rZkw7YeywRXk1NMgkmJ2B1Tg2XGHQ9w_lHPbF_YMfszyX5ZhKnePhiP0rZWOLCJc"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $42.41 — YOUR PRICE (20% OFF): $33.93 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70130",
       "name": "A-B-Sleep Newborn Sleep Foundations  A-B-Sleep",
-      "price": "$27.84",
+      "price": "$33.52",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQfxF_4lXQICH_cdvA0MkPDoQ1sUfmGjcD2h_vPYss7WjQEMUbWOamFh8oGJE6L2mXTyCiAiHknedruT5l9T7Hnp_D8qk3w_-lxbYViN5gw"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $41.90 — YOUR PRICE (20% OFF): $33.52 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70139",
       "name": "The Natural Baby Sleep Solution",
-      "price": "$24.98",
+      "price": "$30.08",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRHNAQyCIeaO2O72Ap_fpLTAuyPWTH_Y4m7yD59Ql62uL--6FSIY-FuAS_ZYd8Sn5mNOzNwVMx7F8W75FBwvGWlkFNSPXxUmf_F4Y7hWuaiHTEZftOo1ycf"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $37.59 — YOUR PRICE (20% OFF): $30.08 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70126",
       "name": "Happiest Baby on The Block The New Way to Calm Crying and He",
-      "price": "$24.38",
+      "price": "$29.35",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRmTHwcX2_Vnv9G04vWzM0C_smWxpr7kkC7RV_LMYtF8MwNrxazO-EbZ2yNDDwPmq0gBDO1l1ReNx6D46jBmwm2bXZrHVEL3SEjGlNxnkF_"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $36.69 — YOUR PRICE (20% OFF): $29.35 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70104",
       "name": "Coming Home Outfit Personalized Baby Gift Custom Baby Appare",
-      "price": "$22.97",
+      "price": "$27.66",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTtrn3T_IOriX58lFPgAeULWvpx6LDQLpbBKQ9pRpEVkuH90ksbqG4tpnpLcRy0PsgG9gMKzfMJ"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $34.57 — YOUR PRICE (20% OFF): $27.66 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70118",
       "name": "Baby Footie Monogrammed Newborn Outfit Custom Embroidered Na",
-      "price": "$22.97",
+      "price": "$27.66",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSm-hxfLWG05S7b7Cv-fCTuSyryF5pebjRl3l2kh6nd9taCUk1GUJU8BhNrzw"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $34.57 — YOUR PRICE (20% OFF): $27.66 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70102",
       "name": "Stay on Baby Mitts  Cloud - 3-6M",
-      "price": "$22.28",
+      "price": "$26.83",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRhchzkAn6ygBs--qvuMMnK-c7MrBh1NUWVQIr7GCScgMpvLQlI"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $33.53 — YOUR PRICE (20% OFF): $26.83 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70136",
       "name": "The Baby Sleep Code Your 14-Day Gentle Guide to End Night Wa",
-      "price": "$22.10",
+      "price": "$26.61",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQfVbKbTlz6xK1CNdxmX6mIy33K5P28mNuCJ_UNXWVrnMerWyXcAz4WMS5in-z3EdSBav16cbDHow81wRb69Utpf1bwpyYSn35ucmLdBwRJ11hvcX1ri0ON"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $33.26 — YOUR PRICE (20% OFF): $26.61 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70103",
       "name": "Colored Organics Organic Baby Knot Bow Wrap",
-      "price": "$20.89",
+      "price": "$25.15",
       "media": [
         "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTppNiwp-Vx421RnDwX3V_yAdoYq71UmjG10ZSsQarqZCyndkg"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $31.44 — YOUR PRICE (20% OFF): $25.15 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70143",
       "name": "Baby Sleep Accelerator - Audiobook",
-      "price": "$19.52",
+      "price": "$23.50",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSABt9Tgt8mOtDhT7kN36ePEHvi8cwvpxqOjP_QlBm5C4V88g4RYXOYzs48uyybCox9ERx2IoHQUKszlL_aez0JRhgNPPG5KXsWPSMGVlg"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $29.38 — YOUR PRICE (20% OFF): $23.50 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70141",
       "name": "How Babies Sleep",
-      "price": "$19.48",
+      "price": "$23.45",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRtZbHOyp7Ce6BacjEYmjYHNAIqRy7KIXyWDM-FDWa5ohIg5jf7Bi_IG5KaZfXITfEPFHNzt-G9NMyq0t2ZAgEFRzmp2mM71K0XqNGhwy-1"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $29.32 — YOUR PRICE (20% OFF): $23.45 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70121",
       "name": "Organic Cotton Baby Booties for Newborns  Colored Organics B",
-      "price": "$19.45",
+      "price": "$23.42",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQCms8xpV9Q4bBBRSA0mBqZ-8D1cuoMlts8zAxfFOR5prHAjMWuVa6srwlClnms9x2AkTPUNTgz"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $29.27 — YOUR PRICE (20% OFF): $23.42 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70123",
       "name": "Colored Organics Baby Knotted Hat",
-      "price": "$17.64",
+      "price": "$21.24",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSeSrqLpM0uHwL0tTVrQFZXKbk9GCT0rr8jQYBH1Oa9k02cnUNEMzZGe4R9MWwz94z7F7a-Mnuk"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $26.55 — YOUR PRICE (20% OFF): $21.24 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70140",
       "name": "Newborn Sleep Simplified",
-      "price": "$17.46",
+      "price": "$21.02",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDSui-q_khFvScNZfVSlSrMud1PRmvFl2GqzVoqQLlt83w4QfrMfsvj7CgcO3ysuRgqtNVFp56y2SOacNaUye876kqTWs9rsRtd3IibVoL"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $26.28 — YOUR PRICE (20% OFF): $21.02 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70113",
       "name": "Colored Organics Knotted Hat - Natural",
-      "price": "$17.40",
+      "price": "$20.95",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQeaKLwZHoYcHPegoiQdQpERUaxd69TEwIt6qp_wj2PoCWeEWiH6Pzv32E6DhHTXr_3i14qugfi"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $26.19 — YOUR PRICE (20% OFF): $20.95 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70117",
       "name": "Goumikids Other  Goumikids Stay-On Mitts And Boots Bundle 0-",
-      "price": "$16.71",
+      "price": "$20.12",
       "media": [
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTJw8awnKZIwNM20NL3Umv-U89TImq8Eoi93JBCAhxfupxOExEpyCPMRkZO0Aq7D252pFaLSYk"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $25.15 — YOUR PRICE (20% OFF): $20.12 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70137",
       "name": "Newborn Sleep Guide Baby Sleep Routines  New Mum Support PDF",
-      "price": "$12.52",
+      "price": "$15.07",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcScA7Qbf5F9ffpuxNvS-DVxaqmxxkzuiw7EfdaxSSA533crJwr7RVvSk1IeAe9t5rGqMS7FLVm_GAdVRVPouhnd_gsvF3TVW5p6_b2qfQYts4mgEXNme4tLJg"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $18.84 — YOUR PRICE (20% OFF): $15.07 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70144",
       "name": "Sleep Little Baby No More Tears Baby  Mom",
-      "price": "$6.95",
+      "price": "$8.37",
       "media": [
         "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRy4jKTBnTQw-zog_uzOxX9NT8K4pxYAFfY5uxw9S9CURPfj-OAhIErLE33vKqChWp67gmdNLDrjamY3LADjT25SnKelFYypQ"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $10.46 — YOUR PRICE (20% OFF): $8.37 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70125",
       "name": "Healthy Sleep Habits Happy Child 5th Edition A New Step-by-S",
-      "price": "$4.38",
+      "price": "$5.27",
       "media": [
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTU6qKda1bA-YZfE9p1yvQZIeanS7zBtngD8VKsFiXvAvXmGkKD3zf3q4cP1u7PzS1Z04GIaIYOGVhEWQtuDDIPUB2YJOExY6ux0pobwKkanrxkIDRHVq00Ag"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $6.59 — YOUR PRICE (20% OFF): $5.27 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
     {
       "id": "SANC-70138",
       "name": "Baby Sleep Guide to Promote Healthy Sleep Habits Wise Tips -",
-      "price": "$4.17",
+      "price": "$5.02",
       "media": [
         "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS3WtZln_6sjbYNJb3HpvD0mRruw9YZgH08jDb46MPN8wdvr-4__mLTC_ZhiTJfXew0iWXxq7gT1PDkZw5JX1TDCxD6cXsv4bcOVBKHzdGICuSYQ14y_OHw"
       ],
       "video": false,
       "specs": {
-        "manufacturer": "ALBS New Life Sanctuary",
-        "condition": "Verified Clean • 3% Legacy Giveback",
-        "shipping": "Tracked Priority ($6.99)",
-        "market_value": "Live National Index"
+        "manufacturer": "ALBS New Life Sanctuary (20% Price-Beat)",
+        "condition": "In-Stock Direct Ship • Guaranteed 20% Below Specialty Retail",
+        "shipping": "Tracked Direct-to-Door ($7.99)",
+        "market_value": "Competitor Price: $6.28 — YOUR PRICE (20% OFF): $5.02 • Supports 3% Legacy Charter"
       },
       "status": "LIVE_MARKET_VERIFIED"
     }

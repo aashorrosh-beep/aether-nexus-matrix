@@ -114,7 +114,7 @@ export default function MallOfMallsLobby() {
             {/* CENTER HEART: SPECTRUM AUTISM SUPERSTORE & NEW LIFE EXPECTING BABY SANCTUARY */}
             <div className="lg:col-span-6 bg-gradient-to-b from-emerald-950 via-black to-cyan-950 border-2 border-yellow-400 rounded-3xl p-6 space-y-5 shadow-[0_0_50px_rgba(16,185,129,0.3)]">
               <div className="text-center space-y-1 border-b border-emerald-800/60 pb-3">
-                <span className="bg-yellow-400 text-black text-[10px] font-black uppercase px-3 py-1 rounded-full tracking-widest">❤️ THE HEART OF ALBS • 5% DIRECT FAMILY GRANT + 3% LEGACY CHARTER</span>
+                <span className="bg-yellow-400 text-black text-[10px] font-black uppercase px-3 py-1 rounded-full tracking-widest">❤️ THE HEART OF ALBS • 20% BELOW SPECIALTY RETAIL • 3% LEGACY IMPACT CHARTER</span>
                 <h3 className="text-2xl md:text-3xl font-black uppercase text-white pt-1">Autism & New Life Family Sanctuary</h3>
                 <p className="text-xs text-emerald-300 font-mono">1% Texas Children s Hospital • 1% Autism Family Fund • 1% Military Veterans</p>
               </div>
