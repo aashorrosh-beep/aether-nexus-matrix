@@ -25,7 +25,7 @@ export default function DynamicStorefront() {
         requiresClearinghouse: isLuxury, refundPolicy: isLuxury ? "50_PERCENT_REFUNDABLE_ESCROW" : "STANDARD_RETAIL"
       };
 
-      const backendUrl = process.env.NEXT_PUBLIC_API_URL || ''; 
+      const backendUrl = ''; 
       const response = await fetch(`${backendUrl}/api/checkout`, {
         method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload),
       });
