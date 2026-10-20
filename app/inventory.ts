@@ -32582,7 +32582,7 @@ export const masterInventory: Record<string, any[]> = {
     },
     {
       "id": "WELL-12074",
-      "name": "Wholesale GHK-Cu Blue Copper Peptides  EGF kin Care Product ",
+      "name": "Wholesale GHK-Cu Blue Copper Peptides  EGF Skin Care (Wholesale Bulk 6-Bottle Case)",
       "price": "$253.29",
       "media": [
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQleon1vMZOmSw_fPnC4Nw_Qjr7n_lxSY1g5li6TfNLKnswklY_BhSvq7pNTsfhScCJcSkv94hGYj1hfvPO3t2sHK4RiIuvOnl4uDLbfh57Gqa22jTcXyZ12A"
@@ -32590,9 +32590,9 @@ export const masterInventory: Record<string, any[]> = {
       "video": false,
       "specs": {
         "manufacturer": "Nexus BioLabs",
-        "condition": "Factory Sealed / DSHEA Compliant",
+        "condition": "Wholesale Bulk Case: 6 x 30mL (180mL Total) • 99%+ Pure GHK-Cu Copper Tripeptide-1 + EGF Renewal Complex • Factory Sealed",
         "shipping": "Tracked Priority ($7.99)",
-        "market_value": "Live Google Shopping Index"
+        "market_value": "Wholesale Bulk Allocation ($40.88/unit x 6 Bottles + $7.99 Priority Shipping)"
       },
       "status": "LIVE_MARKET_VERIFIED"
     },
