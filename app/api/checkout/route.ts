@@ -1,48 +1,64 @@
-import { NextResponse } from 'next/server';
+import { NextResponse } from "next/server";
+import Stripe from "stripe";
+
+const stripe = new Stripe(process.env.STRIPE_SECRET_KEY || "", { apiVersion: "2023-10-16" as any });
+
+function getTieredShipping(price: number) {
+  if (price < 100) return 3.99;
+  if (price < 250) return 5.99;
+  if (price < 500) return 9.99;
+  return 14.99;
+}
 
 export async function POST(req: Request) {
   try {
     const body = await req.json();
-    const stripeKey = process.env.STRIPE_SECRET_KEY || ["sk_live_", "51UDBDfE", "LFHKiJkR", "nQ2Gt1zU", "QDhMNP1g", "q4RkMAEE", "zxrWodCa", "ZDLCvZaG", "QrIOfgGS", "EYyI1JtK", "Bub79CNU", "zf90VHRY", "u00gNiES", "BDi\n"].join("");
+    const itemPrice = Math.max(1, parseFloat(String(body.price || "29.99").replace(/[^0-9.]/g, "")));
+    const itemName = body.name || "ALBS Nexus Verified Item";
+    const shippingCost = getTieredShipping(itemPrice);
 
-    // Fallback direct payment link if STRIPE_SECRET_KEY is not yet in Vercel env
-    if (!stripeKey) {
-      if (process.env.NEXT_PUBLIC_STRIPE_PAYMENT_LINK) {
-        return NextResponse.json({ url: process.env.NEXT_PUBLIC_STRIPE_PAYMENT_LINK });
-      }
-      return NextResponse.json({ error: 'Missing STRIPE_SECRET_KEY in environment' }, { status: 500 });
-    }
+    // Tally Item + Tiered Shipping + Customer Card Processing (2.9% + $0.30)
+    const subtotal = itemPrice + shippingCost;
+    const grandTotal = Number(((subtotal + 0.30) / (1 - 0.029)).toFixed(2));
+    const processingFee = Number((grandTotal - subtotal).toFixed(2));
 
-    const rawPrice = String(body.price || body.item?.price || '253.29').replace(/[^0-9.]/g, '');
-    const amountCents = Math.max(50, Math.round(parseFloat(rawPrice || '253.29') * 100));
-    const productName = body.title || body.name || body.item?.title || body.item?.name || 'ALBS Nexus Mall Order';
-    const origin = req.headers.get('origin') || 'https://aether-nexus-matrix.vercel.app';
+    const origin = req.headers.get("origin") || "https://aether-nexus-matrix.vercel.app";
 
-    const params = new URLSearchParams();
-    params.append('mode', 'payment');
-    params.append('success_url', `${origin}/?checkout=success`);
-    params.append('cancel_url', `${origin}/?checkout=cancelled`);
-    params.append('shipping_address_collection[allowed_countries][0]', 'US');
-    params.append('line_items[0][price_data][currency]', 'usd');
-    params.append('line_items[0][price_data][product_data][name]', productName);
-    params.append('line_items[0][price_data][unit_amount]', String(amountCents));
-    params.append('line_items[0][quantity]', '1');
-
-    const stripeRes = await fetch('https://api.stripe.com/v1/checkout/sessions', {
-      method: 'POST',
-      headers: {
-        'Authorization': `Bearer ${stripeKey}`,
-        'Content-Type': 'application/x-www-form-urlencoded',
-      },
-      body: params.toString(),
+    const session = await stripe.checkout.sessions.create({
+      payment_method_types: ["card"],
+      mode: "payment",
+      line_items: [
+        {
+          price_data: {
+            currency: "usd",
+            product_data: { name: itemName, description: "Item Price: $" + itemPrice.toFixed(2) + " | Shipping: $" + shippingCost.toFixed(2) },
+            unit_amount: Math.round(itemPrice * 100)
+          },
+          quantity: 1
+        },
+        {
+          price_data: {
+            currency: "usd",
+            product_data: { name: "Tiered Tracked Shipping ($" + shippingCost.toFixed(2) + ")", description: itemPrice >= 100 ? "Over-$100 Insured Priority Tier" : "Standard $3.99 Ground Tier" },
+            unit_amount: Math.round(shippingCost * 100)
+          },
+          quantity: 1
+        },
+        {
+          price_data: {
+            currency: "usd",
+            product_data: { name: "Card Processing Fee (2.9% + $0.30)", description: "Customer Pass-Through Processing" },
+            unit_amount: Math.round(processingFee * 100)
+          },
+          quantity: 1
+        }
+      ],
+      success_url: origin + "/?checkout=success",
+      cancel_url: origin + "/?checkout=cancelled"
     });
 
-    const session = await stripeRes.json();
-    if (session.url) {
-      return NextResponse.json({ url: session.url });
-    }
-    return NextResponse.json({ error: session.error?.message || 'Stripe session failed' }, { status: 400 });
+    return NextResponse.json({ url: session.url });
   } catch (err: any) {
-    return NextResponse.json({ error: err.message || 'Server error' }, { status: 500 });
+    return NextResponse.json({ error: err.message }, { status: 500 });
   }
 }
