@@ -1129,7 +1129,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1145,7 +1145,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1161,7 +1161,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1177,7 +1177,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1193,7 +1193,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1209,7 +1209,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1225,7 +1225,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1241,7 +1241,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1257,7 +1257,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1273,7 +1273,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1289,7 +1289,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1305,7 +1305,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1321,7 +1321,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1337,7 +1337,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1353,7 +1353,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1369,7 +1369,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1385,7 +1385,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1401,7 +1401,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1417,7 +1417,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1433,7 +1433,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1449,7 +1449,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1465,7 +1465,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1481,7 +1481,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1497,7 +1497,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1513,7 +1513,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1529,7 +1529,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1545,7 +1545,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1561,7 +1561,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1577,7 +1577,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1593,7 +1593,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -1609,7 +1609,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -3692,7 +3692,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -3708,7 +3708,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -3724,7 +3724,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -3740,7 +3740,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -3756,7 +3756,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -3772,7 +3772,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -3788,7 +3788,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -3804,7 +3804,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -3820,7 +3820,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -3836,7 +3836,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -3852,7 +3852,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -3868,7 +3868,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -3884,7 +3884,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -3900,7 +3900,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -3916,7 +3916,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -3932,7 +3932,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -3948,7 +3948,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -3964,7 +3964,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -3980,7 +3980,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -3996,7 +3996,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4012,7 +4012,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4028,7 +4028,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4044,7 +4044,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4060,7 +4060,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4076,7 +4076,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4092,7 +4092,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4108,7 +4108,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4124,7 +4124,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4140,7 +4140,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4156,7 +4156,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4172,7 +4172,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4188,7 +4188,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4204,7 +4204,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4220,7 +4220,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4236,7 +4236,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4252,7 +4252,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4268,7 +4268,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4284,7 +4284,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4300,7 +4300,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4316,7 +4316,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4332,7 +4332,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4348,7 +4348,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4364,7 +4364,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4380,7 +4380,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4396,7 +4396,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4412,7 +4412,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4428,7 +4428,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4444,7 +4444,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4460,7 +4460,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4476,7 +4476,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4492,7 +4492,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -4508,7 +4508,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5355,7 +5355,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5371,7 +5371,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5387,7 +5387,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5403,7 +5403,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5419,7 +5419,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5435,7 +5435,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5451,7 +5451,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5467,7 +5467,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5483,7 +5483,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5499,7 +5499,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5515,7 +5515,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5531,7 +5531,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5547,7 +5547,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5563,7 +5563,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5579,7 +5579,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5595,7 +5595,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5611,7 +5611,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5627,7 +5627,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5643,7 +5643,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5659,7 +5659,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5675,7 +5675,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5691,7 +5691,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5707,7 +5707,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5723,7 +5723,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5739,7 +5739,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5755,7 +5755,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5771,7 +5771,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5787,7 +5787,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5803,7 +5803,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5819,7 +5819,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5835,7 +5835,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5851,7 +5851,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -5867,7 +5867,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6322,7 +6322,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6338,7 +6338,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6354,7 +6354,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6370,7 +6370,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6386,7 +6386,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6402,7 +6402,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6418,7 +6418,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6434,7 +6434,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6450,7 +6450,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6466,7 +6466,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6482,7 +6482,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6498,7 +6498,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6514,7 +6514,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6530,7 +6530,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6546,7 +6546,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6562,7 +6562,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6578,7 +6578,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6594,7 +6594,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6612,7 +6612,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6628,7 +6628,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6644,7 +6644,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6660,7 +6660,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6676,7 +6676,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6692,7 +6692,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6708,7 +6708,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6724,7 +6724,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6740,7 +6740,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6756,7 +6756,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6772,7 +6772,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6788,7 +6788,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6804,7 +6804,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6820,7 +6820,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6836,7 +6836,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6852,7 +6852,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6868,7 +6868,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6884,7 +6884,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6900,7 +6900,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6916,7 +6916,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6932,7 +6932,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6948,7 +6948,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6964,7 +6964,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6980,7 +6980,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -6996,7 +6996,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -7012,7 +7012,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -7028,7 +7028,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -7044,7 +7044,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -7060,7 +7060,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -7076,7 +7076,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -7790,7 +7790,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Matrix",
         "condition": "Collector Grade - Mint",
-        "shipping": "Tiered Tracked Shipping ($7.99)"
+        "shipping": "Tiered Tracked Shipping ($3.99)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
@@ -7805,7 +7805,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Matrix",
         "condition": "Collector Grade - Mint",
-        "shipping": "Tiered Tracked Shipping ($7.99)"
+        "shipping": "Tiered Tracked Shipping ($3.99)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
@@ -7820,7 +7820,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Matrix",
         "condition": "Collector Grade - Mint",
-        "shipping": "Tiered Tracked Shipping ($7.99)"
+        "shipping": "Tiered Tracked Shipping ($3.99)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
@@ -7835,7 +7835,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Matrix",
         "condition": "Collector Grade - Mint",
-        "shipping": "Tiered Tracked Shipping ($7.99)"
+        "shipping": "Tiered Tracked Shipping ($3.99)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
@@ -7850,7 +7850,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Matrix",
         "condition": "Collector Grade - Mint",
-        "shipping": "Tiered Tracked Shipping ($7.99)"
+        "shipping": "Tiered Tracked Shipping ($3.99)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
@@ -7865,7 +7865,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Matrix",
         "condition": "Collector Grade - Mint",
-        "shipping": "Tiered Tracked Shipping ($7.99)"
+        "shipping": "Tiered Tracked Shipping ($3.99)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
@@ -7880,7 +7880,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Matrix",
         "condition": "Collector Grade - Mint",
-        "shipping": "Tiered Tracked Shipping ($7.99)"
+        "shipping": "Tiered Tracked Shipping ($3.99)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
@@ -7895,7 +7895,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Matrix",
         "condition": "Collector Grade - Mint",
-        "shipping": "Tiered Tracked Shipping ($7.99)"
+        "shipping": "Tiered Tracked Shipping ($3.99)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
@@ -7910,7 +7910,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Matrix",
         "condition": "Collector Grade - Mint",
-        "shipping": "Tiered Tracked Shipping ($7.99)"
+        "shipping": "Tiered Tracked Shipping ($3.99)"
       },
       "status": "CRUCIBLE_VERIFIED"
     },
@@ -7925,7 +7925,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Matrix",
         "condition": "Collector Grade - Mint",
-        "shipping": "Tiered Tracked Shipping ($7.99)"
+        "shipping": "Tiered Tracked Shipping ($3.99)"
       },
       "status": "CRUCIBLE_VERIFIED"
     }
@@ -8865,7 +8865,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -8881,7 +8881,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -8897,7 +8897,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -8913,7 +8913,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -8929,7 +8929,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -8945,7 +8945,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -8961,7 +8961,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -8977,7 +8977,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -8993,7 +8993,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -9009,7 +9009,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -9025,7 +9025,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -9041,7 +9041,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -9057,7 +9057,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -9073,7 +9073,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -9089,7 +9089,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -9105,7 +9105,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -9121,7 +9121,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -9137,7 +9137,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -9153,7 +9153,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -9169,7 +9169,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -9185,7 +9185,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -9201,7 +9201,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -9217,7 +9217,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -9233,7 +9233,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -9249,7 +9249,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -9265,7 +9265,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -9281,7 +9281,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -9297,7 +9297,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -9313,7 +9313,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -9329,7 +9329,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -9983,7 +9983,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -9999,7 +9999,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10015,7 +10015,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10031,7 +10031,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10047,7 +10047,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10063,7 +10063,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10079,7 +10079,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10095,7 +10095,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10111,7 +10111,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10127,7 +10127,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10143,7 +10143,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10159,7 +10159,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10175,7 +10175,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10191,7 +10191,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10207,7 +10207,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10223,7 +10223,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10239,7 +10239,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10255,7 +10255,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10271,7 +10271,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10287,7 +10287,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10303,7 +10303,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10319,7 +10319,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10335,7 +10335,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10351,7 +10351,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10367,7 +10367,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10383,7 +10383,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10399,7 +10399,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10415,7 +10415,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10431,7 +10431,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10447,7 +10447,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10463,7 +10463,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10479,7 +10479,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10495,7 +10495,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10511,7 +10511,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10527,7 +10527,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10543,7 +10543,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10559,7 +10559,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10575,7 +10575,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10591,7 +10591,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10607,7 +10607,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10625,7 +10625,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10641,7 +10641,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10657,7 +10657,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10673,7 +10673,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10689,7 +10689,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10705,7 +10705,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10721,7 +10721,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10737,7 +10737,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10753,7 +10753,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10769,7 +10769,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10785,7 +10785,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10801,7 +10801,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10817,7 +10817,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10833,7 +10833,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10849,7 +10849,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10865,7 +10865,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10881,7 +10881,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10897,7 +10897,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10913,7 +10913,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10929,7 +10929,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10945,7 +10945,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10961,7 +10961,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10977,7 +10977,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -10993,7 +10993,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11009,7 +11009,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11025,7 +11025,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11041,7 +11041,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11057,7 +11057,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11073,7 +11073,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11089,7 +11089,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11105,7 +11105,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11121,7 +11121,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11137,7 +11137,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Retail Mint",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11155,7 +11155,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Edge",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11171,7 +11171,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Edge",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11187,7 +11187,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Edge",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11203,7 +11203,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Edge",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11219,7 +11219,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Edge",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11235,7 +11235,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Edge",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11251,7 +11251,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Edge",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11267,7 +11267,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Edge",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11283,7 +11283,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Edge",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11299,7 +11299,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Edge",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11315,7 +11315,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Edge",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11331,7 +11331,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Edge",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11347,7 +11347,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Edge",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11363,7 +11363,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Edge",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11379,7 +11379,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Edge",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11395,7 +11395,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Edge",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11411,7 +11411,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Edge",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11427,7 +11427,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Edge",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11443,7 +11443,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Edge",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11459,7 +11459,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Edge",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11475,7 +11475,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Edge",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11491,7 +11491,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Edge",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11507,7 +11507,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Edge",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11523,7 +11523,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Edge",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11539,7 +11539,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Edge",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11555,7 +11555,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Edge",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11573,7 +11573,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Collector Grade / Authenticated",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11589,7 +11589,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Collector Grade / Authenticated",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11605,7 +11605,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Collector Grade / Authenticated",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11621,7 +11621,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Collector Grade / Authenticated",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11637,7 +11637,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11653,7 +11653,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11669,7 +11669,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11685,7 +11685,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11701,7 +11701,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11717,7 +11717,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11733,7 +11733,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11749,7 +11749,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11765,7 +11765,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11781,7 +11781,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11797,7 +11797,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11813,7 +11813,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11829,7 +11829,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11845,7 +11845,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11861,7 +11861,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11877,7 +11877,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11893,7 +11893,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11909,7 +11909,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11925,7 +11925,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11941,7 +11941,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11957,7 +11957,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11973,7 +11973,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -11989,7 +11989,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12005,7 +12005,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12021,7 +12021,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12037,7 +12037,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12053,7 +12053,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12069,7 +12069,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12085,7 +12085,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12101,7 +12101,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12117,7 +12117,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12133,7 +12133,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12151,7 +12151,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12167,7 +12167,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12183,7 +12183,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12199,7 +12199,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12215,7 +12215,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12231,7 +12231,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12247,7 +12247,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12263,7 +12263,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12279,7 +12279,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12295,7 +12295,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12311,7 +12311,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12327,7 +12327,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12343,7 +12343,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12359,7 +12359,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12375,7 +12375,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12391,7 +12391,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12407,7 +12407,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12423,7 +12423,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12439,7 +12439,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12455,7 +12455,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12471,7 +12471,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12487,7 +12487,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12503,7 +12503,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12519,7 +12519,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12535,7 +12535,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12551,7 +12551,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12567,7 +12567,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12583,7 +12583,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12599,7 +12599,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12615,7 +12615,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12631,7 +12631,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12647,7 +12647,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12663,7 +12663,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12679,7 +12679,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12695,7 +12695,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12711,7 +12711,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12727,7 +12727,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12743,7 +12743,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12759,7 +12759,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12775,7 +12775,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12793,7 +12793,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Collector Grade / Authenticated",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12809,7 +12809,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Collector Grade / Authenticated",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12825,7 +12825,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Collector Grade / Authenticated",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12841,7 +12841,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Collector Grade / Authenticated",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12857,7 +12857,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12873,7 +12873,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12889,7 +12889,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12905,7 +12905,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12921,7 +12921,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12937,7 +12937,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12953,7 +12953,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12969,7 +12969,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -12985,7 +12985,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13001,7 +13001,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13017,7 +13017,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13033,7 +13033,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13049,7 +13049,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13065,7 +13065,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13081,7 +13081,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13097,7 +13097,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13113,7 +13113,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13129,7 +13129,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13145,7 +13145,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13161,7 +13161,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13177,7 +13177,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13193,7 +13193,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13209,7 +13209,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13225,7 +13225,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13241,7 +13241,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13257,7 +13257,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13275,7 +13275,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Collector Grade / Authenticated",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13291,7 +13291,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Collector Grade / Authenticated",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13307,7 +13307,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Collector Grade / Authenticated",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13323,7 +13323,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Collector Grade / Authenticated",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13339,7 +13339,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Collector Grade / Authenticated",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13355,7 +13355,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Collector Grade / Authenticated",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13371,7 +13371,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Collector Grade / Authenticated",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13387,7 +13387,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Collector Grade / Authenticated",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13403,7 +13403,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13419,7 +13419,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13435,7 +13435,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13451,7 +13451,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13467,7 +13467,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13483,7 +13483,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13499,7 +13499,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13515,7 +13515,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13531,7 +13531,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13547,7 +13547,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13563,7 +13563,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13579,7 +13579,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13595,7 +13595,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13611,7 +13611,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13627,7 +13627,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13643,7 +13643,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13659,7 +13659,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13675,7 +13675,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13691,7 +13691,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13707,7 +13707,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13723,7 +13723,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13739,7 +13739,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13755,7 +13755,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13771,7 +13771,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13787,7 +13787,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13803,7 +13803,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13819,7 +13819,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13835,7 +13835,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13851,7 +13851,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13867,7 +13867,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13883,7 +13883,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Vault",
         "condition": "Retail Market",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13901,7 +13901,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13917,7 +13917,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13933,7 +13933,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13949,7 +13949,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13965,7 +13965,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13981,7 +13981,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -13997,7 +13997,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14013,7 +14013,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14029,7 +14029,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14045,7 +14045,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14061,7 +14061,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14077,7 +14077,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14093,7 +14093,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14109,7 +14109,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14125,7 +14125,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14141,7 +14141,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14157,7 +14157,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14173,7 +14173,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14189,7 +14189,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14205,7 +14205,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14221,7 +14221,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14237,7 +14237,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14253,7 +14253,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14269,7 +14269,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14285,7 +14285,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14301,7 +14301,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14317,7 +14317,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14333,7 +14333,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14349,7 +14349,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14365,7 +14365,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14381,7 +14381,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14397,7 +14397,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14413,7 +14413,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14429,7 +14429,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14445,7 +14445,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14461,7 +14461,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14477,7 +14477,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14493,7 +14493,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14509,7 +14509,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14525,7 +14525,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14541,7 +14541,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14557,7 +14557,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14573,7 +14573,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14589,7 +14589,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14605,7 +14605,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14621,7 +14621,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14637,7 +14637,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14653,7 +14653,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14669,7 +14669,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14685,7 +14685,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14701,7 +14701,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14717,7 +14717,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14733,7 +14733,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14749,7 +14749,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14765,7 +14765,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14781,7 +14781,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14797,7 +14797,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14813,7 +14813,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14829,7 +14829,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14845,7 +14845,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14861,7 +14861,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14877,7 +14877,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14893,7 +14893,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14909,7 +14909,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14925,7 +14925,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14941,7 +14941,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14957,7 +14957,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14973,7 +14973,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -14989,7 +14989,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15005,7 +15005,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15023,7 +15023,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15039,7 +15039,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15055,7 +15055,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15071,7 +15071,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15087,7 +15087,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15103,7 +15103,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15119,7 +15119,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15135,7 +15135,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15151,7 +15151,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15167,7 +15167,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15183,7 +15183,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15199,7 +15199,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15215,7 +15215,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15231,7 +15231,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15247,7 +15247,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15263,7 +15263,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15279,7 +15279,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15295,7 +15295,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15311,7 +15311,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15327,7 +15327,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15343,7 +15343,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15359,7 +15359,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15375,7 +15375,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15391,7 +15391,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15407,7 +15407,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15423,7 +15423,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15439,7 +15439,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15455,7 +15455,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15473,7 +15473,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15489,7 +15489,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15505,7 +15505,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15521,7 +15521,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15537,7 +15537,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15553,7 +15553,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15569,7 +15569,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15585,7 +15585,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15601,7 +15601,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15617,7 +15617,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15633,7 +15633,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15649,7 +15649,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15665,7 +15665,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15681,7 +15681,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15697,7 +15697,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15713,7 +15713,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15729,7 +15729,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15745,7 +15745,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15761,7 +15761,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15777,7 +15777,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15793,7 +15793,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15809,7 +15809,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15825,7 +15825,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15841,7 +15841,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15857,7 +15857,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15873,7 +15873,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15889,7 +15889,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15905,7 +15905,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15921,7 +15921,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15937,7 +15937,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15953,7 +15953,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15969,7 +15969,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Lifestyle",
         "condition": "Retail New",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -15987,7 +15987,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16003,7 +16003,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16019,7 +16019,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16035,7 +16035,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16051,7 +16051,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16067,7 +16067,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16083,7 +16083,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16099,7 +16099,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16115,7 +16115,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16131,7 +16131,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16147,7 +16147,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16163,7 +16163,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16179,7 +16179,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16195,7 +16195,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16211,7 +16211,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16227,7 +16227,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16243,7 +16243,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16259,7 +16259,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16275,7 +16275,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16291,7 +16291,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16307,7 +16307,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16323,7 +16323,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16339,7 +16339,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16355,7 +16355,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16371,7 +16371,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16387,7 +16387,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16403,7 +16403,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16419,7 +16419,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16435,7 +16435,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16451,7 +16451,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16467,7 +16467,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16483,7 +16483,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16499,7 +16499,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16515,7 +16515,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16531,7 +16531,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16547,7 +16547,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16563,7 +16563,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16579,7 +16579,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16595,7 +16595,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16611,7 +16611,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16627,7 +16627,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16643,7 +16643,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16659,7 +16659,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16675,7 +16675,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16691,7 +16691,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16707,7 +16707,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16723,7 +16723,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16739,7 +16739,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16755,7 +16755,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16771,7 +16771,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16787,7 +16787,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16803,7 +16803,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16819,7 +16819,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16835,7 +16835,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16851,7 +16851,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16867,7 +16867,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16883,7 +16883,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16899,7 +16899,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16915,7 +16915,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16931,7 +16931,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16947,7 +16947,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16963,7 +16963,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16979,7 +16979,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -16995,7 +16995,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17011,7 +17011,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17027,7 +17027,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17043,7 +17043,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17059,7 +17059,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17075,7 +17075,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17091,7 +17091,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17107,7 +17107,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17123,7 +17123,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17139,7 +17139,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17155,7 +17155,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17171,7 +17171,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17187,7 +17187,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17203,7 +17203,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17219,7 +17219,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17235,7 +17235,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17251,7 +17251,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17267,7 +17267,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17283,7 +17283,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17299,7 +17299,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17315,7 +17315,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17331,7 +17331,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17347,7 +17347,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17363,7 +17363,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17379,7 +17379,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17395,7 +17395,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17411,7 +17411,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17427,7 +17427,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17443,7 +17443,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17459,7 +17459,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17475,7 +17475,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17491,7 +17491,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17507,7 +17507,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17523,7 +17523,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17539,7 +17539,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17555,7 +17555,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17571,7 +17571,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17587,7 +17587,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17603,7 +17603,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17619,7 +17619,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17635,7 +17635,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17651,7 +17651,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17667,7 +17667,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17683,7 +17683,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17699,7 +17699,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17715,7 +17715,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17731,7 +17731,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17747,7 +17747,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17763,7 +17763,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17779,7 +17779,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17795,7 +17795,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17811,7 +17811,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17827,7 +17827,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17843,7 +17843,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17859,7 +17859,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17875,7 +17875,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17891,7 +17891,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17907,7 +17907,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17923,7 +17923,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17939,7 +17939,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17955,7 +17955,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17971,7 +17971,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -17987,7 +17987,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18003,7 +18003,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18019,7 +18019,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18035,7 +18035,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18051,7 +18051,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18067,7 +18067,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18083,7 +18083,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18099,7 +18099,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18115,7 +18115,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18131,7 +18131,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18147,7 +18147,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18163,7 +18163,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18179,7 +18179,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18195,7 +18195,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18211,7 +18211,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18227,7 +18227,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18243,7 +18243,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18259,7 +18259,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18275,7 +18275,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18291,7 +18291,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Seasonal",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18309,7 +18309,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18325,7 +18325,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18341,7 +18341,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18357,7 +18357,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18373,7 +18373,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18389,7 +18389,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18405,7 +18405,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18421,7 +18421,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18437,7 +18437,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18453,7 +18453,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18469,7 +18469,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18485,7 +18485,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18501,7 +18501,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18517,7 +18517,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18533,7 +18533,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18549,7 +18549,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18565,7 +18565,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18581,7 +18581,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18597,7 +18597,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18613,7 +18613,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18629,7 +18629,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18645,7 +18645,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18661,7 +18661,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18677,7 +18677,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18693,7 +18693,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18709,7 +18709,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18725,7 +18725,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18743,7 +18743,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18759,7 +18759,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18775,7 +18775,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18791,7 +18791,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18807,7 +18807,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18823,7 +18823,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18839,7 +18839,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18855,7 +18855,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18871,7 +18871,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18887,7 +18887,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18903,7 +18903,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18919,7 +18919,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18935,7 +18935,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18951,7 +18951,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18967,7 +18967,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18983,7 +18983,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -18999,7 +18999,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19015,7 +19015,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19031,7 +19031,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19047,7 +19047,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19063,7 +19063,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19079,7 +19079,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19095,7 +19095,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19111,7 +19111,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19127,7 +19127,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19143,7 +19143,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19159,7 +19159,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19175,7 +19175,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19191,7 +19191,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19207,7 +19207,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19223,7 +19223,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19239,7 +19239,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19255,7 +19255,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19273,7 +19273,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19289,7 +19289,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19305,7 +19305,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19321,7 +19321,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19337,7 +19337,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19353,7 +19353,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19369,7 +19369,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19385,7 +19385,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19401,7 +19401,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19417,7 +19417,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19433,7 +19433,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19449,7 +19449,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19465,7 +19465,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19481,7 +19481,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19497,7 +19497,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19513,7 +19513,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19529,7 +19529,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19545,7 +19545,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19561,7 +19561,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19577,7 +19577,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19593,7 +19593,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19609,7 +19609,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19625,7 +19625,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19641,7 +19641,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19657,7 +19657,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19673,7 +19673,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19689,7 +19689,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19705,7 +19705,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19721,7 +19721,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19737,7 +19737,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19753,7 +19753,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19769,7 +19769,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19785,7 +19785,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19801,7 +19801,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19819,7 +19819,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19835,7 +19835,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19851,7 +19851,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19867,7 +19867,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19883,7 +19883,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19899,7 +19899,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19915,7 +19915,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19931,7 +19931,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19947,7 +19947,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19963,7 +19963,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19979,7 +19979,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -19995,7 +19995,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20011,7 +20011,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20027,7 +20027,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20043,7 +20043,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20059,7 +20059,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20075,7 +20075,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20091,7 +20091,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20107,7 +20107,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20123,7 +20123,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20139,7 +20139,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20155,7 +20155,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20171,7 +20171,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20187,7 +20187,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20203,7 +20203,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20221,7 +20221,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20237,7 +20237,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20253,7 +20253,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20269,7 +20269,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20285,7 +20285,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20301,7 +20301,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20317,7 +20317,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20333,7 +20333,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20349,7 +20349,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20365,7 +20365,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20381,7 +20381,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20397,7 +20397,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20413,7 +20413,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20429,7 +20429,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20445,7 +20445,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20461,7 +20461,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20477,7 +20477,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20493,7 +20493,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20509,7 +20509,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20525,7 +20525,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20541,7 +20541,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20557,7 +20557,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20573,7 +20573,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20589,7 +20589,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20605,7 +20605,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20621,7 +20621,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20637,7 +20637,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20653,7 +20653,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20669,7 +20669,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20685,7 +20685,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20701,7 +20701,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20717,7 +20717,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20735,7 +20735,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20751,7 +20751,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20767,7 +20767,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20783,7 +20783,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20799,7 +20799,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20815,7 +20815,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20831,7 +20831,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20847,7 +20847,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20863,7 +20863,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20879,7 +20879,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20895,7 +20895,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20911,7 +20911,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20927,7 +20927,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20943,7 +20943,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20959,7 +20959,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20975,7 +20975,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -20991,7 +20991,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21007,7 +21007,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21023,7 +21023,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21039,7 +21039,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21055,7 +21055,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21071,7 +21071,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21087,7 +21087,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21103,7 +21103,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21119,7 +21119,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21135,7 +21135,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21151,7 +21151,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21167,7 +21167,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21183,7 +21183,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21199,7 +21199,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21215,7 +21215,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21231,7 +21231,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21247,7 +21247,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21265,7 +21265,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21281,7 +21281,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21297,7 +21297,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21313,7 +21313,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21329,7 +21329,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21345,7 +21345,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21361,7 +21361,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21377,7 +21377,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21393,7 +21393,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21409,7 +21409,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21425,7 +21425,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21441,7 +21441,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21457,7 +21457,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21473,7 +21473,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21489,7 +21489,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21505,7 +21505,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21521,7 +21521,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21537,7 +21537,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21553,7 +21553,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21569,7 +21569,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21585,7 +21585,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21601,7 +21601,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21617,7 +21617,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21633,7 +21633,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21649,7 +21649,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21665,7 +21665,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21681,7 +21681,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21699,7 +21699,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21715,7 +21715,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21731,7 +21731,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21747,7 +21747,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21763,7 +21763,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21779,7 +21779,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21795,7 +21795,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21811,7 +21811,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21827,7 +21827,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21843,7 +21843,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21859,7 +21859,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21875,7 +21875,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21891,7 +21891,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21909,7 +21909,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21925,7 +21925,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21941,7 +21941,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21957,7 +21957,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21973,7 +21973,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -21989,7 +21989,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22005,7 +22005,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22021,7 +22021,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22037,7 +22037,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22053,7 +22053,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22069,7 +22069,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22085,7 +22085,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22101,7 +22101,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22117,7 +22117,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22133,7 +22133,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22149,7 +22149,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22165,7 +22165,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22181,7 +22181,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22197,7 +22197,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22213,7 +22213,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22229,7 +22229,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22245,7 +22245,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22261,7 +22261,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22277,7 +22277,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22293,7 +22293,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22309,7 +22309,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22325,7 +22325,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22341,7 +22341,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22357,7 +22357,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22373,7 +22373,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22389,7 +22389,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22405,7 +22405,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22421,7 +22421,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22439,7 +22439,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22455,7 +22455,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22471,7 +22471,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22487,7 +22487,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22503,7 +22503,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22519,7 +22519,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22535,7 +22535,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22551,7 +22551,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22567,7 +22567,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22583,7 +22583,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22599,7 +22599,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22615,7 +22615,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22631,7 +22631,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22647,7 +22647,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22663,7 +22663,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22679,7 +22679,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22695,7 +22695,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22711,7 +22711,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22727,7 +22727,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22743,7 +22743,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22761,7 +22761,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22777,7 +22777,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22793,7 +22793,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22809,7 +22809,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22825,7 +22825,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22841,7 +22841,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22857,7 +22857,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22873,7 +22873,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22889,7 +22889,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22905,7 +22905,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22921,7 +22921,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22937,7 +22937,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22953,7 +22953,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22969,7 +22969,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -22985,7 +22985,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23001,7 +23001,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23017,7 +23017,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23033,7 +23033,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23049,7 +23049,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23065,7 +23065,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23081,7 +23081,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23097,7 +23097,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23113,7 +23113,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23129,7 +23129,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23145,7 +23145,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23163,7 +23163,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23179,7 +23179,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23195,7 +23195,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23211,7 +23211,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23227,7 +23227,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23243,7 +23243,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23259,7 +23259,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23275,7 +23275,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23291,7 +23291,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23307,7 +23307,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23323,7 +23323,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23339,7 +23339,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23355,7 +23355,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23371,7 +23371,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23387,7 +23387,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23403,7 +23403,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23419,7 +23419,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23435,7 +23435,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23451,7 +23451,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23467,7 +23467,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23483,7 +23483,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23499,7 +23499,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23515,7 +23515,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23531,7 +23531,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23547,7 +23547,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23563,7 +23563,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23579,7 +23579,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23595,7 +23595,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23611,7 +23611,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23627,7 +23627,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23645,7 +23645,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23661,7 +23661,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23677,7 +23677,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23693,7 +23693,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23709,7 +23709,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23725,7 +23725,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23741,7 +23741,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23757,7 +23757,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23773,7 +23773,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23789,7 +23789,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23805,7 +23805,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23821,7 +23821,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23837,7 +23837,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23853,7 +23853,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23869,7 +23869,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23885,7 +23885,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23901,7 +23901,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23917,7 +23917,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23933,7 +23933,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23949,7 +23949,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23965,7 +23965,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23981,7 +23981,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -23997,7 +23997,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24013,7 +24013,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24029,7 +24029,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24047,7 +24047,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24063,7 +24063,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24079,7 +24079,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24095,7 +24095,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24111,7 +24111,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24127,7 +24127,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24143,7 +24143,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24159,7 +24159,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24175,7 +24175,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24191,7 +24191,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24207,7 +24207,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24223,7 +24223,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24239,7 +24239,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24255,7 +24255,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24271,7 +24271,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24287,7 +24287,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24303,7 +24303,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24319,7 +24319,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24335,7 +24335,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24351,7 +24351,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24367,7 +24367,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24383,7 +24383,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24399,7 +24399,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24415,7 +24415,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24433,7 +24433,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24449,7 +24449,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24465,7 +24465,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24481,7 +24481,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24497,7 +24497,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24513,7 +24513,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24529,7 +24529,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24545,7 +24545,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24561,7 +24561,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24577,7 +24577,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24593,7 +24593,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24609,7 +24609,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24627,7 +24627,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24643,7 +24643,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24659,7 +24659,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24675,7 +24675,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24691,7 +24691,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24707,7 +24707,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24723,7 +24723,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24739,7 +24739,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24755,7 +24755,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24771,7 +24771,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24787,7 +24787,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24803,7 +24803,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24819,7 +24819,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24835,7 +24835,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24851,7 +24851,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24867,7 +24867,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24883,7 +24883,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24899,7 +24899,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24915,7 +24915,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24931,7 +24931,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24947,7 +24947,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24963,7 +24963,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24979,7 +24979,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -24995,7 +24995,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25011,7 +25011,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25027,7 +25027,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25043,7 +25043,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25059,7 +25059,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25075,7 +25075,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25091,7 +25091,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25107,7 +25107,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25123,7 +25123,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25141,7 +25141,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25157,7 +25157,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25173,7 +25173,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25189,7 +25189,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25205,7 +25205,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25221,7 +25221,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25237,7 +25237,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25253,7 +25253,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25269,7 +25269,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25285,7 +25285,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25301,7 +25301,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25317,7 +25317,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25333,7 +25333,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25349,7 +25349,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25365,7 +25365,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25381,7 +25381,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25397,7 +25397,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25413,7 +25413,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25429,7 +25429,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25445,7 +25445,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25461,7 +25461,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25477,7 +25477,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25493,7 +25493,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25509,7 +25509,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25525,7 +25525,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25541,7 +25541,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25557,7 +25557,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25573,7 +25573,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25589,7 +25589,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25605,7 +25605,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Core",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25623,7 +25623,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25639,7 +25639,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($24.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25655,7 +25655,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25671,7 +25671,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25687,7 +25687,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25703,7 +25703,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25719,7 +25719,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25735,7 +25735,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25751,7 +25751,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25767,7 +25767,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25783,7 +25783,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25799,7 +25799,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25815,7 +25815,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25831,7 +25831,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25847,7 +25847,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25863,7 +25863,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25879,7 +25879,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25895,7 +25895,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25911,7 +25911,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25927,7 +25927,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25943,7 +25943,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25959,7 +25959,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25975,7 +25975,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -25991,7 +25991,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26007,7 +26007,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26025,7 +26025,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26041,7 +26041,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26057,7 +26057,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26073,7 +26073,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26089,7 +26089,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26105,7 +26105,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26121,7 +26121,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26137,7 +26137,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26153,7 +26153,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26169,7 +26169,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26185,7 +26185,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26201,7 +26201,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26217,7 +26217,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26233,7 +26233,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26249,7 +26249,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26265,7 +26265,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26281,7 +26281,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26297,7 +26297,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26313,7 +26313,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26329,7 +26329,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26345,7 +26345,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26361,7 +26361,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26377,7 +26377,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26393,7 +26393,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26409,7 +26409,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26425,7 +26425,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26441,7 +26441,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26457,7 +26457,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26473,7 +26473,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26489,7 +26489,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26505,7 +26505,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26521,7 +26521,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26537,7 +26537,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26555,7 +26555,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26571,7 +26571,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26587,7 +26587,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26603,7 +26603,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26619,7 +26619,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26635,7 +26635,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26651,7 +26651,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26667,7 +26667,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26683,7 +26683,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26699,7 +26699,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26715,7 +26715,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26731,7 +26731,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26747,7 +26747,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26763,7 +26763,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26779,7 +26779,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26795,7 +26795,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26811,7 +26811,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26827,7 +26827,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($14.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26843,7 +26843,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26859,7 +26859,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26875,7 +26875,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($4.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26891,7 +26891,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Holistic",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26909,7 +26909,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26925,7 +26925,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26941,7 +26941,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26957,7 +26957,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26973,7 +26973,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -26989,7 +26989,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27005,7 +27005,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27021,7 +27021,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27037,7 +27037,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27053,7 +27053,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27069,7 +27069,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27085,7 +27085,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27101,7 +27101,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27117,7 +27117,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27133,7 +27133,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27149,7 +27149,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27165,7 +27165,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27181,7 +27181,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27197,7 +27197,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27213,7 +27213,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27229,7 +27229,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27245,7 +27245,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27261,7 +27261,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27277,7 +27277,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27293,7 +27293,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27309,7 +27309,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27325,7 +27325,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27341,7 +27341,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27357,7 +27357,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27373,7 +27373,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27389,7 +27389,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27405,7 +27405,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27421,7 +27421,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27437,7 +27437,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27453,7 +27453,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27469,7 +27469,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27485,7 +27485,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27501,7 +27501,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27517,7 +27517,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27533,7 +27533,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27549,7 +27549,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27565,7 +27565,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27581,7 +27581,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27597,7 +27597,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27613,7 +27613,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27629,7 +27629,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27645,7 +27645,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27661,7 +27661,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27677,7 +27677,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27693,7 +27693,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27709,7 +27709,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27725,7 +27725,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27741,7 +27741,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27757,7 +27757,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27773,7 +27773,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27789,7 +27789,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27805,7 +27805,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27821,7 +27821,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27837,7 +27837,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27853,7 +27853,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27869,7 +27869,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27885,7 +27885,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27901,7 +27901,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27917,7 +27917,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27933,7 +27933,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27949,7 +27949,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27965,7 +27965,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27981,7 +27981,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -27997,7 +27997,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28013,7 +28013,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28029,7 +28029,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28045,7 +28045,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28061,7 +28061,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28077,7 +28077,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28093,7 +28093,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28109,7 +28109,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28125,7 +28125,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28141,7 +28141,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28157,7 +28157,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28173,7 +28173,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28189,7 +28189,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28205,7 +28205,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28221,7 +28221,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28237,7 +28237,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28253,7 +28253,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28269,7 +28269,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28285,7 +28285,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28301,7 +28301,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28317,7 +28317,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28333,7 +28333,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28349,7 +28349,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28367,7 +28367,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28383,7 +28383,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28399,7 +28399,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28415,7 +28415,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28431,7 +28431,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28447,7 +28447,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28463,7 +28463,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28479,7 +28479,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28495,7 +28495,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28511,7 +28511,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28527,7 +28527,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28543,7 +28543,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28559,7 +28559,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28575,7 +28575,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28591,7 +28591,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28607,7 +28607,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28623,7 +28623,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28639,7 +28639,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28655,7 +28655,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28671,7 +28671,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28687,7 +28687,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28703,7 +28703,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28719,7 +28719,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28735,7 +28735,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28751,7 +28751,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28767,7 +28767,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28783,7 +28783,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28799,7 +28799,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28815,7 +28815,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28831,7 +28831,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28847,7 +28847,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28863,7 +28863,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28879,7 +28879,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28895,7 +28895,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28911,7 +28911,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28927,7 +28927,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28943,7 +28943,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28959,7 +28959,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28975,7 +28975,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -28991,7 +28991,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29007,7 +29007,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29023,7 +29023,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29039,7 +29039,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29055,7 +29055,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29071,7 +29071,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29087,7 +29087,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29103,7 +29103,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29119,7 +29119,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29135,7 +29135,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29151,7 +29151,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29167,7 +29167,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29183,7 +29183,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29199,7 +29199,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29215,7 +29215,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29231,7 +29231,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29247,7 +29247,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29263,7 +29263,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29279,7 +29279,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Gourmet",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29297,7 +29297,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29313,7 +29313,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29329,7 +29329,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29345,7 +29345,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29361,7 +29361,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29377,7 +29377,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29393,7 +29393,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29409,7 +29409,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29425,7 +29425,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29441,7 +29441,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29457,7 +29457,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29473,7 +29473,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29489,7 +29489,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29505,7 +29505,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29521,7 +29521,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29537,7 +29537,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29553,7 +29553,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29569,7 +29569,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29585,7 +29585,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29601,7 +29601,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29617,7 +29617,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29633,7 +29633,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29649,7 +29649,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29665,7 +29665,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29681,7 +29681,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Nexus Pop",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29699,7 +29699,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29715,7 +29715,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29731,7 +29731,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29747,7 +29747,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29763,7 +29763,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29779,7 +29779,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29795,7 +29795,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29811,7 +29811,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29827,7 +29827,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29843,7 +29843,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29859,7 +29859,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29875,7 +29875,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29891,7 +29891,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29907,7 +29907,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29923,7 +29923,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29939,7 +29939,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29955,7 +29955,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29971,7 +29971,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -29987,7 +29987,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30003,7 +30003,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30019,7 +30019,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30035,7 +30035,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30051,7 +30051,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30067,7 +30067,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30083,7 +30083,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30099,7 +30099,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30115,7 +30115,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30133,7 +30133,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30149,7 +30149,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30165,7 +30165,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30181,7 +30181,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30197,7 +30197,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30213,7 +30213,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30229,7 +30229,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30245,7 +30245,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30261,7 +30261,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30277,7 +30277,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30293,7 +30293,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30309,7 +30309,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30325,7 +30325,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30341,7 +30341,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30357,7 +30357,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30373,7 +30373,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30389,7 +30389,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30405,7 +30405,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30421,7 +30421,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30437,7 +30437,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30453,7 +30453,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30469,7 +30469,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30485,7 +30485,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30501,7 +30501,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30517,7 +30517,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30533,7 +30533,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30549,7 +30549,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30565,7 +30565,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30581,7 +30581,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30597,7 +30597,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30613,7 +30613,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30631,7 +30631,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30647,7 +30647,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30663,7 +30663,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30679,7 +30679,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30695,7 +30695,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30711,7 +30711,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30727,7 +30727,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30743,7 +30743,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30759,7 +30759,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30775,7 +30775,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30791,7 +30791,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30807,7 +30807,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30823,7 +30823,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30839,7 +30839,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30855,7 +30855,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30871,7 +30871,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30887,7 +30887,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30903,7 +30903,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30919,7 +30919,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30935,7 +30935,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30951,7 +30951,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30967,7 +30967,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30983,7 +30983,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -30999,7 +30999,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31015,7 +31015,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31031,7 +31031,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31047,7 +31047,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31063,7 +31063,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31079,7 +31079,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31095,7 +31095,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31111,7 +31111,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31129,7 +31129,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31145,7 +31145,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31161,7 +31161,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31177,7 +31177,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31193,7 +31193,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31209,7 +31209,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31225,7 +31225,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31241,7 +31241,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31257,7 +31257,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31273,7 +31273,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31289,7 +31289,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31305,7 +31305,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31321,7 +31321,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31337,7 +31337,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31353,7 +31353,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31369,7 +31369,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31385,7 +31385,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31401,7 +31401,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31417,7 +31417,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31433,7 +31433,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31449,7 +31449,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31465,7 +31465,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31481,7 +31481,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31497,7 +31497,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31513,7 +31513,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31529,7 +31529,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31545,7 +31545,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31561,7 +31561,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31577,7 +31577,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31593,7 +31593,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31609,7 +31609,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31625,7 +31625,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31641,7 +31641,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31657,7 +31657,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31673,7 +31673,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31689,7 +31689,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31705,7 +31705,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31721,7 +31721,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31737,7 +31737,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31753,7 +31753,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31769,7 +31769,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31785,7 +31785,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31801,7 +31801,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31817,7 +31817,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31833,7 +31833,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31849,7 +31849,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31865,7 +31865,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31881,7 +31881,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31897,7 +31897,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -31913,7 +31913,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "Heritage Vault",
         "condition": "Verified Authentic",
-        "shipping": "Tracked Shipping ($7.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Live Google Shopping Index"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33027,7 +33027,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33043,7 +33043,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33059,7 +33059,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33075,7 +33075,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33091,7 +33091,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33107,7 +33107,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33123,7 +33123,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33139,7 +33139,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33155,7 +33155,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33171,7 +33171,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33187,7 +33187,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33203,7 +33203,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33219,7 +33219,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33235,7 +33235,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33251,7 +33251,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33267,7 +33267,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33283,7 +33283,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33299,7 +33299,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33315,7 +33315,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33331,7 +33331,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33347,7 +33347,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33363,7 +33363,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33379,7 +33379,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33395,7 +33395,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33411,7 +33411,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33427,7 +33427,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33443,7 +33443,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33459,7 +33459,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33475,7 +33475,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33491,7 +33491,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33507,7 +33507,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33523,7 +33523,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33539,7 +33539,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33555,7 +33555,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33571,7 +33571,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33587,7 +33587,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33603,7 +33603,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33619,7 +33619,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33635,7 +33635,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33651,7 +33651,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33667,7 +33667,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33683,7 +33683,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33699,7 +33699,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33715,7 +33715,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33731,7 +33731,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33747,7 +33747,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33763,7 +33763,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33779,7 +33779,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33795,7 +33795,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33811,7 +33811,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS $1 Retro Sweat Club",
         "condition": "Free / $1 Workout Pass & Classic Retro Aerobics",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33829,7 +33829,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33845,7 +33845,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33861,7 +33861,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33877,7 +33877,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33893,7 +33893,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33909,7 +33909,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33925,7 +33925,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33941,7 +33941,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33957,7 +33957,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33973,7 +33973,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -33989,7 +33989,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34005,7 +34005,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34021,7 +34021,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34037,7 +34037,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34053,7 +34053,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34069,7 +34069,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34085,7 +34085,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34101,7 +34101,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34117,7 +34117,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34133,7 +34133,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34149,7 +34149,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34165,7 +34165,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34181,7 +34181,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34197,7 +34197,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34213,7 +34213,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34229,7 +34229,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34245,7 +34245,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34261,7 +34261,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34277,7 +34277,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34293,7 +34293,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34309,7 +34309,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34325,7 +34325,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34341,7 +34341,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34357,7 +34357,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34373,7 +34373,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34389,7 +34389,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34405,7 +34405,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34421,7 +34421,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34437,7 +34437,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34453,7 +34453,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34469,7 +34469,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34485,7 +34485,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34501,7 +34501,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34517,7 +34517,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34533,7 +34533,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34549,7 +34549,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34565,7 +34565,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34581,7 +34581,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34597,7 +34597,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34613,7 +34613,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34629,7 +34629,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34645,7 +34645,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34661,7 +34661,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34677,7 +34677,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34693,7 +34693,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34709,7 +34709,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34725,7 +34725,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34741,7 +34741,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34757,7 +34757,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34773,7 +34773,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34789,7 +34789,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34805,7 +34805,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34821,7 +34821,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Scrub Lounge",
         "condition": "Everyday Comfort • Cute, Funny, Mean & Lounge Scrubs",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34839,7 +34839,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34855,7 +34855,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34871,7 +34871,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34887,7 +34887,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34903,7 +34903,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34919,7 +34919,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34935,7 +34935,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34951,7 +34951,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34967,7 +34967,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34983,7 +34983,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -34999,7 +34999,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35015,7 +35015,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35031,7 +35031,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35047,7 +35047,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35063,7 +35063,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35079,7 +35079,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35095,7 +35095,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35111,7 +35111,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35127,7 +35127,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35143,7 +35143,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35159,7 +35159,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35175,7 +35175,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35191,7 +35191,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35207,7 +35207,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35223,7 +35223,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35239,7 +35239,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35255,7 +35255,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35271,7 +35271,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35287,7 +35287,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35303,7 +35303,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35319,7 +35319,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35335,7 +35335,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35351,7 +35351,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35367,7 +35367,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35383,7 +35383,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35399,7 +35399,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35415,7 +35415,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35431,7 +35431,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35447,7 +35447,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35463,7 +35463,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35479,7 +35479,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35495,7 +35495,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35511,7 +35511,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35527,7 +35527,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35543,7 +35543,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35559,7 +35559,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35575,7 +35575,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35591,7 +35591,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35607,7 +35607,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35623,7 +35623,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35639,7 +35639,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35655,7 +35655,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Senior Independence",
         "condition": "Direct Fast-Ship • Walkers, Rollators & Daily Living Aids",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35673,7 +35673,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35689,7 +35689,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35705,7 +35705,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35721,7 +35721,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35737,7 +35737,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35753,7 +35753,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35769,7 +35769,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35785,7 +35785,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35801,7 +35801,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35817,7 +35817,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35833,7 +35833,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35849,7 +35849,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35865,7 +35865,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35881,7 +35881,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35897,7 +35897,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35913,7 +35913,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35929,7 +35929,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35945,7 +35945,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35961,7 +35961,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35977,7 +35977,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -35993,7 +35993,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36009,7 +36009,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36025,7 +36025,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36041,7 +36041,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36057,7 +36057,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36073,7 +36073,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36089,7 +36089,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36105,7 +36105,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36121,7 +36121,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36137,7 +36137,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36153,7 +36153,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36169,7 +36169,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36185,7 +36185,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36201,7 +36201,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36217,7 +36217,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36233,7 +36233,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36249,7 +36249,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36265,7 +36265,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36281,7 +36281,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36297,7 +36297,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36313,7 +36313,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36329,7 +36329,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36345,7 +36345,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36361,7 +36361,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36377,7 +36377,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36393,7 +36393,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36409,7 +36409,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36425,7 +36425,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36441,7 +36441,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36457,7 +36457,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36473,7 +36473,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36489,7 +36489,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36505,7 +36505,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Spine & Relief",
         "condition": "Direct Fast-Ship • Instant Back & Posture Relief",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36523,7 +36523,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36539,7 +36539,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36555,7 +36555,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36571,7 +36571,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36587,7 +36587,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36603,7 +36603,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36619,7 +36619,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36635,7 +36635,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36651,7 +36651,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36667,7 +36667,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36683,7 +36683,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36699,7 +36699,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36715,7 +36715,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36731,7 +36731,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36747,7 +36747,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36763,7 +36763,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36779,7 +36779,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36795,7 +36795,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36811,7 +36811,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36827,7 +36827,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36843,7 +36843,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36859,7 +36859,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36875,7 +36875,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36891,7 +36891,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36907,7 +36907,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36923,7 +36923,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36939,7 +36939,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36955,7 +36955,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36971,7 +36971,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -36987,7 +36987,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37003,7 +37003,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37019,7 +37019,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37035,7 +37035,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37051,7 +37051,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37067,7 +37067,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37083,7 +37083,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Activewear",
         "condition": "Performance Workout Tights, Apparel & Shoes",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37101,7 +37101,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37117,7 +37117,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37133,7 +37133,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37149,7 +37149,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37165,7 +37165,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37181,7 +37181,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37197,7 +37197,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37213,7 +37213,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37229,7 +37229,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37245,7 +37245,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37261,7 +37261,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37277,7 +37277,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37293,7 +37293,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37309,7 +37309,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37325,7 +37325,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37341,7 +37341,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37357,7 +37357,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37373,7 +37373,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37389,7 +37389,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37405,7 +37405,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37421,7 +37421,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37437,7 +37437,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37453,7 +37453,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37469,7 +37469,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37485,7 +37485,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37501,7 +37501,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37517,7 +37517,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37533,7 +37533,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37549,7 +37549,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37565,7 +37565,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37581,7 +37581,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37597,7 +37597,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37613,7 +37613,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37629,7 +37629,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37645,7 +37645,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37661,7 +37661,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37677,7 +37677,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37693,7 +37693,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37709,7 +37709,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37725,7 +37725,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37741,7 +37741,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37757,7 +37757,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37773,7 +37773,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37789,7 +37789,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37805,7 +37805,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37821,7 +37821,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37837,7 +37837,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37853,7 +37853,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37869,7 +37869,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37885,7 +37885,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37901,7 +37901,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37917,7 +37917,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37933,7 +37933,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37949,7 +37949,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37965,7 +37965,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37981,7 +37981,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -37997,7 +37997,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38013,7 +38013,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38029,7 +38029,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38045,7 +38045,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38061,7 +38061,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38077,7 +38077,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Pro Nutrition",
         "condition": "Factory Sealed • High-Protein Shakes & Ostrich Sticks",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38095,7 +38095,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38111,7 +38111,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38127,7 +38127,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38143,7 +38143,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38159,7 +38159,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38175,7 +38175,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38191,7 +38191,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38207,7 +38207,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38223,7 +38223,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38239,7 +38239,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38255,7 +38255,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38271,7 +38271,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38287,7 +38287,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38303,7 +38303,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38319,7 +38319,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38335,7 +38335,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38351,7 +38351,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38367,7 +38367,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38383,7 +38383,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38399,7 +38399,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38415,7 +38415,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38431,7 +38431,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38447,7 +38447,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38463,7 +38463,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38479,7 +38479,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38495,7 +38495,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38511,7 +38511,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38527,7 +38527,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38543,7 +38543,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38559,7 +38559,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38575,7 +38575,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38591,7 +38591,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38607,7 +38607,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38623,7 +38623,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38639,7 +38639,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38655,7 +38655,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38671,7 +38671,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38687,7 +38687,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38703,7 +38703,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38719,7 +38719,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38735,7 +38735,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -38751,7 +38751,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Mind & Gut",
         "condition": "Verified Clean • Probiotics, Teas & Self-Healing Books",
-        "shipping": "Instant Stream / Tracked Shipping ($4.99)",
+        "shipping": "Instant Stream / Tracked Shipping ($3.99)",
         "market_value": "ALBS Retro Sweat Club"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -41047,7 +41047,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Monthly Viral Doorbuster (High-Quantity Allocation)",
         "condition": "🔥 MONTHLY TRAFFIC MAGNET • 5%–10% Razor-Margin Blowout",
-        "shipping": "Fast Tracked Shipping ($6.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Regular Retail: $1611.69 — VIRAL DOORBUSTER:$954.75 (Limit 2 Per Order)"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -41063,7 +41063,7 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Monthly Viral Doorbuster (High-Quantity Allocation)",
         "condition": "🔥 MONTHLY TRAFFIC MAGNET • 5%–10% Razor-Margin Blowout",
-        "shipping": "Fast Tracked Shipping ($6.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Regular Retail: $893.34 — VIRAL DOORBUSTER:$529.36 (Limit 2 Per Order)"
       },
       "status": "LIVE_MARKET_VERIFIED"
@@ -41079,8 +41079,4664 @@ export const masterInventory: Record<string, any[]> = {
       "specs": {
         "manufacturer": "ALBS Monthly Viral Doorbuster (High-Quantity Allocation)",
         "condition": "🔥 MONTHLY TRAFFIC MAGNET • 5%–10% Razor-Margin Blowout",
-        "shipping": "Fast Tracked Shipping ($6.99)",
+        "shipping": "Tracked Shipping ($3.99)",
         "market_value": "Regular Retail: $507.68 — VIRAL DOORBUSTER:$300.98 (Limit 2 Per Order)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "crypto-cold-storage": [
+    {
+      "id": "MTX-0-0",
+      "name": "CRYPTO COLD STORAGE — Marvel Super Heroes Captain America 1990 Toybiz Graded Cas 8",
+      "price": "$1477.81",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-0-1",
+      "name": "CRYPTO COLD STORAGE — Top Toys Fuzera T Carnivor Rare Argentinian MOTU KO Vintage ",
+      "price": "$1333.04",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-0-2",
+      "name": "CRYPTO COLD STORAGE — 1990 Gi Joe Crimson Guard Immortal Afa 90 Nmmt Triple 90s Po",
+      "price": "$1142.63",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-0-3",
+      "name": "CRYPTO COLD STORAGE — 90s ERA AVENGERS Action Figures",
+      "price": "$904.59",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-0-4",
+      "name": "CRYPTO COLD STORAGE — Alien Predator Action Figure Huge Lot 90s Kenner Vintage Col",
+      "price": "$856.98",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-0-5",
+      "name": "CRYPTO COLD STORAGE — 1990s Star Wars Action Figures Lot",
+      "price": "$828.41",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-0-6",
+      "name": "CRYPTO COLD STORAGE — 1990s Wrestling Figures",
+      "price": "$666.54",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-0-7",
+      "name": "CRYPTO COLD STORAGE — Vintage 90s Marvel Comics Spiderman Brand Action Figure Bund",
+      "price": "$380.88",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-0-8",
+      "name": "CRYPTO COLD STORAGE — 90s Resident Evil Action Figures Set - Five Rare Classic Vid",
+      "price": "$370.41",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-0-9",
+      "name": "CRYPTO COLD STORAGE — 90s Spider Man Unmatched Collection Vintage Rare Action Figu",
+      "price": "$323.73",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-0-10",
+      "name": "CRYPTO COLD STORAGE — 1990s Power Rangers Collectible Action Figures",
+      "price": "$228.53",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-0-11",
+      "name": "CRYPTO COLD STORAGE — Vintage Rare Lot 1990s Action Figures Johnny Quest MIB Zombi",
+      "price": "$190.44",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "cyber-deck-garage": [
+    {
+      "id": "MTX-1-0",
+      "name": "CYBER DECK GARAGE — Marvel Super Heroes Captain America 1990 Toybiz Graded Cas 8",
+      "price": "$1477.81",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-1-1",
+      "name": "CYBER DECK GARAGE — Top Toys Fuzera T Carnivor Rare Argentinian MOTU KO Vintage ",
+      "price": "$1333.04",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-1-2",
+      "name": "CYBER DECK GARAGE — 1990 Gi Joe Crimson Guard Immortal Afa 90 Nmmt Triple 90s Po",
+      "price": "$1142.63",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-1-3",
+      "name": "CYBER DECK GARAGE — 90s ERA AVENGERS Action Figures",
+      "price": "$904.59",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-1-4",
+      "name": "CYBER DECK GARAGE — Alien Predator Action Figure Huge Lot 90s Kenner Vintage Col",
+      "price": "$856.98",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-1-5",
+      "name": "CYBER DECK GARAGE — 1990s Star Wars Action Figures Lot",
+      "price": "$828.41",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-1-6",
+      "name": "CYBER DECK GARAGE — 1990s Wrestling Figures",
+      "price": "$666.54",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-1-7",
+      "name": "CYBER DECK GARAGE — Vintage 90s Marvel Comics Spiderman Brand Action Figure Bund",
+      "price": "$380.88",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-1-8",
+      "name": "CYBER DECK GARAGE — 90s Resident Evil Action Figures Set - Five Rare Classic Vid",
+      "price": "$370.41",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-1-9",
+      "name": "CYBER DECK GARAGE — 90s Spider Man Unmatched Collection Vintage Rare Action Figu",
+      "price": "$323.73",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-1-10",
+      "name": "CYBER DECK GARAGE — 1990s Power Rangers Collectible Action Figures",
+      "price": "$228.53",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-1-11",
+      "name": "CYBER DECK GARAGE — Vintage Rare Lot 1990s Action Figures Johnny Quest MIB Zombi",
+      "price": "$190.44",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "cyber-flora-nursery": [
+    {
+      "id": "MTX-2-0",
+      "name": "CYBER FLORA NURSERY — Marvel Super Heroes Captain America 1990 Toybiz Graded Cas 8",
+      "price": "$1477.81",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-2-1",
+      "name": "CYBER FLORA NURSERY — Top Toys Fuzera T Carnivor Rare Argentinian MOTU KO Vintage ",
+      "price": "$1333.04",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-2-2",
+      "name": "CYBER FLORA NURSERY — 1990 Gi Joe Crimson Guard Immortal Afa 90 Nmmt Triple 90s Po",
+      "price": "$1142.63",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-2-3",
+      "name": "CYBER FLORA NURSERY — 90s ERA AVENGERS Action Figures",
+      "price": "$904.59",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-2-4",
+      "name": "CYBER FLORA NURSERY — Alien Predator Action Figure Huge Lot 90s Kenner Vintage Col",
+      "price": "$856.98",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-2-5",
+      "name": "CYBER FLORA NURSERY — 1990s Star Wars Action Figures Lot",
+      "price": "$828.41",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-2-6",
+      "name": "CYBER FLORA NURSERY — 1990s Wrestling Figures",
+      "price": "$666.54",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-2-7",
+      "name": "CYBER FLORA NURSERY — Vintage 90s Marvel Comics Spiderman Brand Action Figure Bund",
+      "price": "$380.88",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-2-8",
+      "name": "CYBER FLORA NURSERY — 90s Resident Evil Action Figures Set - Five Rare Classic Vid",
+      "price": "$370.41",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-2-9",
+      "name": "CYBER FLORA NURSERY — 90s Spider Man Unmatched Collection Vintage Rare Action Figu",
+      "price": "$323.73",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-2-10",
+      "name": "CYBER FLORA NURSERY — 1990s Power Rangers Collectible Action Figures",
+      "price": "$228.53",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-2-11",
+      "name": "CYBER FLORA NURSERY — Vintage Rare Lot 1990s Action Figures Johnny Quest MIB Zombi",
+      "price": "$190.44",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "cyber-pets": [
+    {
+      "id": "MTX-3-0",
+      "name": "CYBER PETS — Marvel Super Heroes Captain America 1990 Toybiz Graded Cas 8",
+      "price": "$1477.81",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-3-1",
+      "name": "CYBER PETS — Top Toys Fuzera T Carnivor Rare Argentinian MOTU KO Vintage ",
+      "price": "$1333.04",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-3-2",
+      "name": "CYBER PETS — 1990 Gi Joe Crimson Guard Immortal Afa 90 Nmmt Triple 90s Po",
+      "price": "$1142.63",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-3-3",
+      "name": "CYBER PETS — 90s ERA AVENGERS Action Figures",
+      "price": "$904.59",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-3-4",
+      "name": "CYBER PETS — Alien Predator Action Figure Huge Lot 90s Kenner Vintage Col",
+      "price": "$856.98",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-3-5",
+      "name": "CYBER PETS — 1990s Star Wars Action Figures Lot",
+      "price": "$828.41",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-3-6",
+      "name": "CYBER PETS — 1990s Wrestling Figures",
+      "price": "$666.54",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-3-7",
+      "name": "CYBER PETS — Vintage 90s Marvel Comics Spiderman Brand Action Figure Bund",
+      "price": "$380.88",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-3-8",
+      "name": "CYBER PETS — 90s Resident Evil Action Figures Set - Five Rare Classic Vid",
+      "price": "$370.41",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-3-9",
+      "name": "CYBER PETS — 90s Spider Man Unmatched Collection Vintage Rare Action Figu",
+      "price": "$323.73",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-3-10",
+      "name": "CYBER PETS — 1990s Power Rangers Collectible Action Figures",
+      "price": "$228.53",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-3-11",
+      "name": "CYBER PETS — Vintage Rare Lot 1990s Action Figures Johnny Quest MIB Zombi",
+      "price": "$190.44",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "cyber-weapons": [
+    {
+      "id": "MTX-4-0",
+      "name": "CYBER WEAPONS — Marvel Super Heroes Captain America 1990 Toybiz Graded Cas 8",
+      "price": "$1477.81",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-4-1",
+      "name": "CYBER WEAPONS — Top Toys Fuzera T Carnivor Rare Argentinian MOTU KO Vintage ",
+      "price": "$1333.04",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-4-2",
+      "name": "CYBER WEAPONS — 1990 Gi Joe Crimson Guard Immortal Afa 90 Nmmt Triple 90s Po",
+      "price": "$1142.63",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-4-3",
+      "name": "CYBER WEAPONS — 90s ERA AVENGERS Action Figures",
+      "price": "$904.59",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-4-4",
+      "name": "CYBER WEAPONS — Alien Predator Action Figure Huge Lot 90s Kenner Vintage Col",
+      "price": "$856.98",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-4-5",
+      "name": "CYBER WEAPONS — 1990s Star Wars Action Figures Lot",
+      "price": "$828.41",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-4-6",
+      "name": "CYBER WEAPONS — 1990s Wrestling Figures",
+      "price": "$666.54",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-4-7",
+      "name": "CYBER WEAPONS — Vintage 90s Marvel Comics Spiderman Brand Action Figure Bund",
+      "price": "$380.88",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-4-8",
+      "name": "CYBER WEAPONS — 90s Resident Evil Action Figures Set - Five Rare Classic Vid",
+      "price": "$370.41",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-4-9",
+      "name": "CYBER WEAPONS — 90s Spider Man Unmatched Collection Vintage Rare Action Figu",
+      "price": "$323.73",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-4-10",
+      "name": "CYBER WEAPONS — 1990s Power Rangers Collectible Action Figures",
+      "price": "$228.53",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-4-11",
+      "name": "CYBER WEAPONS — Vintage Rare Lot 1990s Action Figures Johnny Quest MIB Zombi",
+      "price": "$190.44",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "data-broker": [
+    {
+      "id": "MTX-5-0",
+      "name": "DATA BROKER — Marvel Super Heroes Captain America 1990 Toybiz Graded Cas 8",
+      "price": "$1477.81",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-5-1",
+      "name": "DATA BROKER — Top Toys Fuzera T Carnivor Rare Argentinian MOTU KO Vintage ",
+      "price": "$1333.04",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-5-2",
+      "name": "DATA BROKER — 1990 Gi Joe Crimson Guard Immortal Afa 90 Nmmt Triple 90s Po",
+      "price": "$1142.63",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-5-3",
+      "name": "DATA BROKER — 90s ERA AVENGERS Action Figures",
+      "price": "$904.59",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-5-4",
+      "name": "DATA BROKER — Alien Predator Action Figure Huge Lot 90s Kenner Vintage Col",
+      "price": "$856.98",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-5-5",
+      "name": "DATA BROKER — 1990s Star Wars Action Figures Lot",
+      "price": "$828.41",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-5-6",
+      "name": "DATA BROKER — 1990s Wrestling Figures",
+      "price": "$666.54",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-5-7",
+      "name": "DATA BROKER — Vintage 90s Marvel Comics Spiderman Brand Action Figure Bund",
+      "price": "$380.88",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-5-8",
+      "name": "DATA BROKER — 90s Resident Evil Action Figures Set - Five Rare Classic Vid",
+      "price": "$370.41",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-5-9",
+      "name": "DATA BROKER — 90s Spider Man Unmatched Collection Vintage Rare Action Figu",
+      "price": "$323.73",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-5-10",
+      "name": "DATA BROKER — 1990s Power Rangers Collectible Action Figures",
+      "price": "$228.53",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-5-11",
+      "name": "DATA BROKER — Vintage Rare Lot 1990s Action Figures Johnny Quest MIB Zombi",
+      "price": "$190.44",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "drone-racing": [
+    {
+      "id": "MTX-6-0",
+      "name": "DRONE RACING — Marvel Super Heroes Captain America 1990 Toybiz Graded Cas 8",
+      "price": "$1477.81",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-6-1",
+      "name": "DRONE RACING — Top Toys Fuzera T Carnivor Rare Argentinian MOTU KO Vintage ",
+      "price": "$1333.04",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-6-2",
+      "name": "DRONE RACING — 1990 Gi Joe Crimson Guard Immortal Afa 90 Nmmt Triple 90s Po",
+      "price": "$1142.63",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-6-3",
+      "name": "DRONE RACING — 90s ERA AVENGERS Action Figures",
+      "price": "$904.59",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-6-4",
+      "name": "DRONE RACING — Alien Predator Action Figure Huge Lot 90s Kenner Vintage Col",
+      "price": "$856.98",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-6-5",
+      "name": "DRONE RACING — 1990s Star Wars Action Figures Lot",
+      "price": "$828.41",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-6-6",
+      "name": "DRONE RACING — 1990s Wrestling Figures",
+      "price": "$666.54",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-6-7",
+      "name": "DRONE RACING — Vintage 90s Marvel Comics Spiderman Brand Action Figure Bund",
+      "price": "$380.88",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-6-8",
+      "name": "DRONE RACING — 90s Resident Evil Action Figures Set - Five Rare Classic Vid",
+      "price": "$370.41",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-6-9",
+      "name": "DRONE RACING — 90s Spider Man Unmatched Collection Vintage Rare Action Figu",
+      "price": "$323.73",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-6-10",
+      "name": "DRONE RACING — 1990s Power Rangers Collectible Action Figures",
+      "price": "$228.53",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-6-11",
+      "name": "DRONE RACING — Vintage Rare Lot 1990s Action Figures Johnny Quest MIB Zombi",
+      "price": "$190.44",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "drone-syndicate": [
+    {
+      "id": "MTX-7-0",
+      "name": "DRONE SYNDICATE — Marvel Super Heroes Captain America 1990 Toybiz Graded Cas 8",
+      "price": "$1477.81",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-7-1",
+      "name": "DRONE SYNDICATE — Top Toys Fuzera T Carnivor Rare Argentinian MOTU KO Vintage ",
+      "price": "$1333.04",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-7-2",
+      "name": "DRONE SYNDICATE — 1990 Gi Joe Crimson Guard Immortal Afa 90 Nmmt Triple 90s Po",
+      "price": "$1142.63",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-7-3",
+      "name": "DRONE SYNDICATE — 90s ERA AVENGERS Action Figures",
+      "price": "$904.59",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-7-4",
+      "name": "DRONE SYNDICATE — Alien Predator Action Figure Huge Lot 90s Kenner Vintage Col",
+      "price": "$856.98",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-7-5",
+      "name": "DRONE SYNDICATE — 1990s Star Wars Action Figures Lot",
+      "price": "$828.41",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-7-6",
+      "name": "DRONE SYNDICATE — 1990s Wrestling Figures",
+      "price": "$666.54",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-7-7",
+      "name": "DRONE SYNDICATE — Vintage 90s Marvel Comics Spiderman Brand Action Figure Bund",
+      "price": "$380.88",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-7-8",
+      "name": "DRONE SYNDICATE — 90s Resident Evil Action Figures Set - Five Rare Classic Vid",
+      "price": "$370.41",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-7-9",
+      "name": "DRONE SYNDICATE — 90s Spider Man Unmatched Collection Vintage Rare Action Figu",
+      "price": "$323.73",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-7-10",
+      "name": "DRONE SYNDICATE — 1990s Power Rangers Collectible Action Figures",
+      "price": "$228.53",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-7-11",
+      "name": "DRONE SYNDICATE — Vintage Rare Lot 1990s Action Figures Johnny Quest MIB Zombi",
+      "price": "$190.44",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "emp-shielding": [
+    {
+      "id": "MTX-8-0",
+      "name": "EMP SHIELDING — Marvel Super Heroes Captain America 1990 Toybiz Graded Cas 8",
+      "price": "$1477.81",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-8-1",
+      "name": "EMP SHIELDING — Top Toys Fuzera T Carnivor Rare Argentinian MOTU KO Vintage ",
+      "price": "$1333.04",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-8-2",
+      "name": "EMP SHIELDING — 1990 Gi Joe Crimson Guard Immortal Afa 90 Nmmt Triple 90s Po",
+      "price": "$1142.63",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-8-3",
+      "name": "EMP SHIELDING — 90s ERA AVENGERS Action Figures",
+      "price": "$904.59",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-8-4",
+      "name": "EMP SHIELDING — Alien Predator Action Figure Huge Lot 90s Kenner Vintage Col",
+      "price": "$856.98",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-8-5",
+      "name": "EMP SHIELDING — 1990s Star Wars Action Figures Lot",
+      "price": "$828.41",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-8-6",
+      "name": "EMP SHIELDING — 1990s Wrestling Figures",
+      "price": "$666.54",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-8-7",
+      "name": "EMP SHIELDING — Vintage 90s Marvel Comics Spiderman Brand Action Figure Bund",
+      "price": "$380.88",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-8-8",
+      "name": "EMP SHIELDING — 90s Resident Evil Action Figures Set - Five Rare Classic Vid",
+      "price": "$370.41",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-8-9",
+      "name": "EMP SHIELDING — 90s Spider Man Unmatched Collection Vintage Rare Action Figu",
+      "price": "$323.73",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-8-10",
+      "name": "EMP SHIELDING — 1990s Power Rangers Collectible Action Figures",
+      "price": "$228.53",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-8-11",
+      "name": "EMP SHIELDING — Vintage Rare Lot 1990s Action Figures Johnny Quest MIB Zombi",
+      "price": "$190.44",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "exo-suit-garage": [
+    {
+      "id": "MTX-9-0",
+      "name": "EXO SUIT GARAGE — Marvel Super Heroes Captain America 1990 Toybiz Graded Cas 8",
+      "price": "$1477.81",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-9-1",
+      "name": "EXO SUIT GARAGE — Top Toys Fuzera T Carnivor Rare Argentinian MOTU KO Vintage ",
+      "price": "$1333.04",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-9-2",
+      "name": "EXO SUIT GARAGE — 1990 Gi Joe Crimson Guard Immortal Afa 90 Nmmt Triple 90s Po",
+      "price": "$1142.63",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-9-3",
+      "name": "EXO SUIT GARAGE — 90s ERA AVENGERS Action Figures",
+      "price": "$904.59",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-9-4",
+      "name": "EXO SUIT GARAGE — Alien Predator Action Figure Huge Lot 90s Kenner Vintage Col",
+      "price": "$856.98",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-9-5",
+      "name": "EXO SUIT GARAGE — 1990s Star Wars Action Figures Lot",
+      "price": "$828.41",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-9-6",
+      "name": "EXO SUIT GARAGE — 1990s Wrestling Figures",
+      "price": "$666.54",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-9-7",
+      "name": "EXO SUIT GARAGE — Vintage 90s Marvel Comics Spiderman Brand Action Figure Bund",
+      "price": "$380.88",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-9-8",
+      "name": "EXO SUIT GARAGE — 90s Resident Evil Action Figures Set - Five Rare Classic Vid",
+      "price": "$370.41",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-9-9",
+      "name": "EXO SUIT GARAGE — 90s Spider Man Unmatched Collection Vintage Rare Action Figu",
+      "price": "$323.73",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-9-10",
+      "name": "EXO SUIT GARAGE — 1990s Power Rangers Collectible Action Figures",
+      "price": "$228.53",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-9-11",
+      "name": "EXO SUIT GARAGE — Vintage Rare Lot 1990s Action Figures Johnny Quest MIB Zombi",
+      "price": "$190.44",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "glitch-apparel": [
+    {
+      "id": "MTX-10-0",
+      "name": "GLITCH APPAREL — Marvel Super Heroes Captain America 1990 Toybiz Graded Cas 8",
+      "price": "$1477.81",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-10-1",
+      "name": "GLITCH APPAREL — Top Toys Fuzera T Carnivor Rare Argentinian MOTU KO Vintage ",
+      "price": "$1333.04",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-10-2",
+      "name": "GLITCH APPAREL — 1990 Gi Joe Crimson Guard Immortal Afa 90 Nmmt Triple 90s Po",
+      "price": "$1142.63",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-10-3",
+      "name": "GLITCH APPAREL — 90s ERA AVENGERS Action Figures",
+      "price": "$904.59",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-10-4",
+      "name": "GLITCH APPAREL — Alien Predator Action Figure Huge Lot 90s Kenner Vintage Col",
+      "price": "$856.98",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-10-5",
+      "name": "GLITCH APPAREL — 1990s Star Wars Action Figures Lot",
+      "price": "$828.41",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-10-6",
+      "name": "GLITCH APPAREL — 1990s Wrestling Figures",
+      "price": "$666.54",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-10-7",
+      "name": "GLITCH APPAREL — Vintage 90s Marvel Comics Spiderman Brand Action Figure Bund",
+      "price": "$380.88",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-10-8",
+      "name": "GLITCH APPAREL — 90s Resident Evil Action Figures Set - Five Rare Classic Vid",
+      "price": "$370.41",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-10-9",
+      "name": "GLITCH APPAREL — 90s Spider Man Unmatched Collection Vintage Rare Action Figu",
+      "price": "$323.73",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-10-10",
+      "name": "GLITCH APPAREL — 1990s Power Rangers Collectible Action Figures",
+      "price": "$228.53",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-10-11",
+      "name": "GLITCH APPAREL — Vintage Rare Lot 1990s Action Figures Johnny Quest MIB Zombi",
+      "price": "$190.44",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "hologram-arcades": [
+    {
+      "id": "MTX-11-0",
+      "name": "HOLOGRAM ARCADES — Marvel Super Heroes Captain America 1990 Toybiz Graded Cas 8",
+      "price": "$1477.81",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-11-1",
+      "name": "HOLOGRAM ARCADES — Top Toys Fuzera T Carnivor Rare Argentinian MOTU KO Vintage ",
+      "price": "$1333.04",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-11-2",
+      "name": "HOLOGRAM ARCADES — 1990 Gi Joe Crimson Guard Immortal Afa 90 Nmmt Triple 90s Po",
+      "price": "$1142.63",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-11-3",
+      "name": "HOLOGRAM ARCADES — 90s ERA AVENGERS Action Figures",
+      "price": "$904.59",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-11-4",
+      "name": "HOLOGRAM ARCADES — Alien Predator Action Figure Huge Lot 90s Kenner Vintage Col",
+      "price": "$856.98",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-11-5",
+      "name": "HOLOGRAM ARCADES — 1990s Star Wars Action Figures Lot",
+      "price": "$828.41",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-11-6",
+      "name": "HOLOGRAM ARCADES — 1990s Wrestling Figures",
+      "price": "$666.54",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-11-7",
+      "name": "HOLOGRAM ARCADES — Vintage 90s Marvel Comics Spiderman Brand Action Figure Bund",
+      "price": "$380.88",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-11-8",
+      "name": "HOLOGRAM ARCADES — 90s Resident Evil Action Figures Set - Five Rare Classic Vid",
+      "price": "$370.41",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-11-9",
+      "name": "HOLOGRAM ARCADES — 90s Spider Man Unmatched Collection Vintage Rare Action Figu",
+      "price": "$323.73",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-11-10",
+      "name": "HOLOGRAM ARCADES — 1990s Power Rangers Collectible Action Figures",
+      "price": "$228.53",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-11-11",
+      "name": "HOLOGRAM ARCADES — Vintage Rare Lot 1990s Action Figures Johnny Quest MIB Zombi",
+      "price": "$190.44",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "holographic-displays": [
+    {
+      "id": "MTX-12-0",
+      "name": "HOLOGRAPHIC DISPLAYS — Marvel Super Heroes Captain America 1990 Toybiz Graded Cas 8",
+      "price": "$1477.81",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-12-1",
+      "name": "HOLOGRAPHIC DISPLAYS — Top Toys Fuzera T Carnivor Rare Argentinian MOTU KO Vintage ",
+      "price": "$1333.04",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-12-2",
+      "name": "HOLOGRAPHIC DISPLAYS — 1990 Gi Joe Crimson Guard Immortal Afa 90 Nmmt Triple 90s Po",
+      "price": "$1142.63",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-12-3",
+      "name": "HOLOGRAPHIC DISPLAYS — 90s ERA AVENGERS Action Figures",
+      "price": "$904.59",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-12-4",
+      "name": "HOLOGRAPHIC DISPLAYS — Alien Predator Action Figure Huge Lot 90s Kenner Vintage Col",
+      "price": "$856.98",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-12-5",
+      "name": "HOLOGRAPHIC DISPLAYS — 1990s Star Wars Action Figures Lot",
+      "price": "$828.41",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-12-6",
+      "name": "HOLOGRAPHIC DISPLAYS — 1990s Wrestling Figures",
+      "price": "$666.54",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-12-7",
+      "name": "HOLOGRAPHIC DISPLAYS — Vintage 90s Marvel Comics Spiderman Brand Action Figure Bund",
+      "price": "$380.88",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-12-8",
+      "name": "HOLOGRAPHIC DISPLAYS — 90s Resident Evil Action Figures Set - Five Rare Classic Vid",
+      "price": "$370.41",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-12-9",
+      "name": "HOLOGRAPHIC DISPLAYS — 90s Spider Man Unmatched Collection Vintage Rare Action Figu",
+      "price": "$323.73",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-12-10",
+      "name": "HOLOGRAPHIC DISPLAYS — 1990s Power Rangers Collectible Action Figures",
+      "price": "$228.53",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-12-11",
+      "name": "HOLOGRAPHIC DISPLAYS — Vintage Rare Lot 1990s Action Figures Johnny Quest MIB Zombi",
+      "price": "$190.44",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "hover-tech-hub": [
+    {
+      "id": "MTX-13-0",
+      "name": "HOVER TECH HUB — Marvel Super Heroes Captain America 1990 Toybiz Graded Cas 8",
+      "price": "$1477.81",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-13-1",
+      "name": "HOVER TECH HUB — Top Toys Fuzera T Carnivor Rare Argentinian MOTU KO Vintage ",
+      "price": "$1333.04",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-13-2",
+      "name": "HOVER TECH HUB — 1990 Gi Joe Crimson Guard Immortal Afa 90 Nmmt Triple 90s Po",
+      "price": "$1142.63",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-13-3",
+      "name": "HOVER TECH HUB — 90s ERA AVENGERS Action Figures",
+      "price": "$904.59",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-13-4",
+      "name": "HOVER TECH HUB — Alien Predator Action Figure Huge Lot 90s Kenner Vintage Col",
+      "price": "$856.98",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-13-5",
+      "name": "HOVER TECH HUB — 1990s Star Wars Action Figures Lot",
+      "price": "$828.41",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-13-6",
+      "name": "HOVER TECH HUB — 1990s Wrestling Figures",
+      "price": "$666.54",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-13-7",
+      "name": "HOVER TECH HUB — Vintage 90s Marvel Comics Spiderman Brand Action Figure Bund",
+      "price": "$380.88",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-13-8",
+      "name": "HOVER TECH HUB — 90s Resident Evil Action Figures Set - Five Rare Classic Vid",
+      "price": "$370.41",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-13-9",
+      "name": "HOVER TECH HUB — 90s Spider Man Unmatched Collection Vintage Rare Action Figu",
+      "price": "$323.73",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-13-10",
+      "name": "HOVER TECH HUB — 1990s Power Rangers Collectible Action Figures",
+      "price": "$228.53",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-13-11",
+      "name": "HOVER TECH HUB — Vintage Rare Lot 1990s Action Figures Johnny Quest MIB Zombi",
+      "price": "$190.44",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "memory-crystals": [
+    {
+      "id": "MTX-14-0",
+      "name": "MEMORY CRYSTALS — Marvel Super Heroes Captain America 1990 Toybiz Graded Cas 8",
+      "price": "$1477.81",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-14-1",
+      "name": "MEMORY CRYSTALS — Top Toys Fuzera T Carnivor Rare Argentinian MOTU KO Vintage ",
+      "price": "$1333.04",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-14-2",
+      "name": "MEMORY CRYSTALS — 1990 Gi Joe Crimson Guard Immortal Afa 90 Nmmt Triple 90s Po",
+      "price": "$1142.63",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-14-3",
+      "name": "MEMORY CRYSTALS — 90s ERA AVENGERS Action Figures",
+      "price": "$904.59",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-14-4",
+      "name": "MEMORY CRYSTALS — Alien Predator Action Figure Huge Lot 90s Kenner Vintage Col",
+      "price": "$856.98",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-14-5",
+      "name": "MEMORY CRYSTALS — 1990s Star Wars Action Figures Lot",
+      "price": "$828.41",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-14-6",
+      "name": "MEMORY CRYSTALS — 1990s Wrestling Figures",
+      "price": "$666.54",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-14-7",
+      "name": "MEMORY CRYSTALS — Vintage 90s Marvel Comics Spiderman Brand Action Figure Bund",
+      "price": "$380.88",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-14-8",
+      "name": "MEMORY CRYSTALS — 90s Resident Evil Action Figures Set - Five Rare Classic Vid",
+      "price": "$370.41",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-14-9",
+      "name": "MEMORY CRYSTALS — 90s Spider Man Unmatched Collection Vintage Rare Action Figu",
+      "price": "$323.73",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-14-10",
+      "name": "MEMORY CRYSTALS — 1990s Power Rangers Collectible Action Figures",
+      "price": "$228.53",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-14-11",
+      "name": "MEMORY CRYSTALS — Vintage Rare Lot 1990s Action Figures Johnny Quest MIB Zombi",
+      "price": "$190.44",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "memory-wipe": [
+    {
+      "id": "MTX-15-0",
+      "name": "MEMORY WIPE — Marvel Super Heroes Captain America 1990 Toybiz Graded Cas 8",
+      "price": "$1477.81",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-15-1",
+      "name": "MEMORY WIPE — Top Toys Fuzera T Carnivor Rare Argentinian MOTU KO Vintage ",
+      "price": "$1333.04",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-15-2",
+      "name": "MEMORY WIPE — 1990 Gi Joe Crimson Guard Immortal Afa 90 Nmmt Triple 90s Po",
+      "price": "$1142.63",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-15-3",
+      "name": "MEMORY WIPE — 90s ERA AVENGERS Action Figures",
+      "price": "$904.59",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-15-4",
+      "name": "MEMORY WIPE — Alien Predator Action Figure Huge Lot 90s Kenner Vintage Col",
+      "price": "$856.98",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-15-5",
+      "name": "MEMORY WIPE — 1990s Star Wars Action Figures Lot",
+      "price": "$828.41",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-15-6",
+      "name": "MEMORY WIPE — 1990s Wrestling Figures",
+      "price": "$666.54",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-15-7",
+      "name": "MEMORY WIPE — Vintage 90s Marvel Comics Spiderman Brand Action Figure Bund",
+      "price": "$380.88",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-15-8",
+      "name": "MEMORY WIPE — 90s Resident Evil Action Figures Set - Five Rare Classic Vid",
+      "price": "$370.41",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-15-9",
+      "name": "MEMORY WIPE — 90s Spider Man Unmatched Collection Vintage Rare Action Figu",
+      "price": "$323.73",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-15-10",
+      "name": "MEMORY WIPE — 1990s Power Rangers Collectible Action Figures",
+      "price": "$228.53",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-15-11",
+      "name": "MEMORY WIPE — Vintage Rare Lot 1990s Action Figures Johnny Quest MIB Zombi",
+      "price": "$190.44",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "metaverse-assets": [
+    {
+      "id": "MTX-16-0",
+      "name": "METAVERSE ASSETS — Marvel Super Heroes Captain America 1990 Toybiz Graded Cas 8",
+      "price": "$1477.81",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-16-1",
+      "name": "METAVERSE ASSETS — Top Toys Fuzera T Carnivor Rare Argentinian MOTU KO Vintage ",
+      "price": "$1333.04",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-16-2",
+      "name": "METAVERSE ASSETS — 1990 Gi Joe Crimson Guard Immortal Afa 90 Nmmt Triple 90s Po",
+      "price": "$1142.63",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-16-3",
+      "name": "METAVERSE ASSETS — 90s ERA AVENGERS Action Figures",
+      "price": "$904.59",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-16-4",
+      "name": "METAVERSE ASSETS — Alien Predator Action Figure Huge Lot 90s Kenner Vintage Col",
+      "price": "$856.98",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-16-5",
+      "name": "METAVERSE ASSETS — 1990s Star Wars Action Figures Lot",
+      "price": "$828.41",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-16-6",
+      "name": "METAVERSE ASSETS — 1990s Wrestling Figures",
+      "price": "$666.54",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-16-7",
+      "name": "METAVERSE ASSETS — Vintage 90s Marvel Comics Spiderman Brand Action Figure Bund",
+      "price": "$380.88",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-16-8",
+      "name": "METAVERSE ASSETS — 90s Resident Evil Action Figures Set - Five Rare Classic Vid",
+      "price": "$370.41",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-16-9",
+      "name": "METAVERSE ASSETS — 90s Spider Man Unmatched Collection Vintage Rare Action Figu",
+      "price": "$323.73",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-16-10",
+      "name": "METAVERSE ASSETS — 1990s Power Rangers Collectible Action Figures",
+      "price": "$228.53",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-16-11",
+      "name": "METAVERSE ASSETS — Vintage Rare Lot 1990s Action Figures Johnny Quest MIB Zombi",
+      "price": "$190.44",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "nanobot-pharmacy": [
+    {
+      "id": "MTX-17-0",
+      "name": "NANOBOT PHARMACY — Marvel Super Heroes Captain America 1990 Toybiz Graded Cas 8",
+      "price": "$1477.81",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-17-1",
+      "name": "NANOBOT PHARMACY — Top Toys Fuzera T Carnivor Rare Argentinian MOTU KO Vintage ",
+      "price": "$1333.04",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-17-2",
+      "name": "NANOBOT PHARMACY — 1990 Gi Joe Crimson Guard Immortal Afa 90 Nmmt Triple 90s Po",
+      "price": "$1142.63",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-17-3",
+      "name": "NANOBOT PHARMACY — 90s ERA AVENGERS Action Figures",
+      "price": "$904.59",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-17-4",
+      "name": "NANOBOT PHARMACY — Alien Predator Action Figure Huge Lot 90s Kenner Vintage Col",
+      "price": "$856.98",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-17-5",
+      "name": "NANOBOT PHARMACY — 1990s Star Wars Action Figures Lot",
+      "price": "$828.41",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-17-6",
+      "name": "NANOBOT PHARMACY — 1990s Wrestling Figures",
+      "price": "$666.54",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-17-7",
+      "name": "NANOBOT PHARMACY — Vintage 90s Marvel Comics Spiderman Brand Action Figure Bund",
+      "price": "$380.88",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-17-8",
+      "name": "NANOBOT PHARMACY — 90s Resident Evil Action Figures Set - Five Rare Classic Vid",
+      "price": "$370.41",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-17-9",
+      "name": "NANOBOT PHARMACY — 90s Spider Man Unmatched Collection Vintage Rare Action Figu",
+      "price": "$323.73",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-17-10",
+      "name": "NANOBOT PHARMACY — 1990s Power Rangers Collectible Action Figures",
+      "price": "$228.53",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-17-11",
+      "name": "NANOBOT PHARMACY — Vintage Rare Lot 1990s Action Figures Johnny Quest MIB Zombi",
+      "price": "$190.44",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "neo-squish-pods": [
+    {
+      "id": "MTX-18-0",
+      "name": "NEO SQUISH PODS — Marvel Super Heroes Captain America 1990 Toybiz Graded Cas 8",
+      "price": "$1477.81",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-18-1",
+      "name": "NEO SQUISH PODS — Top Toys Fuzera T Carnivor Rare Argentinian MOTU KO Vintage ",
+      "price": "$1333.04",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-18-2",
+      "name": "NEO SQUISH PODS — 1990 Gi Joe Crimson Guard Immortal Afa 90 Nmmt Triple 90s Po",
+      "price": "$1142.63",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-18-3",
+      "name": "NEO SQUISH PODS — 90s ERA AVENGERS Action Figures",
+      "price": "$904.59",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-18-4",
+      "name": "NEO SQUISH PODS — Alien Predator Action Figure Huge Lot 90s Kenner Vintage Col",
+      "price": "$856.98",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-18-5",
+      "name": "NEO SQUISH PODS — 1990s Star Wars Action Figures Lot",
+      "price": "$828.41",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-18-6",
+      "name": "NEO SQUISH PODS — 1990s Wrestling Figures",
+      "price": "$666.54",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-18-7",
+      "name": "NEO SQUISH PODS — Vintage 90s Marvel Comics Spiderman Brand Action Figure Bund",
+      "price": "$380.88",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-18-8",
+      "name": "NEO SQUISH PODS — 90s Resident Evil Action Figures Set - Five Rare Classic Vid",
+      "price": "$370.41",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-18-9",
+      "name": "NEO SQUISH PODS — 90s Spider Man Unmatched Collection Vintage Rare Action Figu",
+      "price": "$323.73",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-18-10",
+      "name": "NEO SQUISH PODS — 1990s Power Rangers Collectible Action Figures",
+      "price": "$228.53",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-18-11",
+      "name": "NEO SQUISH PODS — Vintage Rare Lot 1990s Action Figures Johnny Quest MIB Zombi",
+      "price": "$190.44",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "neon-signs": [
+    {
+      "id": "MTX-19-0",
+      "name": "NEON SIGNS — Marvel Super Heroes Captain America 1990 Toybiz Graded Cas 8",
+      "price": "$1477.81",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-19-1",
+      "name": "NEON SIGNS — Top Toys Fuzera T Carnivor Rare Argentinian MOTU KO Vintage ",
+      "price": "$1333.04",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-19-2",
+      "name": "NEON SIGNS — 1990 Gi Joe Crimson Guard Immortal Afa 90 Nmmt Triple 90s Po",
+      "price": "$1142.63",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-19-3",
+      "name": "NEON SIGNS — 90s ERA AVENGERS Action Figures",
+      "price": "$904.59",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-19-4",
+      "name": "NEON SIGNS — Alien Predator Action Figure Huge Lot 90s Kenner Vintage Col",
+      "price": "$856.98",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-19-5",
+      "name": "NEON SIGNS — 1990s Star Wars Action Figures Lot",
+      "price": "$828.41",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-19-6",
+      "name": "NEON SIGNS — 1990s Wrestling Figures",
+      "price": "$666.54",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-19-7",
+      "name": "NEON SIGNS — Vintage 90s Marvel Comics Spiderman Brand Action Figure Bund",
+      "price": "$380.88",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-19-8",
+      "name": "NEON SIGNS — 90s Resident Evil Action Figures Set - Five Rare Classic Vid",
+      "price": "$370.41",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-19-9",
+      "name": "NEON SIGNS — 90s Spider Man Unmatched Collection Vintage Rare Action Figu",
+      "price": "$323.73",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-19-10",
+      "name": "NEON SIGNS — 1990s Power Rangers Collectible Action Figures",
+      "price": "$228.53",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-19-11",
+      "name": "NEON SIGNS — Vintage Rare Lot 1990s Action Figures Johnny Quest MIB Zombi",
+      "price": "$190.44",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "nexus-core": [
+    {
+      "id": "MTX-20-0",
+      "name": "NEXUS CORE — Marvel Super Heroes Captain America 1990 Toybiz Graded Cas 8",
+      "price": "$1477.81",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-20-1",
+      "name": "NEXUS CORE — Top Toys Fuzera T Carnivor Rare Argentinian MOTU KO Vintage ",
+      "price": "$1333.04",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-20-2",
+      "name": "NEXUS CORE — 1990 Gi Joe Crimson Guard Immortal Afa 90 Nmmt Triple 90s Po",
+      "price": "$1142.63",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-20-3",
+      "name": "NEXUS CORE — 90s ERA AVENGERS Action Figures",
+      "price": "$904.59",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-20-4",
+      "name": "NEXUS CORE — Alien Predator Action Figure Huge Lot 90s Kenner Vintage Col",
+      "price": "$856.98",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-20-5",
+      "name": "NEXUS CORE — 1990s Star Wars Action Figures Lot",
+      "price": "$828.41",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-20-6",
+      "name": "NEXUS CORE — 1990s Wrestling Figures",
+      "price": "$666.54",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-20-7",
+      "name": "NEXUS CORE — Vintage 90s Marvel Comics Spiderman Brand Action Figure Bund",
+      "price": "$380.88",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-20-8",
+      "name": "NEXUS CORE — 90s Resident Evil Action Figures Set - Five Rare Classic Vid",
+      "price": "$370.41",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-20-9",
+      "name": "NEXUS CORE — 90s Spider Man Unmatched Collection Vintage Rare Action Figu",
+      "price": "$323.73",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-20-10",
+      "name": "NEXUS CORE — 1990s Power Rangers Collectible Action Figures",
+      "price": "$228.53",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-20-11",
+      "name": "NEXUS CORE — Vintage Rare Lot 1990s Action Figures Johnny Quest MIB Zombi",
+      "price": "$190.44",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "orbital-real-estate": [
+    {
+      "id": "MTX-21-0",
+      "name": "ORBITAL REAL ESTATE — Marvel Super Heroes Captain America 1990 Toybiz Graded Cas 8",
+      "price": "$1477.81",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-21-1",
+      "name": "ORBITAL REAL ESTATE — Top Toys Fuzera T Carnivor Rare Argentinian MOTU KO Vintage ",
+      "price": "$1333.04",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-21-2",
+      "name": "ORBITAL REAL ESTATE — 1990 Gi Joe Crimson Guard Immortal Afa 90 Nmmt Triple 90s Po",
+      "price": "$1142.63",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-21-3",
+      "name": "ORBITAL REAL ESTATE — 90s ERA AVENGERS Action Figures",
+      "price": "$904.59",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-21-4",
+      "name": "ORBITAL REAL ESTATE — Alien Predator Action Figure Huge Lot 90s Kenner Vintage Col",
+      "price": "$856.98",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-21-5",
+      "name": "ORBITAL REAL ESTATE — 1990s Star Wars Action Figures Lot",
+      "price": "$828.41",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-21-6",
+      "name": "ORBITAL REAL ESTATE — 1990s Wrestling Figures",
+      "price": "$666.54",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-21-7",
+      "name": "ORBITAL REAL ESTATE — Vintage 90s Marvel Comics Spiderman Brand Action Figure Bund",
+      "price": "$380.88",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-21-8",
+      "name": "ORBITAL REAL ESTATE — 90s Resident Evil Action Figures Set - Five Rare Classic Vid",
+      "price": "$370.41",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-21-9",
+      "name": "ORBITAL REAL ESTATE — 90s Spider Man Unmatched Collection Vintage Rare Action Figu",
+      "price": "$323.73",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-21-10",
+      "name": "ORBITAL REAL ESTATE — 1990s Power Rangers Collectible Action Figures",
+      "price": "$228.53",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-21-11",
+      "name": "ORBITAL REAL ESTATE — Vintage Rare Lot 1990s Action Figures Johnny Quest MIB Zombi",
+      "price": "$190.44",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "synth-organs": [
+    {
+      "id": "MTX-22-0",
+      "name": "SYNTH ORGANS — Marvel Super Heroes Captain America 1990 Toybiz Graded Cas 8",
+      "price": "$1477.81",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-22-1",
+      "name": "SYNTH ORGANS — Top Toys Fuzera T Carnivor Rare Argentinian MOTU KO Vintage ",
+      "price": "$1333.04",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-22-2",
+      "name": "SYNTH ORGANS — 1990 Gi Joe Crimson Guard Immortal Afa 90 Nmmt Triple 90s Po",
+      "price": "$1142.63",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-22-3",
+      "name": "SYNTH ORGANS — 90s ERA AVENGERS Action Figures",
+      "price": "$904.59",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-22-4",
+      "name": "SYNTH ORGANS — Alien Predator Action Figure Huge Lot 90s Kenner Vintage Col",
+      "price": "$856.98",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-22-5",
+      "name": "SYNTH ORGANS — 1990s Star Wars Action Figures Lot",
+      "price": "$828.41",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-22-6",
+      "name": "SYNTH ORGANS — 1990s Wrestling Figures",
+      "price": "$666.54",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-22-7",
+      "name": "SYNTH ORGANS — Vintage 90s Marvel Comics Spiderman Brand Action Figure Bund",
+      "price": "$380.88",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-22-8",
+      "name": "SYNTH ORGANS — 90s Resident Evil Action Figures Set - Five Rare Classic Vid",
+      "price": "$370.41",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-22-9",
+      "name": "SYNTH ORGANS — 90s Spider Man Unmatched Collection Vintage Rare Action Figu",
+      "price": "$323.73",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-22-10",
+      "name": "SYNTH ORGANS — 1990s Power Rangers Collectible Action Figures",
+      "price": "$228.53",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-22-11",
+      "name": "SYNTH ORGANS — Vintage Rare Lot 1990s Action Figures Johnny Quest MIB Zombi",
+      "price": "$190.44",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "synthetic-skin": [
+    {
+      "id": "MTX-23-0",
+      "name": "SYNTHETIC SKIN — Marvel Super Heroes Captain America 1990 Toybiz Graded Cas 8",
+      "price": "$1477.81",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-23-1",
+      "name": "SYNTHETIC SKIN — Top Toys Fuzera T Carnivor Rare Argentinian MOTU KO Vintage ",
+      "price": "$1333.04",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-23-2",
+      "name": "SYNTHETIC SKIN — 1990 Gi Joe Crimson Guard Immortal Afa 90 Nmmt Triple 90s Po",
+      "price": "$1142.63",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-23-3",
+      "name": "SYNTHETIC SKIN — 90s ERA AVENGERS Action Figures",
+      "price": "$904.59",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-23-4",
+      "name": "SYNTHETIC SKIN — Alien Predator Action Figure Huge Lot 90s Kenner Vintage Col",
+      "price": "$856.98",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-23-5",
+      "name": "SYNTHETIC SKIN — 1990s Star Wars Action Figures Lot",
+      "price": "$828.41",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-23-6",
+      "name": "SYNTHETIC SKIN — 1990s Wrestling Figures",
+      "price": "$666.54",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-23-7",
+      "name": "SYNTHETIC SKIN — Vintage 90s Marvel Comics Spiderman Brand Action Figure Bund",
+      "price": "$380.88",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-23-8",
+      "name": "SYNTHETIC SKIN — 90s Resident Evil Action Figures Set - Five Rare Classic Vid",
+      "price": "$370.41",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-23-9",
+      "name": "SYNTHETIC SKIN — 90s Spider Man Unmatched Collection Vintage Rare Action Figu",
+      "price": "$323.73",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-23-10",
+      "name": "SYNTHETIC SKIN — 1990s Power Rangers Collectible Action Figures",
+      "price": "$228.53",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "MTX-23-11",
+      "name": "SYNTHETIC SKIN — Vintage Rare Lot 1990s Action Figures Johnny Quest MIB Zombi",
+      "price": "$190.44",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs"
+      ],
+      "video": false,
+      "specs": {
+        "manufacturer": "ALBS Matrix Direct",
+        "condition": "Factory Sealed | Verified Technical Spec",
+        "shipping": "Tracked Shipping ($3.99)",
+        "market_value": "100% Competitor Price-Matched"
       },
       "status": "LIVE_MARKET_VERIFIED"
     }
