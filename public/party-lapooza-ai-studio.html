@@ -1,0 +1,63 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Party Lapooza • AI Face-Swap & Bulk Party Customizer</title>
+<style>
+body{background:#0f051d;color:#fff;font-family:sans-serif;margin:0;padding:20px}
+.wrap{max-width:1050px;margin:0 auto}
+.box{background:#1e0b36;border:2px solid #f472b6;border-radius:20px;padding:22px;margin-bottom:20px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px;margin-top:14px}
+.card{background:#120524;border:1px solid #c084fc;border-radius:14px;padding:16px}
+.btn{display:inline-block;background:#facc15;color:#000;font-weight:900;padding:12px 18px;border-radius:10px;text-decoration:none;font-size:12px;text-transform:uppercase;border:none;cursor:pointer;margin-top:8px}
+select,input{width:100%;padding:10px;border-radius:8px;border:1px solid #f472b6;background:#000;color:#fff;margin-top:6px;box-sizing:border-box}
+</style></head><body><div class="wrap">
+<div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;margin-bottom:16px">
+  <h1 style="color:#f472b6;margin:0">🎉 PARTY LAPOOZA • AI FACE-SWAP & BULK STUDIO</h1>
+  <a class="btn" href="/">← Back to All 6 Malls</a>
+</div>
+<div class="box">
+  <div style="color:#facc15;font-weight:900;font-size:12px">✨ AI FACE-IN-THEME PERSONALIZER + 4.9★ INSURED U.S. PRINT GUARANTEE</div>
+  <h2 style="margin:6px 0">Put Your Child, Bride, Groom, or Quinceañera Right Inside the Theme!</h2>
+  <p style="font-size:13px;color:#e9d5ff">Choose any theme (like Shrek Swamp, Superhero, Pop Star, Quinceañera, or Bachelor Party), select <b>Individual</b> or <b>Bulk (10, 15, or 20 Guests)</b>, and upload a photo—our AI composites your face onto the banners, plates, cups, favors, and shirts!</p>
+  <div class="grid">
+    <div class="card">
+      <label style="font-size:12px;font-weight:bold;color:#f472b6">1. Select Event or Age Bracket:</label>
+      <select id="cat">
+        <option>Boys Ages 1–5 (Shrek, Dino, Monster Truck, Bluey-Style)</option>
+        <option>Boys Ages 5–10 (Minecraft-Style, Sonic, Pokemon, Ninja, Sports)</option>
+        <option>Boys Ages 10–16 (Esports VIP, Paintball, NBA/NFL Tailgate)</option>
+        <option>Girls Ages 1–5 (Ice Princess, Unicorn, Mermaid, Fairy)</option>
+        <option>Girls Ages 5–10 (Barbie-Style Pink, Pop Star Tour, Squishie Spa)</option>
+        <option>Girls Ages 10–16 (K-Beauty Glow Spa, Coquette Bow, Sweet 16)</option>
+        <option>Quinceañera Royale (Mis 15 Robes, Crowns, Damas Bulk Packs)</option>
+        <option>Wedding & Bridal (Bridesmaid Shirts/Robes, Groomsmen Gifts)</option>
+        <option>Bachelorette Squad (Custom Tees, Groom-Face Fans, Tumblers)</option>
+        <option>Bachelor Party (Groom-Face Golf Balls, Cigar/Whiskey Bulk)</option>
+      </select>
+    </div>
+    <div class="card">
+      <label style="font-size:12px;font-weight:bold;color:#facc15">2. Choose Bulk Pack or Individual:</label>
+      <select id="pack" onchange="calcPrice()">
+        <option value="18.99">Individual Personalized Item ($18.99)</option>
+        <option value="39.99" selected>10-Guest Complete Bulk Party Box ($39.99)</option>
+        <option value="54.99">15-Guest Complete Bulk Party Box ($54.99)</option>
+        <option value="68.99">20-Guest Mega Bulk Party Box ($68.99)</option>
+      </select>
+    </div>
+    <div class="card">
+      <label style="font-size:12px;font-weight:bold;color:#38bdf8">3. AI Face-Swap & Custom Name:</label>
+      <input id="pname" placeholder="Name & Age (e.g. Leo Turns 5 / Shrek Theme)">
+      <input type="file" accept="image/*" style="margin-top:8px;font-size:11px">
+    </div>
+  </div>
+  <div id="quote" style="margin-top:16px;padding:12px;background:#000;border-radius:10px;border:1px solid #facc15;font-size:13px">
+    <b>Selected Pack:</b> 10-Guest Complete Bulk Box (Plates, Cups, Napkins, Tablecover, Banner, Favors + Free AI Face-Swap Proof) — <b>$39.99</b> (+ $3.99 Expedited Insured Shipping)
+  </div>
+  <a class="btn" href="/nostalgia/lapooza-boys-ages-1-5">Browse All 10 Party Lapooza Storefronts (250 Themes) →</a>
+</div>
+</div>
+<script>
+function calcPrice(){
+  var p=parseFloat(document.getElementById("pack").value);
+  var s=p<100?3.99:5.99;
+  document.getElementById("quote").innerHTML="<b>Selected Pack Total:</b> Item $"+p.toFixed(2)+" + $"+s.toFixed(2)+" Insured Expedited Shipping = <b>$"+(p+s).toFixed(2)+"</b> (100% Certified U.S. Print Partner Guarantee)";
+}
+</script></body></html>
