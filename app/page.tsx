@@ -85,6 +85,14 @@ export default function MallOfMallsLobby() {
               {mallQuery && <button onClick={() => setMallQuery("")} className="bg-red-600 text-white font-black text-xs px-4 rounded-xl uppercase">Clear</button>}
             </div>
           </div>
+          <div className="mt-3 pt-3 border-t border-yellow-500/30 flex flex-col md:flex-row justify-between items-center gap-2 bg-amber-500/10 border border-amber-400/50 rounded-xl p-2.5">
+            <div className="text-[11px] text-zinc-200 text-left">
+              <span className="text-amber-400 font-black uppercase">🎩 DON&apos;T SEE IT IN OUR MALLS?</span> Our AI Concierge will find it at a <span className="text-emerald-400 font-bold">cheaper rate &amp; email you options within 3–4 Hours</span> (Locked on a <span className="text-yellow-300 font-bold">24-Hour Impulse Hold</span>)!
+            </div>
+            <Link href={"/nostalgia/concierge" + (mallQuery ? "?q=" + encodeURIComponent(mallQuery) : "")} className="bg-amber-400 hover:bg-amber-300 text-black font-black text-[11px] uppercase px-4 py-2 rounded-lg shrink-0 shadow">
+              🎩 Find It For Me (3–4 Hr Email • 24-Hr Hold) →
+            </Link>
+          </div>
           {mallQuery.trim().length > 1 && (() => {
             const q = mallQuery.toLowerCase().trim();
             const matched = Object.entries(masterInventory || {}).map(([room, items]: [string, any]) => {
@@ -133,8 +141,8 @@ export default function MallOfMallsLobby() {
                     <p className="text-xs text-zinc-300 max-w-3xl">{m.explain}</p>
                   </div>
                   <button onClick={() => setSelectedMallId(m.id)} className={`${m.btnBg} font-black text-xs uppercase px-6 py-4 rounded-2xl shrink-0`}>
-                    Enter {m.title} ({storeCount} Stores) →
-                  </button>
+                    Enter {m.title} ({storeCount} Stores) →</button>
+                  <Link href="/nostalgia/concierge" className="bg-amber-400/20 hover:bg-amber-400/30 border border-amber-400 text-amber-300 font-black text-[10px] uppercase px-3 py-2 rounded-xl text-center">🎩 Can&apos;t Find It? 3–4 Hr Concierge (24-Hr Hold) →</Link>
                 </div>
                 {idx === 0 && (
                   <div className="grid grid-cols-1 md:grid-cols-3 gap-3 pt-2 border-t border-emerald-500/30">
