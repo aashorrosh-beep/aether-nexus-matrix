@@ -86976,5 +86976,1586 @@ export const masterInventory: Record<string, any[]> = {
       },
       "status": "LIVE_MARKET_VERIFIED"
     }
+  ],
+  "sportflex-custom-jerseys-uniforms": [
+    {
+      "id": "SFLX-1-01",
+      "name": "Custom Stitched Baseball Button-Down Jersey (Your Name & # on Back + Team Front)",
+      "price": "$34.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 4 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $34.99 + $3.99 Ship = $38.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$7.00)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-1-02",
+      "name": "Custom Pro Mesh Football Game Jersey (Stitched Nameplate, Front/Back/Shoulder #s)",
+      "price": "$39.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 5 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $39.99 + $3.99 Ship = $43.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$8.00)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-1-03",
+      "name": "Custom Reversible Basketball Jersey & Shorts Set (Sublimated Name, # & Team Logo)",
+      "price": "$42.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 6 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $42.99 + $3.99 Ship = $46.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$8.60)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-1-04",
+      "name": "12-Player Complete Team Jersey Bulk Roster Pack (Custom Names & #s for Whole Team)",
+      "price": "$329.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 7 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $9.99 (Item $329.99 + $9.99 Ship = $339.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$66.00)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-1-05",
+      "name": "Custom Slowpitch Softball & Youth Travel League Full-Sublimation Jersey",
+      "price": "$32.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 8 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $32.99 + $3.99 Ship = $36.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$6.60)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-1-06",
+      "name": "Custom Stitched Baseball Button-Down Jersey (Your Name & # on Back + Team Front) [Pro Custom Edition #6]",
+      "price": "$38.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 9,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 9 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $38.99 + $3.99 Ship = $42.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$7.80)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-1-07",
+      "name": "Custom Pro Mesh Football Game Jersey (Stitched Nameplate, Front/Back/Shoulder #s) [Pro Custom Edition #7]",
+      "price": "$47.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 4 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $47.99 + $3.99 Ship = $51.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$9.60)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-1-08",
+      "name": "Custom Reversible Basketball Jersey & Shorts Set (Sublimated Name, # & Team Logo) [Pro Custom Edition #8]",
+      "price": "$54.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 5 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $54.99 + $3.99 Ship = $58.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$11.00)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-1-09",
+      "name": "12-Player Complete Team Jersey Bulk Roster Pack (Custom Names & #s for Whole Team) [Pro Custom Edition #9]",
+      "price": "$329.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 6 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $9.99 (Item $329.99 + $9.99 Ship = $339.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$66.00)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-1-10",
+      "name": "Custom Slowpitch Softball & Youth Travel League Full-Sublimation Jersey [Pro Custom Edition #10]",
+      "price": "$36.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 7 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $36.99 + $3.99 Ship = $40.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$7.40)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-1-11",
+      "name": "Custom Stitched Baseball Button-Down Jersey (Your Name & # on Back + Team Front) [Pro Custom Edition #11]",
+      "price": "$42.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 8 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $42.99 + $3.99 Ship = $46.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$8.60)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-1-12",
+      "name": "Custom Pro Mesh Football Game Jersey (Stitched Nameplate, Front/Back/Shoulder #s) [Pro Custom Edition #12]",
+      "price": "$51.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 9,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 9 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $51.99 + $3.99 Ship = $55.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$10.40)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-1-13",
+      "name": "Custom Reversible Basketball Jersey & Shorts Set (Sublimated Name, # & Team Logo) [Pro Custom Edition #13]",
+      "price": "$42.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRGgECJpBZTLpPnNVh63H73edIKyw3scWvTmNeW4Lz0_Mh4heoTvitSknPSREaK24KFaH_oAMqLs0EnaaXuKLSg240vXUkERHtYhA1uRLUm",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRGgECJpBZTLpPnNVh63H73edIKyw3scWvTmNeW4Lz0_Mh4heoTvitSknPSREaK24KFaH_oAMqLs0EnaaXuKLSg240vXUkERHtYhA1uRLUm",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRGgECJpBZTLpPnNVh63H73edIKyw3scWvTmNeW4Lz0_Mh4heoTvitSknPSREaK24KFaH_oAMqLs0EnaaXuKLSg240vXUkERHtYhA1uRLUm",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRGgECJpBZTLpPnNVh63H73edIKyw3scWvTmNeW4Lz0_Mh4heoTvitSknPSREaK24KFaH_oAMqLs0EnaaXuKLSg240vXUkERHtYhA1uRLUm"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 4 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $42.99 + $3.99 Ship = $46.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$8.60)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-1-14",
+      "name": "12-Player Complete Team Jersey Bulk Roster Pack (Custom Names & #s for Whole Team) [Pro Custom Edition #14]",
+      "price": "$333.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSSV0qXphRWfiqSLRlSvk_RZ0xd30jyq6ro4wp5thIjlkRP9sNeP1q2Wkwh10m3auo9Kx5cvrbSajkp6ZSkcyAHRlce9D7Nk8pH4-Wyj98",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSSV0qXphRWfiqSLRlSvk_RZ0xd30jyq6ro4wp5thIjlkRP9sNeP1q2Wkwh10m3auo9Kx5cvrbSajkp6ZSkcyAHRlce9D7Nk8pH4-Wyj98",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSSV0qXphRWfiqSLRlSvk_RZ0xd30jyq6ro4wp5thIjlkRP9sNeP1q2Wkwh10m3auo9Kx5cvrbSajkp6ZSkcyAHRlce9D7Nk8pH4-Wyj98",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSSV0qXphRWfiqSLRlSvk_RZ0xd30jyq6ro4wp5thIjlkRP9sNeP1q2Wkwh10m3auo9Kx5cvrbSajkp6ZSkcyAHRlce9D7Nk8pH4-Wyj98"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 5 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $9.99 (Item $333.99 + $9.99 Ship = $343.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$66.80)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-1-15",
+      "name": "Custom Slowpitch Softball & Youth Travel League Full-Sublimation Jersey [Pro Custom Edition #15]",
+      "price": "$40.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTg75YxYBJmqPN0nVfoEs5NbSFUU0xtvQ2yrbvJ7vnW27BHlz72Xhg-z2E5B5NJoG4iHxTNx4QhvToo0UMmKmcrPnFdexf0N8TxLFIqPX0P0ZTWfYXwztAC",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTg75YxYBJmqPN0nVfoEs5NbSFUU0xtvQ2yrbvJ7vnW27BHlz72Xhg-z2E5B5NJoG4iHxTNx4QhvToo0UMmKmcrPnFdexf0N8TxLFIqPX0P0ZTWfYXwztAC",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTg75YxYBJmqPN0nVfoEs5NbSFUU0xtvQ2yrbvJ7vnW27BHlz72Xhg-z2E5B5NJoG4iHxTNx4QhvToo0UMmKmcrPnFdexf0N8TxLFIqPX0P0ZTWfYXwztAC",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTg75YxYBJmqPN0nVfoEs5NbSFUU0xtvQ2yrbvJ7vnW27BHlz72Xhg-z2E5B5NJoG4iHxTNx4QhvToo0UMmKmcrPnFdexf0N8TxLFIqPX0P0ZTWfYXwztAC"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 6 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $40.99 + $3.99 Ship = $44.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$8.20)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-1-16",
+      "name": "Custom Stitched Baseball Button-Down Jersey (Your Name & # on Back + Team Front) [Pro Custom Edition #16]",
+      "price": "$46.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRBZY1jUHtwXtDaXo2s3S_X3r21qRC9YtW1sH8fFiEd8nD8aogRCfV2cVJAa_oBcFJH3M8KPsZ_eJi5RngBA_fAq7m5y9WeXWtLf8nJephbkzKrgHP2_r__7Q",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRBZY1jUHtwXtDaXo2s3S_X3r21qRC9YtW1sH8fFiEd8nD8aogRCfV2cVJAa_oBcFJH3M8KPsZ_eJi5RngBA_fAq7m5y9WeXWtLf8nJephbkzKrgHP2_r__7Q",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRBZY1jUHtwXtDaXo2s3S_X3r21qRC9YtW1sH8fFiEd8nD8aogRCfV2cVJAa_oBcFJH3M8KPsZ_eJi5RngBA_fAq7m5y9WeXWtLf8nJephbkzKrgHP2_r__7Q",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRBZY1jUHtwXtDaXo2s3S_X3r21qRC9YtW1sH8fFiEd8nD8aogRCfV2cVJAa_oBcFJH3M8KPsZ_eJi5RngBA_fAq7m5y9WeXWtLf8nJephbkzKrgHP2_r__7Q"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 7 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $46.99 + $3.99 Ship = $50.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$9.40)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-1-17",
+      "name": "Custom Pro Mesh Football Game Jersey (Stitched Nameplate, Front/Back/Shoulder #s) [Pro Custom Edition #17]",
+      "price": "$39.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQtpMuair-Ye62LKEQ90sALgc2hj5o7RH-RzfYlolZQkWpOeCxWmLI7w1wEjI1nLdvAobaFVAXzRQG6OdJAhmCDz18cXmlX9g",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQtpMuair-Ye62LKEQ90sALgc2hj5o7RH-RzfYlolZQkWpOeCxWmLI7w1wEjI1nLdvAobaFVAXzRQG6OdJAhmCDz18cXmlX9g",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQtpMuair-Ye62LKEQ90sALgc2hj5o7RH-RzfYlolZQkWpOeCxWmLI7w1wEjI1nLdvAobaFVAXzRQG6OdJAhmCDz18cXmlX9g",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQtpMuair-Ye62LKEQ90sALgc2hj5o7RH-RzfYlolZQkWpOeCxWmLI7w1wEjI1nLdvAobaFVAXzRQG6OdJAhmCDz18cXmlX9g"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 8 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $39.99 + $3.99 Ship = $43.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$8.00)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-1-18",
+      "name": "Custom Reversible Basketball Jersey & Shorts Set (Sublimated Name, # & Team Logo) [Pro Custom Edition #18]",
+      "price": "$46.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS12sYLoWcDbgs949CLcvMuGf4VF-L6ejxu-TRu8w4d3l9ESkAOa7KKidDgqXn2YogZ85yE7Ta4rtVg-95NvMfrdBIlMNpG",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS12sYLoWcDbgs949CLcvMuGf4VF-L6ejxu-TRu8w4d3l9ESkAOa7KKidDgqXn2YogZ85yE7Ta4rtVg-95NvMfrdBIlMNpG",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS12sYLoWcDbgs949CLcvMuGf4VF-L6ejxu-TRu8w4d3l9ESkAOa7KKidDgqXn2YogZ85yE7Ta4rtVg-95NvMfrdBIlMNpG",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS12sYLoWcDbgs949CLcvMuGf4VF-L6ejxu-TRu8w4d3l9ESkAOa7KKidDgqXn2YogZ85yE7Ta4rtVg-95NvMfrdBIlMNpG"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 9,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 9 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $46.99 + $3.99 Ship = $50.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$9.40)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-1-19",
+      "name": "12-Player Complete Team Jersey Bulk Roster Pack (Custom Names & #s for Whole Team) [Pro Custom Edition #19]",
+      "price": "$337.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGDG0o4VvEV4arfpSAGO1RkeJjsNwSqRxF2Df0m0nTtlLaYQLztfukSlu0I3MFx2U7HJVmEb9mcEHJFpGxefXs0r_nTSy0t20dlO1Y5PSu",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGDG0o4VvEV4arfpSAGO1RkeJjsNwSqRxF2Df0m0nTtlLaYQLztfukSlu0I3MFx2U7HJVmEb9mcEHJFpGxefXs0r_nTSy0t20dlO1Y5PSu",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGDG0o4VvEV4arfpSAGO1RkeJjsNwSqRxF2Df0m0nTtlLaYQLztfukSlu0I3MFx2U7HJVmEb9mcEHJFpGxefXs0r_nTSy0t20dlO1Y5PSu",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGDG0o4VvEV4arfpSAGO1RkeJjsNwSqRxF2Df0m0nTtlLaYQLztfukSlu0I3MFx2U7HJVmEb9mcEHJFpGxefXs0r_nTSy0t20dlO1Y5PSu"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 4 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $9.99 (Item $337.99 + $9.99 Ship = $347.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$67.60)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-1-20",
+      "name": "Custom Slowpitch Softball & Youth Travel League Full-Sublimation Jersey [Pro Custom Edition #20]",
+      "price": "$44.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRfwCvqWhZO3m42u4NryggaaT6HL6G2s4pj6mrd5oiQmrGRp5NcVk9iHqc6vRz1issPGXltN778fTpi6Vn8jpMQ-_W2t9AnAifBoNn-daqEb8ghroUmAEAxQQ",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRfwCvqWhZO3m42u4NryggaaT6HL6G2s4pj6mrd5oiQmrGRp5NcVk9iHqc6vRz1issPGXltN778fTpi6Vn8jpMQ-_W2t9AnAifBoNn-daqEb8ghroUmAEAxQQ",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRfwCvqWhZO3m42u4NryggaaT6HL6G2s4pj6mrd5oiQmrGRp5NcVk9iHqc6vRz1issPGXltN778fTpi6Vn8jpMQ-_W2t9AnAifBoNn-daqEb8ghroUmAEAxQQ",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRfwCvqWhZO3m42u4NryggaaT6HL6G2s4pj6mrd5oiQmrGRp5NcVk9iHqc6vRz1issPGXltN778fTpi6Vn8jpMQ-_W2t9AnAifBoNn-daqEb8ghroUmAEAxQQ"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 5 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $44.99 + $3.99 Ship = $48.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$9.00)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-1-21",
+      "name": "Custom Stitched Baseball Button-Down Jersey (Your Name & # on Back + Team Front) [Pro Custom Edition #21]",
+      "price": "$34.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQLj2YIVoU658rgZalk_iZd2oG6toGK5C0J8b-3cUL_a7hB0Ts6U-VWWn42MuNM6kl0bKG4heYC-9IpHep_7w-sTkv5PNDc",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQLj2YIVoU658rgZalk_iZd2oG6toGK5C0J8b-3cUL_a7hB0Ts6U-VWWn42MuNM6kl0bKG4heYC-9IpHep_7w-sTkv5PNDc",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQLj2YIVoU658rgZalk_iZd2oG6toGK5C0J8b-3cUL_a7hB0Ts6U-VWWn42MuNM6kl0bKG4heYC-9IpHep_7w-sTkv5PNDc",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQLj2YIVoU658rgZalk_iZd2oG6toGK5C0J8b-3cUL_a7hB0Ts6U-VWWn42MuNM6kl0bKG4heYC-9IpHep_7w-sTkv5PNDc"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 6 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $34.99 + $3.99 Ship = $38.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$7.00)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-1-22",
+      "name": "Custom Pro Mesh Football Game Jersey (Stitched Nameplate, Front/Back/Shoulder #s) [Pro Custom Edition #22]",
+      "price": "$43.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR0HWuBcMi10IW5m069yVWf5GzAExXSLOfpv_p32VGEpJCVMpgBLvv3pzw2jXfSeVD12bbt8xnKzesm65aSbN4CZh-TDOoZEWIRwnOm9C6LR5O1LQvISSGIGA",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR0HWuBcMi10IW5m069yVWf5GzAExXSLOfpv_p32VGEpJCVMpgBLvv3pzw2jXfSeVD12bbt8xnKzesm65aSbN4CZh-TDOoZEWIRwnOm9C6LR5O1LQvISSGIGA",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR0HWuBcMi10IW5m069yVWf5GzAExXSLOfpv_p32VGEpJCVMpgBLvv3pzw2jXfSeVD12bbt8xnKzesm65aSbN4CZh-TDOoZEWIRwnOm9C6LR5O1LQvISSGIGA",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR0HWuBcMi10IW5m069yVWf5GzAExXSLOfpv_p32VGEpJCVMpgBLvv3pzw2jXfSeVD12bbt8xnKzesm65aSbN4CZh-TDOoZEWIRwnOm9C6LR5O1LQvISSGIGA"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 7 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $43.99 + $3.99 Ship = $47.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$8.80)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-1-23",
+      "name": "Custom Reversible Basketball Jersey & Shorts Set (Sublimated Name, # & Team Logo) [Pro Custom Edition #23]",
+      "price": "$50.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS4xSXI5vDpVsl1VXbniszqgXH46liiLKi_LqmdMDXk-HWuN_IN9weuCxYKisKKJ3lXyG1YN5CIDKOPM5OP7fCAfCLr8I4r0J9iS5mQj4NtzomxfJuGQQ_U0g",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS4xSXI5vDpVsl1VXbniszqgXH46liiLKi_LqmdMDXk-HWuN_IN9weuCxYKisKKJ3lXyG1YN5CIDKOPM5OP7fCAfCLr8I4r0J9iS5mQj4NtzomxfJuGQQ_U0g",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS4xSXI5vDpVsl1VXbniszqgXH46liiLKi_LqmdMDXk-HWuN_IN9weuCxYKisKKJ3lXyG1YN5CIDKOPM5OP7fCAfCLr8I4r0J9iS5mQj4NtzomxfJuGQQ_U0g",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS4xSXI5vDpVsl1VXbniszqgXH46liiLKi_LqmdMDXk-HWuN_IN9weuCxYKisKKJ3lXyG1YN5CIDKOPM5OP7fCAfCLr8I4r0J9iS5mQj4NtzomxfJuGQQ_U0g"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 8 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $50.99 + $3.99 Ship = $54.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$10.20)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-1-24",
+      "name": "12-Player Complete Team Jersey Bulk Roster Pack (Custom Names & #s for Whole Team) [Pro Custom Edition #24]",
+      "price": "$341.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR3cc6Vq3prJ5P2_OZCWkDoXtYKJ2Q5Aq1OQ0bk5OV799ce7ROC3SQR2vcOSObLctlNoIA9VBNXwTFSK9R-T_Ur7flAC8BqKxRWg80MW9Oh6FlwbIYrjzWR-w",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR3cc6Vq3prJ5P2_OZCWkDoXtYKJ2Q5Aq1OQ0bk5OV799ce7ROC3SQR2vcOSObLctlNoIA9VBNXwTFSK9R-T_Ur7flAC8BqKxRWg80MW9Oh6FlwbIYrjzWR-w",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR3cc6Vq3prJ5P2_OZCWkDoXtYKJ2Q5Aq1OQ0bk5OV799ce7ROC3SQR2vcOSObLctlNoIA9VBNXwTFSK9R-T_Ur7flAC8BqKxRWg80MW9Oh6FlwbIYrjzWR-w",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR3cc6Vq3prJ5P2_OZCWkDoXtYKJ2Q5Aq1OQ0bk5OV799ce7ROC3SQR2vcOSObLctlNoIA9VBNXwTFSK9R-T_Ur7flAC8BqKxRWg80MW9Oh6FlwbIYrjzWR-w"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 9,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 9 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $9.99 (Item $341.99 + $9.99 Ship = $351.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$68.40)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-1-25",
+      "name": "Custom Slowpitch Softball & Youth Travel League Full-Sublimation Jersey [Pro Custom Edition #25]",
+      "price": "$32.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTzgkgff2akD-FdaYXwe9HpjDiIuDjW930XnaVgEySfIZ9xRuALnCli23vsQ0GAgw1kHd_ckgbCEW4Ma79qD_yqgwg7Du_JaIoq3MgdbvyRTZvyOFHi6OxG",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTzgkgff2akD-FdaYXwe9HpjDiIuDjW930XnaVgEySfIZ9xRuALnCli23vsQ0GAgw1kHd_ckgbCEW4Ma79qD_yqgwg7Du_JaIoq3MgdbvyRTZvyOFHi6OxG",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTzgkgff2akD-FdaYXwe9HpjDiIuDjW930XnaVgEySfIZ9xRuALnCli23vsQ0GAgw1kHd_ckgbCEW4Ma79qD_yqgwg7Du_JaIoq3MgdbvyRTZvyOFHi6OxG",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTzgkgff2akD-FdaYXwe9HpjDiIuDjW930XnaVgEySfIZ9xRuALnCli23vsQ0GAgw1kHd_ckgbCEW4Ma79qD_yqgwg7Du_JaIoq3MgdbvyRTZvyOFHi6OxG"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 4 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $32.99 + $3.99 Ship = $36.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$6.60)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "sportflex-custom-team-hats-caps": [
+    {
+      "id": "SFLX-2-01",
+      "name": "Custom 3D Puff-Embroidered Pro Baseball Fitted/Snapback Cap (+Player # on Side)",
+      "price": "$24.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 4 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $24.99 + $3.99 Ship = $28.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$5.00)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-2-02",
+      "name": "12-Pack Custom Team Dugout Hats Bulk Box (3D Front Logo + Individual Player #s)",
+      "price": "$199.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 5 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $5.99 (Item $199.99 + $5.99 Ship = $205.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$40.00)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-2-03",
+      "name": "Custom Laser-Perforated Rope Golf & Coaches Sideline Performance Hat",
+      "price": "$26.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 6 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $26.99 + $3.99 Ship = $30.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$5.40)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-2-04",
+      "name": "Custom Softball & Tennis High-Crown Performance Visor w/ Stitched Name/Logo",
+      "price": "$21.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 7 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $21.99 + $3.99 Ship = $25.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$4.40)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-2-05",
+      "name": "Custom Embroidered Winter Sideline Cuffed Pom Beanie + Fleece Neck Gaiter",
+      "price": "$24.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 8 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $24.99 + $3.99 Ship = $28.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$5.00)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-2-06",
+      "name": "Custom 3D Puff-Embroidered Pro Baseball Fitted/Snapback Cap (+Player # on Side) [Pro Custom Edition #6]",
+      "price": "$28.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 9,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 9 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $28.99 + $3.99 Ship = $32.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$5.80)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-2-07",
+      "name": "12-Pack Custom Team Dugout Hats Bulk Box (3D Front Logo + Individual Player #s) [Pro Custom Edition #7]",
+      "price": "$207.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 4 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $5.99 (Item $207.99 + $5.99 Ship = $213.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$41.60)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-2-08",
+      "name": "Custom Laser-Perforated Rope Golf & Coaches Sideline Performance Hat [Pro Custom Edition #8]",
+      "price": "$38.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 5 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $38.99 + $3.99 Ship = $42.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$7.80)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-2-09",
+      "name": "Custom Softball & Tennis High-Crown Performance Visor w/ Stitched Name/Logo [Pro Custom Edition #9]",
+      "price": "$21.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 6 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $21.99 + $3.99 Ship = $25.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$4.40)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-2-10",
+      "name": "Custom Embroidered Winter Sideline Cuffed Pom Beanie + Fleece Neck Gaiter [Pro Custom Edition #10]",
+      "price": "$28.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 7 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $28.99 + $3.99 Ship = $32.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$5.80)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-2-11",
+      "name": "Custom 3D Puff-Embroidered Pro Baseball Fitted/Snapback Cap (+Player # on Side) [Pro Custom Edition #11]",
+      "price": "$32.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 8 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $32.99 + $3.99 Ship = $36.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$6.60)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-2-12",
+      "name": "12-Pack Custom Team Dugout Hats Bulk Box (3D Front Logo + Individual Player #s) [Pro Custom Edition #12]",
+      "price": "$211.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRGgECJpBZTLpPnNVh63H73edIKyw3scWvTmNeW4Lz0_Mh4heoTvitSknPSREaK24KFaH_oAMqLs0EnaaXuKLSg240vXUkERHtYhA1uRLUm",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRGgECJpBZTLpPnNVh63H73edIKyw3scWvTmNeW4Lz0_Mh4heoTvitSknPSREaK24KFaH_oAMqLs0EnaaXuKLSg240vXUkERHtYhA1uRLUm",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRGgECJpBZTLpPnNVh63H73edIKyw3scWvTmNeW4Lz0_Mh4heoTvitSknPSREaK24KFaH_oAMqLs0EnaaXuKLSg240vXUkERHtYhA1uRLUm",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRGgECJpBZTLpPnNVh63H73edIKyw3scWvTmNeW4Lz0_Mh4heoTvitSknPSREaK24KFaH_oAMqLs0EnaaXuKLSg240vXUkERHtYhA1uRLUm"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 9,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 9 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $5.99 (Item $211.99 + $5.99 Ship = $217.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$42.40)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-2-13",
+      "name": "Custom Laser-Perforated Rope Golf & Coaches Sideline Performance Hat [Pro Custom Edition #13]",
+      "price": "$26.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSSV0qXphRWfiqSLRlSvk_RZ0xd30jyq6ro4wp5thIjlkRP9sNeP1q2Wkwh10m3auo9Kx5cvrbSajkp6ZSkcyAHRlce9D7Nk8pH4-Wyj98",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSSV0qXphRWfiqSLRlSvk_RZ0xd30jyq6ro4wp5thIjlkRP9sNeP1q2Wkwh10m3auo9Kx5cvrbSajkp6ZSkcyAHRlce9D7Nk8pH4-Wyj98",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSSV0qXphRWfiqSLRlSvk_RZ0xd30jyq6ro4wp5thIjlkRP9sNeP1q2Wkwh10m3auo9Kx5cvrbSajkp6ZSkcyAHRlce9D7Nk8pH4-Wyj98",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSSV0qXphRWfiqSLRlSvk_RZ0xd30jyq6ro4wp5thIjlkRP9sNeP1q2Wkwh10m3auo9Kx5cvrbSajkp6ZSkcyAHRlce9D7Nk8pH4-Wyj98"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 4 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $26.99 + $3.99 Ship = $30.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$5.40)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-2-14",
+      "name": "Custom Softball & Tennis High-Crown Performance Visor w/ Stitched Name/Logo [Pro Custom Edition #14]",
+      "price": "$25.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTg75YxYBJmqPN0nVfoEs5NbSFUU0xtvQ2yrbvJ7vnW27BHlz72Xhg-z2E5B5NJoG4iHxTNx4QhvToo0UMmKmcrPnFdexf0N8TxLFIqPX0P0ZTWfYXwztAC",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTg75YxYBJmqPN0nVfoEs5NbSFUU0xtvQ2yrbvJ7vnW27BHlz72Xhg-z2E5B5NJoG4iHxTNx4QhvToo0UMmKmcrPnFdexf0N8TxLFIqPX0P0ZTWfYXwztAC",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTg75YxYBJmqPN0nVfoEs5NbSFUU0xtvQ2yrbvJ7vnW27BHlz72Xhg-z2E5B5NJoG4iHxTNx4QhvToo0UMmKmcrPnFdexf0N8TxLFIqPX0P0ZTWfYXwztAC",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTg75YxYBJmqPN0nVfoEs5NbSFUU0xtvQ2yrbvJ7vnW27BHlz72Xhg-z2E5B5NJoG4iHxTNx4QhvToo0UMmKmcrPnFdexf0N8TxLFIqPX0P0ZTWfYXwztAC"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 5 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $25.99 + $3.99 Ship = $29.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$5.20)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-2-15",
+      "name": "Custom Embroidered Winter Sideline Cuffed Pom Beanie + Fleece Neck Gaiter [Pro Custom Edition #15]",
+      "price": "$32.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRBZY1jUHtwXtDaXo2s3S_X3r21qRC9YtW1sH8fFiEd8nD8aogRCfV2cVJAa_oBcFJH3M8KPsZ_eJi5RngBA_fAq7m5y9WeXWtLf8nJephbkzKrgHP2_r__7Q",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRBZY1jUHtwXtDaXo2s3S_X3r21qRC9YtW1sH8fFiEd8nD8aogRCfV2cVJAa_oBcFJH3M8KPsZ_eJi5RngBA_fAq7m5y9WeXWtLf8nJephbkzKrgHP2_r__7Q",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRBZY1jUHtwXtDaXo2s3S_X3r21qRC9YtW1sH8fFiEd8nD8aogRCfV2cVJAa_oBcFJH3M8KPsZ_eJi5RngBA_fAq7m5y9WeXWtLf8nJephbkzKrgHP2_r__7Q",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRBZY1jUHtwXtDaXo2s3S_X3r21qRC9YtW1sH8fFiEd8nD8aogRCfV2cVJAa_oBcFJH3M8KPsZ_eJi5RngBA_fAq7m5y9WeXWtLf8nJephbkzKrgHP2_r__7Q"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 6 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $32.99 + $3.99 Ship = $36.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$6.60)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-2-16",
+      "name": "Custom 3D Puff-Embroidered Pro Baseball Fitted/Snapback Cap (+Player # on Side) [Pro Custom Edition #16]",
+      "price": "$36.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQtpMuair-Ye62LKEQ90sALgc2hj5o7RH-RzfYlolZQkWpOeCxWmLI7w1wEjI1nLdvAobaFVAXzRQG6OdJAhmCDz18cXmlX9g",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQtpMuair-Ye62LKEQ90sALgc2hj5o7RH-RzfYlolZQkWpOeCxWmLI7w1wEjI1nLdvAobaFVAXzRQG6OdJAhmCDz18cXmlX9g",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQtpMuair-Ye62LKEQ90sALgc2hj5o7RH-RzfYlolZQkWpOeCxWmLI7w1wEjI1nLdvAobaFVAXzRQG6OdJAhmCDz18cXmlX9g",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQtpMuair-Ye62LKEQ90sALgc2hj5o7RH-RzfYlolZQkWpOeCxWmLI7w1wEjI1nLdvAobaFVAXzRQG6OdJAhmCDz18cXmlX9g"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 7 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $36.99 + $3.99 Ship = $40.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$7.40)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-2-17",
+      "name": "12-Pack Custom Team Dugout Hats Bulk Box (3D Front Logo + Individual Player #s) [Pro Custom Edition #17]",
+      "price": "$199.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS12sYLoWcDbgs949CLcvMuGf4VF-L6ejxu-TRu8w4d3l9ESkAOa7KKidDgqXn2YogZ85yE7Ta4rtVg-95NvMfrdBIlMNpG",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS12sYLoWcDbgs949CLcvMuGf4VF-L6ejxu-TRu8w4d3l9ESkAOa7KKidDgqXn2YogZ85yE7Ta4rtVg-95NvMfrdBIlMNpG",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS12sYLoWcDbgs949CLcvMuGf4VF-L6ejxu-TRu8w4d3l9ESkAOa7KKidDgqXn2YogZ85yE7Ta4rtVg-95NvMfrdBIlMNpG",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS12sYLoWcDbgs949CLcvMuGf4VF-L6ejxu-TRu8w4d3l9ESkAOa7KKidDgqXn2YogZ85yE7Ta4rtVg-95NvMfrdBIlMNpG"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 8 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $5.99 (Item $199.99 + $5.99 Ship = $205.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$40.00)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-2-18",
+      "name": "Custom Laser-Perforated Rope Golf & Coaches Sideline Performance Hat [Pro Custom Edition #18]",
+      "price": "$30.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGDG0o4VvEV4arfpSAGO1RkeJjsNwSqRxF2Df0m0nTtlLaYQLztfukSlu0I3MFx2U7HJVmEb9mcEHJFpGxefXs0r_nTSy0t20dlO1Y5PSu",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGDG0o4VvEV4arfpSAGO1RkeJjsNwSqRxF2Df0m0nTtlLaYQLztfukSlu0I3MFx2U7HJVmEb9mcEHJFpGxefXs0r_nTSy0t20dlO1Y5PSu",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGDG0o4VvEV4arfpSAGO1RkeJjsNwSqRxF2Df0m0nTtlLaYQLztfukSlu0I3MFx2U7HJVmEb9mcEHJFpGxefXs0r_nTSy0t20dlO1Y5PSu",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGDG0o4VvEV4arfpSAGO1RkeJjsNwSqRxF2Df0m0nTtlLaYQLztfukSlu0I3MFx2U7HJVmEb9mcEHJFpGxefXs0r_nTSy0t20dlO1Y5PSu"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 9,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 9 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $30.99 + $3.99 Ship = $34.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$6.20)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-2-19",
+      "name": "Custom Softball & Tennis High-Crown Performance Visor w/ Stitched Name/Logo [Pro Custom Edition #19]",
+      "price": "$29.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRfwCvqWhZO3m42u4NryggaaT6HL6G2s4pj6mrd5oiQmrGRp5NcVk9iHqc6vRz1issPGXltN778fTpi6Vn8jpMQ-_W2t9AnAifBoNn-daqEb8ghroUmAEAxQQ",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRfwCvqWhZO3m42u4NryggaaT6HL6G2s4pj6mrd5oiQmrGRp5NcVk9iHqc6vRz1issPGXltN778fTpi6Vn8jpMQ-_W2t9AnAifBoNn-daqEb8ghroUmAEAxQQ",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRfwCvqWhZO3m42u4NryggaaT6HL6G2s4pj6mrd5oiQmrGRp5NcVk9iHqc6vRz1issPGXltN778fTpi6Vn8jpMQ-_W2t9AnAifBoNn-daqEb8ghroUmAEAxQQ",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRfwCvqWhZO3m42u4NryggaaT6HL6G2s4pj6mrd5oiQmrGRp5NcVk9iHqc6vRz1issPGXltN778fTpi6Vn8jpMQ-_W2t9AnAifBoNn-daqEb8ghroUmAEAxQQ"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 4 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $29.99 + $3.99 Ship = $33.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$6.00)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-2-20",
+      "name": "Custom Embroidered Winter Sideline Cuffed Pom Beanie + Fleece Neck Gaiter [Pro Custom Edition #20]",
+      "price": "$36.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQLj2YIVoU658rgZalk_iZd2oG6toGK5C0J8b-3cUL_a7hB0Ts6U-VWWn42MuNM6kl0bKG4heYC-9IpHep_7w-sTkv5PNDc",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQLj2YIVoU658rgZalk_iZd2oG6toGK5C0J8b-3cUL_a7hB0Ts6U-VWWn42MuNM6kl0bKG4heYC-9IpHep_7w-sTkv5PNDc",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQLj2YIVoU658rgZalk_iZd2oG6toGK5C0J8b-3cUL_a7hB0Ts6U-VWWn42MuNM6kl0bKG4heYC-9IpHep_7w-sTkv5PNDc",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQLj2YIVoU658rgZalk_iZd2oG6toGK5C0J8b-3cUL_a7hB0Ts6U-VWWn42MuNM6kl0bKG4heYC-9IpHep_7w-sTkv5PNDc"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 5 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $36.99 + $3.99 Ship = $40.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$7.40)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-2-21",
+      "name": "Custom 3D Puff-Embroidered Pro Baseball Fitted/Snapback Cap (+Player # on Side) [Pro Custom Edition #21]",
+      "price": "$24.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR0HWuBcMi10IW5m069yVWf5GzAExXSLOfpv_p32VGEpJCVMpgBLvv3pzw2jXfSeVD12bbt8xnKzesm65aSbN4CZh-TDOoZEWIRwnOm9C6LR5O1LQvISSGIGA",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR0HWuBcMi10IW5m069yVWf5GzAExXSLOfpv_p32VGEpJCVMpgBLvv3pzw2jXfSeVD12bbt8xnKzesm65aSbN4CZh-TDOoZEWIRwnOm9C6LR5O1LQvISSGIGA",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR0HWuBcMi10IW5m069yVWf5GzAExXSLOfpv_p32VGEpJCVMpgBLvv3pzw2jXfSeVD12bbt8xnKzesm65aSbN4CZh-TDOoZEWIRwnOm9C6LR5O1LQvISSGIGA",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR0HWuBcMi10IW5m069yVWf5GzAExXSLOfpv_p32VGEpJCVMpgBLvv3pzw2jXfSeVD12bbt8xnKzesm65aSbN4CZh-TDOoZEWIRwnOm9C6LR5O1LQvISSGIGA"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 6 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $24.99 + $3.99 Ship = $28.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$5.00)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-2-22",
+      "name": "12-Pack Custom Team Dugout Hats Bulk Box (3D Front Logo + Individual Player #s) [Pro Custom Edition #22]",
+      "price": "$203.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS4xSXI5vDpVsl1VXbniszqgXH46liiLKi_LqmdMDXk-HWuN_IN9weuCxYKisKKJ3lXyG1YN5CIDKOPM5OP7fCAfCLr8I4r0J9iS5mQj4NtzomxfJuGQQ_U0g",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS4xSXI5vDpVsl1VXbniszqgXH46liiLKi_LqmdMDXk-HWuN_IN9weuCxYKisKKJ3lXyG1YN5CIDKOPM5OP7fCAfCLr8I4r0J9iS5mQj4NtzomxfJuGQQ_U0g",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS4xSXI5vDpVsl1VXbniszqgXH46liiLKi_LqmdMDXk-HWuN_IN9weuCxYKisKKJ3lXyG1YN5CIDKOPM5OP7fCAfCLr8I4r0J9iS5mQj4NtzomxfJuGQQ_U0g",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS4xSXI5vDpVsl1VXbniszqgXH46liiLKi_LqmdMDXk-HWuN_IN9weuCxYKisKKJ3lXyG1YN5CIDKOPM5OP7fCAfCLr8I4r0J9iS5mQj4NtzomxfJuGQQ_U0g"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 7 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $5.99 (Item $203.99 + $5.99 Ship = $209.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$40.80)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-2-23",
+      "name": "Custom Laser-Perforated Rope Golf & Coaches Sideline Performance Hat [Pro Custom Edition #23]",
+      "price": "$34.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR3cc6Vq3prJ5P2_OZCWkDoXtYKJ2Q5Aq1OQ0bk5OV799ce7ROC3SQR2vcOSObLctlNoIA9VBNXwTFSK9R-T_Ur7flAC8BqKxRWg80MW9Oh6FlwbIYrjzWR-w",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR3cc6Vq3prJ5P2_OZCWkDoXtYKJ2Q5Aq1OQ0bk5OV799ce7ROC3SQR2vcOSObLctlNoIA9VBNXwTFSK9R-T_Ur7flAC8BqKxRWg80MW9Oh6FlwbIYrjzWR-w",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR3cc6Vq3prJ5P2_OZCWkDoXtYKJ2Q5Aq1OQ0bk5OV799ce7ROC3SQR2vcOSObLctlNoIA9VBNXwTFSK9R-T_Ur7flAC8BqKxRWg80MW9Oh6FlwbIYrjzWR-w",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR3cc6Vq3prJ5P2_OZCWkDoXtYKJ2Q5Aq1OQ0bk5OV799ce7ROC3SQR2vcOSObLctlNoIA9VBNXwTFSK9R-T_Ur7flAC8BqKxRWg80MW9Oh6FlwbIYrjzWR-w"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 8 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $34.99 + $3.99 Ship = $38.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$7.00)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-2-24",
+      "name": "Custom Softball & Tennis High-Crown Performance Visor w/ Stitched Name/Logo [Pro Custom Edition #24]",
+      "price": "$33.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTzgkgff2akD-FdaYXwe9HpjDiIuDjW930XnaVgEySfIZ9xRuALnCli23vsQ0GAgw1kHd_ckgbCEW4Ma79qD_yqgwg7Du_JaIoq3MgdbvyRTZvyOFHi6OxG",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTzgkgff2akD-FdaYXwe9HpjDiIuDjW930XnaVgEySfIZ9xRuALnCli23vsQ0GAgw1kHd_ckgbCEW4Ma79qD_yqgwg7Du_JaIoq3MgdbvyRTZvyOFHi6OxG",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTzgkgff2akD-FdaYXwe9HpjDiIuDjW930XnaVgEySfIZ9xRuALnCli23vsQ0GAgw1kHd_ckgbCEW4Ma79qD_yqgwg7Du_JaIoq3MgdbvyRTZvyOFHi6OxG",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTzgkgff2akD-FdaYXwe9HpjDiIuDjW930XnaVgEySfIZ9xRuALnCli23vsQ0GAgw1kHd_ckgbCEW4Ma79qD_yqgwg7Du_JaIoq3MgdbvyRTZvyOFHi6OxG"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 9,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 9 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $33.99 + $3.99 Ship = $37.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$6.80)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-2-25",
+      "name": "Custom Embroidered Winter Sideline Cuffed Pom Beanie + Fleece Neck Gaiter [Pro Custom Edition #25]",
+      "price": "$24.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTJDO16Z4cyZe8DOVlxvUylGoTxc5v5r9k87zhwmWwDVRR4-t_71jVv0fpuYddPvWCXXDnsfhRf7A_FFzGii2Fp7JWSo816vn5l3SEQ95k",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTJDO16Z4cyZe8DOVlxvUylGoTxc5v5r9k87zhwmWwDVRR4-t_71jVv0fpuYddPvWCXXDnsfhRf7A_FFzGii2Fp7JWSo816vn5l3SEQ95k",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTJDO16Z4cyZe8DOVlxvUylGoTxc5v5r9k87zhwmWwDVRR4-t_71jVv0fpuYddPvWCXXDnsfhRf7A_FFzGii2Fp7JWSo816vn5l3SEQ95k",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTJDO16Z4cyZe8DOVlxvUylGoTxc5v5r9k87zhwmWwDVRR4-t_71jVv0fpuYddPvWCXXDnsfhRf7A_FFzGii2Fp7JWSo816vn5l3SEQ95k"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 4 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $24.99 + $3.99 Ship = $28.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$5.00)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "sportflex-pro-gloves-diamond-gear": [
+    {
+      "id": "SFLX-3-01",
+      "name": "Pro Steerhide Leather Infield Baseball Mitt 11.5\" (Free Custom Name & # on Thumb)",
+      "price": "$119.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 4 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $5.99 (Item $119.99 + $5.99 Ship = $125.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$24.00)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-3-02",
+      "name": "Pro Kip Leather Outfield Trapeze Baseball/Softball Glove 12.75\" (Custom Embroidered)",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSYhZin1GiMsuqZUD5CaaUBlz811BOBRqd4semGlzycOgXoLSMWhwqDSCBS1VA7EMNXjgFLWaHN6u5FsvxhTyJzYaqxksTklX6h5Kj4E"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 5 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $5.99 (Item $129.99 + $5.99 Ship = $135.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$26.00)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-3-03",
+      "name": "Heavy-Duty Framing Catcher’s Mitt 33.5\" + Pro Chest Protector, Shin Guards & Mask",
+      "price": "$169.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuTsLhnrwz_UuTQuOZv9RLAjgq8LQNGCNRuoJbXBSWSkJLMAauFt8P7et-Rno0tlA4ph0ppcOMeovRVpaPz2onqBEuUtLFUZ_IA9B2AHk"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 6 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $5.99 (Item $169.99 + $5.99 Ship = $175.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$34.00)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-3-04",
+      "name": "Youth Travel-Ball Easy-Break-In Leather Baseball & Softball Mitt (Ages 6–12)",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzUlnC2xEY_mwORjt8XjdXltdDEu8W9qEzuppzpq9CoD11dtB0SbaNu2V3k410dD5IdTyJpK1EAtBa2kDuW6thZe2KS-kfYzhRssh6c8Nm"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 7 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $59.99 + $3.99 Ship = $63.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$12.00)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-3-05",
+      "name": "Custom Player Name & # Sliding Mitt + Pro Leather Batting Gloves & Bat Pack Bundle",
+      "price": "$64.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 8 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $64.99 + $3.99 Ship = $68.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$13.00)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-3-06",
+      "name": "Pro Steerhide Leather Infield Baseball Mitt 11.5\" (Free Custom Name & # on Thumb) [Pro Custom Edition #6]",
+      "price": "$123.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 9,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 9 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $5.99 (Item $123.99 + $5.99 Ship = $129.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$24.80)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-3-07",
+      "name": "Pro Kip Leather Outfield Trapeze Baseball/Softball Glove 12.75\" (Custom Embroidered) [Pro Custom Edition #7]",
+      "price": "$137.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 4 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $5.99 (Item $137.99 + $5.99 Ship = $143.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$27.60)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-3-08",
+      "name": "Heavy-Duty Framing Catcher’s Mitt 33.5\" + Pro Chest Protector, Shin Guards & Mask [Pro Custom Edition #8]",
+      "price": "$181.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 5 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $5.99 (Item $181.99 + $5.99 Ship = $187.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$36.40)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-3-09",
+      "name": "Youth Travel-Ball Easy-Break-In Leather Baseball & Softball Mitt (Ages 6–12) [Pro Custom Edition #9]",
+      "price": "$59.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 6 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $59.99 + $3.99 Ship = $63.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$12.00)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-3-10",
+      "name": "Custom Player Name & # Sliding Mitt + Pro Leather Batting Gloves & Bat Pack Bundle [Pro Custom Edition #10]",
+      "price": "$68.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 7 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $68.99 + $3.99 Ship = $72.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$13.80)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-3-11",
+      "name": "Pro Steerhide Leather Infield Baseball Mitt 11.5\" (Free Custom Name & # on Thumb) [Pro Custom Edition #11]",
+      "price": "$127.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRGgECJpBZTLpPnNVh63H73edIKyw3scWvTmNeW4Lz0_Mh4heoTvitSknPSREaK24KFaH_oAMqLs0EnaaXuKLSg240vXUkERHtYhA1uRLUm",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRGgECJpBZTLpPnNVh63H73edIKyw3scWvTmNeW4Lz0_Mh4heoTvitSknPSREaK24KFaH_oAMqLs0EnaaXuKLSg240vXUkERHtYhA1uRLUm",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRGgECJpBZTLpPnNVh63H73edIKyw3scWvTmNeW4Lz0_Mh4heoTvitSknPSREaK24KFaH_oAMqLs0EnaaXuKLSg240vXUkERHtYhA1uRLUm",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRGgECJpBZTLpPnNVh63H73edIKyw3scWvTmNeW4Lz0_Mh4heoTvitSknPSREaK24KFaH_oAMqLs0EnaaXuKLSg240vXUkERHtYhA1uRLUm"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 8 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $5.99 (Item $127.99 + $5.99 Ship = $133.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$25.60)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-3-12",
+      "name": "Pro Kip Leather Outfield Trapeze Baseball/Softball Glove 12.75\" (Custom Embroidered) [Pro Custom Edition #12]",
+      "price": "$141.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSSV0qXphRWfiqSLRlSvk_RZ0xd30jyq6ro4wp5thIjlkRP9sNeP1q2Wkwh10m3auo9Kx5cvrbSajkp6ZSkcyAHRlce9D7Nk8pH4-Wyj98",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSSV0qXphRWfiqSLRlSvk_RZ0xd30jyq6ro4wp5thIjlkRP9sNeP1q2Wkwh10m3auo9Kx5cvrbSajkp6ZSkcyAHRlce9D7Nk8pH4-Wyj98",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSSV0qXphRWfiqSLRlSvk_RZ0xd30jyq6ro4wp5thIjlkRP9sNeP1q2Wkwh10m3auo9Kx5cvrbSajkp6ZSkcyAHRlce9D7Nk8pH4-Wyj98",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSSV0qXphRWfiqSLRlSvk_RZ0xd30jyq6ro4wp5thIjlkRP9sNeP1q2Wkwh10m3auo9Kx5cvrbSajkp6ZSkcyAHRlce9D7Nk8pH4-Wyj98"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 9,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 9 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $5.99 (Item $141.99 + $5.99 Ship = $147.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$28.40)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-3-13",
+      "name": "Heavy-Duty Framing Catcher’s Mitt 33.5\" + Pro Chest Protector, Shin Guards & Mask [Pro Custom Edition #13]",
+      "price": "$169.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTg75YxYBJmqPN0nVfoEs5NbSFUU0xtvQ2yrbvJ7vnW27BHlz72Xhg-z2E5B5NJoG4iHxTNx4QhvToo0UMmKmcrPnFdexf0N8TxLFIqPX0P0ZTWfYXwztAC",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTg75YxYBJmqPN0nVfoEs5NbSFUU0xtvQ2yrbvJ7vnW27BHlz72Xhg-z2E5B5NJoG4iHxTNx4QhvToo0UMmKmcrPnFdexf0N8TxLFIqPX0P0ZTWfYXwztAC",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTg75YxYBJmqPN0nVfoEs5NbSFUU0xtvQ2yrbvJ7vnW27BHlz72Xhg-z2E5B5NJoG4iHxTNx4QhvToo0UMmKmcrPnFdexf0N8TxLFIqPX0P0ZTWfYXwztAC",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTg75YxYBJmqPN0nVfoEs5NbSFUU0xtvQ2yrbvJ7vnW27BHlz72Xhg-z2E5B5NJoG4iHxTNx4QhvToo0UMmKmcrPnFdexf0N8TxLFIqPX0P0ZTWfYXwztAC"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 4 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $5.99 (Item $169.99 + $5.99 Ship = $175.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$34.00)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-3-14",
+      "name": "Youth Travel-Ball Easy-Break-In Leather Baseball & Softball Mitt (Ages 6–12) [Pro Custom Edition #14]",
+      "price": "$63.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRBZY1jUHtwXtDaXo2s3S_X3r21qRC9YtW1sH8fFiEd8nD8aogRCfV2cVJAa_oBcFJH3M8KPsZ_eJi5RngBA_fAq7m5y9WeXWtLf8nJephbkzKrgHP2_r__7Q",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRBZY1jUHtwXtDaXo2s3S_X3r21qRC9YtW1sH8fFiEd8nD8aogRCfV2cVJAa_oBcFJH3M8KPsZ_eJi5RngBA_fAq7m5y9WeXWtLf8nJephbkzKrgHP2_r__7Q",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRBZY1jUHtwXtDaXo2s3S_X3r21qRC9YtW1sH8fFiEd8nD8aogRCfV2cVJAa_oBcFJH3M8KPsZ_eJi5RngBA_fAq7m5y9WeXWtLf8nJephbkzKrgHP2_r__7Q",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRBZY1jUHtwXtDaXo2s3S_X3r21qRC9YtW1sH8fFiEd8nD8aogRCfV2cVJAa_oBcFJH3M8KPsZ_eJi5RngBA_fAq7m5y9WeXWtLf8nJephbkzKrgHP2_r__7Q"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 5 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $63.99 + $3.99 Ship = $67.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$12.80)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-3-15",
+      "name": "Custom Player Name & # Sliding Mitt + Pro Leather Batting Gloves & Bat Pack Bundle [Pro Custom Edition #15]",
+      "price": "$72.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQtpMuair-Ye62LKEQ90sALgc2hj5o7RH-RzfYlolZQkWpOeCxWmLI7w1wEjI1nLdvAobaFVAXzRQG6OdJAhmCDz18cXmlX9g",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQtpMuair-Ye62LKEQ90sALgc2hj5o7RH-RzfYlolZQkWpOeCxWmLI7w1wEjI1nLdvAobaFVAXzRQG6OdJAhmCDz18cXmlX9g",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQtpMuair-Ye62LKEQ90sALgc2hj5o7RH-RzfYlolZQkWpOeCxWmLI7w1wEjI1nLdvAobaFVAXzRQG6OdJAhmCDz18cXmlX9g",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQtpMuair-Ye62LKEQ90sALgc2hj5o7RH-RzfYlolZQkWpOeCxWmLI7w1wEjI1nLdvAobaFVAXzRQG6OdJAhmCDz18cXmlX9g"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 6 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $72.99 + $3.99 Ship = $76.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$14.60)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-3-16",
+      "name": "Pro Steerhide Leather Infield Baseball Mitt 11.5\" (Free Custom Name & # on Thumb) [Pro Custom Edition #16]",
+      "price": "$131.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS12sYLoWcDbgs949CLcvMuGf4VF-L6ejxu-TRu8w4d3l9ESkAOa7KKidDgqXn2YogZ85yE7Ta4rtVg-95NvMfrdBIlMNpG",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS12sYLoWcDbgs949CLcvMuGf4VF-L6ejxu-TRu8w4d3l9ESkAOa7KKidDgqXn2YogZ85yE7Ta4rtVg-95NvMfrdBIlMNpG",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS12sYLoWcDbgs949CLcvMuGf4VF-L6ejxu-TRu8w4d3l9ESkAOa7KKidDgqXn2YogZ85yE7Ta4rtVg-95NvMfrdBIlMNpG",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS12sYLoWcDbgs949CLcvMuGf4VF-L6ejxu-TRu8w4d3l9ESkAOa7KKidDgqXn2YogZ85yE7Ta4rtVg-95NvMfrdBIlMNpG"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 7 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $5.99 (Item $131.99 + $5.99 Ship = $137.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$26.40)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-3-17",
+      "name": "Pro Kip Leather Outfield Trapeze Baseball/Softball Glove 12.75\" (Custom Embroidered) [Pro Custom Edition #17]",
+      "price": "$129.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGDG0o4VvEV4arfpSAGO1RkeJjsNwSqRxF2Df0m0nTtlLaYQLztfukSlu0I3MFx2U7HJVmEb9mcEHJFpGxefXs0r_nTSy0t20dlO1Y5PSu",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGDG0o4VvEV4arfpSAGO1RkeJjsNwSqRxF2Df0m0nTtlLaYQLztfukSlu0I3MFx2U7HJVmEb9mcEHJFpGxefXs0r_nTSy0t20dlO1Y5PSu",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGDG0o4VvEV4arfpSAGO1RkeJjsNwSqRxF2Df0m0nTtlLaYQLztfukSlu0I3MFx2U7HJVmEb9mcEHJFpGxefXs0r_nTSy0t20dlO1Y5PSu",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGDG0o4VvEV4arfpSAGO1RkeJjsNwSqRxF2Df0m0nTtlLaYQLztfukSlu0I3MFx2U7HJVmEb9mcEHJFpGxefXs0r_nTSy0t20dlO1Y5PSu"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 8 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $5.99 (Item $129.99 + $5.99 Ship = $135.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$26.00)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-3-18",
+      "name": "Heavy-Duty Framing Catcher’s Mitt 33.5\" + Pro Chest Protector, Shin Guards & Mask [Pro Custom Edition #18]",
+      "price": "$173.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRfwCvqWhZO3m42u4NryggaaT6HL6G2s4pj6mrd5oiQmrGRp5NcVk9iHqc6vRz1issPGXltN778fTpi6Vn8jpMQ-_W2t9AnAifBoNn-daqEb8ghroUmAEAxQQ",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRfwCvqWhZO3m42u4NryggaaT6HL6G2s4pj6mrd5oiQmrGRp5NcVk9iHqc6vRz1issPGXltN778fTpi6Vn8jpMQ-_W2t9AnAifBoNn-daqEb8ghroUmAEAxQQ",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRfwCvqWhZO3m42u4NryggaaT6HL6G2s4pj6mrd5oiQmrGRp5NcVk9iHqc6vRz1issPGXltN778fTpi6Vn8jpMQ-_W2t9AnAifBoNn-daqEb8ghroUmAEAxQQ",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRfwCvqWhZO3m42u4NryggaaT6HL6G2s4pj6mrd5oiQmrGRp5NcVk9iHqc6vRz1issPGXltN778fTpi6Vn8jpMQ-_W2t9AnAifBoNn-daqEb8ghroUmAEAxQQ"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 9,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 9 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $5.99 (Item $173.99 + $5.99 Ship = $179.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$34.80)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-3-19",
+      "name": "Youth Travel-Ball Easy-Break-In Leather Baseball & Softball Mitt (Ages 6–12) [Pro Custom Edition #19]",
+      "price": "$67.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQLj2YIVoU658rgZalk_iZd2oG6toGK5C0J8b-3cUL_a7hB0Ts6U-VWWn42MuNM6kl0bKG4heYC-9IpHep_7w-sTkv5PNDc",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQLj2YIVoU658rgZalk_iZd2oG6toGK5C0J8b-3cUL_a7hB0Ts6U-VWWn42MuNM6kl0bKG4heYC-9IpHep_7w-sTkv5PNDc",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQLj2YIVoU658rgZalk_iZd2oG6toGK5C0J8b-3cUL_a7hB0Ts6U-VWWn42MuNM6kl0bKG4heYC-9IpHep_7w-sTkv5PNDc",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQLj2YIVoU658rgZalk_iZd2oG6toGK5C0J8b-3cUL_a7hB0Ts6U-VWWn42MuNM6kl0bKG4heYC-9IpHep_7w-sTkv5PNDc"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 4 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $67.99 + $3.99 Ship = $71.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$13.60)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-3-20",
+      "name": "Custom Player Name & # Sliding Mitt + Pro Leather Batting Gloves & Bat Pack Bundle [Pro Custom Edition #20]",
+      "price": "$76.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR0HWuBcMi10IW5m069yVWf5GzAExXSLOfpv_p32VGEpJCVMpgBLvv3pzw2jXfSeVD12bbt8xnKzesm65aSbN4CZh-TDOoZEWIRwnOm9C6LR5O1LQvISSGIGA",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR0HWuBcMi10IW5m069yVWf5GzAExXSLOfpv_p32VGEpJCVMpgBLvv3pzw2jXfSeVD12bbt8xnKzesm65aSbN4CZh-TDOoZEWIRwnOm9C6LR5O1LQvISSGIGA",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR0HWuBcMi10IW5m069yVWf5GzAExXSLOfpv_p32VGEpJCVMpgBLvv3pzw2jXfSeVD12bbt8xnKzesm65aSbN4CZh-TDOoZEWIRwnOm9C6LR5O1LQvISSGIGA",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR0HWuBcMi10IW5m069yVWf5GzAExXSLOfpv_p32VGEpJCVMpgBLvv3pzw2jXfSeVD12bbt8xnKzesm65aSbN4CZh-TDOoZEWIRwnOm9C6LR5O1LQvISSGIGA"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 5 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $76.99 + $3.99 Ship = $80.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$15.40)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-3-21",
+      "name": "Pro Steerhide Leather Infield Baseball Mitt 11.5\" (Free Custom Name & # on Thumb) [Pro Custom Edition #21]",
+      "price": "$119.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS4xSXI5vDpVsl1VXbniszqgXH46liiLKi_LqmdMDXk-HWuN_IN9weuCxYKisKKJ3lXyG1YN5CIDKOPM5OP7fCAfCLr8I4r0J9iS5mQj4NtzomxfJuGQQ_U0g",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS4xSXI5vDpVsl1VXbniszqgXH46liiLKi_LqmdMDXk-HWuN_IN9weuCxYKisKKJ3lXyG1YN5CIDKOPM5OP7fCAfCLr8I4r0J9iS5mQj4NtzomxfJuGQQ_U0g",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS4xSXI5vDpVsl1VXbniszqgXH46liiLKi_LqmdMDXk-HWuN_IN9weuCxYKisKKJ3lXyG1YN5CIDKOPM5OP7fCAfCLr8I4r0J9iS5mQj4NtzomxfJuGQQ_U0g",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS4xSXI5vDpVsl1VXbniszqgXH46liiLKi_LqmdMDXk-HWuN_IN9weuCxYKisKKJ3lXyG1YN5CIDKOPM5OP7fCAfCLr8I4r0J9iS5mQj4NtzomxfJuGQQ_U0g"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 6 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $5.99 (Item $119.99 + $5.99 Ship = $125.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$24.00)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-3-22",
+      "name": "Pro Kip Leather Outfield Trapeze Baseball/Softball Glove 12.75\" (Custom Embroidered) [Pro Custom Edition #22]",
+      "price": "$133.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR3cc6Vq3prJ5P2_OZCWkDoXtYKJ2Q5Aq1OQ0bk5OV799ce7ROC3SQR2vcOSObLctlNoIA9VBNXwTFSK9R-T_Ur7flAC8BqKxRWg80MW9Oh6FlwbIYrjzWR-w",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR3cc6Vq3prJ5P2_OZCWkDoXtYKJ2Q5Aq1OQ0bk5OV799ce7ROC3SQR2vcOSObLctlNoIA9VBNXwTFSK9R-T_Ur7flAC8BqKxRWg80MW9Oh6FlwbIYrjzWR-w",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR3cc6Vq3prJ5P2_OZCWkDoXtYKJ2Q5Aq1OQ0bk5OV799ce7ROC3SQR2vcOSObLctlNoIA9VBNXwTFSK9R-T_Ur7flAC8BqKxRWg80MW9Oh6FlwbIYrjzWR-w",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR3cc6Vq3prJ5P2_OZCWkDoXtYKJ2Q5Aq1OQ0bk5OV799ce7ROC3SQR2vcOSObLctlNoIA9VBNXwTFSK9R-T_Ur7flAC8BqKxRWg80MW9Oh6FlwbIYrjzWR-w"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 7 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $5.99 (Item $133.99 + $5.99 Ship = $139.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$26.80)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-3-23",
+      "name": "Heavy-Duty Framing Catcher’s Mitt 33.5\" + Pro Chest Protector, Shin Guards & Mask [Pro Custom Edition #23]",
+      "price": "$177.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTzgkgff2akD-FdaYXwe9HpjDiIuDjW930XnaVgEySfIZ9xRuALnCli23vsQ0GAgw1kHd_ckgbCEW4Ma79qD_yqgwg7Du_JaIoq3MgdbvyRTZvyOFHi6OxG",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTzgkgff2akD-FdaYXwe9HpjDiIuDjW930XnaVgEySfIZ9xRuALnCli23vsQ0GAgw1kHd_ckgbCEW4Ma79qD_yqgwg7Du_JaIoq3MgdbvyRTZvyOFHi6OxG",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTzgkgff2akD-FdaYXwe9HpjDiIuDjW930XnaVgEySfIZ9xRuALnCli23vsQ0GAgw1kHd_ckgbCEW4Ma79qD_yqgwg7Du_JaIoq3MgdbvyRTZvyOFHi6OxG",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTzgkgff2akD-FdaYXwe9HpjDiIuDjW930XnaVgEySfIZ9xRuALnCli23vsQ0GAgw1kHd_ckgbCEW4Ma79qD_yqgwg7Du_JaIoq3MgdbvyRTZvyOFHi6OxG"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 8 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $5.99 (Item $177.99 + $5.99 Ship = $183.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$35.60)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-3-24",
+      "name": "Youth Travel-Ball Easy-Break-In Leather Baseball & Softball Mitt (Ages 6–12) [Pro Custom Edition #24]",
+      "price": "$71.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTJDO16Z4cyZe8DOVlxvUylGoTxc5v5r9k87zhwmWwDVRR4-t_71jVv0fpuYddPvWCXXDnsfhRf7A_FFzGii2Fp7JWSo816vn5l3SEQ95k",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTJDO16Z4cyZe8DOVlxvUylGoTxc5v5r9k87zhwmWwDVRR4-t_71jVv0fpuYddPvWCXXDnsfhRf7A_FFzGii2Fp7JWSo816vn5l3SEQ95k",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTJDO16Z4cyZe8DOVlxvUylGoTxc5v5r9k87zhwmWwDVRR4-t_71jVv0fpuYddPvWCXXDnsfhRf7A_FFzGii2Fp7JWSo816vn5l3SEQ95k",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTJDO16Z4cyZe8DOVlxvUylGoTxc5v5r9k87zhwmWwDVRR4-t_71jVv0fpuYddPvWCXXDnsfhRf7A_FFzGii2Fp7JWSo816vn5l3SEQ95k"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 9,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 9 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $71.99 + $3.99 Ship = $75.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$14.40)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "SFLX-3-25",
+      "name": "Custom Player Name & # Sliding Mitt + Pro Leather Batting Gloves & Bat Pack Bundle [Pro Custom Edition #25]",
+      "price": "$64.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTnEva05Rn5ScDKyUiEzCqoQkb1l13Tf1iKLgxAMZojmSRLyzQclNVkzYiuavbWh2YEfCjxiuRCQbVkBYlgVzHse9KLeS8dmoTTSkIggW9smtY4mWM1pF5t",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTnEva05Rn5ScDKyUiEzCqoQkb1l13Tf1iKLgxAMZojmSRLyzQclNVkzYiuavbWh2YEfCjxiuRCQbVkBYlgVzHse9KLeS8dmoTTSkIggW9smtY4mWM1pF5t",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTnEva05Rn5ScDKyUiEzCqoQkb1l13Tf1iKLgxAMZojmSRLyzQclNVkzYiuavbWh2YEfCjxiuRCQbVkBYlgVzHse9KLeS8dmoTTSkIggW9smtY4mWM1pF5t",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTnEva05Rn5ScDKyUiEzCqoQkb1l13Tf1iKLgxAMZojmSRLyzQclNVkzYiuavbWh2YEfCjxiuRCQbVkBYlgVzHse9KLeS8dmoTTSkIggW9smtY4mWM1pF5t"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "SportFlex Pro Custom Shop & Leather Works (4.9★ Insured U.S. Hub)",
+        "condition": "Brand New (Custom Stitched/Engraved) • 🔥 Only 4 Custom Slots Left Today",
+        "shipping": "Expedited Insured Shipping (3–7 Days): $3.99 (Item $64.99 + $3.99 Ship = $68.98)",
+        "market_value": "15%–25% Below Pro Shop Customizers • 20% Net Profit Guarantee (+$13.00)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
   ]
 };

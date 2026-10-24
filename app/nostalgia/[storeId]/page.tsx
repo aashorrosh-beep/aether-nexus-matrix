@@ -63,7 +63,27 @@ export default function DynamicStorefront() {
           <Link href="/" className="inline-block text-xs font-mono tracking-widest uppercase bg-black/40 hover:bg-black/80 px-4 py-2 rounded border border-white/20 mb-6 transition-colors">
             ← Return to Concourse
           </Link>
-          {String(storeId).startsWith("lapooza-") && (
+          {String(storeId).startsWith("sportflex-") && (
+                <div className="bg-lime-950/80 border-2 border-lime-400 rounded-2xl p-4 my-3 space-y-2.5 text-left shadow-lg">
+                  <div className="text-xs font-black uppercase text-lime-300">
+                    ⚾ SPORTFLEX CUSTOM PRO SHOP — BUY INDIVIDUAL OR FULL-TEAM ROSTER BULK:
+                  </div>
+                  <div className="grid grid-cols-2 gap-2">
+                    {[
+                      { label: "👤 Single Custom Item", price: selectedItem.price },
+                      { label: "🧢 12-Hat Team Dugout Box", price: "{String(storeId).startsWith("lapooza-")99.99" },
+                      { label: "🎽 12-Jersey Team Roster Pack", price: "$329.99" },
+                      { label: "🏆 15-Player Full Uniform Box", price: "$449.99" }
+                    ].map(opt => (
+                      <button key={opt.label} type="button" onClick={() => { setPackLabel(opt.label); setOverridePrice(opt.price); }} className={`p-2 rounded-xl text-[11px] font-black uppercase border ${overridePrice === opt.price ? "bg-lime-400 text-black border-white" : "bg-black/80 text-white border-lime-500/40 hover:border-lime-400"}`}>
+                        {opt.label} • <span className={overridePrice === opt.price ? "text-black" : "text-emerald-400"}>{opt.price}</span>
+                      </button>
+                    ))}
+                  </div>
+                  <input type="text" value={aiNote} onChange={(e) => setAiNote(e.target.value)} placeholder="🎽 Enter Custom Back Name, Player #, Hat Logo & Size (e.g. SHORROSH #7 • Adult L • Youth 11.5 Mitt)..." className="w-full bg-black border border-lime-400 rounded-lg px-3 py-2 text-xs text-white placeholder-zinc-400 outline-none" />
+                </div>
+              )}
+              {String(storeId).startsWith("lapooza-") && (
           <div className="mb-4 bg-gradient-to-r from-fuchsia-900 via-purple-900 to-pink-900 border-2 border-yellow-400 rounded-2xl p-4 text-center shadow-[0_0_30px_rgba(244,114,182,0.4)]">
             <div className="text-xs font-mono uppercase tracking-widest text-yellow-300 font-black">🎉 OFFICIAL PARTY LAPOOZA SUPERSTORE</div>
             <div className="text-lg md:text-2xl font-black uppercase text-white mt-1">"Where Fun, Adventure &amp; Imagination Come to Life — <span className="text-yellow-400">Put Yourself in the Middle of the Magic!</span>"</div>
