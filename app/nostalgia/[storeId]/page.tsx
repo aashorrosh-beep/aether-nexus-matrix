@@ -11,6 +11,8 @@ export default function DynamicStorefront() {
   const displayTitle = roomKey.replace(/-/g, ' ').toUpperCase();
 
   const [selectedItem, setSelectedItem] = useState<any>(null);
+  const [activeImgIdx, setActiveImgIdx] = useState(0);
+  const [showSpecs, setShowSpecs] = useState(false);
   const [activeMedia, setActiveMedia] = useState<string>("");
 
   const handleCheckout = async (item: any) => {
