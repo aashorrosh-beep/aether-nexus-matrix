@@ -91192,5 +91192,1511 @@ export const masterInventory: Record<string, any[]> = {
       },
       "status": "LIVE_MARKET_VERIFIED"
     }
+  ],
+  "sportflex-pro-fan-jerseys": [
+    {
+      "id": "FAN-1-1",
+      "name": "Pro Player Game-Day Jersey (Football, NBA, MLB, Soccer — Shirsey Tee, Replica or Authentic Stitched) [Edition #1]",
+      "price": "$69.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-1-2",
+      "name": "Pro Player Game-Day Jersey (Football, NBA, MLB, Soccer — Shirsey Tee, Replica or Authentic Stitched) [Edition #2]",
+      "price": "$74.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-1-3",
+      "name": "Pro Player Game-Day Jersey (Football, NBA, MLB, Soccer — Shirsey Tee, Replica or Authentic Stitched) [Edition #3]",
+      "price": "$79.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-1-4",
+      "name": "Pro Player Game-Day Jersey (Football, NBA, MLB, Soccer — Shirsey Tee, Replica or Authentic Stitched) [Edition #4]",
+      "price": "$84.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-1-5",
+      "name": "Pro Player Game-Day Jersey (Football, NBA, MLB, Soccer — Shirsey Tee, Replica or Authentic Stitched) [Edition #5]",
+      "price": "$69.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-1-6",
+      "name": "Pro Player Game-Day Jersey (Football, NBA, MLB, Soccer — Shirsey Tee, Replica or Authentic Stitched) [Edition #6]",
+      "price": "$74.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-1-7",
+      "name": "Pro Player Game-Day Jersey (Football, NBA, MLB, Soccer — Shirsey Tee, Replica or Authentic Stitched) [Edition #7]",
+      "price": "$79.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-1-8",
+      "name": "Pro Player Game-Day Jersey (Football, NBA, MLB, Soccer — Shirsey Tee, Replica or Authentic Stitched) [Edition #8]",
+      "price": "$84.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-1-9",
+      "name": "Pro Player Game-Day Jersey (Football, NBA, MLB, Soccer — Shirsey Tee, Replica or Authentic Stitched) [Edition #9]",
+      "price": "$69.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-1-10",
+      "name": "Pro Player Game-Day Jersey (Football, NBA, MLB, Soccer — Shirsey Tee, Replica or Authentic Stitched) [Edition #10]",
+      "price": "$74.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-1-11",
+      "name": "Pro Player Game-Day Jersey (Football, NBA, MLB, Soccer — Shirsey Tee, Replica or Authentic Stitched) [Edition #11]",
+      "price": "$79.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-1-12",
+      "name": "Pro Player Game-Day Jersey (Football, NBA, MLB, Soccer — Shirsey Tee, Replica or Authentic Stitched) [Edition #12]",
+      "price": "$84.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-1-13",
+      "name": "Pro Player Game-Day Jersey (Football, NBA, MLB, Soccer — Shirsey Tee, Replica or Authentic Stitched) [Edition #13]",
+      "price": "$69.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-1-14",
+      "name": "Pro Player Game-Day Jersey (Football, NBA, MLB, Soccer — Shirsey Tee, Replica or Authentic Stitched) [Edition #14]",
+      "price": "$74.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-1-15",
+      "name": "Pro Player Game-Day Jersey (Football, NBA, MLB, Soccer — Shirsey Tee, Replica or Authentic Stitched) [Edition #15]",
+      "price": "$79.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-1-16",
+      "name": "Pro Player Game-Day Jersey (Football, NBA, MLB, Soccer — Shirsey Tee, Replica or Authentic Stitched) [Edition #16]",
+      "price": "$84.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-1-17",
+      "name": "Pro Player Game-Day Jersey (Football, NBA, MLB, Soccer — Shirsey Tee, Replica or Authentic Stitched) [Edition #17]",
+      "price": "$69.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-1-18",
+      "name": "Pro Player Game-Day Jersey (Football, NBA, MLB, Soccer — Shirsey Tee, Replica or Authentic Stitched) [Edition #18]",
+      "price": "$74.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-1-19",
+      "name": "Pro Player Game-Day Jersey (Football, NBA, MLB, Soccer — Shirsey Tee, Replica or Authentic Stitched) [Edition #19]",
+      "price": "$79.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-1-20",
+      "name": "Pro Player Game-Day Jersey (Football, NBA, MLB, Soccer — Shirsey Tee, Replica or Authentic Stitched) [Edition #20]",
+      "price": "$84.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-1-21",
+      "name": "Pro Player Game-Day Jersey (Football, NBA, MLB, Soccer — Shirsey Tee, Replica or Authentic Stitched) [Edition #21]",
+      "price": "$69.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-1-22",
+      "name": "Pro Player Game-Day Jersey (Football, NBA, MLB, Soccer — Shirsey Tee, Replica or Authentic Stitched) [Edition #22]",
+      "price": "$74.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-1-23",
+      "name": "Pro Player Game-Day Jersey (Football, NBA, MLB, Soccer — Shirsey Tee, Replica or Authentic Stitched) [Edition #23]",
+      "price": "$79.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-1-24",
+      "name": "Pro Player Game-Day Jersey (Football, NBA, MLB, Soccer — Shirsey Tee, Replica or Authentic Stitched) [Edition #24]",
+      "price": "$84.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-1-25",
+      "name": "Pro Player Game-Day Jersey (Football, NBA, MLB, Soccer — Shirsey Tee, Replica or Authentic Stitched) [Edition #25]",
+      "price": "$69.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "sportflex-hat-wall-fitted-snapbacks": [
+    {
+      "id": "FAN-2-1",
+      "name": "Pro Team Hat Wall (Fitted 7 to 7-3/4, Curved Dad Hat, Rope Snapback — Home, Blackout, Camo) [Edition #1]",
+      "price": "$29.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-2-2",
+      "name": "Pro Team Hat Wall (Fitted 7 to 7-3/4, Curved Dad Hat, Rope Snapback — Home, Blackout, Camo) [Edition #2]",
+      "price": "$34.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-2-3",
+      "name": "Pro Team Hat Wall (Fitted 7 to 7-3/4, Curved Dad Hat, Rope Snapback — Home, Blackout, Camo) [Edition #3]",
+      "price": "$39.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-2-4",
+      "name": "Pro Team Hat Wall (Fitted 7 to 7-3/4, Curved Dad Hat, Rope Snapback — Home, Blackout, Camo) [Edition #4]",
+      "price": "$44.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-2-5",
+      "name": "Pro Team Hat Wall (Fitted 7 to 7-3/4, Curved Dad Hat, Rope Snapback — Home, Blackout, Camo) [Edition #5]",
+      "price": "$29.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-2-6",
+      "name": "Pro Team Hat Wall (Fitted 7 to 7-3/4, Curved Dad Hat, Rope Snapback — Home, Blackout, Camo) [Edition #6]",
+      "price": "$34.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-2-7",
+      "name": "Pro Team Hat Wall (Fitted 7 to 7-3/4, Curved Dad Hat, Rope Snapback — Home, Blackout, Camo) [Edition #7]",
+      "price": "$39.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-2-8",
+      "name": "Pro Team Hat Wall (Fitted 7 to 7-3/4, Curved Dad Hat, Rope Snapback — Home, Blackout, Camo) [Edition #8]",
+      "price": "$44.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-2-9",
+      "name": "Pro Team Hat Wall (Fitted 7 to 7-3/4, Curved Dad Hat, Rope Snapback — Home, Blackout, Camo) [Edition #9]",
+      "price": "$29.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-2-10",
+      "name": "Pro Team Hat Wall (Fitted 7 to 7-3/4, Curved Dad Hat, Rope Snapback — Home, Blackout, Camo) [Edition #10]",
+      "price": "$34.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-2-11",
+      "name": "Pro Team Hat Wall (Fitted 7 to 7-3/4, Curved Dad Hat, Rope Snapback — Home, Blackout, Camo) [Edition #11]",
+      "price": "$39.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-2-12",
+      "name": "Pro Team Hat Wall (Fitted 7 to 7-3/4, Curved Dad Hat, Rope Snapback — Home, Blackout, Camo) [Edition #12]",
+      "price": "$44.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-2-13",
+      "name": "Pro Team Hat Wall (Fitted 7 to 7-3/4, Curved Dad Hat, Rope Snapback — Home, Blackout, Camo) [Edition #13]",
+      "price": "$29.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-2-14",
+      "name": "Pro Team Hat Wall (Fitted 7 to 7-3/4, Curved Dad Hat, Rope Snapback — Home, Blackout, Camo) [Edition #14]",
+      "price": "$34.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-2-15",
+      "name": "Pro Team Hat Wall (Fitted 7 to 7-3/4, Curved Dad Hat, Rope Snapback — Home, Blackout, Camo) [Edition #15]",
+      "price": "$39.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-2-16",
+      "name": "Pro Team Hat Wall (Fitted 7 to 7-3/4, Curved Dad Hat, Rope Snapback — Home, Blackout, Camo) [Edition #16]",
+      "price": "$44.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-2-17",
+      "name": "Pro Team Hat Wall (Fitted 7 to 7-3/4, Curved Dad Hat, Rope Snapback — Home, Blackout, Camo) [Edition #17]",
+      "price": "$29.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-2-18",
+      "name": "Pro Team Hat Wall (Fitted 7 to 7-3/4, Curved Dad Hat, Rope Snapback — Home, Blackout, Camo) [Edition #18]",
+      "price": "$34.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-2-19",
+      "name": "Pro Team Hat Wall (Fitted 7 to 7-3/4, Curved Dad Hat, Rope Snapback — Home, Blackout, Camo) [Edition #19]",
+      "price": "$39.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-2-20",
+      "name": "Pro Team Hat Wall (Fitted 7 to 7-3/4, Curved Dad Hat, Rope Snapback — Home, Blackout, Camo) [Edition #20]",
+      "price": "$44.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-2-21",
+      "name": "Pro Team Hat Wall (Fitted 7 to 7-3/4, Curved Dad Hat, Rope Snapback — Home, Blackout, Camo) [Edition #21]",
+      "price": "$29.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-2-22",
+      "name": "Pro Team Hat Wall (Fitted 7 to 7-3/4, Curved Dad Hat, Rope Snapback — Home, Blackout, Camo) [Edition #22]",
+      "price": "$34.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-2-23",
+      "name": "Pro Team Hat Wall (Fitted 7 to 7-3/4, Curved Dad Hat, Rope Snapback — Home, Blackout, Camo) [Edition #23]",
+      "price": "$39.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-2-24",
+      "name": "Pro Team Hat Wall (Fitted 7 to 7-3/4, Curved Dad Hat, Rope Snapback — Home, Blackout, Camo) [Edition #24]",
+      "price": "$44.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-2-25",
+      "name": "Pro Team Hat Wall (Fitted 7 to 7-3/4, Curved Dad Hat, Rope Snapback — Home, Blackout, Camo) [Edition #25]",
+      "price": "$29.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "sportflex-fancave-socks-kicks-tailgate": [
+    {
+      "id": "FAN-3-1",
+      "name": "True Fan Game-Day Pack: Team Socks, Sneakers, Thermos, Cup Koozie & #1 Foam Finger [Edition #1]",
+      "price": "$34.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-3-2",
+      "name": "True Fan Game-Day Pack: Team Socks, Sneakers, Thermos, Cup Koozie & #1 Foam Finger [Edition #2]",
+      "price": "$39.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-3-3",
+      "name": "True Fan Game-Day Pack: Team Socks, Sneakers, Thermos, Cup Koozie & #1 Foam Finger [Edition #3]",
+      "price": "$44.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-3-4",
+      "name": "True Fan Game-Day Pack: Team Socks, Sneakers, Thermos, Cup Koozie & #1 Foam Finger [Edition #4]",
+      "price": "$49.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-3-5",
+      "name": "True Fan Game-Day Pack: Team Socks, Sneakers, Thermos, Cup Koozie & #1 Foam Finger [Edition #5]",
+      "price": "$34.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-3-6",
+      "name": "True Fan Game-Day Pack: Team Socks, Sneakers, Thermos, Cup Koozie & #1 Foam Finger [Edition #6]",
+      "price": "$39.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-3-7",
+      "name": "True Fan Game-Day Pack: Team Socks, Sneakers, Thermos, Cup Koozie & #1 Foam Finger [Edition #7]",
+      "price": "$44.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-3-8",
+      "name": "True Fan Game-Day Pack: Team Socks, Sneakers, Thermos, Cup Koozie & #1 Foam Finger [Edition #8]",
+      "price": "$49.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-3-9",
+      "name": "True Fan Game-Day Pack: Team Socks, Sneakers, Thermos, Cup Koozie & #1 Foam Finger [Edition #9]",
+      "price": "$34.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-3-10",
+      "name": "True Fan Game-Day Pack: Team Socks, Sneakers, Thermos, Cup Koozie & #1 Foam Finger [Edition #10]",
+      "price": "$39.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-3-11",
+      "name": "True Fan Game-Day Pack: Team Socks, Sneakers, Thermos, Cup Koozie & #1 Foam Finger [Edition #11]",
+      "price": "$44.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-3-12",
+      "name": "True Fan Game-Day Pack: Team Socks, Sneakers, Thermos, Cup Koozie & #1 Foam Finger [Edition #12]",
+      "price": "$49.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-3-13",
+      "name": "True Fan Game-Day Pack: Team Socks, Sneakers, Thermos, Cup Koozie & #1 Foam Finger [Edition #13]",
+      "price": "$34.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-3-14",
+      "name": "True Fan Game-Day Pack: Team Socks, Sneakers, Thermos, Cup Koozie & #1 Foam Finger [Edition #14]",
+      "price": "$39.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-3-15",
+      "name": "True Fan Game-Day Pack: Team Socks, Sneakers, Thermos, Cup Koozie & #1 Foam Finger [Edition #15]",
+      "price": "$44.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-3-16",
+      "name": "True Fan Game-Day Pack: Team Socks, Sneakers, Thermos, Cup Koozie & #1 Foam Finger [Edition #16]",
+      "price": "$49.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-3-17",
+      "name": "True Fan Game-Day Pack: Team Socks, Sneakers, Thermos, Cup Koozie & #1 Foam Finger [Edition #17]",
+      "price": "$34.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-3-18",
+      "name": "True Fan Game-Day Pack: Team Socks, Sneakers, Thermos, Cup Koozie & #1 Foam Finger [Edition #18]",
+      "price": "$39.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-3-19",
+      "name": "True Fan Game-Day Pack: Team Socks, Sneakers, Thermos, Cup Koozie & #1 Foam Finger [Edition #19]",
+      "price": "$44.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-3-20",
+      "name": "True Fan Game-Day Pack: Team Socks, Sneakers, Thermos, Cup Koozie & #1 Foam Finger [Edition #20]",
+      "price": "$49.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-3-21",
+      "name": "True Fan Game-Day Pack: Team Socks, Sneakers, Thermos, Cup Koozie & #1 Foam Finger [Edition #21]",
+      "price": "$34.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-3-22",
+      "name": "True Fan Game-Day Pack: Team Socks, Sneakers, Thermos, Cup Koozie & #1 Foam Finger [Edition #22]",
+      "price": "$39.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-3-23",
+      "name": "True Fan Game-Day Pack: Team Socks, Sneakers, Thermos, Cup Koozie & #1 Foam Finger [Edition #23]",
+      "price": "$44.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-3-24",
+      "name": "True Fan Game-Day Pack: Team Socks, Sneakers, Thermos, Cup Koozie & #1 Foam Finger [Edition #24]",
+      "price": "$49.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "FAN-3-25",
+      "name": "True Fan Game-Day Pack: Team Socks, Sneakers, Thermos, Cup Koozie & #1 Foam Finger [Edition #25]",
+      "price": "$34.99",
+      "media": [
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80",
+        "https://images.unsplash.com/photo-1508344928928-7165b67de128?w=800&q=80"
+      ],
+      "video": true,
+      "count": 6,
+      "specs": {
+        "manufacturer": "SportFlex Fan Cave Direct (4.9★ Insured)",
+        "condition": "Brand New • Starter, Mid-Tier & Authentic Pro Options",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99",
+        "market_value": "100% Certified Fan Gear"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
   ]
 };

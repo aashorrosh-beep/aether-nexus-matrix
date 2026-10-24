@@ -86,6 +86,13 @@ export default function MallOfMallsLobby() {
               {mallQuery && <button onClick={() => setMallQuery("")} className="bg-red-600 text-white font-black text-xs px-4 rounded-xl uppercase">Clear</button>}
             </div>
           </div>
+          <div className="mt-3 pt-3 border-t border-zinc-800 flex flex-wrap justify-between items-center gap-2">
+            <Link href="/nostalgia/albs-mall-gift-cards" className="bg-amber-400 hover:bg-amber-300 text-black font-black text-xs uppercase px-4 py-2.5 rounded-xl">🎁 Buy Universal 6-Mall &amp; Sanctuary Gift Cards ($25–placeholder="Search all malls (e.g. ugly sweater, squishmallow, baseball, autism, coffee, drone)..." className="w-full bg-black border-2 border-zinc-700 focus:border-yellow-400 rounded-xl px-4 py-3 text-sm text-white outline-none" />
+              {mallQuery && <button onClick={() => setMallQuery("")} className="bg-red-600 text-white font-black text-xs px-4 rounded-xl uppercase">Clear</button>}
+            </div>
+          </div>,000 • $0 Tax/Ship) →</Link>
+            <Link href="/nostalgia/concierge" className="bg-pink-600 hover:bg-pink-500 text-white font-black text-xs uppercase px-4 py-2.5 rounded-xl">🎩 Don&apos;t See It? 3–4 Hr AI Concierge (24-Hr Price Hold) →</Link>
+          </div>
           <div className="mt-3 pt-3 border-t border-yellow-500/30 flex flex-col md:flex-row justify-between items-center gap-2 bg-amber-500/10 border border-amber-400/50 rounded-xl p-2.5">
             <div className="text-[11px] text-zinc-200 text-left">
               <span className="text-amber-400 font-black uppercase">🎩 DON&apos;T SEE IT IN OUR MALLS?</span> Our AI Concierge will find it at a <span className="text-emerald-400 font-bold">cheaper rate &amp; email you options within 3–4 Hours</span> (Locked on a <span className="text-yellow-300 font-bold">24-Hour Impulse Hold</span>)!
@@ -112,9 +119,7 @@ export default function MallOfMallsLobby() {
                         <div className="text-[11px] text-emerald-400 font-mono">{s.hits.length} Items • From {s.hits[0]?.price}</div>
                       </div>
 
-        {/* UNIVERSAL 6-MALL HOLIDAY & FAMILY SANCTUARY GIFT CARD BAR ($25 - 🎩 Find It For Me (3–4 Hr Email • 24-Hr Hold) →
-            </Link>
-          </div>
+        
           {mallQuery.trim().length > 1 && (() => {
             const q = mallQuery.toLowerCase().trim();
             const matched = Object.entries(masterInventory || {}).map(([room, items]: [string, any]) => {
@@ -132,13 +137,7 @@ export default function MallOfMallsLobby() {
                         <div className="font-black text-xs uppercase text-white truncate">🏪 {fmt(s.room)}</div>
                         <div className="text-[11px] text-emerald-400 font-mono">{s.hits.length} Items • From {s.hits[0]?.price}</div>
                       </div>,000) */}
-        <div className="bg-gradient-to-r from-emerald-950 via-zinc-900 to-amber-950 border-2 border-amber-400 rounded-2xl p-4 shadow-[0_0_30px_rgba(251,191,36,0.2)]">
-          <div className="flex flex-col md:flex-row justify-between items-center gap-3">
-            <div className="text-left space-y-1">
-              <div className="text-xs font-black uppercase text-amber-300 tracking-wider">
-                🎁 HOLIDAY &amp; FAMILY SANCTUARY UNIVERSAL GIFT CARDS ($25 • $50 • 🎩 Find It For Me (3–4 Hr Email • 24-Hr Hold) →
-            </Link>
-          </div>
+        
           {mallQuery.trim().length > 1 && (() => {
             const q = mallQuery.toLowerCase().trim();
             const matched = Object.entries(masterInventory || {}).map(([room, items]: [string, any]) => {

@@ -1,189 +1,159 @@
 "use client";
-import React, { useState } from 'react';
-import Link from 'next/link';
-import { useParams } from 'next/navigation';
-import { masterInventory } from '../../inventory';
+import { useState, use } from "react";
+import Link from "next/link";
+import { masterInventory } from "../../inventory";
 
-export default function DynamicStorefront() {
-  const params = useParams();
-  const roomKey = (params?.storeId as string) || "store";
-  const items = masterInventory[roomKey] || [];
-  const displayTitle = roomKey.replace(/-/g, ' ').toUpperCase();
-
+export default function StorefrontPage({ params }: { params: Promise<{ storeId: string }> }) {
+  const { storeId } = use(params);
+  const items = masterInventory[storeId] || [];
   const [selectedItem, setSelectedItem] = useState<any>(null);
   const [activeImgIdx, setActiveImgIdx] = useState(0);
   const [showSpecs, setShowSpecs] = useState(false);
-  const [activeMedia, setActiveMedia] = useState<string>("");
+  const [packLabel, setPackLabel] = useState("Standard / Individual");
+  const [overridePrice, setOverridePrice] = useState<string | null>(null);
+  const [aiNote, setAiNote] = useState("");
+  const [loading, setLoading] = useState(false);
 
-  const handleCheckout = async (item: any) => {
+  const fmt = (s: string) => String(s || "").replace(/-/g, " ").toUpperCase();
+  const isParty = String(storeId).startsWith("lapooza-");
+  const isSport = String(storeId).startsWith("sportflex-") || String(storeId).startsWith("sportlick-");
+
+  const handleCheckout = async () => {
+    if (!selectedItem) return;
+    setLoading(true);
     try {
-      const priceFloat = parseFloat(item.price.replace(/[^0-9.]/g, ''));
-      const fullPriceInCents = Math.round(priceFloat * 100);
-      const isLuxury = priceFloat >= 500.00; 
-      const depositInCents = isLuxury ? Math.round(fullPriceInCents * 0.5) : fullPriceInCents;
-      
-      const payload = {
-        itemName: item.name, fullPriceInCents, depositInCents, room: roomKey, itemId: item.id,
-        requiresClearinghouse: isLuxury, refundPolicy: isLuxury ? "50_PERCENT_REFUNDABLE_ESCROW" : "STANDARD_RETAIL"
-      };
-
-      const backendUrl = process.env.NEXT_PUBLIC_API_URL || ''; 
-      const response = await fetch(`${backendUrl}/api/checkout`, {
-        method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload),
+      const res = await fetch("/api/checkout", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          storeId,
+          name: `${selectedItem.name} [${packLabel}${aiNote ? " • Custom: " + aiNote : ""}]`,
+          price: overridePrice || selectedItem.price,
+          image: selectedItem.media?.[0] || ""
+        })
       });
-      
-      const data = await response.json();
+      const data = await res.json();
       if (data.url) window.location.href = data.url;
-      else alert("Checkout Gateway offline. Please verify API connection.");
-    } catch (error) {
-      console.error("Checkout Error:", error);
-      alert("Secure checkout is currently initializing. Please try again in a moment.");
-    }
-  };
-
-  const maskSupplier = (mfg: string) => {
-    if (!mfg) return 'NEXUS AUTHENTICATED';
-    const upper = mfg.toUpperCase();
-    if (upper.includes('EBAY') || upper.includes('ETSY') || upper.includes('CLUB') || upper.includes('WHOLESALE') || upper.includes('MART') || upper.includes('MERCARI')) {
-      return 'NEXUS AUTHENTICATED';
-    }
-    return 'NEXUS SECURED';
-  };
-
-  const openModal = (item: any) => {
-    setSelectedItem(item);
-    const firstValidImg = item.media?.find((img: string) => img && img.trim() !== '') || "";
-    setActiveMedia(firstValidImg); 
+    } catch (e) {}
+    setLoading(false);
   };
 
   return (
-    <main className="min-h-screen bg-blue-900 text-white p-6 md:p-12 font-sans relative">
-      <div className="max-w-7xl mx-auto space-y-12">
-        <div>
-          <Link href="/" className="inline-block text-xs font-mono tracking-widest uppercase bg-black/40 hover:bg-black/80 px-4 py-2 rounded border border-white/20 mb-6 transition-colors">
-            ← Return to Concourse
-          </Link>
-          {(String(storeId).startsWith("sportflex-") || String(storeId).startsWith("sportlick-")) && (() => {
-                const baseNum = parseFloat(String(selectedItem.price || "49.99").replace(/[^0-9.]/g, "")) || 49.99;
-                const starterP = "$" + Math.max(14.99, (baseNum * 0.65)).toFixed(2);
-                const midP = "$" + baseNum.toFixed(2);
-                const luxP = "$" + (baseNum * 1.45).toFixed(2);
-                return (
-                  <div className="bg-lime-950/85 border-2 border-lime-400 rounded-2xl p-4 my-3 space-y-2.5 text-left shadow-lg">
-                    <div className="text-xs font-black uppercase text-lime-300">
-                      🏅 1. CHOOSE YOUR QUALITY TIER (STARTER • ALL-SEASON MID-TIER • PRO LUXURY) OR TEAM BULK:
-                    </div>
-                    <div className="grid grid-cols-2 gap-2">
-                      {[
-                        { label: "🥉 Starter / First-Timer Tier", price: starterP },
-                        { label: "🥈 All-Season Quality Mid-Tier", price: midP },
-                        { label: "🥇 Pro Luxury Reserve Tier", price: luxP },
-                        { label: "🏆 12-Pack Team / Coach Bulk", price: "$" + (baseNum * 9.5).toFixed(2) }
-                      ].map(opt => (
-                        <button key={opt.label} type="button" onClick={() => { setPackLabel(opt.label); setOverridePrice(opt.price); }} className={`p-2 rounded-xl text-[11px] font-black uppercase border ${overridePrice === opt.price ? "bg-lime-400 text-black border-white" : "bg-black/80 text-white border-lime-500/40 hover:border-lime-400"}`}>
-                          {opt.label} • <span className={overridePrice === opt.price ? "text-black" : "text-emerald-400"}>{opt.price}</span>
-                        </button>
-                      ))}
-                    </div>
-                    <div className="text-[11px] font-black uppercase text-yellow-300 pt-1">
-                      📏 2. SELECT SIZE, WOOD/LEATHER TYPE, COLOR, ROD ACTION OR TROPHY ENGRAVING:
-                    </div>
-                    <input type="text" value={aiNote} onChange={(e) => setAiNote(e.target.value)} placeholder="e.g. 32in Maple Bat / 11.5 RHT Glove / 28.5 Women Leather Ball / Medium Bass Rod / Trophy Team Name..." className="w-full bg-black border border-lime-400 rounded-lg px-3 py-2 text-xs text-white placeholder-zinc-400 outline-none" />
-                  </div>
-                );
-              })()}
-                  </div>
-                  <input type="text" value={aiNote} onChange={(e) => setAiNote(e.target.value)} placeholder="🎽 Enter Custom Back Name, Player #, Hat Logo & Size (e.g. SHORROSH #7 • Adult L • Youth 11.5 Mitt)..." className="w-full bg-black border border-lime-400 rounded-lg px-3 py-2 text-xs text-white placeholder-zinc-400 outline-none" />
-                </div>
-              )}
-              {String(storeId).startsWith("lapooza-") && (
-          <div className="mb-4 bg-gradient-to-r from-fuchsia-900 via-purple-900 to-pink-900 border-2 border-yellow-400 rounded-2xl p-4 text-center shadow-[0_0_30px_rgba(244,114,182,0.4)]">
-            <div className="text-xs font-mono uppercase tracking-widest text-yellow-300 font-black">🎉 OFFICIAL PARTY LAPOOZA SUPERSTORE</div>
-            <div className="text-lg md:text-2xl font-black uppercase text-white mt-1">"Where Fun, Adventure &amp; Imagination Come to Life — <span className="text-yellow-400">Put Yourself in the Middle of the Magic!</span>"</div>
-            <div className="text-[11px] text-fuchsia-200 mt-1">Buy Complete 88–170 Pc Room Bulk Boxes OR Individual Decor • Free AI Party Man Face-Swap • DOT Ground Helium &amp; Archways</div>
+    <main className="min-h-screen bg-zinc-950 text-white p-4 md:p-8 font-sans">
+      <div className="max-w-6xl mx-auto space-y-6">
+        <div className="flex flex-wrap justify-between items-center gap-3 border-b border-zinc-800 pb-4">
+          <div>
+            <span className="text-xs font-mono text-yellow-400 uppercase font-bold">🏪 VERIFIED ALBS NEXUS STOREFRONT</span>
+            <h1 className="text-2xl md:text-4xl font-black uppercase text-white">{fmt(storeId)}</h1>
+          </div>
+          <div className="flex gap-2">
+            <Link href="/nostalgia/albs-mall-gift-cards" className="bg-amber-400 text-black font-black text-xs uppercase px-4 py-2.5 rounded-xl">🎁 Gift Cards ($25–$1,000)</Link>
+            <Link href="/nostalgia/concierge" className="bg-pink-600 text-white font-black text-xs uppercase px-4 py-2.5 rounded-xl">🎩 3–4 Hr Concierge (24-Hr Hold)</Link>
+            <Link href="/" className="bg-white text-black font-black text-xs uppercase px-4 py-2.5 rounded-xl">← All 6 Malls</Link>
+          </div>
+        </div>
+
+        {isParty && (
+          <div className="bg-gradient-to-r from-fuchsia-900 via-purple-900 to-pink-900 border-2 border-yellow-400 rounded-2xl p-4 text-center">
+            <div className="text-lg md:text-2xl font-black uppercase text-white">&ldquo;Where Fun, Adventure &amp; Imagination Come to Life — <span className="text-yellow-400">Put Yourself in the Middle of the Magic!</span>&rdquo;</div>
+            <div className="text-xs text-fuchsia-200 mt-1">Buy 88–170 Pc Room Bulk Boxes OR Individual Decor • Free AI Party Man Face-Swap • Home Helium &amp; Archways</div>
           </div>
         )}
-        <div className="bg-red-600 p-6 rounded-t-2xl border-b-8 border-yellow-400">
-            <h1 className="text-5xl md:text-7xl font-black uppercase italic tracking-tight">{displayTitle}</h1>
-            <p className="mt-4 text-white font-medium text-lg">Dynamic inventory: {items.length} units cataloged.</p>
-          </div>
-        </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {items.map((item: any) => {
-            const displayImg = item.media?.find((img: string) => img && img.trim() !== '');
-            return (
-              <div key={item.id} onClick={() => openModal(item)} className="bg-white text-black border-4 border-yellow-400 rounded-xl p-6 relative flex flex-col justify-between shadow-xl cursor-pointer hover:scale-[1.02] transition-transform">
-                <div>
-                  <div className="flex justify-between items-center mb-2">
-                    <span className="text-xs font-black uppercase text-blue-700 tracking-wider">{maskSupplier(item.specs?.manufacturer)}</span>
-                    <span className="text-[10px] font-mono font-bold bg-black text-white px-2 py-0.5 rounded">{item.id}</span>
-                  </div>
-                  
-                  <div className="w-full h-48 bg-zinc-100 rounded-lg mb-4 border border-zinc-200 flex items-center justify-center overflow-hidden">
-                    {displayImg ? (
-                      <img src={displayImg} alt={item.name} className="object-cover w-full h-full" onError={(e) => e.currentTarget.style.display = 'none'} />
-                    ) : (
-                      <span className="text-zinc-400 text-xs font-mono font-bold">IMAGE SECURED</span>
-                    )}
-                  </div>
-                  <h2 className="text-2xl font-black leading-tight mt-1">{item.name}</h2>
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
+          {items.map((item: any, idx: number) => (
+            <div key={item.id || idx} onClick={() => { setSelectedItem(item); setActiveImgIdx(0); setOverridePrice(null); setPackLabel("Standard"); }} className="bg-zinc-900 hover:bg-zinc-800/90 border border-zinc-700 hover:border-yellow-400 rounded-2xl overflow-hidden cursor-pointer transition-all hover:-translate-y-1 flex flex-col justify-between">
+              <div>
+                <div className="relative h-52 bg-black">
+                  <img src={item.media?.[0]} alt={item.name} className="w-full h-full object-cover" />
+                  <span className="absolute top-2 left-2 bg-black/80 text-emerald-400 text-[10px] font-mono font-bold px-2.5 py-1 rounded-full border border-emerald-500/40">🟢 LIVE • 4 PHOTOS + VIDEO</span>
                 </div>
-
-                <div className="mt-8 flex items-center justify-between border-t border-zinc-200 pt-4">
-                  <span className="text-2xl font-black text-red-600">{item.price}</span>
-                  <button className="bg-blue-600 hover:bg-blue-500 text-white font-black uppercase px-4 py-2 rounded text-xs transition-colors shadow">
-                    View Specs
-                  </button>
+                <div className="p-4 space-y-2">
+                  <div className="font-black text-sm uppercase text-white line-clamp-2">{item.name}</div>
+                  <div className="text-2xl font-black text-yellow-400">{item.price}</div>
+                  <div className="text-[11px] text-zinc-400">{item.specs?.shipping}</div>
                 </div>
               </div>
-            );
-          })}
-        </div>
-      </div>
-
-      {/* --- MVP INTERACTIVE PRODUCT MODAL --- */}
-      {selectedItem && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 md:p-8 bg-black/90 backdrop-blur-sm">
-          <div className="bg-white text-black w-full max-w-6xl rounded-2xl overflow-hidden shadow-[0_0_50px_rgba(0,0,0,0.5)] flex flex-col md:flex-row relative max-h-[90vh] overflow-y-auto border-4 border-yellow-400">
-            <button onClick={() => setSelectedItem(null)} className="absolute top-4 right-4 z-50 bg-black text-white w-10 h-10 rounded-full font-bold hover:bg-red-600 transition-colors flex items-center justify-center shadow-lg">X</button>
-
-            <div className="w-full md:w-1/2 bg-zinc-100 p-6 flex flex-col gap-4 border-r border-zinc-200">
-              <div className="w-full aspect-square bg-black rounded-lg overflow-hidden relative flex items-center justify-center shadow-inner">
-                <img src={activeMedia} className="w-full h-full object-cover" alt="Main Product Media" onError={(e) => e.currentTarget.src="https://placehold.co/800x800/18181b/06b6d4?text=IMAGE+SECURED"} />
-              </div>
-              
-              <div className="flex flex-wrap gap-2">
-                {selectedItem.media?.filter((imgUrl: string) => imgUrl && imgUrl.trim() !== '').map((imgUrl: string, idx: number) => (
-                  <button key={idx} onClick={() => setActiveMedia(imgUrl)} className={`h-16 w-16 rounded overflow-hidden border-2 ${activeMedia === imgUrl ? 'border-red-600' : 'border-transparent'}`}>
-                     <img src={imgUrl} className="w-full h-full object-cover" onError={(e) => e.currentTarget.style.display = 'none'} />
-                  </button>
-                ))}
+              <div className="p-4 pt-0">
+                <button className="w-full bg-yellow-400 hover:bg-yellow-300 text-black font-black text-xs uppercase py-2.5 rounded-xl">View Options, Bulk / Tiers &amp; Buy →</button>
               </div>
             </div>
+          ))}
+        </div>
 
-            <div className="w-full md:w-1/2 p-8 md:p-12 flex flex-col justify-between">
-              <div>
-                <span className="text-xs font-black uppercase text-zinc-500 tracking-wider block mb-2">{maskSupplier(selectedItem.specs?.manufacturer)} • SKU: {selectedItem.id}</span>
-                <h2 className="text-4xl md:text-5xl font-black uppercase leading-tight mb-6">{selectedItem.name}</h2>
-                <div className="space-y-4 mb-8 bg-zinc-50 p-6 rounded-lg border border-zinc-200">
-                  <div className="flex justify-between border-b border-zinc-200 pb-2"><span className="text-sm font-bold text-zinc-500 uppercase">Condition</span><span className="text-sm font-bold text-black">{selectedItem.specs?.condition || "Collector Grade - Mint / Near Mint"}</span></div>
-                  <div className="flex justify-between border-b border-zinc-200 pb-2"><span className="text-sm font-bold text-zinc-500 uppercase">Authentication</span><span className="text-sm font-bold text-green-600">100% Authenticated & Verified</span></div>
-                  <div className="flex justify-between pb-2"><span className="text-sm font-bold text-zinc-500 uppercase">Fulfillment</span><span className="text-sm font-bold text-blue-600">{selectedItem.specs?.shipping || "Flat $2.99 Shipping"}</span></div>
-                  
-                  {parseFloat(selectedItem.price.replace(/[^0-9.]/g, '')) >= 500 && (
-                    <div className="flex justify-between pt-2 border-t border-zinc-200"><span className="text-sm font-bold text-red-600 uppercase">TECHNICAL SPECIFICATIONS</span><span className="text-sm font-bold text-red-600">Market Price-Matched • $3.99 Base Shipping</span></div>
+        {selectedItem && (
+          <div className="fixed inset-0 bg-black/85 z-50 flex items-center justify-center p-4 overflow-y-auto">
+            <div className="bg-zinc-950 border-2 border-yellow-400 rounded-3xl max-w-2xl w-full p-6 space-y-4 my-8">
+              <div className="flex justify-between items-start gap-4">
+                <h2 className="text-lg md:text-xl font-black uppercase text-white">{selectedItem.name}</h2>
+                <button onClick={() => setSelectedItem(null)} className="bg-red-600 text-white font-black text-xs px-3 py-1.5 rounded-lg">✕ CLOSE</button>
+              </div>
+
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <div className="space-y-2">
+                  <img src={selectedItem.media?.[activeImgIdx] || selectedItem.media?.[0]} alt="" className="w-full h-56 object-cover rounded-xl border border-zinc-700" />
+                  <div className="grid grid-cols-4 gap-2">
+                    {(selectedItem.media || []).slice(0, 4).map((m: string, i: number) => (
+                      <img key={i} src={m} alt="" onClick={() => setActiveImgIdx(i)} className={`h-12 w-full object-cover rounded-lg cursor-pointer border-2 ${activeImgIdx === i ? "border-yellow-400" : "border-zinc-700"}`} />
+                    ))}
+                  </div>
+                </div>
+
+                <div className="space-y-2 text-left">
+                  <div className="text-3xl font-black text-yellow-400">{overridePrice || selectedItem.price}</div>
+                  <div className="text-xs text-emerald-400 font-bold">{selectedItem.specs?.condition}</div>
+                  <div className="text-[11px] text-zinc-300">{selectedItem.specs?.shipping}</div>
+                  <button type="button" onClick={() => setShowSpecs(!showSpecs)} className="w-full bg-zinc-900 border border-cyan-500/50 text-cyan-300 text-[11px] font-black uppercase py-2 px-3 rounded-lg">
+                    📋 {showSpecs ? "Hide" : "View"} Full Specs &amp; Insured Shipper Certificate
+                  </button>
+                  {showSpecs && (
+                    <div className="bg-black border border-cyan-500/40 rounded-lg p-2.5 text-[11px] text-zinc-300 space-y-1">
+                      <div>• <b>SKU:</b> {selectedItem.id}</div>
+                      <div>• <b>Guarantee:</b> {selectedItem.specs?.market_value}</div>
+                    </div>
                   )}
                 </div>
               </div>
-              <div>
-                <div className="text-5xl font-black text-red-600 mb-2">{selectedItem.price}</div>
-                <button onClick={() => handleCheckout(selectedItem)} className="w-full bg-yellow-400 hover:bg-yellow-300 text-black font-black uppercase py-4 rounded text-xl transition-colors shadow-lg flex items-center justify-center gap-2">SECURE CHECKOUT →</button>
-              </div>
+
+              {isParty && (
+                <div className="bg-fuchsia-950/80 border border-fuchsia-400 rounded-xl p-3 space-y-2">
+                  <div className="text-[11px] font-black uppercase text-yellow-300">🎉 CHOOSE 88–170 PC BULK BOX, INDIVIDUAL DECOR, OR HELIUM/ARCHWAY:</div>
+                  <div className="grid grid-cols-2 md:grid-cols-3 gap-1.5">
+                    {[
+                      ["🎉 10-Guest Box (88 Pcs)", "$44.99"], ["🎈 15-Guest Box (128 Pcs)", "$62.99"], ["👑 20-Guest Box (170 Pcs)", "$78.99"],
+                      ["🍽️ Individual Plates/Cups", "$9.99"], ["🖼️ 5x3ft Wall Poster", "$19.99"], ["🏮 Hanging Lanterns", "$14.99"],
+                      ["🎈 150-Pc Balloon Archway", "$24.99"], ["🫧 30-Balloon Helium Tank", "$44.99"], ["🚀 50-Balloon Helium Tank", "$59.99"]
+                    ].map(([lbl, pr]) => (
+                      <button key={lbl} type="button" onClick={() => { setPackLabel(lbl); setOverridePrice(pr); }} className={`p-1.5 rounded-lg text-[10px] font-black uppercase border ${overridePrice === pr && packLabel === lbl ? "bg-yellow-400 text-black border-white" : "bg-black text-white border-fuchsia-500/40"}`}>{lbl} • {pr}</button>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              {isSport && (
+                <div className="bg-lime-950/80 border border-lime-400 rounded-xl p-3 space-y-2">
+                  <div className="text-[11px] font-black uppercase text-lime-300">🏅 CHOOSE QUALITY TIER (STARTER / MID / LUXURY) OR FAN JERSEY / HAT / BUNDLE:</div>
+                  <div className="grid grid-cols-2 md:grid-cols-3 gap-1.5">
+                    {[
+                      ["🥉 Starter / Youth Tier", "$29.99"], ["🥈 All-Season Mid-Tier", selectedItem.price], ["🥇 Pro Luxury Reserve", "$129.99"],
+                      ["👕 Player Shirsey Tee", "$27.99"], ["🎽 Replica Game Jersey", "$69.99"], ["🧢 Fitted / Snapback Hat", "$29.99"],
+                      ["🧦 Socks+Thermos+Finger", "$39.99"], ["🔥 Full Fan Head-to-Toe", "$149.99"], ["🏆 12-Pack Team/Trophy Bulk", "$199.99"]
+                    ].map(([lbl, pr]) => (
+                      <button key={lbl} type="button" onClick={() => { setPackLabel(lbl); setOverridePrice(pr); }} className={`p-1.5 rounded-lg text-[10px] font-black uppercase border ${overridePrice === pr && packLabel === lbl ? "bg-lime-400 text-black border-white" : "bg-black text-white border-lime-500/40"}`}>{lbl} • {pr}</button>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              <input value={aiNote} onChange={(e) => setAiNote(e.target.value)} placeholder="✨ Custom Name, Player #, Size, Bat/Glove/Hat Size, Trophy Text, or AI Face-Swap Note..." className="w-full bg-black border border-yellow-400 rounded-xl px-3 py-2.5 text-xs text-white outline-none" />
+
+              <button onClick={handleCheckout} disabled={loading} className="w-full bg-emerald-500 hover:bg-emerald-400 text-black font-black text-sm uppercase py-4 rounded-2xl shadow-lg">
+                {loading ? "Connecting to Stripe..." : `🔒 SECURE CHECKOUT (${overridePrice || selectedItem.price}) →`}
+              </button>
             </div>
           </div>
-        </div>
-      )}
+        )}
+      </div>
     </main>
   );
 }
