@@ -63,22 +63,35 @@ export default function DynamicStorefront() {
           <Link href="/" className="inline-block text-xs font-mono tracking-widest uppercase bg-black/40 hover:bg-black/80 px-4 py-2 rounded border border-white/20 mb-6 transition-colors">
             ← Return to Concourse
           </Link>
-          {String(storeId).startsWith("sportflex-") && (
-                <div className="bg-lime-950/80 border-2 border-lime-400 rounded-2xl p-4 my-3 space-y-2.5 text-left shadow-lg">
-                  <div className="text-xs font-black uppercase text-lime-300">
-                    ⚾ SPORTFLEX CUSTOM PRO SHOP — BUY INDIVIDUAL OR FULL-TEAM ROSTER BULK:
+          {(String(storeId).startsWith("sportflex-") || String(storeId).startsWith("sportlick-")) && (() => {
+                const baseNum = parseFloat(String(selectedItem.price || "49.99").replace(/[^0-9.]/g, "")) || 49.99;
+                const starterP = "$" + Math.max(14.99, (baseNum * 0.65)).toFixed(2);
+                const midP = "$" + baseNum.toFixed(2);
+                const luxP = "$" + (baseNum * 1.45).toFixed(2);
+                return (
+                  <div className="bg-lime-950/85 border-2 border-lime-400 rounded-2xl p-4 my-3 space-y-2.5 text-left shadow-lg">
+                    <div className="text-xs font-black uppercase text-lime-300">
+                      🏅 1. CHOOSE YOUR QUALITY TIER (STARTER • ALL-SEASON MID-TIER • PRO LUXURY) OR TEAM BULK:
+                    </div>
+                    <div className="grid grid-cols-2 gap-2">
+                      {[
+                        { label: "🥉 Starter / First-Timer Tier", price: starterP },
+                        { label: "🥈 All-Season Quality Mid-Tier", price: midP },
+                        { label: "🥇 Pro Luxury Reserve Tier", price: luxP },
+                        { label: "🏆 12-Pack Team / Coach Bulk", price: "$" + (baseNum * 9.5).toFixed(2) }
+                      ].map(opt => (
+                        <button key={opt.label} type="button" onClick={() => { setPackLabel(opt.label); setOverridePrice(opt.price); }} className={`p-2 rounded-xl text-[11px] font-black uppercase border ${overridePrice === opt.price ? "bg-lime-400 text-black border-white" : "bg-black/80 text-white border-lime-500/40 hover:border-lime-400"}`}>
+                          {opt.label} • <span className={overridePrice === opt.price ? "text-black" : "text-emerald-400"}>{opt.price}</span>
+                        </button>
+                      ))}
+                    </div>
+                    <div className="text-[11px] font-black uppercase text-yellow-300 pt-1">
+                      📏 2. SELECT SIZE, WOOD/LEATHER TYPE, COLOR, ROD ACTION OR TROPHY ENGRAVING:
+                    </div>
+                    <input type="text" value={aiNote} onChange={(e) => setAiNote(e.target.value)} placeholder="e.g. 32in Maple Bat / 11.5 RHT Glove / 28.5 Women Leather Ball / Medium Bass Rod / Trophy Team Name..." className="w-full bg-black border border-lime-400 rounded-lg px-3 py-2 text-xs text-white placeholder-zinc-400 outline-none" />
                   </div>
-                  <div className="grid grid-cols-2 gap-2">
-                    {[
-                      { label: "👤 Single Custom Item", price: selectedItem.price },
-                      { label: "🧢 12-Hat Team Dugout Box", price: "{String(storeId).startsWith("lapooza-")99.99" },
-                      { label: "🎽 12-Jersey Team Roster Pack", price: "$329.99" },
-                      { label: "🏆 15-Player Full Uniform Box", price: "$449.99" }
-                    ].map(opt => (
-                      <button key={opt.label} type="button" onClick={() => { setPackLabel(opt.label); setOverridePrice(opt.price); }} className={`p-2 rounded-xl text-[11px] font-black uppercase border ${overridePrice === opt.price ? "bg-lime-400 text-black border-white" : "bg-black/80 text-white border-lime-500/40 hover:border-lime-400"}`}>
-                        {opt.label} • <span className={overridePrice === opt.price ? "text-black" : "text-emerald-400"}>{opt.price}</span>
-                      </button>
-                    ))}
+                );
+              })()}
                   </div>
                   <input type="text" value={aiNote} onChange={(e) => setAiNote(e.target.value)} placeholder="🎽 Enter Custom Back Name, Player #, Hat Logo & Size (e.g. SHORROSH #7 • Adult L • Youth 11.5 Mitt)..." className="w-full bg-black border border-lime-400 rounded-lg px-3 py-2 text-xs text-white placeholder-zinc-400 outline-none" />
                 </div>
