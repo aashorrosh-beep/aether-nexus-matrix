@@ -78343,5 +78343,487 @@ export const masterInventory: Record<string, any[]> = {
       },
       "status": "LIVE_MARKET_VERIFIED"
     }
+  ],
+  "albs-mall-gift-cards": [
+    {
+      "id": "GCARD-25-1",
+      "name": "$25 ALBS Nexus Universal All-6-Malls Holiday Gift Card (Good for Every Storefront)",
+      "price": "$25.00",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=800&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=800&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=800&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 50,
+      "specs": {
+        "manufacturer": "ALBS Nexus Closed-Loop Universal Mall Credit (Valid in All 170+ Storefronts)",
+        "condition": "Instant Digital Delivery • Funds Never Expire • $0 Maintenance or Inactivity Fees",
+        "shipping": "Instant Email Delivery: $0.00 Shipping • $0.00 Sales Tax on Purchase (Buyer Pays $1.06 Card Fee)",
+        "market_value": "Redeemable on Autism/Sanctuary Gear, Party Lapooza, Nostalgia, Sports, Trending & Tech"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "GCARD-50-1",
+      "name": "$50 ALBS Nexus Universal All-6-Malls Holiday Gift Card (Good for Every Storefront)",
+      "price": "$50.00",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=800&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=800&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=800&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 50,
+      "specs": {
+        "manufacturer": "ALBS Nexus Closed-Loop Universal Mall Credit (Valid in All 170+ Storefronts)",
+        "condition": "Instant Digital Delivery • Funds Never Expire • $0 Maintenance or Inactivity Fees",
+        "shipping": "Instant Email Delivery: $0.00 Shipping • $0.00 Sales Tax on Purchase (Buyer Pays $1.80 Card Fee)",
+        "market_value": "Redeemable on Autism/Sanctuary Gear, Party Lapooza, Nostalgia, Sports, Trending & Tech"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "GCARD-100-1",
+      "name": "$100 ALBS Nexus Universal All-6-Malls Holiday Gift Card (Good for Every Storefront)",
+      "price": "$100.00",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=800&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=800&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=800&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 50,
+      "specs": {
+        "manufacturer": "ALBS Nexus Closed-Loop Universal Mall Credit (Valid in All 170+ Storefronts)",
+        "condition": "Instant Digital Delivery • Funds Never Expire • $0 Maintenance or Inactivity Fees",
+        "shipping": "Instant Email Delivery: $0.00 Shipping • $0.00 Sales Tax on Purchase (Buyer Pays $3.30 Card Fee)",
+        "market_value": "Redeemable on Autism/Sanctuary Gear, Party Lapooza, Nostalgia, Sports, Trending & Tech"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "GCARD-250-1",
+      "name": "$250 ALBS Nexus Universal All-6-Malls Holiday Gift Card (Good for Every Storefront)",
+      "price": "$250.00",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=800&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=800&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=800&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 50,
+      "specs": {
+        "manufacturer": "ALBS Nexus Closed-Loop Universal Mall Credit (Valid in All 170+ Storefronts)",
+        "condition": "Instant Digital Delivery • Funds Never Expire • $0 Maintenance or Inactivity Fees",
+        "shipping": "Instant Email Delivery: $0.00 Shipping • $0.00 Sales Tax on Purchase (Buyer Pays $7.78 Card Fee)",
+        "market_value": "Redeemable on Autism/Sanctuary Gear, Party Lapooza, Nostalgia, Sports, Trending & Tech"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "GCARD-500-1",
+      "name": "$500 ALBS Nexus Universal All-6-Malls Holiday Gift Card (Good for Every Storefront)",
+      "price": "$500.00",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=800&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=800&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=800&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 50,
+      "specs": {
+        "manufacturer": "ALBS Nexus Closed-Loop Universal Mall Credit (Valid in All 170+ Storefronts)",
+        "condition": "Instant Digital Delivery • Funds Never Expire • $0 Maintenance or Inactivity Fees",
+        "shipping": "Instant Email Delivery: $0.00 Shipping • $0.00 Sales Tax on Purchase (Buyer Pays $15.24 Card Fee)",
+        "market_value": "Redeemable on Autism/Sanctuary Gear, Party Lapooza, Nostalgia, Sports, Trending & Tech"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "GCARD-1000-1",
+      "name": "$1,000 ALBS Nexus Universal All-6-Malls Holiday Gift Card (Good for Every Storefront)",
+      "price": "$1000.00",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=800&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=800&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=800&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 50,
+      "specs": {
+        "manufacturer": "ALBS Nexus Closed-Loop Universal Mall Credit (Valid in All 170+ Storefronts)",
+        "condition": "Instant Digital Delivery • Funds Never Expire • $0 Maintenance or Inactivity Fees",
+        "shipping": "Instant Email Delivery: $0.00 Shipping • $0.00 Sales Tax on Purchase (Buyer Pays $30.18 Card Fee)",
+        "market_value": "Redeemable on Autism/Sanctuary Gear, Party Lapooza, Nostalgia, Sports, Trending & Tech"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "GCARD-25-2",
+      "name": "$25 ALBS Nexus Autism, Down Syndrome, Blind/Deaf & Whole-Family Sanctuary Gift Card (Good Across All 6 Malls)",
+      "price": "$25.00",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=800&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=800&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=800&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 50,
+      "specs": {
+        "manufacturer": "ALBS Nexus Closed-Loop Universal Mall Credit (Valid in All 170+ Storefronts)",
+        "condition": "Instant Digital Delivery • Funds Never Expire • $0 Maintenance or Inactivity Fees",
+        "shipping": "Instant Email Delivery: $0.00 Shipping • $0.00 Sales Tax on Purchase (Buyer Pays $1.06 Card Fee)",
+        "market_value": "Redeemable on Autism/Sanctuary Gear, Party Lapooza, Nostalgia, Sports, Trending & Tech"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "GCARD-50-2",
+      "name": "$50 ALBS Nexus Autism, Down Syndrome, Blind/Deaf & Whole-Family Sanctuary Gift Card (Good Across All 6 Malls)",
+      "price": "$50.00",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=800&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=800&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=800&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 50,
+      "specs": {
+        "manufacturer": "ALBS Nexus Closed-Loop Universal Mall Credit (Valid in All 170+ Storefronts)",
+        "condition": "Instant Digital Delivery • Funds Never Expire • $0 Maintenance or Inactivity Fees",
+        "shipping": "Instant Email Delivery: $0.00 Shipping • $0.00 Sales Tax on Purchase (Buyer Pays $1.80 Card Fee)",
+        "market_value": "Redeemable on Autism/Sanctuary Gear, Party Lapooza, Nostalgia, Sports, Trending & Tech"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "GCARD-100-2",
+      "name": "$100 ALBS Nexus Autism, Down Syndrome, Blind/Deaf & Whole-Family Sanctuary Gift Card (Good Across All 6 Malls)",
+      "price": "$100.00",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=800&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=800&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=800&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 50,
+      "specs": {
+        "manufacturer": "ALBS Nexus Closed-Loop Universal Mall Credit (Valid in All 170+ Storefronts)",
+        "condition": "Instant Digital Delivery • Funds Never Expire • $0 Maintenance or Inactivity Fees",
+        "shipping": "Instant Email Delivery: $0.00 Shipping • $0.00 Sales Tax on Purchase (Buyer Pays $3.30 Card Fee)",
+        "market_value": "Redeemable on Autism/Sanctuary Gear, Party Lapooza, Nostalgia, Sports, Trending & Tech"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "GCARD-250-2",
+      "name": "$250 ALBS Nexus Autism, Down Syndrome, Blind/Deaf & Whole-Family Sanctuary Gift Card (Good Across All 6 Malls)",
+      "price": "$250.00",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=800&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=800&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=800&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 50,
+      "specs": {
+        "manufacturer": "ALBS Nexus Closed-Loop Universal Mall Credit (Valid in All 170+ Storefronts)",
+        "condition": "Instant Digital Delivery • Funds Never Expire • $0 Maintenance or Inactivity Fees",
+        "shipping": "Instant Email Delivery: $0.00 Shipping • $0.00 Sales Tax on Purchase (Buyer Pays $7.78 Card Fee)",
+        "market_value": "Redeemable on Autism/Sanctuary Gear, Party Lapooza, Nostalgia, Sports, Trending & Tech"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "GCARD-500-2",
+      "name": "$500 ALBS Nexus Autism, Down Syndrome, Blind/Deaf & Whole-Family Sanctuary Gift Card (Good Across All 6 Malls)",
+      "price": "$500.00",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=800&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=800&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=800&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 50,
+      "specs": {
+        "manufacturer": "ALBS Nexus Closed-Loop Universal Mall Credit (Valid in All 170+ Storefronts)",
+        "condition": "Instant Digital Delivery • Funds Never Expire • $0 Maintenance or Inactivity Fees",
+        "shipping": "Instant Email Delivery: $0.00 Shipping • $0.00 Sales Tax on Purchase (Buyer Pays $15.24 Card Fee)",
+        "market_value": "Redeemable on Autism/Sanctuary Gear, Party Lapooza, Nostalgia, Sports, Trending & Tech"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "GCARD-1000-2",
+      "name": "$1,000 ALBS Nexus Autism, Down Syndrome, Blind/Deaf & Whole-Family Sanctuary Gift Card (Good Across All 6 Malls)",
+      "price": "$1000.00",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=800&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=800&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=800&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 50,
+      "specs": {
+        "manufacturer": "ALBS Nexus Closed-Loop Universal Mall Credit (Valid in All 170+ Storefronts)",
+        "condition": "Instant Digital Delivery • Funds Never Expire • $0 Maintenance or Inactivity Fees",
+        "shipping": "Instant Email Delivery: $0.00 Shipping • $0.00 Sales Tax on Purchase (Buyer Pays $30.18 Card Fee)",
+        "market_value": "Redeemable on Autism/Sanctuary Gear, Party Lapooza, Nostalgia, Sports, Trending & Tech"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "GCARD-25-3",
+      "name": "$25 ALBS Nexus When You’re Expecting, Party Lapooza & Family Celebration Universal Gift Card",
+      "price": "$25.00",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=800&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=800&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=800&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 50,
+      "specs": {
+        "manufacturer": "ALBS Nexus Closed-Loop Universal Mall Credit (Valid in All 170+ Storefronts)",
+        "condition": "Instant Digital Delivery • Funds Never Expire • $0 Maintenance or Inactivity Fees",
+        "shipping": "Instant Email Delivery: $0.00 Shipping • $0.00 Sales Tax on Purchase (Buyer Pays $1.06 Card Fee)",
+        "market_value": "Redeemable on Autism/Sanctuary Gear, Party Lapooza, Nostalgia, Sports, Trending & Tech"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "GCARD-50-3",
+      "name": "$50 ALBS Nexus When You’re Expecting, Party Lapooza & Family Celebration Universal Gift Card",
+      "price": "$50.00",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=800&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=800&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=800&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 50,
+      "specs": {
+        "manufacturer": "ALBS Nexus Closed-Loop Universal Mall Credit (Valid in All 170+ Storefronts)",
+        "condition": "Instant Digital Delivery • Funds Never Expire • $0 Maintenance or Inactivity Fees",
+        "shipping": "Instant Email Delivery: $0.00 Shipping • $0.00 Sales Tax on Purchase (Buyer Pays $1.80 Card Fee)",
+        "market_value": "Redeemable on Autism/Sanctuary Gear, Party Lapooza, Nostalgia, Sports, Trending & Tech"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "GCARD-100-3",
+      "name": "$100 ALBS Nexus When You’re Expecting, Party Lapooza & Family Celebration Universal Gift Card",
+      "price": "$100.00",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=800&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=800&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=800&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 50,
+      "specs": {
+        "manufacturer": "ALBS Nexus Closed-Loop Universal Mall Credit (Valid in All 170+ Storefronts)",
+        "condition": "Instant Digital Delivery • Funds Never Expire • $0 Maintenance or Inactivity Fees",
+        "shipping": "Instant Email Delivery: $0.00 Shipping • $0.00 Sales Tax on Purchase (Buyer Pays $3.30 Card Fee)",
+        "market_value": "Redeemable on Autism/Sanctuary Gear, Party Lapooza, Nostalgia, Sports, Trending & Tech"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "GCARD-250-3",
+      "name": "$250 ALBS Nexus When You’re Expecting, Party Lapooza & Family Celebration Universal Gift Card",
+      "price": "$250.00",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=800&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=800&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=800&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 50,
+      "specs": {
+        "manufacturer": "ALBS Nexus Closed-Loop Universal Mall Credit (Valid in All 170+ Storefronts)",
+        "condition": "Instant Digital Delivery • Funds Never Expire • $0 Maintenance or Inactivity Fees",
+        "shipping": "Instant Email Delivery: $0.00 Shipping • $0.00 Sales Tax on Purchase (Buyer Pays $7.78 Card Fee)",
+        "market_value": "Redeemable on Autism/Sanctuary Gear, Party Lapooza, Nostalgia, Sports, Trending & Tech"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "GCARD-500-3",
+      "name": "$500 ALBS Nexus When You’re Expecting, Party Lapooza & Family Celebration Universal Gift Card",
+      "price": "$500.00",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=800&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=800&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=800&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 50,
+      "specs": {
+        "manufacturer": "ALBS Nexus Closed-Loop Universal Mall Credit (Valid in All 170+ Storefronts)",
+        "condition": "Instant Digital Delivery • Funds Never Expire • $0 Maintenance or Inactivity Fees",
+        "shipping": "Instant Email Delivery: $0.00 Shipping • $0.00 Sales Tax on Purchase (Buyer Pays $15.24 Card Fee)",
+        "market_value": "Redeemable on Autism/Sanctuary Gear, Party Lapooza, Nostalgia, Sports, Trending & Tech"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "GCARD-1000-3",
+      "name": "$1,000 ALBS Nexus When You’re Expecting, Party Lapooza & Family Celebration Universal Gift Card",
+      "price": "$1000.00",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=800&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=800&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=800&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 50,
+      "specs": {
+        "manufacturer": "ALBS Nexus Closed-Loop Universal Mall Credit (Valid in All 170+ Storefronts)",
+        "condition": "Instant Digital Delivery • Funds Never Expire • $0 Maintenance or Inactivity Fees",
+        "shipping": "Instant Email Delivery: $0.00 Shipping • $0.00 Sales Tax on Purchase (Buyer Pays $30.18 Card Fee)",
+        "market_value": "Redeemable on Autism/Sanctuary Gear, Party Lapooza, Nostalgia, Sports, Trending & Tech"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "GCARD-25-4",
+      "name": "$25 ALBS Nexus Nostalgia, Trendalopolis, Sportlick & Matrix Universal Mall Gift Card",
+      "price": "$25.00",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=800&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=800&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=800&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 50,
+      "specs": {
+        "manufacturer": "ALBS Nexus Closed-Loop Universal Mall Credit (Valid in All 170+ Storefronts)",
+        "condition": "Instant Digital Delivery • Funds Never Expire • $0 Maintenance or Inactivity Fees",
+        "shipping": "Instant Email Delivery: $0.00 Shipping • $0.00 Sales Tax on Purchase (Buyer Pays $1.06 Card Fee)",
+        "market_value": "Redeemable on Autism/Sanctuary Gear, Party Lapooza, Nostalgia, Sports, Trending & Tech"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "GCARD-50-4",
+      "name": "$50 ALBS Nexus Nostalgia, Trendalopolis, Sportlick & Matrix Universal Mall Gift Card",
+      "price": "$50.00",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=800&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=800&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=800&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 50,
+      "specs": {
+        "manufacturer": "ALBS Nexus Closed-Loop Universal Mall Credit (Valid in All 170+ Storefronts)",
+        "condition": "Instant Digital Delivery • Funds Never Expire • $0 Maintenance or Inactivity Fees",
+        "shipping": "Instant Email Delivery: $0.00 Shipping • $0.00 Sales Tax on Purchase (Buyer Pays $1.80 Card Fee)",
+        "market_value": "Redeemable on Autism/Sanctuary Gear, Party Lapooza, Nostalgia, Sports, Trending & Tech"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "GCARD-100-4",
+      "name": "$100 ALBS Nexus Nostalgia, Trendalopolis, Sportlick & Matrix Universal Mall Gift Card",
+      "price": "$100.00",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=800&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=800&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=800&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 50,
+      "specs": {
+        "manufacturer": "ALBS Nexus Closed-Loop Universal Mall Credit (Valid in All 170+ Storefronts)",
+        "condition": "Instant Digital Delivery • Funds Never Expire • $0 Maintenance or Inactivity Fees",
+        "shipping": "Instant Email Delivery: $0.00 Shipping • $0.00 Sales Tax on Purchase (Buyer Pays $3.30 Card Fee)",
+        "market_value": "Redeemable on Autism/Sanctuary Gear, Party Lapooza, Nostalgia, Sports, Trending & Tech"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "GCARD-250-4",
+      "name": "$250 ALBS Nexus Nostalgia, Trendalopolis, Sportlick & Matrix Universal Mall Gift Card",
+      "price": "$250.00",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=800&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=800&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=800&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 50,
+      "specs": {
+        "manufacturer": "ALBS Nexus Closed-Loop Universal Mall Credit (Valid in All 170+ Storefronts)",
+        "condition": "Instant Digital Delivery • Funds Never Expire • $0 Maintenance or Inactivity Fees",
+        "shipping": "Instant Email Delivery: $0.00 Shipping • $0.00 Sales Tax on Purchase (Buyer Pays $7.78 Card Fee)",
+        "market_value": "Redeemable on Autism/Sanctuary Gear, Party Lapooza, Nostalgia, Sports, Trending & Tech"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "GCARD-500-4",
+      "name": "$500 ALBS Nexus Nostalgia, Trendalopolis, Sportlick & Matrix Universal Mall Gift Card",
+      "price": "$500.00",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=800&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=800&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=800&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 50,
+      "specs": {
+        "manufacturer": "ALBS Nexus Closed-Loop Universal Mall Credit (Valid in All 170+ Storefronts)",
+        "condition": "Instant Digital Delivery • Funds Never Expire • $0 Maintenance or Inactivity Fees",
+        "shipping": "Instant Email Delivery: $0.00 Shipping • $0.00 Sales Tax on Purchase (Buyer Pays $15.24 Card Fee)",
+        "market_value": "Redeemable on Autism/Sanctuary Gear, Party Lapooza, Nostalgia, Sports, Trending & Tech"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "GCARD-1000-4",
+      "name": "$1,000 ALBS Nexus Nostalgia, Trendalopolis, Sportlick & Matrix Universal Mall Gift Card",
+      "price": "$1000.00",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=800&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=800&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=800&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 50,
+      "specs": {
+        "manufacturer": "ALBS Nexus Closed-Loop Universal Mall Credit (Valid in All 170+ Storefronts)",
+        "condition": "Instant Digital Delivery • Funds Never Expire • $0 Maintenance or Inactivity Fees",
+        "shipping": "Instant Email Delivery: $0.00 Shipping • $0.00 Sales Tax on Purchase (Buyer Pays $30.18 Card Fee)",
+        "market_value": "Redeemable on Autism/Sanctuary Gear, Party Lapooza, Nostalgia, Sports, Trending & Tech"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
   ]
 };

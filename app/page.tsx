@@ -7,14 +7,14 @@ const isLive = (id: string) => Boolean(masterInventory && masterInventory[id] &&
 const fmt = (s: string) => s.replace(/-/g, " ").toUpperCase();
 
 const wellCogs = [
-  { id: "w0", name: "💚 1. Special Needs, Expecting, MD, Deaf/Blind & PTSD Superstores (5 Stores)", desc: "Autism Sensory, Expecting Mothers, Muscular Dystrophy, Deaf/Blind & PTSD Calm Gear (10–20% Below Retail)", rooms: ["spectrum-sensory-superstore","new-life-expecting-superstore","md-mobility-superstore","deaf-blind-superstore","ptsd-calm-superstore"] },
+  { id: "w0", name: "💚 1. Special Needs, Expecting, MD, Deaf/Blind & PTSD Superstores (5 Stores)", desc: "Autism Sensory, Expecting Mothers, Muscular Dystrophy, Deaf/Blind & PTSD Calm Gear (10–20% Below Retail)", rooms: ["albs-mall-gift-cards","spectrum-sensory-superstore","new-life-expecting-superstore","md-mobility-superstore","deaf-blind-superstore","ptsd-calm-superstore"] },
   { id: "w1", name: "🌿 2. Holistic Longevity, Botanicals, Peptides & Shilajit (6 Stores)", desc: "Turkey Tail, Sulforaphane, Soursop, NAD+, Peptides, Pure Shilajit Resin & Holistic Books", rooms: ["cellular-immune-botanicals","holistic-longevity-lab","peptide-research-vault","adaptogen-apothecary","cellular-hydration-mineral","gut-botanical-library"] },
   { id: "w2", name: "💪 3. GNC-Style Pro Protein, Clean Pantry & Meal Prep (3 Stores)", desc: "Whey/Plant Protein Shakes, Ostrich Sticks, Organic Pantry & Prepared Diet Boxes", rooms: ["gnc-sports-nutrition","diet-meal-delivery","organic-health-pantry"] },
   { id: "w3", name: "🩺 4. The Scrub Lounge, Back Pain Relief & Senior Mobility (6 Stores)", desc: "Cute/Funny Medical Scrubs, Walkers, Rollators, Spine Decompression, Sportswear & Home Recovery", rooms: ["the-scrub-lounge","senior-mobility-independence","back-pain-spine-relief","athletic-attire-footwear","home-fitness-recovery","retro-sweat-rentals"] }
 ];
 
 const nostCogs = [
-  { id: "n1", name: "🎄 1. Q4 Holiday, The Christmas Story, Ugly Sweaters & Bakery (6 Stores)", desc: "110-Item Christmas Story Gags, Ugly Sweaters, Holiday Fudge/Brownies/Brittle & Gift Baskets", rooms: ["the-christmas-story","holiday-confectionery-bakery","seasonal-gift-baskets","ugly-sweater-party","friendsgiving-vault","holiday-gag-gifts"] },
+  { id: "n1", name: "🎄 1. Q4 Holiday, The Christmas Story, Ugly Sweaters & Bakery (6 Stores)", desc: "110-Item Christmas Story Gags, Ugly Sweaters, Holiday Fudge/Brownies/Brittle & Gift Baskets", rooms: ["albs-mall-gift-cards","the-christmas-story","holiday-confectionery-bakery","seasonal-gift-baskets","ugly-sweater-party","friendsgiving-vault","holiday-gag-gifts"] },
   { id: "n2", name: "🧸 2. 150-Item Super Squishies, Pop Mart & Blind Box Vaults (8 Stores)", desc: "Rare Squishmallows, Mystery Blind Boxes, Stretch Armstrong, Retro Candy & Novelty Grails", rooms: ["super-squishies-hub","blind-box-vault","the-lost-edge","neo-squish","retro-mystery-vault","pixel-sugar-rush","retro-candy-soda","retro-squish-blind-boxes"] },
   { id: "n3", name: "🕹️ 3. 60s, 70s, 80s, 90s & Y2K Streetwear & Skate Vaults (11 Stores)", desc: "Era Relics, Vintage Jerseys, 90s Grunge Flannel, Roller Rink & 90s Skate Decks", rooms: ["decade-60s-70s","decade-80s-90s","decade-y2k","threads-and-tracks","grunge-90s-flannel","grunge-apparel","y2k-pop-merch","vintage-sports-jerseys","neon-roller-rink","90s-skate-deck-vault","vintage-apparel-vault"] },
   { id: "n4", name: "📼 4. Retro Gaming, 8-Bit Consoles, Vinyl, VHS & Action Figures (16 Stores)", desc: "90s Action Figures, Arcade Systems, Comic Stash, Walkmans, Pogs & Tamagotchi", rooms: ["action-figures-90s","retro-toy-chest","8-bit-consoles","vintage-arcade","retro-arcade-systems","classic-consoles","saturday-morning-cartoons","retro-board-games","vintage-comic-stash","vhs-cult-archive","vintage-vinyl-records","polaroid-instant-film","classic-walkman-audio","pogs-and-slammers","digital-pets","pop-culture-relics"] },
@@ -110,6 +110,99 @@ export default function MallOfMallsLobby() {
                         <div className="font-black text-xs uppercase text-white truncate">🏪 {fmt(s.room)}</div>
                         <div className="text-[11px] text-emerald-400 font-mono">{s.hits.length} Items • From {s.hits[0]?.price}</div>
                       </div>
+
+        {/* UNIVERSAL 6-MALL HOLIDAY & FAMILY SANCTUARY GIFT CARD BAR ($25 - 🎩 Find It For Me (3–4 Hr Email • 24-Hr Hold) →
+            </Link>
+          </div>
+          {mallQuery.trim().length > 1 && (() => {
+            const q = mallQuery.toLowerCase().trim();
+            const matched = Object.entries(masterInventory || {}).map(([room, items]: [string, any]) => {
+              const hits = Array.isArray(items) ? items.filter(x => String(x.name || "").toLowerCase().includes(q) || room.toLowerCase().includes(q)) : [];
+              return { room, hits };
+            }).filter(s => s.hits.length > 0);
+            return (
+              <div className="mt-4 pt-4 border-t border-zinc-800 space-y-3 text-left">
+                <div className="text-xs font-mono text-yellow-400 uppercase font-bold">🗺️ MALL STORE MAP: Found {matched.length} Storefronts with &ldquo;{mallQuery}&rdquo;:</div>
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-3 max-h-80 overflow-y-auto">
+                  {matched.map(s => (
+                    <Link key={s.room} href={"/nostalgia/" + s.room} className="bg-zinc-900 hover:bg-zinc-800 border border-yellow-500/40 p-3 rounded-xl flex items-center gap-3">
+                      {s.hits[0]?.media?.[0] && <img src={s.hits[0].media[0]} alt="" className="w-12 h-12 rounded-lg object-cover shrink-0" />}
+                      <div className="min-w-0">
+                        <div className="font-black text-xs uppercase text-white truncate">🏪 {fmt(s.room)}</div>
+                        <div className="text-[11px] text-emerald-400 font-mono">{s.hits.length} Items • From {s.hits[0]?.price}</div>
+                      </div>,000) */}
+        <div className="bg-gradient-to-r from-emerald-950 via-zinc-900 to-amber-950 border-2 border-amber-400 rounded-2xl p-4 shadow-[0_0_30px_rgba(251,191,36,0.2)]">
+          <div className="flex flex-col md:flex-row justify-between items-center gap-3">
+            <div className="text-left space-y-1">
+              <div className="text-xs font-black uppercase text-amber-300 tracking-wider">
+                🎁 HOLIDAY &amp; FAMILY SANCTUARY UNIVERSAL GIFT CARDS ($25 • $50 • 🎩 Find It For Me (3–4 Hr Email • 24-Hr Hold) →
+            </Link>
+          </div>
+          {mallQuery.trim().length > 1 && (() => {
+            const q = mallQuery.toLowerCase().trim();
+            const matched = Object.entries(masterInventory || {}).map(([room, items]: [string, any]) => {
+              const hits = Array.isArray(items) ? items.filter(x => String(x.name || "").toLowerCase().includes(q) || room.toLowerCase().includes(q)) : [];
+              return { room, hits };
+            }).filter(s => s.hits.length > 0);
+            return (
+              <div className="mt-4 pt-4 border-t border-zinc-800 space-y-3 text-left">
+                <div className="text-xs font-mono text-yellow-400 uppercase font-bold">🗺️ MALL STORE MAP: Found {matched.length} Storefronts with &ldquo;{mallQuery}&rdquo;:</div>
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-3 max-h-80 overflow-y-auto">
+                  {matched.map(s => (
+                    <Link key={s.room} href={"/nostalgia/" + s.room} className="bg-zinc-900 hover:bg-zinc-800 border border-yellow-500/40 p-3 rounded-xl flex items-center gap-3">
+                      {s.hits[0]?.media?.[0] && <img src={s.hits[0].media[0]} alt="" className="w-12 h-12 rounded-lg object-cover shrink-0" />}
+                      <div className="min-w-0">
+                        <div className="font-black text-xs uppercase text-white truncate">🏪 {fmt(s.room)}</div>
+                        <div className="text-[11px] text-emerald-400 font-mono">{s.hits.length} Items • From {s.hits[0]?.price}</div>
+                      </div>00 • $250 • $500 • 🎩 Find It For Me (3–4 Hr Email • 24-Hr Hold) →
+            </Link>
+          </div>
+          {mallQuery.trim().length > 1 && (() => {
+            const q = mallQuery.toLowerCase().trim();
+            const matched = Object.entries(masterInventory || {}).map(([room, items]: [string, any]) => {
+              const hits = Array.isArray(items) ? items.filter(x => String(x.name || "").toLowerCase().includes(q) || room.toLowerCase().includes(q)) : [];
+              return { room, hits };
+            }).filter(s => s.hits.length > 0);
+            return (
+              <div className="mt-4 pt-4 border-t border-zinc-800 space-y-3 text-left">
+                <div className="text-xs font-mono text-yellow-400 uppercase font-bold">🗺️ MALL STORE MAP: Found {matched.length} Storefronts with &ldquo;{mallQuery}&rdquo;:</div>
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-3 max-h-80 overflow-y-auto">
+                  {matched.map(s => (
+                    <Link key={s.room} href={"/nostalgia/" + s.room} className="bg-zinc-900 hover:bg-zinc-800 border border-yellow-500/40 p-3 rounded-xl flex items-center gap-3">
+                      {s.hits[0]?.media?.[0] && <img src={s.hits[0].media[0]} alt="" className="w-12 h-12 rounded-lg object-cover shrink-0" />}
+                      <div className="min-w-0">
+                        <div className="font-black text-xs uppercase text-white truncate">🏪 {fmt(s.room)}</div>
+                        <div className="text-[11px] text-emerald-400 font-mono">{s.hits.length} Items • From {s.hits[0]?.price}</div>
+                      </div>,000)
+              </div>
+              <p className="text-[11px] text-zinc-200">
+                The perfect gift for Autism, Special-Needs &amp; Expecting Families: lets parents shop the <span className="text-emerald-300 font-bold">Wellness Sanctuary</span> while the rest of the family shops <span className="text-yellow-300 font-bold">Sports, Nostalgia, Party Lapooza &amp; Trending Tech</span>! <span className="text-zinc-400">(Funds Never Expire • $0 Tax &amp; $0 Shipping on Card Purchase)</span>
+              </p>
+            </div>
+            <Link href="/nostalgia/albs-mall-gift-cards" className="bg-amber-400 hover:bg-amber-300 text-black font-black text-xs uppercase px-5 py-3.5 rounded-xl shrink-0 shadow-lg">
+              🎁 Send a Mall Gift Card ($25–🎩 Find It For Me (3–4 Hr Email • 24-Hr Hold) →
+            </Link>
+          </div>
+          {mallQuery.trim().length > 1 && (() => {
+            const q = mallQuery.toLowerCase().trim();
+            const matched = Object.entries(masterInventory || {}).map(([room, items]: [string, any]) => {
+              const hits = Array.isArray(items) ? items.filter(x => String(x.name || "").toLowerCase().includes(q) || room.toLowerCase().includes(q)) : [];
+              return { room, hits };
+            }).filter(s => s.hits.length > 0);
+            return (
+              <div className="mt-4 pt-4 border-t border-zinc-800 space-y-3 text-left">
+                <div className="text-xs font-mono text-yellow-400 uppercase font-bold">🗺️ MALL STORE MAP: Found {matched.length} Storefronts with &ldquo;{mallQuery}&rdquo;:</div>
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-3 max-h-80 overflow-y-auto">
+                  {matched.map(s => (
+                    <Link key={s.room} href={"/nostalgia/" + s.room} className="bg-zinc-900 hover:bg-zinc-800 border border-yellow-500/40 p-3 rounded-xl flex items-center gap-3">
+                      {s.hits[0]?.media?.[0] && <img src={s.hits[0].media[0]} alt="" className="w-12 h-12 rounded-lg object-cover shrink-0" />}
+                      <div className="min-w-0">
+                        <div className="font-black text-xs uppercase text-white truncate">🏪 {fmt(s.room)}</div>
+                        <div className="text-[11px] text-emerald-400 font-mono">{s.hits.length} Items • From {s.hits[0]?.price}</div>
+                      </div>,000) →
+            </Link>
+          </div>
+        </div>
                     </Link>
                   ))}
                 </div>

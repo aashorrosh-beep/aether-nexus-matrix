@@ -11,11 +11,10 @@ export async function POST(req: Request) {
     const body = await req.json();
     const { name, price, image, storeId } = body;
 
-    const rawPrice = parseFloat(String(price || '29.99').replace(/[^0-9.]/g, '')) || 29.99;
-    const ship = rawPrice < 100 ? 3.99 : (rawPrice < 250 ? 5.99 : (rawPrice < 500 ? 9.99 : 14.99));
-
-    // Customer pays 8.25% Sales Tax on Item + Shipping so ALBS never pays tax out of profit
-    const salesTax = Number(((rawPrice + ship) * 0.0825).toFixed(2));
+    const rawPrice = parseFloat(String(price || "29.99").replace(/[^0-9.]/g, "")) || 29.99;
+    const isGiftCard = String(storeId || "").includes("gift-card") || String(name || "").toLowerCase().includes("gift card");
+    const ship = isGiftCard ? 0 : (rawPrice < 100 ? 3.99 : (rawPrice < 250 ? 5.99 : (rawPrice < 500 ? 9.99 : 14.99)));
+    const salesTax = isGiftCard ? 0 : Number(((rawPrice + ship) * 0.0825).toFixed(2));
     const preFeeTotal = rawPrice + ship + salesTax;
 
     // Gross-up math so customer pays 100% of Stripe's 2.9% + $0.30 fee on the entire transaction
@@ -27,9 +26,10 @@ export async function POST(req: Request) {
     const session = await stripe.checkout.sessions.create({
       payment_method_types: ['card'],
       mode: 'payment',
+      allow_promotion_codes: true,
       billing_address_collection: 'required',
       shipping_address_collection: { allowed_countries: ['US'] },
-      line_items: [
+      line_items: ([
         {
           price_data: {
             currency: 'usd',
@@ -80,6 +80,7 @@ export async function POST(req: Request) {
           quantity: 1,
         },
       ],
+      }).filter((li: any) => li.price_data.unit_amount > 0),
       success_url: `${origin}/?checkout=success`,
       cancel_url: `${origin}/nostalgia/${storeId || ''}`,
     });
