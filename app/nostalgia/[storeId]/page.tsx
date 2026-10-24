@@ -13,6 +13,8 @@ export default function StorefrontPage({ params }: { params: Promise<{ storeId: 
   const [overridePrice, setOverridePrice] = useState<string | null>(null);
   const [aiNote, setAiNote] = useState("");
   const [loading, setLoading] = useState(false);
+  const [carZip, setCarZip] = useState("77301");
+  const isCar = storeId === "us-trend-car-detailing-pro";
 
   const fmt = (s: string) => String(s || "").replace(/-/g, " ").toUpperCase();
   const isParty = String(storeId).startsWith("lapooza-");
@@ -52,6 +54,24 @@ export default function StorefrontPage({ params }: { params: Promise<{ storeId: 
             <Link href="/" className="bg-white text-black font-black text-xs uppercase px-4 py-2.5 rounded-xl">← All 6 Malls</Link>
           </div>
         </div>
+
+        {isCar && (
+          <div className="bg-gradient-to-r from-red-950 via-zinc-900 to-amber-950 border-2 border-amber-400 rounded-2xl p-4 space-y-3 shadow-lg">
+            <div className="flex flex-col md:flex-row justify-between items-center gap-3">
+              <div className="text-left">
+                <span className="bg-amber-400 text-black font-black text-[10px] uppercase px-2.5 py-0.5 rounded-full">🏎️ FREE AFICIONADO UPGRADE • 12-MILE CAR SHOW &amp; MEET RADAR</span>
+                <h2 className="text-lg md:text-2xl font-black uppercase text-white mt-1">Scan Local Car Shows, Cars &amp; Coffee, Cruise-Ins &amp; DIY Wash Bays</h2>
+              </div>
+              <input value={carZip} onChange={(e) => setCarZip(e.target.value)} maxLength={5} placeholder="ZIP (e.g. 77301)" className="w-full md:w-36 bg-black border-2 border-amber-400 rounded-xl px-3 py-2 text-center font-black text-white outline-none" />
+            </div>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-2">
+              <a href={"https://www.google.com/maps/search/Car+Show+Cars+and+Coffee+Auto+Meet+near+" + carZip} target="_blank" className="bg-amber-400 hover:bg-amber-300 text-black font-black text-[11px] uppercase py-2.5 px-3 rounded-xl text-center block">🏁 12-Mi Car Shows &amp; Meets ({carZip}) →</a>
+              <a href={"https://www.google.com/maps/search/Cars+and+Coffee+Cruise+In+Car+Club+near+" + carZip} target="_blank" className="bg-red-600 hover:bg-red-500 text-white font-black text-[11px] uppercase py-2.5 px-3 rounded-xl text-center block">☕ 12-Mi Cars &amp; Coffee / Clubs →</a>
+              <a href={"https://www.google.com/maps/search/Self+Serve+Car+Wash+Bay+Detailing+near+" + carZip} target="_blank" className="bg-cyan-400 hover:bg-cyan-300 text-black font-black text-[11px] uppercase py-2.5 px-3 rounded-xl text-center block">💦 12-Mi DIY Spray Wash Bays →</a>
+              <a href={"https://www.google.com/maps/search/Speedway+Drag+Strip+Custom+Auto+Shop+near+" + carZip} target="_blank" className="bg-zinc-800 hover:bg-zinc-700 border border-amber-400 text-amber-300 font-black text-[11px] uppercase py-2.5 px-3 rounded-xl text-center block">🔧 12-Mi Tracks &amp; Speed Shops →</a>
+            </div>
+          </div>
+        )}
 
         {isParty && (
           <div className="bg-gradient-to-r from-fuchsia-900 via-purple-900 to-pink-900 border-2 border-yellow-400 rounded-2xl p-4 text-center">
