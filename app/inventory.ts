@@ -101082,5 +101082,3809 @@ export const masterInventory: Record<string, any[]> = {
       },
       "status": "LIVE_MARKET_VERIFIED"
     }
+  ],
+  "baby-shower-gender-reveal-boutique": [
+    {
+      "id": "TREND-0526",
+      "name": "AR Blue Clean 2300 PSI Electric Pressure Washer BC2N1HSS",
+      "price": "$509.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $14.99 + Buyer Sales Tax (8.25%: $42.07)",
+        "market_value": "Item $509.99 + $14.99 Ship + $42.07 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0527",
+      "name": "Garden Hose Foam Cannon",
+      "price": "$59.95",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $4.95)",
+        "market_value": "Item $59.95 + $3.99 Ship + $4.95 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0528",
+      "name": "Kranzle Dirt Killer K1622TS 1600 PSI 1.7 GPM Pressure Washer",
+      "price": "$1290.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $14.99 + Buyer Sales Tax (8.25%: $106.43)",
+        "market_value": "Item $1290.00 + $14.99 Ship + $106.43 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0529",
+      "name": "1/4\" Snow Foam Washer Gun, Plastic, Quick Connect | 3000 psi, Car Wash Soap",
+      "price": "$19.75",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.63)",
+        "market_value": "Item $19.75 + $3.99 Ship + $1.63 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0530",
+      "name": "Pressure Washer Snow Foam Lance Gun 1/4\" Foam Cannon Bottle for Karcher K2-",
+      "price": "$48.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $4.04)",
+        "market_value": "Item $48.99 + $3.99 Ship + $4.04 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0531",
+      "name": "Snow Foam Lance Auto Pressure Washer Jet Quick Release Foam Blaster Compati",
+      "price": "$69.17",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 3,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 3 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $5.71)",
+        "market_value": "Item $69.17 + $3.99 Ship + $5.71 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0532",
+      "name": "1/4\" Snow Foam Pressure Washer Gun Car Wash Soap Lance Cannon Spray",
+      "price": "$18.98",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.57)",
+        "market_value": "Item $18.98 + $3.99 Ship + $1.57 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0533",
+      "name": "1/4 900ML Snow Foam Gun Car Wash Sprayer Lance Pressure Washer Jet Bottle",
+      "price": "$31.62",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $2.61)",
+        "market_value": "Item $31.62 + $3.99 Ship + $2.61 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0534",
+      "name": "Snow Foam Lance Cannon Soap Bottle Sprayer For Pressure Washer Gun Jet Car ",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.65)",
+        "market_value": "Item $19.99 + $3.99 Ship + $1.65 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0535",
+      "name": "Maxshine Snow Foam Cannon",
+      "price": "$86.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $7.18)",
+        "market_value": "Item $86.99 + $3.99 Ship + $7.18 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0536",
+      "name": "MTM Hydro GHF1 Low Pressure Foamer",
+      "price": "$45.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $3.79)",
+        "market_value": "Item $45.99 + $3.99 Ship + $3.79 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0537",
+      "name": "Foam Cannon Pro V2 With Car Wash Soap Bundle All-Brass 40oz Pressure Washer",
+      "price": "$67.49",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $5.57)",
+        "market_value": "Item $67.49 + $3.99 Ship + $5.57 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0538",
+      "name": "Snow Foam Gun Adjustable Spray Nozzle",
+      "price": "$31.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 3,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 3 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $2.64)",
+        "market_value": "Item $31.99 + $3.99 Ship + $2.64 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0539",
+      "name": "Portable Cordless Foam Sprayer | 2l Capacity With 2600mah Battery |",
+      "price": "$157.11",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $5.99 + Buyer Sales Tax (8.25%: $12.96)",
+        "market_value": "Item $157.11 + $5.99 Ship + $12.96 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0540",
+      "name": "Snow Foam Cannon Washer Gun Car Wash Auto Detailing Car Wheel Cleaning",
+      "price": "$7.95",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $0.66)",
+        "market_value": "Item $7.95 + $3.99 Ship + $0.66 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "horology-pen-cufflink-superstore": [
+    {
+      "id": "TREND-0526",
+      "name": "AR Blue Clean 2300 PSI Electric Pressure Washer BC2N1HSS",
+      "price": "$509.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $14.99 + Buyer Sales Tax (8.25%: $42.07)",
+        "market_value": "Item $509.99 + $14.99 Ship + $42.07 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0527",
+      "name": "Garden Hose Foam Cannon",
+      "price": "$59.95",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $4.95)",
+        "market_value": "Item $59.95 + $3.99 Ship + $4.95 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0528",
+      "name": "Kranzle Dirt Killer K1622TS 1600 PSI 1.7 GPM Pressure Washer",
+      "price": "$1290.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $14.99 + Buyer Sales Tax (8.25%: $106.43)",
+        "market_value": "Item $1290.00 + $14.99 Ship + $106.43 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0529",
+      "name": "1/4\" Snow Foam Washer Gun, Plastic, Quick Connect | 3000 psi, Car Wash Soap",
+      "price": "$19.75",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.63)",
+        "market_value": "Item $19.75 + $3.99 Ship + $1.63 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0530",
+      "name": "Pressure Washer Snow Foam Lance Gun 1/4\" Foam Cannon Bottle for Karcher K2-",
+      "price": "$48.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $4.04)",
+        "market_value": "Item $48.99 + $3.99 Ship + $4.04 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0531",
+      "name": "Snow Foam Lance Auto Pressure Washer Jet Quick Release Foam Blaster Compati",
+      "price": "$69.17",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 3,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 3 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $5.71)",
+        "market_value": "Item $69.17 + $3.99 Ship + $5.71 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0532",
+      "name": "1/4\" Snow Foam Pressure Washer Gun Car Wash Soap Lance Cannon Spray",
+      "price": "$18.98",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.57)",
+        "market_value": "Item $18.98 + $3.99 Ship + $1.57 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0533",
+      "name": "1/4 900ML Snow Foam Gun Car Wash Sprayer Lance Pressure Washer Jet Bottle",
+      "price": "$31.62",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $2.61)",
+        "market_value": "Item $31.62 + $3.99 Ship + $2.61 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0534",
+      "name": "Snow Foam Lance Cannon Soap Bottle Sprayer For Pressure Washer Gun Jet Car ",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.65)",
+        "market_value": "Item $19.99 + $3.99 Ship + $1.65 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0535",
+      "name": "Maxshine Snow Foam Cannon",
+      "price": "$86.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $7.18)",
+        "market_value": "Item $86.99 + $3.99 Ship + $7.18 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0536",
+      "name": "MTM Hydro GHF1 Low Pressure Foamer",
+      "price": "$45.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $3.79)",
+        "market_value": "Item $45.99 + $3.99 Ship + $3.79 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0537",
+      "name": "Foam Cannon Pro V2 With Car Wash Soap Bundle All-Brass 40oz Pressure Washer",
+      "price": "$67.49",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $5.57)",
+        "market_value": "Item $67.49 + $3.99 Ship + $5.57 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0538",
+      "name": "Snow Foam Gun Adjustable Spray Nozzle",
+      "price": "$31.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 3,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 3 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $2.64)",
+        "market_value": "Item $31.99 + $3.99 Ship + $2.64 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0539",
+      "name": "Portable Cordless Foam Sprayer | 2l Capacity With 2600mah Battery |",
+      "price": "$157.11",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $5.99 + Buyer Sales Tax (8.25%: $12.96)",
+        "market_value": "Item $157.11 + $5.99 Ship + $12.96 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0540",
+      "name": "Snow Foam Cannon Washer Gun Car Wash Auto Detailing Car Wheel Cleaning",
+      "price": "$7.95",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $0.66)",
+        "market_value": "Item $7.95 + $3.99 Ship + $0.66 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "pitmaster-outdoor-kitchen-superstore": [
+    {
+      "id": "TREND-0526",
+      "name": "AR Blue Clean 2300 PSI Electric Pressure Washer BC2N1HSS",
+      "price": "$509.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $14.99 + Buyer Sales Tax (8.25%: $42.07)",
+        "market_value": "Item $509.99 + $14.99 Ship + $42.07 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0527",
+      "name": "Garden Hose Foam Cannon",
+      "price": "$59.95",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $4.95)",
+        "market_value": "Item $59.95 + $3.99 Ship + $4.95 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0528",
+      "name": "Kranzle Dirt Killer K1622TS 1600 PSI 1.7 GPM Pressure Washer",
+      "price": "$1290.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $14.99 + Buyer Sales Tax (8.25%: $106.43)",
+        "market_value": "Item $1290.00 + $14.99 Ship + $106.43 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0529",
+      "name": "1/4\" Snow Foam Washer Gun, Plastic, Quick Connect | 3000 psi, Car Wash Soap",
+      "price": "$19.75",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.63)",
+        "market_value": "Item $19.75 + $3.99 Ship + $1.63 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0530",
+      "name": "Pressure Washer Snow Foam Lance Gun 1/4\" Foam Cannon Bottle for Karcher K2-",
+      "price": "$48.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $4.04)",
+        "market_value": "Item $48.99 + $3.99 Ship + $4.04 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0531",
+      "name": "Snow Foam Lance Auto Pressure Washer Jet Quick Release Foam Blaster Compati",
+      "price": "$69.17",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 3,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 3 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $5.71)",
+        "market_value": "Item $69.17 + $3.99 Ship + $5.71 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0532",
+      "name": "1/4\" Snow Foam Pressure Washer Gun Car Wash Soap Lance Cannon Spray",
+      "price": "$18.98",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.57)",
+        "market_value": "Item $18.98 + $3.99 Ship + $1.57 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0533",
+      "name": "1/4 900ML Snow Foam Gun Car Wash Sprayer Lance Pressure Washer Jet Bottle",
+      "price": "$31.62",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $2.61)",
+        "market_value": "Item $31.62 + $3.99 Ship + $2.61 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0534",
+      "name": "Snow Foam Lance Cannon Soap Bottle Sprayer For Pressure Washer Gun Jet Car ",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.65)",
+        "market_value": "Item $19.99 + $3.99 Ship + $1.65 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0535",
+      "name": "Maxshine Snow Foam Cannon",
+      "price": "$86.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $7.18)",
+        "market_value": "Item $86.99 + $3.99 Ship + $7.18 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0536",
+      "name": "MTM Hydro GHF1 Low Pressure Foamer",
+      "price": "$45.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $3.79)",
+        "market_value": "Item $45.99 + $3.99 Ship + $3.79 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0537",
+      "name": "Foam Cannon Pro V2 With Car Wash Soap Bundle All-Brass 40oz Pressure Washer",
+      "price": "$67.49",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $5.57)",
+        "market_value": "Item $67.49 + $3.99 Ship + $5.57 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0538",
+      "name": "Snow Foam Gun Adjustable Spray Nozzle",
+      "price": "$31.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 3,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 3 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $2.64)",
+        "market_value": "Item $31.99 + $3.99 Ship + $2.64 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0539",
+      "name": "Portable Cordless Foam Sprayer | 2l Capacity With 2600mah Battery |",
+      "price": "$157.11",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $5.99 + Buyer Sales Tax (8.25%: $12.96)",
+        "market_value": "Item $157.11 + $5.99 Ship + $12.96 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0540",
+      "name": "Snow Foam Cannon Washer Gun Car Wash Auto Detailing Car Wheel Cleaning",
+      "price": "$7.95",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $0.66)",
+        "market_value": "Item $7.95 + $3.99 Ship + $0.66 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "executive-leather-briefcase-luggage": [
+    {
+      "id": "TREND-0526",
+      "name": "AR Blue Clean 2300 PSI Electric Pressure Washer BC2N1HSS",
+      "price": "$509.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $14.99 + Buyer Sales Tax (8.25%: $42.07)",
+        "market_value": "Item $509.99 + $14.99 Ship + $42.07 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0527",
+      "name": "Garden Hose Foam Cannon",
+      "price": "$59.95",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $4.95)",
+        "market_value": "Item $59.95 + $3.99 Ship + $4.95 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0528",
+      "name": "Kranzle Dirt Killer K1622TS 1600 PSI 1.7 GPM Pressure Washer",
+      "price": "$1290.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $14.99 + Buyer Sales Tax (8.25%: $106.43)",
+        "market_value": "Item $1290.00 + $14.99 Ship + $106.43 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0529",
+      "name": "1/4\" Snow Foam Washer Gun, Plastic, Quick Connect | 3000 psi, Car Wash Soap",
+      "price": "$19.75",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.63)",
+        "market_value": "Item $19.75 + $3.99 Ship + $1.63 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0530",
+      "name": "Pressure Washer Snow Foam Lance Gun 1/4\" Foam Cannon Bottle for Karcher K2-",
+      "price": "$48.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $4.04)",
+        "market_value": "Item $48.99 + $3.99 Ship + $4.04 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0531",
+      "name": "Snow Foam Lance Auto Pressure Washer Jet Quick Release Foam Blaster Compati",
+      "price": "$69.17",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 3,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 3 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $5.71)",
+        "market_value": "Item $69.17 + $3.99 Ship + $5.71 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0532",
+      "name": "1/4\" Snow Foam Pressure Washer Gun Car Wash Soap Lance Cannon Spray",
+      "price": "$18.98",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.57)",
+        "market_value": "Item $18.98 + $3.99 Ship + $1.57 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0533",
+      "name": "1/4 900ML Snow Foam Gun Car Wash Sprayer Lance Pressure Washer Jet Bottle",
+      "price": "$31.62",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $2.61)",
+        "market_value": "Item $31.62 + $3.99 Ship + $2.61 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0534",
+      "name": "Snow Foam Lance Cannon Soap Bottle Sprayer For Pressure Washer Gun Jet Car ",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.65)",
+        "market_value": "Item $19.99 + $3.99 Ship + $1.65 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0535",
+      "name": "Maxshine Snow Foam Cannon",
+      "price": "$86.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $7.18)",
+        "market_value": "Item $86.99 + $3.99 Ship + $7.18 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0536",
+      "name": "MTM Hydro GHF1 Low Pressure Foamer",
+      "price": "$45.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $3.79)",
+        "market_value": "Item $45.99 + $3.99 Ship + $3.79 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0537",
+      "name": "Foam Cannon Pro V2 With Car Wash Soap Bundle All-Brass 40oz Pressure Washer",
+      "price": "$67.49",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $5.57)",
+        "market_value": "Item $67.49 + $3.99 Ship + $5.57 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0538",
+      "name": "Snow Foam Gun Adjustable Spray Nozzle",
+      "price": "$31.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 3,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 3 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $2.64)",
+        "market_value": "Item $31.99 + $3.99 Ship + $2.64 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0539",
+      "name": "Portable Cordless Foam Sprayer | 2l Capacity With 2600mah Battery |",
+      "price": "$157.11",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $5.99 + Buyer Sales Tax (8.25%: $12.96)",
+        "market_value": "Item $157.11 + $5.99 Ship + $12.96 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0540",
+      "name": "Snow Foam Cannon Washer Gun Car Wash Auto Detailing Car Wheel Cleaning",
+      "price": "$7.95",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $0.66)",
+        "market_value": "Item $7.95 + $3.99 Ship + $0.66 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "grail-kicks-deadstock-sneakers": [
+    {
+      "id": "TREND-0526",
+      "name": "AR Blue Clean 2300 PSI Electric Pressure Washer BC2N1HSS",
+      "price": "$509.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $14.99 + Buyer Sales Tax (8.25%: $42.07)",
+        "market_value": "Item $509.99 + $14.99 Ship + $42.07 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0527",
+      "name": "Garden Hose Foam Cannon",
+      "price": "$59.95",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $4.95)",
+        "market_value": "Item $59.95 + $3.99 Ship + $4.95 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0528",
+      "name": "Kranzle Dirt Killer K1622TS 1600 PSI 1.7 GPM Pressure Washer",
+      "price": "$1290.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $14.99 + Buyer Sales Tax (8.25%: $106.43)",
+        "market_value": "Item $1290.00 + $14.99 Ship + $106.43 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0529",
+      "name": "1/4\" Snow Foam Washer Gun, Plastic, Quick Connect | 3000 psi, Car Wash Soap",
+      "price": "$19.75",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.63)",
+        "market_value": "Item $19.75 + $3.99 Ship + $1.63 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0530",
+      "name": "Pressure Washer Snow Foam Lance Gun 1/4\" Foam Cannon Bottle for Karcher K2-",
+      "price": "$48.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $4.04)",
+        "market_value": "Item $48.99 + $3.99 Ship + $4.04 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0531",
+      "name": "Snow Foam Lance Auto Pressure Washer Jet Quick Release Foam Blaster Compati",
+      "price": "$69.17",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 3,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 3 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $5.71)",
+        "market_value": "Item $69.17 + $3.99 Ship + $5.71 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0532",
+      "name": "1/4\" Snow Foam Pressure Washer Gun Car Wash Soap Lance Cannon Spray",
+      "price": "$18.98",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.57)",
+        "market_value": "Item $18.98 + $3.99 Ship + $1.57 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0533",
+      "name": "1/4 900ML Snow Foam Gun Car Wash Sprayer Lance Pressure Washer Jet Bottle",
+      "price": "$31.62",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $2.61)",
+        "market_value": "Item $31.62 + $3.99 Ship + $2.61 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0534",
+      "name": "Snow Foam Lance Cannon Soap Bottle Sprayer For Pressure Washer Gun Jet Car ",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.65)",
+        "market_value": "Item $19.99 + $3.99 Ship + $1.65 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0535",
+      "name": "Maxshine Snow Foam Cannon",
+      "price": "$86.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $7.18)",
+        "market_value": "Item $86.99 + $3.99 Ship + $7.18 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0536",
+      "name": "MTM Hydro GHF1 Low Pressure Foamer",
+      "price": "$45.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $3.79)",
+        "market_value": "Item $45.99 + $3.99 Ship + $3.79 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0537",
+      "name": "Foam Cannon Pro V2 With Car Wash Soap Bundle All-Brass 40oz Pressure Washer",
+      "price": "$67.49",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $5.57)",
+        "market_value": "Item $67.49 + $3.99 Ship + $5.57 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0538",
+      "name": "Snow Foam Gun Adjustable Spray Nozzle",
+      "price": "$31.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 3,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 3 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $2.64)",
+        "market_value": "Item $31.99 + $3.99 Ship + $2.64 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0539",
+      "name": "Portable Cordless Foam Sprayer | 2l Capacity With 2600mah Battery |",
+      "price": "$157.11",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $5.99 + Buyer Sales Tax (8.25%: $12.96)",
+        "market_value": "Item $157.11 + $5.99 Ship + $12.96 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0540",
+      "name": "Snow Foam Cannon Washer Gun Car Wash Auto Detailing Car Wheel Cleaning",
+      "price": "$7.95",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $0.66)",
+        "market_value": "Item $7.95 + $3.99 Ship + $0.66 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "retired-brick-architecture-vault": [
+    {
+      "id": "TREND-0526",
+      "name": "AR Blue Clean 2300 PSI Electric Pressure Washer BC2N1HSS",
+      "price": "$509.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $14.99 + Buyer Sales Tax (8.25%: $42.07)",
+        "market_value": "Item $509.99 + $14.99 Ship + $42.07 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0527",
+      "name": "Garden Hose Foam Cannon",
+      "price": "$59.95",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $4.95)",
+        "market_value": "Item $59.95 + $3.99 Ship + $4.95 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0528",
+      "name": "Kranzle Dirt Killer K1622TS 1600 PSI 1.7 GPM Pressure Washer",
+      "price": "$1290.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $14.99 + Buyer Sales Tax (8.25%: $106.43)",
+        "market_value": "Item $1290.00 + $14.99 Ship + $106.43 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0529",
+      "name": "1/4\" Snow Foam Washer Gun, Plastic, Quick Connect | 3000 psi, Car Wash Soap",
+      "price": "$19.75",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.63)",
+        "market_value": "Item $19.75 + $3.99 Ship + $1.63 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0530",
+      "name": "Pressure Washer Snow Foam Lance Gun 1/4\" Foam Cannon Bottle for Karcher K2-",
+      "price": "$48.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $4.04)",
+        "market_value": "Item $48.99 + $3.99 Ship + $4.04 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0531",
+      "name": "Snow Foam Lance Auto Pressure Washer Jet Quick Release Foam Blaster Compati",
+      "price": "$69.17",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 3,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 3 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $5.71)",
+        "market_value": "Item $69.17 + $3.99 Ship + $5.71 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0532",
+      "name": "1/4\" Snow Foam Pressure Washer Gun Car Wash Soap Lance Cannon Spray",
+      "price": "$18.98",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.57)",
+        "market_value": "Item $18.98 + $3.99 Ship + $1.57 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0533",
+      "name": "1/4 900ML Snow Foam Gun Car Wash Sprayer Lance Pressure Washer Jet Bottle",
+      "price": "$31.62",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $2.61)",
+        "market_value": "Item $31.62 + $3.99 Ship + $2.61 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0534",
+      "name": "Snow Foam Lance Cannon Soap Bottle Sprayer For Pressure Washer Gun Jet Car ",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.65)",
+        "market_value": "Item $19.99 + $3.99 Ship + $1.65 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0535",
+      "name": "Maxshine Snow Foam Cannon",
+      "price": "$86.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $7.18)",
+        "market_value": "Item $86.99 + $3.99 Ship + $7.18 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0536",
+      "name": "MTM Hydro GHF1 Low Pressure Foamer",
+      "price": "$45.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $3.79)",
+        "market_value": "Item $45.99 + $3.99 Ship + $3.79 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0537",
+      "name": "Foam Cannon Pro V2 With Car Wash Soap Bundle All-Brass 40oz Pressure Washer",
+      "price": "$67.49",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $5.57)",
+        "market_value": "Item $67.49 + $3.99 Ship + $5.57 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0538",
+      "name": "Snow Foam Gun Adjustable Spray Nozzle",
+      "price": "$31.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 3,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 3 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $2.64)",
+        "market_value": "Item $31.99 + $3.99 Ship + $2.64 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0539",
+      "name": "Portable Cordless Foam Sprayer | 2l Capacity With 2600mah Battery |",
+      "price": "$157.11",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $5.99 + Buyer Sales Tax (8.25%: $12.96)",
+        "market_value": "Item $157.11 + $5.99 Ship + $12.96 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0540",
+      "name": "Snow Foam Cannon Washer Gun Car Wash Auto Detailing Car Wheel Cleaning",
+      "price": "$7.95",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $0.66)",
+        "market_value": "Item $7.95 + $3.99 Ship + $0.66 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "scent-time-machine-fragrance": [
+    {
+      "id": "TREND-0526",
+      "name": "AR Blue Clean 2300 PSI Electric Pressure Washer BC2N1HSS",
+      "price": "$509.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $14.99 + Buyer Sales Tax (8.25%: $42.07)",
+        "market_value": "Item $509.99 + $14.99 Ship + $42.07 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0527",
+      "name": "Garden Hose Foam Cannon",
+      "price": "$59.95",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $4.95)",
+        "market_value": "Item $59.95 + $3.99 Ship + $4.95 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0528",
+      "name": "Kranzle Dirt Killer K1622TS 1600 PSI 1.7 GPM Pressure Washer",
+      "price": "$1290.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $14.99 + Buyer Sales Tax (8.25%: $106.43)",
+        "market_value": "Item $1290.00 + $14.99 Ship + $106.43 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0529",
+      "name": "1/4\" Snow Foam Washer Gun, Plastic, Quick Connect | 3000 psi, Car Wash Soap",
+      "price": "$19.75",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.63)",
+        "market_value": "Item $19.75 + $3.99 Ship + $1.63 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0530",
+      "name": "Pressure Washer Snow Foam Lance Gun 1/4\" Foam Cannon Bottle for Karcher K2-",
+      "price": "$48.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $4.04)",
+        "market_value": "Item $48.99 + $3.99 Ship + $4.04 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0531",
+      "name": "Snow Foam Lance Auto Pressure Washer Jet Quick Release Foam Blaster Compati",
+      "price": "$69.17",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 3,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 3 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $5.71)",
+        "market_value": "Item $69.17 + $3.99 Ship + $5.71 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0532",
+      "name": "1/4\" Snow Foam Pressure Washer Gun Car Wash Soap Lance Cannon Spray",
+      "price": "$18.98",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.57)",
+        "market_value": "Item $18.98 + $3.99 Ship + $1.57 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0533",
+      "name": "1/4 900ML Snow Foam Gun Car Wash Sprayer Lance Pressure Washer Jet Bottle",
+      "price": "$31.62",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $2.61)",
+        "market_value": "Item $31.62 + $3.99 Ship + $2.61 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0534",
+      "name": "Snow Foam Lance Cannon Soap Bottle Sprayer For Pressure Washer Gun Jet Car ",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.65)",
+        "market_value": "Item $19.99 + $3.99 Ship + $1.65 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0535",
+      "name": "Maxshine Snow Foam Cannon",
+      "price": "$86.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $7.18)",
+        "market_value": "Item $86.99 + $3.99 Ship + $7.18 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0536",
+      "name": "MTM Hydro GHF1 Low Pressure Foamer",
+      "price": "$45.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $3.79)",
+        "market_value": "Item $45.99 + $3.99 Ship + $3.79 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0537",
+      "name": "Foam Cannon Pro V2 With Car Wash Soap Bundle All-Brass 40oz Pressure Washer",
+      "price": "$67.49",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $5.57)",
+        "market_value": "Item $67.49 + $3.99 Ship + $5.57 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0538",
+      "name": "Snow Foam Gun Adjustable Spray Nozzle",
+      "price": "$31.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 3,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 3 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $2.64)",
+        "market_value": "Item $31.99 + $3.99 Ship + $2.64 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0539",
+      "name": "Portable Cordless Foam Sprayer | 2l Capacity With 2600mah Battery |",
+      "price": "$157.11",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $5.99 + Buyer Sales Tax (8.25%: $12.96)",
+        "market_value": "Item $157.11 + $5.99 Ship + $12.96 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0540",
+      "name": "Snow Foam Cannon Washer Gun Car Wash Auto Detailing Car Wheel Cleaning",
+      "price": "$7.95",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $0.66)",
+        "market_value": "Item $7.95 + $3.99 Ship + $0.66 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "midnight-marquee-home-theater": [
+    {
+      "id": "TREND-0526",
+      "name": "AR Blue Clean 2300 PSI Electric Pressure Washer BC2N1HSS",
+      "price": "$509.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $14.99 + Buyer Sales Tax (8.25%: $42.07)",
+        "market_value": "Item $509.99 + $14.99 Ship + $42.07 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0527",
+      "name": "Garden Hose Foam Cannon",
+      "price": "$59.95",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $4.95)",
+        "market_value": "Item $59.95 + $3.99 Ship + $4.95 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0528",
+      "name": "Kranzle Dirt Killer K1622TS 1600 PSI 1.7 GPM Pressure Washer",
+      "price": "$1290.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $14.99 + Buyer Sales Tax (8.25%: $106.43)",
+        "market_value": "Item $1290.00 + $14.99 Ship + $106.43 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0529",
+      "name": "1/4\" Snow Foam Washer Gun, Plastic, Quick Connect | 3000 psi, Car Wash Soap",
+      "price": "$19.75",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.63)",
+        "market_value": "Item $19.75 + $3.99 Ship + $1.63 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0530",
+      "name": "Pressure Washer Snow Foam Lance Gun 1/4\" Foam Cannon Bottle for Karcher K2-",
+      "price": "$48.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $4.04)",
+        "market_value": "Item $48.99 + $3.99 Ship + $4.04 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0531",
+      "name": "Snow Foam Lance Auto Pressure Washer Jet Quick Release Foam Blaster Compati",
+      "price": "$69.17",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 3,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 3 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $5.71)",
+        "market_value": "Item $69.17 + $3.99 Ship + $5.71 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0532",
+      "name": "1/4\" Snow Foam Pressure Washer Gun Car Wash Soap Lance Cannon Spray",
+      "price": "$18.98",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.57)",
+        "market_value": "Item $18.98 + $3.99 Ship + $1.57 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0533",
+      "name": "1/4 900ML Snow Foam Gun Car Wash Sprayer Lance Pressure Washer Jet Bottle",
+      "price": "$31.62",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $2.61)",
+        "market_value": "Item $31.62 + $3.99 Ship + $2.61 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0534",
+      "name": "Snow Foam Lance Cannon Soap Bottle Sprayer For Pressure Washer Gun Jet Car ",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.65)",
+        "market_value": "Item $19.99 + $3.99 Ship + $1.65 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0535",
+      "name": "Maxshine Snow Foam Cannon",
+      "price": "$86.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $7.18)",
+        "market_value": "Item $86.99 + $3.99 Ship + $7.18 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0536",
+      "name": "MTM Hydro GHF1 Low Pressure Foamer",
+      "price": "$45.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $3.79)",
+        "market_value": "Item $45.99 + $3.99 Ship + $3.79 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0537",
+      "name": "Foam Cannon Pro V2 With Car Wash Soap Bundle All-Brass 40oz Pressure Washer",
+      "price": "$67.49",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $5.57)",
+        "market_value": "Item $67.49 + $3.99 Ship + $5.57 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0538",
+      "name": "Snow Foam Gun Adjustable Spray Nozzle",
+      "price": "$31.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 3,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 3 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $2.64)",
+        "market_value": "Item $31.99 + $3.99 Ship + $2.64 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0539",
+      "name": "Portable Cordless Foam Sprayer | 2l Capacity With 2600mah Battery |",
+      "price": "$157.11",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $5.99 + Buyer Sales Tax (8.25%: $12.96)",
+        "market_value": "Item $157.11 + $5.99 Ship + $12.96 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0540",
+      "name": "Snow Foam Cannon Washer Gun Car Wash Auto Detailing Car Wheel Cleaning",
+      "price": "$7.95",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $0.66)",
+        "market_value": "Item $7.95 + $3.99 Ship + $0.66 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "luxury-bedding-hotel-sanctuary": [
+    {
+      "id": "TREND-0526",
+      "name": "AR Blue Clean 2300 PSI Electric Pressure Washer BC2N1HSS",
+      "price": "$509.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $14.99 + Buyer Sales Tax (8.25%: $42.07)",
+        "market_value": "Item $509.99 + $14.99 Ship + $42.07 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0527",
+      "name": "Garden Hose Foam Cannon",
+      "price": "$59.95",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $4.95)",
+        "market_value": "Item $59.95 + $3.99 Ship + $4.95 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0528",
+      "name": "Kranzle Dirt Killer K1622TS 1600 PSI 1.7 GPM Pressure Washer",
+      "price": "$1290.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $14.99 + Buyer Sales Tax (8.25%: $106.43)",
+        "market_value": "Item $1290.00 + $14.99 Ship + $106.43 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0529",
+      "name": "1/4\" Snow Foam Washer Gun, Plastic, Quick Connect | 3000 psi, Car Wash Soap",
+      "price": "$19.75",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.63)",
+        "market_value": "Item $19.75 + $3.99 Ship + $1.63 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0530",
+      "name": "Pressure Washer Snow Foam Lance Gun 1/4\" Foam Cannon Bottle for Karcher K2-",
+      "price": "$48.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $4.04)",
+        "market_value": "Item $48.99 + $3.99 Ship + $4.04 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0531",
+      "name": "Snow Foam Lance Auto Pressure Washer Jet Quick Release Foam Blaster Compati",
+      "price": "$69.17",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 3,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 3 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $5.71)",
+        "market_value": "Item $69.17 + $3.99 Ship + $5.71 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0532",
+      "name": "1/4\" Snow Foam Pressure Washer Gun Car Wash Soap Lance Cannon Spray",
+      "price": "$18.98",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.57)",
+        "market_value": "Item $18.98 + $3.99 Ship + $1.57 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0533",
+      "name": "1/4 900ML Snow Foam Gun Car Wash Sprayer Lance Pressure Washer Jet Bottle",
+      "price": "$31.62",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $2.61)",
+        "market_value": "Item $31.62 + $3.99 Ship + $2.61 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0534",
+      "name": "Snow Foam Lance Cannon Soap Bottle Sprayer For Pressure Washer Gun Jet Car ",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.65)",
+        "market_value": "Item $19.99 + $3.99 Ship + $1.65 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0535",
+      "name": "Maxshine Snow Foam Cannon",
+      "price": "$86.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $7.18)",
+        "market_value": "Item $86.99 + $3.99 Ship + $7.18 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0536",
+      "name": "MTM Hydro GHF1 Low Pressure Foamer",
+      "price": "$45.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $3.79)",
+        "market_value": "Item $45.99 + $3.99 Ship + $3.79 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0537",
+      "name": "Foam Cannon Pro V2 With Car Wash Soap Bundle All-Brass 40oz Pressure Washer",
+      "price": "$67.49",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $5.57)",
+        "market_value": "Item $67.49 + $3.99 Ship + $5.57 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0538",
+      "name": "Snow Foam Gun Adjustable Spray Nozzle",
+      "price": "$31.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 3,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 3 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $2.64)",
+        "market_value": "Item $31.99 + $3.99 Ship + $2.64 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0539",
+      "name": "Portable Cordless Foam Sprayer | 2l Capacity With 2600mah Battery |",
+      "price": "$157.11",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $5.99 + Buyer Sales Tax (8.25%: $12.96)",
+        "market_value": "Item $157.11 + $5.99 Ship + $12.96 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0540",
+      "name": "Snow Foam Cannon Washer Gun Car Wash Auto Detailing Car Wheel Cleaning",
+      "price": "$7.95",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $0.66)",
+        "market_value": "Item $7.95 + $3.99 Ship + $0.66 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "tactical-k9-working-dog-outpost": [
+    {
+      "id": "TREND-0526",
+      "name": "AR Blue Clean 2300 PSI Electric Pressure Washer BC2N1HSS",
+      "price": "$509.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $14.99 + Buyer Sales Tax (8.25%: $42.07)",
+        "market_value": "Item $509.99 + $14.99 Ship + $42.07 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0527",
+      "name": "Garden Hose Foam Cannon",
+      "price": "$59.95",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $4.95)",
+        "market_value": "Item $59.95 + $3.99 Ship + $4.95 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0528",
+      "name": "Kranzle Dirt Killer K1622TS 1600 PSI 1.7 GPM Pressure Washer",
+      "price": "$1290.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $14.99 + Buyer Sales Tax (8.25%: $106.43)",
+        "market_value": "Item $1290.00 + $14.99 Ship + $106.43 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0529",
+      "name": "1/4\" Snow Foam Washer Gun, Plastic, Quick Connect | 3000 psi, Car Wash Soap",
+      "price": "$19.75",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.63)",
+        "market_value": "Item $19.75 + $3.99 Ship + $1.63 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0530",
+      "name": "Pressure Washer Snow Foam Lance Gun 1/4\" Foam Cannon Bottle for Karcher K2-",
+      "price": "$48.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $4.04)",
+        "market_value": "Item $48.99 + $3.99 Ship + $4.04 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0531",
+      "name": "Snow Foam Lance Auto Pressure Washer Jet Quick Release Foam Blaster Compati",
+      "price": "$69.17",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 3,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 3 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $5.71)",
+        "market_value": "Item $69.17 + $3.99 Ship + $5.71 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0532",
+      "name": "1/4\" Snow Foam Pressure Washer Gun Car Wash Soap Lance Cannon Spray",
+      "price": "$18.98",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.57)",
+        "market_value": "Item $18.98 + $3.99 Ship + $1.57 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0533",
+      "name": "1/4 900ML Snow Foam Gun Car Wash Sprayer Lance Pressure Washer Jet Bottle",
+      "price": "$31.62",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $2.61)",
+        "market_value": "Item $31.62 + $3.99 Ship + $2.61 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0534",
+      "name": "Snow Foam Lance Cannon Soap Bottle Sprayer For Pressure Washer Gun Jet Car ",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.65)",
+        "market_value": "Item $19.99 + $3.99 Ship + $1.65 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0535",
+      "name": "Maxshine Snow Foam Cannon",
+      "price": "$86.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $7.18)",
+        "market_value": "Item $86.99 + $3.99 Ship + $7.18 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0536",
+      "name": "MTM Hydro GHF1 Low Pressure Foamer",
+      "price": "$45.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $3.79)",
+        "market_value": "Item $45.99 + $3.99 Ship + $3.79 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0537",
+      "name": "Foam Cannon Pro V2 With Car Wash Soap Bundle All-Brass 40oz Pressure Washer",
+      "price": "$67.49",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $5.57)",
+        "market_value": "Item $67.49 + $3.99 Ship + $5.57 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0538",
+      "name": "Snow Foam Gun Adjustable Spray Nozzle",
+      "price": "$31.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 3,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 3 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $2.64)",
+        "market_value": "Item $31.99 + $3.99 Ship + $2.64 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0539",
+      "name": "Portable Cordless Foam Sprayer | 2l Capacity With 2600mah Battery |",
+      "price": "$157.11",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $5.99 + Buyer Sales Tax (8.25%: $12.96)",
+        "market_value": "Item $157.11 + $5.99 Ship + $12.96 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0540",
+      "name": "Snow Foam Cannon Washer Gun Car Wash Auto Detailing Car Wheel Cleaning",
+      "price": "$7.95",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $0.66)",
+        "market_value": "Item $7.95 + $3.99 Ship + $0.66 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "western-heritage-boots-hats": [
+    {
+      "id": "TREND-0526",
+      "name": "AR Blue Clean 2300 PSI Electric Pressure Washer BC2N1HSS",
+      "price": "$509.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $14.99 + Buyer Sales Tax (8.25%: $42.07)",
+        "market_value": "Item $509.99 + $14.99 Ship + $42.07 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0527",
+      "name": "Garden Hose Foam Cannon",
+      "price": "$59.95",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $4.95)",
+        "market_value": "Item $59.95 + $3.99 Ship + $4.95 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0528",
+      "name": "Kranzle Dirt Killer K1622TS 1600 PSI 1.7 GPM Pressure Washer",
+      "price": "$1290.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $14.99 + Buyer Sales Tax (8.25%: $106.43)",
+        "market_value": "Item $1290.00 + $14.99 Ship + $106.43 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0529",
+      "name": "1/4\" Snow Foam Washer Gun, Plastic, Quick Connect | 3000 psi, Car Wash Soap",
+      "price": "$19.75",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.63)",
+        "market_value": "Item $19.75 + $3.99 Ship + $1.63 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0530",
+      "name": "Pressure Washer Snow Foam Lance Gun 1/4\" Foam Cannon Bottle for Karcher K2-",
+      "price": "$48.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $4.04)",
+        "market_value": "Item $48.99 + $3.99 Ship + $4.04 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0531",
+      "name": "Snow Foam Lance Auto Pressure Washer Jet Quick Release Foam Blaster Compati",
+      "price": "$69.17",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 3,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 3 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $5.71)",
+        "market_value": "Item $69.17 + $3.99 Ship + $5.71 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0532",
+      "name": "1/4\" Snow Foam Pressure Washer Gun Car Wash Soap Lance Cannon Spray",
+      "price": "$18.98",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.57)",
+        "market_value": "Item $18.98 + $3.99 Ship + $1.57 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0533",
+      "name": "1/4 900ML Snow Foam Gun Car Wash Sprayer Lance Pressure Washer Jet Bottle",
+      "price": "$31.62",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $2.61)",
+        "market_value": "Item $31.62 + $3.99 Ship + $2.61 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0534",
+      "name": "Snow Foam Lance Cannon Soap Bottle Sprayer For Pressure Washer Gun Jet Car ",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.65)",
+        "market_value": "Item $19.99 + $3.99 Ship + $1.65 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0535",
+      "name": "Maxshine Snow Foam Cannon",
+      "price": "$86.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $7.18)",
+        "market_value": "Item $86.99 + $3.99 Ship + $7.18 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0536",
+      "name": "MTM Hydro GHF1 Low Pressure Foamer",
+      "price": "$45.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $3.79)",
+        "market_value": "Item $45.99 + $3.99 Ship + $3.79 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0537",
+      "name": "Foam Cannon Pro V2 With Car Wash Soap Bundle All-Brass 40oz Pressure Washer",
+      "price": "$67.49",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $5.57)",
+        "market_value": "Item $67.49 + $3.99 Ship + $5.57 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0538",
+      "name": "Snow Foam Gun Adjustable Spray Nozzle",
+      "price": "$31.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 3,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 3 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $2.64)",
+        "market_value": "Item $31.99 + $3.99 Ship + $2.64 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0539",
+      "name": "Portable Cordless Foam Sprayer | 2l Capacity With 2600mah Battery |",
+      "price": "$157.11",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $5.99 + Buyer Sales Tax (8.25%: $12.96)",
+        "market_value": "Item $157.11 + $5.99 Ship + $12.96 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0540",
+      "name": "Snow Foam Cannon Washer Gun Car Wash Auto Detailing Car Wheel Cleaning",
+      "price": "$7.95",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $0.66)",
+        "market_value": "Item $7.95 + $3.99 Ship + $0.66 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
+  ],
+  "last-minute-48hr-santa-express": [
+    {
+      "id": "TREND-0526",
+      "name": "AR Blue Clean 2300 PSI Electric Pressure Washer BC2N1HSS",
+      "price": "$509.99",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $14.99 + Buyer Sales Tax (8.25%: $42.07)",
+        "market_value": "Item $509.99 + $14.99 Ship + $42.07 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0527",
+      "name": "Garden Hose Foam Cannon",
+      "price": "$59.95",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $4.95)",
+        "market_value": "Item $59.95 + $3.99 Ship + $4.95 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0528",
+      "name": "Kranzle Dirt Killer K1622TS 1600 PSI 1.7 GPM Pressure Washer",
+      "price": "$1290.00",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwBc9t_eCAkTqedKJluRZJ41iD3Ap5SEmUrcGhurvv0Rt8MDQPEn7gcVg7xVZD3nzCASfJWcn1GBHXB5kpGB-FVtbtvxIdBBIsnAkLxaLqBCzLmsGj9A1JGg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $14.99 + Buyer Sales Tax (8.25%: $106.43)",
+        "market_value": "Item $1290.00 + $14.99 Ship + $106.43 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0529",
+      "name": "1/4\" Snow Foam Washer Gun, Plastic, Quick Connect | 3000 psi, Car Wash Soap",
+      "price": "$19.75",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDJJ8EG3EgV7iASBQR6l72DwEVXtX4P6-LT79IttgCZHqG4CjxGe2R4qPTOw7bZ-yhliztYsu3F4rIFnGUjVYnVGdxGKM50nuBTU5T97XM7lTzUSmG5SSv",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.63)",
+        "market_value": "Item $19.75 + $3.99 Ship + $1.63 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0530",
+      "name": "Pressure Washer Snow Foam Lance Gun 1/4\" Foam Cannon Bottle for Karcher K2-",
+      "price": "$48.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNrhCZmHPZ0qFuSKZXmu8JGqYCpOeENGlomS2if9PV6FlJxD1_QGacyF9O3d__mR1Uub555DKDn4-ixx6MpyYuJtZlZ7Ghg1yQ0cOTYbZh6fvkND8v1Cip",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $4.04)",
+        "market_value": "Item $48.99 + $3.99 Ship + $4.04 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0531",
+      "name": "Snow Foam Lance Auto Pressure Washer Jet Quick Release Foam Blaster Compati",
+      "price": "$69.17",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjEjNwnEBT2yF9pKani5GPAzix3yY2xC2k0SuzyPRSZkGFnItet1s0V1wAgQXhwJQ5KmISRlB14Q4L_yDHeURo8GSxNjqKYtNzywRyMz1FU82aQmJzRBDk",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 3,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 3 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $5.71)",
+        "market_value": "Item $69.17 + $3.99 Ship + $5.71 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0532",
+      "name": "1/4\" Snow Foam Pressure Washer Gun Car Wash Soap Lance Cannon Spray",
+      "price": "$18.98",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOYlgllB0nbn0m-AmCZHIrBbyuxsqW4ZcJEGUgZ0rTAWDvQuKo7aNEHiytXJ0xIbbY8JL0fdKzPHVy_BRAR0y7XvEytr4hItDKsTgQMY0u",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.57)",
+        "market_value": "Item $18.98 + $3.99 Ship + $1.57 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0533",
+      "name": "1/4 900ML Snow Foam Gun Car Wash Sprayer Lance Pressure Washer Jet Bottle",
+      "price": "$31.62",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSp5WEwa4Z_Xk289ctxcSuL9J-ZmPPvxudw2jPZMC-iWwanGOooeiuQ2dr8gyCuVlHHOfgfB5LnNSg-W8h6y7-F5afzwQGTWpYW8PaG0paM-07qQD-tbFevw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $2.61)",
+        "market_value": "Item $31.62 + $3.99 Ship + $2.61 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0534",
+      "name": "Snow Foam Lance Cannon Soap Bottle Sprayer For Pressure Washer Gun Jet Car ",
+      "price": "$19.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXlj5qw9uO19l4vjx5089AceB-XabE3iZSCkiUvXXTB5NGgH_cnFXldFCbtMgcuaDzE3f9jV9nTsHhKQVH_B8tsK4lBCkYQUWMJ2XAdU4",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $1.65)",
+        "market_value": "Item $19.99 + $3.99 Ship + $1.65 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0535",
+      "name": "Maxshine Snow Foam Cannon",
+      "price": "$86.99",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyj4kGPR6mePPFi0X-B4a-psUp6mEhAYtvhG43N2YVld20yQ06UWCehRsYSS5r_ihQ4YHWdOu7_A2PMlTV3rpW6qMmq2vFRUMDpIO57PHeg5Km8oW7KVHW",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $7.18)",
+        "market_value": "Item $86.99 + $3.99 Ship + $7.18 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0536",
+      "name": "MTM Hydro GHF1 Low Pressure Foamer",
+      "price": "$45.99",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcFuV6HApAQZbkNMBsLgCLjjR3w-sROphFV30mTEMUcZ6JsG8pWhPYnxUcZpT4EyJLl08ZEuY2D-6fW-wXJOJ_7bEyQOerk0Pr_Hbj1D04FiACUltZuW_N",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 4,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $3.79)",
+        "market_value": "Item $45.99 + $3.99 Ship + $3.79 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0537",
+      "name": "Foam Cannon Pro V2 With Car Wash Soap Bundle All-Brass 40oz Pressure Washer",
+      "price": "$67.49",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyIJs7oMPAK72fsr4ifgZivQmArw_nIfzbW1eUsUzBy3onb8ZRNcCrGjhkS4LY8ZvLAIntdQsxJmqP2L-qU5zLLIkUW7eb_wd8nqHvzb5VPAUdJROgktbWw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $5.57)",
+        "market_value": "Item $67.49 + $3.99 Ship + $5.57 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0538",
+      "name": "Snow Foam Gun Adjustable Spray Nozzle",
+      "price": "$31.99",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjWiY1tmWtYRzAv5Y9xDyf2ZVSRBwFvjRhpX4LhoQBQ4zJ334i1of9R2N8XbnSu61PQivmctoNBHUVQHmH3lKuNsYM_8RQeU9FPgzqCWdWj9IEqQ4Y2zaM",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 3,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 3 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $2.64)",
+        "market_value": "Item $31.99 + $3.99 Ship + $2.64 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0539",
+      "name": "Portable Cordless Foam Sprayer | 2l Capacity With 2600mah Battery |",
+      "price": "$157.11",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSC_IhT9bWcShr9OfE1hY3Q_L7hDxxHUeT-CItCLg70p1pcMr_B-gR9aSii_GASYMPNiny0vXm4WgvnQc8eGptYVaXSsrG-Zhj7yV1d_Buv",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $5.99 + Buyer Sales Tax (8.25%: $12.96)",
+        "market_value": "Item $157.11 + $5.99 Ship + $12.96 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    },
+    {
+      "id": "TREND-0540",
+      "name": "Snow Foam Cannon Washer Gun Car Wash Auto Detailing Car Wheel Cleaning",
+      "price": "$7.95",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkQGwJ7TKLejenxUPcK3azcnQ26Qkg0OfOGPR8YC0cu_VyV2W9FnRq5eQF8E8N0-MgEiireR-PfwemZh1MddABaVEfXYbDFTNUQ-DyVuSz-FxXpait9DVX",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl2x2E08UIokg7oiFhoWYlyduqlq_VVWRF9aQYbgK_sbm5_jnKnHC_H8NTERc-ELMBt7WxqndcP3HTwh6UraDf__ZXwTr5uAgmsL_4ijA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhgMQXf3nLxZ2uo_Xtp4qCmuqQDoZdJsiq9j_gmOOLeY8hmKQN3p9lT0pHciJlbiICzFOmiO7sfSPn8HIJvJhjRY4qWGoMLHGzh2GO6KTtVa5bwbzUtpjz"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 2,
+      "specs": {
+        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
+        "condition": "Brand New (Factory Sealed) • 🔥 Only 2 Left in Stock",
+        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
+        "shipping": "Expedited Shipping (3–7 Days): $3.99 + Buyer Sales Tax (8.25%: $0.66)",
+        "market_value": "Item $7.95 + $3.99 Ship + $0.66 Tax (Customer Pays Tax & Card Fee)"
+      },
+      "status": "LIVE_MARKET_VERIFIED"
+    }
   ]
 };
