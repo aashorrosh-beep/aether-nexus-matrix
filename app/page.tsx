@@ -175,17 +175,17 @@ export default function MallOfMallsLobby() {
             </div>
             <div className="bg-yellow-950 border-2 border-yellow-400 rounded-2xl p-3.5 space-y-2">
               <div className="text-xs font-black uppercase text-yellow-300">🌻 2. DOWN SYNDROME &amp; MD (BLUE/YELLOW)</div>
-              <a href={"https://www.google.com/maps/search/Down+Syndrome+Muscular+Dystrophy+Events+near+" + zip12} target="_blank" className="w-full bg-yellow-400 text-black font-black text-xs uppercase py-2.5 rounded-xl block text-center">🔍 12-Mi Down/MD Events ({zip12}) →</a>
+              <a href={"/spectrum-knowledge-vault.html?cat=down-md&zip=" + zip12} className="w-full bg-yellow-400 text-black font-black text-xs uppercase py-2.5 rounded-xl block text-center">🔍 12-Mi Down/MD Events ({zip12}) →</a>
               <Link href="/nostalgia/md-mobility-superstore" className="w-full bg-blue-700 text-yellow-300 font-black text-xs uppercase py-2.5 rounded-xl block text-center">🏪 Shop Down/MD Store →</Link>
             </div>
             <div className="bg-cyan-950 border-2 border-white rounded-2xl p-3.5 space-y-2">
               <div className="text-xs font-black uppercase text-cyan-300">🤟 3. DEAF &amp; BLIND (SILVER/TURQUOISE)</div>
-              <a href={"https://www.google.com/maps/search/Deaf+ASL+Blind+Accessible+Events+near+" + zip12} target="_blank" className="w-full bg-cyan-400 text-black font-black text-xs uppercase py-2.5 rounded-xl block text-center">🔍 12-Mi Deaf/Blind Events ({zip12}) →</a>
+              <a href={"/spectrum-knowledge-vault.html?cat=deaf-blind&zip=" + zip12} className="w-full bg-cyan-400 text-black font-black text-xs uppercase py-2.5 rounded-xl block text-center">🔍 12-Mi Deaf/Blind Events ({zip12}) →</a>
               <Link href="/nostalgia/deaf-blind-superstore" className="w-full bg-white text-black font-black text-xs uppercase py-2.5 rounded-xl block text-center">🏪 Shop Deaf &amp; Blind Store →</Link>
             </div>
             <div className="bg-teal-950 border-2 border-teal-400 rounded-2xl p-3.5 space-y-2">
               <div className="text-xs font-black uppercase text-teal-300">🎖️ 4. PTSD RECOVERY (TEAL RIBBON)</div>
-              <a href={"https://www.google.com/maps/search/PTSD+Veteran+Support+Events+near+" + zip12} target="_blank" className="w-full bg-teal-400 text-black font-black text-xs uppercase py-2.5 rounded-xl block text-center">🔍 12-Mi PTSD Events ({zip12}) →</a>
+              <a href={"/spectrum-knowledge-vault.html?cat=ptsd&zip=" + zip12} className="w-full bg-teal-400 text-black font-black text-xs uppercase py-2.5 rounded-xl block text-center">🔍 12-Mi PTSD Events ({zip12}) →</a>
               <Link href="/nostalgia/ptsd-calm-superstore" className="w-full bg-teal-700 text-white font-black text-xs uppercase py-2.5 rounded-xl block text-center">🏪 Shop PTSD Calm Store →</Link>
             </div>
           </div>
