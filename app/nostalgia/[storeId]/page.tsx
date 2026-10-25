@@ -61,14 +61,7 @@ export default function DynamicStorefront() {
           <Link href="/" className="inline-block text-xs font-mono tracking-widest uppercase bg-black/40 hover:bg-black/80 px-4 py-2 rounded border border-white/20 mb-6 transition-colors">
             ← Return to Concourse
           </Link>
-          {String(storeId).startsWith("lapooza-") && (
-          <div className="mb-4 bg-gradient-to-r from-fuchsia-900 via-purple-900 to-pink-900 border-2 border-yellow-400 rounded-2xl p-4 text-center shadow-[0_0_30px_rgba(244,114,182,0.4)]">
-            <div className="text-xs font-mono uppercase tracking-widest text-yellow-300 font-black">🎉 OFFICIAL PARTY LAPOOZA SUPERSTORE</div>
-            <div className="text-lg md:text-2xl font-black uppercase text-white mt-1">"Where Fun, Adventure &amp; Imagination Come to Life — <span className="text-yellow-400">Put Yourself in the Middle of the Magic!</span>"</div>
-            <div className="text-[11px] text-fuchsia-200 mt-1">Buy Complete 88–170 Pc Room Bulk Boxes OR Individual Decor • Free AI Party Man Face-Swap • DOT Ground Helium &amp; Archways</div>
-          </div>
-        )}
-        <div className="bg-red-600 p-6 rounded-t-2xl border-b-8 border-yellow-400">
+          <div className="bg-red-600 p-6 rounded-t-2xl border-b-8 border-yellow-400">
             <h1 className="text-5xl md:text-7xl font-black uppercase italic tracking-tight">{displayTitle}</h1>
             <p className="mt-4 text-white font-medium text-lg">Dynamic inventory: {items.length} units cataloged.</p>
           </div>

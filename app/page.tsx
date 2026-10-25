@@ -4,11 +4,21 @@ import Link from "next/link";
 import { masterInventory } from "./inventory";
 
 const isLive = (id: string) => Boolean(masterInventory && masterInventory[id] && masterInventory[id].length > 0);
-const fmt = (s: string) => s.replace(/-/g, " ").toUpperCase();
+const NICE_NAMES: Record<string,string> = {
+  "spectrum-sensory-superstore": "🧩 Beacon of Hope: Spectrum & Sensory Discovery Superstore",
+  "new-life-expecting-superstore": "👶 Beacon of Hope: New Life & Expecting Motherhood Superstore",
+  "md-mobility-superstore": "🌻 Beacon of Hope: Bright Horizons, Trisomy 21 & Mobility Superstore",
+  "deaf-blind-superstore": "🤟 Beacon of Hope: Sight, Sound, Braille & ASL Connection Superstore",
+  "ptsd-calm-superstore": "🎖️ Beacon of Hope: Valor, Veterans & Peace Recovery Superstore",
+  "senior-mobility-independence": "🪜 Home Stair-Lifts, Modular Ramps & Mobility Superstore",
+  "us-trend-car-detailing-pro": "🚗 DIY Car Wash, Snow-Foam & Auto Detail Pro Supplies",
+  "custom-hats-apparel-kicks": "👕 Custom Graphic Shirts, 3D Puff Hats & Stitched Jerseys"
+};
+const fmt = (s: string) => NICE_NAMES[s] || s.replace(/-/g, " ").toUpperCase();
 
 
 const RIBBON_MAP: Record<string, { border: string; badge: string; radar: string }> = {
-  "spectrum-sensory-superstore": { border: "border-2 border-blue-400 bg-blue-950/50", badge: "🧩 AUTISM RIBBON (BLUE & GOLD) • 10–20% OFF", radar: "Autism+Sensory+Friendly+Events+Clinics" },
+  "spectrum-sensory-superstore": { border: "border-2 border-blue-400 bg-blue-950/50", badge: "🧩 AUTISM RIBBON (BLUE & GOLD) • Direct Value", radar: "Autism+Sensory+Friendly+Events+Clinics" },
   "new-life-expecting-superstore": { border: "border-2 border-pink-400 bg-pink-950/40", badge: "👶 EXPECTING & NEWBORN RIBBON (PINK & GOLD)", radar: "Maternity+Hospital+Birthing+Classes+Events" },
   "md-mobility-superstore": { border: "border-2 border-yellow-400 bg-yellow-950/40", badge: "🌻 DOWN SYNDROME & MD RIBBON (BLUE & YELLOW)", radar: "Down+Syndrome+Muscular+Dystrophy+Events+Support" },
   "deaf-blind-superstore": { border: "border-2 border-cyan-300 bg-cyan-950/50", badge: "🤟 DEAF & BLIND RIBBON (SILVER & TURQUOISE)", radar: "Deaf+ASL+Blind+Accessible+Events+Community" },
@@ -16,7 +26,7 @@ const RIBBON_MAP: Record<string, { border: string; badge: string; radar: string 
 };
 
 const wellCogs = [
-  { id: "w0", name: "💚 1. Special Needs, Expecting, MD, Deaf/Blind & PTSD Superstores (5 Stores)", desc: "Autism Sensory, Expecting Mothers, Muscular Dystrophy, Deaf/Blind & PTSD Calm Gear (10–20% Below Retail)", rooms: ["spectrum-sensory-superstore","new-life-expecting-superstore","md-mobility-superstore","deaf-blind-superstore","ptsd-calm-superstore"] },
+  { id: "w0", name: "💚 🌟 1. The Beacon of Hope Sanctuary (5 Family & Adaptive Superstores + 12-Mile Event Radars)", desc: "Autism Sensory, Expecting Mothers, Muscular Dystrophy, Deaf/Blind & PTSD Calm Gear (Verified Direct Value)", rooms: ["spectrum-sensory-superstore","new-life-expecting-superstore","md-mobility-superstore","deaf-blind-superstore","ptsd-calm-superstore"] },
   { id: "w1", name: "🌿 2. Holistic Longevity, Botanicals, Peptides & Shilajit (6 Stores)", desc: "Turkey Tail, Sulforaphane, Soursop, NAD+, Peptides, Pure Shilajit Resin & Holistic Books", rooms: ["cellular-immune-botanicals","holistic-longevity-lab","peptide-research-vault","adaptogen-apothecary","cellular-hydration-mineral","gut-botanical-library"] },
   { id: "w2", name: "💪 3. GNC-Style Pro Protein, Clean Pantry & Meal Prep (3 Stores)", desc: "Whey/Plant Protein Shakes, Ostrich Sticks, Organic Pantry & Prepared Diet Boxes", rooms: ["gnc-sports-nutrition","diet-meal-delivery","organic-health-pantry"] },
   { id: "w3", name: "🩺 4. The Scrub Lounge, Back Pain Relief & Senior Mobility (6 Stores)", desc: "Cute/Funny Medical Scrubs, Walkers, Rollators, Spine Decompression, Sportswear & Home Recovery", rooms: ["the-scrub-lounge","senior-mobility-independence","back-pain-spine-relief","athletic-attire-footwear","home-fitness-recovery","retro-sweat-rentals"] }
@@ -59,7 +69,7 @@ const partyCogs = [
 ];
 
 const MALL_DIRECTORY = [
-  { id: "sanctuary", badge: "MALL #1 • FEATURED MISSION & WELLNESS HUB", title: "1. The Wellness & Family Sanctuary", subtitle: "20 Storefronts + 5 Free 12-Mile U.S. ZIP Radars & CPR/Choking Certification Board", explain: "Includes: Autism & Sensory Superstore, When You’re Expecting, Muscular Dystrophy, Deaf & Blind, PTSD Recovery, Holistic Longevity/Shilajit, GNC Nutrition & The Scrub Lounge (10%–20% Below Specialty Retail).", border: "border-emerald-500", bg: "from-emerald-950/90 to-zinc-950", accent: "text-emerald-400", btnBg: "bg-emerald-500 hover:bg-emerald-400 text-black", cogs: wellCogs, hasSanctuaryPortals: true },
+  { id: "sanctuary", badge: "MALL #1 • FEATURED MISSION & WELLNESS HUB", title: "1. The Beacon of Hope & Holistic Wellness Sanctuary", subtitle: "20 Storefronts + 5 Free 12-Mile U.S. ZIP Radars & CPR/Choking Certification Board", explain: "Includes: Autism & Sensory Superstore, When You’re Expecting, Muscular Dystrophy, Deaf & Blind, PTSD Recovery, Holistic Longevity/Shilajit, GNC Nutrition & The Scrub Lounge (Verified Direct Value).", border: "border-emerald-500", bg: "from-emerald-950/90 to-zinc-950", accent: "text-emerald-400", btnBg: "bg-emerald-500 hover:bg-emerald-400 text-black", cogs: wellCogs, hasSanctuaryPortals: true },
   { id: "nostalgia", badge: "MALL #2 • HOLIDAY, RETRO & CUSTOM STUDIO", title: "2. Nostalgia & Q4 Holiday Mall", subtitle: "44 Storefronts • 5 Corridors: Holiday Gags, 150-Item Squishies, 60s–Y2K, Retro Gaming & Custom Press", explain: "Includes: The Christmas Story (110 Items), Ugly Sweaters, Holiday Fudge & Bakery, Rare Squishmallows, Pop Mart Blind Boxes, Vintage Streetwear, Retro Gaming & Custom Engraving/Offset Print.", border: "border-pink-500", bg: "from-pink-950/80 to-zinc-950", accent: "text-pink-400", btnBg: "bg-pink-500 hover:bg-pink-400 text-white", cogs: nostCogs },
   { id: "trendalopolis", badge: "MALL #3 • TOP 50 U.S. TRENDING CATEGORIES", title: "3. Trendalopolis • Trending America", subtitle: "50 Storefronts • 5 Corridors • 750 Live-Market Items Across America’s Hottest Categories", explain: "Includes: 40oz Tumblers, Qi2 Power Banks, Titanium Smart Rings, Red-Light LED Masks, Korean Glass-Skin, Nugget Ice Makers, Rotating Pizza Ovens, Walking Pads, Cold Plunge & Freeze-Dried Candy.", border: "border-amber-500", bg: "from-amber-950/80 to-zinc-950", accent: "text-amber-400", btnBg: "bg-amber-400 hover:bg-amber-300 text-black", cogs: trendCogs },
   { id: "sportlick", badge: "MALL #4 • SPORTS, OUTDOORS & POWERSPORTS", title: "4. Sportlick • The Sports & Outdoors Plaza", subtitle: "12 Super-Storefronts • 4 Corridors • Team Sports, Hunting, Fishing, Golf & Four-Wheelers (ATV)", explain: "Includes: Baseball Bats & Gloves, Football Gridiron, Basketball Hoops, Bicycling, Four-Wheelers (ATV/UTV Winches & Ramps), Golf Simulators, T700 Pickleball, Compound Bows, Fishing Sonar & Garage Gym.", border: "border-lime-500", bg: "from-lime-950/80 to-zinc-950", accent: "text-lime-400", btnBg: "bg-lime-400 hover:bg-lime-300 text-black", cogs: sportCogs },
@@ -162,31 +172,31 @@ export default function MallOfMallsLobby() {
         <div className="bg-zinc-950 border-2 border-emerald-400 rounded-3xl p-5 space-y-4 shadow-xl">
           <div className="flex flex-col md:flex-row justify-between items-center gap-3">
             <div className="text-left">
-              <span className="bg-emerald-400 text-black font-black text-[10px] uppercase px-3 py-1 rounded-full">📍 12-MILE SANCTUARY EVENT FINDER &amp; HARD-TO-FIND SUPERSTORES (10–20% OFF)</span>
-              <h2 className="text-lg md:text-2xl font-black uppercase text-white mt-1">Enter Your 5-Digit ZIP to Find Local 12-Mile Events &amp; Shop Each Ribbon Store:</h2>
+              <span className="bg-emerald-400 text-black font-black text-[10px] uppercase px-3 py-1 rounded-full">🌟 THE BEACON OF HOPE SANCTUARY • 5 SUPERSTORES • 4 COLOR-CODED 12-MILE RADARS &amp; BREAKTHROUGHS</span>
+              <h2 className="text-lg md:text-2xl font-black uppercase text-white mt-1">🌟 THE BEACON OF HOPE SANCTUARY — Enter Your 5-Digit ZIP for 12-Mile Events, Breakthroughs &amp; Superstores:</h2>
             </div>
             <input value={zip12} onChange={e => setZip12(e.target.value)} maxLength={5} placeholder="ZIP (77301)" className="w-40 bg-black border-2 border-yellow-400 rounded-xl px-4 py-2 text-center font-black text-xl text-white" />
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3">
             <div className="bg-blue-950 border-2 border-blue-400 rounded-2xl p-3.5 space-y-2">
-              <div className="text-xs font-black uppercase text-amber-300">🧩 1. AUTISM (BLUE &amp; GOLD RIBBON)</div>
+              <div className="text-xs font-black uppercase text-amber-300">🧩 Spectrum &amp; Sensory (Blue/Gold)</div>
               <a href={"/spectrum-knowledge-vault.html?zip=" + zip12} className="w-full bg-amber-400 text-black font-black text-xs uppercase py-2.5 rounded-xl block text-center">🔍 12-Mi Autism Events ({zip12}) →</a>
-              <Link href="/nostalgia/spectrum-sensory-superstore" className="w-full bg-blue-600 text-white font-black text-xs uppercase py-2.5 rounded-xl block text-center">🏪 Shop Autism Store →</Link>
+              <Link href="/nostalgia/spectrum-sensory-superstore" className="w-full bg-blue-600 text-white font-black text-xs uppercase py-2.5 rounded-xl block text-center">🏪 🏪 Sensory Superstore →</Link>
             </div>
             <div className="bg-yellow-950 border-2 border-yellow-400 rounded-2xl p-3.5 space-y-2">
-              <div className="text-xs font-black uppercase text-yellow-300">🌻 2. DOWN SYNDROME &amp; MD (BLUE/YELLOW)</div>
+              <div className="text-xs font-black uppercase text-yellow-300">🌻 Bright Horizons &amp; Mobility (Blue/Yellow)</div>
               <a href={"/spectrum-knowledge-vault.html?cat=down-md&zip=" + zip12} className="w-full bg-yellow-400 text-black font-black text-xs uppercase py-2.5 rounded-xl block text-center">🔍 12-Mi Down/MD Events ({zip12}) →</a>
-              <Link href="/nostalgia/md-mobility-superstore" className="w-full bg-blue-700 text-yellow-300 font-black text-xs uppercase py-2.5 rounded-xl block text-center">🏪 Shop Down/MD Store →</Link>
+              <Link href="/nostalgia/md-mobility-superstore" className="w-full bg-blue-700 text-yellow-300 font-black text-xs uppercase py-2.5 rounded-xl block text-center">🏪 🏪 Mobility Superstore →</Link>
             </div>
             <div className="bg-cyan-950 border-2 border-white rounded-2xl p-3.5 space-y-2">
-              <div className="text-xs font-black uppercase text-cyan-300">🤟 3. DEAF &amp; BLIND (SILVER/TURQUOISE)</div>
+              <div className="text-xs font-black uppercase text-cyan-300">🤟 Sight &amp; Sound Connection (Silver/Cyan)</div>
               <a href={"/spectrum-knowledge-vault.html?cat=deaf-blind&zip=" + zip12} className="w-full bg-cyan-400 text-black font-black text-xs uppercase py-2.5 rounded-xl block text-center">🔍 12-Mi Deaf/Blind Events ({zip12}) →</a>
-              <Link href="/nostalgia/deaf-blind-superstore" className="w-full bg-white text-black font-black text-xs uppercase py-2.5 rounded-xl block text-center">🏪 Shop Deaf &amp; Blind Store →</Link>
+              <Link href="/nostalgia/deaf-blind-superstore" className="w-full bg-white text-black font-black text-xs uppercase py-2.5 rounded-xl block text-center">🏪 🏪 Sight &amp; Sound Store →</Link>
             </div>
             <div className="bg-teal-950 border-2 border-teal-400 rounded-2xl p-3.5 space-y-2">
-              <div className="text-xs font-black uppercase text-teal-300">🎖️ 4. PTSD RECOVERY (TEAL RIBBON)</div>
+              <div className="text-xs font-black uppercase text-teal-300">🎖️ Valor &amp; Peace Recovery (Teal)</div>
               <a href={"/spectrum-knowledge-vault.html?cat=ptsd&zip=" + zip12} className="w-full bg-teal-400 text-black font-black text-xs uppercase py-2.5 rounded-xl block text-center">🔍 12-Mi PTSD Events ({zip12}) →</a>
-              <Link href="/nostalgia/ptsd-calm-superstore" className="w-full bg-teal-700 text-white font-black text-xs uppercase py-2.5 rounded-xl block text-center">🏪 Shop PTSD Calm Store →</Link>
+              <Link href="/nostalgia/ptsd-calm-superstore" className="w-full bg-teal-700 text-white font-black text-xs uppercase py-2.5 rounded-xl block text-center">🏪 🏪 Valor &amp; Peace Store →</Link>
             </div>
           </div>
         </div>
