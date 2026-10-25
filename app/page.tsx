@@ -51,6 +51,13 @@ const matrixCogs = [
   { id: "m3", name: "⚙️ 3. Modern Lifestyle, Neo-Squish & Holo-Tech (15 Stores)", desc: "Neo-Squish Pods, Luxury Pets, Home Espresso Bars, Smart Holiday LEDs, Holo-Displays & Techwear", rooms: ["neo-squish-pods","premium-pet-supply","home-barista-bar","holiday-illumination","lofi-study-room","hologram-arcades","holographic-displays","glitch-apparel","techwear-tailor","cyber-pets","cyber-flora-nursery","nanobot-pharmacy","synth-organs","synthetic-skin","crypto-cold-storage","metaverse-assets","neon-signs"] }
 ];
 
+
+const partyCogs = [
+  { id: "p1", name: "🎄 1. Holiday Indoor Spruce, Outdoor Lights/Donkeys, Thanksgiving & Games (4 Stores)", desc: "Indoor Christmas Spruce, Outdoor Lights, Friendsgiving & Adult/Kid Wreath Games", rooms: ["lapooza-holiday-indoor-spruce","lapooza-holiday-outdoor-lights","lapooza-thanksgiving-harvest","lapooza-holiday-games-adult-kids"] },
+  { id: "p2", name: "🎂 2. Boys & Girls Birthdays by Age (1–5, 5–10, 10–16) + Free AI Face-Swap (6 Stores)", desc: "Shrek, Dino, Monster Truck, Pixel Craft, Frozen, Unicorn, Pop Star & Sweet 16 (88–170 Pc Bulk or Single!)", rooms: ["lapooza-boys-ages-1-5","lapooza-boys-ages-5-10","lapooza-boys-ages-10-16","lapooza-girls-ages-1-5","lapooza-girls-ages-5-10","lapooza-girls-ages-10-16"] },
+  { id: "p3", name: "🎈 3. Home Helium Tanks, 150-Pc Balloon Archways, Quinceañeras, Weddings & Bachelor VIP (5 Stores)", desc: "Disposable Helium Canisters, Electric Blowers, Circle Arch Stands, Quinceañera & Bridal Suites", rooms: ["lapooza-balloon-arch-helium","lapooza-quinceanera-royale","lapooza-wedding-bridal","lapooza-bachelorette-squad","lapooza-bachelor-last-ride"] }
+];
+
 const MALL_DIRECTORY = [
   { id: "sanctuary", badge: "MALL #1 • FEATURED MISSION & WELLNESS HUB", title: "1. The Wellness & Family Sanctuary", subtitle: "20 Storefronts + 5 Free 12-Mile U.S. ZIP Radars & CPR/Choking Certification Board", explain: "Includes: Autism & Sensory Superstore, When You’re Expecting, Muscular Dystrophy, Deaf & Blind, PTSD Recovery, Holistic Longevity/Shilajit, GNC Nutrition & The Scrub Lounge (10%–20% Below Specialty Retail).", border: "border-emerald-500", bg: "from-emerald-950/90 to-zinc-950", accent: "text-emerald-400", btnBg: "bg-emerald-500 hover:bg-emerald-400 text-black", cogs: wellCogs, hasSanctuaryPortals: true },
   { id: "nostalgia", badge: "MALL #2 • HOLIDAY, RETRO & CUSTOM STUDIO", title: "2. Nostalgia & Q4 Holiday Mall", subtitle: "44 Storefronts • 5 Corridors: Holiday Gags, 150-Item Squishies, 60s–Y2K, Retro Gaming & Custom Press", explain: "Includes: The Christmas Story (110 Items), Ugly Sweaters, Holiday Fudge & Bakery, Rare Squishmallows, Pop Mart Blind Boxes, Vintage Streetwear, Retro Gaming & Custom Engraving/Offset Print.", border: "border-pink-500", bg: "from-pink-950/80 to-zinc-950", accent: "text-pink-400", btnBg: "bg-pink-500 hover:bg-pink-400 text-white", cogs: nostCogs },
@@ -87,7 +94,7 @@ export default function MallOfMallsLobby() {
         <div className="bg-zinc-950/95 border-2 border-yellow-400/70 rounded-2xl p-4 shadow-lg">
           <div className="flex flex-col md:flex-row gap-3 items-center">
             <div className="md:w-1/3 text-left">
-              <div className="text-xs font-black uppercase text-yellow-400">🔍 SEARCH ALL 5 MALLS AT ONCE</div>
+              <div className="text-xs font-black uppercase text-yellow-400">🔍 SEARCH ALL 6 MALLS AT ONCE</div>
               <div className="text-[11px] text-zinc-400">Type any item to see every store that carries it:</div>
             </div>
             <div className="w-full md:w-2/3 flex gap-2">
@@ -121,7 +128,7 @@ export default function MallOfMallsLobby() {
         </div>
 
         <div className="flex flex-wrap gap-2 justify-center">
-          <button onClick={() => { setSelectedMallId(null); setActiveCog(null); }} className={`px-3.5 py-2 rounded-xl text-xs font-black uppercase border ${!selectedMallId ? "bg-white text-black border-white" : "bg-zinc-900 text-zinc-300 border-zinc-700"}`}>🏛️ View All 5 Malls</button>
+          <button onClick={() => { setSelectedMallId(null); setActiveCog(null); }} className={`px-3.5 py-2 rounded-xl text-xs font-black uppercase border ${!selectedMallId ? "bg-white text-black border-white" : "bg-zinc-900 text-zinc-300 border-zinc-700"}`}>🏛️ View All 6 Malls</button>
           {MALL_DIRECTORY.map(m => (
             <button key={m.id} onClick={() => { setSelectedMallId(m.id); setActiveCog(null); }} className={`px-3.5 py-2 rounded-xl text-xs font-black uppercase border ${selectedMallId === m.id ? "bg-yellow-400 text-black border-yellow-400" : "bg-zinc-900 text-zinc-200 border-zinc-700"}`}>{m.title}</button>
           ))}
@@ -168,7 +175,7 @@ export default function MallOfMallsLobby() {
                 <h2 className="text-3xl md:text-4xl font-black uppercase text-white mt-1">{selectedMall.title}</h2>
                 <p className="text-xs text-zinc-300 mt-1">All {selectedMall.cogs.length} Category Corridors inside {selectedMall.title}:</p>
               </div>
-              <button onClick={() => setSelectedMallId(null)} className="bg-white text-black font-black text-xs uppercase px-5 py-3 rounded-xl">← Back to All 5 Malls</button>
+              <button onClick={() => setSelectedMallId(null)} className="bg-white text-black font-black text-xs uppercase px-5 py-3 rounded-xl">← Back to All 6 Malls</button>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               {selectedMall.cogs.map(c => (
@@ -193,7 +200,7 @@ export default function MallOfMallsLobby() {
               </div>
               <div className="flex gap-2">
                 <button onClick={() => setActiveCog(null)} className="bg-yellow-400 text-black font-black text-xs uppercase px-4 py-3 rounded-xl">← Back to Corridors</button>
-                <button onClick={() => { setActiveCog(null); setSelectedMallId(null); }} className="bg-zinc-800 text-white font-black text-xs uppercase px-4 py-3 rounded-xl">🏛️ All 5 Malls</button>
+                <button onClick={() => { setActiveCog(null); setSelectedMallId(null); }} className="bg-zinc-800 text-white font-black text-xs uppercase px-4 py-3 rounded-xl">🏛️ All 6 Malls</button>
               </div>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
