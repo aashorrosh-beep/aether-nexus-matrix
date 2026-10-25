@@ -6,6 +6,15 @@ import { masterInventory } from "./inventory";
 const isLive = (id: string) => Boolean(masterInventory && masterInventory[id] && masterInventory[id].length > 0);
 const fmt = (s: string) => s.replace(/-/g, " ").toUpperCase();
 
+
+const RIBBON_MAP: Record<string, { border: string; badge: string; radar: string }> = {
+  "spectrum-sensory-superstore": { border: "border-2 border-blue-400 bg-blue-950/50", badge: "🧩 AUTISM RIBBON (BLUE & GOLD) • 10–20% OFF", radar: "Autism+Sensory+Friendly+Events+Clinics" },
+  "new-life-expecting-superstore": { border: "border-2 border-pink-400 bg-pink-950/40", badge: "👶 EXPECTING & NEWBORN RIBBON (PINK & GOLD)", radar: "Maternity+Hospital+Birthing+Classes+Events" },
+  "md-mobility-superstore": { border: "border-2 border-yellow-400 bg-yellow-950/40", badge: "🌻 DOWN SYNDROME & MD RIBBON (BLUE & YELLOW)", radar: "Down+Syndrome+Muscular+Dystrophy+Events+Support" },
+  "deaf-blind-superstore": { border: "border-2 border-cyan-300 bg-cyan-950/50", badge: "🤟 DEAF & BLIND RIBBON (SILVER & TURQUOISE)", radar: "Deaf+ASL+Blind+Accessible+Events+Community" },
+  "ptsd-calm-superstore": { border: "border-2 border-teal-400 bg-teal-950/60", badge: "🎖️ PTSD RECOVERY RIBBON (OFFICIAL TEAL)", radar: "PTSD+Veteran+Recovery+Support+Events" }
+};
+
 const wellCogs = [
   { id: "w0", name: "💚 1. Special Needs, Expecting, MD, Deaf/Blind & PTSD Superstores (5 Stores)", desc: "Autism Sensory, Expecting Mothers, Muscular Dystrophy, Deaf/Blind & PTSD Calm Gear (10–20% Below Retail)", rooms: ["spectrum-sensory-superstore","new-life-expecting-superstore","md-mobility-superstore","deaf-blind-superstore","ptsd-calm-superstore"] },
   { id: "w1", name: "🌿 2. Holistic Longevity, Botanicals, Peptides & Shilajit (6 Stores)", desc: "Turkey Tail, Sulforaphane, Soursop, NAD+, Peptides, Pure Shilajit Resin & Holistic Books", rooms: ["cellular-immune-botanicals","holistic-longevity-lab","peptide-research-vault","adaptogen-apothecary","cellular-hydration-mineral","gut-botanical-library"] },
@@ -54,6 +63,7 @@ export default function MallOfMallsLobby() {
   const [selectedMallId, setSelectedMallId] = useState<string | null>(null);
   const [activeCog, setActiveCog] = useState<any>(null);
   const [mallQuery, setMallQuery] = useState("");
+  const [sanctuaryZip, setSanctuaryZip] = useState("77301");
 
   const allRooms = Object.keys(masterInventory || {}).filter(r => isLive(r));
   const selectedMall = MALL_DIRECTORY.find(m => m.id === selectedMallId) || null;
