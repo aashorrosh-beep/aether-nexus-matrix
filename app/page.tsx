@@ -1,5 +1,6 @@
 "use client";
 import { useState } from "react";
+import UniversalMallSearch from "./UniversalMallSearch";
 import Link from "next/link";
 import { masterInventory } from "./inventory";
 
@@ -88,6 +89,7 @@ export default function MallOfMallsLobby() {
 
   return (
     <main className="min-h-screen bg-transparent text-white font-sans relative overflow-x-hidden pb-20">
+      <UniversalMallSearch />
 <div className="w-full max-w-7xl mx-auto px-4 pt-4 pb-2 flex flex-col gap-3">
   
   <div className="bg-gradient-to-r from-red-950 to-emerald-950 border-2 border-amber-400 rounded-3xl p-4 shadow-xl flex flex-col md:flex-row items-start md:items-center justify-between gap-3">
