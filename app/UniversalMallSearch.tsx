@@ -83,13 +83,13 @@ export default function UniversalMallSearch() {
             {results.items.length === 0 ? (
               <p className="text-xs text-zinc-400 py-2">No exact matches found for "{q}". Try a broader word like "holiday", "party", "sensory", or "baseball".</p>
             ) : (
-              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+              <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-0">
                 {results.items.map(({ room, item }, i) => (
-                  <div key={i} className="flex items-center gap-3 bg-black border border-zinc-800 hover:border-amber-400 rounded-xl p-2.5 transition">
-                    <a href={`/nostalgia/${room}?sku=${encodeURIComponent(item.id)}`} className="w-16 h-16 rounded-lg bg-zinc-900 overflow-hidden shrink-0 border border-zinc-700">
-                      <img src={item.media?.[0]} alt={item.name} className="w-full h-full object-contain" />
+                  <div key={i} className="flex flex-col bg-zinc-950 border-0 rounded-none p-0 overflow-hidden transition">
+                    <a href={`/nostalgia/${room}?sku=${encodeURIComponent(item.id)}`} className="w-full aspect-square bg-transparent overflow-hidden shrink-0 border-0 rounded-none">
+                      <img src={item.media?.[0]} alt={item.name} className="w-full h-full object-cover p-0 m-0 block" />
                     </a>
-                    <div className="flex-1 min-w-0">
+                    <div className="p-2 min-w-0 bg-zinc-950">
                       <a href={`/nostalgia/${room}?sku=${encodeURIComponent(item.id)}`} className="text-xs font-bold text-white hover:text-amber-300 line-clamp-2 block">
                         {item.name}
                       </a>

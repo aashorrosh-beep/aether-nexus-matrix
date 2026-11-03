@@ -131,17 +131,17 @@ export default function StorefrontPage({ params }: { params: Promise<{ storeId: 
       )}
 
       {/* Product Grid */}
-      <div className="max-w-7xl mx-auto px-4 pt-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
+      <div className="w-full max-w-7xl mx-auto px-0 pt-2 grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-0">
         {filtered.map((item: any, idx: number) => {
           const imgs = Array.isArray(item.media) && item.media.length ? item.media : ["https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600"];
           return (
-            <div key={item.id || idx} className="bg-zinc-900 border border-zinc-800 hover:border-amber-400 rounded-2xl overflow-hidden flex flex-col justify-between shadow-xl transition">
+            <div key={item.id || idx} className="bg-zinc-950 border-0 rounded-none overflow-hidden flex flex-col justify-between transition">
               <div>
                 <div
                   onClick={() => { setSelectedItem(item); setActiveImgIdx(0); }}
-                  className="relative h-56 bg-black cursor-pointer overflow-hidden group"
+                  className="relative aspect-square w-full bg-transparent cursor-pointer overflow-hidden group"
                 >
-                  <img src={imgs[0]} alt={item.name} className="w-full h-full object-contain p-2 group-hover:scale-105 transition" />
+                  <img src={imgs[0]} alt={item.name} className="w-full h-full object-cover p-0 m-0 block group-hover:scale-105 transition duration-300" />
                   <span className="absolute top-2 left-2 bg-black/80 text-amber-400 border border-amber-400/50 text-[10px] font-black px-2 py-0.5 rounded-md">
                     📸 {imgs.length} Photos + 🎥 Video
                   </span>
@@ -150,7 +150,7 @@ export default function StorefrontPage({ params }: { params: Promise<{ storeId: 
                   </span>
                 </div>
 
-                <div className="p-4">
+                <div className="p-2.5 bg-zinc-950">
                   <div className="text-[10px] text-zinc-400 font-mono mb-1">SKU: {item.id}</div>
                   <h3
                     onClick={() => { setSelectedItem(item); setActiveImgIdx(0); }}
@@ -168,7 +168,7 @@ export default function StorefrontPage({ params }: { params: Promise<{ storeId: 
                 </div>
               </div>
 
-              <div className="p-4 pt-0 flex flex-col gap-2">
+              <div className="px-2.5 pb-3 pt-0 bg-zinc-950 flex flex-col gap-1.5">
                 <div className="flex gap-2">
                   <button
                     onClick={() => addToCart(item, true)}
