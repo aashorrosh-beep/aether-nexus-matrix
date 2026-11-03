@@ -131876,5 +131876,871 @@ export const masterInventory: Record<string, any[]> = {
       "vendorCost": "$283.25",
       "netMargin": "6% Volume-Velocity Net (Beats Landed Big-Box Price) • Net Profit: $17.00"
     }
+  ],
+  "universal-mall-gift-cards": [
+    {
+      "id": "NEXUS-GC-25-1",
+      "name": "$25.00 Universal All-240-Rooms Mall Pass (Valid in All 240 Mall Storefronts)",
+      "price": "$25.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $25.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-50-2",
+      "name": "$50.00 Universal All-240-Rooms Mall Pass (Valid in All 240 Mall Storefronts)",
+      "price": "$50.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $50.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-100-3",
+      "name": "$100.00 Universal All-240-Rooms Mall Pass (Valid in All 240 Mall Storefronts)",
+      "price": "$100.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $100.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-250-4",
+      "name": "$250.00 Universal All-240-Rooms Mall Pass (Valid in All 240 Mall Storefronts)",
+      "price": "$250.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $250.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-500-5",
+      "name": "$500.00 Universal All-240-Rooms Mall Pass (Valid in All 240 Mall Storefronts)",
+      "price": "$500.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $500.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-1000-6",
+      "name": "$1000.00 Universal All-240-Rooms Mall Pass (Valid in All 240 Mall Storefronts)",
+      "price": "$1000.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $1000.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-25-7",
+      "name": "$25.00 🎄 Christmas & Holiday Wishlist Gift Card (Valid in All 240 Mall Storefronts)",
+      "price": "$25.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $25.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-50-8",
+      "name": "$50.00 🎄 Christmas & Holiday Wishlist Gift Card (Valid in All 240 Mall Storefronts)",
+      "price": "$50.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $50.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-100-9",
+      "name": "$100.00 🎄 Christmas & Holiday Wishlist Gift Card (Valid in All 240 Mall Storefronts)",
+      "price": "$100.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $100.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-250-10",
+      "name": "$250.00 🎄 Christmas & Holiday Wishlist Gift Card (Valid in All 240 Mall Storefronts)",
+      "price": "$250.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $250.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-500-11",
+      "name": "$500.00 🎄 Christmas & Holiday Wishlist Gift Card (Valid in All 240 Mall Storefronts)",
+      "price": "$500.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $500.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-1000-12",
+      "name": "$1000.00 🎄 Christmas & Holiday Wishlist Gift Card (Valid in All 240 Mall Storefronts)",
+      "price": "$1000.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $1000.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-25-13",
+      "name": "$25.00 💙 Sanctuary Sponsor-A-Family & Adaptive Care Card (Valid in All 240 Mall Storefronts)",
+      "price": "$25.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $25.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-50-14",
+      "name": "$50.00 💙 Sanctuary Sponsor-A-Family & Adaptive Care Card (Valid in All 240 Mall Storefronts)",
+      "price": "$50.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $50.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-100-15",
+      "name": "$100.00 💙 Sanctuary Sponsor-A-Family & Adaptive Care Card (Valid in All 240 Mall Storefronts)",
+      "price": "$100.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $100.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-250-16",
+      "name": "$250.00 💙 Sanctuary Sponsor-A-Family & Adaptive Care Card (Valid in All 240 Mall Storefronts)",
+      "price": "$250.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $250.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-500-17",
+      "name": "$500.00 💙 Sanctuary Sponsor-A-Family & Adaptive Care Card (Valid in All 240 Mall Storefronts)",
+      "price": "$500.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $500.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-1000-18",
+      "name": "$1000.00 💙 Sanctuary Sponsor-A-Family & Adaptive Care Card (Valid in All 240 Mall Storefronts)",
+      "price": "$1000.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $1000.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-25-19",
+      "name": "$25.00 👶 When You're Expecting & Baby Shower Gift Card (Valid in All 240 Mall Storefronts)",
+      "price": "$25.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $25.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-50-20",
+      "name": "$50.00 👶 When You're Expecting & Baby Shower Gift Card (Valid in All 240 Mall Storefronts)",
+      "price": "$50.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $50.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-100-21",
+      "name": "$100.00 👶 When You're Expecting & Baby Shower Gift Card (Valid in All 240 Mall Storefronts)",
+      "price": "$100.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $100.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-250-22",
+      "name": "$250.00 👶 When You're Expecting & Baby Shower Gift Card (Valid in All 240 Mall Storefronts)",
+      "price": "$250.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $250.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-500-23",
+      "name": "$500.00 👶 When You're Expecting & Baby Shower Gift Card (Valid in All 240 Mall Storefronts)",
+      "price": "$500.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $500.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-1000-24",
+      "name": "$1000.00 👶 When You're Expecting & Baby Shower Gift Card (Valid in All 240 Mall Storefronts)",
+      "price": "$1000.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $1000.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-25-25",
+      "name": "$25.00 🎈 Party Lapooza Custom Celebration Gift Card (Valid in All 240 Mall Storefronts)",
+      "price": "$25.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $25.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-50-26",
+      "name": "$50.00 🎈 Party Lapooza Custom Celebration Gift Card (Valid in All 240 Mall Storefronts)",
+      "price": "$50.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $50.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-100-27",
+      "name": "$100.00 🎈 Party Lapooza Custom Celebration Gift Card (Valid in All 240 Mall Storefronts)",
+      "price": "$100.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $100.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-250-28",
+      "name": "$250.00 🎈 Party Lapooza Custom Celebration Gift Card (Valid in All 240 Mall Storefronts)",
+      "price": "$250.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $250.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-500-29",
+      "name": "$500.00 🎈 Party Lapooza Custom Celebration Gift Card (Valid in All 240 Mall Storefronts)",
+      "price": "$500.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $500.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-1000-30",
+      "name": "$1000.00 🎈 Party Lapooza Custom Celebration Gift Card (Valid in All 240 Mall Storefronts)",
+      "price": "$1000.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $1000.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-25-31",
+      "name": "$25.00 🏆 SPORTSFLIX Pro Locker & Outdoors Gift Card (Valid in All 240 Mall Storefronts)",
+      "price": "$25.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $25.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-50-32",
+      "name": "$50.00 🏆 SPORTSFLIX Pro Locker & Outdoors Gift Card (Valid in All 240 Mall Storefronts)",
+      "price": "$50.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $50.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-100-33",
+      "name": "$100.00 🏆 SPORTSFLIX Pro Locker & Outdoors Gift Card (Valid in All 240 Mall Storefronts)",
+      "price": "$100.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $100.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-250-34",
+      "name": "$250.00 🏆 SPORTSFLIX Pro Locker & Outdoors Gift Card (Valid in All 240 Mall Storefronts)",
+      "price": "$250.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $250.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-500-35",
+      "name": "$500.00 🏆 SPORTSFLIX Pro Locker & Outdoors Gift Card (Valid in All 240 Mall Storefronts)",
+      "price": "$500.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $500.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    },
+    {
+      "id": "NEXUS-GC-1000-36",
+      "name": "$1000.00 🏆 SPORTSFLIX Pro Locker & Outdoors Gift Card (Valid in All 240 Mall Storefronts)",
+      "price": "$1000.00",
+      "vendorCost": "$0.00 (100% Cash Float Until Redeemed)",
+      "netMargin": "100% Immediate Cash Flow • Locked to Your 240 Rooms",
+      "media": [
+        "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=600&auto=format&fit=crop&q=80"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 999,
+      "isGiftCard": true,
+      "specs": {
+        "manufacturer": "ALBS Nexus Universal Treasury • Closed-Loop Mall Gift Card",
+        "condition": "Instant Digital Code + Printable Gift Certificate • Never Expires",
+        "authentication": "Valid Across All 240 Storefronts (Sanctuaries, Holiday 100, Expecting, Party Lapooza, Sportsflix & Nostalgia)",
+        "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
+        "market_value": "Face Value: $1000.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
+        "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    }
   ]
 };

@@ -19,7 +19,8 @@ export async function POST(req: Request) {
     if (ship > 0) items.push({ price_data: { currency: "usd", product_data: { name: `Expedited Insured Shipping (3–7 Days: $${ship.toFixed(2)})` }, unit_amount: Math.round(ship * 100) }, quantity: 1 });
     if (salesTax > 0) items.push({ price_data: { currency: "usd", product_data: { name: "Customer State & Local Sales Tax (8.25%)" }, unit_amount: Math.round(salesTax * 100) }, quantity: 1 });
     items.push({ price_data: { currency: "usd", product_data: { name: "Card Processing Pass-Through (2.9% + $0.30)" }, unit_amount: Math.round(cardFee * 100) }, quantity: 1 });
-    const session = await stripe.checkout.sessions.create({ payment_method_types: ["card"], mode: "payment", line_items: items, success_url: origin + "/?checkout=success", cancel_url: origin + "/?checkout=cancelled" });
+    const session = await stripe.checkout.sessions.create({ payment_method_types: ["card"], mode: "payment",
+      allow_promotion_codes: true, line_items: items, success_url: origin + "/?checkout=success", cancel_url: origin + "/?checkout=cancelled" });
     return NextResponse.json({ url: session.url });
   } catch (err: any) { return NextResponse.json({ error: err.message }, { status: 500 }); }
 }
