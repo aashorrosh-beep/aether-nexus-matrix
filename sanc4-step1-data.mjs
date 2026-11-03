@@ -44,4 +44,4 @@ for (const t of TIERS) {
 }
 fs.mkdirSync("app/data", { recursive: true });
 fs.writeFileSync("app/data/sanctuary-ptsd-150.ts", "export const ptsd150 = " + JSON.stringify(list150, null, 2) + ";\n", "utf8");
-console.log("✅ PTSD STEP 1 DONE: 150 Items Saved!");
+console.log("✅ PTSD STEP 1 DONE: app/data/sanctuary-ptsd-150.ts Created!");

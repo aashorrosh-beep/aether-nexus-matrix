@@ -38,4 +38,4 @@ const partB = `
 `;
 
 fs.appendFileSync("app/sanctuary/ptsd-veterans/page.tsx", partB, "utf8");
-console.log("✅ PTSD STEP 2B DONE!");
+console.log("✅ PTSD STEP 3 DONE!");

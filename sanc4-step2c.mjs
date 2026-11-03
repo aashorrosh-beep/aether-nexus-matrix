@@ -32,4 +32,4 @@ const partC = `
 `;
 
 fs.appendFileSync("app/sanctuary/ptsd-veterans/page.tsx", partC, "utf8");
-console.log("✅ PTSD STEP 2C DONE: Full UI Assembled!");
+console.log("✅ PTSD STEP 4 DONE: Full UI Assembled!");

@@ -38,4 +38,4 @@ export default function PtsdVeteransSanctuary() {
 
 fs.mkdirSync("app/sanctuary/ptsd-veterans", { recursive: true });
 fs.writeFileSync("app/sanctuary/ptsd-veterans/page.tsx", partA, "utf8");
-console.log("✅ PTSD STEP 2A DONE!");
+console.log("✅ PTSD STEP 2 DONE!");
