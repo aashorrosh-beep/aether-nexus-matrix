@@ -17,13 +17,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "ALBS Controlled Margin Bundles • Insured ($2M Liability)",
       "condition": "Curated Single-Vendor Master Bundle (Ships Together in 1 Box)",
       "authentication": "ALBS Controlled Margin Bundles • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-2",
@@ -43,13 +49,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 18,
     "specs": {
       "manufacturer": "ALBS Controlled Margin Bundles • Insured ($2M Liability)",
       "condition": "Curated Single-Vendor Master Bundle (Ships Together in 1 Box)",
       "authentication": "ALBS Controlled Margin Bundles • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-3",
@@ -69,13 +81,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "ALBS Controlled Margin Bundles • Insured ($2M Liability)",
       "condition": "Curated Single-Vendor Master Bundle (Ships Together in 1 Box)",
       "authentication": "ALBS Controlled Margin Bundles • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-4",
@@ -95,13 +113,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 8,
     "specs": {
       "manufacturer": "ALBS Controlled Margin Bundles • Insured ($2M Liability)",
       "condition": "Curated Single-Vendor Master Bundle (Ships Together in 1 Box)",
       "authentication": "ALBS Controlled Margin Bundles • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-5",
@@ -121,13 +145,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "ALBS Controlled Margin Bundles • Insured ($2M Liability)",
       "condition": "Curated Single-Vendor Master Bundle (Ships Together in 1 Box)",
       "authentication": "ALBS Controlled Margin Bundles • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-6",
@@ -147,13 +177,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 22,
     "specs": {
       "manufacturer": "ALBS Controlled Margin Bundles • Insured ($2M Liability)",
       "condition": "Curated Single-Vendor Master Bundle (Ships Together in 1 Box)",
       "authentication": "ALBS Controlled Margin Bundles • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-7",
@@ -173,13 +209,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 5,
     "specs": {
       "manufacturer": "ALBS Controlled Margin Bundles • Insured ($2M Liability)",
       "condition": "Curated Single-Vendor Master Bundle (Ships Together in 1 Box)",
       "authentication": "ALBS Controlled Margin Bundles • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-8",
@@ -199,13 +241,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 9,
     "specs": {
       "manufacturer": "ALBS Controlled Margin Bundles • Insured ($2M Liability)",
       "condition": "Curated Single-Vendor Master Bundle (Ships Together in 1 Box)",
       "authentication": "ALBS Controlled Margin Bundles • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-9",
@@ -225,13 +273,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "ALBS Controlled Margin Bundles • Insured ($2M Liability)",
       "condition": "Curated Single-Vendor Master Bundle (Ships Together in 1 Box)",
       "authentication": "ALBS Controlled Margin Bundles • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-10",
@@ -257,7 +311,13 @@ export const christmasSuperstore100 = [
       "condition": "Curated Single-Vendor Master Bundle (Ships Together in 1 Box)",
       "authentication": "ALBS Controlled Margin Bundles • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-11",
@@ -277,13 +337,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "ALBS Controlled Margin Bundles • Insured ($2M Liability)",
       "condition": "Curated Single-Vendor Master Bundle (Ships Together in 1 Box)",
       "authentication": "ALBS Controlled Margin Bundles • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-12",
@@ -303,13 +369,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 7,
     "specs": {
       "manufacturer": "ALBS Controlled Margin Bundles • Insured ($2M Liability)",
       "condition": "Curated Single-Vendor Master Bundle (Ships Together in 1 Box)",
       "authentication": "ALBS Controlled Margin Bundles • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-13",
@@ -329,13 +401,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "ALBS Controlled Margin Bundles • Insured ($2M Liability)",
       "condition": "Curated Single-Vendor Master Bundle (Ships Together in 1 Box)",
       "authentication": "ALBS Controlled Margin Bundles • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-14",
@@ -355,13 +433,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 26,
     "specs": {
       "manufacturer": "ALBS Controlled Margin Bundles • Insured ($2M Liability)",
       "condition": "Curated Single-Vendor Master Bundle (Ships Together in 1 Box)",
       "authentication": "ALBS Controlled Margin Bundles • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-15",
@@ -381,13 +465,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 6,
     "specs": {
       "manufacturer": "ALBS Controlled Margin Bundles • Insured ($2M Liability)",
       "condition": "Curated Single-Vendor Master Bundle (Ships Together in 1 Box)",
       "authentication": "ALBS Controlled Margin Bundles • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-16",
@@ -407,13 +497,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "ALBS Controlled Margin Bundles • Insured ($2M Liability)",
       "condition": "Curated Single-Vendor Master Bundle (Ships Together in 1 Box)",
       "authentication": "ALBS Controlled Margin Bundles • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-17",
@@ -433,13 +529,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 18,
     "specs": {
       "manufacturer": "ALBS Controlled Margin Bundles • Insured ($2M Liability)",
       "condition": "Curated Single-Vendor Master Bundle (Ships Together in 1 Box)",
       "authentication": "ALBS Controlled Margin Bundles • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-18",
@@ -459,13 +561,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "ALBS Controlled Margin Bundles • Insured ($2M Liability)",
       "condition": "Curated Single-Vendor Master Bundle (Ships Together in 1 Box)",
       "authentication": "ALBS Controlled Margin Bundles • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-19",
@@ -485,13 +593,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 8,
     "specs": {
       "manufacturer": "ALBS Controlled Margin Bundles • Insured ($2M Liability)",
       "condition": "Curated Single-Vendor Master Bundle (Ships Together in 1 Box)",
       "authentication": "ALBS Controlled Margin Bundles • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-20",
@@ -511,13 +625,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "ALBS Controlled Margin Bundles • Insured ($2M Liability)",
       "condition": "Curated Single-Vendor Master Bundle (Ships Together in 1 Box)",
       "authentication": "ALBS Controlled Margin Bundles • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-21",
@@ -537,13 +657,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 22,
     "specs": {
       "manufacturer": "ALBS Controlled Margin Bundles • Insured ($2M Liability)",
       "condition": "Curated Single-Vendor Master Bundle (Ships Together in 1 Box)",
       "authentication": "ALBS Controlled Margin Bundles • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-22",
@@ -563,13 +689,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 5,
     "specs": {
       "manufacturer": "ALBS Controlled Margin Bundles • Insured ($2M Liability)",
       "condition": "Curated Single-Vendor Master Bundle (Ships Together in 1 Box)",
       "authentication": "ALBS Controlled Margin Bundles • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-23",
@@ -589,13 +721,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 9,
     "specs": {
       "manufacturer": "ALBS Controlled Margin Bundles • Insured ($2M Liability)",
       "condition": "Curated Single-Vendor Master Bundle (Ships Together in 1 Box)",
       "authentication": "ALBS Controlled Margin Bundles • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-24",
@@ -615,13 +753,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "ALBS Controlled Margin Bundles • Insured ($2M Liability)",
       "condition": "Curated Single-Vendor Master Bundle (Ships Together in 1 Box)",
       "authentication": "ALBS Controlled Margin Bundles • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-25",
@@ -647,7 +791,13 @@ export const christmasSuperstore100 = [
       "condition": "Curated Single-Vendor Master Bundle (Ships Together in 1 Box)",
       "authentication": "ALBS Controlled Margin Bundles • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-26",
@@ -667,13 +817,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "Etsy - Seller • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-27",
@@ -693,13 +849,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 7,
     "specs": {
       "manufacturer": "Etsy - Blastfrompasttoys • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-28",
@@ -719,13 +881,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "Etsy - Seller • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-29",
@@ -745,13 +913,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 26,
     "specs": {
       "manufacturer": "Etsy - TheOwlandtheCrow • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-30",
@@ -771,13 +945,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 6,
     "specs": {
       "manufacturer": "Etsy - LilliansCornerFinds • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-31",
@@ -797,13 +977,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "Etsy - Seller • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-32",
@@ -823,13 +1009,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 18,
     "specs": {
       "manufacturer": "Etsy - Seller • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-33",
@@ -849,13 +1041,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "Etsy - Blastfrompasttoys • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-34",
@@ -875,13 +1073,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 8,
     "specs": {
       "manufacturer": "Etsy - Seller • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-35",
@@ -901,13 +1105,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "Etsy - TheOwlandtheCrow • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-36",
@@ -927,13 +1137,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 22,
     "specs": {
       "manufacturer": "Etsy - LilliansCornerFinds • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-37",
@@ -953,13 +1169,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 5,
     "specs": {
       "manufacturer": "Etsy - Seller • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-38",
@@ -979,13 +1201,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 9,
     "specs": {
       "manufacturer": "Etsy - Seller • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-39",
@@ -1005,13 +1233,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "Etsy - Blastfrompasttoys • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-40",
@@ -1037,7 +1271,13 @@ export const christmasSuperstore100 = [
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-41",
@@ -1057,13 +1297,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "Etsy - TheOwlandtheCrow • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-42",
@@ -1083,13 +1329,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 7,
     "specs": {
       "manufacturer": "Etsy - LilliansCornerFinds • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-43",
@@ -1109,13 +1361,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "Etsy - Seller • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-44",
@@ -1135,13 +1393,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 26,
     "specs": {
       "manufacturer": "Etsy - Seller • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-45",
@@ -1161,13 +1425,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 6,
     "specs": {
       "manufacturer": "Etsy - Blastfrompasttoys • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-46",
@@ -1187,13 +1457,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "Etsy - Seller • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-47",
@@ -1213,13 +1489,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 18,
     "specs": {
       "manufacturer": "Etsy - TheOwlandtheCrow • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-48",
@@ -1239,13 +1521,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "Etsy - LilliansCornerFinds • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-49",
@@ -1265,13 +1553,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 8,
     "specs": {
       "manufacturer": "Etsy - Seller • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-50",
@@ -1291,13 +1585,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "Etsy - Seller • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $9.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-51",
@@ -1317,13 +1617,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 22,
     "specs": {
       "manufacturer": "Lowe's Outdoor Holiday Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Lowe's Outdoor Holiday Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-52",
@@ -1343,13 +1649,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 5,
     "specs": {
       "manufacturer": "Lowe's Outdoor Holiday Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Lowe's Outdoor Holiday Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-53",
@@ -1369,13 +1681,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 9,
     "specs": {
       "manufacturer": "Lowe's Outdoor Holiday Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Lowe's Outdoor Holiday Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-54",
@@ -1395,13 +1713,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "Lowe's Outdoor Holiday Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Lowe's Outdoor Holiday Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-55",
@@ -1427,7 +1751,13 @@ export const christmasSuperstore100 = [
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Lowe's Outdoor Holiday Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-56",
@@ -1447,13 +1777,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "Lowe's Outdoor Holiday Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Lowe's Outdoor Holiday Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-57",
@@ -1473,13 +1809,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 7,
     "specs": {
       "manufacturer": "Lowe's Outdoor Holiday Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Lowe's Outdoor Holiday Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-58",
@@ -1499,13 +1841,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "Lowe's Outdoor Holiday Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Lowe's Outdoor Holiday Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-59",
@@ -1525,13 +1873,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 26,
     "specs": {
       "manufacturer": "Lowe's Outdoor Holiday Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Lowe's Outdoor Holiday Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-60",
@@ -1551,13 +1905,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 6,
     "specs": {
       "manufacturer": "Lowe's Outdoor Holiday Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Lowe's Outdoor Holiday Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-61",
@@ -1577,13 +1937,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "Lowe's Outdoor Holiday Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Lowe's Outdoor Holiday Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-62",
@@ -1603,13 +1969,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 18,
     "specs": {
       "manufacturer": "Lowe's Outdoor Holiday Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Lowe's Outdoor Holiday Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-63",
@@ -1629,13 +2001,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "Lowe's Outdoor Holiday Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Lowe's Outdoor Holiday Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-64",
@@ -1655,13 +2033,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 8,
     "specs": {
       "manufacturer": "Lowe's Outdoor Holiday Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Lowe's Outdoor Holiday Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-65",
@@ -1681,13 +2065,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "Lowe's Outdoor Holiday Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Lowe's Outdoor Holiday Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-66",
@@ -1707,13 +2097,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 22,
     "specs": {
       "manufacturer": "Lowe's Outdoor Holiday Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Lowe's Outdoor Holiday Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-67",
@@ -1733,13 +2129,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 5,
     "specs": {
       "manufacturer": "Lowe's Outdoor Holiday Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Lowe's Outdoor Holiday Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-68",
@@ -1759,13 +2161,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 9,
     "specs": {
       "manufacturer": "Lowe's Outdoor Holiday Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Lowe's Outdoor Holiday Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-69",
@@ -1785,13 +2193,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "Lowe's Outdoor Holiday Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Lowe's Outdoor Holiday Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-70",
@@ -1817,7 +2231,13 @@ export const christmasSuperstore100 = [
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Lowe's Outdoor Holiday Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-71",
@@ -1837,13 +2257,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "Lowe's Outdoor Holiday Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Lowe's Outdoor Holiday Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-72",
@@ -1863,13 +2289,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 7,
     "specs": {
       "manufacturer": "Lowe's Outdoor Holiday Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Lowe's Outdoor Holiday Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-73",
@@ -1889,13 +2321,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "Lowe's Outdoor Holiday Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Lowe's Outdoor Holiday Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-74",
@@ -1915,13 +2353,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 26,
     "specs": {
       "manufacturer": "Lowe's Outdoor Holiday Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Lowe's Outdoor Holiday Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-75",
@@ -1941,13 +2385,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 6,
     "specs": {
       "manufacturer": "Lowe's Outdoor Holiday Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Lowe's Outdoor Holiday Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $9.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-76",
@@ -1967,13 +2417,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "Hobby Lobby & Michaels Decor Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Decor Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-77",
@@ -1993,13 +2449,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 18,
     "specs": {
       "manufacturer": "Hobby Lobby & Michaels Decor Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Decor Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-78",
@@ -2019,13 +2481,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "Hobby Lobby & Michaels Decor Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Decor Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-79",
@@ -2045,13 +2513,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 8,
     "specs": {
       "manufacturer": "Hobby Lobby & Michaels Decor Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Decor Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-80",
@@ -2071,13 +2545,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "Hobby Lobby & Michaels Decor Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Decor Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-81",
@@ -2097,13 +2577,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 22,
     "specs": {
       "manufacturer": "Hobby Lobby & Michaels Decor Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Decor Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-82",
@@ -2123,13 +2609,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 5,
     "specs": {
       "manufacturer": "Hobby Lobby & Michaels Decor Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Decor Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-83",
@@ -2149,13 +2641,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 9,
     "specs": {
       "manufacturer": "Hobby Lobby & Michaels Decor Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Decor Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-84",
@@ -2175,13 +2673,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "Hobby Lobby & Michaels Decor Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Decor Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-85",
@@ -2207,7 +2711,13 @@ export const christmasSuperstore100 = [
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Decor Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-86",
@@ -2227,13 +2737,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "Hobby Lobby & Michaels Decor Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Decor Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-87",
@@ -2253,13 +2769,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 7,
     "specs": {
       "manufacturer": "Hobby Lobby & Michaels Decor Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Decor Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-88",
@@ -2279,13 +2801,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "Hobby Lobby & Michaels Decor Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Decor Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-89",
@@ -2305,13 +2833,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 26,
     "specs": {
       "manufacturer": "Hobby Lobby & Michaels Decor Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Decor Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-90",
@@ -2331,13 +2865,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 6,
     "specs": {
       "manufacturer": "Hobby Lobby & Michaels Decor Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Decor Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-91",
@@ -2357,13 +2897,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "Hobby Lobby & Michaels Decor Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Decor Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-92",
@@ -2383,13 +2929,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 18,
     "specs": {
       "manufacturer": "Hobby Lobby & Michaels Decor Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Decor Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-93",
@@ -2409,13 +2961,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "Hobby Lobby & Michaels Decor Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Decor Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-94",
@@ -2435,13 +2993,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 8,
     "specs": {
       "manufacturer": "Hobby Lobby & Michaels Decor Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Decor Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-95",
@@ -2461,13 +3025,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "Hobby Lobby & Michaels Decor Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Decor Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-96",
@@ -2487,13 +3057,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 22,
     "specs": {
       "manufacturer": "Hobby Lobby & Michaels Decor Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Decor Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-97",
@@ -2513,13 +3089,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 5,
     "specs": {
       "manufacturer": "Hobby Lobby & Michaels Decor Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Decor Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-98",
@@ -2539,13 +3121,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 9,
     "specs": {
       "manufacturer": "Hobby Lobby & Michaels Decor Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Decor Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-99",
@@ -2565,13 +3153,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "Hobby Lobby & Michaels Decor Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Decor Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-100",
@@ -2597,7 +3191,13 @@ export const christmasSuperstore100 = [
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Hobby Lobby & Michaels Decor Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $9.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-101",
@@ -2617,13 +3217,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Michaels Complete Wrap Station • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-102",
@@ -2643,13 +3249,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 7,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Michaels Complete Wrap Station • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-103",
@@ -2669,13 +3281,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Michaels Complete Wrap Station • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-104",
@@ -2695,13 +3313,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 26,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Michaels Complete Wrap Station • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-105",
@@ -2721,13 +3345,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 6,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Michaels Complete Wrap Station • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-106",
@@ -2747,13 +3377,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Michaels Complete Wrap Station • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-107",
@@ -2773,13 +3409,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 18,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Michaels Complete Wrap Station • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-108",
@@ -2799,13 +3441,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Michaels Complete Wrap Station • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-109",
@@ -2825,13 +3473,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 8,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Michaels Complete Wrap Station • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-110",
@@ -2851,13 +3505,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Michaels Complete Wrap Station • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-111",
@@ -2877,13 +3537,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 22,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Michaels Complete Wrap Station • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-112",
@@ -2903,13 +3569,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 5,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Michaels Complete Wrap Station • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-113",
@@ -2929,13 +3601,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 9,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Michaels Complete Wrap Station • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-114",
@@ -2955,13 +3633,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Michaels Complete Wrap Station • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-115",
@@ -2987,7 +3671,13 @@ export const christmasSuperstore100 = [
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Michaels Complete Wrap Station • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-116",
@@ -3007,13 +3697,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Michaels Complete Wrap Station • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-117",
@@ -3033,13 +3729,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 7,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Michaels Complete Wrap Station • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-118",
@@ -3059,13 +3761,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Michaels Complete Wrap Station • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-119",
@@ -3085,13 +3793,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 26,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Michaels Complete Wrap Station • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-120",
@@ -3111,13 +3825,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 6,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Michaels Complete Wrap Station • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-121",
@@ -3137,13 +3857,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Michaels Complete Wrap Station • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-122",
@@ -3163,13 +3889,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 18,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Michaels Complete Wrap Station • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-123",
@@ -3189,13 +3921,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Michaels Complete Wrap Station • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-124",
@@ -3215,13 +3953,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 8,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Michaels Complete Wrap Station • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-125",
@@ -3241,13 +3985,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Michaels Complete Wrap Station • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-126",
@@ -3267,13 +4017,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 22,
     "specs": {
       "manufacturer": "Holiday Toy Wonder Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Holiday Toy Wonder Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-127",
@@ -3293,13 +4049,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 5,
     "specs": {
       "manufacturer": "Holiday Toy Wonder Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Holiday Toy Wonder Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-128",
@@ -3319,13 +4081,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 9,
     "specs": {
       "manufacturer": "Holiday Toy Wonder Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Holiday Toy Wonder Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-129",
@@ -3345,13 +4113,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "Holiday Toy Wonder Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Holiday Toy Wonder Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-130",
@@ -3377,7 +4151,13 @@ export const christmasSuperstore100 = [
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Holiday Toy Wonder Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-131",
@@ -3397,13 +4177,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "Holiday Toy Wonder Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Holiday Toy Wonder Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-132",
@@ -3423,13 +4209,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 7,
     "specs": {
       "manufacturer": "Holiday Toy Wonder Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Holiday Toy Wonder Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-133",
@@ -3449,13 +4241,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "Holiday Toy Wonder Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Holiday Toy Wonder Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-134",
@@ -3475,13 +4273,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 26,
     "specs": {
       "manufacturer": "Holiday Toy Wonder Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Holiday Toy Wonder Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-135",
@@ -3501,13 +4305,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 6,
     "specs": {
       "manufacturer": "Holiday Toy Wonder Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Holiday Toy Wonder Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-136",
@@ -3527,13 +4337,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "Holiday Toy Wonder Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Holiday Toy Wonder Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-137",
@@ -3553,13 +4369,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 18,
     "specs": {
       "manufacturer": "Holiday Toy Wonder Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Holiday Toy Wonder Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-138",
@@ -3579,13 +4401,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "Holiday Toy Wonder Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Holiday Toy Wonder Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-139",
@@ -3605,13 +4433,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 8,
     "specs": {
       "manufacturer": "Holiday Toy Wonder Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Holiday Toy Wonder Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-140",
@@ -3631,13 +4465,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "Holiday Toy Wonder Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Holiday Toy Wonder Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-141",
@@ -3657,13 +4497,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 22,
     "specs": {
       "manufacturer": "Holiday Toy Wonder Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Holiday Toy Wonder Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-142",
@@ -3683,13 +4529,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 5,
     "specs": {
       "manufacturer": "Holiday Toy Wonder Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Holiday Toy Wonder Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-143",
@@ -3709,13 +4561,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 9,
     "specs": {
       "manufacturer": "Holiday Toy Wonder Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Holiday Toy Wonder Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-144",
@@ -3735,13 +4593,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "Holiday Toy Wonder Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Holiday Toy Wonder Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-145",
@@ -3767,7 +4631,13 @@ export const christmasSuperstore100 = [
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Holiday Toy Wonder Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-146",
@@ -3787,13 +4657,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "Holiday Toy Wonder Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Holiday Toy Wonder Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-147",
@@ -3813,13 +4689,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 7,
     "specs": {
       "manufacturer": "Holiday Toy Wonder Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Holiday Toy Wonder Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-148",
@@ -3839,13 +4721,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "Holiday Toy Wonder Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Holiday Toy Wonder Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-149",
@@ -3865,13 +4753,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 26,
     "specs": {
       "manufacturer": "Holiday Toy Wonder Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Holiday Toy Wonder Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-150",
@@ -3891,13 +4785,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 6,
     "specs": {
       "manufacturer": "Holiday Toy Wonder Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Holiday Toy Wonder Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $9.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-151",
@@ -3917,13 +4817,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "Walmart - Beach Camera • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Electronics Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-152",
@@ -3943,13 +4849,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 18,
     "specs": {
       "manufacturer": "eBay - shane-cool • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Electronics Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-153",
@@ -3969,13 +4881,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "mercari.com • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Electronics Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-154",
@@ -3995,13 +4913,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 8,
     "specs": {
       "manufacturer": "Beachcamera • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Electronics Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-155",
@@ -4021,13 +4945,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "Poshmark • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Electronics Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-156",
@@ -4047,13 +4977,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 22,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Electronics Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-157",
@@ -4073,13 +5009,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 5,
     "specs": {
       "manufacturer": "Poshmark • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Electronics Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-158",
@@ -4099,13 +5041,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 9,
     "specs": {
       "manufacturer": "eBay - sallysfinevintagetoys • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Electronics Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-159",
@@ -4125,13 +5073,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "Poshmark • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Electronics Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-160",
@@ -4157,7 +5111,13 @@ export const christmasSuperstore100 = [
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Electronics Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-161",
@@ -4177,13 +5137,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "mercari.com • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Electronics Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-162",
@@ -4203,13 +5169,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 7,
     "specs": {
       "manufacturer": "Poshmark • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Electronics Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-163",
@@ -4229,13 +5201,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "mercari.com • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Electronics Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-164",
@@ -4255,13 +5233,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 26,
     "specs": {
       "manufacturer": "eBay - teddys_closet • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Electronics Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-165",
@@ -4281,13 +5265,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 6,
     "specs": {
       "manufacturer": "Mercari • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Electronics Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-166",
@@ -4307,13 +5297,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Electronics Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-167",
@@ -4333,13 +5329,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 18,
     "specs": {
       "manufacturer": "Mercari • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Electronics Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-168",
@@ -4359,13 +5361,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "Mercari • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Electronics Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-169",
@@ -4385,13 +5393,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 8,
     "specs": {
       "manufacturer": "Mercari • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Electronics Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-170",
@@ -4411,13 +5425,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "Mercari • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Electronics Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-171",
@@ -4437,13 +5457,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 22,
     "specs": {
       "manufacturer": "Mercari • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Electronics Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-172",
@@ -4463,13 +5489,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 5,
     "specs": {
       "manufacturer": "Mercari • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Electronics Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-173",
@@ -4489,13 +5521,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 9,
     "specs": {
       "manufacturer": "Mercari • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Electronics Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-174",
@@ -4515,13 +5553,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "Mercari • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Electronics Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $14.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-175",
@@ -4547,7 +5591,13 @@ export const christmasSuperstore100 = [
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Electronics Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $9.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-176",
@@ -4567,13 +5617,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "eBay - 411phonedude • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Mobile Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-177",
@@ -4593,13 +5649,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 7,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Mobile Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-178",
@@ -4619,13 +5681,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "Walmart - Simple Cell Inc • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Mobile Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-179",
@@ -4645,13 +5713,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 26,
     "specs": {
       "manufacturer": "PayMore Arcadia • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Mobile Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-180",
@@ -4671,13 +5745,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 6,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Mobile Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-181",
@@ -4697,13 +5777,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "Poshmark • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Mobile Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-182",
@@ -4723,13 +5809,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 18,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Mobile Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-183",
@@ -4749,13 +5841,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "swappa.com • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Mobile Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-184",
@@ -4775,13 +5873,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 8,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Mobile Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-185",
@@ -4801,13 +5905,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "Walmart - Reebelo • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Mobile Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-186",
@@ -4827,13 +5937,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 22,
     "specs": {
       "manufacturer": "eBay - vipoutlet • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Mobile Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-187",
@@ -4853,13 +5969,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 5,
     "specs": {
       "manufacturer": "Poshmark • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Mobile Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-188",
@@ -4879,13 +6001,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 9,
     "specs": {
       "manufacturer": "eBay - highclassmobile • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Mobile Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-189",
@@ -4905,13 +6033,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "espacomulhermais.com.br • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Mobile Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-190",
@@ -4937,7 +6071,13 @@ export const christmasSuperstore100 = [
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Mobile Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-191",
@@ -4957,13 +6097,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "Poshmark • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Mobile Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-192",
@@ -4983,13 +6129,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 7,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Mobile Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-193",
@@ -5009,13 +6161,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "Walmart - Reebelo • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Mobile Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-194",
@@ -5035,13 +6193,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 26,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Mobile Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-195",
@@ -5061,13 +6225,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 6,
     "specs": {
       "manufacturer": "Poshmark • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Mobile Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-196",
@@ -5087,13 +6257,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Mobile Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-197",
@@ -5113,13 +6289,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 18,
     "specs": {
       "manufacturer": "Walmart - Reebelo • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Mobile Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-198",
@@ -5139,13 +6321,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Mobile Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-199",
@@ -5165,13 +6353,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 8,
     "specs": {
       "manufacturer": "Poshmark • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Mobile Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-200",
@@ -5191,13 +6385,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "eBay • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy Mobile Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $9.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-201",
@@ -5217,13 +6417,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 22,
     "specs": {
       "manufacturer": "Best Buy & Lowe's Appliance Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy & Lowe's Appliance Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-202",
@@ -5243,13 +6449,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 5,
     "specs": {
       "manufacturer": "Best Buy & Lowe's Appliance Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy & Lowe's Appliance Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-203",
@@ -5269,13 +6481,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 9,
     "specs": {
       "manufacturer": "Best Buy & Lowe's Appliance Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy & Lowe's Appliance Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-204",
@@ -5295,13 +6513,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "Best Buy & Lowe's Appliance Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy & Lowe's Appliance Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-205",
@@ -5327,7 +6551,13 @@ export const christmasSuperstore100 = [
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy & Lowe's Appliance Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-206",
@@ -5347,13 +6577,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "Best Buy & Lowe's Appliance Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy & Lowe's Appliance Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-207",
@@ -5373,13 +6609,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 7,
     "specs": {
       "manufacturer": "Best Buy & Lowe's Appliance Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy & Lowe's Appliance Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-208",
@@ -5399,13 +6641,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "Best Buy & Lowe's Appliance Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy & Lowe's Appliance Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-209",
@@ -5425,13 +6673,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 26,
     "specs": {
       "manufacturer": "Best Buy & Lowe's Appliance Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy & Lowe's Appliance Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-210",
@@ -5451,13 +6705,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 6,
     "specs": {
       "manufacturer": "Best Buy & Lowe's Appliance Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy & Lowe's Appliance Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-211",
@@ -5477,13 +6737,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "Best Buy & Lowe's Appliance Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy & Lowe's Appliance Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-212",
@@ -5503,13 +6769,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 18,
     "specs": {
       "manufacturer": "Best Buy & Lowe's Appliance Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy & Lowe's Appliance Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-213",
@@ -5529,13 +6801,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "Best Buy & Lowe's Appliance Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy & Lowe's Appliance Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-214",
@@ -5555,13 +6833,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 8,
     "specs": {
       "manufacturer": "Best Buy & Lowe's Appliance Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy & Lowe's Appliance Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-215",
@@ -5581,13 +6865,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "Best Buy & Lowe's Appliance Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy & Lowe's Appliance Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-216",
@@ -5607,13 +6897,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 22,
     "specs": {
       "manufacturer": "Best Buy & Lowe's Appliance Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy & Lowe's Appliance Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-217",
@@ -5633,13 +6929,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 5,
     "specs": {
       "manufacturer": "Best Buy & Lowe's Appliance Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy & Lowe's Appliance Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-218",
@@ -5659,13 +6961,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 9,
     "specs": {
       "manufacturer": "Best Buy & Lowe's Appliance Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy & Lowe's Appliance Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-219",
@@ -5685,13 +6993,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "Best Buy & Lowe's Appliance Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy & Lowe's Appliance Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-220",
@@ -5717,7 +7031,13 @@ export const christmasSuperstore100 = [
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy & Lowe's Appliance Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-221",
@@ -5737,13 +7057,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "Best Buy & Lowe's Appliance Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy & Lowe's Appliance Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-222",
@@ -5763,13 +7089,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 7,
     "specs": {
       "manufacturer": "Best Buy & Lowe's Appliance Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy & Lowe's Appliance Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-223",
@@ -5789,13 +7121,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "Best Buy & Lowe's Appliance Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy & Lowe's Appliance Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-224",
@@ -5815,13 +7153,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 26,
     "specs": {
       "manufacturer": "Best Buy & Lowe's Appliance Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy & Lowe's Appliance Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-225",
@@ -5841,13 +7185,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 6,
     "specs": {
       "manufacturer": "Best Buy & Lowe's Appliance Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Best Buy & Lowe's Appliance Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $9.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-226",
@@ -5867,13 +7217,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "Apparel & Home Gym Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Apparel & Home Gym Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-227",
@@ -5893,13 +7249,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 18,
     "specs": {
       "manufacturer": "Apparel & Home Gym Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Apparel & Home Gym Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-228",
@@ -5919,13 +7281,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "Apparel & Home Gym Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Apparel & Home Gym Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-229",
@@ -5945,13 +7313,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 8,
     "specs": {
       "manufacturer": "Apparel & Home Gym Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Apparel & Home Gym Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-230",
@@ -5971,13 +7345,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "Apparel & Home Gym Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Apparel & Home Gym Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-231",
@@ -5997,13 +7377,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 22,
     "specs": {
       "manufacturer": "Apparel & Home Gym Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Apparel & Home Gym Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-232",
@@ -6023,13 +7409,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 5,
     "specs": {
       "manufacturer": "Apparel & Home Gym Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Apparel & Home Gym Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-233",
@@ -6049,13 +7441,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 9,
     "specs": {
       "manufacturer": "Apparel & Home Gym Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Apparel & Home Gym Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-234",
@@ -6075,13 +7473,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "Apparel & Home Gym Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Apparel & Home Gym Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-235",
@@ -6107,7 +7511,13 @@ export const christmasSuperstore100 = [
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Apparel & Home Gym Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-236",
@@ -6127,13 +7537,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "Apparel & Home Gym Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Apparel & Home Gym Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-237",
@@ -6153,13 +7569,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 7,
     "specs": {
       "manufacturer": "Apparel & Home Gym Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Apparel & Home Gym Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-238",
@@ -6179,13 +7601,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "Apparel & Home Gym Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Apparel & Home Gym Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-239",
@@ -6205,13 +7633,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 26,
     "specs": {
       "manufacturer": "Apparel & Home Gym Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Apparel & Home Gym Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-240",
@@ -6231,13 +7665,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 6,
     "specs": {
       "manufacturer": "Apparel & Home Gym Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Apparel & Home Gym Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-241",
@@ -6257,13 +7697,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "Apparel & Home Gym Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Apparel & Home Gym Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-242",
@@ -6283,13 +7729,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 18,
     "specs": {
       "manufacturer": "Apparel & Home Gym Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Apparel & Home Gym Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $3.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-243",
@@ -6309,13 +7761,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 2,
     "specs": {
       "manufacturer": "Apparel & Home Gym Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Apparel & Home Gym Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-244",
@@ -6335,13 +7793,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 8,
     "specs": {
       "manufacturer": "Apparel & Home Gym Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Apparel & Home Gym Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-245",
@@ -6361,13 +7825,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 4,
     "specs": {
       "manufacturer": "Apparel & Home Gym Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Apparel & Home Gym Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-246",
@@ -6387,13 +7857,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 22,
     "specs": {
       "manufacturer": "Apparel & Home Gym Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Apparel & Home Gym Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-247",
@@ -6413,13 +7889,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 5,
     "specs": {
       "manufacturer": "Apparel & Home Gym Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Apparel & Home Gym Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-248",
@@ -6439,13 +7921,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 9,
     "specs": {
       "manufacturer": "Apparel & Home Gym Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Apparel & Home Gym Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "MOVING_FAST",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-249",
@@ -6465,13 +7953,19 @@ export const christmasSuperstore100 = [
     ],
     "video": true,
     "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "count": 15,
+    "count": 3,
     "specs": {
       "manufacturer": "Apparel & Home Gym Wing • Insured ($2M Liability)",
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Apparel & Home Gym Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $5.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "URGENT_LOW",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   },
   {
     "id": "SEASONAL250-250",
@@ -6497,6 +7991,12 @@ export const christmasSuperstore100 = [
       "condition": "Brand New Factory Sealed • Protected Margin",
       "authentication": "Apparel & Home Gym Wing • 3+ Photos, Video & Spec Sheet",
       "shipping": "Base Insured Shipping: $9.99 (+ $2.99 if combined with separate vendors) + 8.25% Tax & Card Fee at Checkout"
-    }
+    },
+    "stockTier": "DEEP_STOCK",
+    "backupSuppliers": [
+      "Primary Direct Hub",
+      "Backup Hub A (Auto-Swap <=2)",
+      "ALBS Concierge Desk"
+    ]
   }
 ];

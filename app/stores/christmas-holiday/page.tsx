@@ -131,6 +131,17 @@ export default function ChristmasSuperstorePage() {
               <div onClick={() => { setSelected(item); setImgIdx(0); }} className="relative aspect-square w-full bg-transparent cursor-pointer overflow-hidden group">
                 <img src={item.media[0]} alt={item.name} className="w-full h-full object-cover p-0 m-0 block group-hover:scale-105 transition duration-300" />
                 <span className="absolute top-1.5 left-1.5 bg-black/85 text-amber-300 text-[10px] font-black px-2 py-0.5">{item.isCuratedBundle ? "🎁 1-BOX BUNDLE" : "📸 3 Photos + Video"}</span>
+                {(item.count || 4) <= 5 ? (
+                  <div className="absolute top-3 -right-9 rotate-45 bg-red-600 text-white text-[10px] font-black uppercase py-1 w-36 text-center shadow-lg border-y border-amber-300 animate-pulse">🔥 ONLY {item.count || 3} LEFT!</div>
+                ) : (item.count || 8) <= 11 ? (
+                  <div className="absolute top-3 -right-9 rotate-45 bg-amber-400 text-black text-[10px] font-black uppercase py-1 w-36 text-center shadow-lg">⚡ {item.count} LEFT</div>
+                ) : (
+                  <div className="absolute top-1.5 right-1.5 bg-emerald-500 text-black text-[10px] font-black px-2 py-0.5">✅ {item.count} In Stock</div>
+                )}
+                <div className={(item.count || 4) <= 5 ? "absolute bottom-0 inset-x-0 px-2 py-1 text-[10px] font-black bg-red-700/95 text-white flex justify-between" : "absolute bottom-0 inset-x-0 px-2 py-1 text-[10px] font-black bg-black/80 text-emerald-400 flex justify-between"}>
+                  <span>{(item.count || 4) <= 5 ? "⚠️ HURRY — ONLY " + (item.count || 3) + " LEFT!" : "✅ " + (item.count || 12) + " IN STOCK • BACKUP READY"}</span>
+                  <span>🔄 Auto-Shift</span>
+                </div>
               </div>
               <div className="p-2.5 bg-zinc-950">
                 <h3 onClick={() => { setSelected(item); setImgIdx(0); }} className="text-xs font-bold text-white line-clamp-2 cursor-pointer">{item.name}</h3>
