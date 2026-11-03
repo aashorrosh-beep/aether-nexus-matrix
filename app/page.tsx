@@ -65,14 +65,14 @@ const matrixCogs = [
 const partyCogs = [
   { id: "p1", name: "🎄 1. Holiday Indoor Spruce, Outdoor Lights/Donkeys, Thanksgiving & Games (4 Stores)", desc: "Indoor Christmas Spruce, Outdoor Lights, Friendsgiving & Adult/Kid Wreath Games", rooms: ["lapooza-holiday-indoor-spruce","lapooza-holiday-outdoor-lights","lapooza-thanksgiving-harvest","lapooza-holiday-games-adult-kids"] },
   { id: "p2", name: "🎂 2. Boys & Girls Birthdays by Age (1–5, 5–10, 10–16) + Free AI Face-Swap (6 Stores)", desc: "Shrek, Dino, Monster Truck, Pixel Craft, Frozen, Unicorn, Pop Star & Sweet 16 (88–170 Pc Bulk or Single!)", rooms: ["lapooza-boys-ages-1-5","lapooza-boys-ages-5-10","lapooza-boys-ages-10-16","lapooza-girls-ages-1-5","lapooza-girls-ages-5-10","lapooza-girls-ages-10-16"] },
-  { id: "p3", name: "🎈 3. Home Helium Tanks, 150-Pc Balloon Archways, Quinceañeras, Weddings & Bachelor VIP (5 Stores)", desc: "Disposable Helium Canisters, Electric Blowers, Circle Arch Stands, Quinceañera & Bridal Suites", rooms: ["lapooza-balloon-arch-helium","new-life-expecting-superstore","baby-shower-gender-reveal-boutique","last-minute-48hr-santa-express","lapooza-quinceanera-royale","lapooza-wedding-bridal","lapooza-bachelorette-squad","lapooza-bachelor-last-ride"] }
+  { id: "p3", name: "🎈 3. Home Helium Tanks, 150-Pc Balloon Archways, Quinceañeras, Weddings & Bachelor VIP (5 Stores)", desc: "Disposable Helium Canisters, Electric Blowers, Circle Arch Stands, Quinceañera & Bridal Suites", rooms: ["lapooza-balloon-arch-helium","baby-shower-gender-reveal-boutique","last-minute-48hr-santa-express","lapooza-quinceanera-royale","lapooza-wedding-bridal","lapooza-bachelorette-squad","lapooza-bachelor-last-ride"] }
 ];
 
 const MALL_DIRECTORY = [
   { id: "sanctuary", badge: "MALL #1 • FEATURED MISSION & WELLNESS HUB", title: "1. The Beacon of Hope & Holistic Wellness Sanctuary", subtitle: "20 Storefronts + 5 Free 12-Mile U.S. ZIP Radars & CPR/Choking Certification Board", explain: "Includes: Autism & Sensory Superstore, When You’re Expecting, Muscular Dystrophy, Deaf & Blind, PTSD Recovery, Holistic Longevity/Shilajit, GNC Nutrition & The Scrub Lounge (Verified Direct Value).", border: "border-emerald-500", bg: "from-emerald-950/90 to-zinc-950", accent: "text-emerald-400", btnBg: "bg-emerald-500 hover:bg-emerald-400 text-black", cogs: wellCogs, hasSanctuaryPortals: true },
   { id: "nostalgia", badge: "MALL #2 • HOLIDAY, RETRO & CUSTOM STUDIO", title: "2. Nostalgia & Q4 Holiday Mall", subtitle: "44 Storefronts • 5 Corridors: Holiday Gags, 150-Item Squishies, 60s–Y2K, Retro Gaming & Custom Press", explain: "Includes: The Christmas Story (110 Items), Ugly Sweaters, Holiday Fudge & Bakery, Rare Squishmallows, Pop Mart Blind Boxes, Vintage Streetwear, Retro Gaming & Custom Engraving/Offset Print.", border: "border-pink-500", bg: "from-pink-950/80 to-zinc-950", accent: "text-pink-400", btnBg: "bg-pink-500 hover:bg-pink-400 text-white", cogs: nostCogs },
   { id: "trendalopolis", badge: "MALL #3 • TOP 50 U.S. TRENDING CATEGORIES", title: "3. Trendalopolis • Trending America", subtitle: "50 Storefronts • 5 Corridors • 750 Live-Market Items Across America’s Hottest Categories", explain: "Includes: 40oz Tumblers, Qi2 Power Banks, Titanium Smart Rings, Red-Light LED Masks, Korean Glass-Skin, Nugget Ice Makers, Rotating Pizza Ovens, Walking Pads, Cold Plunge & Freeze-Dried Candy.", border: "border-amber-500", bg: "from-amber-950/80 to-zinc-950", accent: "text-amber-400", btnBg: "bg-amber-400 hover:bg-amber-300 text-black", cogs: trendCogs },
-  { id: "sportlick", badge: "MALL #4 • SPORTS, OUTDOORS & POWERSPORTS", title: "4. Sportlick • The Sports & Outdoors Plaza", subtitle: "12 Super-Storefronts • 4 Corridors • Team Sports, Hunting, Fishing, Golf & Four-Wheelers (ATV)", explain: "Includes: Baseball Bats & Gloves, Football Gridiron, Basketball Hoops, Bicycling, Four-Wheelers (ATV/UTV Winches & Ramps), Golf Simulators, T700 Pickleball, Compound Bows, Fishing Sonar & Garage Gym.", border: "border-lime-500", bg: "from-lime-950/80 to-zinc-950", accent: "text-lime-400", btnBg: "bg-lime-400 hover:bg-lime-300 text-black", cogs: sportCogs },
+  { id: "sportlick", badge: "MALL #4 • SPORTS, OUTDOORS & POWERSPORTS", title: "4. Sportsflix • The Sports & Outdoors Plaza", subtitle: "12 Super-Storefronts • 4 Corridors • Team Sports, Hunting, Fishing, Golf & Four-Wheelers (ATV)", explain: "Includes: Baseball Bats & Gloves, Football Gridiron, Basketball Hoops, Bicycling, Four-Wheelers (ATV/UTV Winches & Ramps), Golf Simulators, T700 Pickleball, Compound Bows, Fishing Sonar & Garage Gym.", border: "border-lime-500", bg: "from-lime-950/80 to-zinc-950", accent: "text-lime-400", btnBg: "bg-lime-400 hover:bg-lime-300 text-black", cogs: sportCogs },
   { id: "matrix", badge: "MALL #5 • NEXT-GEN TECH, AI & TACTICAL", title: "5. The Matrix • Future Tech & AI", subtitle: "47 Storefronts • 3 Corridors • AI Workstations, Robotics, Drones, Espresso Bars & Smart Home", explain: "Includes: NVIDIA/AI Core, Recon & Racing Drones, VR Immersion Bays, Thermal Optics, Faraday/EMP Shielding, Home Barista Espresso Bars, Luxury Smart Pet Gear & Neo-Squish Pods.", border: "border-cyan-500", bg: "from-cyan-950/80 to-zinc-950", accent: "text-cyan-400", btnBg: "bg-cyan-400 hover:bg-cyan-300 text-black", cogs: matrixCogs }
 ];
 
@@ -88,6 +88,35 @@ export default function MallOfMallsLobby() {
 
   return (
     <main className="min-h-screen bg-transparent text-white font-sans relative overflow-x-hidden pb-20">
+<div className="w-full max-w-7xl mx-auto px-4 pt-4 pb-2 flex flex-col gap-3">
+  
+  <div className="bg-gradient-to-r from-red-950 to-emerald-950 border-2 border-amber-400 rounded-3xl p-4 shadow-xl flex flex-col md:flex-row items-start md:items-center justify-between gap-3">
+    <div>
+      <span className="inline-block bg-amber-400 text-black font-black text-xs px-2.5 py-0.5 rounded-full uppercase mb-1">🎄 Top 100 In-Stock Bestsellers</span>
+      <h2 className="text-xl md:text-2xl font-black text-white">🎁 Holiday Favorites & Monday Wishlist Top 100 Superstore</h2>
+      <p className="text-zinc-200 text-xs mt-0.5">Tight 5%–6% High-Velocity Pricing • Beats Big-Box Landed Price Even After Shipping & Card Fees</p>
+    </div>
+    <a href="/nostalgia/holiday-wishlist-100-superstore" className="px-4 py-2.5 rounded-xl bg-amber-400 text-black font-black text-xs uppercase shrink-0 shadow-lg">🎄 Shop Holiday Top 100 →</a>
+  </div>
+  
+  <div className="bg-gradient-to-r from-rose-950 to-pink-900 border-2 border-pink-300 rounded-3xl p-4 shadow-xl flex flex-col md:flex-row items-start md:items-center justify-between gap-3">
+    <div>
+      <span className="inline-block bg-amber-400 text-black font-black text-xs px-2.5 py-0.5 rounded-full uppercase mb-1">✨ Joyful Motherhood Wing</span>
+      <h2 className="text-xl md:text-2xl font-black text-white">👶 When You're Expecting, Nursery & Free Infant/Adult CPR Classes</h2>
+      <p className="text-zinc-200 text-xs mt-0.5">100% Dedicated Motherhood Wing • Equal To or 10% Below Specialty Competitors</p>
+    </div>
+    <a href="/nostalgia/new-life-expecting-superstore" className="px-4 py-2.5 rounded-xl bg-amber-400 text-black font-black text-xs uppercase shrink-0 shadow-lg">🍼 Shop Expecting + CPR →</a>
+  </div>
+  
+  <div className="bg-gradient-to-r from-fuchsia-950 to-indigo-950 border-2 border-fuchsia-400 rounded-3xl p-4 shadow-xl flex flex-col md:flex-row items-start md:items-center justify-between gap-3">
+    <div>
+      <span className="inline-block bg-amber-400 text-black font-black text-xs px-2.5 py-0.5 rounded-full uppercase mb-1">🎉 10%–20% Below Custom Shops</span>
+      <h2 className="text-xl md:text-2xl font-black text-white">🎈 Party Lapooza Mega-Store + Live AI Face-Swap & Customizer</h2>
+      <p className="text-zinc-200 text-xs mt-0.5">88–170 Pc Room Boxes • 3+ Vendor Photos, Video & Live Customization Examples</p>
+    </div>
+    <a href="/party-lapooza-ai-studio.html" className="px-4 py-2.5 rounded-xl bg-amber-400 text-black font-black text-xs uppercase shrink-0 shadow-lg">🎨 Open Customizer & Kits →</a>
+  </div>
+</div>
       <div className="bg-emerald-950/95 border-b border-emerald-500/50 py-2.5 px-4 text-center text-xs">
         <span className="font-black uppercase text-white">💚 THE ALBS 3% LEGACY IMPACT CHARTER:</span> Every purchase dedicates <span className="text-yellow-400 font-bold">1% to Texas Children&apos;s Hospital</span> • <span className="text-cyan-300 font-bold">1% to the ALBS Autism &amp; Family Grant Fund</span> • <span className="text-red-400 font-bold">1% to Military Veterans</span>
       </div>
