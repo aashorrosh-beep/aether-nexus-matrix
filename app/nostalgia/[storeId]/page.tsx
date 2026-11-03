@@ -213,7 +213,7 @@ export default function StorefrontPage({ params }: { params: Promise<{ storeId: 
                   {activeImgIdx === 99 && selectedItem.trailerUrl ? (
                     <video src={selectedItem.trailerUrl} controls autoPlay className="w-full h-full object-cover" />
                   ) : (
-                    <img src={(selectedItem.media || [])[activeImgIdx] || (selectedItem.media || [])[0]} alt={selectedItem.name} className="w-full h-full object-contain p-2" />
+                    <img src={(selectedItem.media || [])[activeImgIdx] || (selectedItem.media || [])[0]} alt={selectedItem.name} className="w-full h-full object-cover p-0 m-0 block" />
                   )}
                 </div>
                 <div className="flex gap-2 overflow-x-auto pb-1">

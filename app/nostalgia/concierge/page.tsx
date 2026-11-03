@@ -1,50 +1,102 @@
 "use client";
-import { useState, useEffect } from "react";
-import Link from "next/link";
+import React, { useState } from "react";
 
-export default function ConciergeTrapPage() {
-  const [item, setItem] = useState("");
-  const [email, setEmail] = useState("");
-  const [notes, setNotes] = useState("");
-  const [sent, setSent] = useState(false);
+export default function ConciergePage() {
+  const [query, setQuery] = useState("");
+  const [contact, setContact] = useState("");
+  const [loading, setLoading] = useState(false);
+  const [result, setResult] = useState<any>(null);
+  const [buyingId, setBuyingId] = useState("");
 
-  useEffect(() => {
-    const q = new URLSearchParams(window.location.search).get("q");
-    if (q) setItem(q);
-  }, []);
-
-  const submit = async (e: React.FormEvent) => {
+  const handleSource = async (e: React.FormEvent) => {
     e.preventDefault();
-    if (!item || !email) return;
-    fetch("/api/vip-signup", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ email, item, notes, sla: "Within 3 Hours", hold: "24-Hour Hold" })
-    }).catch(() => {});
-    setSent(true);
+    if (!query.trim()) return;
+    setLoading(true);
+    try {
+      const r = await fetch("/api/concierge", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ query, contact })
+      });
+      const d = await r.json();
+      setResult(d);
+    } catch (err) {}
+    setLoading(false);
+  };
+
+  const buyNow = async (item: any) => {
+    setBuyingId(item.id);
+    try {
+      const r = await fetch("/api/checkout", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ items: [item] })
+      });
+      const d = await r.json();
+      if (d?.url) window.location.href = d.url;
+    } catch (e) {}
+    setBuyingId("");
   };
 
   return (
-    <main className="min-h-screen bg-zinc-950 text-white p-6 md:p-12 font-sans">
-      <div className="max-w-2xl mx-auto bg-zinc-900 border-2 border-amber-400 rounded-3xl p-6 md:p-8 space-y-5 shadow-2xl">
-        <div className="flex justify-between items-center border-b border-zinc-800 pb-4">
-          <span className="bg-amber-400 text-black font-black text-xs uppercase px-3 py-1 rounded-full">🎩 3-HOUR SOURCING • 24-HOUR HOLD</span>
-          <Link href="/" className="bg-white text-black font-black text-xs uppercase px-4 py-2 rounded-xl">← Back to Mall</Link>
-        </div>
-        <h1 className="text-2xl md:text-4xl font-black uppercase text-white">We Will Get You Anything Within <span className="text-amber-400">3 Hours</span> &amp; Hold It For <span className="text-emerald-400">24 Hours!</span></h1>
-        <p className="text-xs text-zinc-300">Don&apos;t leave our mall! Tell us the exact item, brand, size, or gift you want. Our AI &amp; Wholesale Desk locates it at a lower price, emails your private checkout link within <b>3 Hours</b>, and locks it on a strict <b>24-Hour Hold</b>.</p>
-        {sent ? (
-          <div className="bg-emerald-950 border-2 border-emerald-400 rounded-2xl p-5 text-center space-y-2">
-            <div className="text-lg font-black text-emerald-300 uppercase">✅ 3-Hour Sourcing Drone Deployed!</div>
-            <p className="text-xs text-zinc-200">Watch <b>{email}</b> within the next 3 hours for your private price-beat link &amp; 24-hour reservation lock for <b>{item}</b>.</p>
-          </div>
-        ) : (
-          <form onSubmit={submit} className="space-y-3">
-            <input required value={item} onChange={e => setItem(e.target.value)} placeholder="1. What exact item do you want us to get for you?" className="w-full bg-black border-2 border-amber-400 rounded-xl px-4 py-3 text-sm text-white" />
-            <input required type="email" value={email} onChange={e => setEmail(e.target.value)} placeholder="2. Your Email Address (for your 3-Hour Quote & 24-Hr Hold Link)" className="w-full bg-black border border-zinc-700 rounded-xl px-4 py-3 text-sm text-white" />
-            <input value={notes} onChange={e => setNotes(e.target.value)} placeholder="3. Optional: Target Price to Beat, Size, Color, or Quantity" className="w-full bg-black border border-zinc-700 rounded-xl px-4 py-3 text-sm text-white" />
-            <button type="submit" className="w-full bg-amber-400 hover:bg-amber-300 text-black font-black text-sm uppercase py-4 rounded-2xl shadow-lg">🎩 Find It For Me Within 3 Hours (Lock 24-Hr Hold) →</button>
+    <main className="min-h-screen bg-zinc-950 text-white p-4 md:p-8">
+      <div className="max-w-6xl mx-auto">
+        <a href="/" className="inline-block mb-4 px-4 py-2 rounded-xl bg-amber-400 text-black font-black text-xs uppercase">← Back to All 6 Malls</a>
+        <div className="bg-zinc-900 border-2 border-amber-400 p-6 mb-6">
+          <span className="bg-emerald-400 text-black font-black text-xs px-3 py-1 uppercase">⚡ Live 30-Min to 3-Hour Global Sourcing Desk • 24-Hour Price Hold</span>
+          <h1 className="text-2xl md:text-4xl font-black mt-2">Don't See It in Our 240 Rooms? We Source It Live & Hold It For 24 Hours!</h1>
+          <p className="text-zinc-300 text-sm mt-1">Type any product on earth below. Our AI Concierge scans wholesale & direct vendor feeds immediately, beats or matches the competitor price, and locks your private checkout link for 24 hours.</p>
+
+          <form onSubmit={handleSource} className="mt-4 flex flex-col md:flex-row gap-2">
+            <input
+              type="text"
+              required
+              value={query}
+              onChange={e => setQuery(e.target.value)}
+              placeholder="What exact item, brand, or model do you want us to find right now?"
+              className="flex-1 px-4 py-3 bg-black border border-zinc-700 text-white text-sm font-bold"
+            />
+            <input
+              type="text"
+              value={contact}
+              onChange={e => setContact(e.target.value)}
+              placeholder="Your Phone or Email (for 24-Hr Hold Link)"
+              className="md:w-72 px-4 py-3 bg-black border border-zinc-700 text-white text-sm"
+            />
+            <button type="submit" disabled={loading} className="px-6 py-3 bg-amber-400 text-black font-black text-xs md:text-sm uppercase cursor-pointer shrink-0">
+              {loading ? "⚡ Sourcing Live..." : "⚡ Find & Lock Price Now →"}
+            </button>
           </form>
+        </div>
+
+        {result?.items && (
+          <div>
+            <div className="bg-emerald-950 border border-emerald-400 p-3 mb-2 text-xs font-black text-emerald-300">
+              ✅ CONCIERGE TICKET #{result.ticketId} LOCKED! Sourced in real time & held exclusively for you for {result.expiresIn}:
+            </div>
+            <div className="sku-flush-grid grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-0">
+              {result.items.map((it: any, i: number) => (
+                <div key={i} className="sku-flush-card bg-zinc-950 border-0 rounded-none overflow-hidden flex flex-col justify-between">
+                  <div className="relative aspect-square w-full bg-transparent overflow-hidden">
+                    <img src={it.media?.[0]} alt={it.name} className="w-full h-full object-cover p-0 m-0 block" />
+                  </div>
+                  <div className="p-2.5 bg-zinc-950">
+                    <div className="text-xs font-bold text-white line-clamp-2">{it.name}</div>
+                    <div className="flex items-baseline justify-between mt-1">
+                      <span className="text-xl font-black text-amber-400">{it.price}</span>
+                      <span className="text-[10px] line-through text-zinc-500">{it.competitorPrice}</span>
+                    </div>
+                    <button
+                      onClick={() => buyNow(it)}
+                      className="w-full mt-2 py-2.5 bg-emerald-400 text-black font-black text-xs uppercase cursor-pointer"
+                    >
+                      {buyingId === it.id ? "Opening Checkout..." : "⚡ Buy Sourced Item Now"}
+                    </button>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
         )}
       </div>
     </main>
