@@ -89364,604 +89364,629 @@ export const masterInventory: Record<string, any[]> = {
   ],
   "lapooza-quinceanera-royale": [
     {
-      "id": "PRTY-07-01",
-      "name": "Mis Quince Swarovski-Style Tiara — 10-Guest Bulk Pack + AI Face-Swap (Plates, Cups, Favors & Custom Print)",
-      "price": "$38.24",
+      "id": "PARTY250-51",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #1",
+      "price": "$19.99",
+      "competitorPrice": "$24.99",
+      "savings": "Save $5.00",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZNqSdLBye8zg8OaEQuqiOu8um4LadEpqlmFSqIjeKsFW46U64Ez9OxZxR_F576QYQ-eGHf-L3AzyH4mlFBQ6X-SN14OB5cbyHSYsQ7uhduwk8zsyYZZr4nw",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRdpevDVV4O5cxbqhOCNwI9USMlQllGYj9qnBgVExRiMeXbk3TyzBohUmGnhf7R-5LClzVmL4ESTys0FOouBrJHhPp0PhtW0WVBPZ6xNJ8",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSPKcYbjk7gJk_13O_YKwS8Qe2faWCz5I43jm4t4B71Tw-3ZMkAzTEFNHY4MwI1o4F7ZMTB9gFLL4evGYZyFwBZuEDUkVfjMTBsYaz1HCo"
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
       ],
       "video": true,
-      "count": 4,
-      "specs": {
-        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
-        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.15) + Card Fee ($1.62)",
-        "market_value": "Competitor Landed: $57.19 | Your All-In Landed: $47.00 (Saves $10.19)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "status": "LIVE_MARKET_VERIFIED",
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "vendorCost": "$31.87",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $6.37"
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
     },
     {
-      "id": "PRTY-07-02",
-      "name": "Custom Embroidered Quince Robe — 20-Guest Mega Bulk Box + AI Custom (Plates, Cups, Favors & Custom Print)",
-      "price": "$67.14",
+      "id": "PARTY250-52",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #2",
+      "price": "$22.24",
+      "competitorPrice": "$27.80",
+      "savings": "Save $5.56",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtUemmFpnCtfGdfqO15O9Dw7TVpsbPGa7VH6zD-Q9uUGW7vVf7OE_g-prRf0an1QW87MnxqTlkd7C701uYJABcJuBRPva6sFH_xJgTn12e",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQQIyNHdEuVM1-wttQUFQ4DpfzHtnzRdCz_Qv686Q7XcizPFXj3oZr3ah-GzjzrftgDEjeWpDEJ-2uDk7WggdMA6b1FLxnubc9tLFpLUoKb",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTbrubbUQzICHlaH0M9vrMoKz3b4yA2jaayv1ZJg7zT5LVn_WCC1aGmf2Cc6U2Dg1c_tQ78IFV2V2pQ9189NEhWhOOzB7hx4e_GbLKn32WJITwuIMPc65DjRg"
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
       ],
       "video": true,
-      "count": 5,
-      "specs": {
-        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left in Stock",
-        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $5.54) + Card Fee ($2.52)",
-        "market_value": "Competitor Landed: $94.00 | Your All-In Landed: $79.19 (Saves $14.81)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "status": "LIVE_MARKET_VERIFIED",
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "vendorCost": "$55.95",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $11.19"
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
     },
     {
-      "id": "PRTY-07-03",
-      "name": "15-Pack Damas & Chambelanes Tees — Individual Personalized Kit (Plates, Cups, Favors & Custom Print)",
-      "price": "$21.24",
+      "id": "PARTY250-53",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #3",
+      "price": "$24.49",
+      "competitorPrice": "$30.61",
+      "savings": "Save $6.12",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_q84zF9i2CLe7unYL-zytA-Xo-feDTVrDPiFnF0w-kqELl8ZhWt5HWg7KaLeL6rP1lGmGTLJpEWh3Hso0FPPQoUlPcxNnFZaL_RzGy3hd_wRC8Z5oUyOr",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ12YE8p_U1nEI6EULdmE9NM3mQ0X5QxscCERitOsr9khLyiWam8U83BmhxpUcalgjb37pYiigT6gglGM09ntykFgIOAeoslC5_uDxgYkD7",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRp_PU7mU3vYDTH0Goz6agr2fbi41xBi46ZWZb-cyQ-AJyhDW3FJG_uVFY-H-8bTHRFfeV-kCdjtRqWRulUsQ4OqFAcHkHNSnDolSZDMxTWFMxGNhDELWNn"
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
       ],
       "video": true,
-      "count": 6,
-      "specs": {
-        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left in Stock",
-        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.75) + Card Fee ($1.08)",
-        "market_value": "Competitor Landed: $35.54 | Your All-In Landed: $28.06 (Saves $7.48)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "status": "LIVE_MARKET_VERIFIED",
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "vendorCost": "$17.70",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $3.54"
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
     },
     {
-      "id": "PRTY-07-04",
-      "name": "Custom Quinceañera Champagne Flutes — 10-Guest Bulk Pack + AI Face-Swap (Plates, Cups, Favors & Custom Print)",
-      "price": "$38.24",
+      "id": "PARTY250-54",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #4",
+      "price": "$26.74",
+      "competitorPrice": "$33.42",
+      "savings": "Save $6.68",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDjTPL3kA-nCu3-hKJ2KbgrvNfuOMrqpbOYMtXdmMlFhg0wgRYnswk3G4Xe1L4ZNWQ0y-k8NJbsPUhd_H6XkEBSvrRUxIG3oLZ9xKqPafZPF9AA5Q5Dmkg",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRLg5NAuZoqFRt6Hbj0T5evX3Za4M_SWYXdkwKT7Yknu7IlfIVTvn0BIXugLUSsuPwHeORKHXS7ElNPrSmYB1-ChTihOH8URbUeO9BuhBPD",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS2-1d4O7WbJKA5rJYQN6Unrl7dt_IRIr62D23F6VWbgfxFIfi7As-_k05ornXotLXXit3jXWd-lV5GNJkX1jQTc7xijDMMuZsnCEykmwN83-BLb_dFy_po"
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
       ],
       "video": true,
-      "count": 7,
-      "specs": {
-        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left in Stock",
-        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.15) + Card Fee ($1.62)",
-        "market_value": "Competitor Landed: $57.19 | Your All-In Landed: $47.00 (Saves $10.19)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "status": "LIVE_MARKET_VERIFIED",
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "vendorCost": "$31.87",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $6.37"
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
     },
     {
-      "id": "PRTY-07-05",
-      "name": "3D LED Butterfly Photo Backdrop — 20-Guest Mega Bulk Box + AI Custom (Plates, Cups, Favors & Custom Print)",
-      "price": "$67.14",
+      "id": "PARTY250-55",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #5",
+      "price": "$28.99",
+      "competitorPrice": "$36.24",
+      "savings": "Save $7.25",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTksiZiRoFMoEuteZQEORCkaIT4OUQpkUVM7v0ckeZRGBu45_vU9YIy99HSdVmqePU-XfeuuNJE4gnkgLWU2AsBB1MLoS9YoemQJrqi4DU",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRvDrVmzt5vq0E9Y_dFX3NZIpO39AIg5lNVDe8WrWQOSL-Be2TJo_L-OlS-pE1Bo-tuP5JhrTH0M-3y2-u5K3in_zqKFQ-k4Q1jvY1PeJ5gboF4CHu0Pzgx",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTciR2NacOkLV5h6PiArv15v3KUgEcZ5ftgOIB6gmq3vKpUFaiEzhtW9-D4Wwj0B2jZII673Ln4HjysTiruKKKzOLFuNQ-SIY3wCJAjIdxThQULEULiTNT-kA"
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
       ],
       "video": true,
-      "count": 8,
-      "specs": {
-        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left in Stock",
-        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $5.54) + Card Fee ($2.52)",
-        "market_value": "Competitor Landed: $94.00 | Your All-In Landed: $79.19 (Saves $14.81)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "status": "LIVE_MARKET_VERIFIED",
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "vendorCost": "$55.95",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $11.19"
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
     },
     {
-      "id": "PRTY-07-06",
-      "name": "Personalized Quince Guest Book — Individual Personalized Kit (Plates, Cups, Favors & Custom Print)",
-      "price": "$21.24",
+      "id": "PARTY250-56",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #6",
+      "price": "$31.24",
+      "competitorPrice": "$39.05",
+      "savings": "Save $7.81",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqZ68DISCO4W5CZJonMi0xEFRXA9Z7x77wxIVhHduSbGTUVAG2StVwql2IoxunkieI1dDRXuY3MeyHcWVq2wih5xerW-TZXvsplMxfpcs",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTgh4HqqtJXmrpK3HB0u9aSgite6x0vBtpajFDJMFxU3KsN86hRy0gk5QL75N1RG9hK6hzvDxvSpunHKIj_ywDIAQ7mx7mGcLN4QpDyn1UxbuV_y5MIxuHUyQ",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTHVeMWEt24PsqgjtDU1HGDmqF-8y1AyImYpqpUE_oqSM1zozwebRRNQzqkdtpQjXpEuDJxT24aJygrb2vK8j_PvzzSFuv2HtBrL59Y-KU7HIarlX1v30Y5"
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
       ],
       "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-57",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #7",
+      "price": "$33.49",
+      "competitorPrice": "$41.86",
+      "savings": "Save $8.37",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-58",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #8",
+      "price": "$35.74",
+      "competitorPrice": "$44.68",
+      "savings": "Save $8.94",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-59",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
       "count": 9,
-      "specs": {
-        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 9 Left in Stock",
-        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.75) + Card Fee ($1.08)",
-        "market_value": "Competitor Landed: $35.54 | Your All-In Landed: $28.06 (Saves $7.48)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "status": "LIVE_MARKET_VERIFIED",
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "vendorCost": "$17.70",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $3.54"
-    },
-    {
-      "id": "PRTY-07-07",
-      "name": "Last Doll (Ultima Muñeca) Keep-Box — 10-Guest Bulk Pack + AI Face-Swap (Plates, Cups, Favors & Custom Print)",
-      "price": "$38.24",
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #9",
+      "price": "$42.99",
+      "competitorPrice": "$53.74",
+      "savings": "Save $10.75",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRGgECJpBZTLpPnNVh63H73edIKyw3scWvTmNeW4Lz0_Mh4heoTvitSknPSREaK24KFaH_oAMqLs0EnaaXuKLSg240vXUkERHtYhA1uRLUm",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ84pIkeTPPnWA5KrZQyiZZXQ7cUwgKHvCgNW6M2MXMTf_LfNAoxAV3aXrOFcqcbgz3hfVjFnpL7TvkzDL9hbdw3PbZDiktBF7jqdiogr1V4cw3oaGOty2i",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRztrdYbhYzVVPhDclqdLVIQ2o1NGM1g7liSqrqrEDFrMeJUDzv_PnCvrSZA7FxS36eDsX0msdvZlbREwompJbllvHODb7NqPmt913dLFs7E8Bo7BdsgBsC"
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
       ],
       "video": true,
-      "count": 4,
-      "specs": {
-        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
-        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.15) + Card Fee ($1.62)",
-        "market_value": "Competitor Landed: $57.19 | Your All-In Landed: $47.00 (Saves $10.19)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "status": "LIVE_MARKET_VERIFIED",
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "vendorCost": "$31.87",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $6.37"
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
     },
     {
-      "id": "PRTY-07-08",
-      "name": "Custom Quince Kneeling Pillow — 20-Guest Mega Bulk Box + AI Custom (Plates, Cups, Favors & Custom Print)",
-      "price": "$67.14",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSSV0qXphRWfiqSLRlSvk_RZ0xd30jyq6ro4wp5thIjlkRP9sNeP1q2Wkwh10m3auo9Kx5cvrbSajkp6ZSkcyAHRlce9D7Nk8pH4-Wyj98",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQkXWbiqNspUnV9SBOYAGuWQHVeFVn11OnvITfE-iuxiDOvOw-HSg_94HSHZDMIg3V1OHt3hYcyM3QtMpQVcL3XLzDJOZpm5RYyGEdlXBkfwfP4Ri_uDo_b",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTmh_-U5lrJ8G-nS9WnomonbNP8JmigY3MnhDFHeHG_bvPvfxKSVhjOqJB3g3RfRBV2Dkg7J_C_NL5uHv_gy7ReGAYP2e4g_FIX3tgBpxPGPcs7_M0POMkJsg"
-      ],
-      "video": true,
-      "count": 5,
-      "specs": {
-        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left in Stock",
-        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $5.54) + Card Fee ($2.52)",
-        "market_value": "Competitor Landed: $94.00 | Your All-In Landed: $79.19 (Saves $14.81)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "status": "LIVE_MARKET_VERIFIED",
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "vendorCost": "$55.95",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $11.19"
-    },
-    {
-      "id": "PRTY-07-09",
-      "name": "Gold Foil Mis 15 Favor Boxes (50pk) — Individual Personalized Kit (Plates, Cups, Favors & Custom Print)",
-      "price": "$21.24",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTg75YxYBJmqPN0nVfoEs5NbSFUU0xtvQ2yrbvJ7vnW27BHlz72Xhg-z2E5B5NJoG4iHxTNx4QhvToo0UMmKmcrPnFdexf0N8TxLFIqPX0P0ZTWfYXwztAC",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSMjw8y82rLFJo8uwEvdyMy9Y9ZcV40AofimlJIjb2dVhLLLRj-gpLDSJ746_JfT66il48dmnIiHoEyQnJUsDHW_LmXLXG-GJXTQclrpXc9m7ubEtTiExj8",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRdamJ-5wKSWONDiP3B4KI30mTAb_spYOH3ibaLrxNdpw6pr6wFXDXxTAKosKd6aUHv4fGczYFKCwToZHgPHmx5Tj276Q80QFpPe1c3zCW6VVnMbV0Lojtt2A"
-      ],
-      "video": true,
-      "count": 6,
-      "specs": {
-        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left in Stock",
-        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.75) + Card Fee ($1.08)",
-        "market_value": "Competitor Landed: $35.54 | Your All-In Landed: $28.06 (Saves $7.48)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "status": "LIVE_MARKET_VERIFIED",
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "vendorCost": "$17.70",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $3.54"
-    },
-    {
-      "id": "PRTY-07-10",
-      "name": "Custom AI Portrait Welcome Sign — 10-Guest Bulk Pack + AI Face-Swap (Plates, Cups, Favors & Custom Print)",
-      "price": "$38.24",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRBZY1jUHtwXtDaXo2s3S_X3r21qRC9YtW1sH8fFiEd8nD8aogRCfV2cVJAa_oBcFJH3M8KPsZ_eJi5RngBA_fAq7m5y9WeXWtLf8nJephbkzKrgHP2_r__7Q",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQIeKqo-QNuXa0ZG-bqXjM3d-pD5f3Pd6oVv6BCv_D3w5td_SkGsVSgz2Jupz8PZfVpMXOvF7lknkp1BdEYbhA1Q5R0ZN861GFk495yXuGpjtoBhIlMAUkVoQ",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSxSx2k4RjlK_1fz29mxOFptbF3X0STERj_GQQrfrcBHggkfOMGwAWv_XG73WdbUuEQFhgzp397v_MbiESyyiy86wUIyXkxc8iy3Hmnd9G79QLGPjglYdyL"
-      ],
-      "video": true,
-      "count": 7,
-      "specs": {
-        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left in Stock",
-        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.15) + Card Fee ($1.62)",
-        "market_value": "Competitor Landed: $57.19 | Your All-In Landed: $47.00 (Saves $10.19)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "status": "LIVE_MARKET_VERIFIED",
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "vendorCost": "$31.87",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $6.37"
-    },
-    {
-      "id": "PRTY-07-11",
-      "name": "Mis Quince Swarovski-Style Tiara — 20-Guest Mega Bulk Box + AI Custom (Plates, Cups, Favors & Custom Print)",
-      "price": "$67.14",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQtpMuair-Ye62LKEQ90sALgc2hj5o7RH-RzfYlolZQkWpOeCxWmLI7w1wEjI1nLdvAobaFVAXzRQG6OdJAhmCDz18cXmlX9g",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRstIJUswKZawNiP8D0Jbe0F3TLsh2wxaqpH1pokFYwLZmqKdIkXBuGGFeG4sprVgxewUPB7rDwDAt8lKcD_eYNT4RfMfi5pZ-csfMHkWC8k0mf_Uhuiy2o",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTa4qOgu-xbBV4jbul-LJXMKSQHovHE5QB0Sjx2XKdqtYNqmgDn55EM_KjbXvCY4TCir7LhkNi8kCJ26cIk3iSPz-XNlKLmcPrIr-1-9shdtYEhp2Ki48yHzA"
-      ],
-      "video": true,
-      "count": 8,
-      "specs": {
-        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left in Stock",
-        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $5.54) + Card Fee ($2.52)",
-        "market_value": "Competitor Landed: $94.00 | Your All-In Landed: $79.19 (Saves $14.81)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "status": "LIVE_MARKET_VERIFIED",
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "vendorCost": "$55.95",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $11.19"
-    },
-    {
-      "id": "PRTY-07-12",
-      "name": "Custom Embroidered Quince Robe — Individual Personalized Kit (Plates, Cups, Favors & Custom Print)",
-      "price": "$21.24",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS12sYLoWcDbgs949CLcvMuGf4VF-L6ejxu-TRu8w4d3l9ESkAOa7KKidDgqXn2YogZ85yE7Ta4rtVg-95NvMfrdBIlMNpG",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTgSZzoxETFypddpxvSj_0PgzHr2W33RfNFW8VXqPlxRiyVKhHiUohs4HqUSmKlGMrbBcIESn6hqLgOT0fk1OTaZiOXVKLTMkSwVHjC0Pq-6zwuXtjFwLFx",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ9EsOTpdVYLanoLVJdLVvbHz_vXhkImcUKuuMu5Qo8vbrJkalwmf0MpRD28LfXlt5TA6M0dxpZIt-7gRvB2CaM1mcnXjPPuKBJZolereQ-_KSIhj5QiESb"
-      ],
-      "video": true,
+      "id": "PARTY250-60",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
       "count": 9,
-      "specs": {
-        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 9 Left in Stock",
-        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.75) + Card Fee ($1.08)",
-        "market_value": "Competitor Landed: $35.54 | Your All-In Landed: $28.06 (Saves $7.48)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "status": "LIVE_MARKET_VERIFIED",
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "vendorCost": "$17.70",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $3.54"
-    },
-    {
-      "id": "PRTY-07-13",
-      "name": "15-Pack Damas & Chambelanes Tees — 10-Guest Bulk Pack + AI Face-Swap (Plates, Cups, Favors & Custom Print)",
-      "price": "$38.24",
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #10",
+      "price": "$46.74",
+      "competitorPrice": "$58.43",
+      "savings": "Save $11.69",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGDG0o4VvEV4arfpSAGO1RkeJjsNwSqRxF2Df0m0nTtlLaYQLztfukSlu0I3MFx2U7HJVmEb9mcEHJFpGxefXs0r_nTSy0t20dlO1Y5PSu",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSGCFGAhbnl0ZLPscqammjMD00Q8HtgDivtjYdeA4fdLrtUmAKAuAvFcIj1rhknHbz3h0Fsuw53jVKldJBaOiVLw7Fmhv6eyu8FatupJLmF1Y3andgldg5uNQ",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRclurfVeNf6d95_xlxaSQ8rAE39bGGzLsnFh2z-pYHETrnK1E3uJ3RGqtkzRBjln9PAwFe5TxHhgx6B9rw71FApXAj5fBFCTZGsvbLmr69Qe5PFb39Vbqp"
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
       ],
       "video": true,
-      "count": 4,
-      "specs": {
-        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
-        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.15) + Card Fee ($1.62)",
-        "market_value": "Competitor Landed: $57.19 | Your All-In Landed: $47.00 (Saves $10.19)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "status": "LIVE_MARKET_VERIFIED",
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "vendorCost": "$31.87",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $6.37"
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
     },
     {
-      "id": "PRTY-07-14",
-      "name": "Custom Quinceañera Champagne Flutes — 20-Guest Mega Bulk Box + AI Custom (Plates, Cups, Favors & Custom Print)",
-      "price": "$67.14",
-      "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRfwCvqWhZO3m42u4NryggaaT6HL6G2s4pj6mrd5oiQmrGRp5NcVk9iHqc6vRz1issPGXltN778fTpi6Vn8jpMQ-_W2t9AnAifBoNn-daqEb8ghroUmAEAxQQ",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTeMk-DwaD0R_n-XsJwznnlM2z6rssPskLLEpdcskUrLERcmyKlqs9--8849tx5Twoe-dtwhR-F4sRf0t4NsOdo53bNaNFWj3_N-IIwVG0x9mC2t50pe4w7",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQubJto7vvznWo7vdVj6a6N9CIK-LcFvL_dPSV46MrdPzajEMnXXI8q9NtzdXZCjoTNZi18EzpoFj1s8DWNmet28wxkyjRpfpej9cY47zSWoVMRhYY3lXt-w2M"
-      ],
-      "video": true,
-      "count": 5,
-      "specs": {
-        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left in Stock",
-        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $5.54) + Card Fee ($2.52)",
-        "market_value": "Competitor Landed: $94.00 | Your All-In Landed: $79.19 (Saves $14.81)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "status": "LIVE_MARKET_VERIFIED",
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "vendorCost": "$55.95",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $11.19"
-    },
-    {
-      "id": "PRTY-07-15",
-      "name": "3D LED Butterfly Photo Backdrop — Individual Personalized Kit (Plates, Cups, Favors & Custom Print)",
-      "price": "$21.24",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQLj2YIVoU658rgZalk_iZd2oG6toGK5C0J8b-3cUL_a7hB0Ts6U-VWWn42MuNM6kl0bKG4heYC-9IpHep_7w-sTkv5PNDc",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRnSxbjzUZbrD8iecrffKT6KBlyAiHfLpWFhTjzVb3pAJIyrJpj0H2QAIMvVHClFjiizWL1eWVbcyB9btvEoAh9jdSXYvspmDW83dFCYg3cw1YjckiXKP9j",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcST0ttq2U6kziynwcSveFZbvK5FEMwumXN42J25VIHOLxN41dj7ODwglQAqaAP4p7jyrecpx0HPllC951Hnmc009Mrln27dMFEmwwdjSwzJ"
-      ],
-      "video": true,
-      "count": 6,
-      "specs": {
-        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left in Stock",
-        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.75) + Card Fee ($1.08)",
-        "market_value": "Competitor Landed: $35.54 | Your All-In Landed: $28.06 (Saves $7.48)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "status": "LIVE_MARKET_VERIFIED",
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "vendorCost": "$17.70",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $3.54"
-    },
-    {
-      "id": "PRTY-07-16",
-      "name": "Personalized Quince Guest Book — 10-Guest Bulk Pack + AI Face-Swap (Plates, Cups, Favors & Custom Print)",
-      "price": "$38.24",
-      "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR0HWuBcMi10IW5m069yVWf5GzAExXSLOfpv_p32VGEpJCVMpgBLvv3pzw2jXfSeVD12bbt8xnKzesm65aSbN4CZh-TDOoZEWIRwnOm9C6LR5O1LQvISSGIGA",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT1iA7R6z_CMRxYetuoMTmnrvnxZxxY8fLFYYBfjspHI3ILO4A8i5P2xEjf3h80Cr0TC3KeEutwz0pY4osgzr9XKUx5bwUjDqXvSyohlzAqTMZB-w1RneNgZQ",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTW9p2Borc_Uz6EYyooNuObV85IWaotq4iP6n_HG777B7i7XbbC-_6kTbqL_dBirmrCghKwITLKp0adn606O8-tx7U9X3EY3OtxZi9Oef7ykCU0eDz2wDsT"
-      ],
-      "video": true,
-      "count": 7,
-      "specs": {
-        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left in Stock",
-        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.15) + Card Fee ($1.62)",
-        "market_value": "Competitor Landed: $57.19 | Your All-In Landed: $47.00 (Saves $10.19)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "status": "LIVE_MARKET_VERIFIED",
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "vendorCost": "$31.87",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $6.37"
-    },
-    {
-      "id": "PRTY-07-17",
-      "name": "Last Doll (Ultima Muñeca) Keep-Box — 20-Guest Mega Bulk Box + AI Custom (Plates, Cups, Favors & Custom Print)",
-      "price": "$67.14",
-      "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS4xSXI5vDpVsl1VXbniszqgXH46liiLKi_LqmdMDXk-HWuN_IN9weuCxYKisKKJ3lXyG1YN5CIDKOPM5OP7fCAfCLr8I4r0J9iS5mQj4NtzomxfJuGQQ_U0g",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6E5U6tqDLHREkqmwXR5OJ2uKyfGAJs9jymNdT9XfhDXzUflKpRIJHEFPf1Ul0g_LdZMoKOZqremZih01lXwMz45bDjY7khGJqoZO172w",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQKjtRstHJgILaZ5x6b8D0Iw1bQ0iFrdziG6WGA6XtCQi0xkSvUmyd8SVnBNxH6A_-yOypN4sejwt2jT5q_u4sZJImee-LOaGW25L39YC-A"
-      ],
-      "video": true,
-      "count": 8,
-      "specs": {
-        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left in Stock",
-        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $5.54) + Card Fee ($2.52)",
-        "market_value": "Competitor Landed: $94.00 | Your All-In Landed: $79.19 (Saves $14.81)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "status": "LIVE_MARKET_VERIFIED",
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "vendorCost": "$55.95",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $11.19"
-    },
-    {
-      "id": "PRTY-07-18",
-      "name": "Custom Quince Kneeling Pillow — Individual Personalized Kit (Plates, Cups, Favors & Custom Print)",
-      "price": "$21.24",
-      "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR3cc6Vq3prJ5P2_OZCWkDoXtYKJ2Q5Aq1OQ0bk5OV799ce7ROC3SQR2vcOSObLctlNoIA9VBNXwTFSK9R-T_Ur7flAC8BqKxRWg80MW9Oh6FlwbIYrjzWR-w",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQDmo6PR_RWu-MU8kwuZXKniJpKE-1tZ8le-fBtqkl9tVyg-A0YGLcNLLOR3k93GvIHVac6bHSunK2g3itwEy2o-uyQr7R5",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRWY61cS3cnc8ADGMMDvqu6TBDZkiQMFt5uhuxol9gAXx8tVOLL0H1yxEdDnmP_2ZQtia_txgokOgxLNj8Ijk_wMSVRyuchU3ZnjxTlNiQy"
-      ],
-      "video": true,
+      "id": "PARTY250-61",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
       "count": 9,
-      "specs": {
-        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 9 Left in Stock",
-        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.75) + Card Fee ($1.08)",
-        "market_value": "Competitor Landed: $35.54 | Your All-In Landed: $28.06 (Saves $7.48)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "status": "LIVE_MARKET_VERIFIED",
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "vendorCost": "$17.70",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $3.54"
-    },
-    {
-      "id": "PRTY-07-19",
-      "name": "Gold Foil Mis 15 Favor Boxes (50pk) — 10-Guest Bulk Pack + AI Face-Swap (Plates, Cups, Favors & Custom Print)",
-      "price": "$38.24",
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #11",
+      "price": "$50.49",
+      "competitorPrice": "$63.11",
+      "savings": "Save $12.62",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTzgkgff2akD-FdaYXwe9HpjDiIuDjW930XnaVgEySfIZ9xRuALnCli23vsQ0GAgw1kHd_ckgbCEW4Ma79qD_yqgwg7Du_JaIoq3MgdbvyRTZvyOFHi6OxG",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSJNbeCO1pPbIHi21T8osCjWNGR_Pqulvj8yAFMoHxir--eYv-E7XsRk5MQtz715SfnNdmygqdU8QBWdirTTAp45WzHlM8RYsqacP7_Ol8",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRNn2bfCXrdaN8OldBD_JGw8r8iedzurHS4m40Mb8YFLrPg0-p1tVLGuBi2DMda0gFjnq3gz4Aha1KNTLN3ykC8qCj4g1Uk2yuWqk5l0rvP"
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
       ],
       "video": true,
-      "count": 4,
-      "specs": {
-        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
-        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.15) + Card Fee ($1.62)",
-        "market_value": "Competitor Landed: $57.19 | Your All-In Landed: $47.00 (Saves $10.19)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "status": "LIVE_MARKET_VERIFIED",
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "vendorCost": "$31.87",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $6.37"
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
     },
     {
-      "id": "PRTY-07-20",
-      "name": "Custom AI Portrait Welcome Sign — 20-Guest Mega Bulk Box + AI Custom (Plates, Cups, Favors & Custom Print)",
-      "price": "$67.14",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTJDO16Z4cyZe8DOVlxvUylGoTxc5v5r9k87zhwmWwDVRR4-t_71jVv0fpuYddPvWCXXDnsfhRf7A_FFzGii2Fp7JWSo816vn5l3SEQ95k",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTUUhKd-tjuofFUk5nlV_jXRtO8QmfDuwOLJv0dWbwEcWR-w-KZHKFEsQSFGsw1QrHHKK1frw_OCZ4HTdDsAEiBm79fe4uxl0PSaXg-sKN348PoWDx5-0y8Aw",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS_ouUvF6Z1bLGjByOj2TxLGJ2U1780l7JXiUu9SKF0684xjc2SXBSrK_WoW3JyaLEeDLhVhkp_RfhpE9bEtEMwXQpM-MKGxRdAE-T8i_LVl8ZRMIMAeA8KOw"
-      ],
-      "video": true,
-      "count": 5,
-      "specs": {
-        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left in Stock",
-        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $5.54) + Card Fee ($2.52)",
-        "market_value": "Competitor Landed: $94.00 | Your All-In Landed: $79.19 (Saves $14.81)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "status": "LIVE_MARKET_VERIFIED",
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "vendorCost": "$55.95",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $11.19"
-    },
-    {
-      "id": "PRTY-07-21",
-      "name": "Mis Quince Swarovski-Style Tiara — Individual Personalized Kit (Plates, Cups, Favors & Custom Print)",
-      "price": "$21.24",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTnEva05Rn5ScDKyUiEzCqoQkb1l13Tf1iKLgxAMZojmSRLyzQclNVkzYiuavbWh2YEfCjxiuRCQbVkBYlgVzHse9KLeS8dmoTTSkIggW9smtY4mWM1pF5t",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ4xm4FlmVluDqjQ4657j_KXRl1fUHMc_fiKqfT7JdlgQIuxIWhSZPs9Gz29z8tI4WKG9Iy4pvvudEPmiSVvEVOVstr57RmIBmDC11zNlE",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTbBczCmTjuAiaZCJ31ofsoEoMV211K1_R2vnNB_DNY1nA3ggy99JJUAzJBG4cUdO6NplCXzMpUY5Z5SLyvLPT_Sv4SrNcE2LbjBdkzSs0"
-      ],
-      "video": true,
-      "count": 6,
-      "specs": {
-        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left in Stock",
-        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.75) + Card Fee ($1.08)",
-        "market_value": "Competitor Landed: $35.54 | Your All-In Landed: $28.06 (Saves $7.48)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "status": "LIVE_MARKET_VERIFIED",
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "vendorCost": "$17.70",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $3.54"
-    },
-    {
-      "id": "PRTY-07-22",
-      "name": "Custom Embroidered Quince Robe — 10-Guest Bulk Pack + AI Face-Swap (Plates, Cups, Favors & Custom Print)",
-      "price": "$38.24",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSiI8fMwKQAg6ALAkY92wv1Nd_8BBY04AhUrzsuJ-BYHDswTdmhUwEGkGyI8GUWf3Ut6W1FCW5QIeAXmn4dDk_HmULu4H8Ym0wVaTCD6BtodzgSzMpoV22aw",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQmA2jFQv3uwTjkLh1t0RJLNviivqxHmtp_dDljB5OQc-Xc3vrocDwIALuBWDspxwB0RsK53RvG8LVfLcfc1d0mm_4gDZyMyZwz_Lg0BOT6TUQFZZPM1ERg-A",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRnpwyOTGP2EyIpzL6TLKXh3FD1pzfCTybrj3_tD2-S7r7TFhZEs-gritdffJxZGXGfsF_OSwjDvTfBx4JHmmpp4fy6QP07nmPrLr1gRN4pvvfSK713GRr1"
-      ],
-      "video": true,
-      "count": 7,
-      "specs": {
-        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left in Stock",
-        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.15) + Card Fee ($1.62)",
-        "market_value": "Competitor Landed: $57.19 | Your All-In Landed: $47.00 (Saves $10.19)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "status": "LIVE_MARKET_VERIFIED",
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "vendorCost": "$31.87",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $6.37"
-    },
-    {
-      "id": "PRTY-07-23",
-      "name": "15-Pack Damas & Chambelanes Tees — 20-Guest Mega Bulk Box + AI Custom (Plates, Cups, Favors & Custom Print)",
-      "price": "$67.14",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8fncoKp1ob7e_nHh_tJuNVtkXirRw0h9G_Ke7w1MB7C_lOxaaLRjrJCEryJHRkMbUTHO2LfhK-BlCQlyyVjXV0xQeCq3TaqBMGol0B6OW8fLMCiyQ5XUR",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQfDulaWhQIYyN6V5hvyMD6tNL-1oUYnf9jiTGKsqgmimONVPwvzrttD641THN2-zrdrNoLN77JeSLX6qMm1zu2u7h8yaVZWMBkik7GFG3V7zKblYzoQPDCKA",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJx2c1U0ilWwUwshLn8BpCGk8dkosz6vrrsx_vcwx2wJeynDZT665exEb_9zEEYHJzcvmFPcdUfkW-oInyxBK1zT3lLHWQjaSGFZKiMISFmqhs0UGL9TZD"
-      ],
-      "video": true,
-      "count": 8,
-      "specs": {
-        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left in Stock",
-        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $5.54) + Card Fee ($2.52)",
-        "market_value": "Competitor Landed: $94.00 | Your All-In Landed: $79.19 (Saves $14.81)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "status": "LIVE_MARKET_VERIFIED",
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "vendorCost": "$55.95",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $11.19"
-    },
-    {
-      "id": "PRTY-07-24",
-      "name": "Custom Quinceañera Champagne Flutes — Individual Personalized Kit (Plates, Cups, Favors & Custom Print)",
-      "price": "$21.24",
-      "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTn11e0jWKyCJTTlUuXbb08cTIt97MVlVhyNNbi6NwavbiAsEmBRQglid7ZIf2c4IDvarmrVLdg7dFeVH6eHoLCyFczAhQiIPTXAC13xqP8",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRyW4Z7r--CSR4Ay7E4FxsRhIxXBILUHYQRiKIW7Nc29mWVD6c2jV-W2NWC2KJQ353LpkMymMIaRa2o28YKnKYGift1TM_goiXk3gwdEadyC2wPsgbxHYTm",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT__PevnqsSES_GKDGT7unqMlhXb8467EcnOvDYu3cKs4E0VqJQd0-hxdUoDgWgdpAcaizc4pG3spofj7tsrF5xOomAcP_wSU8vz2UoJTI"
-      ],
-      "video": true,
+      "id": "PARTY250-62",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
       "count": 9,
-      "specs": {
-        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 9 Left in Stock",
-        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.75) + Card Fee ($1.08)",
-        "market_value": "Competitor Landed: $35.54 | Your All-In Landed: $28.06 (Saves $7.48)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "status": "LIVE_MARKET_VERIFIED",
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "vendorCost": "$17.70",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $3.54"
-    },
-    {
-      "id": "PRTY-07-25",
-      "name": "3D LED Butterfly Photo Backdrop — 10-Guest Bulk Pack + AI Face-Swap (Plates, Cups, Favors & Custom Print)",
-      "price": "$38.24",
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #12",
+      "price": "$54.24",
+      "competitorPrice": "$67.80",
+      "savings": "Save $13.56",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBYZ7gdNNTFvCqNjjiCMKRaQY2ce39hjfdxU3dBF64UUCHs_PrEwlEC3qmxBC1kX8JDE9TPNlqrebXpNGGg5m7hLE4IFPUxYMu3SGe9FU",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSQX61_fbn7TtGk3NsqrxZTGMNzF7bQ-fP3kgw-heqEFDHBxggzFvSz6fu_uQ",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQmwneXP8w8Fz9ICNEBsUWGBS--sp1GQFU0_CYPtQSngiHXNr2KI88LJL5sv7Jn8FDgobwe-Xzn"
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
       ],
       "video": true,
-      "count": 4,
-      "specs": {
-        "manufacturer": "ALBS Certified Direct (4.8★+ Insured Shipper)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 4 Left in Stock",
-        "authentication": "100% Authenticated & Certified (Insured Carrier Guarantee)",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.15) + Card Fee ($1.62)",
-        "market_value": "Competitor Landed: $57.19 | Your All-In Landed: $47.00 (Saves $10.19)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "status": "LIVE_MARKET_VERIFIED",
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "vendorCost": "$31.87",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $6.37"
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-63",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #13",
+      "price": "$57.99",
+      "competitorPrice": "$72.49",
+      "savings": "Save $14.50",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-64",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #14",
+      "price": "$61.74",
+      "competitorPrice": "$77.17",
+      "savings": "Save $15.43",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-65",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #15",
+      "price": "$65.49",
+      "competitorPrice": "$81.86",
+      "savings": "Save $16.37",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-66",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #16",
+      "price": "$69.24",
+      "competitorPrice": "$86.55",
+      "savings": "Save $17.31",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-67",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #17",
+      "price": "$72.99",
+      "competitorPrice": "$91.24",
+      "savings": "Save $18.25",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-68",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #18",
+      "price": "$76.74",
+      "competitorPrice": "$95.92",
+      "savings": "Save $19.18",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-69",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #19",
+      "price": "$89.99",
+      "competitorPrice": "$112.49",
+      "savings": "Save $22.50",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-70",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #20",
+      "price": "$98.49",
+      "competitorPrice": "$123.11",
+      "savings": "Save $24.62",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-71",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #21",
+      "price": "$106.99",
+      "competitorPrice": "$133.74",
+      "savings": "Save $26.75",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-72",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #22",
+      "price": "$115.49",
+      "competitorPrice": "$144.36",
+      "savings": "Save $28.87",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-73",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #23",
+      "price": "$123.99",
+      "competitorPrice": "$154.99",
+      "savings": "Save $31.00",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-74",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #24",
+      "price": "$132.49",
+      "competitorPrice": "$165.61",
+      "savings": "Save $33.12",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-75",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #25",
+      "price": "$140.99",
+      "competitorPrice": "$176.24",
+      "savings": "Save $35.25",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
     }
   ],
   "lapooza-wedding-bridal": [
@@ -91632,579 +91657,629 @@ export const masterInventory: Record<string, any[]> = {
   ],
   "lapooza-balloon-arch-helium": [
     {
-      "id": "LAPO-1",
-      "name": "[Includes Free AI Face-Swap & Custom Preview] Way To Celebrate Pink, Purple, and",
-      "price": "$5.90",
+      "id": "PARTY250-151",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Helium Tanks, Pumps & Arches Kit #1",
+      "price": "$19.99",
+      "competitorPrice": "$24.99",
+      "savings": "Save $5.00",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSLdR2lb3AIkj5oumrwm07I5XUjsIn2oHlpgHRy9F_gH7F05xX-Sbh8w9P3oxHzqXkK7HbXoWX0uzAu3bMnjeBsIQXFHd-9WCxCGtr0DI3v1Tq9SdUE25Xs",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTiMGc9op7wOobCc7-sWbLMQ1ZJcMxchu52jMeglp2RgX3fBt8BkbbFyzbrGghGQRrWN6oNM1Xi7XjggfSNmUNKdCjQlv2Aig",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS8Qzhijuw-LambDbMA6UITgEBuoca1r5888qZMtdI1bA4i6N-nL6-zgH1YDG4QDXg15buhWQcbSN9Vjwtfm9kiFvd_jnX4fv7ncyF-ic0"
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 5,
       "specs": {
-        "manufacturer": "Walmart • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified Vendor • Includes 3D Custom Name, Banner & AI Face-Swap Mockup Preview",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $0.49) + Card Fee ($0.60)",
-        "market_value": "Competitor Landed: $16.00 | Your All-In Landed: $10.98 (Saves $5.02)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$4.92",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $0.98"
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
     },
     {
-      "id": "LAPO-2",
-      "name": "[Includes Free AI Face-Swap & Custom Preview] Avec Party Tabletop Balloon Arch Set",
-      "price": "$8.50",
+      "id": "PARTY250-152",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Helium Tanks, Pumps & Arches Kit #2",
+      "price": "$22.24",
+      "competitorPrice": "$27.80",
+      "savings": "Save $5.56",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTiMGc9op7wOobCc7-sWbLMQ1ZJcMxchu52jMeglp2RgX3fBt8BkbbFyzbrGghGQRrWN6oNM1Xi7XjggfSNmUNKdCjQlv2Aig",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS8Qzhijuw-LambDbMA6UITgEBuoca1r5888qZMtdI1bA4i6N-nL6-zgH1YDG4QDXg15buhWQcbSN9Vjwtfm9kiFvd_jnX4fv7ncyF-ic0",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQbcHPho5VyCj3m-Cz6KyKL10tqbENDV3byL2m_GAsrz1DLhGDQM_MZ7GJx4QQnkJorfx9BEISe33cr0OqEEKymXNajwb6v"
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 6,
       "specs": {
-        "manufacturer": "Five Below • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified Vendor • Includes 3D Custom Name, Banner & AI Face-Swap Mockup Preview",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $0.70) + Card Fee ($0.68)",
-        "market_value": "Competitor Landed: $19.31 | Your All-In Landed: $13.87 (Saves $5.44)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$7.08",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $1.42"
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
     },
     {
-      "id": "LAPO-3",
-      "name": "[Includes Free AI Face-Swap & Custom Preview] Yellow Orange Balloon Arch Kit, Blue Yello",
-      "price": "$10.19",
+      "id": "PARTY250-153",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Helium Tanks, Pumps & Arches Kit #3",
+      "price": "$24.49",
+      "competitorPrice": "$30.61",
+      "savings": "Save $6.12",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS8Qzhijuw-LambDbMA6UITgEBuoca1r5888qZMtdI1bA4i6N-nL6-zgH1YDG4QDXg15buhWQcbSN9Vjwtfm9kiFvd_jnX4fv7ncyF-ic0",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQbcHPho5VyCj3m-Cz6KyKL10tqbENDV3byL2m_GAsrz1DLhGDQM_MZ7GJx4QQnkJorfx9BEISe33cr0OqEEKymXNajwb6v",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQWE13Bh0xDknzWSGzd0ih54WedRwKl7be4Vpk8vXjMMxC0kI721--BylBnQxovnaBVxZm-vWpEJYRzVt8c8oZDPDIX46QZmTWUsY3Z49E"
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 7,
       "specs": {
-        "manufacturer": "eBay - lolli*and*pops*wholesale • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified Vendor • Includes 3D Custom Name, Banner & AI Face-Swap Mockup Preview",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $0.84) + Card Fee ($0.74)",
-        "market_value": "Competitor Landed: $21.47 | Your All-In Landed: $15.76 (Saves $5.71)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$8.49",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $1.70"
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
     },
     {
-      "id": "LAPO-4",
-      "name": "[Includes Free AI Face-Swap & Custom Preview] Balloon Arch Kit Set",
-      "price": "$4.50",
+      "id": "PARTY250-154",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Helium Tanks, Pumps & Arches Kit #4",
+      "price": "$26.74",
+      "competitorPrice": "$33.42",
+      "savings": "Save $6.68",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQbcHPho5VyCj3m-Cz6KyKL10tqbENDV3byL2m_GAsrz1DLhGDQM_MZ7GJx4QQnkJorfx9BEISe33cr0OqEEKymXNajwb6v",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQWE13Bh0xDknzWSGzd0ih54WedRwKl7be4Vpk8vXjMMxC0kI721--BylBnQxovnaBVxZm-vWpEJYRzVt8c8oZDPDIX46QZmTWUsY3Z49E",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS6hoQ85jWKHSaRigrGJfSDRM5jjjfmS-M6e-kJnry2pqFwUp3hZ4q_k0GfO7G9uRbc8TGCTVGPFjjqobUdjpE6tq8h_b2uDHR9ZBz2L9hm8ASSC8qJBhuRRg"
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 8,
       "specs": {
-        "manufacturer": "Five Below • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified Vendor • Includes 3D Custom Name, Banner & AI Face-Swap Mockup Preview",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $0.37) + Card Fee ($0.56)",
-        "market_value": "Competitor Landed: $11.74 | Your All-In Landed: $9.42 (Saves $2.32)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$3.75",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $0.75"
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
     },
     {
-      "id": "LAPO-5",
-      "name": "[Includes Free AI Face-Swap & Custom Preview] Ralphs Collection Balloon Arch Kit",
-      "price": "$59.49",
+      "id": "PARTY250-155",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Helium Tanks, Pumps & Arches Kit #5",
+      "price": "$28.99",
+      "competitorPrice": "$36.24",
+      "savings": "Save $7.25",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQWE13Bh0xDknzWSGzd0ih54WedRwKl7be4Vpk8vXjMMxC0kI721--BylBnQxovnaBVxZm-vWpEJYRzVt8c8oZDPDIX46QZmTWUsY3Z49E",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS6hoQ85jWKHSaRigrGJfSDRM5jjjfmS-M6e-kJnry2pqFwUp3hZ4q_k0GfO7G9uRbc8TGCTVGPFjjqobUdjpE6tq8h_b2uDHR9ZBz2L9hm8ASSC8qJBhuRRg",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSm8Dm7k5ddnA95coaaIaGRB2mqRllHZrA5xxlF6VF6GELN1kjFJxDoh-egk41Y03nN8n2j67XSLn8c_Fl7bjkYsQAFkHamnoD6thqhnCQ"
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-156",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Helium Tanks, Pumps & Arches Kit #6",
+      "price": "$31.24",
+      "competitorPrice": "$39.05",
+      "savings": "Save $7.81",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-157",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Helium Tanks, Pumps & Arches Kit #7",
+      "price": "$33.49",
+      "competitorPrice": "$41.86",
+      "savings": "Save $8.37",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-158",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Helium Tanks, Pumps & Arches Kit #8",
+      "price": "$35.74",
+      "competitorPrice": "$44.68",
+      "savings": "Save $8.94",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-159",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
       "count": 9,
-      "specs": {
-        "manufacturer": "PopFestCo • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 9 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified Vendor • Includes 3D Custom Name, Banner & AI Face-Swap Mockup Preview",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $4.91) + Card Fee ($2.28)",
-        "market_value": "Competitor Landed: $84.25 | Your All-In Landed: $70.67 (Saves $13.58)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$49.58",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $9.91"
-    },
-    {
-      "id": "LAPO-6",
-      "name": "[Includes Free AI Face-Swap & Custom Preview] Way To Celebrate Balloon Arch Kit",
-      "price": "$4.50",
+      "name": "Helium Tanks, Pumps & Arches Kit #9",
+      "price": "$42.99",
+      "competitorPrice": "$53.74",
+      "savings": "Save $10.75",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS6hoQ85jWKHSaRigrGJfSDRM5jjjfmS-M6e-kJnry2pqFwUp3hZ4q_k0GfO7G9uRbc8TGCTVGPFjjqobUdjpE6tq8h_b2uDHR9ZBz2L9hm8ASSC8qJBhuRRg",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSm8Dm7k5ddnA95coaaIaGRB2mqRllHZrA5xxlF6VF6GELN1kjFJxDoh-egk41Y03nN8n2j67XSLn8c_Fl7bjkYsQAFkHamnoD6thqhnCQ",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSqTiIB4O89LTmfpxi-Cegl4UX0elLrWTQ3JrlU1OGv24_6w2I1H9fsMenX3Ccxr45I0udXS8ukHA1dRcVi3xkGANZcEdScnA"
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 10,
       "specs": {
-        "manufacturer": "Walmart • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 10 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified Vendor • Includes 3D Custom Name, Banner & AI Face-Swap Mockup Preview",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $0.37) + Card Fee ($0.56)",
-        "market_value": "Competitor Landed: $13.19 | Your All-In Landed: $9.42 (Saves $3.77)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$3.75",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $0.75"
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
     },
     {
-      "id": "LAPO-7",
-      "name": "[Includes Free AI Face-Swap & Custom Preview] Efavormart Heavy Duty DIY Balloon Arch Sta",
-      "price": "$43.94",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSm8Dm7k5ddnA95coaaIaGRB2mqRllHZrA5xxlF6VF6GELN1kjFJxDoh-egk41Y03nN8n2j67XSLn8c_Fl7bjkYsQAFkHamnoD6thqhnCQ",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSqTiIB4O89LTmfpxi-Cegl4UX0elLrWTQ3JrlU1OGv24_6w2I1H9fsMenX3Ccxr45I0udXS8ukHA1dRcVi3xkGANZcEdScnA",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR7b4s4VzIJh9zNpGoFU0LYnGaztjZGunQ9MD8gb4LC1MoEMYefMOK1Z5VjNj-_dG-v6a8zMbuehpQO9G-TmkUB15BslrzPDA"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 11,
-      "specs": {
-        "manufacturer": "TikTok Shop • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 11 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified Vendor • Includes 3D Custom Name, Banner & AI Face-Swap Mockup Preview",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.63) + Card Fee ($1.80)",
-        "market_value": "Competitor Landed: $64.44 | Your All-In Landed: $53.36 (Saves $11.08)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$36.62",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $7.32"
-    },
-    {
-      "id": "LAPO-8",
-      "name": "[Includes Free AI Face-Swap & Custom Preview] Blue Balloon Arch Kit Dusty Blue Gold Sand",
-      "price": "$20.40",
-      "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSqTiIB4O89LTmfpxi-Cegl4UX0elLrWTQ3JrlU1OGv24_6w2I1H9fsMenX3Ccxr45I0udXS8ukHA1dRcVi3xkGANZcEdScnA",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR7b4s4VzIJh9zNpGoFU0LYnGaztjZGunQ9MD8gb4LC1MoEMYefMOK1Z5VjNj-_dG-v6a8zMbuehpQO9G-TmkUB15BslrzPDA",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTdy9tikVaBjZU0QVN_eMGy8BVGyVtqfy44ysIx1LzzJ9bNrVSgX-QfKHDHBCerWKhYABlNF9mzUSLwzWnin0HAZbrSzmTc6f0bqcjS18kI"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 12,
-      "specs": {
-        "manufacturer": "alibaba.com • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 12 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified Vendor • Includes 3D Custom Name, Banner & AI Face-Swap Mockup Preview",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.68) + Card Fee ($1.06)",
-        "market_value": "Competitor Landed: $34.47 | Your All-In Landed: $27.13 (Saves $7.34)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$17.00",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $3.40"
-    },
-    {
-      "id": "LAPO-9",
-      "name": "[Includes Free AI Face-Swap & Custom Preview] Black and Gold Balloon Arch Kit, Black and",
-      "price": "$23.78",
-      "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR7b4s4VzIJh9zNpGoFU0LYnGaztjZGunQ9MD8gb4LC1MoEMYefMOK1Z5VjNj-_dG-v6a8zMbuehpQO9G-TmkUB15BslrzPDA",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTdy9tikVaBjZU0QVN_eMGy8BVGyVtqfy44ysIx1LzzJ9bNrVSgX-QfKHDHBCerWKhYABlNF9mzUSLwzWnin0HAZbrSzmTc6f0bqcjS18kI",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSOSB3gvTRx3lMZLnXbUtSDd_eAyBQ4bsk_adeGbJHXGlsVUcoQ9oXzALYipnpGOihAztTk-x9yCqKd8Fds1yqHvrx-c9jZgGAjSnZZXG8"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 13,
-      "specs": {
-        "manufacturer": "Etsy - Seller • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 13 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified Vendor • Includes 3D Custom Name, Banner & AI Face-Swap Mockup Preview",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.96) + Card Fee ($1.16)",
-        "market_value": "Competitor Landed: $38.78 | Your All-In Landed: $30.89 (Saves $7.89)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$19.82",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $3.96"
-    },
-    {
-      "id": "LAPO-10",
-      "name": "[Includes Free AI Face-Swap & Custom Preview] Halloween Balloon Arch Garland Decorating ",
-      "price": "$13.54",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTdy9tikVaBjZU0QVN_eMGy8BVGyVtqfy44ysIx1LzzJ9bNrVSgX-QfKHDHBCerWKhYABlNF9mzUSLwzWnin0HAZbrSzmTc6f0bqcjS18kI",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSOSB3gvTRx3lMZLnXbUtSDd_eAyBQ4bsk_adeGbJHXGlsVUcoQ9oXzALYipnpGOihAztTk-x9yCqKd8Fds1yqHvrx-c9jZgGAjSnZZXG8",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQsLJpEV9AyoJcdP4HVwSGTkKisPWg4lEt2UUkUIL1Jt-XIytQA46mnkFGBKCyV7hMA3-GxQDym6QnnsTBzHQnhw5nFISW--tORy-wMs2s"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 5,
-      "specs": {
-        "manufacturer": "eBay - sparkcartco • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified Vendor • Includes 3D Custom Name, Banner & AI Face-Swap Mockup Preview",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.12) + Card Fee ($0.84)",
-        "market_value": "Competitor Landed: $25.73 | Your All-In Landed: $19.49 (Saves $6.24)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$11.28",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $2.26"
-    },
-    {
-      "id": "LAPO-11",
-      "name": "[Includes Free AI Face-Swap & Custom Preview] Pink and Yellow Balloon Arch Kit for Lemon",
-      "price": "$13.93",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSOSB3gvTRx3lMZLnXbUtSDd_eAyBQ4bsk_adeGbJHXGlsVUcoQ9oXzALYipnpGOihAztTk-x9yCqKd8Fds1yqHvrx-c9jZgGAjSnZZXG8",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQsLJpEV9AyoJcdP4HVwSGTkKisPWg4lEt2UUkUIL1Jt-XIytQA46mnkFGBKCyV7hMA3-GxQDym6QnnsTBzHQnhw5nFISW--tORy-wMs2s",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ5vr8zatprfQKy_0q-LvvDyNyh3JS7vqqOmbwZVP9TJhsPZkH_VaMR4OQndMeFOa21XC-Uu048INLRIe56_3weh1DHqcu2ghiQcoUixWc"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 6,
-      "specs": {
-        "manufacturer": "Walmart - Seller • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified Vendor • Includes 3D Custom Name, Banner & AI Face-Swap Mockup Preview",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.15) + Card Fee ($0.85)",
-        "market_value": "Competitor Landed: $26.23 | Your All-In Landed: $19.92 (Saves $6.31)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$11.61",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $2.32"
-    },
-    {
-      "id": "LAPO-12",
-      "name": "[Includes Free AI Face-Swap & Custom Preview] 167pcs Neutral Color Balloon Arch Kit, Whi",
-      "price": "$4.50",
-      "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQsLJpEV9AyoJcdP4HVwSGTkKisPWg4lEt2UUkUIL1Jt-XIytQA46mnkFGBKCyV7hMA3-GxQDym6QnnsTBzHQnhw5nFISW--tORy-wMs2s",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ5vr8zatprfQKy_0q-LvvDyNyh3JS7vqqOmbwZVP9TJhsPZkH_VaMR4OQndMeFOa21XC-Uu048INLRIe56_3weh1DHqcu2ghiQcoUixWc",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQPsiu8NxTTyENGJbKEW6_BPbNIo32Q-ocjHHjL2-yKduae0adJ9tHRpDdT_9cVzyOfmkeQGDzD5rWzqhfLlUELNVWAeBDhrD7aKIjyUCcu"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 7,
-      "specs": {
-        "manufacturer": "Shein • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified Vendor • Includes 3D Custom Name, Banner & AI Face-Swap Mockup Preview",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $0.37) + Card Fee ($0.56)",
-        "market_value": "Competitor Landed: $13.17 | Your All-In Landed: $9.42 (Saves $3.75)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$3.75",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $0.75"
-    },
-    {
-      "id": "LAPO-13",
-      "name": "[Includes Free AI Face-Swap & Custom Preview] 100 pk DIY Balloon Garland Arch Party Kit ",
-      "price": "$4.67",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ5vr8zatprfQKy_0q-LvvDyNyh3JS7vqqOmbwZVP9TJhsPZkH_VaMR4OQndMeFOa21XC-Uu048INLRIe56_3weh1DHqcu2ghiQcoUixWc",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQPsiu8NxTTyENGJbKEW6_BPbNIo32Q-ocjHHjL2-yKduae0adJ9tHRpDdT_9cVzyOfmkeQGDzD5rWzqhfLlUELNVWAeBDhrD7aKIjyUCcu",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQfkOPsuJBwZ_o-CnRvhRALkymoIg5pbKGcmXjbm9UsYd52-hrZ5fPLluvzz4ugjIcOER040bkSp80QEw_alerCtKKWQwEG"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 8,
-      "specs": {
-        "manufacturer": "TCFLinen • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified Vendor • Includes 3D Custom Name, Banner & AI Face-Swap Mockup Preview",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $0.39) + Card Fee ($0.56)",
-        "market_value": "Competitor Landed: $14.43 | Your All-In Landed: $9.61 (Saves $4.82)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$3.89",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $0.78"
-    },
-    {
-      "id": "LAPO-14",
-      "name": "[Includes Free AI Face-Swap & Custom Preview] Black Silver White Balloon Arch Kit with D",
-      "price": "$16.98",
-      "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQPsiu8NxTTyENGJbKEW6_BPbNIo32Q-ocjHHjL2-yKduae0adJ9tHRpDdT_9cVzyOfmkeQGDzD5rWzqhfLlUELNVWAeBDhrD7aKIjyUCcu",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQfkOPsuJBwZ_o-CnRvhRALkymoIg5pbKGcmXjbm9UsYd52-hrZ5fPLluvzz4ugjIcOER040bkSp80QEw_alerCtKKWQwEG",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQEOaVRlSuGPBL88hHkaLYVDniJ7WUFp0UrGh5VQgRJYZI4oOS7ASuLemMGpvCoZPz9Ws4DNnMUOJS_3OaFSmANF0eifneCoA"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "id": "PARTY250-160",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
       "count": 9,
-      "specs": {
-        "manufacturer": "Etsy - Seller • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 9 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified Vendor • Includes 3D Custom Name, Banner & AI Face-Swap Mockup Preview",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.40) + Card Fee ($0.95)",
-        "market_value": "Competitor Landed: $30.12 | Your All-In Landed: $23.32 (Saves $6.80)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$14.15",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $2.83"
-    },
-    {
-      "id": "LAPO-15",
-      "name": "[Includes Free AI Face-Swap & Custom Preview] Mebay Arch & Garland Balloon Kit – 109 Pcs",
-      "price": "$11.04",
+      "name": "Helium Tanks, Pumps & Arches Kit #10",
+      "price": "$46.74",
+      "competitorPrice": "$58.43",
+      "savings": "Save $11.69",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQfkOPsuJBwZ_o-CnRvhRALkymoIg5pbKGcmXjbm9UsYd52-hrZ5fPLluvzz4ugjIcOER040bkSp80QEw_alerCtKKWQwEG",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQEOaVRlSuGPBL88hHkaLYVDniJ7WUFp0UrGh5VQgRJYZI4oOS7ASuLemMGpvCoZPz9Ws4DNnMUOJS_3OaFSmANF0eifneCoA",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRbdx8xLK2UOlkQUsz0YGXSyuMPFb9oB_M4qPIqGzAGK4AFU5h0VQaA82kB50vMlKR-dmnwfYfSm2w-QuA9qoM8O-joyMu1rpOAe7rpIeI"
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 10,
       "specs": {
-        "manufacturer": "eBay - joycosales • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 10 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified Vendor • Includes 3D Custom Name, Banner & AI Face-Swap Mockup Preview",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $0.91) + Card Fee ($0.76)",
-        "market_value": "Competitor Landed: $22.55 | Your All-In Landed: $16.70 (Saves $5.85)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$9.20",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $1.84"
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
     },
     {
-      "id": "LAPO-16",
-      "name": "[Includes Free AI Face-Swap & Custom Preview] Spritz Balloons Arch with Backdrop",
-      "price": "$9.35",
-      "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQEOaVRlSuGPBL88hHkaLYVDniJ7WUFp0UrGh5VQgRJYZI4oOS7ASuLemMGpvCoZPz9Ws4DNnMUOJS_3OaFSmANF0eifneCoA",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRbdx8xLK2UOlkQUsz0YGXSyuMPFb9oB_M4qPIqGzAGK4AFU5h0VQaA82kB50vMlKR-dmnwfYfSm2w-QuA9qoM8O-joyMu1rpOAe7rpIeI",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTBZ7SEj6MbZiRPlN3AN-rA8LkPxOMe8FNAFsTVDewSNMtEjbEhGEmS6VRvgZm5Tj4pNH4bCsws6-szeFPJ_8-gslVfd4fP"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 11,
-      "specs": {
-        "manufacturer": "Target • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 11 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified Vendor • Includes 3D Custom Name, Banner & AI Face-Swap Mockup Preview",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $0.77) + Card Fee ($0.71)",
-        "market_value": "Competitor Landed: $20.40 | Your All-In Landed: $14.82 (Saves $5.58)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$7.79",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $1.56"
-    },
-    {
-      "id": "LAPO-17",
-      "name": "[Includes Free AI Face-Swap & Custom Preview] Black And Balloons Arch Garland Kit 122pcs",
-      "price": "$29.74",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRbdx8xLK2UOlkQUsz0YGXSyuMPFb9oB_M4qPIqGzAGK4AFU5h0VQaA82kB50vMlKR-dmnwfYfSm2w-QuA9qoM8O-joyMu1rpOAe7rpIeI",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTBZ7SEj6MbZiRPlN3AN-rA8LkPxOMe8FNAFsTVDewSNMtEjbEhGEmS6VRvgZm5Tj4pNH4bCsws6-szeFPJ_8-gslVfd4fP",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTSTqmD4SsRfFB16QsEsTwvFikEZ5a1hIuF_pm9dijsPfRZcqfju4vcUF-A8Pu7ocxYBwQGRZrbuqo3IOCeiZYx-PrJa9PbMsfsqAYNhsyO"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 12,
-      "specs": {
-        "manufacturer": "Walmart - Seller • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 12 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified Vendor • Includes 3D Custom Name, Banner & AI Face-Swap Mockup Preview",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.45) + Card Fee ($1.35)",
-        "market_value": "Competitor Landed: $46.37 | Your All-In Landed: $37.53 (Saves $8.84)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$24.78",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $4.96"
-    },
-    {
-      "id": "LAPO-18",
-      "name": "[Includes Free AI Face-Swap & Custom Preview] 134pcs Party Balloon Arch kit Macaron Rain",
-      "price": "$33.98",
-      "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTBZ7SEj6MbZiRPlN3AN-rA8LkPxOMe8FNAFsTVDewSNMtEjbEhGEmS6VRvgZm5Tj4pNH4bCsws6-szeFPJ_8-gslVfd4fP",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTSTqmD4SsRfFB16QsEsTwvFikEZ5a1hIuF_pm9dijsPfRZcqfju4vcUF-A8Pu7ocxYBwQGRZrbuqo3IOCeiZYx-PrJa9PbMsfsqAYNhsyO",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRG7vDoGbedZJcCZhHFvZxvCpjMtiurN6W69pW9Cd7RsMAbtGZAZANuBs11eiYmfaq_OhaYlMqoKBvYYLH-KXROTZ4lnG-OCkI-H2UYPNucCCIYdj5L-r_lUg"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 13,
-      "specs": {
-        "manufacturer": "Decotree.co • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 13 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified Vendor • Includes 3D Custom Name, Banner & AI Face-Swap Mockup Preview",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.80) + Card Fee ($1.48)",
-        "market_value": "Competitor Landed: $51.77 | Your All-In Landed: $42.25 (Saves $9.52)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$28.32",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $5.66"
-    },
-    {
-      "id": "LAPO-19",
-      "name": "[Includes Free AI Face-Swap & Custom Preview] 117pcs Retro Balloon Arch Kit Smoke Brown ",
-      "price": "$17.70",
-      "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTSTqmD4SsRfFB16QsEsTwvFikEZ5a1hIuF_pm9dijsPfRZcqfju4vcUF-A8Pu7ocxYBwQGRZrbuqo3IOCeiZYx-PrJa9PbMsfsqAYNhsyO",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRG7vDoGbedZJcCZhHFvZxvCpjMtiurN6W69pW9Cd7RsMAbtGZAZANuBs11eiYmfaq_OhaYlMqoKBvYYLH-KXROTZ4lnG-OCkI-H2UYPNucCCIYdj5L-r_lUg",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSlBT5qRgWTky0-PHERoYO9ZR0-0lPTH1HT7jnjGQLcwIKchN9COKaHXhBDBLVjFuetUqSCLe7PJ89sSo6gzq6kCSm8IVAjJVBiLDtHuS4"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 5,
-      "specs": {
-        "manufacturer": "Etsy - MagicalPartyCrafts • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified Vendor • Includes 3D Custom Name, Banner & AI Face-Swap Mockup Preview",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.46) + Card Fee ($0.97)",
-        "market_value": "Competitor Landed: $31.03 | Your All-In Landed: $24.12 (Saves $6.91)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$14.75",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $2.95"
-    },
-    {
-      "id": "LAPO-20",
-      "name": "[Includes Free AI Face-Swap & Custom Preview] Pastel Balloon Arch Garland Kit",
-      "price": "$5.95",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRG7vDoGbedZJcCZhHFvZxvCpjMtiurN6W69pW9Cd7RsMAbtGZAZANuBs11eiYmfaq_OhaYlMqoKBvYYLH-KXROTZ4lnG-OCkI-H2UYPNucCCIYdj5L-r_lUg",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSlBT5qRgWTky0-PHERoYO9ZR0-0lPTH1HT7jnjGQLcwIKchN9COKaHXhBDBLVjFuetUqSCLe7PJ89sSo6gzq6kCSm8IVAjJVBiLDtHuS4",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQFz9DF8t98OoOI4NBQOJY1oBF5X1OyimUma4Kp7b6nhMJk4wjTMPwRcdxaIgc8HWq6dk0rldZcC8mVsGSJOocJNMWwKuflFP-c_4VD9coQSoq0Ow6rrLMK"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 6,
-      "specs": {
-        "manufacturer": "Dollar General • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified Vendor • Includes 3D Custom Name, Banner & AI Face-Swap Mockup Preview",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $0.49) + Card Fee ($0.60)",
-        "market_value": "Competitor Landed: $16.07 | Your All-In Landed: $11.03 (Saves $5.04)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$4.96",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $0.99"
-    },
-    {
-      "id": "LAPO-21",
-      "name": "[Includes Free AI Face-Swap & Custom Preview] 192pcs Halloween Balloon Arch Kit For Hall",
-      "price": "$17.76",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSlBT5qRgWTky0-PHERoYO9ZR0-0lPTH1HT7jnjGQLcwIKchN9COKaHXhBDBLVjFuetUqSCLe7PJ89sSo6gzq6kCSm8IVAjJVBiLDtHuS4",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQFz9DF8t98OoOI4NBQOJY1oBF5X1OyimUma4Kp7b6nhMJk4wjTMPwRcdxaIgc8HWq6dk0rldZcC8mVsGSJOocJNMWwKuflFP-c_4VD9coQSoq0Ow6rrLMK",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTaNvmIYlgQMS4sw5E5OVuG2HBWamcbbOIGMIwy1AagCdXm4tLFMPQmRBVZ935hmahLOWAPl7ZnCFZ-BbSBB8yjo9slCVqZ8Vg0SHmHju2az_yNusMNiak7YZI"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 7,
-      "specs": {
-        "manufacturer": "eBay - baixincx125 • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified Vendor • Includes 3D Custom Name, Banner & AI Face-Swap Mockup Preview",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.47) + Card Fee ($0.97)",
-        "market_value": "Competitor Landed: $31.10 | Your All-In Landed: $24.19 (Saves $6.91)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$14.80",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $2.96"
-    },
-    {
-      "id": "LAPO-22",
-      "name": "[Includes Free AI Face-Swap & Custom Preview] 105-piece Fiesta Balloon Arch Kit for Mexi",
-      "price": "$29.90",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQFz9DF8t98OoOI4NBQOJY1oBF5X1OyimUma4Kp7b6nhMJk4wjTMPwRcdxaIgc8HWq6dk0rldZcC8mVsGSJOocJNMWwKuflFP-c_4VD9coQSoq0Ow6rrLMK",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTaNvmIYlgQMS4sw5E5OVuG2HBWamcbbOIGMIwy1AagCdXm4tLFMPQmRBVZ935hmahLOWAPl7ZnCFZ-BbSBB8yjo9slCVqZ8Vg0SHmHju2az_yNusMNiak7YZI",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRRTwrqMLOqzwArCzhQiVGsDioCRfkcq2WRpn2vEf7AH--CyIUtfR7jz8CnhN_4APE36oxAMM3pX_7rD0-A0XziJfWjAPowqewjyvogzwGgNHynsW0R8nlP"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 8,
-      "specs": {
-        "manufacturer": "Walmart - Seller • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified Vendor • Includes 3D Custom Name, Banner & AI Face-Swap Mockup Preview",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.47) + Card Fee ($1.35)",
-        "market_value": "Competitor Landed: $46.57 | Your All-In Landed: $37.71 (Saves $8.86)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$24.92",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $4.98"
-    },
-    {
-      "id": "LAPO-23",
-      "name": "[Includes Free AI Face-Swap & Custom Preview] Deep Purple Balloon Arch Set Birthday Ball",
-      "price": "$7.91",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTaNvmIYlgQMS4sw5E5OVuG2HBWamcbbOIGMIwy1AagCdXm4tLFMPQmRBVZ935hmahLOWAPl7ZnCFZ-BbSBB8yjo9slCVqZ8Vg0SHmHju2az_yNusMNiak7YZI",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRRTwrqMLOqzwArCzhQiVGsDioCRfkcq2WRpn2vEf7AH--CyIUtfR7jz8CnhN_4APE36oxAMM3pX_7rD0-A0XziJfWjAPowqewjyvogzwGgNHynsW0R8nlP",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS_XMG5hcke9JOd5Bf7P8pi9qLwuKTlF2ebsY6dT0YHrI6JeWltCLqDQW87fl8bTAcVMiGxbUoKTyWywiPlb9yA_rMZjIXb5RA8ihOr0DU1"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "id": "PARTY250-161",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
       "count": 9,
-      "specs": {
-        "manufacturer": "Shein • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 9 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified Vendor • Includes 3D Custom Name, Banner & AI Face-Swap Mockup Preview",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $0.65) + Card Fee ($0.66)",
-        "market_value": "Competitor Landed: $18.57 | Your All-In Landed: $13.21 (Saves $5.36)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$6.59",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $1.32"
-    },
-    {
-      "id": "LAPO-24",
-      "name": "[Includes Free AI Face-Swap & Custom Preview] Classic Winnie the Pooh DIY Balloon Garlan",
-      "price": "$11.04",
+      "name": "Helium Tanks, Pumps & Arches Kit #11",
+      "price": "$50.49",
+      "competitorPrice": "$63.11",
+      "savings": "Save $12.62",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRRTwrqMLOqzwArCzhQiVGsDioCRfkcq2WRpn2vEf7AH--CyIUtfR7jz8CnhN_4APE36oxAMM3pX_7rD0-A0XziJfWjAPowqewjyvogzwGgNHynsW0R8nlP",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS_XMG5hcke9JOd5Bf7P8pi9qLwuKTlF2ebsY6dT0YHrI6JeWltCLqDQW87fl8bTAcVMiGxbUoKTyWywiPlb9yA_rMZjIXb5RA8ihOr0DU1",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSunh3o6R45kyjwKdEPjW4D2qEdPoz0fKJYXQTSs_tafsOSIdflwC7E0ZaoLVKiEWvpKU_TgGDAGSIJxB9Kz5yfv7WIE_KpT1xyCCMJBeE"
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 10,
       "specs": {
-        "manufacturer": "Etsy - Seller • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 10 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified Vendor • Includes 3D Custom Name, Banner & AI Face-Swap Mockup Preview",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $0.91) + Card Fee ($0.76)",
-        "market_value": "Competitor Landed: $22.55 | Your All-In Landed: $16.70 (Saves $5.85)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$9.20",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $1.84"
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
     },
     {
-      "id": "LAPO-25",
-      "name": "[Includes Free AI Face-Swap & Custom Preview] Balloon Arch Kit",
-      "price": "$33.99",
+      "id": "PARTY250-162",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Helium Tanks, Pumps & Arches Kit #12",
+      "price": "$54.24",
+      "competitorPrice": "$67.80",
+      "savings": "Save $13.56",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS_XMG5hcke9JOd5Bf7P8pi9qLwuKTlF2ebsY6dT0YHrI6JeWltCLqDQW87fl8bTAcVMiGxbUoKTyWywiPlb9yA_rMZjIXb5RA8ihOr0DU1",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSunh3o6R45kyjwKdEPjW4D2qEdPoz0fKJYXQTSs_tafsOSIdflwC7E0ZaoLVKiEWvpKU_TgGDAGSIJxB9Kz5yfv7WIE_KpT1xyCCMJBeE",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTB48o1P6zrVdC-83wOBp0Wzv8T8wwhXaDSvVahG0cqtPTSJjzVQb8IkKiN5Hm6EUu-R0wdS_pB6Lf-PNcaHlfJZ8rwByTzb6N8AYVNDAY"
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 11,
       "specs": {
-        "manufacturer": "PopFestCo • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 11 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified Vendor • Includes 3D Custom Name, Banner & AI Face-Swap Mockup Preview",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.80) + Card Fee ($1.48)",
-        "market_value": "Competitor Landed: $51.78 | Your All-In Landed: $42.26 (Saves $9.52)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$28.33",
-      "netMargin": "20% Custom Party Net (15% Below Custom Competitors) • Net Profit: $5.66"
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-163",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Helium Tanks, Pumps & Arches Kit #13",
+      "price": "$57.99",
+      "competitorPrice": "$72.49",
+      "savings": "Save $14.50",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-164",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Helium Tanks, Pumps & Arches Kit #14",
+      "price": "$61.74",
+      "competitorPrice": "$77.17",
+      "savings": "Save $15.43",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-165",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Helium Tanks, Pumps & Arches Kit #15",
+      "price": "$65.49",
+      "competitorPrice": "$81.86",
+      "savings": "Save $16.37",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-166",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Helium Tanks, Pumps & Arches Kit #16",
+      "price": "$69.24",
+      "competitorPrice": "$86.55",
+      "savings": "Save $17.31",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-167",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Helium Tanks, Pumps & Arches Kit #17",
+      "price": "$72.99",
+      "competitorPrice": "$91.24",
+      "savings": "Save $18.25",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-168",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 21,
+      "name": "Helium Tanks, Pumps & Arches Kit #18",
+      "price": "$76.74",
+      "competitorPrice": "$95.92",
+      "savings": "Save $19.18",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-169",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Helium Tanks, Pumps & Arches Kit #19",
+      "price": "$89.99",
+      "competitorPrice": "$112.49",
+      "savings": "Save $22.50",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-170",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Helium Tanks, Pumps & Arches Kit #20",
+      "price": "$98.49",
+      "competitorPrice": "$123.11",
+      "savings": "Save $24.62",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-171",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Helium Tanks, Pumps & Arches Kit #21",
+      "price": "$106.99",
+      "competitorPrice": "$133.74",
+      "savings": "Save $26.75",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-172",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Helium Tanks, Pumps & Arches Kit #22",
+      "price": "$115.49",
+      "competitorPrice": "$144.36",
+      "savings": "Save $28.87",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-173",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Helium Tanks, Pumps & Arches Kit #23",
+      "price": "$123.99",
+      "competitorPrice": "$154.99",
+      "savings": "Save $31.00",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-174",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Helium Tanks, Pumps & Arches Kit #24",
+      "price": "$132.49",
+      "competitorPrice": "$165.61",
+      "savings": "Save $33.12",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-175",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Helium Tanks, Pumps & Arches Kit #25",
+      "price": "$140.99",
+      "competitorPrice": "$176.24",
+      "savings": "Save $35.25",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
     }
   ],
   "albs-mall-gift-cards": [
@@ -129354,6 +129429,6258 @@ export const masterInventory: Record<string, any[]> = {
         "shipping": "Instant Digital Delivery: $0.00 Shipping • $0.00 Sales Tax on Gift Card Purchase",
         "market_value": "Face Value: $1000.00 | Redeemable via Promo/Gift Code Box at Stripe Checkout",
         "status": "GIFT_CARD_TAX_AND_SHIPPING_EXEMPT"
+      }
+    }
+  ],
+  "party-lapooza-superstore": [
+    {
+      "id": "PARTY250-1",
+      "deptId": "ages-1-5",
+      "deptLabel": "Ages 1-5 Theme Multi-Packs",
+      "ageBracket": "1-5",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 1-5 Theme Multi-Packs #1",
+      "price": "$19.99",
+      "competitorPrice": "$24.99",
+      "savings": "Save $5.00",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-2",
+      "deptId": "ages-1-5",
+      "deptLabel": "Ages 1-5 Theme Multi-Packs",
+      "ageBracket": "1-5",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 1-5 Theme Multi-Packs #2",
+      "price": "$22.24",
+      "competitorPrice": "$27.80",
+      "savings": "Save $5.56",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-3",
+      "deptId": "ages-1-5",
+      "deptLabel": "Ages 1-5 Theme Multi-Packs",
+      "ageBracket": "1-5",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 1-5 Theme Multi-Packs #3",
+      "price": "$24.49",
+      "competitorPrice": "$30.61",
+      "savings": "Save $6.12",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-4",
+      "deptId": "ages-1-5",
+      "deptLabel": "Ages 1-5 Theme Multi-Packs",
+      "ageBracket": "1-5",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 1-5 Theme Multi-Packs #4",
+      "price": "$26.74",
+      "competitorPrice": "$33.42",
+      "savings": "Save $6.68",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-5",
+      "deptId": "ages-1-5",
+      "deptLabel": "Ages 1-5 Theme Multi-Packs",
+      "ageBracket": "1-5",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 1-5 Theme Multi-Packs #5",
+      "price": "$28.99",
+      "competitorPrice": "$36.24",
+      "savings": "Save $7.25",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-6",
+      "deptId": "ages-1-5",
+      "deptLabel": "Ages 1-5 Theme Multi-Packs",
+      "ageBracket": "1-5",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 1-5 Theme Multi-Packs #6",
+      "price": "$31.24",
+      "competitorPrice": "$39.05",
+      "savings": "Save $7.81",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-7",
+      "deptId": "ages-1-5",
+      "deptLabel": "Ages 1-5 Theme Multi-Packs",
+      "ageBracket": "1-5",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 1-5 Theme Multi-Packs #7",
+      "price": "$33.49",
+      "competitorPrice": "$41.86",
+      "savings": "Save $8.37",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-8",
+      "deptId": "ages-1-5",
+      "deptLabel": "Ages 1-5 Theme Multi-Packs",
+      "ageBracket": "1-5",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 1-5 Theme Multi-Packs #8",
+      "price": "$35.74",
+      "competitorPrice": "$44.68",
+      "savings": "Save $8.94",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-9",
+      "deptId": "ages-1-5",
+      "deptLabel": "Ages 1-5 Theme Multi-Packs",
+      "ageBracket": "1-5",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 1-5 Theme Multi-Packs #9",
+      "price": "$42.99",
+      "competitorPrice": "$53.74",
+      "savings": "Save $10.75",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-10",
+      "deptId": "ages-1-5",
+      "deptLabel": "Ages 1-5 Theme Multi-Packs",
+      "ageBracket": "1-5",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 1-5 Theme Multi-Packs #10",
+      "price": "$46.74",
+      "competitorPrice": "$58.43",
+      "savings": "Save $11.69",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-11",
+      "deptId": "ages-1-5",
+      "deptLabel": "Ages 1-5 Theme Multi-Packs",
+      "ageBracket": "1-5",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 1-5 Theme Multi-Packs #11",
+      "price": "$50.49",
+      "competitorPrice": "$63.11",
+      "savings": "Save $12.62",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-12",
+      "deptId": "ages-1-5",
+      "deptLabel": "Ages 1-5 Theme Multi-Packs",
+      "ageBracket": "1-5",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 1-5 Theme Multi-Packs #12",
+      "price": "$54.24",
+      "competitorPrice": "$67.80",
+      "savings": "Save $13.56",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-13",
+      "deptId": "ages-1-5",
+      "deptLabel": "Ages 1-5 Theme Multi-Packs",
+      "ageBracket": "1-5",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 1-5 Theme Multi-Packs #13",
+      "price": "$57.99",
+      "competitorPrice": "$72.49",
+      "savings": "Save $14.50",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-14",
+      "deptId": "ages-1-5",
+      "deptLabel": "Ages 1-5 Theme Multi-Packs",
+      "ageBracket": "1-5",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 1-5 Theme Multi-Packs #14",
+      "price": "$61.74",
+      "competitorPrice": "$77.17",
+      "savings": "Save $15.43",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-15",
+      "deptId": "ages-1-5",
+      "deptLabel": "Ages 1-5 Theme Multi-Packs",
+      "ageBracket": "1-5",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 1-5 Theme Multi-Packs #15",
+      "price": "$65.49",
+      "competitorPrice": "$81.86",
+      "savings": "Save $16.37",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-16",
+      "deptId": "ages-1-5",
+      "deptLabel": "Ages 1-5 Theme Multi-Packs",
+      "ageBracket": "1-5",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 1-5 Theme Multi-Packs #16",
+      "price": "$69.24",
+      "competitorPrice": "$86.55",
+      "savings": "Save $17.31",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-17",
+      "deptId": "ages-1-5",
+      "deptLabel": "Ages 1-5 Theme Multi-Packs",
+      "ageBracket": "1-5",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 1-5 Theme Multi-Packs #17",
+      "price": "$72.99",
+      "competitorPrice": "$91.24",
+      "savings": "Save $18.25",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-18",
+      "deptId": "ages-1-5",
+      "deptLabel": "Ages 1-5 Theme Multi-Packs",
+      "ageBracket": "1-5",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 1-5 Theme Multi-Packs #18",
+      "price": "$76.74",
+      "competitorPrice": "$95.92",
+      "savings": "Save $19.18",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-19",
+      "deptId": "ages-1-5",
+      "deptLabel": "Ages 1-5 Theme Multi-Packs",
+      "ageBracket": "1-5",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 1-5 Theme Multi-Packs #19",
+      "price": "$89.99",
+      "competitorPrice": "$112.49",
+      "savings": "Save $22.50",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-20",
+      "deptId": "ages-1-5",
+      "deptLabel": "Ages 1-5 Theme Multi-Packs",
+      "ageBracket": "1-5",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 1-5 Theme Multi-Packs #20",
+      "price": "$98.49",
+      "competitorPrice": "$123.11",
+      "savings": "Save $24.62",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-21",
+      "deptId": "ages-1-5",
+      "deptLabel": "Ages 1-5 Theme Multi-Packs",
+      "ageBracket": "1-5",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 1-5 Theme Multi-Packs #21",
+      "price": "$106.99",
+      "competitorPrice": "$133.74",
+      "savings": "Save $26.75",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-22",
+      "deptId": "ages-1-5",
+      "deptLabel": "Ages 1-5 Theme Multi-Packs",
+      "ageBracket": "1-5",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 1-5 Theme Multi-Packs #22",
+      "price": "$115.49",
+      "competitorPrice": "$144.36",
+      "savings": "Save $28.87",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-23",
+      "deptId": "ages-1-5",
+      "deptLabel": "Ages 1-5 Theme Multi-Packs",
+      "ageBracket": "1-5",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 1-5 Theme Multi-Packs #23",
+      "price": "$123.99",
+      "competitorPrice": "$154.99",
+      "savings": "Save $31.00",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-24",
+      "deptId": "ages-1-5",
+      "deptLabel": "Ages 1-5 Theme Multi-Packs",
+      "ageBracket": "1-5",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 1-5 Theme Multi-Packs #24",
+      "price": "$132.49",
+      "competitorPrice": "$165.61",
+      "savings": "Save $33.12",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-25",
+      "deptId": "ages-1-5",
+      "deptLabel": "Ages 1-5 Theme Multi-Packs",
+      "ageBracket": "1-5",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 1-5 Theme Multi-Packs #25",
+      "price": "$140.99",
+      "competitorPrice": "$176.24",
+      "savings": "Save $35.25",
+      "media": [
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600",
+        "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-26",
+      "deptId": "ages-6-10",
+      "deptLabel": "Ages 6-10 Theme Multi-Packs",
+      "ageBracket": "6-10",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 6-10 Theme Multi-Packs #1",
+      "price": "$19.99",
+      "competitorPrice": "$24.99",
+      "savings": "Save $5.00",
+      "media": [
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-27",
+      "deptId": "ages-6-10",
+      "deptLabel": "Ages 6-10 Theme Multi-Packs",
+      "ageBracket": "6-10",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 6-10 Theme Multi-Packs #2",
+      "price": "$22.24",
+      "competitorPrice": "$27.80",
+      "savings": "Save $5.56",
+      "media": [
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-28",
+      "deptId": "ages-6-10",
+      "deptLabel": "Ages 6-10 Theme Multi-Packs",
+      "ageBracket": "6-10",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 6-10 Theme Multi-Packs #3",
+      "price": "$24.49",
+      "competitorPrice": "$30.61",
+      "savings": "Save $6.12",
+      "media": [
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-29",
+      "deptId": "ages-6-10",
+      "deptLabel": "Ages 6-10 Theme Multi-Packs",
+      "ageBracket": "6-10",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 6-10 Theme Multi-Packs #4",
+      "price": "$26.74",
+      "competitorPrice": "$33.42",
+      "savings": "Save $6.68",
+      "media": [
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-30",
+      "deptId": "ages-6-10",
+      "deptLabel": "Ages 6-10 Theme Multi-Packs",
+      "ageBracket": "6-10",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 6-10 Theme Multi-Packs #5",
+      "price": "$28.99",
+      "competitorPrice": "$36.24",
+      "savings": "Save $7.25",
+      "media": [
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-31",
+      "deptId": "ages-6-10",
+      "deptLabel": "Ages 6-10 Theme Multi-Packs",
+      "ageBracket": "6-10",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 6-10 Theme Multi-Packs #6",
+      "price": "$31.24",
+      "competitorPrice": "$39.05",
+      "savings": "Save $7.81",
+      "media": [
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-32",
+      "deptId": "ages-6-10",
+      "deptLabel": "Ages 6-10 Theme Multi-Packs",
+      "ageBracket": "6-10",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 6-10 Theme Multi-Packs #7",
+      "price": "$33.49",
+      "competitorPrice": "$41.86",
+      "savings": "Save $8.37",
+      "media": [
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-33",
+      "deptId": "ages-6-10",
+      "deptLabel": "Ages 6-10 Theme Multi-Packs",
+      "ageBracket": "6-10",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 6-10 Theme Multi-Packs #8",
+      "price": "$35.74",
+      "competitorPrice": "$44.68",
+      "savings": "Save $8.94",
+      "media": [
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-34",
+      "deptId": "ages-6-10",
+      "deptLabel": "Ages 6-10 Theme Multi-Packs",
+      "ageBracket": "6-10",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 6-10 Theme Multi-Packs #9",
+      "price": "$42.99",
+      "competitorPrice": "$53.74",
+      "savings": "Save $10.75",
+      "media": [
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-35",
+      "deptId": "ages-6-10",
+      "deptLabel": "Ages 6-10 Theme Multi-Packs",
+      "ageBracket": "6-10",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 6-10 Theme Multi-Packs #10",
+      "price": "$46.74",
+      "competitorPrice": "$58.43",
+      "savings": "Save $11.69",
+      "media": [
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-36",
+      "deptId": "ages-6-10",
+      "deptLabel": "Ages 6-10 Theme Multi-Packs",
+      "ageBracket": "6-10",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 6-10 Theme Multi-Packs #11",
+      "price": "$50.49",
+      "competitorPrice": "$63.11",
+      "savings": "Save $12.62",
+      "media": [
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-37",
+      "deptId": "ages-6-10",
+      "deptLabel": "Ages 6-10 Theme Multi-Packs",
+      "ageBracket": "6-10",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 6-10 Theme Multi-Packs #12",
+      "price": "$54.24",
+      "competitorPrice": "$67.80",
+      "savings": "Save $13.56",
+      "media": [
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-38",
+      "deptId": "ages-6-10",
+      "deptLabel": "Ages 6-10 Theme Multi-Packs",
+      "ageBracket": "6-10",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 6-10 Theme Multi-Packs #13",
+      "price": "$57.99",
+      "competitorPrice": "$72.49",
+      "savings": "Save $14.50",
+      "media": [
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-39",
+      "deptId": "ages-6-10",
+      "deptLabel": "Ages 6-10 Theme Multi-Packs",
+      "ageBracket": "6-10",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 6-10 Theme Multi-Packs #14",
+      "price": "$61.74",
+      "competitorPrice": "$77.17",
+      "savings": "Save $15.43",
+      "media": [
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-40",
+      "deptId": "ages-6-10",
+      "deptLabel": "Ages 6-10 Theme Multi-Packs",
+      "ageBracket": "6-10",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 6-10 Theme Multi-Packs #15",
+      "price": "$65.49",
+      "competitorPrice": "$81.86",
+      "savings": "Save $16.37",
+      "media": [
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-41",
+      "deptId": "ages-6-10",
+      "deptLabel": "Ages 6-10 Theme Multi-Packs",
+      "ageBracket": "6-10",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 6-10 Theme Multi-Packs #16",
+      "price": "$69.24",
+      "competitorPrice": "$86.55",
+      "savings": "Save $17.31",
+      "media": [
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-42",
+      "deptId": "ages-6-10",
+      "deptLabel": "Ages 6-10 Theme Multi-Packs",
+      "ageBracket": "6-10",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 6-10 Theme Multi-Packs #17",
+      "price": "$72.99",
+      "competitorPrice": "$91.24",
+      "savings": "Save $18.25",
+      "media": [
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-43",
+      "deptId": "ages-6-10",
+      "deptLabel": "Ages 6-10 Theme Multi-Packs",
+      "ageBracket": "6-10",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 6-10 Theme Multi-Packs #18",
+      "price": "$76.74",
+      "competitorPrice": "$95.92",
+      "savings": "Save $19.18",
+      "media": [
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-44",
+      "deptId": "ages-6-10",
+      "deptLabel": "Ages 6-10 Theme Multi-Packs",
+      "ageBracket": "6-10",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 6-10 Theme Multi-Packs #19",
+      "price": "$89.99",
+      "competitorPrice": "$112.49",
+      "savings": "Save $22.50",
+      "media": [
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-45",
+      "deptId": "ages-6-10",
+      "deptLabel": "Ages 6-10 Theme Multi-Packs",
+      "ageBracket": "6-10",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 6-10 Theme Multi-Packs #20",
+      "price": "$98.49",
+      "competitorPrice": "$123.11",
+      "savings": "Save $24.62",
+      "media": [
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-46",
+      "deptId": "ages-6-10",
+      "deptLabel": "Ages 6-10 Theme Multi-Packs",
+      "ageBracket": "6-10",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 6-10 Theme Multi-Packs #21",
+      "price": "$106.99",
+      "competitorPrice": "$133.74",
+      "savings": "Save $26.75",
+      "media": [
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-47",
+      "deptId": "ages-6-10",
+      "deptLabel": "Ages 6-10 Theme Multi-Packs",
+      "ageBracket": "6-10",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 6-10 Theme Multi-Packs #22",
+      "price": "$115.49",
+      "competitorPrice": "$144.36",
+      "savings": "Save $28.87",
+      "media": [
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-48",
+      "deptId": "ages-6-10",
+      "deptLabel": "Ages 6-10 Theme Multi-Packs",
+      "ageBracket": "6-10",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 6-10 Theme Multi-Packs #23",
+      "price": "$123.99",
+      "competitorPrice": "$154.99",
+      "savings": "Save $31.00",
+      "media": [
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-49",
+      "deptId": "ages-6-10",
+      "deptLabel": "Ages 6-10 Theme Multi-Packs",
+      "ageBracket": "6-10",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 6-10 Theme Multi-Packs #24",
+      "price": "$132.49",
+      "competitorPrice": "$165.61",
+      "savings": "Save $33.12",
+      "media": [
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-50",
+      "deptId": "ages-6-10",
+      "deptLabel": "Ages 6-10 Theme Multi-Packs",
+      "ageBracket": "6-10",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 6-10 Theme Multi-Packs #25",
+      "price": "$140.99",
+      "competitorPrice": "$176.24",
+      "savings": "Save $35.25",
+      "media": [
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+        "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-51",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #1",
+      "price": "$19.99",
+      "competitorPrice": "$24.99",
+      "savings": "Save $5.00",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-52",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #2",
+      "price": "$22.24",
+      "competitorPrice": "$27.80",
+      "savings": "Save $5.56",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-53",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #3",
+      "price": "$24.49",
+      "competitorPrice": "$30.61",
+      "savings": "Save $6.12",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-54",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #4",
+      "price": "$26.74",
+      "competitorPrice": "$33.42",
+      "savings": "Save $6.68",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-55",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #5",
+      "price": "$28.99",
+      "competitorPrice": "$36.24",
+      "savings": "Save $7.25",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-56",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #6",
+      "price": "$31.24",
+      "competitorPrice": "$39.05",
+      "savings": "Save $7.81",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-57",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #7",
+      "price": "$33.49",
+      "competitorPrice": "$41.86",
+      "savings": "Save $8.37",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-58",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #8",
+      "price": "$35.74",
+      "competitorPrice": "$44.68",
+      "savings": "Save $8.94",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-59",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #9",
+      "price": "$42.99",
+      "competitorPrice": "$53.74",
+      "savings": "Save $10.75",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-60",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #10",
+      "price": "$46.74",
+      "competitorPrice": "$58.43",
+      "savings": "Save $11.69",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-61",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #11",
+      "price": "$50.49",
+      "competitorPrice": "$63.11",
+      "savings": "Save $12.62",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-62",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #12",
+      "price": "$54.24",
+      "competitorPrice": "$67.80",
+      "savings": "Save $13.56",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-63",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #13",
+      "price": "$57.99",
+      "competitorPrice": "$72.49",
+      "savings": "Save $14.50",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-64",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #14",
+      "price": "$61.74",
+      "competitorPrice": "$77.17",
+      "savings": "Save $15.43",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-65",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #15",
+      "price": "$65.49",
+      "competitorPrice": "$81.86",
+      "savings": "Save $16.37",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-66",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #16",
+      "price": "$69.24",
+      "competitorPrice": "$86.55",
+      "savings": "Save $17.31",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-67",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #17",
+      "price": "$72.99",
+      "competitorPrice": "$91.24",
+      "savings": "Save $18.25",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-68",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #18",
+      "price": "$76.74",
+      "competitorPrice": "$95.92",
+      "savings": "Save $19.18",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-69",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #19",
+      "price": "$89.99",
+      "competitorPrice": "$112.49",
+      "savings": "Save $22.50",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-70",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #20",
+      "price": "$98.49",
+      "competitorPrice": "$123.11",
+      "savings": "Save $24.62",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-71",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #21",
+      "price": "$106.99",
+      "competitorPrice": "$133.74",
+      "savings": "Save $26.75",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-72",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #22",
+      "price": "$115.49",
+      "competitorPrice": "$144.36",
+      "savings": "Save $28.87",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-73",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #23",
+      "price": "$123.99",
+      "competitorPrice": "$154.99",
+      "savings": "Save $31.00",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-74",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #24",
+      "price": "$132.49",
+      "competitorPrice": "$165.61",
+      "savings": "Save $33.12",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-75",
+      "deptId": "ages-10-15",
+      "deptLabel": "Ages 10-15 Neon & Quinceanera",
+      "ageBracket": "10-15",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 10-15 Neon & Quinceanera #25",
+      "price": "$140.99",
+      "competitorPrice": "$176.24",
+      "savings": "Save $35.25",
+      "media": [
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-76",
+      "deptId": "ages-15-21",
+      "deptLabel": "Ages 15-21 Sweet 16, Grad & 21st",
+      "ageBracket": "15-21",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 15-21 Sweet 16, Grad & 21st #1",
+      "price": "$19.99",
+      "competitorPrice": "$24.99",
+      "savings": "Save $5.00",
+      "media": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-77",
+      "deptId": "ages-15-21",
+      "deptLabel": "Ages 15-21 Sweet 16, Grad & 21st",
+      "ageBracket": "15-21",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 15-21 Sweet 16, Grad & 21st #2",
+      "price": "$22.24",
+      "competitorPrice": "$27.80",
+      "savings": "Save $5.56",
+      "media": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-78",
+      "deptId": "ages-15-21",
+      "deptLabel": "Ages 15-21 Sweet 16, Grad & 21st",
+      "ageBracket": "15-21",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 15-21 Sweet 16, Grad & 21st #3",
+      "price": "$24.49",
+      "competitorPrice": "$30.61",
+      "savings": "Save $6.12",
+      "media": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-79",
+      "deptId": "ages-15-21",
+      "deptLabel": "Ages 15-21 Sweet 16, Grad & 21st",
+      "ageBracket": "15-21",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 15-21 Sweet 16, Grad & 21st #4",
+      "price": "$26.74",
+      "competitorPrice": "$33.42",
+      "savings": "Save $6.68",
+      "media": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-80",
+      "deptId": "ages-15-21",
+      "deptLabel": "Ages 15-21 Sweet 16, Grad & 21st",
+      "ageBracket": "15-21",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 15-21 Sweet 16, Grad & 21st #5",
+      "price": "$28.99",
+      "competitorPrice": "$36.24",
+      "savings": "Save $7.25",
+      "media": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-81",
+      "deptId": "ages-15-21",
+      "deptLabel": "Ages 15-21 Sweet 16, Grad & 21st",
+      "ageBracket": "15-21",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 15-21 Sweet 16, Grad & 21st #6",
+      "price": "$31.24",
+      "competitorPrice": "$39.05",
+      "savings": "Save $7.81",
+      "media": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-82",
+      "deptId": "ages-15-21",
+      "deptLabel": "Ages 15-21 Sweet 16, Grad & 21st",
+      "ageBracket": "15-21",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 15-21 Sweet 16, Grad & 21st #7",
+      "price": "$33.49",
+      "competitorPrice": "$41.86",
+      "savings": "Save $8.37",
+      "media": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-83",
+      "deptId": "ages-15-21",
+      "deptLabel": "Ages 15-21 Sweet 16, Grad & 21st",
+      "ageBracket": "15-21",
+      "isCuratedBundle": true,
+      "priceBand": "low",
+      "count": 3,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 15-21 Sweet 16, Grad & 21st #8",
+      "price": "$35.74",
+      "competitorPrice": "$44.68",
+      "savings": "Save $8.94",
+      "media": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-84",
+      "deptId": "ages-15-21",
+      "deptLabel": "Ages 15-21 Sweet 16, Grad & 21st",
+      "ageBracket": "15-21",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 15-21 Sweet 16, Grad & 21st #9",
+      "price": "$42.99",
+      "competitorPrice": "$53.74",
+      "savings": "Save $10.75",
+      "media": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-85",
+      "deptId": "ages-15-21",
+      "deptLabel": "Ages 15-21 Sweet 16, Grad & 21st",
+      "ageBracket": "15-21",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 15-21 Sweet 16, Grad & 21st #10",
+      "price": "$46.74",
+      "competitorPrice": "$58.43",
+      "savings": "Save $11.69",
+      "media": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-86",
+      "deptId": "ages-15-21",
+      "deptLabel": "Ages 15-21 Sweet 16, Grad & 21st",
+      "ageBracket": "15-21",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 15-21 Sweet 16, Grad & 21st #11",
+      "price": "$50.49",
+      "competitorPrice": "$63.11",
+      "savings": "Save $12.62",
+      "media": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-87",
+      "deptId": "ages-15-21",
+      "deptLabel": "Ages 15-21 Sweet 16, Grad & 21st",
+      "ageBracket": "15-21",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 15-21 Sweet 16, Grad & 21st #12",
+      "price": "$54.24",
+      "competitorPrice": "$67.80",
+      "savings": "Save $13.56",
+      "media": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-88",
+      "deptId": "ages-15-21",
+      "deptLabel": "Ages 15-21 Sweet 16, Grad & 21st",
+      "ageBracket": "15-21",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 15-21 Sweet 16, Grad & 21st #13",
+      "price": "$57.99",
+      "competitorPrice": "$72.49",
+      "savings": "Save $14.50",
+      "media": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-89",
+      "deptId": "ages-15-21",
+      "deptLabel": "Ages 15-21 Sweet 16, Grad & 21st",
+      "ageBracket": "15-21",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 15-21 Sweet 16, Grad & 21st #14",
+      "price": "$61.74",
+      "competitorPrice": "$77.17",
+      "savings": "Save $15.43",
+      "media": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-90",
+      "deptId": "ages-15-21",
+      "deptLabel": "Ages 15-21 Sweet 16, Grad & 21st",
+      "ageBracket": "15-21",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 15-21 Sweet 16, Grad & 21st #15",
+      "price": "$65.49",
+      "competitorPrice": "$81.86",
+      "savings": "Save $16.37",
+      "media": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-91",
+      "deptId": "ages-15-21",
+      "deptLabel": "Ages 15-21 Sweet 16, Grad & 21st",
+      "ageBracket": "15-21",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 15-21 Sweet 16, Grad & 21st #16",
+      "price": "$69.24",
+      "competitorPrice": "$86.55",
+      "savings": "Save $17.31",
+      "media": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-92",
+      "deptId": "ages-15-21",
+      "deptLabel": "Ages 15-21 Sweet 16, Grad & 21st",
+      "ageBracket": "15-21",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 15-21 Sweet 16, Grad & 21st #17",
+      "price": "$72.99",
+      "competitorPrice": "$91.24",
+      "savings": "Save $18.25",
+      "media": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-93",
+      "deptId": "ages-15-21",
+      "deptLabel": "Ages 15-21 Sweet 16, Grad & 21st",
+      "ageBracket": "15-21",
+      "isCuratedBundle": true,
+      "priceBand": "mid",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 15-21 Sweet 16, Grad & 21st #18",
+      "price": "$76.74",
+      "competitorPrice": "$95.92",
+      "savings": "Save $19.18",
+      "media": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-94",
+      "deptId": "ages-15-21",
+      "deptLabel": "Ages 15-21 Sweet 16, Grad & 21st",
+      "ageBracket": "15-21",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 15-21 Sweet 16, Grad & 21st #19",
+      "price": "$89.99",
+      "competitorPrice": "$112.49",
+      "savings": "Save $22.50",
+      "media": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-95",
+      "deptId": "ages-15-21",
+      "deptLabel": "Ages 15-21 Sweet 16, Grad & 21st",
+      "ageBracket": "15-21",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 15-21 Sweet 16, Grad & 21st #20",
+      "price": "$98.49",
+      "competitorPrice": "$123.11",
+      "savings": "Save $24.62",
+      "media": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-96",
+      "deptId": "ages-15-21",
+      "deptLabel": "Ages 15-21 Sweet 16, Grad & 21st",
+      "ageBracket": "15-21",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 15-21 Sweet 16, Grad & 21st #21",
+      "price": "$106.99",
+      "competitorPrice": "$133.74",
+      "savings": "Save $26.75",
+      "media": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-97",
+      "deptId": "ages-15-21",
+      "deptLabel": "Ages 15-21 Sweet 16, Grad & 21st",
+      "ageBracket": "15-21",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 15-21 Sweet 16, Grad & 21st #22",
+      "price": "$115.49",
+      "competitorPrice": "$144.36",
+      "savings": "Save $28.87",
+      "media": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-98",
+      "deptId": "ages-15-21",
+      "deptLabel": "Ages 15-21 Sweet 16, Grad & 21st",
+      "ageBracket": "15-21",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 15-21 Sweet 16, Grad & 21st #23",
+      "price": "$123.99",
+      "competitorPrice": "$154.99",
+      "savings": "Save $31.00",
+      "media": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-99",
+      "deptId": "ages-15-21",
+      "deptLabel": "Ages 15-21 Sweet 16, Grad & 21st",
+      "ageBracket": "15-21",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 15-21 Sweet 16, Grad & 21st #24",
+      "price": "$132.49",
+      "competitorPrice": "$165.61",
+      "savings": "Save $33.12",
+      "media": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-100",
+      "deptId": "ages-15-21",
+      "deptLabel": "Ages 15-21 Sweet 16, Grad & 21st",
+      "ageBracket": "15-21",
+      "isCuratedBundle": true,
+      "priceBand": "high",
+      "count": 21,
+      "name": "[10-Guest 1-Box Bundle + 60 Balloons + Custom Banner] Ages 15-21 Sweet 16, Grad & 21st #25",
+      "price": "$140.99",
+      "competitorPrice": "$176.24",
+      "savings": "Save $35.25",
+      "media": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Complete 10-Guest Multi-Pack (Ships in 1 Box)",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-101",
+      "deptId": "candy-buffet",
+      "deptLabel": "Bulk Candy Buffet & Fountains",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Bulk Candy Buffet & Fountains Kit #1",
+      "price": "$19.99",
+      "competitorPrice": "$24.99",
+      "savings": "Save $5.00",
+      "media": [
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-102",
+      "deptId": "candy-buffet",
+      "deptLabel": "Bulk Candy Buffet & Fountains",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Bulk Candy Buffet & Fountains Kit #2",
+      "price": "$22.24",
+      "competitorPrice": "$27.80",
+      "savings": "Save $5.56",
+      "media": [
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-103",
+      "deptId": "candy-buffet",
+      "deptLabel": "Bulk Candy Buffet & Fountains",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Bulk Candy Buffet & Fountains Kit #3",
+      "price": "$24.49",
+      "competitorPrice": "$30.61",
+      "savings": "Save $6.12",
+      "media": [
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-104",
+      "deptId": "candy-buffet",
+      "deptLabel": "Bulk Candy Buffet & Fountains",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Bulk Candy Buffet & Fountains Kit #4",
+      "price": "$26.74",
+      "competitorPrice": "$33.42",
+      "savings": "Save $6.68",
+      "media": [
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-105",
+      "deptId": "candy-buffet",
+      "deptLabel": "Bulk Candy Buffet & Fountains",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Bulk Candy Buffet & Fountains Kit #5",
+      "price": "$28.99",
+      "competitorPrice": "$36.24",
+      "savings": "Save $7.25",
+      "media": [
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-106",
+      "deptId": "candy-buffet",
+      "deptLabel": "Bulk Candy Buffet & Fountains",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Bulk Candy Buffet & Fountains Kit #6",
+      "price": "$31.24",
+      "competitorPrice": "$39.05",
+      "savings": "Save $7.81",
+      "media": [
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-107",
+      "deptId": "candy-buffet",
+      "deptLabel": "Bulk Candy Buffet & Fountains",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Bulk Candy Buffet & Fountains Kit #7",
+      "price": "$33.49",
+      "competitorPrice": "$41.86",
+      "savings": "Save $8.37",
+      "media": [
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-108",
+      "deptId": "candy-buffet",
+      "deptLabel": "Bulk Candy Buffet & Fountains",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Bulk Candy Buffet & Fountains Kit #8",
+      "price": "$35.74",
+      "competitorPrice": "$44.68",
+      "savings": "Save $8.94",
+      "media": [
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-109",
+      "deptId": "candy-buffet",
+      "deptLabel": "Bulk Candy Buffet & Fountains",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Bulk Candy Buffet & Fountains Kit #9",
+      "price": "$42.99",
+      "competitorPrice": "$53.74",
+      "savings": "Save $10.75",
+      "media": [
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-110",
+      "deptId": "candy-buffet",
+      "deptLabel": "Bulk Candy Buffet & Fountains",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Bulk Candy Buffet & Fountains Kit #10",
+      "price": "$46.74",
+      "competitorPrice": "$58.43",
+      "savings": "Save $11.69",
+      "media": [
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-111",
+      "deptId": "candy-buffet",
+      "deptLabel": "Bulk Candy Buffet & Fountains",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Bulk Candy Buffet & Fountains Kit #11",
+      "price": "$50.49",
+      "competitorPrice": "$63.11",
+      "savings": "Save $12.62",
+      "media": [
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-112",
+      "deptId": "candy-buffet",
+      "deptLabel": "Bulk Candy Buffet & Fountains",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Bulk Candy Buffet & Fountains Kit #12",
+      "price": "$54.24",
+      "competitorPrice": "$67.80",
+      "savings": "Save $13.56",
+      "media": [
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-113",
+      "deptId": "candy-buffet",
+      "deptLabel": "Bulk Candy Buffet & Fountains",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Bulk Candy Buffet & Fountains Kit #13",
+      "price": "$57.99",
+      "competitorPrice": "$72.49",
+      "savings": "Save $14.50",
+      "media": [
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-114",
+      "deptId": "candy-buffet",
+      "deptLabel": "Bulk Candy Buffet & Fountains",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Bulk Candy Buffet & Fountains Kit #14",
+      "price": "$61.74",
+      "competitorPrice": "$77.17",
+      "savings": "Save $15.43",
+      "media": [
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-115",
+      "deptId": "candy-buffet",
+      "deptLabel": "Bulk Candy Buffet & Fountains",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Bulk Candy Buffet & Fountains Kit #15",
+      "price": "$65.49",
+      "competitorPrice": "$81.86",
+      "savings": "Save $16.37",
+      "media": [
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-116",
+      "deptId": "candy-buffet",
+      "deptLabel": "Bulk Candy Buffet & Fountains",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Bulk Candy Buffet & Fountains Kit #16",
+      "price": "$69.24",
+      "competitorPrice": "$86.55",
+      "savings": "Save $17.31",
+      "media": [
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-117",
+      "deptId": "candy-buffet",
+      "deptLabel": "Bulk Candy Buffet & Fountains",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Bulk Candy Buffet & Fountains Kit #17",
+      "price": "$72.99",
+      "competitorPrice": "$91.24",
+      "savings": "Save $18.25",
+      "media": [
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-118",
+      "deptId": "candy-buffet",
+      "deptLabel": "Bulk Candy Buffet & Fountains",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 21,
+      "name": "Bulk Candy Buffet & Fountains Kit #18",
+      "price": "$76.74",
+      "competitorPrice": "$95.92",
+      "savings": "Save $19.18",
+      "media": [
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-119",
+      "deptId": "candy-buffet",
+      "deptLabel": "Bulk Candy Buffet & Fountains",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Bulk Candy Buffet & Fountains Kit #19",
+      "price": "$89.99",
+      "competitorPrice": "$112.49",
+      "savings": "Save $22.50",
+      "media": [
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-120",
+      "deptId": "candy-buffet",
+      "deptLabel": "Bulk Candy Buffet & Fountains",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Bulk Candy Buffet & Fountains Kit #20",
+      "price": "$98.49",
+      "competitorPrice": "$123.11",
+      "savings": "Save $24.62",
+      "media": [
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-121",
+      "deptId": "candy-buffet",
+      "deptLabel": "Bulk Candy Buffet & Fountains",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Bulk Candy Buffet & Fountains Kit #21",
+      "price": "$106.99",
+      "competitorPrice": "$133.74",
+      "savings": "Save $26.75",
+      "media": [
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-122",
+      "deptId": "candy-buffet",
+      "deptLabel": "Bulk Candy Buffet & Fountains",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Bulk Candy Buffet & Fountains Kit #22",
+      "price": "$115.49",
+      "competitorPrice": "$144.36",
+      "savings": "Save $28.87",
+      "media": [
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-123",
+      "deptId": "candy-buffet",
+      "deptLabel": "Bulk Candy Buffet & Fountains",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Bulk Candy Buffet & Fountains Kit #23",
+      "price": "$123.99",
+      "competitorPrice": "$154.99",
+      "savings": "Save $31.00",
+      "media": [
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-124",
+      "deptId": "candy-buffet",
+      "deptLabel": "Bulk Candy Buffet & Fountains",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Bulk Candy Buffet & Fountains Kit #24",
+      "price": "$132.49",
+      "competitorPrice": "$165.61",
+      "savings": "Save $33.12",
+      "media": [
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-125",
+      "deptId": "candy-buffet",
+      "deptLabel": "Bulk Candy Buffet & Fountains",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Bulk Candy Buffet & Fountains Kit #25",
+      "price": "$140.99",
+      "competitorPrice": "$176.24",
+      "savings": "Save $35.25",
+      "media": [
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600",
+        "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-126",
+      "deptId": "favors-pinatas",
+      "deptLabel": "Pre-Filled Favors & Pinatas",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Pre-Filled Favors & Pinatas Kit #1",
+      "price": "$19.99",
+      "competitorPrice": "$24.99",
+      "savings": "Save $5.00",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-127",
+      "deptId": "favors-pinatas",
+      "deptLabel": "Pre-Filled Favors & Pinatas",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Pre-Filled Favors & Pinatas Kit #2",
+      "price": "$22.24",
+      "competitorPrice": "$27.80",
+      "savings": "Save $5.56",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-128",
+      "deptId": "favors-pinatas",
+      "deptLabel": "Pre-Filled Favors & Pinatas",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Pre-Filled Favors & Pinatas Kit #3",
+      "price": "$24.49",
+      "competitorPrice": "$30.61",
+      "savings": "Save $6.12",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-129",
+      "deptId": "favors-pinatas",
+      "deptLabel": "Pre-Filled Favors & Pinatas",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Pre-Filled Favors & Pinatas Kit #4",
+      "price": "$26.74",
+      "competitorPrice": "$33.42",
+      "savings": "Save $6.68",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-130",
+      "deptId": "favors-pinatas",
+      "deptLabel": "Pre-Filled Favors & Pinatas",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Pre-Filled Favors & Pinatas Kit #5",
+      "price": "$28.99",
+      "competitorPrice": "$36.24",
+      "savings": "Save $7.25",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-131",
+      "deptId": "favors-pinatas",
+      "deptLabel": "Pre-Filled Favors & Pinatas",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Pre-Filled Favors & Pinatas Kit #6",
+      "price": "$31.24",
+      "competitorPrice": "$39.05",
+      "savings": "Save $7.81",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-132",
+      "deptId": "favors-pinatas",
+      "deptLabel": "Pre-Filled Favors & Pinatas",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Pre-Filled Favors & Pinatas Kit #7",
+      "price": "$33.49",
+      "competitorPrice": "$41.86",
+      "savings": "Save $8.37",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-133",
+      "deptId": "favors-pinatas",
+      "deptLabel": "Pre-Filled Favors & Pinatas",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Pre-Filled Favors & Pinatas Kit #8",
+      "price": "$35.74",
+      "competitorPrice": "$44.68",
+      "savings": "Save $8.94",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-134",
+      "deptId": "favors-pinatas",
+      "deptLabel": "Pre-Filled Favors & Pinatas",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Pre-Filled Favors & Pinatas Kit #9",
+      "price": "$42.99",
+      "competitorPrice": "$53.74",
+      "savings": "Save $10.75",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-135",
+      "deptId": "favors-pinatas",
+      "deptLabel": "Pre-Filled Favors & Pinatas",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Pre-Filled Favors & Pinatas Kit #10",
+      "price": "$46.74",
+      "competitorPrice": "$58.43",
+      "savings": "Save $11.69",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-136",
+      "deptId": "favors-pinatas",
+      "deptLabel": "Pre-Filled Favors & Pinatas",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Pre-Filled Favors & Pinatas Kit #11",
+      "price": "$50.49",
+      "competitorPrice": "$63.11",
+      "savings": "Save $12.62",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-137",
+      "deptId": "favors-pinatas",
+      "deptLabel": "Pre-Filled Favors & Pinatas",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Pre-Filled Favors & Pinatas Kit #12",
+      "price": "$54.24",
+      "competitorPrice": "$67.80",
+      "savings": "Save $13.56",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-138",
+      "deptId": "favors-pinatas",
+      "deptLabel": "Pre-Filled Favors & Pinatas",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Pre-Filled Favors & Pinatas Kit #13",
+      "price": "$57.99",
+      "competitorPrice": "$72.49",
+      "savings": "Save $14.50",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-139",
+      "deptId": "favors-pinatas",
+      "deptLabel": "Pre-Filled Favors & Pinatas",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Pre-Filled Favors & Pinatas Kit #14",
+      "price": "$61.74",
+      "competitorPrice": "$77.17",
+      "savings": "Save $15.43",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-140",
+      "deptId": "favors-pinatas",
+      "deptLabel": "Pre-Filled Favors & Pinatas",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Pre-Filled Favors & Pinatas Kit #15",
+      "price": "$65.49",
+      "competitorPrice": "$81.86",
+      "savings": "Save $16.37",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-141",
+      "deptId": "favors-pinatas",
+      "deptLabel": "Pre-Filled Favors & Pinatas",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Pre-Filled Favors & Pinatas Kit #16",
+      "price": "$69.24",
+      "competitorPrice": "$86.55",
+      "savings": "Save $17.31",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-142",
+      "deptId": "favors-pinatas",
+      "deptLabel": "Pre-Filled Favors & Pinatas",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Pre-Filled Favors & Pinatas Kit #17",
+      "price": "$72.99",
+      "competitorPrice": "$91.24",
+      "savings": "Save $18.25",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-143",
+      "deptId": "favors-pinatas",
+      "deptLabel": "Pre-Filled Favors & Pinatas",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 21,
+      "name": "Pre-Filled Favors & Pinatas Kit #18",
+      "price": "$76.74",
+      "competitorPrice": "$95.92",
+      "savings": "Save $19.18",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-144",
+      "deptId": "favors-pinatas",
+      "deptLabel": "Pre-Filled Favors & Pinatas",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Pre-Filled Favors & Pinatas Kit #19",
+      "price": "$89.99",
+      "competitorPrice": "$112.49",
+      "savings": "Save $22.50",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-145",
+      "deptId": "favors-pinatas",
+      "deptLabel": "Pre-Filled Favors & Pinatas",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Pre-Filled Favors & Pinatas Kit #20",
+      "price": "$98.49",
+      "competitorPrice": "$123.11",
+      "savings": "Save $24.62",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-146",
+      "deptId": "favors-pinatas",
+      "deptLabel": "Pre-Filled Favors & Pinatas",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Pre-Filled Favors & Pinatas Kit #21",
+      "price": "$106.99",
+      "competitorPrice": "$133.74",
+      "savings": "Save $26.75",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-147",
+      "deptId": "favors-pinatas",
+      "deptLabel": "Pre-Filled Favors & Pinatas",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Pre-Filled Favors & Pinatas Kit #22",
+      "price": "$115.49",
+      "competitorPrice": "$144.36",
+      "savings": "Save $28.87",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-148",
+      "deptId": "favors-pinatas",
+      "deptLabel": "Pre-Filled Favors & Pinatas",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Pre-Filled Favors & Pinatas Kit #23",
+      "price": "$123.99",
+      "competitorPrice": "$154.99",
+      "savings": "Save $31.00",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-149",
+      "deptId": "favors-pinatas",
+      "deptLabel": "Pre-Filled Favors & Pinatas",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Pre-Filled Favors & Pinatas Kit #24",
+      "price": "$132.49",
+      "competitorPrice": "$165.61",
+      "savings": "Save $33.12",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-150",
+      "deptId": "favors-pinatas",
+      "deptLabel": "Pre-Filled Favors & Pinatas",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Pre-Filled Favors & Pinatas Kit #25",
+      "price": "$140.99",
+      "competitorPrice": "$176.24",
+      "savings": "Save $35.25",
+      "media": [
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600",
+        "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-151",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Helium Tanks, Pumps & Arches Kit #1",
+      "price": "$19.99",
+      "competitorPrice": "$24.99",
+      "savings": "Save $5.00",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-152",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Helium Tanks, Pumps & Arches Kit #2",
+      "price": "$22.24",
+      "competitorPrice": "$27.80",
+      "savings": "Save $5.56",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-153",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Helium Tanks, Pumps & Arches Kit #3",
+      "price": "$24.49",
+      "competitorPrice": "$30.61",
+      "savings": "Save $6.12",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-154",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Helium Tanks, Pumps & Arches Kit #4",
+      "price": "$26.74",
+      "competitorPrice": "$33.42",
+      "savings": "Save $6.68",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-155",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Helium Tanks, Pumps & Arches Kit #5",
+      "price": "$28.99",
+      "competitorPrice": "$36.24",
+      "savings": "Save $7.25",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-156",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Helium Tanks, Pumps & Arches Kit #6",
+      "price": "$31.24",
+      "competitorPrice": "$39.05",
+      "savings": "Save $7.81",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-157",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Helium Tanks, Pumps & Arches Kit #7",
+      "price": "$33.49",
+      "competitorPrice": "$41.86",
+      "savings": "Save $8.37",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-158",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Helium Tanks, Pumps & Arches Kit #8",
+      "price": "$35.74",
+      "competitorPrice": "$44.68",
+      "savings": "Save $8.94",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-159",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Helium Tanks, Pumps & Arches Kit #9",
+      "price": "$42.99",
+      "competitorPrice": "$53.74",
+      "savings": "Save $10.75",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-160",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Helium Tanks, Pumps & Arches Kit #10",
+      "price": "$46.74",
+      "competitorPrice": "$58.43",
+      "savings": "Save $11.69",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-161",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Helium Tanks, Pumps & Arches Kit #11",
+      "price": "$50.49",
+      "competitorPrice": "$63.11",
+      "savings": "Save $12.62",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-162",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Helium Tanks, Pumps & Arches Kit #12",
+      "price": "$54.24",
+      "competitorPrice": "$67.80",
+      "savings": "Save $13.56",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-163",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Helium Tanks, Pumps & Arches Kit #13",
+      "price": "$57.99",
+      "competitorPrice": "$72.49",
+      "savings": "Save $14.50",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-164",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Helium Tanks, Pumps & Arches Kit #14",
+      "price": "$61.74",
+      "competitorPrice": "$77.17",
+      "savings": "Save $15.43",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-165",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Helium Tanks, Pumps & Arches Kit #15",
+      "price": "$65.49",
+      "competitorPrice": "$81.86",
+      "savings": "Save $16.37",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-166",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Helium Tanks, Pumps & Arches Kit #16",
+      "price": "$69.24",
+      "competitorPrice": "$86.55",
+      "savings": "Save $17.31",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-167",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Helium Tanks, Pumps & Arches Kit #17",
+      "price": "$72.99",
+      "competitorPrice": "$91.24",
+      "savings": "Save $18.25",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-168",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 21,
+      "name": "Helium Tanks, Pumps & Arches Kit #18",
+      "price": "$76.74",
+      "competitorPrice": "$95.92",
+      "savings": "Save $19.18",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-169",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Helium Tanks, Pumps & Arches Kit #19",
+      "price": "$89.99",
+      "competitorPrice": "$112.49",
+      "savings": "Save $22.50",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-170",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Helium Tanks, Pumps & Arches Kit #20",
+      "price": "$98.49",
+      "competitorPrice": "$123.11",
+      "savings": "Save $24.62",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-171",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Helium Tanks, Pumps & Arches Kit #21",
+      "price": "$106.99",
+      "competitorPrice": "$133.74",
+      "savings": "Save $26.75",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-172",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Helium Tanks, Pumps & Arches Kit #22",
+      "price": "$115.49",
+      "competitorPrice": "$144.36",
+      "savings": "Save $28.87",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-173",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Helium Tanks, Pumps & Arches Kit #23",
+      "price": "$123.99",
+      "competitorPrice": "$154.99",
+      "savings": "Save $31.00",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-174",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Helium Tanks, Pumps & Arches Kit #24",
+      "price": "$132.49",
+      "competitorPrice": "$165.61",
+      "savings": "Save $33.12",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-175",
+      "deptId": "helium-balloons",
+      "deptLabel": "Helium Tanks, Pumps & Arches",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Helium Tanks, Pumps & Arches Kit #25",
+      "price": "$140.99",
+      "competitorPrice": "$176.24",
+      "savings": "Save $35.25",
+      "media": [
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600",
+        "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-176",
+      "deptId": "custom-standees",
+      "deptLabel": "Custom Face Standees & Banners",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Custom Face Standees & Banners Kit #1",
+      "price": "$19.99",
+      "competitorPrice": "$24.99",
+      "savings": "Save $5.00",
+      "media": [
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-177",
+      "deptId": "custom-standees",
+      "deptLabel": "Custom Face Standees & Banners",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Custom Face Standees & Banners Kit #2",
+      "price": "$22.24",
+      "competitorPrice": "$27.80",
+      "savings": "Save $5.56",
+      "media": [
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-178",
+      "deptId": "custom-standees",
+      "deptLabel": "Custom Face Standees & Banners",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Custom Face Standees & Banners Kit #3",
+      "price": "$24.49",
+      "competitorPrice": "$30.61",
+      "savings": "Save $6.12",
+      "media": [
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-179",
+      "deptId": "custom-standees",
+      "deptLabel": "Custom Face Standees & Banners",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Custom Face Standees & Banners Kit #4",
+      "price": "$26.74",
+      "competitorPrice": "$33.42",
+      "savings": "Save $6.68",
+      "media": [
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-180",
+      "deptId": "custom-standees",
+      "deptLabel": "Custom Face Standees & Banners",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Custom Face Standees & Banners Kit #5",
+      "price": "$28.99",
+      "competitorPrice": "$36.24",
+      "savings": "Save $7.25",
+      "media": [
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-181",
+      "deptId": "custom-standees",
+      "deptLabel": "Custom Face Standees & Banners",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Custom Face Standees & Banners Kit #6",
+      "price": "$31.24",
+      "competitorPrice": "$39.05",
+      "savings": "Save $7.81",
+      "media": [
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-182",
+      "deptId": "custom-standees",
+      "deptLabel": "Custom Face Standees & Banners",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Custom Face Standees & Banners Kit #7",
+      "price": "$33.49",
+      "competitorPrice": "$41.86",
+      "savings": "Save $8.37",
+      "media": [
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-183",
+      "deptId": "custom-standees",
+      "deptLabel": "Custom Face Standees & Banners",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Custom Face Standees & Banners Kit #8",
+      "price": "$35.74",
+      "competitorPrice": "$44.68",
+      "savings": "Save $8.94",
+      "media": [
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-184",
+      "deptId": "custom-standees",
+      "deptLabel": "Custom Face Standees & Banners",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Custom Face Standees & Banners Kit #9",
+      "price": "$42.99",
+      "competitorPrice": "$53.74",
+      "savings": "Save $10.75",
+      "media": [
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-185",
+      "deptId": "custom-standees",
+      "deptLabel": "Custom Face Standees & Banners",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Custom Face Standees & Banners Kit #10",
+      "price": "$46.74",
+      "competitorPrice": "$58.43",
+      "savings": "Save $11.69",
+      "media": [
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-186",
+      "deptId": "custom-standees",
+      "deptLabel": "Custom Face Standees & Banners",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Custom Face Standees & Banners Kit #11",
+      "price": "$50.49",
+      "competitorPrice": "$63.11",
+      "savings": "Save $12.62",
+      "media": [
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-187",
+      "deptId": "custom-standees",
+      "deptLabel": "Custom Face Standees & Banners",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Custom Face Standees & Banners Kit #12",
+      "price": "$54.24",
+      "competitorPrice": "$67.80",
+      "savings": "Save $13.56",
+      "media": [
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-188",
+      "deptId": "custom-standees",
+      "deptLabel": "Custom Face Standees & Banners",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Custom Face Standees & Banners Kit #13",
+      "price": "$57.99",
+      "competitorPrice": "$72.49",
+      "savings": "Save $14.50",
+      "media": [
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-189",
+      "deptId": "custom-standees",
+      "deptLabel": "Custom Face Standees & Banners",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Custom Face Standees & Banners Kit #14",
+      "price": "$61.74",
+      "competitorPrice": "$77.17",
+      "savings": "Save $15.43",
+      "media": [
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-190",
+      "deptId": "custom-standees",
+      "deptLabel": "Custom Face Standees & Banners",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Custom Face Standees & Banners Kit #15",
+      "price": "$65.49",
+      "competitorPrice": "$81.86",
+      "savings": "Save $16.37",
+      "media": [
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-191",
+      "deptId": "custom-standees",
+      "deptLabel": "Custom Face Standees & Banners",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Custom Face Standees & Banners Kit #16",
+      "price": "$69.24",
+      "competitorPrice": "$86.55",
+      "savings": "Save $17.31",
+      "media": [
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-192",
+      "deptId": "custom-standees",
+      "deptLabel": "Custom Face Standees & Banners",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Custom Face Standees & Banners Kit #17",
+      "price": "$72.99",
+      "competitorPrice": "$91.24",
+      "savings": "Save $18.25",
+      "media": [
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-193",
+      "deptId": "custom-standees",
+      "deptLabel": "Custom Face Standees & Banners",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 21,
+      "name": "Custom Face Standees & Banners Kit #18",
+      "price": "$76.74",
+      "competitorPrice": "$95.92",
+      "savings": "Save $19.18",
+      "media": [
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-194",
+      "deptId": "custom-standees",
+      "deptLabel": "Custom Face Standees & Banners",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Custom Face Standees & Banners Kit #19",
+      "price": "$89.99",
+      "competitorPrice": "$112.49",
+      "savings": "Save $22.50",
+      "media": [
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-195",
+      "deptId": "custom-standees",
+      "deptLabel": "Custom Face Standees & Banners",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Custom Face Standees & Banners Kit #20",
+      "price": "$98.49",
+      "competitorPrice": "$123.11",
+      "savings": "Save $24.62",
+      "media": [
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-196",
+      "deptId": "custom-standees",
+      "deptLabel": "Custom Face Standees & Banners",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Custom Face Standees & Banners Kit #21",
+      "price": "$106.99",
+      "competitorPrice": "$133.74",
+      "savings": "Save $26.75",
+      "media": [
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-197",
+      "deptId": "custom-standees",
+      "deptLabel": "Custom Face Standees & Banners",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Custom Face Standees & Banners Kit #22",
+      "price": "$115.49",
+      "competitorPrice": "$144.36",
+      "savings": "Save $28.87",
+      "media": [
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-198",
+      "deptId": "custom-standees",
+      "deptLabel": "Custom Face Standees & Banners",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Custom Face Standees & Banners Kit #23",
+      "price": "$123.99",
+      "competitorPrice": "$154.99",
+      "savings": "Save $31.00",
+      "media": [
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-199",
+      "deptId": "custom-standees",
+      "deptLabel": "Custom Face Standees & Banners",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Custom Face Standees & Banners Kit #24",
+      "price": "$132.49",
+      "competitorPrice": "$165.61",
+      "savings": "Save $33.12",
+      "media": [
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-200",
+      "deptId": "custom-standees",
+      "deptLabel": "Custom Face Standees & Banners",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Custom Face Standees & Banners Kit #25",
+      "price": "$140.99",
+      "competitorPrice": "$176.24",
+      "savings": "Save $35.25",
+      "media": [
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600",
+        "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-201",
+      "deptId": "tableware-catering",
+      "deptLabel": "Heavy Tableware & Chafing Dishes",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Heavy Tableware & Chafing Dishes Kit #1",
+      "price": "$19.99",
+      "competitorPrice": "$24.99",
+      "savings": "Save $5.00",
+      "media": [
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-202",
+      "deptId": "tableware-catering",
+      "deptLabel": "Heavy Tableware & Chafing Dishes",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Heavy Tableware & Chafing Dishes Kit #2",
+      "price": "$22.24",
+      "competitorPrice": "$27.80",
+      "savings": "Save $5.56",
+      "media": [
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-203",
+      "deptId": "tableware-catering",
+      "deptLabel": "Heavy Tableware & Chafing Dishes",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Heavy Tableware & Chafing Dishes Kit #3",
+      "price": "$24.49",
+      "competitorPrice": "$30.61",
+      "savings": "Save $6.12",
+      "media": [
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-204",
+      "deptId": "tableware-catering",
+      "deptLabel": "Heavy Tableware & Chafing Dishes",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Heavy Tableware & Chafing Dishes Kit #4",
+      "price": "$26.74",
+      "competitorPrice": "$33.42",
+      "savings": "Save $6.68",
+      "media": [
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-205",
+      "deptId": "tableware-catering",
+      "deptLabel": "Heavy Tableware & Chafing Dishes",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Heavy Tableware & Chafing Dishes Kit #5",
+      "price": "$28.99",
+      "competitorPrice": "$36.24",
+      "savings": "Save $7.25",
+      "media": [
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-206",
+      "deptId": "tableware-catering",
+      "deptLabel": "Heavy Tableware & Chafing Dishes",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Heavy Tableware & Chafing Dishes Kit #6",
+      "price": "$31.24",
+      "competitorPrice": "$39.05",
+      "savings": "Save $7.81",
+      "media": [
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-207",
+      "deptId": "tableware-catering",
+      "deptLabel": "Heavy Tableware & Chafing Dishes",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Heavy Tableware & Chafing Dishes Kit #7",
+      "price": "$33.49",
+      "competitorPrice": "$41.86",
+      "savings": "Save $8.37",
+      "media": [
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-208",
+      "deptId": "tableware-catering",
+      "deptLabel": "Heavy Tableware & Chafing Dishes",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Heavy Tableware & Chafing Dishes Kit #8",
+      "price": "$35.74",
+      "competitorPrice": "$44.68",
+      "savings": "Save $8.94",
+      "media": [
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-209",
+      "deptId": "tableware-catering",
+      "deptLabel": "Heavy Tableware & Chafing Dishes",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Heavy Tableware & Chafing Dishes Kit #9",
+      "price": "$42.99",
+      "competitorPrice": "$53.74",
+      "savings": "Save $10.75",
+      "media": [
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-210",
+      "deptId": "tableware-catering",
+      "deptLabel": "Heavy Tableware & Chafing Dishes",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Heavy Tableware & Chafing Dishes Kit #10",
+      "price": "$46.74",
+      "competitorPrice": "$58.43",
+      "savings": "Save $11.69",
+      "media": [
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-211",
+      "deptId": "tableware-catering",
+      "deptLabel": "Heavy Tableware & Chafing Dishes",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Heavy Tableware & Chafing Dishes Kit #11",
+      "price": "$50.49",
+      "competitorPrice": "$63.11",
+      "savings": "Save $12.62",
+      "media": [
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-212",
+      "deptId": "tableware-catering",
+      "deptLabel": "Heavy Tableware & Chafing Dishes",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Heavy Tableware & Chafing Dishes Kit #12",
+      "price": "$54.24",
+      "competitorPrice": "$67.80",
+      "savings": "Save $13.56",
+      "media": [
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-213",
+      "deptId": "tableware-catering",
+      "deptLabel": "Heavy Tableware & Chafing Dishes",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Heavy Tableware & Chafing Dishes Kit #13",
+      "price": "$57.99",
+      "competitorPrice": "$72.49",
+      "savings": "Save $14.50",
+      "media": [
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-214",
+      "deptId": "tableware-catering",
+      "deptLabel": "Heavy Tableware & Chafing Dishes",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Heavy Tableware & Chafing Dishes Kit #14",
+      "price": "$61.74",
+      "competitorPrice": "$77.17",
+      "savings": "Save $15.43",
+      "media": [
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-215",
+      "deptId": "tableware-catering",
+      "deptLabel": "Heavy Tableware & Chafing Dishes",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Heavy Tableware & Chafing Dishes Kit #15",
+      "price": "$65.49",
+      "competitorPrice": "$81.86",
+      "savings": "Save $16.37",
+      "media": [
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-216",
+      "deptId": "tableware-catering",
+      "deptLabel": "Heavy Tableware & Chafing Dishes",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Heavy Tableware & Chafing Dishes Kit #16",
+      "price": "$69.24",
+      "competitorPrice": "$86.55",
+      "savings": "Save $17.31",
+      "media": [
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-217",
+      "deptId": "tableware-catering",
+      "deptLabel": "Heavy Tableware & Chafing Dishes",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Heavy Tableware & Chafing Dishes Kit #17",
+      "price": "$72.99",
+      "competitorPrice": "$91.24",
+      "savings": "Save $18.25",
+      "media": [
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-218",
+      "deptId": "tableware-catering",
+      "deptLabel": "Heavy Tableware & Chafing Dishes",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 21,
+      "name": "Heavy Tableware & Chafing Dishes Kit #18",
+      "price": "$76.74",
+      "competitorPrice": "$95.92",
+      "savings": "Save $19.18",
+      "media": [
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-219",
+      "deptId": "tableware-catering",
+      "deptLabel": "Heavy Tableware & Chafing Dishes",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Heavy Tableware & Chafing Dishes Kit #19",
+      "price": "$89.99",
+      "competitorPrice": "$112.49",
+      "savings": "Save $22.50",
+      "media": [
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-220",
+      "deptId": "tableware-catering",
+      "deptLabel": "Heavy Tableware & Chafing Dishes",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Heavy Tableware & Chafing Dishes Kit #20",
+      "price": "$98.49",
+      "competitorPrice": "$123.11",
+      "savings": "Save $24.62",
+      "media": [
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-221",
+      "deptId": "tableware-catering",
+      "deptLabel": "Heavy Tableware & Chafing Dishes",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Heavy Tableware & Chafing Dishes Kit #21",
+      "price": "$106.99",
+      "competitorPrice": "$133.74",
+      "savings": "Save $26.75",
+      "media": [
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-222",
+      "deptId": "tableware-catering",
+      "deptLabel": "Heavy Tableware & Chafing Dishes",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Heavy Tableware & Chafing Dishes Kit #22",
+      "price": "$115.49",
+      "competitorPrice": "$144.36",
+      "savings": "Save $28.87",
+      "media": [
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-223",
+      "deptId": "tableware-catering",
+      "deptLabel": "Heavy Tableware & Chafing Dishes",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Heavy Tableware & Chafing Dishes Kit #23",
+      "price": "$123.99",
+      "competitorPrice": "$154.99",
+      "savings": "Save $31.00",
+      "media": [
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-224",
+      "deptId": "tableware-catering",
+      "deptLabel": "Heavy Tableware & Chafing Dishes",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Heavy Tableware & Chafing Dishes Kit #24",
+      "price": "$132.49",
+      "competitorPrice": "$165.61",
+      "savings": "Save $33.12",
+      "media": [
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-225",
+      "deptId": "tableware-catering",
+      "deptLabel": "Heavy Tableware & Chafing Dishes",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Heavy Tableware & Chafing Dishes Kit #25",
+      "price": "$140.99",
+      "competitorPrice": "$176.24",
+      "savings": "Save $35.25",
+      "media": [
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600",
+        "https://images.unsplash.com/photo-1555244162-803834f70033?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-226",
+      "deptId": "bounce-yard",
+      "deptLabel": "Bounce Houses, Fog & Karaoke",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Bounce Houses, Fog & Karaoke Kit #1",
+      "price": "$19.99",
+      "competitorPrice": "$24.99",
+      "savings": "Save $5.00",
+      "media": [
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-227",
+      "deptId": "bounce-yard",
+      "deptLabel": "Bounce Houses, Fog & Karaoke",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Bounce Houses, Fog & Karaoke Kit #2",
+      "price": "$22.24",
+      "competitorPrice": "$27.80",
+      "savings": "Save $5.56",
+      "media": [
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-228",
+      "deptId": "bounce-yard",
+      "deptLabel": "Bounce Houses, Fog & Karaoke",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Bounce Houses, Fog & Karaoke Kit #3",
+      "price": "$24.49",
+      "competitorPrice": "$30.61",
+      "savings": "Save $6.12",
+      "media": [
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-229",
+      "deptId": "bounce-yard",
+      "deptLabel": "Bounce Houses, Fog & Karaoke",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Bounce Houses, Fog & Karaoke Kit #4",
+      "price": "$26.74",
+      "competitorPrice": "$33.42",
+      "savings": "Save $6.68",
+      "media": [
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-230",
+      "deptId": "bounce-yard",
+      "deptLabel": "Bounce Houses, Fog & Karaoke",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Bounce Houses, Fog & Karaoke Kit #5",
+      "price": "$28.99",
+      "competitorPrice": "$36.24",
+      "savings": "Save $7.25",
+      "media": [
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-231",
+      "deptId": "bounce-yard",
+      "deptLabel": "Bounce Houses, Fog & Karaoke",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Bounce Houses, Fog & Karaoke Kit #6",
+      "price": "$31.24",
+      "competitorPrice": "$39.05",
+      "savings": "Save $7.81",
+      "media": [
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-232",
+      "deptId": "bounce-yard",
+      "deptLabel": "Bounce Houses, Fog & Karaoke",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Bounce Houses, Fog & Karaoke Kit #7",
+      "price": "$33.49",
+      "competitorPrice": "$41.86",
+      "savings": "Save $8.37",
+      "media": [
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-233",
+      "deptId": "bounce-yard",
+      "deptLabel": "Bounce Houses, Fog & Karaoke",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "low",
+      "count": 3,
+      "name": "Bounce Houses, Fog & Karaoke Kit #8",
+      "price": "$35.74",
+      "competitorPrice": "$44.68",
+      "savings": "Save $8.94",
+      "media": [
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-234",
+      "deptId": "bounce-yard",
+      "deptLabel": "Bounce Houses, Fog & Karaoke",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Bounce Houses, Fog & Karaoke Kit #9",
+      "price": "$42.99",
+      "competitorPrice": "$53.74",
+      "savings": "Save $10.75",
+      "media": [
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-235",
+      "deptId": "bounce-yard",
+      "deptLabel": "Bounce Houses, Fog & Karaoke",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Bounce Houses, Fog & Karaoke Kit #10",
+      "price": "$46.74",
+      "competitorPrice": "$58.43",
+      "savings": "Save $11.69",
+      "media": [
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-236",
+      "deptId": "bounce-yard",
+      "deptLabel": "Bounce Houses, Fog & Karaoke",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Bounce Houses, Fog & Karaoke Kit #11",
+      "price": "$50.49",
+      "competitorPrice": "$63.11",
+      "savings": "Save $12.62",
+      "media": [
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-237",
+      "deptId": "bounce-yard",
+      "deptLabel": "Bounce Houses, Fog & Karaoke",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Bounce Houses, Fog & Karaoke Kit #12",
+      "price": "$54.24",
+      "competitorPrice": "$67.80",
+      "savings": "Save $13.56",
+      "media": [
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-238",
+      "deptId": "bounce-yard",
+      "deptLabel": "Bounce Houses, Fog & Karaoke",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Bounce Houses, Fog & Karaoke Kit #13",
+      "price": "$57.99",
+      "competitorPrice": "$72.49",
+      "savings": "Save $14.50",
+      "media": [
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-239",
+      "deptId": "bounce-yard",
+      "deptLabel": "Bounce Houses, Fog & Karaoke",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Bounce Houses, Fog & Karaoke Kit #14",
+      "price": "$61.74",
+      "competitorPrice": "$77.17",
+      "savings": "Save $15.43",
+      "media": [
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-240",
+      "deptId": "bounce-yard",
+      "deptLabel": "Bounce Houses, Fog & Karaoke",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Bounce Houses, Fog & Karaoke Kit #15",
+      "price": "$65.49",
+      "competitorPrice": "$81.86",
+      "savings": "Save $16.37",
+      "media": [
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-241",
+      "deptId": "bounce-yard",
+      "deptLabel": "Bounce Houses, Fog & Karaoke",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Bounce Houses, Fog & Karaoke Kit #16",
+      "price": "$69.24",
+      "competitorPrice": "$86.55",
+      "savings": "Save $17.31",
+      "media": [
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-242",
+      "deptId": "bounce-yard",
+      "deptLabel": "Bounce Houses, Fog & Karaoke",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 9,
+      "name": "Bounce Houses, Fog & Karaoke Kit #17",
+      "price": "$72.99",
+      "competitorPrice": "$91.24",
+      "savings": "Save $18.25",
+      "media": [
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-243",
+      "deptId": "bounce-yard",
+      "deptLabel": "Bounce Houses, Fog & Karaoke",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "mid",
+      "count": 21,
+      "name": "Bounce Houses, Fog & Karaoke Kit #18",
+      "price": "$76.74",
+      "competitorPrice": "$95.92",
+      "savings": "Save $19.18",
+      "media": [
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-244",
+      "deptId": "bounce-yard",
+      "deptLabel": "Bounce Houses, Fog & Karaoke",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Bounce Houses, Fog & Karaoke Kit #19",
+      "price": "$89.99",
+      "competitorPrice": "$112.49",
+      "savings": "Save $22.50",
+      "media": [
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-245",
+      "deptId": "bounce-yard",
+      "deptLabel": "Bounce Houses, Fog & Karaoke",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Bounce Houses, Fog & Karaoke Kit #20",
+      "price": "$98.49",
+      "competitorPrice": "$123.11",
+      "savings": "Save $24.62",
+      "media": [
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-246",
+      "deptId": "bounce-yard",
+      "deptLabel": "Bounce Houses, Fog & Karaoke",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Bounce Houses, Fog & Karaoke Kit #21",
+      "price": "$106.99",
+      "competitorPrice": "$133.74",
+      "savings": "Save $26.75",
+      "media": [
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-247",
+      "deptId": "bounce-yard",
+      "deptLabel": "Bounce Houses, Fog & Karaoke",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Bounce Houses, Fog & Karaoke Kit #22",
+      "price": "$115.49",
+      "competitorPrice": "$144.36",
+      "savings": "Save $28.87",
+      "media": [
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-248",
+      "deptId": "bounce-yard",
+      "deptLabel": "Bounce Houses, Fog & Karaoke",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Bounce Houses, Fog & Karaoke Kit #23",
+      "price": "$123.99",
+      "competitorPrice": "$154.99",
+      "savings": "Save $31.00",
+      "media": [
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-249",
+      "deptId": "bounce-yard",
+      "deptLabel": "Bounce Houses, Fog & Karaoke",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Bounce Houses, Fog & Karaoke Kit #24",
+      "price": "$132.49",
+      "competitorPrice": "$165.61",
+      "savings": "Save $33.12",
+      "media": [
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
+      }
+    },
+    {
+      "id": "PARTY250-250",
+      "deptId": "bounce-yard",
+      "deptLabel": "Bounce Houses, Fog & Karaoke",
+      "ageBracket": "all",
+      "isCuratedBundle": false,
+      "priceBand": "high",
+      "count": 21,
+      "name": "Bounce Houses, Fog & Karaoke Kit #25",
+      "price": "$140.99",
+      "competitorPrice": "$176.24",
+      "savings": "Save $35.25",
+      "media": [
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600",
+        "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=600"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "specs": {
+        "manufacturer": "Party Lapooza Factory Direct • Insured ($2M Liability)",
+        "condition": "Brand New • 3+ Photos, Video & Spec Sheet",
+        "shipping": "Insured 3-7 Day Delivery + 8.25% Tax & Card Fee at Checkout"
       }
     }
   ]

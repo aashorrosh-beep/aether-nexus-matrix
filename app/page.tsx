@@ -194,7 +194,7 @@ export default function MallOfMallsLobby() {
             <Link href="/nostalgia/lapooza-boys-ages-5-10" className="bg-black/80 border border-fuchsia-400 text-white font-black text-[11px] uppercase p-2.5 rounded-xl text-center">🎮 Boys 5–16 Party →</Link>
             <Link href="/nostalgia/lapooza-girls-ages-1-5" className="bg-black/80 border border-fuchsia-400 text-white font-black text-[11px] uppercase p-2.5 rounded-xl text-center">🦄 Girls 1–16 Party →</Link>
             <Link href="/nostalgia/lapooza-quinceanera-royale" className="bg-black/80 border border-fuchsia-400 text-white font-black text-[11px] uppercase p-2.5 rounded-xl text-center">👑 Quince &amp; Bridal →</Link>
-            <Link href="/nostalgia/lapooza-balloon-arch-helium" className="bg-fuchsia-500 text-black font-black text-[11px] uppercase p-2.5 rounded-xl text-center">🎈 Helium &amp; 150pc Arch →</Link>
+            <Link href="/stores/party-lapooza" className="bg-fuchsia-500 text-black font-black text-[11px] uppercase p-2.5 rounded-xl text-center">🎈 Helium &amp; 150pc Arch →</Link>
           </div>
         </div>
 
