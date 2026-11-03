@@ -1,351 +1,315 @@
-'use client';
-import { useState, use, useEffect } from 'react';
-import { masterInventory } from '../../inventory';
+"use client";
+import React, { useState, useEffect, use } from "react";
+import { masterInventory } from "../../inventory";
 
-export default function DynamicStorefront({ params }: { params: Promise<{ storeId: string }> }) {
-  const unwrappedParams = use(params);
-  const storeId = unwrappedParams.storeId;
-  const roomNumberString = storeId.split('-')[1] || "1004";
+export default function StorefrontPage({ params }: { params: Promise<{ storeId: string }> | { storeId: string } }) {
+  const resolvedParams: any = typeof (params as any)?.then === "function" ? use(params as Promise<{ storeId: string }>) : params;
+  const rawSlug = decodeURIComponent(String(resolvedParams?.storeId || "holiday-wishlist-100-superstore"));
 
-  const directoryStores = [
-    { id: '1001', name: "Apex Athletics", category: "Performance & Recovery" },
-    { id: '1004', name: "Obsidian Core", category: "Tactical & Urban EDC" },
-    { id: '1007', name: "Vault 77", category: "Secured Trading Assets" },
-    { id: '1021', name: "Pulse Gaming", category: "Esports Hardware" },
-    { id: '1042', name: "Squishy Super Center", category: "Sensory & Plush Collectibles" }
-  ];
+  // Match exact slug or fallback gracefully so NO room ever 404s or 500s
+  const allKeys = Object.keys(masterInventory);
+  const matchedKey = masterInventory[rawSlug]
+    ? rawSlug
+    : (allKeys.find(k => k.toLowerCase() === rawSlug.toLowerCase()) ||
+       allKeys.find(k => k.includes(rawSlug.replace(/^nostalgia-/, ""))) ||
+       "holiday-wishlist-100-superstore");
 
-  const currentStore = directoryStores.find(store => store.id === roomNumberString) || { name: "Obsidian Core", category: "Tactical & Urban EDC" };
-  const inventoryMap = masterInventory as Record<string, any[]>;
-  const inventoryDatabase = inventoryMap[roomNumberString] || inventoryMap["1004"] || [];
+  const items: any[] = masterInventory[matchedKey] || masterInventory["holiday-wishlist-100-superstore"] || [];
+  const [searchQ, setSearchQ] = useState("");
+  const [selectedItem, setSelectedItem] = useState<any | null>(null);
+  const [activeImgIdx, setActiveImgIdx] = useState(0);
+  const [cart, setCart] = useState<any[]>([]);
+  const [cartOpen, setCartOpen] = useState(false);
+  const [checkingOut, setCheckingOut] = useState(false);
 
-  const [activeItem, setActiveItem] = useState<any | null>(null);
-  const [selectedColorIndex, setSelectedColorIndex] = useState<number>(0);
-  const [selectedAngleIndex, setSelectedAngleIndex] = useState<number>(0);
-  const [showSpecSheet, setShowSpecSheet] = useState<boolean>(false);
-  const [isPlayingTrailer, setIsPlayingTrailer] = useState<boolean>(false);
-
-  const getColorVariants = (item: any) => {
-    if (item?.variants && item.variants.length > 0) return item.variants;
-    return [
-      {
-        colorName: "Factory Standard Finish",
-        code: "STD",
-        hex: "#18181b",
-        angles: [
-          { label: "01. Outer Studio Profile", caption: "Verified Manufacturer Studio Asset", url: item.img },
-          { label: "02. Worn Field Ops", caption: "Verified On-Body / Active Utility View", url: item.wornImg || item.img },
-          { label: "03. Open Inside Layout", caption: "Internal Architecture & Compartments", url: item.img },
-          { label: "04. Packed Utility Loadout", caption: "Full Everyday Carry Integration", url: item.wornImg || item.img },
-          { label: "05. Hardware & Seam Detail", caption: "Mil-Spec Fasteners & Stress Points", url: item.img }
-        ]
-      }
-    ];
-  };
-
+  // If user clicked a product from "Search All 6 Malls", auto-open that exact product modal!
   useEffect(() => {
-    if (typeof window !== 'undefined') {
+    if (typeof window !== "undefined") {
       const urlParams = new URLSearchParams(window.location.search);
-      const deepItemId = urlParams.get('item');
-      const deepColor = urlParams.get('color');
-      if (deepItemId) {
-        const found = inventoryDatabase.find((i: any) => i.id === deepItemId);
+      const sku = urlParams.get("sku");
+      if (sku && items.length) {
+        const found = items.find((it: any) => String(it.id) === sku || String(it.name).toLowerCase().includes(sku.toLowerCase()));
         if (found) {
-          setActiveItem(found);
-          if (deepColor && found.variants) {
-            const cIdx = found.variants.findIndex((v: any) => v.code === deepColor);
-            if (cIdx >= 0) setSelectedColorIndex(cIdx);
-          }
+          setSelectedItem(found);
+          setActiveImgIdx(0);
         }
       }
+      const saved = localStorage.getItem("nexus_cart");
+      if (saved) {
+        try { setCart(JSON.parse(saved)); } catch (e) {}
+      }
     }
-  }, [inventoryDatabase]);
+  }, [matchedKey, items]);
 
-  const getTechnicalSpecs = (item: any, selectedColorName: string) => {
-    const baseSpecs = item?.specs || [
-      { metric: "Chassis Material", spec: "Aerospace-Grade Carbon / Titanium Alloy" },
-      { metric: "Ingress Protection", spec: "IP68 Dust & Submersion Rated" },
-      { metric: "Warranty Tier", spec: "Lifetime Nexus Direct Replacement" }
-    ];
-    return [
-      { metric: "Universal Product Code (UPC)", spec: item?.upc || "840192837000" },
-      { metric: "Manufacturer Part (MPN)", spec: item?.mpn || `${item?.id}-OEM` },
-      { metric: "Selected Factory Finish", spec: selectedColorName },
-      ...baseSpecs
-    ];
+  const addToCart = (item: any, openDrawer = true) => {
+    const next = [...cart, { ...item, room: matchedKey, qty: 1 }];
+    setCart(next);
+    if (typeof window !== "undefined") localStorage.setItem("nexus_cart", JSON.stringify(next));
+    if (openDrawer) setCartOpen(true);
   };
 
-  const handleOpenItem = (item: any) => {
-    setActiveItem(item);
-    setSelectedColorIndex(0);
-    setSelectedAngleIndex(0);
-    setShowSpecSheet(false);
-    setIsPlayingTrailer(false);
+  const removeFromCart = (idx: number) => {
+    const next = cart.filter((_, i) => i !== idx);
+    setCart(next);
+    if (typeof window !== "undefined") localStorage.setItem("nexus_cart", JSON.stringify(next));
   };
 
-  if (activeItem) {
-    const colorVariants = getColorVariants(activeItem);
-    const currentVariant = colorVariants[selectedColorIndex] || colorVariants[0];
-    const angles = currentVariant.angles;
-    const currentPhoto = angles[selectedAngleIndex] || angles[0];
-    const techSpecs = getTechnicalSpecs(activeItem, currentVariant.colorName);
+  const handleCheckout = async (itemsToBuy: any[]) => {
+    if (!itemsToBuy.length) return;
+    setCheckingOut(true);
+    try {
+      const res = await fetch("/api/checkout", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ items: itemsToBuy })
+      });
+      const data = await res.json();
+      if (data?.url) {
+        window.location.href = data.url;
+      } else {
+        alert("Checkout Error: " + (data?.error || "Please verify Stripe API key"));
+      }
+    } catch (err: any) {
+      alert("Checkout connection error: " + err.message);
+    } finally {
+      setCheckingOut(false);
+    }
+  };
 
-    return (
-      <div className="min-h-screen bg-[#030303] text-white p-6 md:p-12 font-sans selection:bg-cyan-500/30">
-        <div className="max-w-6xl mx-auto">
-          <nav className="flex flex-wrap justify-between items-center mb-8 border-b border-white/10 pb-6 gap-4">
-            <button onClick={() => setActiveItem(null)} className="text-zinc-400 hover:text-cyan-400 text-xs font-black tracking-[0.2em] uppercase transition-colors flex items-center gap-3 cursor-pointer">
-              <span className="text-lg leading-none mb-1">←</span> Back to {currentStore.category}
-            </button>
-            <div className="flex items-center gap-3">
-              <div className="bg-zinc-900 border border-white/10 px-3 py-1.5 rounded-full text-[10px] font-mono text-zinc-300">
-                UPC: <span className="text-cyan-400 font-bold">{activeItem.upc || "840192837461"}</span>
-              </div>
-              <div className="flex gap-2 items-center bg-green-900/20 border border-green-500/30 px-4 py-1.5 rounded-full">
-                <span className="w-2 h-2 bg-green-500 rounded-full animate-pulse"></span>
-                <span className="text-[10px] font-mono tracking-widest text-green-400 uppercase">
-                  {activeItem.auditStatus || "QUAD-BRAIN CERTIFIED"}
-                </span>
-              </div>
-            </div>
-          </nav>
+  const filtered = items.filter((it: any) =>
+    !searchQ.trim() ||
+    String(it.name || "").toLowerCase().includes(searchQ.toLowerCase()) ||
+    String(it.id || "").toLowerCase().includes(searchQ.toLowerCase())
+  );
 
-          <div className="grid grid-cols-1 lg:grid-cols-12 gap-12">
-            <div className="lg:col-span-7 flex flex-col gap-5">
-              <div className="aspect-square w-full bg-zinc-900 border border-white/10 rounded-2xl relative overflow-hidden group shadow-2xl">
-                <img src={currentPhoto.url} className="object-cover w-full h-full opacity-95 group-hover:scale-105 transition-all duration-700 ease-out" alt={currentPhoto.label} />
-                <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent pointer-events-none"></div>
-                <div className="absolute top-5 left-5 bg-black/85 border border-white/15 backdrop-blur px-3.5 py-1.5 rounded-full flex items-center gap-2">
-                  <span className="w-2.5 h-2.5 rounded-full border border-white/40" style={{ backgroundColor: currentVariant.hex }}></span>
-                  <span className="text-[10px] font-mono uppercase tracking-widest text-zinc-200">{currentVariant.colorName}</span>
-                </div>
-                <div className="absolute bottom-6 left-6 right-6 flex justify-between items-end">
-                  <div className="bg-black/85 border border-white/10 backdrop-blur px-4 py-2.5 rounded-lg">
-                    <div className="text-cyan-400 text-[10px] font-black uppercase tracking-[0.25em] mb-1">{currentPhoto.label}</div>
-                    <div className="text-zinc-200 text-xs font-mono">{currentPhoto.caption}</div>
-                  </div>
-                  <div className="text-cyan-400 font-mono text-xs bg-black/85 px-3 py-2 rounded-lg border border-cyan-500/30">
-                    {selectedAngleIndex + 1} / {angles.length}
-                  </div>
-                </div>
-              </div>
-
-              <div className="grid grid-cols-5 gap-3">
-                {angles.map((angle: any, idx: number) => (
-                  <button
-                    key={idx}
-                    onClick={() => setSelectedAngleIndex(idx)}
-                    className={`relative aspect-square rounded-xl overflow-hidden border-2 transition-all cursor-pointer ${
-                      selectedAngleIndex === idx ? 'border-cyan-400 scale-[1.03] shadow-[0_0_20px_rgba(6,182,212,0.4)]' : 'border-white/10 opacity-60 hover:opacity-100'
-                    }`}
-                  >
-                    <img src={angle.url} alt={angle.label} className="object-cover w-full h-full" />
-                    <div className="absolute inset-x-0 bottom-0 bg-black/85 text-[8px] font-mono text-zinc-200 py-1.5 px-1 truncate text-center">
-                      {angle.label.split('. ')[1]}
-                    </div>
-                  </button>
-                ))}
-              </div>
-
-              <div
-                onClick={() => !isPlayingTrailer && setIsPlayingTrailer(true)}
-                className="aspect-video w-full bg-[#0a0a0a] border border-cyan-500/30 rounded-2xl flex flex-col items-center justify-center relative overflow-hidden group cursor-pointer hover:border-cyan-400 transition-colors"
-              >
-                {isPlayingTrailer ? (
-                  <video
-                    src={activeItem.trailerUrl || "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"}
-                    poster={angles[1]?.url || activeItem.img}
-                    controls
-                    autoPlay
-                    loop
-                    playsInline
-                    className="w-full h-full object-cover"
-                  />
-                ) : (
-                  <>
-                    <img src={angles[1]?.url || activeItem.wornImg || activeItem.img} alt="Video Preview" className="absolute inset-0 w-full h-full object-cover opacity-45 group-hover:opacity-65 transition-opacity" />
-                    <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-transparent"></div>
-                    <div className="w-16 h-16 bg-cyan-600 rounded-full flex items-center justify-center pl-1 shadow-[0_0_30px_rgba(6,182,212,0.6)] z-10 group-hover:scale-110 transition-transform">
-                      <div className="w-0 h-0 border-t-[10px] border-t-transparent border-l-[16px] border-l-black border-b-[10px] border-b-transparent"></div>
-                    </div>
-                    <p className="mt-4 text-cyan-400 font-black tracking-widest text-xs z-10 uppercase drop-shadow-md">Play Official Manufacturer Field Trailer</p>
-                  </>
-                )}
-              </div>
-            </div>
-
-            <div className="lg:col-span-5 flex flex-col">
-              <div className="flex items-center gap-2 mb-4">
-                <div className="border border-cyan-500/30 bg-cyan-950/20 text-cyan-400 px-3 py-1 rounded-sm text-[10px] font-black tracking-widest uppercase">
-                  SKU: {activeItem.id}-{currentVariant.code}
-                </div>
-                <div className="border border-white/10 bg-zinc-900 text-zinc-400 px-3 py-1 rounded-sm text-[10px] font-mono uppercase">
-                  MPN: {activeItem.mpn || "OEM-DIRECT"}
-                </div>
-              </div>
-
-              <h1 className="text-4xl lg:text-5xl font-black text-white leading-[1.1] mb-6 tracking-tight drop-shadow-lg">{activeItem.name}</h1>
-
-              <div className="flex items-end gap-4 mb-6 pb-6 border-b border-white/10">
-                <span className="text-6xl text-cyan-400 font-mono font-light drop-shadow-[0_0_15px_rgba(6,182,212,0.5)]">${activeItem.price}</span>
-                <span className="text-zinc-500 font-mono text-sm mb-2 uppercase tracking-widest">USD</span>
-              </div>
-
-              <div className="mb-6 bg-[#0a0a0a] border border-white/10 rounded-xl p-4">
-                <div className="flex justify-between items-center mb-3">
-                  <span className="text-[10px] font-black uppercase tracking-[0.2em] text-zinc-400">Select Factory Colorway</span>
-                  <span className="text-xs font-mono text-cyan-400 font-bold">{currentVariant.colorName}</span>
-                </div>
-                <div className="grid grid-cols-3 gap-2.5">
-                  {colorVariants.map((variant: any, idx: number) => (
-                    <button
-                      key={variant.code}
-                      onClick={() => { setSelectedColorIndex(idx); setSelectedAngleIndex(0); }}
-                      className={`flex items-center gap-2.5 p-2.5 rounded-lg border text-left transition-all cursor-pointer ${
-                        selectedColorIndex === idx ? 'bg-zinc-900 border-cyan-400 shadow-[0_0_15px_rgba(6,182,212,0.25)]' : 'bg-black/60 border-white/10 opacity-70 hover:opacity-100'
-                      }`}
-                    >
-                      <span className="w-5 h-5 rounded-full flex-shrink-0 border border-white/30" style={{ backgroundColor: variant.hex }}></span>
-                      <div className="overflow-hidden">
-                        <div className="text-[10px] font-bold text-white truncate">{variant.colorName.split(' (')[0]}</div>
-                        <div className="text-[9px] font-mono text-green-400">VERIFIED</div>
-                      </div>
-                    </button>
-                  ))}
-                </div>
-              </div>
-
-              <div className="bg-[#0a0a0a] border border-white/10 rounded-xl p-6 mb-8 shadow-inner">
-                <div className="flex justify-between items-center mb-4">
-                  <h3 className="text-xs font-black text-zinc-400 uppercase tracking-[0.2em]">Asset Specifications</h3>
-                  <span className="text-[10px] font-mono text-cyan-400">UPC-MATCHED</span>
-                </div>
-                <div className="space-y-3 mb-5">
-                  <div className="flex justify-between items-center border-b border-white/5 pb-2">
-                    <span className="text-xs text-zinc-400 uppercase tracking-widest">Active Finish</span>
-                    <span className="text-xs text-cyan-400 font-mono font-bold">{currentVariant.colorName}</span>
-                  </div>
-                  <div className="flex justify-between items-center border-b border-white/5 pb-2">
-                    <span className="text-xs text-zinc-400 uppercase tracking-widest">Fulfillment</span>
-                    <span className="text-xs text-white font-mono font-bold">{activeItem.shipping || "3-5 Days"} Priority</span>
-                  </div>
-                  <div className="flex justify-between items-center pt-1">
-                    <span className="text-xs text-zinc-400 uppercase tracking-widest">Availability</span>
-                    <span className="text-xs text-red-400 font-mono font-bold animate-pulse">{activeItem.status} ({activeItem.count || 10} Left)</span>
-                  </div>
-                </div>
-
-                <button
-                  onClick={() => setShowSpecSheet(!showSpecSheet)}
-                  className="w-full py-3 px-4 bg-zinc-900 hover:bg-zinc-800 border border-cyan-500/40 rounded-lg text-cyan-400 font-mono text-xs font-bold uppercase tracking-widest transition-all flex items-center justify-between cursor-pointer"
-                >
-                  <span>{showSpecSheet ? "− Hide Technical Spec Sheet" : "+ View Full Technical Spec Sheet"}</span>
-                  <span className="text-[10px] text-zinc-400">SPREADSHEET VIEW</span>
-                </button>
-
-                {showSpecSheet && (
-                  <div className="mt-4 border border-white/10 rounded-lg overflow-hidden bg-black">
-                    <div className="bg-zinc-900/90 px-3 py-2 border-b border-white/10 flex justify-between text-[10px] font-mono text-zinc-400 uppercase tracking-wider">
-                      <span>Parameter</span>
-                      <span>Manufacturer Spec</span>
-                    </div>
-                    <div className="divide-y divide-white/5">
-                      {techSpecs.map((row: any, index: number) => (
-                        <div key={index} className="px-3 py-2.5 flex justify-between items-center text-xs font-mono">
-                          <span className="text-zinc-400">{row.metric}</span>
-                          <span className="text-cyan-300 font-bold text-right ml-4">{row.spec}</span>
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-                )}
-              </div>
-
-              <div className="mt-auto bg-zinc-900/50 p-6 rounded-2xl border border-cyan-500/20">
-                <label className="block text-[10px] font-black tracking-widest uppercase text-cyan-500 mb-2">Secure Order & Tracking Updates</label>
-                <input type="email" placeholder="Enter Email Address" className="w-full bg-black border border-white/10 rounded-lg px-4 py-3 text-sm text-white mb-4 focus:outline-none focus:border-cyan-500 font-mono" />
-                <button 
-                  onClick={() => window.location.href = `https://albsnexus.com/checkout?item=${activeItem.id}&color=${currentVariant.code}`}
-                  className="w-full bg-cyan-600 hover:bg-cyan-500 text-black font-black tracking-[0.2em] text-sm py-5 rounded-xl transition-all duration-300 shadow-[0_0_30px_rgba(6,182,212,0.3)] cursor-pointer"
-                >
-                  INITIATE SECURE CHECKOUT ({currentVariant.code})
-                </button>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    );
-  }
+  const isPartyRoom = matchedKey.includes("lapooza") || matchedKey.includes("baby-shower") || matchedKey.includes("ugly-sweater");
+  const prettyTitle = matchedKey.replace(/-/g, " ").replace(/\b\w/g, c => c.toUpperCase());
 
   return (
-    <div className="min-h-screen bg-[#030303] text-white p-6 md:p-12 font-sans">
-      <div className="max-w-7xl mx-auto">
-        <header className="flex flex-col md:flex-row justify-between items-start md:items-end mb-16 border-b border-zinc-800 pb-8 gap-6 md:gap-0">
-          <div>
-            <a href="/nostalgia-jump" className="text-zinc-500 hover:text-cyan-400 text-[10px] font-black tracking-[0.2em] uppercase transition-colors flex items-center gap-2 mb-6 cursor-pointer">
-              ← Return to Concourse
-            </a>
-            <h1 className="text-5xl md:text-7xl font-black text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-600 tracking-tighter uppercase drop-shadow-lg">
-              {currentStore.category}
-            </h1>
-            <p className="text-cyan-500 tracking-[0.2em] uppercase text-sm mt-3 font-bold">Powered by {currentStore.name}</p>
-          </div>
-          <div className="text-right">
-            <div className="text-cyan-400 font-mono text-sm font-bold flex items-center justify-end gap-2">
-              <span className="w-2 h-2 bg-green-500 rounded-full animate-ping"></span>
-              QUAD-BRAIN CERTIFIED INVENTORY ONLINE
+    <main className="min-h-screen bg-zinc-950 text-white pb-20">
+      {/* Top Navigation Bar */}
+      <header className="sticky top-0 z-40 bg-zinc-900/95 backdrop-blur border-b border-amber-400/40 px-4 py-3">
+        <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-3">
+          <div className="flex items-center gap-3">
+            <a href="/" className="px-3.5 py-2 rounded-xl bg-amber-400 text-black font-black text-xs uppercase shadow">← Back to All 6 Malls</a>
+            <div>
+              <h1 className="text-lg md:text-2xl font-black text-white">{prettyTitle}</h1>
+              <p className="text-[11px] text-amber-300 font-bold">{items.length} Verified In-Stock Items • 3+ Vendor Photos, Video & Insured Specs</p>
             </div>
           </div>
-        </header>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-          {inventoryDatabase.map((item: any) => {
-            const variants = getColorVariants(item);
-            const wornShotUrl = item.wornImg || variants[0]?.angles[1]?.url || item.img;
+          <div className="flex items-center gap-2 w-full md:w-auto">
+            <input
+              type="text"
+              value={searchQ}
+              onChange={e => setSearchQ(e.target.value)}
+              placeholder="Search inside this storefront..."
+              className="flex-1 md:w-64 px-3.5 py-2 rounded-xl bg-black border border-zinc-700 text-xs text-white"
+            />
+            <button
+              onClick={() => setCartOpen(true)}
+              className="px-4 py-2 rounded-xl bg-emerald-400 text-black font-black text-xs uppercase shrink-0 cursor-pointer shadow-lg"
+            >
+              🛒 Cart ({cart.length})
+            </button>
+          </div>
+        </div>
+      </header>
 
-            return (
-              <div key={item.id} onClick={() => handleOpenItem(item)} className="group relative bg-[#0a0a0a] border border-white/5 rounded-2xl overflow-hidden hover:border-cyan-500/50 transition-all duration-500 cursor-pointer flex flex-col h-[430px] shadow-lg">
-                <div className="h-3/5 w-full bg-black relative overflow-hidden grid grid-cols-2">
-                  <div className="relative h-full w-full overflow-hidden border-r border-cyan-500/30">
-                    <img src={item.img} alt={item.name} className="object-cover w-full h-full opacity-90 group-hover:scale-110 transition-all duration-700" />
-                    <span className="absolute bottom-2 left-2 bg-black/85 text-[8px] font-mono text-zinc-200 px-1.5 py-0.5 rounded uppercase z-20">Studio</span>
-                  </div>
-                  <div className="relative h-full w-full overflow-hidden">
-                    <img src={wornShotUrl} alt={`${item.name} worn`} className="object-cover w-full h-full opacity-85 group-hover:scale-110 transition-all duration-700" />
-                    <span className="absolute bottom-2 right-2 bg-cyan-950/90 border border-cyan-500/40 text-[8px] font-mono text-cyan-300 px-1.5 py-0.5 rounded uppercase z-20">Worn Ops</span>
-                  </div>
-                  {item.status ? (
-                    <div className="absolute top-3 right-3 bg-red-600 text-white text-[9px] font-black px-3 py-1.5 rounded uppercase z-20">
-                      🔥 {item.status}
-                    </div>
-                  ) : null}
+      {/* Party Lapooza Customizer Banner if inside a Party/Baby Shower Room */}
+      {isPartyRoom && (
+        <div className="max-w-7xl mx-auto px-4 pt-4">
+          <div className="bg-gradient-to-r from-fuchsia-950 via-purple-900 to-indigo-950 border-2 border-amber-400 rounded-3xl p-5 shadow-2xl flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
+            <div>
+              <span className="inline-block bg-amber-400 text-black font-black text-xs px-3 py-1 rounded-full uppercase mb-1">📸 Put Anyone Inside The Party Decorations — Included Free!</span>
+              <h2 className="text-lg md:text-2xl font-black text-white">1️⃣ Upload Phone Photo → 2️⃣ Preview on Arch, Cutouts & Toppers → 3️⃣ Love It & Share It!</h2>
+              <p className="text-fuchsia-100 text-xs mt-1">Put the Birthday Star, Bride, Quinceañera, or Baby right inside the 3D Vinyl Banner, Life-Size Standee & Cupcake Toppers in 30 seconds.</p>
+            </div>
+            <a href="/party-lapooza-ai-studio.html" className="px-5 py-3 rounded-xl bg-amber-400 text-black font-black text-xs uppercase shrink-0 shadow-xl">📸 CUSTOMIZE RIGHT HERE →</a>
+          </div>
+        </div>
+      )}
+
+      {/* Product Grid */}
+      <div className="w-full max-w-7xl mx-auto px-0 pt-2 grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-0">
+        {filtered.map((item: any, idx: number) => {
+          const imgs = Array.isArray(item.media) && item.media.length ? item.media : ["https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=600"];
+          return (
+            <div key={item.id || idx} className="bg-zinc-950 border-0 rounded-none overflow-hidden flex flex-col justify-between transition">
+              <div>
+                <div
+                  onClick={() => { setSelectedItem(item); setActiveImgIdx(0); }}
+                  className="relative aspect-square w-full bg-transparent cursor-pointer overflow-hidden group"
+                >
+                  <img src={imgs[0]} alt={item.name} className="w-full h-full object-cover p-0 m-0 block group-hover:scale-105 transition duration-300" />
+                  <span className="absolute top-2 left-2 bg-black/80 text-amber-400 border border-amber-400/50 text-[10px] font-black px-2 py-0.5 rounded-md">
+                    📸 {imgs.length} Photos + 🎥 Video
+                  </span>
+                  <span className="absolute top-2 right-2 bg-emerald-500 text-black text-[10px] font-black px-2 py-0.5 rounded-md">
+                    In Stock ({item.count || 9})
+                  </span>
                 </div>
-                <div className="p-5 flex flex-col flex-grow bg-gradient-to-b from-[#0a0a0a] to-[#050505]">
-                  <div className="flex justify-between items-center mb-1.5">
-                    <span className="text-[9px] font-mono text-cyan-400/80 uppercase tracking-widest">
-                      UPC {item.upc?.slice(-4) || "VERIFIED"} • {variants.length} Colors
-                    </span>
-                    <div className="flex gap-1">
-                      {variants.map((v: any) => (
-                        <span key={v.code} className="w-2.5 h-2.5 rounded-full border border-white/40" style={{ backgroundColor: v.hex }}></span>
-                      ))}
-                    </div>
+
+                <div className="p-2.5 bg-zinc-950">
+                  <div className="text-[10px] text-zinc-400 font-mono mb-1">SKU: {item.id}</div>
+                  <h3
+                    onClick={() => { setSelectedItem(item); setActiveImgIdx(0); }}
+                    className="font-bold text-sm text-white line-clamp-2 cursor-pointer hover:text-amber-300"
+                  >
+                    {item.name}
+                  </h3>
+                  <div className="mt-2 flex items-baseline justify-between">
+                    <span className="text-2xl font-black text-amber-400">{item.price}</span>
+                    <span className="text-[11px] text-emerald-400 font-bold">✅ Certified Insured</span>
                   </div>
-                  <h3 className="font-bold text-white text-base mb-2 group-hover:text-cyan-400 transition-colors line-clamp-2">{item.name}</h3>
-                  <div className="mt-auto pt-4 border-t border-white/5 flex justify-between items-end">
-                    <div className="flex flex-col">
-                      <span className="text-[9px] text-zinc-500 uppercase tracking-widest mb-1">Secure Transfer</span>
-                      <span className="text-2xl font-mono font-black text-white group-hover:text-cyan-400 transition-colors">${item.price}</span>
-                    </div>
-                    <div className="text-cyan-500 font-black text-xl group-hover:translate-x-2 transition-transform">➔</div>
-                  </div>
+                  {item.specs?.shipping && (
+                    <p className="text-[11px] text-zinc-400 mt-1 line-clamp-2">{item.specs.shipping}</p>
+                  )}
                 </div>
               </div>
-            );
-          })}
-        </div>
+
+              <div className="px-2.5 pb-3 pt-0 bg-zinc-950 flex flex-col gap-1.5">
+                <div className="flex gap-2">
+                  <button
+                    onClick={() => addToCart(item, true)}
+                    className="flex-1 py-2.5 rounded-xl bg-amber-400 hover:bg-amber-300 text-black font-black text-xs uppercase cursor-pointer"
+                  >
+                    🛒 Add to Cart
+                  </button>
+                  <button
+                    onClick={() => handleCheckout([item])}
+                    className="flex-1 py-2.5 rounded-xl bg-emerald-400 hover:bg-emerald-300 text-black font-black text-xs uppercase cursor-pointer"
+                  >
+                    ⚡ Buy Now
+                  </button>
+                </div>
+                <button
+                  onClick={() => { setSelectedItem(item); setActiveImgIdx(0); }}
+                  className="w-full py-1.5 rounded-lg bg-zinc-800 hover:bg-zinc-700 text-zinc-200 font-bold text-[11px] cursor-pointer"
+                >
+                  🔍 View 3+ Photos, Video & Full Specs
+                </button>
+              </div>
+            </div>
+          );
+        })}
       </div>
-    </div>
+
+      {/* Product Detail Modal (3+ Photos, Video & Full Spec Sheet) */}
+      {selectedItem && (
+        <div className="fixed inset-0 z-50 bg-black/85 backdrop-blur-sm flex items-center justify-center p-4 overflow-y-auto">
+          <div className="bg-zinc-900 border-2 border-amber-400 rounded-3xl max-w-3xl w-full p-5 md:p-6 shadow-2xl my-8">
+            <div className="flex items-start justify-between gap-4 mb-4">
+              <div>
+                <span className="text-xs font-mono text-amber-400">{selectedItem.id}</span>
+                <h2 className="text-lg md:text-2xl font-black text-white">{selectedItem.name}</h2>
+              </div>
+              <button onClick={() => setSelectedItem(null)} className="px-3 py-1.5 rounded-xl bg-zinc-800 text-white font-black text-xs cursor-pointer">✕ Close</button>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+              <div>
+                <div className="h-64 bg-black rounded-2xl overflow-hidden flex items-center justify-center border border-zinc-800 mb-3">
+                  {activeImgIdx === 99 && selectedItem.trailerUrl ? (
+                    <video src={selectedItem.trailerUrl} controls autoPlay className="w-full h-full object-cover" />
+                  ) : (
+                    <img src={(selectedItem.media || [])[activeImgIdx] || (selectedItem.media || [])[0]} alt={selectedItem.name} className="w-full h-full object-cover p-0 m-0 block" />
+                  )}
+                </div>
+                <div className="flex gap-2 overflow-x-auto pb-1">
+                  {(selectedItem.media || []).map((m: string, i: number) => (
+                    <button
+                      key={i}
+                      onClick={() => setActiveImgIdx(i)}
+                      className={`w-16 h-16 rounded-xl overflow-hidden border-2 shrink-0 cursor-pointer ${activeImgIdx === i ? "border-amber-400" : "border-zinc-700"}`}
+                    >
+                      <img src={m} alt="" className="w-full h-full object-cover" />
+                    </button>
+                  ))}
+                  {selectedItem.trailerUrl && (
+                    <button
+                      onClick={() => setActiveImgIdx(99)}
+                      className={`px-3 h-16 rounded-xl bg-red-600 text-white font-black text-xs shrink-0 cursor-pointer ${activeImgIdx === 99 ? "ring-2 ring-amber-400" : ""}`}
+                    >
+                      ▶ Watch Video
+                    </button>
+                  )}
+                </div>
+              </div>
+
+              <div className="flex flex-col justify-between">
+                <div>
+                  <div className="text-3xl font-black text-amber-400 mb-3">{selectedItem.price}</div>
+                  <div className="bg-black/60 border border-zinc-800 rounded-2xl p-3.5 text-xs space-y-2 text-zinc-200">
+                    <div><strong className="text-amber-400">Vendor & Insurance:</strong> {selectedItem.specs?.manufacturer}</div>
+                    <div><strong className="text-amber-400">Condition & Stock:</strong> {selectedItem.specs?.condition}</div>
+                    <div><strong className="text-amber-400">Guarantee:</strong> {selectedItem.specs?.authentication}</div>
+                    <div><strong className="text-amber-400">Shipping & Tax:</strong> {selectedItem.specs?.shipping}</div>
+                    <div><strong className="text-amber-400">Price Comparison:</strong> {selectedItem.specs?.market_value}</div>
+                  </div>
+                </div>
+
+                <div className="flex gap-3 mt-5">
+                  <button
+                    onClick={() => { addToCart(selectedItem, true); setSelectedItem(null); }}
+                    className="flex-1 py-3 rounded-xl bg-amber-400 text-black font-black text-xs uppercase cursor-pointer"
+                  >
+                    🛒 Add to Cart
+                  </button>
+                  <button
+                    onClick={() => handleCheckout([selectedItem])}
+                    className="flex-1 py-3 rounded-xl bg-emerald-400 text-black font-black text-xs uppercase cursor-pointer"
+                  >
+                    ⚡ Instant Checkout
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Slide-Over Cart Drawer */}
+      {cartOpen && (
+        <div className="fixed inset-0 z-50 bg-black/80 flex justify-end">
+          <div className="bg-zinc-900 border-l-2 border-amber-400 w-full max-w-md h-full p-5 flex flex-col justify-between">
+            <div>
+              <div className="flex items-center justify-between border-b border-zinc-800 pb-3 mb-4">
+                <h2 className="text-lg font-black text-amber-400">🛒 Your Universal Mall Cart ({cart.length})</h2>
+                <button onClick={() => setCartOpen(false)} className="px-3 py-1 rounded-lg bg-zinc-800 text-xs font-bold cursor-pointer">✕ Close</button>
+              </div>
+              <div className="space-y-3 max-h-[65vh] overflow-y-auto pr-1">
+                {cart.length === 0 ? (
+                  <p className="text-zinc-400 text-xs">Your cart is empty. Click Add to Cart on any item!</p>
+                ) : (
+                  cart.map((c, i) => (
+                    <div key={i} className="flex items-center justify-between gap-3 bg-black/50 border border-zinc-800 rounded-xl p-2.5">
+                      <img src={c.media?.[0]} alt="" className="w-12 h-12 rounded-lg object-cover bg-zinc-800 shrink-0" />
+                      <div className="flex-1 min-w-0">
+                        <div className="text-xs font-bold text-white truncate">{c.name}</div>
+                        <div className="text-xs font-black text-amber-400">{c.price}</div>
+                      </div>
+                      <button onClick={() => removeFromCart(i)} className="text-red-400 text-xs font-bold px-2 cursor-pointer">✕</button>
+                    </div>
+                  ))
+                )}
+              </div>
+            </div>
+
+            {cart.length > 0 && (
+              <div className="border-t border-zinc-800 pt-4">
+                <button
+                  disabled={checkingOut}
+                  onClick={() => handleCheckout(cart)}
+                  className="w-full py-3.5 rounded-xl bg-emerald-400 hover:bg-emerald-300 text-black font-black text-sm uppercase shadow-xl cursor-pointer"
+                >
+                  {checkingOut ? "Opening Secure Stripe Checkout..." : "💳 Proceed to Stripe Checkout →"}
+                </button>
+              </div>
+            )}
+          </div>
+        </div>
+      )}
+    </main>
   );
 }

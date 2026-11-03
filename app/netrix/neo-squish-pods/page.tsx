@@ -11,7 +11,7 @@ export default function NeoSquishPage() {
     <main className="min-h-screen bg-zinc-950 text-white p-6 md:p-12 font-sans">
       <div className="max-w-7xl mx-auto space-y-12">
         <h1 className="text-5xl font-black uppercase text-cyan-300">Neo-Squish & Mystery Pods</h1>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 pt-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-0 pt-6">
           {neoSquishInventory.map((item) => (
             <div key={item.sku} className={`bg-zinc-900 border-2 ${item.style} p-6 rounded-2xl flex flex-col justify-between`}>
               <h2 className="text-xl font-bold">{item.name}</h2>
