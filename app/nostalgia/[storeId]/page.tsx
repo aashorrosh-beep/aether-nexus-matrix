@@ -56,6 +56,20 @@ export default function DynamicStorefront() {
 
   return (
     <main className="min-h-screen bg-blue-900 text-white p-6 md:p-12 font-sans relative">
+
+      {(String(storeId).includes("lapooza") || String(storeId).includes("baby-shower") || String(storeId).includes("ugly-sweater")) && (
+        <div className="max-w-7xl mx-auto px-4 pt-4">
+          <div className="bg-gradient-to-r from-fuchsia-950 via-purple-900 to-indigo-950 border-2 border-amber-400 rounded-3xl p-5 shadow-2xl flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
+            <div>
+              <span className="inline-block bg-amber-400 text-black font-black text-xs px-3 py-1 rounded-full uppercase mb-1">📸 Put Anyone Inside The Party Decorations — Included Free!</span>
+              <h2 className="text-xl md:text-2xl font-black text-white">How It Works: 1️⃣ Upload Phone Photo → 2️⃣ Preview on Arch, Cutouts & Toppers → 3️⃣ Love It & Share It!</h2>
+              <p className="text-fuchsia-100 text-xs mt-1">Put the Birthday Star, Bride, Quinceañera, or Baby right inside the 3D Vinyl Banner, Life-Size Standee & Cupcake Toppers in 30 seconds.</p>
+            </div>
+            <a href="/party-lapooza-ai-studio.html" className="px-5 py-3 rounded-xl bg-amber-400 hover:bg-amber-300 text-black font-black text-xs md:text-sm uppercase shrink-0 shadow-xl">📸 CUSTOMIZE RIGHT HERE →</a>
+          </div>
+        </div>
+      )}
+
       <div className="max-w-7xl mx-auto space-y-12">
         <div>
           <Link href="/" className="inline-block text-xs font-mono tracking-widest uppercase bg-black/40 hover:bg-black/80 px-4 py-2 rounded border border-white/20 mb-6 transition-colors">

@@ -1,63 +1,89 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Party Lapooza • AI Face-Swap & Bulk Party Customizer</title>
-<style>
-body{background:#0f051d;color:#fff;font-family:sans-serif;margin:0;padding:20px}
-.wrap{max-width:1050px;margin:0 auto}
-.box{background:#1e0b36;border:2px solid #f472b6;border-radius:20px;padding:22px;margin-bottom:20px}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px;margin-top:14px}
-.card{background:#120524;border:1px solid #c084fc;border-radius:14px;padding:16px}
-.btn{display:inline-block;background:#facc15;color:#000;font-weight:900;padding:12px 18px;border-radius:10px;text-decoration:none;font-size:12px;text-transform:uppercase;border:none;cursor:pointer;margin-top:8px}
-select,input{width:100%;padding:10px;border-radius:8px;border:1px solid #f472b6;background:#000;color:#fff;margin-top:6px;box-sizing:border-box}
-</style></head><body><div class="wrap">
-<div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;margin-bottom:16px">
-  <h1 style="color:#f472b6;margin:0">🎉 PARTY LAPOOZA</h1><div style="color:#facc15;font-weight:900;font-size:15px;margin-top:4px">"Where Fun, Adventure & Imagination Come to Life — Put Yourself in the Middle of the Magic!"</div>
-  <a class="btn" href="/">← Back to All 6 Malls</a>
-</div>
-<div class="box">
-  <div style="color:#facc15;font-weight:900;font-size:12px">✨ AI FACE-IN-THEME PERSONALIZER + 4.9★ INSURED U.S. PRINT GUARANTEE</div>
-  <h2 style="margin:6px 0">Put Your Child, Bride, Groom, or Quinceañera Right Inside the Theme!</h2>
-  <p style="font-size:13px;color:#e9d5ff">Choose any theme (like Shrek Swamp, Superhero, Pop Star, Quinceañera, or Bachelor Party), select <b>Individual</b> or <b>Bulk (10, 15, or 20 Guests)</b>, and upload a photo—our AI composites your face onto the banners, plates, cups, favors, and shirts!</p>
-  <div class="grid">
-    <div class="card">
-      <label style="font-size:12px;font-weight:bold;color:#f472b6">1. Select Event or Age Bracket:</label>
-      <select id="cat">
-        <option>Boys Ages 1–5 (Shrek, Dino, Monster Truck, Bluey-Style)</option>
-        <option>Boys Ages 5–10 (Minecraft-Style, Sonic, Pokemon, Ninja, Sports)</option>
-        <option>Boys Ages 10–16 (Esports VIP, Paintball, NBA/NFL Tailgate)</option>
-        <option>Girls Ages 1–5 (Ice Princess, Unicorn, Mermaid, Fairy)</option>
-        <option>Girls Ages 5–10 (Barbie-Style Pink, Pop Star Tour, Squishie Spa)</option>
-        <option>Girls Ages 10–16 (K-Beauty Glow Spa, Coquette Bow, Sweet 16)</option>
-        <option>Quinceañera Royale (Mis 15 Robes, Crowns, Damas Bulk Packs)</option>
-        <option>Wedding & Bridal (Bridesmaid Shirts/Robes, Groomsmen Gifts)</option>
-        <option>Bachelorette Squad (Custom Tees, Groom-Face Fans, Tumblers)</option>
-        <option>Bachelor Party (Groom-Face Golf Balls, Cigar/Whiskey Bulk)</option>
-      </select>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Party Lapooza — Put Yourself Inside The Party! Live Customizer</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-zinc-950 text-white min-h-screen font-sans p-4 md:p-8">
+  <div class="max-w-5xl mx-auto">
+    <div class="flex flex-wrap items-center justify-between gap-3 mb-6">
+      <a href="/" class="px-4 py-2 rounded-xl bg-zinc-800 text-amber-400 font-bold text-xs uppercase">← Back to Mall</a>
+      <span class="px-3 py-1 rounded-full bg-fuchsia-500 text-black font-black text-xs uppercase">Included Free With Every 88–170 Pc Party Box</span>
     </div>
-    <div class="card">
-      <label style="font-size:12px;font-weight:bold;color:#facc15">2. Choose Bulk Pack or Individual:</label>
-      <select id="pack" onchange="calcPrice()">
-        <option value="18.99">Individual Personalized Item ($18.99)</option>
-        <option value="39.99" selected>10-Guest Complete Bulk Party Box ($39.99)</option>
-        <option value="54.99">15-Guest Complete Bulk Party Box ($54.99)</option>
-        <option value="68.99">20-Guest Mega Bulk Party Box ($68.99)</option>
-      </select>
-    </div>
-    <div class="card">
-      <label style="font-size:12px;font-weight:bold;color:#38bdf8">3. AI Face-Swap & Custom Name:</label>
-      <input id="pname" placeholder="Name & Age (e.g. Leo Turns 5 / Shrek Theme)">
-      <input type="file" accept="image/*" style="margin-top:8px;font-size:11px">
+
+    <div class="bg-gradient-to-r from-fuchsia-950 via-purple-900 to-indigo-950 border-2 border-amber-400 rounded-3xl p-6 md:p-8 shadow-2xl mb-8">
+      <h1 class="text-2xl md:text-4xl font-black mb-2">📸 Put Anyone Inside The Party Decorations in 30 Seconds!</h1>
+      <p class="text-fuchsia-100 text-sm md:text-base mb-6">Upload any phone photo of the Birthday Kid, Quinceañera, Bride, Groom, or Baby—our AI automatically removes the background and prints them onto your Giant 3D Arch Banner, Life-Size Standee Cutouts, Cupcake Toppers & VIP Passes!</p>
+
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
+        <div class="bg-black/50 border border-fuchsia-400/50 rounded-2xl p-4">
+          <div class="text-amber-400 font-black text-sm mb-1">STEP 1: UPLOAD PHOTO</div>
+          <p class="text-xs text-zinc-200">Pick any photo straight from your phone camera roll. No special background needed—our AI cuts out the person automatically.</p>
+        </div>
+        <div class="bg-black/50 border border-fuchsia-400/50 rounded-2xl p-4">
+          <div class="text-amber-400 font-black text-sm mb-1">STEP 2: TYPE NAME & THEME</div>
+          <p class="text-xs text-zinc-200">Enter the guest of honor's name, age, and party theme. Watch them appear inside the 3D arch, banners, and table centerpieces.</p>
+        </div>
+        <div class="bg-black/50 border border-fuchsia-400/50 rounded-2xl p-4">
+          <div class="text-amber-400 font-black text-sm mb-1">STEP 3: LOVE IT, SHARE IT & SHIP</div>
+          <p class="text-xs text-zinc-200">Send the live preview link to family & friends in 1 tap, then we print and ship the entire custom kit in 3–7 days!</p>
+        </div>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6 bg-zinc-900/90 border border-white/15 rounded-2xl p-5">
+        <div class="flex flex-col gap-4">
+          <label class="text-xs font-black uppercase text-amber-400">1. Tap to Upload Guest of Honor Photo:</label>
+          <input id="photoInput" type="file" accept="image/*" class="block w-full text-xs text-zinc-300 file:mr-4 file:py-2.5 file:px-4 file:rounded-xl file:border-0 file:text-xs file:font-black file:bg-amber-400 file:text-black hover:file:bg-amber-300 cursor-pointer" />
+          <label class="text-xs font-black uppercase text-amber-400">2. Custom Banner Headline / Name & Age:</label>
+          <input id="nameInput" type="text" placeholder="e.g., KING JET'S 7TH VIP PARTY!" value="LET'S CELEBRATE IN STYLE!" class="w-full px-4 py-2.5 rounded-xl bg-black border border-fuchsia-400 text-white font-bold text-sm" />
+          <label class="text-xs font-black uppercase text-amber-400">3. Choose Decoration Placement:</label>
+          <select id="themeInput" class="w-full px-4 py-2.5 rounded-xl bg-black border border-fuchsia-400 text-white font-bold text-sm">
+            <option>🎈 10-Ft Balloon Arch + 3D Photo Banner + Life-Size Cutout</option>
+            <option>👑 Royal Quinceañera / Sweet 16 Gold Foil Throne Backdrop</option>
+            <option>🏆 Sportsflix All-Star Stadium Tunnel & Jersey Cutout</option>
+            <option>🍼 Welcome Baby Shower / Gender Reveal Custom Archway</option>
+          </select>
+          <div class="flex flex-wrap gap-3 pt-2">
+            <button onclick="shareDesign()" class="flex-1 px-4 py-3 rounded-xl bg-emerald-400 text-black font-black text-xs uppercase shadow-lg cursor-pointer">📲 Share Preview With Family & Friends</button>
+            <a href="/nostalgia/lapooza-balloon-arch-helium" class="px-4 py-3 rounded-xl bg-amber-400 text-black font-black text-xs uppercase shadow-lg">🛒 Lock In & Shop Party Kits →</a>
+          </div>
+          <p id="shareMsg" class="text-emerald-400 text-xs font-bold hidden">✅ Link & Custom Preview Copied! Ready to paste into Text, WhatsApp, Instagram, or Facebook!</p>
+        </div>
+
+        <div class="flex flex-col items-center justify-center bg-gradient-to-b from-purple-900/60 to-black border-2 border-dashed border-amber-400 rounded-2xl p-6 text-center relative overflow-hidden">
+          <div class="text-[11px] font-black uppercase bg-amber-400 text-black px-3 py-0.5 rounded-full mb-3">LIVE CUSTOM ARCH & CUTOUT PREVIEW</div>
+          <div id="themePreview" class="text-xs text-fuchsia-300 font-bold mb-2">🎈 10-Ft Balloon Arch + 3D Photo Banner + Life-Size Cutout</div>
+          <div class="w-36 h-36 md:w-44 md:h-44 rounded-full border-4 border-amber-400 shadow-2xl overflow-hidden bg-zinc-800 flex items-center justify-center mb-3">
+            <img id="facePreview" src="https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=500&auto=format&fit=crop&q=80" alt="Custom Party Cutout" class="w-full h-full object-cover" />
+          </div>
+          <div id="bannerPreview" class="px-4 py-2 rounded-xl bg-gradient-to-r from-amber-400 via-pink-400 to-fuchsia-400 text-black font-black text-sm md:text-lg uppercase shadow-xl">LET'S CELEBRATE IN STYLE!</div>
+          <p class="text-[11px] text-zinc-300 mt-3">Printed on Weatherproof HD Vinyl Banner + 24 Cupcake Toppers + Centerpiece Standee</p>
+        </div>
+      </div>
     </div>
   </div>
-  <div id="quote" style="margin-top:16px;padding:12px;background:#000;border-radius:10px;border:1px solid #facc15;font-size:13px">
-    <b>Selected Pack:</b> 10-Guest Complete Bulk Box (Plates, Cups, Napkins, Tablecover, Banner, Favors + Free AI Face-Swap Proof) — <b>$39.99</b> (+ $3.99 Expedited Insured Shipping)
-  </div>
-  <a class="btn" href="/nostalgia/lapooza-boys-ages-1-5">Browse All 10 Party Lapooza Storefronts (250 Themes) →</a>
-</div>
-</div>
-<script>
-function calcPrice(){
-  var p=parseFloat(document.getElementById("pack").value);
-  var s=p<100?3.99:5.99;
-  document.getElementById("quote").innerHTML="<b>Selected Pack Total:</b> Item $"+p.toFixed(2)+" + $"+s.toFixed(2)+" Insured Expedited Shipping = <b>$"+(p+s).toFixed(2)+"</b> (100% Certified U.S. Print Partner Guarantee)";
-}
-</script></body></html>
+  <script>
+    const pIn = document.getElementById('photoInput');
+    const nIn = document.getElementById('nameInput');
+    const tIn = document.getElementById('themeInput');
+    pIn.addEventListener('change', e => {
+      const f = e.target.files[0];
+      if (f) document.getElementById('facePreview').src = URL.createObjectURL(f);
+    });
+    nIn.addEventListener('input', e => {
+      document.getElementById('bannerPreview').textContent = e.target.value || "YOUR CUSTOM PARTY BANNER!";
+    });
+    tIn.addEventListener('change', e => {
+      document.getElementById('themePreview').textContent = e.target.value;
+    });
+    function shareDesign() {
+      const txt = "Check out our custom Party Lapooza decoration preview (" + nIn.value + ") at ALBS Nexus! " + window.location.href;
+      if (navigator.share) { navigator.share({ title: "My Custom Party Lapooza Preview", text: txt, url: window.location.href }); }
+      else { navigator.clipboard.writeText(txt); }
+      document.getElementById('shareMsg').classList.remove('hidden');
+    }
+  </script>
+</body>
+</html>
