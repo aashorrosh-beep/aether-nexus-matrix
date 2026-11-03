@@ -92,7 +92,7 @@ export default function MallOfMallsLobby() {
       <UniversalMallSearch />
 <div className="w-full max-w-7xl mx-auto px-4 pt-4 pb-2 flex flex-col gap-0">
   
-  <div className="bg-gradient-to-r from-red-950 to-emerald-950 border-2 border-amber-400 rounded-3xl p-4 shadow-xl flex flex-col md:flex-row items-start md:items-center justify-between gap-0">
+  <div className="bg-gradient-to-r from-red-950 to-emerald-950 border-2 border-amber-400 rounded-none p-4 shadow-xl flex flex-col md:flex-row items-start md:items-center justify-between gap-0">
     <div>
       <span className="inline-block bg-amber-400 text-black font-black text-xs px-2.5 py-0.5 rounded-full uppercase mb-1">🎄 Top 100 In-Stock Bestsellers</span>
       <h2 className="text-xl md:text-2xl font-black text-white">🎁 Holiday Favorites & Monday Wishlist Top 100 Superstore</h2>
@@ -101,7 +101,7 @@ export default function MallOfMallsLobby() {
     <a href="/nostalgia/holiday-wishlist-100-superstore" className="px-4 py-2.5 rounded-xl bg-amber-400 text-black font-black text-xs uppercase shrink-0 shadow-lg">🎄 Shop Holiday Top 100 →</a>
   </div>
   
-  <div className="bg-gradient-to-r from-rose-950 to-pink-900 border-2 border-pink-300 rounded-3xl p-4 shadow-xl flex flex-col md:flex-row items-start md:items-center justify-between gap-0">
+  <div className="bg-gradient-to-r from-rose-950 to-pink-900 border-2 border-pink-300 rounded-none p-4 shadow-xl flex flex-col md:flex-row items-start md:items-center justify-between gap-0">
     <div>
       <span className="inline-block bg-amber-400 text-black font-black text-xs px-2.5 py-0.5 rounded-full uppercase mb-1">✨ Joyful Motherhood Wing</span>
       <h2 className="text-xl md:text-2xl font-black text-white">👶 When You're Expecting, Nursery & Free Infant/Adult CPR Classes</h2>
@@ -110,7 +110,7 @@ export default function MallOfMallsLobby() {
     <a href="/nostalgia/new-life-expecting-superstore" className="px-4 py-2.5 rounded-xl bg-amber-400 text-black font-black text-xs uppercase shrink-0 shadow-lg">🍼 Shop Expecting + CPR →</a>
   </div>
   
-  <div className="bg-gradient-to-r from-fuchsia-950 to-indigo-950 border-2 border-fuchsia-400 rounded-3xl p-4 shadow-xl flex flex-col md:flex-row items-start md:items-center justify-between gap-0">
+  <div className="bg-gradient-to-r from-fuchsia-950 to-indigo-950 border-2 border-fuchsia-400 rounded-none p-4 shadow-xl flex flex-col md:flex-row items-start md:items-center justify-between gap-0">
     <div>
       <span className="inline-block bg-amber-400 text-black font-black text-xs px-2.5 py-0.5 rounded-full uppercase mb-1">🎉 10%–20% Below Custom Shops</span>
       <h2 className="text-xl md:text-2xl font-black text-white">🎈 Party Lapooza Mega-Store + Live AI Face-Swap & Customizer</h2>
@@ -133,13 +133,13 @@ export default function MallOfMallsLobby() {
           </p>
         </div>
 
-        <div className="bg-zinc-950/95 border-2 border-yellow-400/70 rounded-2xl p-4 shadow-lg">
+        <div className="bg-transparent/95 border-2 border-yellow-400/70 rounded-none p-4 shadow-lg">
           <div className="flex flex-col md:flex-row gap-0 items-center">
             <div className="md:w-1/3 text-left">
               <div className="text-xs font-black uppercase text-yellow-400">🔍 SEARCH ALL 6 MALLS AT ONCE</div>
               <div className="text-[11px] text-zinc-400">Type any item to see every store that carries it:</div>
             </div>
-            <div className="w-full md:w-2/3 flex gap-2">
+            <div className="w-full md:w-2/3 flex gap-0">
               <input type="text" value={mallQuery} onChange={(e) => setMallQuery(e.target.value)} placeholder="Search all malls (e.g. ugly sweater, squishmallow, baseball, autism, coffee, drone)..." className="w-full bg-black border-2 border-zinc-700 focus:border-yellow-400 rounded-xl px-4 py-3 text-sm text-white outline-none" />
               {mallQuery && <button onClick={() => setMallQuery("")} className="bg-red-600 text-white font-black text-xs px-4 rounded-xl uppercase">Clear</button>}
             </div>
@@ -171,7 +171,7 @@ export default function MallOfMallsLobby() {
 
         
         {/* 1. 3-HOUR AI CONCIERGE (24-HOUR HOLD) RIGHT UNDER SEARCH */}
-        <div className="bg-amber-950/90 border-2 border-amber-400 rounded-2xl p-4 flex flex-col md:flex-row justify-between items-center gap-0 shadow-lg">
+        <div className="bg-amber-950/90 border-2 border-amber-400 rounded-none p-4 flex flex-col md:flex-row justify-between items-center gap-0 shadow-lg">
           <div className="text-xs text-white text-left">
             <span className="bg-amber-400 text-black font-black px-2 py-0.5 rounded uppercase mr-2">🎩 3-HOUR AI CONCIERGE</span>
             <b>DON&apos;T SEE IT? NEVER LEAVE OUR STORE!</b> We will find it cheaper, email your link within <b className="text-emerald-400">3 HOURS</b> &amp; lock it on a <b className="text-yellow-300">24-HOUR HOLD</b>!
@@ -180,7 +180,7 @@ export default function MallOfMallsLobby() {
         </div>
 
         {/* 2. STANDALONE PARTY LAPOOZA MEGA-SUPERSTORE BANNER */}
-        <div className="bg-gradient-to-r from-fuchsia-950 via-purple-950 to-pink-950 border-2 border-fuchsia-400 rounded-3xl p-5 space-y-3 shadow-xl">
+        <div className="bg-gradient-to-r from-fuchsia-950 via-purple-950 to-pink-950 border-2 border-fuchsia-400 rounded-none p-5 space-y-3 shadow-xl">
           <div className="flex flex-col md:flex-row justify-between items-center gap-0">
             <div className="text-left">
               <span className="bg-fuchsia-400 text-black font-black text-[10px] uppercase px-3 py-1 rounded-full">🎉 STANDALONE MEGA-SUPERSTORE • 15 PARTY STORES</span>
@@ -189,7 +189,7 @@ export default function MallOfMallsLobby() {
             </div>
             <a href="/party-lapooza-ai-studio.html" className="bg-yellow-400 text-black font-black text-xs uppercase px-5 py-3.5 rounded-xl shrink-0">🎨 Launch Free AI Face-Swap Studio →</a>
           </div>
-          <div className="grid grid-cols-2 md:grid-cols-5 gap-2 pt-1">
+          <div className="grid grid-cols-2 md:grid-cols-5 gap-0 pt-1">
             <Link href="/nostalgia/lapooza-boys-ages-1-5" className="bg-black/80 border border-fuchsia-400 text-white font-black text-[11px] uppercase p-2.5 rounded-xl text-center">🦖 Boys 1–5 (Shrek/Dino) →</Link>
             <Link href="/nostalgia/lapooza-boys-ages-5-10" className="bg-black/80 border border-fuchsia-400 text-white font-black text-[11px] uppercase p-2.5 rounded-xl text-center">🎮 Boys 5–16 Party →</Link>
             <Link href="/nostalgia/lapooza-girls-ages-1-5" className="bg-black/80 border border-fuchsia-400 text-white font-black text-[11px] uppercase p-2.5 rounded-xl text-center">🦄 Girls 1–16 Party →</Link>
@@ -200,7 +200,7 @@ export default function MallOfMallsLobby() {
 
 
         {/* 3. ALL 4 SEPARATE COLORED RIBBON SANCTUARIES + 12-MILE EVENT RADAR */}
-        <div className="bg-zinc-950 border-2 border-emerald-400 rounded-3xl p-5 space-y-4 shadow-xl">
+        <div className="bg-transparent border-2 border-emerald-400 rounded-none p-5 space-y-4 shadow-xl">
           <div className="flex flex-col md:flex-row justify-between items-center gap-0">
             <div className="text-left">
               <span className="bg-emerald-400 text-black font-black text-[10px] uppercase px-3 py-1 rounded-full">🌟 THE BEACON OF HOPE SANCTUARY • 5 SUPERSTORES • 4 COLOR-CODED 12-MILE RADARS &amp; BREAKTHROUGHS</span>
@@ -209,22 +209,22 @@ export default function MallOfMallsLobby() {
             <input value={zip12} onChange={e => setZip12(e.target.value)} maxLength={5} placeholder="ZIP (77301)" className="w-40 bg-black border-2 border-yellow-400 rounded-xl px-4 py-2 text-center font-black text-xl text-white" />
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-0">
-            <div className="bg-blue-950 border-2 border-blue-400 rounded-2xl p-3.5 space-y-2">
+            <div className="bg-blue-950 border-2 border-blue-400 rounded-none p-3.5 space-y-2">
               <div className="text-xs font-black uppercase text-amber-300">🧩 Spectrum &amp; Sensory (Blue/Gold)</div>
               <a href={"/spectrum-knowledge-vault.html?zip=" + zip12} className="w-full bg-amber-400 text-black font-black text-xs uppercase py-2.5 rounded-xl block text-center">🔍 12-Mi Autism Events ({zip12}) →</a>
               <Link href="/nostalgia/spectrum-sensory-superstore" className="w-full bg-blue-600 text-white font-black text-xs uppercase py-2.5 rounded-xl block text-center">🏪 🏪 Sensory Superstore →</Link>
             </div>
-            <div className="bg-yellow-950 border-2 border-yellow-400 rounded-2xl p-3.5 space-y-2">
+            <div className="bg-yellow-950 border-2 border-yellow-400 rounded-none p-3.5 space-y-2">
               <div className="text-xs font-black uppercase text-yellow-300">🌻 Bright Horizons &amp; Mobility (Blue/Yellow)</div>
               <a href={"/spectrum-knowledge-vault.html?cat=down-md&zip=" + zip12} className="w-full bg-yellow-400 text-black font-black text-xs uppercase py-2.5 rounded-xl block text-center">🔍 12-Mi Down/MD Events ({zip12}) →</a>
               <Link href="/nostalgia/md-mobility-superstore" className="w-full bg-blue-700 text-yellow-300 font-black text-xs uppercase py-2.5 rounded-xl block text-center">🏪 🏪 Mobility Superstore →</Link>
             </div>
-            <div className="bg-cyan-950 border-2 border-white rounded-2xl p-3.5 space-y-2">
+            <div className="bg-cyan-950 border-2 border-white rounded-none p-3.5 space-y-2">
               <div className="text-xs font-black uppercase text-cyan-300">🤟 Sight &amp; Sound Connection (Silver/Cyan)</div>
               <a href={"/spectrum-knowledge-vault.html?cat=deaf-blind&zip=" + zip12} className="w-full bg-cyan-400 text-black font-black text-xs uppercase py-2.5 rounded-xl block text-center">🔍 12-Mi Deaf/Blind Events ({zip12}) →</a>
               <Link href="/nostalgia/deaf-blind-superstore" className="w-full bg-white text-black font-black text-xs uppercase py-2.5 rounded-xl block text-center">🏪 🏪 Sight &amp; Sound Store →</Link>
             </div>
-            <div className="bg-teal-950 border-2 border-teal-400 rounded-2xl p-3.5 space-y-2">
+            <div className="bg-teal-950 border-2 border-teal-400 rounded-none p-3.5 space-y-2">
               <div className="text-xs font-black uppercase text-teal-300">🎖️ Valor &amp; Peace Recovery (Teal)</div>
               <a href={"/spectrum-knowledge-vault.html?cat=ptsd&zip=" + zip12} className="w-full bg-teal-400 text-black font-black text-xs uppercase py-2.5 rounded-xl block text-center">🔍 12-Mi PTSD Events ({zip12}) →</a>
               <Link href="/nostalgia/ptsd-calm-superstore" className="w-full bg-teal-700 text-white font-black text-xs uppercase py-2.5 rounded-xl block text-center">🏪 🏪 Valor &amp; Peace Store →</Link>
@@ -232,7 +232,7 @@ export default function MallOfMallsLobby() {
           </div>
         </div>
 
-        <div className="flex flex-wrap gap-2 justify-center">
+        <div className="flex flex-wrap gap-0 justify-center">
           <button onClick={() => { setSelectedMallId(null); setActiveCog(null); }} className={`px-3.5 py-2 rounded-xl text-xs font-black uppercase border ${!selectedMallId ? "bg-white text-black border-white" : "bg-zinc-900 text-zinc-300 border-zinc-700"}`}>🏛️ View All 6 Malls</button>
           {MALL_DIRECTORY.map(m => (
             <button key={m.id} onClick={() => { setSelectedMallId(m.id); setActiveCog(null); }} className={`px-3.5 py-2 rounded-xl text-xs font-black uppercase border ${selectedMallId === m.id ? "bg-yellow-400 text-black border-yellow-400" : "bg-zinc-900 text-zinc-200 border-zinc-700"}`}>{m.title}</button>
@@ -246,7 +246,7 @@ export default function MallOfMallsLobby() {
           {MALL_DIRECTORY.map((m, idx) => {
             const storeCount = m.cogs.reduce((sum, c) => sum + c.rooms.filter(r => isLive(r)).length, 0);
             return (
-              <div key={m.id} className={`bg-gradient-to-br ${m.bg} border-2 ${m.border} rounded-3xl p-6 md:p-7 space-y-4 shadow-xl`}>
+              <div key={m.id} className={`bg-gradient-to-br ${m.bg} border-2 ${m.border} rounded-none p-6 md:p-7 space-y-4 shadow-xl`}>
                 <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-0">
                   <div className="space-y-1.5">
                     <span className={`font-mono text-xs font-bold uppercase ${m.accent}`}>{m.badge} • {m.cogs.length} CORRIDORS • {storeCount} LIVE STOREFRONTS</span>
@@ -254,7 +254,7 @@ export default function MallOfMallsLobby() {
                     <p className={`text-xs font-bold ${m.accent}`}>{m.subtitle}</p>
                     <p className="text-xs text-zinc-300 max-w-3xl">{m.explain}</p>
                   </div>
-                  <button onClick={() => setSelectedMallId(m.id)} className={`${m.btnBg} font-black text-xs uppercase px-6 py-4 rounded-2xl shrink-0`}>
+                  <button onClick={() => setSelectedMallId(m.id)} className={`${m.btnBg} font-black text-xs uppercase px-6 py-4 rounded-none shrink-0`}>
                     Enter {m.title} ({storeCount} Stores) →
                   </button>
                 </div>
@@ -273,7 +273,7 @@ export default function MallOfMallsLobby() {
 
       {selectedMall && !activeCog && (
         <div className="max-w-6xl mx-auto px-4 md:px-6 pt-6">
-          <div className={`bg-gradient-to-br ${selectedMall.bg} border-2 ${selectedMall.border} rounded-3xl p-6 md:p-8 space-y-6`}>
+          <div className={`bg-gradient-to-br ${selectedMall.bg} border-2 ${selectedMall.border} rounded-none p-6 md:p-8 space-y-6`}>
             <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-0 border-b border-zinc-700 pb-4">
               <div>
                 <span className={`font-mono text-xs uppercase ${selectedMall.accent}`}>{selectedMall.badge}</span>
@@ -284,7 +284,7 @@ export default function MallOfMallsLobby() {
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-0">
               {selectedMall.cogs.map(c => (
-                <button key={c.id} onClick={() => setActiveCog(c)} className="text-left bg-zinc-900 hover:bg-zinc-800 border-2 border-zinc-700 hover:border-yellow-400 p-5 rounded-2xl space-y-2">
+                <button key={c.id} onClick={() => setActiveCog(c)} className="text-left bg-zinc-900 hover:bg-zinc-800 border-2 border-zinc-700 hover:border-yellow-400 p-5 rounded-none space-y-2">
                   <div className="font-black text-base uppercase text-white">{c.name}</div>
                   <div className="text-xs text-zinc-300">{c.desc}</div>
                   <div className="text-xs font-mono text-yellow-400 font-bold pt-1">📂 Open {c.rooms.filter((r: string) => isLive(r)).length} Live Storefronts →</div>
@@ -297,13 +297,13 @@ export default function MallOfMallsLobby() {
 
       {activeCog && (
         <div className="max-w-6xl mx-auto px-4 md:px-6 pt-6">
-          <div className="bg-zinc-950 border-2 border-yellow-400 rounded-3xl p-6 md:p-8 space-y-6">
+          <div className="bg-transparent border-2 border-yellow-400 rounded-none p-6 md:p-8 space-y-6">
             <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-0 border-b border-zinc-800 pb-4">
               <div>
                 <h3 className="text-2xl font-black uppercase text-white">{activeCog.name}</h3>
                 <p className="text-xs text-zinc-400 mt-1">{activeCog.desc}</p>
               </div>
-              <div className="flex gap-2">
+              <div className="flex gap-0">
                 <button onClick={() => setActiveCog(null)} className="bg-yellow-400 text-black font-black text-xs uppercase px-4 py-3 rounded-xl">← Back to Corridors</button>
                 <button onClick={() => { setActiveCog(null); setSelectedMallId(null); }} className="bg-zinc-800 text-white font-black text-xs uppercase px-4 py-3 rounded-xl">🏛️ All 6 Malls</button>
               </div>
@@ -312,7 +312,7 @@ export default function MallOfMallsLobby() {
               {activeCog.rooms.filter((r: string) => isLive(r)).map((room: string) => {
                 const items = masterInventory[room] || [];
                 return (
-                  <Link key={room} href={"/nostalgia/" + room} className="bg-zinc-900 hover:bg-zinc-800 border border-zinc-700 hover:border-yellow-400 p-4 rounded-2xl flex items-center gap-0">
+                  <Link key={room} href={"/nostalgia/" + room} className="bg-zinc-900 hover:bg-zinc-800 border border-zinc-700 hover:border-yellow-400 p-4 rounded-none flex items-center gap-0">
                     {items[0]?.media?.[0] && <img src={items[0].media[0]} alt="" className="w-14 h-14 rounded-xl object-cover shrink-0" />}
                     <div className="min-w-0">
                       <div className="font-black text-sm uppercase text-white truncate">{fmt(room)}</div>

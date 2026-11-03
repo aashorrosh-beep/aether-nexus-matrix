@@ -1,0 +1,146 @@
+import fs from "fs";
+
+// 1. BUILD INTERACTIVE FREE CPR / CHOKING CERTIFICATION BOARD + MD SANCTUARY HUB (/public/spectrum-knowledge-vault.html)
+const cprBoardHtml = `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ALBS Nexus — Free Infant/Adult CPR & Choking Certification Board + MD Mobility Hub</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="min-h-screen text-white font-sans p-4 md:p-8" style="background: radial-gradient(circle at top, #1e1b4b 0%, #090d16 55%, #050505 100%);">
+  <div class="max-w-6xl mx-auto">
+    <div class="flex flex-wrap items-center justify-between gap-3 mb-6">
+      <a href="/" class="px-4 py-2 bg-amber-400 text-black font-black text-xs uppercase">← Back to ALBS Nexus Mall</a>
+      <div class="flex gap-2">
+        <a href="/nostalgia/md-mobility-superstore" class="px-4 py-2 bg-emerald-400 text-black font-black text-xs uppercase">♿ Open MD & Mobility 85-Item Sanctuary →</a>
+        <a href="/nostalgia/new-life-expecting-superstore" class="px-4 py-2 bg-pink-400 text-black font-black text-xs uppercase">👶 Open Expecting & Nursery Superstore →</a>
+      </div>
+    </div>
+
+    <div id="cpr-classes" class="bg-zinc-900/90 border-2 border-amber-400 p-6 md:p-8 mb-8">
+      <span class="bg-amber-400 text-black font-black text-xs px-3 py-1 uppercase">🚑 100% Free Public Safety & Family Preparedness Board</span>
+      <h1 class="text-2xl md:text-4xl font-black mt-2">Free Infant, Child & Adult CPR + Choking Rescue (5-and-5) Certification Board</h1>
+      <p class="text-zinc-300 text-sm mt-1 mb-6">Complete the 3 modules below to generate your Instant Family Preparedness Certificate, or jump directly to the Muscular Dystrophy (MD) & Mobility Sanctuary below.</p>
+
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
+        <div class="bg-black/70 border border-rose-400/50 p-4">
+          <div class="text-rose-400 font-black text-sm mb-1">MODULE 1: INFANT CPR (UNDER AGE 1)</div>
+          <p class="text-xs text-zinc-200 leading-relaxed">• Check responsiveness (tap heel) & call 911.<br/>• Place 2 fingers in center of chest just below nipple line.<br/>• Push 1.5 inches deep at 100–120 beats/min (30 compressions : 2 gentle puffs covering nose & mouth).</p>
+        </div>
+        <div class="bg-black/70 border border-amber-400/50 p-4">
+          <div class="text-amber-400 font-black text-sm mb-1">MODULE 2: CHOKING RESCUE (5-AND-5 PROTOCOL)</div>
+          <p class="text-xs text-zinc-200 leading-relaxed">• Infant: Hold face-down on forearm (head lower than chest), deliver 5 firm back slaps between shoulder blades, turn face-up & give 5 chest thrusts.<br/>• Child/Adult: 5 back blows + 5 abdominal thrusts (Heimlich) above navel.</p>
+        </div>
+        <div class="bg-black/70 border border-emerald-400/50 p-4">
+          <div class="text-emerald-400 font-black text-sm mb-1">MODULE 3: ADULT & CHILD HANDS-ONLY CPR</div>
+          <p class="text-xs text-zinc-200 leading-relaxed">• Place heel of hand in center of chest, interlock fingers.<br/>• Push hard & fast (2 inches deep, 100–120 BPM) without stopping until EMS or an AED arrives.</p>
+        </div>
+      </div>
+
+      <div class="bg-black/80 border border-amber-400 p-5 flex flex-col md:flex-row items-center justify-between gap-4">
+        <div class="flex-1 w-full">
+          <label class="text-xs font-black uppercase text-amber-400 block mb-1">Enter Your Full Name to Issue Your Free Family CPR & Choking Readiness Certificate:</label>
+          <input id="certName" type="text" placeholder="Type Parent, Caregiver, or Family Member Name..." class="w-full px-4 py-2.5 bg-zinc-900 border border-zinc-700 text-white text-sm font-bold" />
+        </div>
+        <button onclick="issueCert()" class="px-6 py-3 bg-emerald-400 text-black font-black text-xs uppercase cursor-pointer shrink-0">🎓 Generate Free Certificate Now</button>
+      </div>
+
+      <div id="certBox" class="hidden mt-6 bg-gradient-to-r from-amber-950 via-zinc-900 to-amber-950 border-4 border-double border-amber-400 p-6 text-center">
+        <div class="text-xs font-black uppercase text-amber-400 tracking-widest">ALBS NEXUS FAMILY SAFETY & PREPAREDNESS BOARD</div>
+        <h2 class="text-2xl md:text-3xl font-black text-white mt-2">Certificate of Completion — Infant/Adult CPR & 5-and-5 Choking Rescue</h2>
+        <p class="text-sm text-zinc-300 mt-2">Proudly awarded to:</p>
+        <div id="certHolder" class="text-2xl font-black text-amber-300 my-2 uppercase">FAMILY CAREGIVER</div>
+        <p class="text-xs text-zinc-400">Verified via ALBS Enterprises, LLC Sanctuary Education Board • Print or Screenshot for Your Family Records</p>
+        <button onclick="window.print()" class="mt-4 px-5 py-2 bg-amber-400 text-black font-black text-xs uppercase cursor-pointer">🖨️ Print / Save Certificate PDF</button>
+      </div>
+    </div>
+
+    <div id="md-board" class="bg-zinc-900/90 border-2 border-emerald-400 p-6 md:p-8">
+      <span class="bg-emerald-400 text-black font-black text-xs px-3 py-1 uppercase">♿ Muscular Dystrophy (MD) & Mobility Resource Board</span>
+      <h2 class="text-xl md:text-3xl font-black mt-2">MD & Mobility 85-Item Sanctuary + Caregiver Support</h2>
+      <p class="text-zinc-300 text-sm mt-1 mb-4">Explore 50 Hard-to-Find Mobility Essentials + 35 Daily Complaint-Solver Solutions priced 10% below specialty medical supply stores.</p>
+      <div class="flex flex-wrap gap-3">
+        <a href="/nostalgia/md-mobility-superstore" class="px-5 py-3 bg-emerald-400 text-black font-black text-xs uppercase">♿ Shop All 85 MD & Mobility Items →</a>
+        <a href="/nostalgia/deaf-blind-superstore" class="px-5 py-3 bg-amber-400 text-black font-black text-xs uppercase">🤟 Shop 85 Blind & Deaf Sanctuary Items →</a>
+        <a href="/nostalgia/ptsd-calm-superstore" class="px-5 py-3 bg-sky-400 text-black font-black text-xs uppercase">🛡️ Shop 85 PTSD & Veterans Sanctuary Items →</a>
+      </div>
+    </div>
+  </div>
+  <script>
+    function issueCert() {
+      const v = document.getElementById('certName').value.trim() || 'VALUED FAMILY CAREGIVER';
+      document.getElementById('certHolder').textContent = v;
+      document.getElementById('certBox').classList.remove('hidden');
+    }
+  </script>
+</body>
+</html>`;
+fs.writeFileSync("public/spectrum-knowledge-vault.html", cprBoardHtml, "utf8");
+
+// 2. FIX ALL LINKS ON app/page.tsx ("Get it within 3 hours", CPR Board, MD Sanctuary, and Internal Room Grids)
+let p = fs.readFileSync("app/page.tsx", "utf8");
+
+// Make sure every "3 hours" / "concierge" button or link on the homepage routes to /nostalgia/concierge
+p = p.replace(/href=["']#[^"']*["']/g, 'href="/nostalgia/concierge"');
+p = p.replace(/href=["']\/concierge["']/g, 'href="/nostalgia/concierge"');
+
+// Remove spacing & borders on any internal item list inside app/page.tsx (Nostalgia & Q4 Holiday Mall item lists)
+p = p.replace(/gap-[2345678]/g, "gap-0")
+     .replace(/rounded-2xl/g, "rounded-none")
+     .replace(/rounded-3xl/g, "rounded-none")
+     .replace(/bg-zinc-950/g, "bg-transparent")
+     .replace(/bg-black\/90/g, "bg-transparent");
+
+fs.writeFileSync("app/page.tsx", p, "utf8");
+
+// 3. APPLY OFFICIAL ALBS NEXUS COMPANY BACKGROUND & ZERO-SPACING ITEM LIST LOCK IN app/globals.css
+const cssPath = "app/globals.css";
+let css = fs.existsSync(cssPath) ? fs.readFileSync(cssPath, "utf8") : "";
+const companyBgAndGridLock = `
+/* ==========================================================================
+   OFFICIAL ALBS ENTERPRISES / NEXUS PLATFORMS COMPANY BACKGROUND & ZERO-GAP GRID
+   ========================================================================== */
+html, body, main {
+  background-color: #070b14 !important;
+  background-image:
+    radial-gradient(at 15% 10%, rgba(245, 158, 11, 0.16) 0px, transparent 45%),
+    radial-gradient(at 85% 15%, rgba(16, 185, 129, 0.14) 0px, transparent 45%),
+    radial-gradient(at 50% 85%, rgba(59, 130, 246, 0.12) 0px, transparent 50%),
+    linear-gradient(180deg, rgba(10, 15, 29, 0.96) 0%, rgba(7, 11, 20, 0.99) 100%) !important;
+  background-attachment: fixed !important;
+}
+
+/* Force zero spacing and zero borders on ALL product grids (Homepage, Nostalgia, Q4 Holiday, & Storefronts) */
+.sku-flush-grid,
+main .grid {
+  gap: 0px !important;
+  row-gap: 0px !important;
+  column-gap: 0px !important;
+}
+
+.sku-flush-card,
+main .grid > div,
+main .grid > a {
+  border: 0px none transparent !important;
+  border-radius: 0px !important;
+  margin: 0px !important;
+  box-shadow: none !important;
+}
+
+.sku-flush-card img,
+main .grid img {
+  object-fit: cover !important;
+  width: 100% !important;
+  height: 100% !important;
+  padding: 0px !important;
+  margin: 0px !important;
+  border: 0px !important;
+  border-radius: 0px !important;
+  background: transparent !important;
+  display: block !important;
+}
+`;
+fs.writeFileSync(cssPath, css + "\n" + companyBgAndGridLock, "utf8");
+console.log("✅ COMPANY BACKGROUND, 3-HR CONCIERGE LINK, FREE CPR/MD BOARD & ZERO-SPACING ITEM GRIDS LOCKED!");
