@@ -20,11 +20,11 @@ export default function NexusWheelLobby() {
       </div>
 
       {/* 1. TOP COMMAND CONSOLE: MAIN SEARCH, 3-HR CONCIERGE & 12-MILE SANCTUARY ZIP RADAR */}
-      <div style={{ maxWidth: "1060px", margin: "22px auto 10px", padding: "0 20px", position: "relative", zIndex: 30 }}>
-        <div style={{ background: "rgba(15,23,42,0.96)", border: "2px solid #f59e0b", borderRadius: "22px", padding: "22px", textAlign: "center", boxShadow: "0 0 40px rgba(245,158,11,0.18)" }}>
+      <div style={{ maxWidth: "1060px", margin: "10px auto 0px", padding: "0 20px", position: "relative", zIndex: 30 }}>
+        <div style={{ background: "rgba(15,23,42,0.96)", border: "2px solid #f59e0b", borderRadius: "22px", padding: "14px 20px", textAlign: "center", boxShadow: "0 0 40px rgba(245,158,11,0.18)" }}>
           <div style={{ fontSize: "12px", fontWeight: 900, color: "#38bdf8", letterSpacing: "0.12em" }}>🔍 MAIN NEXUS SEARCH • ALL 6 MALLS AT ONCE</div>
-          <h2 style={{ fontSize: "22px", fontWeight: 900, margin: "6px 0 12px" }}>Search Any Storefront, Sanctuary or Item Below</h2>
-          <input value={q} onChange={e => setQ(e.target.value)} placeholder="Search all malls (e.g. sensory, telescope, peptides, party, christmas, sports, CPR)..." style={{ width: "100%", maxWidth: "740px", padding: "14px 18px", borderRadius: "12px", border: "2px solid #f59e0b", background: "#030712", color: "#fff", fontSize: "15px" }} />
+          <h2 style={{ fontSize: "18px", fontWeight: 900, margin: "2px 0 8px" }}>Search Any Storefront, Sanctuary or Item Below</h2>
+          <input value={q} onChange={e => setQ(e.target.value)} placeholder="Search all malls (e.g. sensory, telescope, peptides, party, christmas, sports, CPR)..." style={{ width: "100%", maxWidth: "740px", padding: "10px 16px", borderRadius: "12px", border: "2px solid #f59e0b", background: "#030712", color: "#fff", fontSize: "15px" }} />
           {hits.length > 0 && (
             <div style={{ maxWidth: "740px", margin: "12px auto 0", display: "grid", gap: "8px" }}>
               {hits.map(h => (
@@ -35,14 +35,14 @@ export default function NexusWheelLobby() {
             </div>
           )}
 
-          <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))", gap: "14px", marginTop: "18px", textAlign: "left" }}>
-            <div style={{ background: "#090d16", border: "1px solid #38bdf8", borderRadius: "14px", padding: "16px" }}>
+          <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))", gap: "14px", marginTop: "10px", textAlign: "left" }}>
+            <div style={{ background: "#090d16", border: "1px solid #38bdf8", borderRadius: "14px", padding: "10px 14px" }}>
               <div style={{ fontSize: "12px", fontWeight: 900, color: "#38bdf8" }}>🎩 3-HOUR AI CONCIERGE (24-HR HOLD)</div>
               <p style={{ fontSize: "12px", color: "#cbd5e1", margin: "6px 0 12px" }}>Don&apos;t see it? We find it cheaper, email your direct link within 3 hours & lock it on a 24-hour hold!</p>
               <Link href="/stores/holistic-peptides-wellness" style={{ display: "inline-block", padding: "9px 14px", borderRadius: "8px", background: "#38bdf8", color: "#030712", fontWeight: 900, textDecoration: "none", fontSize: "12px" }}>🎩 Get It Within 3 Hrs →</Link>
             </div>
 
-            <div style={{ background: "#090d16", border: "1px solid #f59e0b", borderRadius: "14px", padding: "16px" }}>
+            <div style={{ background: "#090d16", border: "1px solid #f59e0b", borderRadius: "14px", padding: "10px 14px" }}>
               <div style={{ fontSize: "12px", fontWeight: 900, color: "#fbbf24", marginBottom: "8px" }}>🌟 12-MILE SANCTUARY ZIP RADAR: <input value={zip} onChange={e => setZip(e.target.value)} maxLength={5} style={{ width: "80px", padding: "4px 8px", background: "#030712", border: "1px solid #f59e0b", color: "#fbbf24", borderRadius: "6px", fontWeight: 900 }} /></div>
               <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "6px", fontSize: "11px" }}>
                 <Link href="/sanctuary/autism-spectrum" style={{ color: "#38bdf8", textDecoration: "none", fontWeight: 800 }}>🧩 Autism ({zip}) →</Link>
@@ -56,7 +56,7 @@ export default function NexusWheelLobby() {
       </div>
 
       {/* 2. BELOW: SPOKE & WHEEL LIGHTNING REACTOR */}
-      <div style={{ position: "relative", width: "100%", maxWidth: "1000px", height: "720px", margin: "10px auto 0" }}>
+      <div style={{ position: "relative", width: "100%", maxWidth: "1000px", height: "720px", margin: "-10px auto 0" }}>
         <svg viewBox="0 0 1000 720" style={{ position: "absolute", inset: 0, width: "100%", height: "100%", pointerEvents: "none", zIndex: 5 }}>
           <circle cx="500" cy="360" r="310" fill="none" stroke="rgba(56,189,248,0.3)" strokeWidth="2" strokeDasharray="10 8" />
           <circle cx="500" cy="360" r="220" fill="none" stroke="rgba(245,158,11,0.3)" strokeWidth="1.5" strokeDasharray="6 10" />
