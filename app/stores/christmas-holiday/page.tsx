@@ -59,7 +59,7 @@ export default function ChristmasSuperstorePage() {
       <header className="sticky top-0 z-40 bg-black/95 border-b-2 border-amber-400 px-4 py-3">
         <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-3">
           <div className="flex items-center gap-3">
-            <a href="/" className="px-3.5 py-2 bg-amber-400 text-black font-black text-xs uppercase">← Mall Lobby</a>
+            <button type="button" onClick={() => { if (window.history.length > 1) { window.history.back(); } else { window.location.href = "/"; } }} className="px-3.5 py-2 bg-amber-400 text-black font-black text-xs uppercase cursor-pointer">⬅ Back to Room</button><a href="/" className="px-2.5 py-2 bg-zinc-800 border border-amber-400 text-amber-300 font-black text-[10px] uppercase">Mall Map</a>
             <div>
               <span className="bg-emerald-400 text-black font-black text-[10px] px-2 py-0.5 uppercase">Best Buy + Hobby Lobby + Michaels + Lowe's Combined Superstore</span>
               <h1 className="text-lg md:text-2xl font-black text-white">🎄 250-Item Christmas & Seasonal Mega-Superstore</h1>

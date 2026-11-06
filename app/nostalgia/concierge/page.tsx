@@ -41,7 +41,7 @@ export default function ConciergePage() {
   return (
     <main className="min-h-screen bg-zinc-950 text-white p-4 md:p-8">
       <div className="max-w-6xl mx-auto">
-        <a href="/" className="inline-block mb-4 px-4 py-2 rounded-xl bg-amber-400 text-black font-black text-xs uppercase">← Back to All 6 Malls</a>
+        <button type="button" onClick={() => { if (window.history.length > 1) { window.history.back(); } else { window.location.href = "/"; } }} className="inline-block mb-4 px-4 py-2 rounded-xl bg-amber-400 text-black font-black text-xs uppercase cursor-pointer">⬅ Back to Room</button><a href="/" className="px-2.5 py-2 bg-zinc-800 border border-amber-400 text-amber-300 font-black text-[10px] uppercase">Mall Map</a>
         <div className="bg-zinc-900 border-2 border-amber-400 p-6 mb-6">
           <span className="bg-emerald-400 text-black font-black text-xs px-3 py-1 uppercase">⚡ Live 30-Min to 3-Hour Global Sourcing Desk • 24-Hour Price Hold</span>
           <h1 className="text-2xl md:text-4xl font-black mt-2">Don't See It in Our 240 Rooms? We Source It Live & Hold It For 24 Hours!</h1>

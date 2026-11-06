@@ -38,7 +38,7 @@ export default function AutismSpectrumSanctuary() {
       <header className="sticky top-0 z-40 bg-black/95 border-b-2 border-indigo-400 px-4 py-3">
         <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-3">
           <div className="flex items-center gap-3">
-            <a href="/" className="px-3.5 py-2 bg-amber-400 text-black font-black text-xs uppercase">← Mall Lobby</a>
+            <button type="button" onClick={() => { if (window.history.length > 1) { window.history.back(); } else { window.location.href = "/"; } }} className="px-3.5 py-2 bg-amber-400 text-black font-black text-xs uppercase cursor-pointer">⬅ Back to Room</button><a href="/" className="px-2.5 py-2 bg-zinc-800 border border-amber-400 text-amber-300 font-black text-[10px] uppercase">Mall Map</a>
             <h1 className="text-lg md:text-2xl font-black text-white">🧩 Autism, Spectrum & Adult-Child Sensory Sanctuary (150 Items)</h1>
           </div>
           <button onClick={() => buyNow(cart)} className="px-4 py-2 bg-emerald-400 text-black font-black text-xs uppercase cursor-pointer">🛒 Cart ({cart.length})</button>
@@ -52,7 +52,7 @@ export default function AutismSpectrumSanctuary() {
         <form onSubmit={e => { e.preventDefault(); setEvents("📍 Found Active Sensory-Friendly Events, Respite Grants & Adult-Child Programs Within 15 Miles of ZIP " + zip); }} className="flex gap-2">
           <input type="text" value={zip} onChange={e => setZip(e.target.value)} placeholder="📍 Enter 5-Digit ZIP for Sensory Events & Waivers (15 Mi)..." className="flex-1 px-3 py-2 bg-black border border-indigo-400 text-xs text-white font-bold" />
           <button type="submit" className="px-4 py-2 bg-amber-400 text-black font-black text-xs uppercase cursor-pointer">Find (15 Mi)</button>
-        </form>
+        </form>{zip.length >= 5 && (<a href={"https://www.google.com/maps/search/disability+support+respite+sensory+clinics+near+" + zip} target="_blank" rel="noreferrer" className="mt-2 inline-block px-3 py-1.5 bg-emerald-400 text-black font-black text-[11px] uppercase">📍 Open Live 15-Mile Map Around ZIP {zip} ➔</a>)}
       </section>
       {events && <div className="max-w-7xl mx-auto px-4 pb-2"><div className="p-2 bg-indigo-950 border border-amber-400 text-xs text-amber-300 font-bold">{events}</div></div>}
 
@@ -93,6 +93,29 @@ export default function AutismSpectrumSanctuary() {
           </div>
         ))}
       </section>
+    
+      {selected && (
+        <div className="fixed inset-0 z-50 bg-black/85 flex items-center justify-center p-4" onClick={() => setSelected(null)}>
+          <div className="bg-zinc-950 border-2 border-amber-400 max-w-lg w-full p-5 space-y-3 text-white" onClick={e => e.stopPropagation()}>
+            <div className="flex justify-between items-start gap-2">
+              <span className="bg-emerald-400 text-black font-black text-[10px] px-2 py-0.5 uppercase">{selected.rankBadge || "Verified In-Stock"}</span>
+              <button onClick={() => setSelected(null)} className="px-2.5 py-1 bg-red-600 text-white font-black text-xs">✕ CLOSE</button>
+            </div>
+            <img src={selected.media?.[0]} alt={selected.name} className="w-full h-56 object-cover border border-zinc-800" />
+            <h2 className="text-base font-black text-amber-300">{selected.name}</h2>
+            <div className="flex items-center justify-between text-xs bg-zinc-900 p-2 border border-zinc-800">
+              <span className="text-xl font-black text-emerald-400">{selected.price}</span>
+              <span className="line-through text-zinc-400">Retail: {selected.competitorPrice}</span>
+              <span className="text-amber-300 font-bold">{selected.count} Left in Vault</span>
+            </div>
+            <p className="text-xs text-zinc-300">{selected.specs?.condition || "Clinical & Safety Vetted"} • {selected.specs?.shipping || "Insured 3-7 Day Shipping"}</p>
+            <div className="flex gap-2 pt-2">
+              <button onClick={() => { if (selected.count > 0) { selected.count -= 1; setCart([...cart, selected]); } }} className="flex-1 py-2.5 bg-amber-400 text-black font-black text-xs uppercase">+ Add to Cart ({selected.count} Avail)</button>
+              <button onClick={() => { const addr = window.prompt("Enter Full Shipping Address (Street, City, State, ZIP) for Insured Delivery:"); if (addr) buyNow([selected]); }} className="flex-1 py-2.5 bg-emerald-400 text-black font-black text-xs uppercase">Instant Cash Out</button>
+            </div>
+          </div>
+        </div>
+      )}
     </main>
   );
 }
