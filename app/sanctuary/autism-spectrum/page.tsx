@@ -52,7 +52,7 @@ export default function AutismSpectrumSanctuary() {
         <form onSubmit={e => { e.preventDefault(); setEvents("📍 Found Active Sensory-Friendly Events, Respite Grants & Adult-Child Programs Within 15 Miles of ZIP " + zip); }} className="flex gap-2">
           <input type="text" value={zip} onChange={e => setZip(e.target.value)} placeholder="📍 Enter 5-Digit ZIP for Sensory Events & Waivers (15 Mi)..." className="flex-1 px-3 py-2 bg-black border border-indigo-400 text-xs text-white font-bold" />
           <button type="submit" className="px-4 py-2 bg-amber-400 text-black font-black text-xs uppercase cursor-pointer">Find (15 Mi)</button>
-        </form>{zip.length >= 5 && (<a href={"https://www.google.com/maps/search/disability+support+respite+sensory+clinics+near+" + zip} target="_blank" rel="noreferrer" className="mt-2 inline-block px-3 py-1.5 bg-emerald-400 text-black font-black text-[11px] uppercase">📍 Open Live 15-Mile Map Around ZIP {zip} ➔</a>)}
+        </form>{zip.length>=5&&(<div className="mt-2 flex flex-wrap gap-2"><a href={"https://www.google.com/maps/search/autism+sensory+therapy+respite+help+center+near+"+zip} target="_blank" rel="noreferrer" className="px-3 py-1.5 bg-emerald-400 text-black font-black text-xs uppercase">🏥 15-Mi Autism Help Centers ({zip}) ➔</a><a href={"https://www.google.com/maps/search/sensory+friendly+activities+adaptive+parks+near+"+zip} target="_blank" rel="noreferrer" className="px-3 py-1.5 bg-amber-400 text-black font-black text-xs uppercase">🎯 15-Mi Sensory Activities ({zip}) ➔</a></div>)}
       </section>
       {events && <div className="max-w-7xl mx-auto px-4 pb-2"><div className="p-2 bg-indigo-950 border border-amber-400 text-xs text-amber-300 font-bold">{events}</div></div>}
 
