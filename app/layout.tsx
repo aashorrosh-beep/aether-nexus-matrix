@@ -25,7 +25,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <head><script src="https://cdn.tailwindcss.com"></script><style>svg:not([width]):not([class*="w-"]){max-width:48px!important;max-height:48px!important;display:inline-block}body{background:#050811!important;color:#fff!important}</style></head><body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+      <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
         <BackgroundEffects />
         {children}
       </body>
