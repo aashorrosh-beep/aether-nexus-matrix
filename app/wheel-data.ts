@@ -5,6 +5,6 @@ export const NODES = [
   { id: "trend", angle: 135, icon: "🔥", title: "TRENDALOPOLIS", sub: "200 Clinical & Viral Best-Sellers", badge: "51 LIVE STORES", href: "/stores/holistic-peptides-wellness", color: "#ec4899" },
   { id: "sportflix", angle: 180, icon: "🏈", title: "SPORTSFLIX PLAZA", sub: "Football • Golf • Fish • ATV • Combat", badge: "15 SUPER-STORES", href: "/sportflix/football", color: "#22c55e" },
   { id: "matrix", angle: 225, icon: "🤖", title: "THE MATRIX • AI TECH", sub: "VR Immersion • Zero-G • Pro Auto", badge: "49 TECH STORES", href: "/netrix/vr-immersion-bay", color: "#a855f7" },
-  { id: "stargazer", angle: 270, icon: "🔭", title: "STARGAZER & AUTO", sub: "300 Celestial SKUs • Car Detailing", badge: "300 CELESTIAL SKUS", href: "/stores/stargazer-mall", color: "#60a5fa" },
+  { id: "stargazer", angle: 270, icon: "🔭", title: "STARGAZER & AUTO", sub: "300 Celestial SKUs • Dark-Sky Radar", badge: "300 CELESTIAL SKUS", href: "/stores/stargazer-mall", color: "#60a5fa" },
   { id: "expecting", angle: 315, icon: "👶", title: "EXPECTING & FREE CPR", sub: "Nursery Store + Instant CPR Cert", badge: "150 BABY SKUS", href: "/stores/expecting-and-cpr", color: "#14b8a6" }
 ];
