@@ -13,7 +13,7 @@ export default function MatrixDirectory() {
     <div className="min-h-screen bg-[#030303] text-white p-4 sm:p-8 font-sans">
       <div className="max-w-6xl mx-auto">
         <div className="mb-12">
-          <Link href="/" className="text-zinc-500 hover:text-cyan-400 text-xs font-black tracking-[0.2em] uppercase transition-colors flex items-center gap-2 w-fit bg-zinc-900/50 px-4 py-2 rounded-full border border-white/5">
+          <Link href="javascript:history.back()" className="text-zinc-500 hover:text-cyan-400 text-xs font-black tracking-[0.2em] uppercase transition-colors flex items-center gap-2 w-fit bg-zinc-900/50 px-4 py-2 rounded-full border border-white/5">
             ← RETURN TO GRAND LOBBY
           </Link>
         </div>

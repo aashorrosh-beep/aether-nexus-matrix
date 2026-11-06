@@ -35,7 +35,7 @@ export default function CinematicStorefront({ params }: { params: Promise<{ stor
           <div className="absolute top-0 left-0 w-32 h-32 bg-cyan-500/10 blur-[100px] pointer-events-none"></div>
           <div className="z-10">
             {/* FIXED BACK BUTTON TO ROOT */}
-            <Link href="/" className="text-zinc-500 hover:text-white text-[10px] sm:text-xs font-black tracking-[0.2em] uppercase transition-colors flex items-center gap-2 mb-6 w-fit bg-zinc-900/50 px-4 py-2 rounded-full border border-white/5">
+            <Link href="javascript:history.back()" className="text-zinc-500 hover:text-white text-[10px] sm:text-xs font-black tracking-[0.2em] uppercase transition-colors flex items-center gap-2 mb-6 w-fit bg-zinc-900/50 px-4 py-2 rounded-full border border-white/5">
               ← Return to Main Lobby
             </Link>
             <h1 className={`text-4xl sm:text-6xl md:text-7xl font-black text-transparent bg-clip-text bg-gradient-to-r from-white to-zinc-500 tracking-tighter uppercase drop-shadow-lg leading-none`}>

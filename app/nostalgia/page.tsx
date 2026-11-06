@@ -16,7 +16,7 @@ export default function NostalgiaConcourse() {
           You have entered the master concourse. Please select a specific vault from the main terminal to access the interactive procurement hubs.
         </p>
         
-        <Link href="/" className="inline-block bg-pink-600 hover:bg-pink-500 text-white font-black text-sm uppercase px-8 py-4 transition-colors rounded shadow-[0_0_20px_rgba(236,72,153,0.2)] tracking-wider">
+        <Link href="javascript:history.back()" className="inline-block bg-pink-600 hover:bg-pink-500 text-white font-black text-sm uppercase px-8 py-4 transition-colors rounded shadow-[0_0_20px_rgba(236,72,153,0.2)] tracking-wider">
           ← Return to Main Terminal
         </Link>
       </div>

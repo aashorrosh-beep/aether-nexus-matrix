@@ -20,7 +20,7 @@ export default function AdminVipVaultPage() {
             <span className="text-xs text-emerald-400 uppercase">🔒 AES-256-GCM IN-STORE ENCRYPTED DATABASE • NIST / HIPAA SAFE-HARBOR</span>
             <h1 className="text-3xl font-black uppercase text-white mt-1">ALBS Executive Customer & VIP Vault</h1>
           </div>
-          <Link href="/" className="text-xs bg-zinc-800 px-4 py-2 rounded-lg text-zinc-300">← Return to Mall</Link>
+          <Link href="javascript:history.back()" className="text-xs bg-zinc-800 px-4 py-2 rounded-lg text-zinc-300">← Return to Mall</Link>
         </div>
         {!records ? (
           <div className="space-y-4 max-w-md">

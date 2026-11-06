@@ -3,7 +3,7 @@ export default function NetrixConciergePage() {
   return (
     <main className="min-h-screen bg-black text-green-500 p-6 md:p-12 font-mono">
       <div className="max-w-4xl mx-auto border border-green-800 p-8 space-y-8">
-        <Link href="/" className="text-xs text-green-400 uppercase">← Return to Matrix Concourse</Link>
+        <Link href="javascript:history.back()" className="text-xs text-green-400 uppercase">← Return to Matrix Concourse</Link>
         <div>
           <h1 className="text-4xl md:text-6xl font-black uppercase text-green-400">Neural Concierge</h1>
           <p className="mt-2 text-green-700 font-bold tracking-widest uppercase">Encrypted Hardware & Holistic Procurement</p>
