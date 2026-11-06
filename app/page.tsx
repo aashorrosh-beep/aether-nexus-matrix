@@ -20,26 +20,26 @@ export default function NexusWheelLobby() {
       </div>
 
       {/* SPOKE & WHEEL LIGHTNING CIRCLE */}
-      <div style={{ position: "relative", width: "100%", maxWidth: "1000px", height: "820px", margin: "10px auto 0" }}>
-        <svg viewBox="0 0 1000 820" style={{ position: "absolute", inset: 0, width: "100%", height: "100%", pointerEvents: "none", zIndex: 5 }}>
-          <circle cx="500" cy="410" r="335" fill="none" stroke="rgba(56,189,248,0.3)" strokeWidth="2" strokeDasharray="10 8" />
-          <circle cx="500" cy="410" r="240" fill="none" stroke="rgba(245,158,11,0.3)" strokeWidth="1.5" strokeDasharray="6 10" />
+      <div style={{ position: "relative", width: "100%", maxWidth: "1000px", height: "690px", margin: "10px auto 0" }}>
+        <svg viewBox="0 0 1000 690" style={{ position: "absolute", inset: 0, width: "100%", height: "100%", pointerEvents: "none", zIndex: 5 }}>
+          <circle cx="500" cy="345" r="335" fill="none" stroke="rgba(56,189,248,0.3)" strokeWidth="2" strokeDasharray="10 8" />
+          <circle cx="500" cy="345" r="240" fill="none" stroke="rgba(245,158,11,0.3)" strokeWidth="1.5" strokeDasharray="6 10" />
           {NODES.map((n, i) => {
-            const r = ((n.angle - 90) * Math.PI) / 180, tx = 500 + Math.cos(r) * 355, ty = 410 + Math.sin(r) * 315;
+            const r = ((n.angle - 90) * Math.PI) / 180, tx = 500 + Math.cos(r) * 355, ty = 345 + Math.sin(r) * 265;
             return (
               <g key={n.id}>
-                <line x1="500" y1="410" x2={tx} y2={ty} stroke={n.color} strokeOpacity="0.25" strokeWidth="2" />
-                <path d={bolt(500, 410, tx, ty, 1)} fill="none" stroke="#38bdf8" strokeWidth="3" strokeDasharray="16 10" style={{ animation: `boltOut ${1.5 + (i % 3) * 0.3}s linear infinite` }} />
-                <path d={bolt(500, 410, tx, ty, -1)} fill="none" stroke="#fbbf24" strokeWidth="2.2" strokeDasharray="12 14" style={{ animation: `boltIn ${1.8 + (i % 4) * 0.25}s linear infinite` }} />
+                <line x1="500" y1="345" x2={tx} y2={ty} stroke={n.color} strokeOpacity="0.25" strokeWidth="2" />
+                <path d={bolt(500, 345, tx, ty, 1)} fill="none" stroke="#38bdf8" strokeWidth="3" strokeDasharray="16 10" style={{ animation: `boltOut ${1.5 + (i % 3) * 0.3}s linear infinite` }} />
+                <path d={bolt(500, 345, tx, ty, -1)} fill="none" stroke="#fbbf24" strokeWidth="2.2" strokeDasharray="12 14" style={{ animation: `boltIn ${1.8 + (i % 4) * 0.25}s linear infinite` }} />
               </g>
             );
           })}
         </svg>
 
-        <div style={{ position: "absolute", left: "50%", top: "410px", width: "250px", height: "250px", borderRadius: "50%", border: "2px dashed #38bdf8", animation: "spinCW 22s linear infinite", pointerEvents: "none", zIndex: 10 }} />
+        <div style={{ position: "absolute", left: "50%", top: "345px", width: "250px", height: "250px", borderRadius: "50%", border: "2px dashed #38bdf8", animation: "spinCW 22s linear infinite", pointerEvents: "none", zIndex: 10 }} />
 
         {/* CENTER LOGO: ALBS NEXUS */}
-        <div style={{ position: "absolute", left: "50%", top: "410px", width: "204px", height: "204px", borderRadius: "50%", background: "radial-gradient(circle, #1e293b 0%, #020617 100%)", border: "4px solid #f59e0b", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", textAlign: "center", zIndex: 25, animation: "pulseCore 3s ease-in-out infinite" }}>
+        <div style={{ position: "absolute", left: "50%", top: "345px", width: "204px", height: "204px", borderRadius: "50%", background: "radial-gradient(circle, #1e293b 0%, #020617 100%)", border: "4px solid #f59e0b", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", textAlign: "center", zIndex: 25, animation: "pulseCore 3s ease-in-out infinite" }}>
           <div style={{ fontSize: "26px" }}>⚡👑⚡</div>
           <div style={{ fontSize: "24px", fontWeight: 900, color: "#fbbf24", lineHeight: 1.05, marginTop: "4px" }}>ALBS<br/>NEXUS</div>
           <div style={{ fontSize: "10px", fontWeight: 900, color: "#38bdf8", letterSpacing: "0.14em", marginTop: "5px" }}>CENTRAL REACTOR</div>
@@ -49,7 +49,7 @@ export default function NexusWheelLobby() {
         {/* 8 OUTER SPOKE STORE CARDS */}
         {NODES.map((n) => {
           const r = ((n.angle - 90) * Math.PI) / 180;
-          const left = ((500 + Math.cos(r) * 355) / 1000) * 100, top = 410 + Math.sin(r) * 315;
+          const left = ((500 + Math.cos(r) * 355) / 1000) * 100, top = 345 + Math.sin(r) * 265;
           return (
             <Link key={n.id} href={n.href} className="spoke-card" style={{ position: "absolute", left: `${left}%`, top: `${top}px`, transform: "translate(-50%, -50%)", width: "210px", padding: "11px", borderRadius: "16px", background: "rgba(15,23,42,0.96)", border: `2px solid ${n.color}`, boxShadow: `0 0 22px ${n.color}55`, textDecoration: "none", color: "#fff", textAlign: "center", zIndex: 20 }}>
               <div style={{ fontSize: "9px", fontWeight: 900, color: n.color }}>⚡ {n.badge}</div>
