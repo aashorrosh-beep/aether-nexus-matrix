@@ -8,7 +8,7 @@ const neoSquishInventory = [
 
 export default function NeoSquishPage() {
   return (
-    <main className="min-h-screen bg-zinc-950 text-white p-6 md:p-12 font-sans">
+    <main className="min-h-screen bg-zinc-950 text-white p-6 md:p-12 font-sans"><div className="bg-zinc-900 border-b border-cyan-500/40 p-2 flex flex-wrap items-center justify-between gap-2 text-[10px] font-black uppercase"><span className="text-cyan-400">⚡ CONSOLIDATED MEGA-WING SWITCHER:</span><div className="flex flex-wrap gap-1.5"><a href="/netrix/smart-home-core" className="px-2 py-1 bg-black border border-zinc-700 text-white">Smart Home & Tech</a><a href="/netrix/vr-immersion-bay" className="px-2 py-1 bg-black border border-zinc-700 text-white">VR, Audio & Optics</a><a href="/netrix/techwear-tailor" className="px-2 py-1 bg-black border border-zinc-700 text-white">Apparel & Neon</a><a href="/stores/stargazer-mall" className="px-2 py-1 bg-amber-400 text-black">🔭 Stargazer Mall</a></div></div>
       <div className="max-w-7xl mx-auto space-y-12">
         <h1 className="text-5xl font-black uppercase text-cyan-300">Neo-Squish & Mystery Pods</h1>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-0 pt-6">

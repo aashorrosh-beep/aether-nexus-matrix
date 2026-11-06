@@ -88,7 +88,7 @@ export default function MallOfMallsLobby() {
   const selectedMall = MALL_DIRECTORY.find(m => m.id === selectedMallId) || null;
 
   return (
-    <main className="min-h-screen bg-transparent text-white font-sans relative overflow-x-hidden pb-20">
+    <main className="min-h-screen bg-transparent text-white font-sans relative overflow-x-hidden pb-20"><div className="bg-indigo-950 border-b-2 border-amber-400 p-3 flex flex-wrap justify-between items-center gap-2"><span className="text-xs font-black text-amber-300 uppercase">🔭 NEW MEGA-WING: STARGAZER OBSERVATORY & CELESTIAL MALL (300 LOW/MID/HIGH SKUs + 15-MI DARK-SKY ZIP FINDER)</span><a href="/stores/stargazer-mall" className="px-3 py-1 bg-amber-400 text-black font-black text-xs uppercase">Enter Stargazer Mall ➔</a></div>
       <UniversalMallSearch />
 <div className="w-full max-w-7xl mx-auto px-4 pt-4 pb-2 flex flex-col gap-0">
   
