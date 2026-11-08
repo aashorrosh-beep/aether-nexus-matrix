@@ -9,15 +9,16 @@ function jaggedBolt(cx: number, cy: number, tx: number, ty: number, s: number) {
 }
 
 function getCardStyle(n: any, left: number, top: number): React.CSSProperties {
-  const base: React.CSSProperties = { position: "absolute", left: `${left}%`, top: `${top}px`, transform: "translate(-50%, -50%)", width: "218px", padding: "12px", textDecoration: "none", color: "#fff", textAlign: "center", zIndex: 20 };
-  if (n.theme === "squishy") return { ...base, borderRadius: "48% 52% 46% 54% / 54% 48% 52% 46%", background: "radial-gradient(circle at 35% 30%, #fbcfe8, #ec4899 65%, #9d174d)", border: "4px solid #fdf2f8", boxShadow: "0 12px 32px rgba(236,72,153,0.65), inset 0 8px 16px rgba(255,255,255,0.6)", color: "#fff", animation: "squishyBounce 2.8s ease-in-out infinite" };
-  if (n.theme === "beacon") return { ...base, borderRadius: "28px 28px 14px 14px", background: "linear-gradient(180deg, #0284c7 0%, #0f172a 75%)", border: "3px solid #fde047", animation: "beaconSweep 3s ease-in-out infinite" };
-  if (n.theme === "nursery") return { ...base, borderRadius: "36px", background: "linear-gradient(135deg, #134e4a, #0f172a)", border: "3px dashed #5eead4", boxShadow: "0 0 28px rgba(45,212,191,0.5)" };
-  if (n.theme === "poster") return { ...base, borderRadius: "6px", background: "linear-gradient(160deg, #78350f, #1c1917)", border: "4px double #fbbf24", boxShadow: "0 0 30px rgba(245,158,11,0.55)" };
-  if (n.theme === "party") return { ...base, borderRadius: "24px", background: "linear-gradient(135deg, #881337, #1e1b4b)", border: "3px solid #fb7185", boxShadow: "0 0 30px rgba(244,63,94,0.6)" };
-  return { ...base, borderRadius: "18px", background: "rgba(9,13,22,0.95)", border: `2px solid ${n.color}`, boxShadow: `0 0 26px ${n.color}77` };
+  const base: React.CSSProperties = { position: "absolute", left: `${left}%`, top: `${top}px`, transform: "translate(-50%, -50%)", width: "212px", padding: "12px", textDecoration: "none", color: "#fff", textAlign: "center", zIndex: 20 };
+  if ((n.theme === "squishy" || n.theme === "steel")) return { ...base, borderRadius: "48% 52% 46% 54% / 54% 48% 52% 46%", background: "radial-gradient(circle at 35% 30%, #fbcfe8, #ec4899 65%, #9d174d)", border: "4px solid #fdf2f8", boxShadow: "0 12px 32px rgba(236,72,153,0.65), inset 0 8px 16px rgba(255,255,255,0.6)", animation: "squishyBounce 2.8s ease-in-out infinite" };
+  if (n.theme === "globe") return { ...base, width: "204px", height: "204px", borderRadius: "50%", display: "flex", flexDirection: "column", justifyContent: "center", alignItems: "center", background: "radial-gradient(circle at 35% 30%, #0284c7 0%, #0369a1 35%, #1e3a8a 68%, #78350f 100%)", border: "3px solid #fbbf24", outline: "2px dashed rgba(251,191,36,0.65)", outlineOffset: "6px", animation: "globeGlow 3.5s ease-in-out infinite" };
+  if (n.theme === "steel") return { ...base, borderRadius: "14px", clipPath: "polygon(8% 0, 92% 0, 100% 18%, 100% 82%, 92% 100%, 8% 100%, 0 82%, 0 18%)", background: "linear-gradient(135deg, #f8fafc 0%, #94a3b8 25%, #1e293b 50%, #cbd5e1 78%, #0f172a 100%)", border: "3px solid #e2e8f0", color: "#020617", animation: "steelSpark 2.2s ease-in-out infinite" };
+  if (n.theme === "stadium") return { ...base, borderRadius: "999px", background: "repeating-linear-gradient(90deg, #14532d 0px, #14532d 18px, #166534 18px, #166534 36px)", border: "4px solid #f8fafc", boxShadow: "0 0 35px rgba(34,197,94,0.85), inset 0 0 20px rgba(255,255,255,0.35)" };
+  if (n.theme === "dome") return { ...base, borderRadius: "110px 110px 18px 18px", background: "radial-gradient(circle at 50% 20%, #1e40af, #090d16 80%)", border: "3px solid #60a5fa", boxShadow: "0 0 30px rgba(96,165,250,0.6)" };
+  if (n.theme === "beacon") return { ...base, borderRadius: "32px 32px 14px 14px", background: "linear-gradient(180deg, #0284c7 0%, #0f172a 75%)", border: "3px solid #fde047", boxShadow: "0 -18px 45px rgba(56,189,248,0.85)" };
+  if (n.theme === "nursery") return { ...base, borderRadius: "38px", background: "linear-gradient(135deg, #134e4a, #0f172a)", border: "3px dashed #5eead4", boxShadow: "0 0 28px rgba(45,212,191,0.5)" };
+  return { ...base, borderRadius: "24px", background: "linear-gradient(135deg, #881337, #1e1b4b)", border: "3px solid #fb7185", boxShadow: "0 0 30px rgba(244,63,94,0.6)" };
 }
-
 export default function NexusLunarLobby() {
   const [q, setQ] = useState("");
   const [zip, setZip] = useState("77301");
@@ -73,7 +74,7 @@ export default function NexusLunarLobby() {
         <svg viewBox="0 0 1000 720" style={{ position: "absolute", inset: 0, width: "100%", height: "100%", pointerEvents: "none", zIndex: 5 }}>
           <circle cx="500" cy="360" r="305" fill="none" stroke="rgba(56,189,248,0.25)" strokeWidth="1.5" strokeDasharray="8 8" />
           {NODES.map((n, i) => {
-            const r = ((n.angle - 90) * Math.PI) / 180, tx = 500 + Math.cos(r) * 355, ty = 360 + Math.sin(r) * 278;
+            const r = ((n.angle - 90) * Math.PI) / 180, tx = 500 + Math.cos(r) * 380, ty = 360 + Math.sin(r) * 290;
             return (
               <g key={n.id} style={{ animation: `flashBolt ${1.6 + (i % 3) * 0.4}s ease-in-out infinite` }}>
                 <path d={jaggedBolt(500, 360, tx, ty, 1)} fill="none" stroke="#38bdf8" strokeWidth="3.5" />
@@ -94,14 +95,14 @@ export default function NexusLunarLobby() {
         {/* 8 CUSTOM-THEMED ORBITAL WORLDS */}
         {NODES.map((n) => {
           const r = ((n.angle - 90) * Math.PI) / 180;
-          const left = ((500 + Math.cos(r) * 355) / 1000) * 100, top = 360 + Math.sin(r) * 278;
+          const left = ((500 + Math.cos(r) * 380) / 1000) * 100, top = 360 + Math.sin(r) * 290;
           return (
             <Link key={n.id} href={n.href} className="world-node" style={getCardStyle(n, left, top)}>
-              <div style={{ fontSize: "9px", fontWeight: 900, color: n.theme === "squishy" ? "#831843" : "#fef08a", letterSpacing: "0.06em" }}>⚡ {n.badge}</div>
-              <div style={{ fontSize: n.theme === "squishy" ? "24px" : "20px", fontWeight: 900, margin: "3px 0", color: n.theme === "squishy" ? "#831843" : "#fff" }}>{n.icon}</div>
-              <div style={{ fontSize: "13px", fontWeight: 900, color: n.theme === "squishy" ? "#500724" : "#fff" }}>{n.title}</div>
-              <div style={{ fontSize: "11px", color: n.theme === "squishy" ? "#831843" : "#e2e8f0", fontWeight: 700, marginTop: "2px" }}>{n.sub}</div>
-              <div style={{ fontSize: "11px", fontWeight: 900, color: n.theme === "squishy" ? "#fff" : n.color, marginTop: "4px" }}>Enter World →</div>
+              <div style={{ fontSize: "9px", fontWeight: 900, color: (n.theme === "squishy" || n.theme === "steel") ? "#831843" : "#fef08a", letterSpacing: "0.06em" }}>⚡ {n.badge}</div>
+              <div style={{ fontSize: (n.theme === "squishy" || n.theme === "steel") ? "24px" : "20px", fontWeight: 900, margin: "3px 0", color: (n.theme === "squishy" || n.theme === "steel") ? "#831843" : "#fff" }}>{n.icon}</div>
+              <div style={{ fontSize: "13px", fontWeight: 900, color: (n.theme === "squishy" || n.theme === "steel") ? "#500724" : "#fff" }}>{n.title}</div>
+              <div style={{ fontSize: "11px", color: (n.theme === "squishy" || n.theme === "steel") ? "#831843" : "#e2e8f0", fontWeight: 700, marginTop: "2px" }}>{n.sub}</div>
+              <div style={{ fontSize: "11px", fontWeight: 900, color: (n.theme === "squishy" || n.theme === "steel") ? "#fff" : n.color, marginTop: "4px" }}>Enter World →</div>
             </Link>
           );
         })}
