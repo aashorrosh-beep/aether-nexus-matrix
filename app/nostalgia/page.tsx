@@ -3,97 +3,62 @@ import React, { useState } from "react";
 import Link from "next/link";
 import { NOSTALGIA_WALL } from "../data/nostalgia-wall";
 
-export default function NostalgiaMegaHub() {
+export default function WorldsFairPavilion() {
   const [q, setQ] = useState("");
-  const [cat, setCat] = useState("all");
+  const [decade, setDecade] = useState("all");
   const [edition, setEdition] = useState<"orig" | "rep">("orig");
+  const [bridge, setBridge] = useState(true);
 
   const list = NOSTALGIA_WALL.filter(x =>
-    (cat === "all" || x.cat === cat) &&
-    (x.name + " " + x.badge + " " + x.desc).toLowerCase().includes(q.toLowerCase())
+    (decade === "all" || x.decade === decade) &&
+    (x.name + " " + x.future + " " + x.cat).toLowerCase().includes(q.toLowerCase())
   );
 
   return (
-    <div style={{ minHeight: "100vh", background: "radial-gradient(circle at 50% 12%, #3b0764 0%, #030712 70%)", color: "#f8fafc", paddingBottom: "90px" }}>
-      <div style={{ background: "#090d16", borderBottom: "2px solid #f59e0b", padding: "12px 20px", display: "flex", justifyContent: "space-between", flexWrap: "wrap", gap: "10px" }}>
+    <div style={{ minHeight: "100vh", background: "#030712", color: "#f8fafc", paddingBottom: "90px" }}>
+      <div style={{ background: "#090d16", borderBottom: "2px solid #f59e0b", padding: "12px 20px", display: "flex", justifyContent: "space-between", flexWrap: "wrap" }}>
         <Link href="/" style={{ color: "#38bdf8", fontWeight: 900, textDecoration: "none" }}>← Back to ALBS Nexus Reactor</Link>
-        <span style={{ color: "#fbbf24", fontWeight: 900 }}>🕹️ CONSOLIDATED NOSTALGIA MEGA-WALL • 60s–2000s TOP SELLERS (ORIGINALS & REPLICAS)</span>
+        <span style={{ color: "#fbbf24", fontWeight: 900 }}>🌍 WORLD'S FAIR EXPO PAVILION • 60s–90s ICONS ➔ THE FUTURE</span>
       </div>
-
       <div style={{ maxWidth: "1220px", margin: "20px auto", padding: "0 20px" }}>
-        {/* 3 MEGA PORTAL CARDS */}
-        <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(260px, 1fr))", gap: "12px", marginBottom: "18px" }}>
-          <Link href="/stores/squish-blindbox" style={{ background: "#831843", border: "2px solid #ec4899", borderRadius: "16px", padding: "14px", textDecoration: "none", color: "#fff" }}>
-            <div style={{ fontSize: "11px", fontWeight: 900, color: "#fbcfe8" }}>🧸 240 SKUS @ 10% MARGIN</div>
-            <div style={{ fontSize: "17px", fontWeight: 900 }}>Squishmallow & Blind-Box Vault →</div>
-          </Link>
-          <Link href="/stores/christmas-holiday" style={{ background: "#14532d", border: "2px solid #22c55e", borderRadius: "16px", padding: "14px", textDecoration: "none", color: "#fff" }}>
-            <div style={{ fontSize: "11px", fontWeight: 900, color: "#bbf7d0" }}>🎄 250 HOLIDAY & GAG SKUS</div>
-            <div style={{ fontSize: "17px", fontWeight: 900 }}>Christmas Story & Holiday Store →</div>
-          </Link>
-          <Link href="/nostalgia/concierge" style={{ background: "#1e3a8a", border: "2px solid #38bdf8", borderRadius: "16px", padding: "14px", textDecoration: "none", color: "#fff" }}>
-            <div style={{ fontSize: "11px", fontWeight: 900, color: "#bae6fd" }}>🎩 3-HR RARE GRAIL FINDER</div>
-            <div style={{ fontSize: "17px", fontWeight: 900 }}>Original Vintage AI Concierge →</div>
-          </Link>
+        <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(230px, 1fr))", gap: "10px", marginBottom: "16px" }}>
+          <Link href="/nostalgia/concierge" style={{ background: "#1e3a8a", border: "2px solid #fbbf24", borderRadius: "14px", padding: "12px", textDecoration: "none", color: "#fff", fontWeight: 900 }}>🎩 3-Hr Vintage Grail Concierge →</Link>
+          <Link href="/stores/luxury-couture" style={{ background: "#451a03", border: "2px solid #f59e0b", borderRadius: "14px", padding: "12px", textDecoration: "none", color: "#fbbf24", fontWeight: 900 }}>👑 Le Grand Salon (LV, Gucci, Prada) →</Link>
+          <Link href="/stores/squish-blindbox" style={{ background: "#831843", border: "2px solid #ec4899", borderRadius: "14px", padding: "12px", textDecoration: "none", color: "#fff", fontWeight: 900 }}>🧸 240 Squish & Blind-Box Vault →</Link>
+          <Link href="/netrix/vr-immersion-bay" style={{ background: "#581c87", border: "2px solid #38bdf8", borderRadius: "14px", padding: "12px", textDecoration: "none", color: "#38bdf8", fontWeight: 900 }}>🚀 Enter The Matrix Future Tech →</Link>
         </div>
 
-        {/* MAIN FILTER & ORIGINAL VS REPLICA SWITCHER */}
-        <div style={{ background: "#0f172a", border: "2px solid #f59e0b", borderRadius: "20px", padding: "22px", textAlign: "center" }}>
-          <h1 style={{ fontSize: "26px", fontWeight: 900, margin: "0 0 8px" }}>🕹️ 60s, 70s, 80s, 90s & 2000s Consolidated Super-Corridor</h1>
-          <p style={{ fontSize: "13px", color: "#cbd5e1", margin: "0 0 14px" }}>
-            We consolidated 44+ niche nostalgia rooms into 6 power departments. Toggle between <strong style={{ color: "#fbbf24" }}>Original Vintage Collector Grails</strong> and <strong style={{ color: "#38bdf8" }}>Modern Replicas & Tribute Editions</strong> below!
-          </p>
-
-          <input value={q} onChange={e => setQ(e.target.value)} placeholder="Search G.I. Joe, HeroQuest, Sharper Image, RadioShack, Surge, Altoids, Pokémon, MTG, Sports Cards, Bib Overalls..." style={{ width: "100%", maxWidth: "780px", padding: "13px 16px", borderRadius: "12px", border: "2px solid #f59e0b", background: "#030712", color: "#fff" }} />
-
-          {/* ORIGINAL VS REPLICA TOGGLE */}
-          <div style={{ display: "flex", justifyContent: "center", gap: "10px", marginTop: "14px", flexWrap: "wrap" }}>
-            <button onClick={() => setEdition("orig")} style={{ padding: "10px 18px", borderRadius: "12px", border: "2px solid #fbbf24", background: edition === "orig" ? "#f59e0b" : "#090d16", color: edition === "orig" ? "#030712" : "#fbbf24", fontWeight: 900, cursor: "pointer" }}>
-              🏆 Original Vintage Collector Grails (High-Ticket)
-            </button>
-            <button onClick={() => setEdition("rep")} style={{ padding: "10px 18px", borderRadius: "12px", border: "2px solid #38bdf8", background: edition === "rep" ? "#38bdf8" : "#090d16", color: edition === "rep" ? "#030712" : "#38bdf8", fontWeight: 900, cursor: "pointer" }}>
-              ⚡ Modern Tribute & Reissue Replicas (Everyday Price)
-            </button>
+        <div style={{ background: "#0f172a", border: "2px solid #f59e0b", borderRadius: "20px", padding: "20px", textAlign: "center" }}>
+          <h1 style={{ fontSize: "24px", fontWeight: 900, margin: "0 0 8px" }}>🌍 World's Fair Pavilion: 28 Hottest Icons (60s–90s) ➔ Future</h1>
+          <input value={q} onChange={e => setQ(e.target.value)} placeholder="Search Picturephone, Pulsar Watch, G.I. Joe, Dark Tower, Sharper Image, RadioShack, Overalls..." style={{ width: "100%", maxWidth: "760px", padding: "12px", borderRadius: "10px", border: "2px solid #f59e0b", background: "#030712", color: "#fff" }} />
+          <div style={{ display: "flex", justifyContent: "center", gap: "8px", marginTop: "12px", flexWrap: "wrap" }}>
+            <button onClick={() => setEdition("orig")} style={{ padding: "8px 14px", borderRadius: "8px", background: edition === "orig" ? "#f59e0b" : "#090d16", color: edition === "orig" ? "#030712" : "#fbbf24", border: "1px solid #fbbf24", fontWeight: 900, cursor: "pointer" }}>🏆 Original Vintage Grails</button>
+            <button onClick={() => setEdition("rep")} style={{ padding: "8px 14px", borderRadius: "8px", background: edition === "rep" ? "#38bdf8" : "#090d16", color: edition === "rep" ? "#030712" : "#38bdf8", border: "1px solid #38bdf8", fontWeight: 900, cursor: "pointer" }}>⚡ Modern Replicas</button>
+            <button onClick={() => setBridge(!bridge)} style={{ padding: "8px 14px", borderRadius: "8px", background: bridge ? "#a855f7" : "#090d16", color: "#fff", border: "1px solid #a855f7", fontWeight: 900, cursor: "pointer" }}>🔮 Future Bridge: {bridge ? "ON" : "OFF"}</button>
           </div>
-
-          {/* 6 CONSOLIDATED DEPARTMENT TABS */}
-          <div style={{ display: "flex", flexWrap: "wrap", gap: "8px", justifyContent: "center", marginTop: "14px" }}>
-            {[
-              ["all", "🌟 All Consolidated Stores"],
-              ["toys-games", "🎲 Grail Toys (G.I. Joe) & Board Games"],
-              ["sharper-shack", "⚡ Sharper Image, RadioShack & Watches"],
-              ["candy-drinks", "🍬 Retro Candy, Soda & New Freeze-Dried"],
-              ["tcg-coins", "🃏 Combined Pokémon, MTG, Sports Cards & Coins"],
-              ["apparel-posters", "👕 60s–90s Overalls, Kicks, Hats & Posters"]
-            ].map(([id, lbl]) => (
-              <button key={id} onClick={() => setCat(id)} style={{ padding: "8px 14px", borderRadius: "999px", background: cat === id ? "#ec4899" : "#1e293b", color: "#fff", border: "1px solid #f472b6", fontWeight: 800, fontSize: "12px", cursor: "pointer" }}>{lbl}</button>
+          <div style={{ display: "flex", flexWrap: "wrap", gap: "8px", justifyContent: "center", marginTop: "10px" }}>
+            {[["all","All 28"],["60s","✌️ 1960s"],["70s","🪩 1970s"],["80s","🕹️ 1980s"],["90s","⚡ 1990s"]].map(([id,lbl]) => (
+              <button key={id} onClick={() => setDecade(id)} style={{ padding: "6px 14px", borderRadius: "999px", background: decade === id ? "#f59e0b" : "#1e293b", color: decade === id ? "#030712" : "#fff", border: "1px solid #f59e0b", fontWeight: 900, cursor: "pointer" }}>{lbl}</button>
             ))}
           </div>
         </div>
-
-        {/* PRODUCT GRID */}
-        <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(280px, 1fr))", gap: "16px", marginTop: "18px" }}>
+        <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(275px, 1fr))", gap: "14px", marginTop: "16px" }}>
           {list.map(item => {
             const w = edition === "orig" ? item.origW : item.repW;
-            const retail = +(w * item.m).toFixed(2);
             return (
-              <div key={item.id} style={{ background: "#0f172a", border: edition === "orig" ? "1px solid #f59e0b" : "1px solid #38bdf8", borderRadius: "16px", padding: "16px", display: "flex", flexDirection: "column", justifyContent: "space-between" }}>
+              <div key={item.id} style={{ background: "#0f172a", border: "1px solid #f59e0b", borderRadius: "16px", padding: "14px", display: "flex", flexDirection: "column", justifyContent: "space-between" }}>
                 <div>
-                  <div style={{ display: "flex", justifyContent: "space-between", fontSize: "10px", fontWeight: 900, color: edition === "orig" ? "#fbbf24" : "#38bdf8" }}>
-                    <span>{item.badge}</span>
-                    <span>{edition === "orig" ? "🏆 ORIGINAL VINTAGE" : "⚡ REPLICA / TRIBUTE"}</span>
-                  </div>
-                  <div style={{ fontSize: "16px", fontWeight: 900, margin: "6px 0" }}>{item.name}</div>
-                  <p style={{ fontSize: "12px", color: "#94a3b8", lineHeight: 1.4 }}>{item.desc}</p>
+                  <div style={{ fontSize: "10px", fontWeight: 900, color: "#fbbf24" }}>🌍 {item.decade.toUpperCase()} EXPO • {edition === "orig" ? "🏆 ORIGINAL" : "⚡ REPLICA"}</div>
+                  <div style={{ fontSize: "15px", fontWeight: 900, margin: "6px 0" }}>{item.name}</div>
+                  {bridge && (
+                    <Link href={item.futureHref} style={{ display: "block", padding: "8px", borderRadius: "8px", background: "rgba(168,85,247,0.18)", border: "1px solid #a855f7", color: "#e9d5ff", textDecoration: "none", fontSize: "11px" }}>
+                      <strong>⚡ FUTURE EVOLUTION ➔</strong> {item.future} →
+                    </Link>
+                  )}
                 </div>
-                <div style={{ marginTop: "12px", paddingTop: "10px", borderTop: "1px solid #1e293b", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
-                  <div>
-                    <div style={{ fontSize: "10px", color: "#94a3b8" }}>Wholesale Base: ${w.toFixed(2)}</div>
-                    <div style={{ fontSize: "20px", fontWeight: 900, color: "#22c55e" }}>${retail.toFixed(2)}</div>
-                  </div>
-                  <Link href="/stores/squish-blindbox" style={{ padding: "9px 14px", borderRadius: "10px", background: edition === "orig" ? "#f59e0b" : "#38bdf8", color: "#030712", fontWeight: 900, textDecoration: "none", fontSize: "12px" }}>
-                    Lock Order →
-                  </Link>
+                <div style={{ marginTop: "12px", paddingTop: "8px", borderTop: "1px solid #1e293b", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
+                  <span style={{ fontSize: "19px", fontWeight: 900, color: "#22c55e" }}>${(w * 1.10).toFixed(2)}</span>
+                  <Link href="/nostalgia/concierge" style={{ padding: "7px 12px", borderRadius: "8px", background: "#f59e0b", color: "#030712", fontWeight: 900, textDecoration: "none", fontSize: "12px" }}>Acquire →</Link>
                 </div>
               </div>
             );
