@@ -1,35 +1,29 @@
 @import "tailwindcss";
 * { box-sizing: border-box; }
 html, body {
-  margin: 0; padding: 0; width: 100%;
-  background-color: #07080c;
+  margin: 0; padding: 0; width: 100%; min-height: 100vh;
+  background-color: #03040b;
   background-image:
-    radial-gradient(circle at 50% 45%, rgba(255, 0, 127, 0.22) 0%, rgba(148, 163, 184, 0.08) 40%, #050608 78%),
-    linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
-  background-size: 100% 100%, 32px 32px, 32px 32px;
+    radial-gradient(ellipse at 50% 38%, rgba(168,85,247,0.28) 0%, rgba(56,189,248,0.18) 32%, rgba(236,72,153,0.12) 55%, #020308 82%),
+    url('https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1800&q=85');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
   color: #f8fafc;
   font-family: system-ui, -apple-system, sans-serif;
   overflow-x: hidden;
 }
-@keyframes triggerPulse {
-  0%, 100% { box-shadow: 0 0 35px #ff007f, 0 0 75px rgba(255,0,127,0.5), inset 0 0 25px rgba(226,232,240,0.6); }
-  50% { box-shadow: 0 0 60px #ff007f, 0 0 120px #e2e8f0, inset 0 0 40px #ff007f; }
+@keyframes beaconFlash {
+  0%, 100% { box-shadow: 0 0 25px #38bdf8, 0 -20px 55px rgba(56,189,248,0.75); border-color: #38bdf8; }
+  50% { box-shadow: 0 0 65px #fef08a, 0 -45px 110px #ffffff, 0 0 90px #38bdf8; border-color: #fef08a; }
 }
-@keyframes arcFlicker {
-  0%, 100% { opacity: 0.9; }
-  30% { opacity: 0.4; }
-  60% { opacity: 1; }
+@keyframes triggerPulse {
+  0%, 100% { box-shadow: 0 0 40px #ff007f, 0 0 90px rgba(56,189,248,0.6); }
+  50% { box-shadow: 0 0 75px #ff007f, 0 0 140px #ffffff; }
 }
 .desktop-wheel { display: block; }
 .mobile-reactor { display: none; }
 @media (max-width: 960px) {
   .desktop-wheel { display: none !important; }
   .mobile-reactor { display: block !important; }
-}
-.photo-node { transition: transform 0.22s ease, box-shadow 0.22s ease, border-color 0.22s ease; }
-.photo-node:hover {
-  border-color: #ff007f !important;
-  box-shadow: 0 0 35px rgba(255, 0, 127, 0.85), 0 0 12px #ffffff !important;
-  z-index: 50 !important;
 }

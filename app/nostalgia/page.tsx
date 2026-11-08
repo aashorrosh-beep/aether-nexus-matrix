@@ -22,7 +22,7 @@ export default function WorldsFairPavilion() {
       </div>
       <div style={{ maxWidth: "1220px", margin: "20px auto", padding: "0 20px" }}>
         <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(230px, 1fr))", gap: "10px", marginBottom: "16px" }}>
-          <Link href="/nostalgia/concierge" style={{ background: "#1e3a8a", border: "2px solid #fbbf24", borderRadius: "14px", padding: "12px", textDecoration: "none", color: "#fff", fontWeight: 900 }}>🎩 3-Hr Vintage Grail Concierge →</Link>
+          <Link href="/stores/luxury-couture" style={{ background: "#1e3a8a", border: "2px solid #fbbf24", borderRadius: "14px", padding: "12px", textDecoration: "none", color: "#fff", fontWeight: 900 }}>🎩 3-Hr Vintage Grail Concierge →</Link>
           <Link href="/stores/luxury-couture" style={{ background: "#451a03", border: "2px solid #f59e0b", borderRadius: "14px", padding: "12px", textDecoration: "none", color: "#fbbf24", fontWeight: 900 }}>👑 Le Grand Salon (LV, Gucci, Prada) →</Link>
           <Link href="/stores/squish-blindbox" style={{ background: "#831843", border: "2px solid #ec4899", borderRadius: "14px", padding: "12px", textDecoration: "none", color: "#fff", fontWeight: 900 }}>🧸 240 Squish & Blind-Box Vault →</Link>
           <Link href="/netrix/vr-immersion-bay" style={{ background: "#581c87", border: "2px solid #38bdf8", borderRadius: "14px", padding: "12px", textDecoration: "none", color: "#38bdf8", fontWeight: 900 }}>🚀 Enter The Matrix Future Tech →</Link>
@@ -58,7 +58,7 @@ export default function WorldsFairPavilion() {
                 </div>
                 <div style={{ marginTop: "12px", paddingTop: "8px", borderTop: "1px solid #1e293b", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
                   <span style={{ fontSize: "19px", fontWeight: 900, color: "#22c55e" }}>${(w * 1.10).toFixed(2)}</span>
-                  <Link href="/nostalgia/concierge" style={{ padding: "7px 12px", borderRadius: "8px", background: "#f59e0b", color: "#030712", fontWeight: 900, textDecoration: "none", fontSize: "12px" }}>Acquire →</Link>
+                  <Link href="/stores/luxury-couture" style={{ padding: "7px 12px", borderRadius: "8px", background: "#f59e0b", color: "#030712", fontWeight: 900, textDecoration: "none", fontSize: "12px" }}>Acquire →</Link>
                 </div>
               </div>
             );
