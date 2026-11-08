@@ -1,18 +1,74 @@
 export const NODES = [
-  { id: "beacon", angle: 0, icon: "🚨🎗️", title: "BEACON OF HOPE", sub: "🧩🌻🤟🎖️ 4 Sanctuaries & Holistic", badge: "LIGHTHOUSE & RIBBONS", href: "/sanctuary/autism-spectrum", color: "#38bdf8", theme: "beacon" },
-  { id: "party", angle: 45, icon: "😎➔🤠", title: "PARTY LAPOOZA", sub: "AI Face-Swap Avatar + 15 Bouncy Stores", badge: "FACE-SWAP CARNIVAL", href: "/stores/party-lapooza", color: "#f43f5e", theme: "party" },
-  { id: "squish", angle: 90, icon: "◕‿◕", title: "BIG SQUISHY VAULT", sub: "240 Squishmallows, Pop Mart & Bundles", badge: "10% MARGIN PLUSH", href: "/stores/squish-blindbox", color: "#f472b6", theme: "squishy" },
-  { id: "nostalgia", angle: 135, icon: "🌐⏳", title: "WORLD'S FAIR GLOBE", sub: "Map of Time: 60s–90s ➔ LV/Gucci Salon", badge: "GLOBAL TIME-MAP EXPO", href: "/nostalgia", color: "#fbbf24", theme: "globe" },
-  { id: "sportflix", angle: 180, icon: "🏈⛳", title: "SPORTSFLIX STADIUM", sub: "50-Yd Gridiron • Fairway Golf • Fish • ATV", badge: "TURF STADIUM BOWL", href: "/sportflix/football", color: "#22c55e", theme: "stadium" },
-  { id: "matrix", angle: 225, icon: "⚡🤖⚡", title: "THE MATRIX • STEEL AI", sub: "Liquid Chrome • High-Voltage VR & Robotics", badge: "SHINY STEEL & ARCS", href: "/netrix/vr-immersion-bay", color: "#38bdf8", theme: "steel" },
-  { id: "stargazer", angle: 270, icon: "🔭🌌", title: "STARGAZER DOME", sub: "300 Celestial Scopes & Pro Auto Bay", badge: "PLANETARIUM DOME", href: "/stores/stargazer-mall", color: "#60a5fa", theme: "dome" },
-  { id: "expecting", angle: 315, icon: "👶🍼", title: "NURSERY & FREE CPR", sub: "Cozy Baby Home + Instant CPR Cert", badge: "WARM NURSERY CLOUD", href: "/stores/expecting-and-cpr", color: "#2dd4bf", theme: "nursery" }
-];
-
-export const ACCOMPLISHMENTS = [
-  "🏆 MILESTONE: Pledged Proceeds Supporting Veterans & Children's Hospital Care",
-  "⚡ ACCOMPLISHMENT: 2,000+ Verified SKUs Live Across 19 Custom Storefronts",
-  "🧸 FAN FAVORITE: 240-SKU Squishmallow & Pop Mart Blind-Box Vault Locked at 10% Margin",
-  "🌐 WORLD'S FAIR GLOBE: 1960s–1990s Map of Time + Le Grand Luxury Salon Now Open",
-  "🎩 CONCIERGE PROMISE: Any Rare Item Sourced Cheaper in 3 Hours With a 24-Hr Price Hold"
+  {
+    id: "beacon", angle: 0,
+    title: "BEACON OF HOPE",
+    sub: "4 Sanctuaries • Pediatric & Veteran Care • Holistic",
+    badge: "20 STORES • 12-MI RADAR",
+    href: "/sanctuary/autism-spectrum",
+    accent: "#38bdf8",
+    img: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    id: "party", angle: 45,
+    title: "PARTY LAPOOZA",
+    sub: "15 Event Superstores • Live AI Face-Swap Studio",
+    badge: "250+ EVENT SKUS",
+    href: "/stores/party-lapooza",
+    accent: "#ff007f",
+    img: "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    id: "squish", angle: 90,
+    title: "COLLECTOR PLUSH & BLIND VAULT",
+    sub: "240 Squishmallows • Pop Mart Cases • Custom Bundles",
+    badge: "STRICT 10% MARGIN",
+    href: "/stores/squish-blindbox",
+    accent: "#f472b6",
+    img: "https://images.unsplash.com/photo-1558679908-541bcf1249ff?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    id: "nostalgia", angle: 135,
+    title: "WORLD'S FAIR & LUXURY SALON",
+    sub: "60s–90s Grails • LV, Gucci & Prada • Time-Bridge",
+    badge: "ORIGINALS & REPLICAS",
+    href: "/nostalgia",
+    accent: "#f59e0b",
+    img: "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    id: "sportflix", angle: 180,
+    title: "SPORTSFLIX PRO STADIUM",
+    sub: "Football • Fairway Golf • Marine Sonar • Off-Road ATV",
+    badge: "15 ARENA STORES",
+    href: "/sportflix/football",
+    accent: "#22c55e",
+    img: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    id: "matrix", angle: 225,
+    title: "THE MATRIX • AI & STEEL",
+    sub: "VR Immersion Rigs • Robotics • Zero-G • Faraday",
+    badge: "49 TECH STORES",
+    href: "/netrix/vr-immersion-bay",
+    accent: "#e2e8f0",
+    img: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    id: "stargazer", angle: 270,
+    title: "STARGAZER & PRO AUTO",
+    sub: "300 Deep-Space Telescopes • Pro Detailing Bay",
+    badge: "300 CELESTIAL SKUS",
+    href: "/stores/stargazer-mall",
+    accent: "#60a5fa",
+    img: "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    id: "expecting", angle: 315,
+    title: "MATERNITY, NURSERY & CPR",
+    sub: "Real Clinical Care • Smart Nursery • Free CPR Cert",
+    badge: "150 NURSERY SKUS",
+    href: "/stores/expecting-and-cpr",
+    accent: "#2dd4bf",
+    img: "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=600&q=80"
+  }
 ];
