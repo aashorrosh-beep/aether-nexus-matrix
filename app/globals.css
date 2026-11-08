@@ -1,40 +1,35 @@
 @import "tailwindcss";
 * { box-sizing: border-box; }
 html, body {
-  margin: 0; padding: 0;
+  margin: 0; padding: 0; width: 100%;
   background-color: #07080c;
   background-image:
-    radial-gradient(circle at 50% 54%, rgba(255, 0, 127, 0.22) 0%, rgba(148, 163, 184, 0.08) 38%, #050608 75%),
+    radial-gradient(circle at 50% 45%, rgba(255, 0, 127, 0.22) 0%, rgba(148, 163, 184, 0.08) 40%, #050608 78%),
     linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
     linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
-  background-size: 100% 100%, 36px 36px, 36px 36px;
+  background-size: 100% 100%, 32px 32px, 32px 32px;
   color: #f8fafc;
   font-family: system-ui, -apple-system, sans-serif;
   overflow-x: hidden;
 }
 @keyframes triggerPulse {
-  0%, 100% {
-    transform: translate(-50%, -50%) scale(1);
-    box-shadow: 0 0 35px #ff007f, 0 0 80px rgba(255,0,127,0.55), inset 0 0 28px rgba(226,232,240,0.65);
-  }
-  50% {
-    transform: translate(-50%, -50%) scale(1.04);
-    box-shadow: 0 0 65px #ff007f, 0 0 130px #e2e8f0, inset 0 0 45px #ff007f;
-  }
+  0%, 100% { box-shadow: 0 0 35px #ff007f, 0 0 75px rgba(255,0,127,0.5), inset 0 0 25px rgba(226,232,240,0.6); }
+  50% { box-shadow: 0 0 60px #ff007f, 0 0 120px #e2e8f0, inset 0 0 40px #ff007f; }
 }
 @keyframes arcFlicker {
-  0%, 100% { opacity: 0.85; }
-  20% { opacity: 0.35; }
-  40% { opacity: 1; }
-  65% { opacity: 0.55; }
-  80% { opacity: 1; }
+  0%, 100% { opacity: 0.9; }
+  30% { opacity: 0.4; }
+  60% { opacity: 1; }
 }
-.photo-node {
-  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+.desktop-wheel { display: block; }
+.mobile-reactor { display: none; }
+@media (max-width: 960px) {
+  .desktop-wheel { display: none !important; }
+  .mobile-reactor { display: block !important; }
 }
+.photo-node { transition: transform 0.22s ease, box-shadow 0.22s ease, border-color 0.22s ease; }
 .photo-node:hover {
-  transform: translate(-50%, -50%) scale(1.09) !important;
   border-color: #ff007f !important;
-  box-shadow: 0 0 40px rgba(255, 0, 127, 0.85), 0 0 15px #ffffff !important;
+  box-shadow: 0 0 35px rgba(255, 0, 127, 0.85), 0 0 12px #ffffff !important;
   z-index: 50 !important;
 }
