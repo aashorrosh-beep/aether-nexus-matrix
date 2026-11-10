@@ -2,26 +2,26 @@
 * { box-sizing: border-box; }
 html, body {
   margin: 0; padding: 0; width: 100%; min-height: 100vh;
-  background: #020308; color: #f8fafc;
+  background: #03050d; color: #f8fafc;
   font-family: system-ui, -apple-system, sans-serif; overflow-x: hidden;
 }
 .galaxy-canvas {
-  position: relative; min-height: 100vh; width: 100%; padding: 10px 12px 36px;
-  background: radial-gradient(ellipse at 50% 54%, #090d1e 0%, #03040a 70%, #010104 100%);
-  overflow: hidden;
+  position: relative; min-height: 100vh; width: 100%; padding: 10px 12px 38px;
+  background-color: #03050d;
+  background-image:
+    radial-gradient(ellipse 75% 38% at 50% 53%, rgba(239,68,68,0.22) 0%, rgba(56,189,248,0.16) 42%, transparent 75%),
+    linear-gradient(152deg, rgba(2,4,10,0.92) 8%, rgba(30,41,82,0.28) 38%, rgba(120,53,80,0.32) 52%, rgba(30,58,95,0.28) 66%, rgba(2,4,10,0.94) 92%),
+    url('https://commons.wikimedia.org/wiki/Special:FilePath/Andromeda_Galaxy_(with_h-alpha).jpg?width=1920');
+  background-size: cover; background-position: center;
 }
-@keyframes milkySpin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
-@keyframes sunPulse {
-  0%, 100% { box-shadow: 0 0 2.4cqw 0.7cqw rgba(239,68,68,0.9), 0 0 5.5cqw 1.8cqw rgba(185,28,28,0.55); }
-  50% { box-shadow: 0 0 3.2cqw 1.1cqw rgba(252,165,165,0.95), 0 0 7cqw 2.4cqw rgba(220,38,38,0.72); }
+@keyframes sunSizzle {
+  0%, 100% { box-shadow: 0 0 2.5cqw 0.8cqw rgba(239,68,68,0.92), 0 0 5.5cqw 1.8cqw rgba(185,28,28,0.58); }
+  50% { box-shadow: 0 0 3.4cqw 1.2cqw rgba(252,165,165,0.98), 0 0 7cqw 2.4cqw rgba(220,38,38,0.78); }
 }
 .solar-stage {
-  position: relative; width: 100%; max-width: 1380px; margin: 0 auto;
-  aspect-ratio: 1600 / 920; container-type: inline-size;
+  position: relative; width: 100%; max-width: 1400px; margin: 0 auto;
+  aspect-ratio: 1600 / 930; container-type: inline-size;
 }
-.sanctuary-bar { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 0.7cqw; }
-.planet-item { transition: transform 0.25s ease, filter 0.25s ease; }
-.planet-item:hover { transform: translate(-50%, -50%) scale(1.09) !important; filter: brightness(1.16); z-index: 50 !important; }
+.sanctuary-bar { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 0.65cqw; }
+.planet-orb { transition: transform 0.22s ease, filter 0.22s ease; }
+.planet-orb:hover { transform: translate(-50%, -50%) scale(1.11) !important; filter: brightness(1.22); z-index: 55 !important; }
