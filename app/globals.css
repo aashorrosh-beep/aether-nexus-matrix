@@ -2,32 +2,33 @@
 * { box-sizing: border-box; }
 html, body {
   margin: 0; padding: 0; width: 100%; min-height: 100vh;
-  background-color: #03040b;
+  background-color: #020308;
   background-image:
-    radial-gradient(ellipse at 50% 42%, rgba(245,158,11,0.22) 0%, rgba(56,189,248,0.18) 35%, rgba(168,85,247,0.15) 60%, #020308 85%),
+    radial-gradient(circle at 50% 48%, rgba(244,63,94,0.18) 0%, rgba(56,189,248,0.16) 35%, rgba(168,85,247,0.14) 60%, #020308 88%),
     url('https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1800&q=85');
   background-size: cover; background-position: center; background-attachment: fixed;
   color: #f8fafc; font-family: system-ui, -apple-system, sans-serif; overflow-x: hidden;
 }
-@keyframes solarPulse {
-  0%, 100% { box-shadow: 0 0 50px #f59e0b, 0 0 110px #38bdf8, inset 0 0 30px #fef08a; }
-  50% { box-shadow: 0 0 85px #fbbf24, 0 0 160px #ff007f, inset 0 0 50px #ffffff; }
+@keyframes corePlasma {
+  0%, 100% {
+    transform: translate(-50%, -50%) scale(1);
+    box-shadow: 0 0 65px 25px rgba(244,63,94,0.85), 0 0 130px 55px rgba(56,189,248,0.75), 0 0 200px 80px rgba(168,85,247,0.55), inset 0 0 50px #ffffff;
+  }
+  50% {
+    transform: translate(-50%, -50%) scale(1.07);
+    box-shadow: 0 0 85px 35px rgba(56,189,248,0.95), 0 0 155px 70px rgba(244,63,94,0.85), 0 0 230px 95px rgba(250,204,21,0.5), inset 0 0 70px #38bdf8;
+  }
 }
-@keyframes ribbonGlow {
-  0%, 100% { filter: drop-shadow(0 0 6px rgba(255,255,255,0.45)); transform: translateY(0px); }
-  50% { filter: drop-shadow(0 0 14px rgba(250,204,21,0.95)); transform: translateY(-3px); }
+@keyframes tentaclePulse {
+  0%, 100% { opacity: 0.72; filter: drop-shadow(0 0 10px #f43f5e) drop-shadow(0 0 18px #38bdf8); }
+  50% { opacity: 1; filter: drop-shadow(0 0 18px #38bdf8) drop-shadow(0 0 30px #a855f7); }
 }
-.circle-portal {
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
+.energy-node {
+  transition: transform 0.28s ease, filter 0.28s ease;
+  border: none !important;
 }
-.circle-portal:hover {
+.energy-node:hover {
   transform: translate(-50%, -50%) scale(1.1) !important;
-  box-shadow: 0 0 45px #fbbf24, 0 0 20px #38bdf8 !important;
+  filter: brightness(1.22);
   z-index: 50 !important;
-}
-.desktop-wheel { display: block; }
-.mobile-reactor { display: none; }
-@media (max-width: 980px) {
-  .desktop-wheel { display: none !important; }
-  .mobile-reactor { display: grid !important; }
 }

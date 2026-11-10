@@ -5,99 +5,155 @@ import { RIBBONS, NODES } from "./wheel-data";
 
 function RibbonSVG({ c1, c2 }: { c1: string; c2: string }) {
   return (
-    <svg width="28" height="36" viewBox="0 0 36 44" style={{ flexShrink: 0 }}>
+    <svg width="28" height="36" viewBox="0 0 36 44" style={{ flexShrink: 0, filter: `drop-shadow(0 0 6px ${c1})` }}>
       <path d="M18 4 C10 4 7 11 11 19 L24 41 L29 38 L16 17 C14 12 15 9 18 9 C21 9 22 12 20 17 L7 38 L12 41 L25 19 C29 11 26 4 18 4 Z" fill={c1} stroke={c2} strokeWidth="2.4" />
       <circle cx="18" cy="11" r="3.5" fill="#03040b" />
     </svg>
   );
 }
 
-function bolt(cx: number, cy: number, tx: number, ty: number, s: number) {
-  const dx = tx - cx, dy = ty - cy, nx = -dy, ny = dx;
-  return `M ${cx} ${cy} L ${(cx+dx*0.28+nx*0.07*s).toFixed(1)} ${(cy+dy*0.28+ny*0.07*s).toFixed(1)} L ${(cx+dx*0.55-nx*0.08*s).toFixed(1)} ${(cy+dy*0.55-ny*0.08*s).toFixed(1)} L ${(cx+dx*0.8+nx*0.05*s).toFixed(1)} ${(cy+dy*0.8+ny*0.05*s).toFixed(1)} L ${tx.toFixed(1)} ${ty.toFixed(1)}`;
+// Organic curved energy tentacle + jagged lightning filament
+function tentaclePath(cx: number, cy: number, tx: number, ty: number, dir: number) {
+  const dx = tx - cx, dy = ty - cy, nx = -dy * 0.16 * dir, ny = dx * 0.16 * dir;
+  const c1x = (cx + dx * 0.33 + nx).toFixed(1), c1y = (cy + dy * 0.33 + ny).toFixed(1);
+  const c2x = (cx + dx * 0.66 - nx).toFixed(1), c2y = (cy + dy * 0.66 - ny).toFixed(1);
+  return `M ${cx} ${cy} C ${c1x} ${c1y}, ${c2x} ${c2y}, ${tx.toFixed(1)} ${ty.toFixed(1)}`;
 }
 
-export default function AlbsNexusLobby() {
+export default function AlbsNexusEnergyLobby() {
   const [q, setQ] = useState("");
-  const [zip, setZip] = useState("77301");
+  const [zips, setZips] = useState<Record<string, string>>({
+    autism: "77301", down: "77301", deafblind: "77301", ptsd: "77301", mobility: "77301", peptides: "77301"
+  });
+  const [activeRadar, setActiveRadar] = useState<string | null>(null);
+
   const hits = q.trim() ? [...NODES, ...RIBBONS.map(r => ({ id: r.id, title: r.name, sub: r.sub, href: r.href }))].filter(n => (n.title + " " + n.sub).toLowerCase().includes(q.toLowerCase())) : [];
 
   return (
-    <div style={{ minHeight: "100vh", color: "#f8fafc", paddingBottom: "60px" }}>
-      {/* TOP BEACON OF HOPE: 6 NATIONALLY RECOGNIZED AWARENESS RIBBONS */}
-      <div style={{ maxWidth: "1140px", margin: "10px auto 0", padding: "0 12px" }}>
-        <div style={{ background: "rgba(9,13,22,0.92)", border: "2px solid #fbbf24", borderRadius: "20px", padding: "12px 14px", boxShadow: "0 0 35px rgba(251,191,36,0.25)" }}>
-          <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", flexWrap: "wrap", gap: "6px", marginBottom: "8px" }}>
-            <span style={{ fontSize: "13px", fontWeight: 900, color: "#fef08a", letterSpacing: "0.1em" }}>🎗️ BEACON OF HOPE SANCTUARIES • OFFICIAL CAUSE RIBBONS</span>
-            <span style={{ fontSize: "11px", fontWeight: 900, color: "#38bdf8" }}>📍 12-MILE RADAR ZIP: <input value={zip} onChange={e => setZip(e.target.value)} maxLength={5} style={{ width: "60px", padding: "2px 6px", background: "#030712", border: "1px solid #fbbf24", color: "#fef08a", borderRadius: "6px", fontWeight: 900 }} /></span>
-          </div>
-          <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(155px, 1fr))", gap: "8px" }}>
+    <div style={{ minHeight: "100vh", color: "#f8fafc", paddingBottom: "70px" }}>
+      {/* TOP: CENTERED "SANCTUARIES OF HOPE" WITH COLOR-MATCHED CARDS & INDIVIDUAL 12-MILE RADARS */}
+      <div style={{ maxWidth: "1160px", margin: "12px auto 0", padding: "0 14px", position: "relative", zIndex: 30 }}>
+        <div style={{ background: "rgba(6,9,18,0.78)", borderRadius: "24px", padding: "14px 18px", boxShadow: "0 0 50px rgba(56,189,248,0.22)" }}>
+          <h2 style={{ margin: "0 0 12px", textAlign: "center", fontSize: "18px", fontWeight: 900, letterSpacing: "0.18em", color: "#fef08a", textShadow: "0 0 18px rgba(250,204,21,0.75)" }}>
+            🎗️ SANCTUARIES OF HOPE 🎗️
+          </h2>
+
+          <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(175px, 1fr))", gap: "10px" }}>
             {RIBBONS.map(r => (
-              <Link key={r.id} href={r.href} style={{ background: "#030712", border: `1.5px solid ${r.c1}`, borderRadius: "12px", padding: "8px", textDecoration: "none", color: "#fff", display: "flex", alignItems: "center", gap: "8px" }}>
-                <RibbonSVG c1={r.c1} c2={r.c2} />
-                <div>
-                  <div style={{ fontSize: "11.5px", fontWeight: 900 }}>{r.name}</div>
-                  <div style={{ fontSize: "9.5px", color: "#cbd5e1" }}>{r.sub}</div>
-                  <div style={{ fontSize: "9px", fontWeight: 900, color: r.c2 }}>📍 {zip} →</div>
+              <div key={r.id} style={{ background: r.bg, borderRadius: "16px", padding: "10px", boxShadow: `0 0 24px ${r.accent}44`, display: "flex", flexDirection: "column", justifyContent: "space-between", gap: "6px" }}>
+                <Link href={`${r.href}${r.href.includes("?") ? "&" : "?"}zip=${zips[r.id]}`} style={{ textDecoration: "none", display: "flex", alignItems: "center", gap: "8px" }}>
+                  <RibbonSVG c1={r.r1} c2={r.r2} />
+                  <div>
+                    <div style={{ fontSize: "12.5px", fontWeight: 900, color: r.text, textShadow: "0 1px 4px #000" }}>{r.name}</div>
+                    <div style={{ fontSize: "10px", color: "#f8fafc", fontWeight: 700 }}>{r.sub}</div>
+                  </div>
+                </Link>
+                {/* INDIVIDUAL 12-MILE ZIP INPUT ONLY FOR THIS SPECIFIC CAUSE */}
+                <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", background: "rgba(2,6,23,0.65)", borderRadius: "8px", padding: "4px 7px" }}>
+                  <span style={{ fontSize: "9.5px", fontWeight: 900, color: r.text }}>📍 12-Mi ZIP:</span>
+                  <input
+                    value={zips[r.id]}
+                    onChange={e => setZips({ ...zips, [r.id]: e.target.value })}
+                    maxLength={5}
+                    style={{ width: "52px", background: "transparent", border: "none", borderBottom: `1px solid ${r.accent}`, color: "#fff", fontSize: "10.5px", fontWeight: 900, textAlign: "center" }}
+                  />
+                  <Link href={`${r.href}${r.href.includes("?") ? "&" : "?"}zip=${zips[r.id]}`} style={{ fontSize: "9.5px", fontWeight: 900, color: r.accent, textDecoration: "none" }}>
+                    Go →
+                  </Link>
                 </div>
-              </Link>
+              </div>
             ))}
           </div>
         </div>
       </div>
 
-      {/* SCALABLE SOLAR-FLARE SPOKE & WHEEL (WORKS ON BOTH FULL & HALF SCREEN) */}
-      <div style={{ width: "100%", maxWidth: "1100px", margin: "10px auto 0", padding: "0 8px" }}>
-        <div style={{ position: "relative", width: "100%", aspectRatio: "1100 / 740", minHeight: "540px" }}>
-          <svg viewBox="0 0 1100 740" style={{ position: "absolute", inset: 0, width: "100%", height: "100%", pointerEvents: "none", zIndex: 5 }}>
-            <circle cx="550" cy="365" r="300" fill="none" stroke="rgba(56,189,248,0.35)" strokeWidth="1.5" strokeDasharray="10 8" />
-            <circle cx="550" cy="365" r="180" fill="none" stroke="rgba(251,191,36,0.45)" strokeWidth="2" />
+      {/* FREE-FLOATING BALL OF ENERGY & BORDERLESS ENERGY NODES */}
+      <div style={{ width: "100%", maxWidth: "1120px", margin: "12px auto 0", padding: "0 8px" }}>
+        {activeRadar && (
+          <div style={{ maxWidth: "560px", margin: "0 auto 10px", padding: "10px 16px", borderRadius: "999px", background: "radial-gradient(circle, rgba(56,189,248,0.35), rgba(244,63,94,0.35))", textAlign: "center", fontSize: "12px", fontWeight: 900, color: "#fef08a", boxShadow: "0 0 30px rgba(56,189,248,0.5)" }}>
+            📡 12-MILE LOCAL EVENT RADAR LOCKED: {activeRadar} — <Link href="/nostalgia/concierge" style={{ color: "#38bdf8", textDecoration: "underline" }}>View Local Events & Meetups →</Link>
+          </div>
+        )}
+
+        <div style={{ position: "relative", width: "100%", aspectRatio: "1100 / 760", minHeight: "560px" }}>
+          <svg viewBox="0 0 1100 760" style={{ position: "absolute", inset: 0, width: "100%", height: "100%", pointerEvents: "none", zIndex: 5 }}>
             {NODES.map((n, i) => {
-              const r = ((n.angle - 90) * Math.PI) / 180, tx = 550 + Math.cos(r) * 395, ty = 365 + Math.sin(r) * 260;
-              const b = bolt(550, 365, tx, ty, i % 2 === 0 ? 1 : -1);
+              const r = ((n.angle - 90) * Math.PI) / 180, tx = 550 + Math.cos(r) * 395, ty = 380 + Math.sin(r) * 268;
+              const t1 = tentaclePath(550, 380, tx, ty, i % 2 === 0 ? 1 : -1);
+              const t2 = tentaclePath(550, 380, tx, ty, i % 2 === 0 ? -0.75 : 0.75);
               return (
-                <g key={n.id}>
-                  <path d={b} fill="none" stroke={n.border} strokeWidth="3.5" />
-                  <path d={b} fill="none" stroke="#ffffff" strokeWidth="1.2" />
+                <g key={n.id} style={{ animation: "tentaclePulse 2.6s ease-in-out infinite" }}>
+                  {/* Outer Plasma Tentacle */}
+                  <path d={t1} fill="none" stroke={n.glow} strokeWidth="6" strokeOpacity="0.45" strokeLinecap="round" />
+                  {/* Red/Blue Core Energy Filaments */}
+                  <path d={t1} fill="none" stroke="#38bdf8" strokeWidth="2.4" strokeLinecap="round" />
+                  <path d={t2} fill="none" stroke="#f43f5e" strokeWidth="2.2" strokeDasharray="10 6" strokeLinecap="round" />
+                  <path d={t1} fill="none" stroke="#ffffff" strokeWidth="1" />
                 </g>
               );
             })}
           </svg>
 
-          {/* CENTER SOLAR NUCLEUS + SEARCH ALL MALLS + 3-HR CONCIERGE */}
-          <div style={{ position: "absolute", left: "50%", top: "50%", transform: "translate(-50%, -50%)", width: "26%", minWidth: "210px", zIndex: 25, textAlign: "center" }}>
-            <div style={{ width: "175px", height: "175px", margin: "0 auto", borderRadius: "50%", background: "radial-gradient(circle at 35% 30%, #fef9c3 0%, #fbbf24 35%, #ea580c 72%, #7c2d12 100%)", border: "4px solid #fef08a", boxShadow: "0 0 55px #f59e0b, 0 0 110px #38bdf8", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", padding: "10px" }}>
-              <div style={{ fontSize: "9px", fontWeight: 900, color: "#451a03" }}>⚡ THE FUTURE OF MALLS ⚡</div>
-              <div style={{ fontSize: "23px", fontWeight: 900, color: "#020617", lineHeight: 1, margin: "3px 0" }}>ALBS<br/>NEXUS</div>
-              <div style={{ fontSize: "9px", fontWeight: 900, color: "#fef08a", background: "#090d16", padding: "2px 8px", borderRadius: "999px" }}>6 Malls • 2,000+ SKUs</div>
+          {/* CENTER FREE-FLOATING BALL OF RED, BLUE & MAGENTA ENERGY (NO BORDER) */}
+          <div style={{ position: "absolute", left: "50%", top: "50%", transform: "translate(-50%, -50%)", width: "26%", minWidth: "215px", zIndex: 25, textAlign: "center" }}>
+            <div style={{
+              width: "188px", height: "188px", margin: "0 auto", borderRadius: "50%", border: "none",
+              background: "radial-gradient(circle at 38% 35%, #ffffff 0%, #38bdf8 24%, #f43f5e 54%, #a855f7 78%, transparent 100%)",
+              display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", padding: "12px",
+              animation: "corePlasma 3.2s ease-in-out infinite"
+            }}>
+              <div style={{ fontSize: "9px", fontWeight: 900, color: "#fef08a", letterSpacing: "0.14em", textShadow: "0 1px 6px #000" }}>⚡ PURE ENERGY CORE ⚡</div>
+              <div style={{ fontSize: "26px", fontWeight: 900, color: "#ffffff", lineHeight: 1, margin: "4px 0", textShadow: "0 0 16px #020617, 0 0 28px #f43f5e" }}>ALBS<br/>NEXUS</div>
+              <div style={{ fontSize: "9.5px", fontWeight: 900, color: "#e0f2fe", textShadow: "0 1px 4px #000" }}>6 Malls • 2,000+ SKUs</div>
             </div>
-            <div style={{ marginTop: "8px", background: "rgba(3,7,18,0.95)", border: "1.5px solid #38bdf8", borderRadius: "12px", padding: "8px" }}>
-              <input value={q} onChange={e => setQ(e.target.value)} placeholder="🔍 Search All Malls..." style={{ width: "100%", padding: "7px 10px", borderRadius: "6px", border: "1px solid #fbbf24", background: "#090d16", color: "#fff", fontSize: "11.5px", fontWeight: 700 }} />
+
+            {/* BORDERLESS FLOATING ENERGY SEARCH & CONCIERGE */}
+            <div style={{ marginTop: "12px", background: "radial-gradient(circle, rgba(15,23,42,0.92) 0%, rgba(2,6,23,0.75) 100%)", borderRadius: "18px", padding: "10px", boxShadow: "0 0 35px rgba(56,189,248,0.45), 0 0 60px rgba(244,63,94,0.25)" }}>
+              <input value={q} onChange={e => setQ(e.target.value)} placeholder="🔍 Search All Malls..." style={{ width: "100%", padding: "8px 12px", borderRadius: "999px", border: "none", background: "rgba(2,6,23,0.85)", color: "#fff", fontSize: "11.5px", fontWeight: 800, boxShadow: "inset 0 0 12px rgba(56,189,248,0.6)" }} />
               {hits.length > 0 && (
-                <div style={{ marginTop: "5px", display: "grid", gap: "3px", maxHeight: "95px", overflowY: "auto" }}>
+                <div style={{ marginTop: "6px", display: "grid", gap: "4px", maxHeight: "95px", overflowY: "auto" }}>
                   {hits.map(h => (
-                    <Link key={h.id} href={h.href} style={{ display: "flex", justifyContent: "space-between", padding: "5px 7px", background: "#0f172a", borderRadius: "5px", color: "#fbbf24", fontSize: "10.5px", fontWeight: 800, textDecoration: "none" }}>
-                      <span>{h.title}</span><span style={{ color: "#38bdf8" }}>Go →</span>
+                    <Link key={h.id} href={h.href} style={{ display: "flex", justifyContent: "space-between", padding: "5px 8px", background: "rgba(15,23,42,0.95)", borderRadius: "8px", color: "#fef08a", fontSize: "10.5px", fontWeight: 800, textDecoration: "none" }}>
+                      <span>{h.title}</span><span style={{ color: "#38bdf8" }}>Enter →</span>
                     </Link>
                   ))}
                 </div>
               )}
-              <Link href="/nostalgia/concierge" style={{ display: "block", marginTop: "6px", padding: "6px", borderRadius: "6px", background: "linear-gradient(90deg, #f59e0b, #ec4899)", color: "#020617", fontWeight: 900, fontSize: "10.5px", textDecoration: "none" }}>
+              <Link href="/nostalgia/concierge" style={{ display: "block", marginTop: "7px", padding: "7px", borderRadius: "999px", background: "linear-gradient(90deg, #f43f5e, #a855f7, #38bdf8)", color: "#fff", fontWeight: 900, fontSize: "10.5px", textDecoration: "none", boxShadow: "0 0 20px rgba(244,63,94,0.6)" }}>
                 🎩 3-Hr AI Concierge (24-Hr Hold) →
               </Link>
             </div>
           </div>
 
-          {/* 8 CIRCULAR SPOKE PORTALS */}
+          {/* 8 BORDERLESS COLOR-CODED ENERGY NODES WITH TOUCHABLE 12-MI RADAR */}
           {NODES.map((n) => {
             const r = ((n.angle - 90) * Math.PI) / 180;
-            const left = ((550 + Math.cos(r) * 395) / 1100) * 100, top = ((365 + Math.sin(r) * 260) / 740) * 100;
+            const left = ((550 + Math.cos(r) * 395) / 1100) * 100, top = ((380 + Math.sin(r) * 268) / 760) * 100;
             return (
-              <Link key={n.id} href={n.href} style={{ position: "absolute", left: `${left}%`, top: `${top}%`, transform: "translate(-50%, -50%)", width: "16.5%", minWidth: "138px", aspectRatio: "1 / 1", borderRadius: "50%", overflow: "hidden", border: `3px solid ${n.border}`, boxShadow: `0 0 25px ${n.border}88, inset 0 0 20px rgba(0,0,0,0.85)`, textDecoration: "none", color: "#fff", zIndex: 20, display: "flex", flexDirection: "column", justifyContent: "flex-end", alignItems: "center", textAlign: "center", padding: "12px 8px", backgroundImage: `linear-gradient(180deg, rgba(2,6,23,0.08) 0%, rgba(2,6,23,0.84) 56%, rgba(2,6,23,0.96) 100%), url('${n.img}')`, backgroundSize: "cover", backgroundPosition: "center" }}>
-                <div style={{ fontSize: "11px", fontWeight: 900, color: "#fff", lineHeight: 1.1 }}>{n.title}</div>
-                <div style={{ fontSize: "9px", color: "#fef08a", fontWeight: 800, marginTop: "2px", lineHeight: 1.15 }}>{n.sub}</div>
-                <div style={{ fontSize: "8.5px", color: "#38bdf8", fontWeight: 800, marginTop: "2px" }}>{n.info}</div>
-              </Link>
+              <div
+                key={n.id}
+                className="energy-node"
+                style={{
+                  position: "absolute", left: `${left}%`, top: `${top}%`, transform: "translate(-50%, -50%)",
+                  width: "17%", minWidth: "146px", aspectRatio: "1 / 1", borderRadius: "50%", border: "none",
+                  boxShadow: `0 0 42px 12px ${n.glow}88, 0 0 80px 24px ${n.glow}44, inset 0 0 32px ${n.glow}`,
+                  zIndex: 20, display: "flex", flexDirection: "column", justifyContent: "flex-end", alignItems: "center",
+                  textAlign: "center", padding: "14px 10px", overflow: "hidden",
+                  backgroundImage: `radial-gradient(circle at 50% 30%, transparent 10%, rgba(2,6,23,0.82) 62%, ${n.glow}66 100%), url('${n.img}')`,
+                  backgroundSize: "cover", backgroundPosition: "center"
+                }}
+              >
+                <Link href={n.href} style={{ textDecoration: "none", color: "#fff", width: "100%" }}>
+                  <div style={{ fontSize: "11.5px", fontWeight: 900, color: "#ffffff", textShadow: `0 0 12px ${n.glow}, 0 2px 6px #000`, lineHeight: 1.1 }}>{n.title}</div>
+                  <div style={{ fontSize: "9.5px", color: n.text, fontWeight: 800, marginTop: "3px", lineHeight: 1.15, textShadow: "0 1px 4px #000" }}>{n.sub}</div>
+                </Link>
+                <button
+                  onClick={() => setActiveRadar(`${n.title} (${n.info})`)}
+                  style={{ marginTop: "4px", padding: "3px 8px", borderRadius: "999px", border: "none", background: `linear-gradient(90deg, ${n.glow}, rgba(2,6,23,0.9))`, color: "#fff", fontSize: "8.5px", fontWeight: 900, cursor: "pointer", boxShadow: `0 0 12px ${n.glow}` }}
+                >
+                  {n.info}
+                </button>
+              </div>
             );
           })}
         </div>
