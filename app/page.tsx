@@ -61,12 +61,12 @@ export default function AlbsNexusLiveSizzle() {
       if (!c) return;
       const ctx = c.getContext("2d");
       if (!ctx) return;
-      ctx.clearRect(0, 0, 1600, 930);
+      ctx.clearRect(0, 0, 1600, 1060);
 
       // Concentric elliptical orbit tracks
       [[270, 155], [410, 235], [555, 315], [690, 385]].forEach(([rx, ry]) => {
         ctx.beginPath();
-        ctx.ellipse(800, 465, rx, ry, 0, 0, Math.PI * 2);
+        ctx.ellipse(800, 510, rx, ry, 0, 0, Math.PI * 2);
         ctx.strokeStyle = "rgba(186,230,253,0.12)";
         ctx.lineWidth = 1.2;
         ctx.shadowBlur = 0;
@@ -81,7 +81,7 @@ export default function AlbsNexusLiveSizzle() {
         ctx.shadowBlur = hot ? 30 : 18;
         ctx.strokeStyle = n.bolt;
         ctx.lineWidth = hot ? 5.5 : 3.4;
-        const mainPts = drawArc(ctx, 800, 465, n.x, n.y, hot ? 68 : 48, 5);
+        const mainPts = drawArc(ctx, 800, 510, n.x, n.y, hot ? 68 : 48, 5);
 
         // White-hot inner core
         ctx.shadowBlur = 6;
@@ -95,8 +95,8 @@ export default function AlbsNexusLiveSizzle() {
         ctx.strokeStyle = n.bolt;
         ctx.lineWidth = hot ? 2.6 : 1.7;
         const m1 = mainPts[10], m2 = mainPts[20];
-        drawArc(ctx, m1[0], m1[1], m1[0] + (n.x - 800) * 0.18 - 35, m1[1] + (n.y - 465) * 0.18 + 30, 22, 3);
-        drawArc(ctx, m2[0], m2[1], m2[0] + (n.x - 800) * 0.16 + 35, m2[1] + (n.y - 465) * 0.16 - 30, 20, 3);
+        drawArc(ctx, m1[0], m1[1], m1[0] + (n.x - 800) * 0.18 - 35, m1[1] + (n.y - 510) * 0.18 + 30, 22, 3);
+        drawArc(ctx, m2[0], m2[1], m2[0] + (n.x - 800) * 0.16 + 35, m2[1] + (n.y - 510) * 0.16 - 30, 20, 3);
 
         // Extra sizzling corona around the orb & bolt when hovered/touched!
         if (hot) {
@@ -104,7 +104,7 @@ export default function AlbsNexusLiveSizzle() {
           ctx.shadowColor = n.bolt;
           ctx.shadowBlur = 24;
           ctx.lineWidth = 2.2;
-          drawArc(ctx, 800, 465, n.x, n.y, 75, 5);
+          drawArc(ctx, 800, 510, n.x, n.y, 75, 5);
           for (let a = 0; a < 6; a++) {
             const a1 = (a / 6) * Math.PI * 2 + Math.random() * 0.4, a2 = a1 + 1.05;
             drawArc(ctx, n.x + Math.cos(a1) * 98, n.y + Math.sin(a1) * 98, n.x + Math.cos(a2) * 98, n.y + Math.sin(a2) * 98, 18, 3);
@@ -119,14 +119,14 @@ export default function AlbsNexusLiveSizzle() {
   return (
     <div className="galaxy-canvas">
       <div style={{ position: "relative", zIndex: 30, maxWidth: "1400px", margin: "0 auto", containerType: "inline-size" }}>
-        <div style={{ width: "90%", margin: "0 auto 0.2cqw", background: "rgba(10,13,22,0.85)", border: "1px solid rgba(148,163,184,0.28)", borderRadius: "1.1cqw", padding: "0.65cqw 1cqw", backdropFilter: "blur(8px)", boxShadow: "0 10px 35px rgba(0,0,0,0.85)" }}>
+        <div style={{ width: "95%", margin: "0 auto 0.2cqw", background: "rgba(10,13,22,0.85)", border: "1px solid rgba(148,163,184,0.28)", borderRadius: "1.1cqw", padding: "0.65cqw 1cqw", backdropFilter: "blur(8px)", boxShadow: "0 10px 35px rgba(0,0,0,0.85)" }}>
           <h2 style={{ margin: "0 0 0.55cqw", textAlign: "center", fontSize: "clamp(11px, 1.35cqw, 19px)", fontWeight: 800, letterSpacing: "0.15em", color: "#f8fafc" }}>SANCTUARIES OF HOPE</h2>
           <div className="sanctuary-bar">
             {RIBBONS.map(r => (
               <div key={r.id} style={{ background: "rgba(14,18,29,0.92)", border: `1.5px solid ${r.border}`, boxShadow: `0 0 12px ${r.border}44, inset 0 0 10px ${r.border}22`, borderRadius: "0.7cqw", padding: "0.48cqw 0.55cqw", display: "flex", alignItems: "center", gap: "0.45cqw" }}>
                 <RibbonSVG r={r} />
                 <div style={{ minWidth: 0, flex: 1 }}>
-                  <Link href={`${r.href}${r.href.includes("?") ? "&" : "?"}zip=${zips[r.id]}`} style={{ fontSize: "clamp(7.5px, 0.86cqw, 12px)", fontWeight: 700, color: "#f8fafc", textDecoration: "none", display: "block", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>{r.name}</Link>
+                  <Link href={`${r.href}${r.href.includes("?") ? "&" : "?"}zip=${zips[r.id]}`} style={{ fontSize: "clamp(7px, 0.78cqw, 11.5px)", fontWeight: 700, color: "#f8fafc", textDecoration: "none", display: "block", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>{r.name}</Link>
                   <div style={{ marginTop: "0.28cqw", background: "rgba(4,6,12,0.92)", border: "1px solid rgba(148,163,184,0.3)", borderRadius: "0.35cqw", padding: "1px 3px", fontSize: "clamp(6.5px, 0.66cqw, 9.5px)", color: "#cbd5e1", display: "flex", alignItems: "center", justifyContent: "center", whiteSpace: "nowrap" }}>
                     <span>12-MI ZIP [</span>
                     <input value={zips[r.id]} onChange={e => setZips({ ...zips, [r.id]: e.target.value })} maxLength={5} style={{ width: "3.1cqw", minWidth: "26px", background: "transparent", border: "none", outline: "none", color: "#fff", fontSize: "inherit", fontWeight: 800, textAlign: "center" }} />
@@ -140,11 +140,22 @@ export default function AlbsNexusLiveSizzle() {
       </div>
 
       <div className="solar-stage">
-        <canvas ref={canvasRef} width={1600} height={930} style={{ position: "absolute", inset: 0, width: "100%", height: "100%", pointerEvents: "none", zIndex: 8 }} />
+        <canvas ref={canvasRef} width={1600} height={1060} style={{ position: "absolute", inset: 0, width: "100%", height: "100%", pointerEvents: "none", zIndex: 8 }} />
 
         {/* CENTER ELECTRIC SUN */}
         <div style={{ position: "absolute", left: "50%", top: "50%", transform: "translate(-50%, -50%)", width: "18.6cqw", height: "18.6cqw", borderRadius: "50%", zIndex: 25, animation: "sunSizzle 3.4s ease-in-out infinite" }}>
-          <div style={{ position: "absolute", inset: 0, borderRadius: "50%", overflow: "hidden", backgroundColor: "#140204", backgroundImage: "radial-gradient(circle at 32% 30%, rgba(5,5,10,0.75) 0%, transparent 28%), radial-gradient(circle at 68% 36%, rgba(5,5,10,0.8) 0%, transparent 32%), radial-gradient(circle at 50% 50%, transparent 56%, rgba(239,68,68,0.9) 94%, #fecaca 100%), url(\"https://commons.wikimedia.org/wiki/Special:FilePath/The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA's_Solar_Dynamics_Observatory_-_20100819.jpg?width=800\")", backgroundSize: "cover", backgroundPosition: "center", filter: "hue-rotate(-14deg) saturate(1.85) contrast(1.38)" }} />
+          <div style={{ position: "absolute", inset: 0, borderRadius: "50%", overflow: "hidden", boxShadow: "inset 0 0 2.2cqw #dc2626" }}>
+            <svg viewBox="0 0 240 240" style={{ width: "100%", height: "100%", display: "block" }}>
+              <defs>
+                <filter id="crimsonMagma" x="0%" y="0%" width="100%" height="100%">
+                  <feTurbulence type="turbulence" baseFrequency="0.032" numOctaves="4" seed="11" result="t" />
+                  <feColorMatrix type="matrix" values="-4.2 0 0 0 1.48  -6.8 0 0 0 0.32  -7.5 0 0 0 0.32  0 0 0 0 1" in="t" />
+                </filter>
+              </defs>
+              <rect width="240" height="240" filter="url(#crimsonMagma)" />
+              <circle cx="120" cy="120" r="117" fill="none" stroke="#ef4444" strokeWidth="6" opacity="0.85" />
+            </svg>
+          </div>
           <div style={{ position: "absolute", top: "16%", left: 0, right: 0, textAlign: "center", zIndex: 8, pointerEvents: "none" }}>
             <div style={{ fontSize: "clamp(8px, 0.85cqw, 12px)", fontWeight: 700, color: "#fee2e2", textShadow: "0 2px 6px #000" }}>Electric Sun</div>
             <div style={{ fontSize: "clamp(13px, 1.98cqw, 28px)", fontWeight: 900, color: "#ffffff", letterSpacing: "0.04em", lineHeight: 1.04, textShadow: "0 2px 12px #000" }}>ALBS NEXUS</div>
@@ -170,7 +181,7 @@ export default function AlbsNexusLiveSizzle() {
 
         {/* 9 STAGGERED PLANETARY STORE ORBS (HOVER OR TOUCH TO SIZZLE!) */}
         {NODES.map((n) => (
-          <Link key={n.id} href={n.href} className="planet-orb" onMouseEnter={() => { hotRef.current = n.id; }} onMouseLeave={() => { hotRef.current = null; }} onTouchStart={() => { hotRef.current = n.id; }} style={{ position: "absolute", left: `${(n.x / 1600) * 100}%`, top: `${(n.y / 930) * 100}%`, transform: "translate(-50%, -50%)", textDecoration: "none", zIndex: 20, display: "flex", flexDirection: "column", alignItems: "center" }}>
+          <Link key={n.id} href={n.href} className="planet-orb" onMouseEnter={() => { hotRef.current = n.id; }} onMouseLeave={() => { hotRef.current = null; }} onTouchStart={() => { hotRef.current = n.id; }} style={{ position: "absolute", left: `${(n.x / 1600) * 100}%`, top: `${(n.y / 1060) * 100}%`, transform: "translate(-50%, -50%)", textDecoration: "none", zIndex: 20, display: "flex", flexDirection: "column", alignItems: "center" }}>
             <div style={{ position: "relative", width: `${n.size}cqw`, height: `${n.size}cqw`, borderRadius: "50%", border: "2.2px solid rgba(224,242,254,0.9)", boxShadow: "0 0 2.2cqw 0.45cqw rgba(125,211,252,0.58), inset 0 0 1.2cqw rgba(2,6,23,0.45)", backgroundImage: `url('${n.img}')`, backgroundSize: "cover", backgroundPosition: "center", overflow: "hidden" }}>
               <div style={{ position: "absolute", inset: 0, borderRadius: "50%", background: "radial-gradient(circle at 30% 24%, rgba(255,255,255,0.24) 0%, transparent 45%, rgba(2,6,23,0.45) 100%)", pointerEvents: "none" }} />
             </div>
