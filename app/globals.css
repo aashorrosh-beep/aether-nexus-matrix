@@ -4,28 +4,25 @@ html, body {
   margin: 0; padding: 0; width: 100%; min-height: 100vh;
   background-color: #020308;
   background-image:
-    radial-gradient(circle at 50% 52%, rgba(244,63,94,0.18) 0%, rgba(56,189,248,0.16) 36%, rgba(168,85,247,0.14) 62%, #020308 88%),
+    radial-gradient(circle at 50% 52%, rgba(220,38,38,0.22) 0%, rgba(56,189,248,0.14) 38%, rgba(15,23,42,0.4) 65%, #020308 90%),
     url('https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1800&q=85');
   background-size: cover; background-position: center; background-attachment: fixed;
   color: #f8fafc; font-family: system-ui, -apple-system, sans-serif; overflow-x: hidden;
 }
-@keyframes corePulseOnly {
+@keyframes electricSunPulse {
   0%, 100% {
     transform: scale(1);
-    box-shadow: 0 0 60px 22px rgba(244,63,94,0.9), 0 0 125px 48px rgba(56,189,248,0.8), 0 0 190px 75px rgba(168,85,247,0.55), inset 0 0 45px #ffffff;
+    box-shadow: 0 0 55px 18px rgba(239,68,68,0.9), 0 0 120px 45px rgba(185,28,28,0.65), inset 0 0 40px #ef4444;
   }
   50% {
-    transform: scale(1.05);
-    box-shadow: 0 0 80px 32px rgba(56,189,248,0.95), 0 0 150px 65px rgba(244,63,94,0.9), 0 0 220px 90px rgba(250,204,21,0.55), inset 0 0 65px #38bdf8;
+    transform: scale(1.03);
+    box-shadow: 0 0 75px 28px rgba(248,113,113,0.95), 0 0 150px 60px rgba(56,189,248,0.45), inset 0 0 55px #fbbf24;
   }
 }
-@keyframes spinRingCW { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
-@keyframes spinRingCCW { from { transform: rotate(360deg); } to { transform: rotate(0deg); } }
 @keyframes boltFlicker {
   0%, 100% { opacity: 0.95; }
-  25% { opacity: 0.45; }
-  55% { opacity: 1; }
-  80% { opacity: 0.65; }
+  30% { opacity: 0.5; }
+  65% { opacity: 1; }
 }
-.energy-node { transition: transform 0.25s ease, filter 0.25s ease; }
-.energy-node:hover { transform: translate(-50%, -50%) scale(1.09) !important; filter: brightness(1.2); z-index: 50 !important; }
+.planet-orb { transition: transform 0.25s ease, filter 0.25s ease; }
+.planet-orb:hover { transform: translate(-50%, -50%) scale(1.08) !important; filter: brightness(1.18); z-index: 50 !important; }
