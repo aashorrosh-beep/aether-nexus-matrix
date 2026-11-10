@@ -1,39 +1,202 @@
 "use client";
-import React, { useState } from "react";
-import Link from "next/link";
+import React from "react";
+import StoreCatalogView, { MallItem } from "../../components/StoreCatalogView";
 
-const ITEMS = [{"name":"Meta Quest 3S / Pro Full-Body Haptic VR Rig","cat":"VR IMMERSION","w":460},{"name":"Apple Vision Spatial Developer Workstation Dock","cat":"SPATIAL AI","w":690},{"name":"Kat Walk C2 Core Omnidirectional VR Treadmill","cat":"VR TREADMILL","w":890},{"name":"bHaptics TactSuit X40 Wireless Haptic Vest","cat":"HAPTIC SUIT","w":420},{"name":"DJI Avata 2 FPV Cinewhoop Goggles 3 Combo","cat":"FPV DRONES","w":840},{"name":"Unitree Go2 Air Quadruped AI Companion Robot","cat":"ROBOTICS","w":1490},{"name":"NVIDIA Jetson Orin Nano Edge AI Developer Kit","cat":"AI COMPUTE","w":380},{"name":"XREAL Air 2 Ultra AR Spatial Micro-OLED Glasses","cat":"AR OPTICS","w":560}];
+const ITEMS: MallItem[] = [
+  {
+    "id": "TH-101",
+    "name": "Standalone 4K Mixed-Reality VR Immersion Headset",
+    "cat": "all",
+    "tier": "T1",
+    "tierLabel": "Tier 1 • $3.99 Ship",
+    "w": 22,
+    "ship": 3.99,
+    "stock": 6,
+    "imgs": [
+      "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=600&q=80",
+      "https://picsum.photos/seed/TH-0-2/600/420",
+      "https://picsum.photos/seed/TH-0-3/600/420"
+    ],
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+  },
+  {
+    "id": "TH-102",
+    "name": "Programmable Biped AI Companion Robot Kit",
+    "cat": "all",
+    "tier": "T2",
+    "tierLabel": "Tier 2 • $5.99 Ship",
+    "w": 40.5,
+    "ship": 5.99,
+    "stock": 11,
+    "imgs": [
+      "https://picsum.photos/seed/TH-1-1/600/420",
+      "https://picsum.photos/seed/TH-1-2/600/420",
+      "https://picsum.photos/seed/TH-1-3/600/420"
+    ],
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+  },
+  {
+    "id": "TH-103",
+    "name": "Haptic Feedback Force-Sensing VR Vest",
+    "cat": "all",
+    "tier": "T3",
+    "tierLabel": "Tier 3 • $7.99 Ship",
+    "w": 59,
+    "ship": 7.99,
+    "stock": 16,
+    "imgs": [
+      "https://picsum.photos/seed/TH-2-1/600/420",
+      "https://picsum.photos/seed/TH-2-2/600/420",
+      "https://picsum.photos/seed/TH-2-3/600/420"
+    ],
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+  },
+  {
+    "id": "TH-104",
+    "name": "RGB Mechanical Hot-Swap Cyberdeck Keyboard",
+    "cat": "all",
+    "tier": "T1",
+    "tierLabel": "Tier 1 • $3.99 Ship",
+    "w": 77.5,
+    "ship": 3.99,
+    "stock": 21,
+    "imgs": [
+      "https://picsum.photos/seed/TH-3-1/600/420",
+      "https://picsum.photos/seed/TH-3-2/600/420",
+      "https://picsum.photos/seed/TH-3-3/600/420"
+    ],
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+  },
+  {
+    "id": "TH-105",
+    "name": "Local Edge-AI Neural Compute Mini Server",
+    "cat": "all",
+    "tier": "T2",
+    "tierLabel": "Tier 2 • $5.99 Ship",
+    "w": 96,
+    "ship": 5.99,
+    "stock": 7,
+    "imgs": [
+      "https://picsum.photos/seed/TH-4-1/600/420",
+      "https://picsum.photos/seed/TH-4-2/600/420",
+      "https://picsum.photos/seed/TH-4-3/600/420"
+    ],
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+  },
+  {
+    "id": "TH-106",
+    "name": "Dual-Arm Articulated Monitor Zero-G Cockpit",
+    "cat": "all",
+    "tier": "T3",
+    "tierLabel": "Tier 3 • $7.99 Ship",
+    "w": 114.5,
+    "ship": 7.99,
+    "stock": 12,
+    "imgs": [
+      "https://picsum.photos/seed/TH-5-1/600/420",
+      "https://picsum.photos/seed/TH-5-2/600/420",
+      "https://picsum.photos/seed/TH-5-3/600/420"
+    ],
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+  },
+  {
+    "id": "TH-107",
+    "name": "Smart AR Translation & HUD Everyday Glasses",
+    "cat": "all",
+    "tier": "T1",
+    "tierLabel": "Tier 1 • $3.99 Ship",
+    "w": 133,
+    "ship": 3.99,
+    "stock": 17,
+    "imgs": [
+      "https://picsum.photos/seed/TH-6-1/600/420",
+      "https://picsum.photos/seed/TH-6-2/600/420",
+      "https://picsum.photos/seed/TH-6-3/600/420"
+    ],
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+  },
+  {
+    "id": "TH-108",
+    "name": "3D Spatial Audio Low-Latency Gaming Rig",
+    "cat": "all",
+    "tier": "T2",
+    "tierLabel": "Tier 2 • $5.99 Ship",
+    "w": 151.5,
+    "ship": 5.99,
+    "stock": 22,
+    "imgs": [
+      "https://picsum.photos/seed/TH-7-1/600/420",
+      "https://picsum.photos/seed/TH-7-2/600/420",
+      "https://picsum.photos/seed/TH-7-3/600/420"
+    ],
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+  },
+  {
+    "id": "TH-109",
+    "name": "Biometric Fingerprint Encrypted Hardware Vault",
+    "cat": "all",
+    "tier": "T3",
+    "tierLabel": "Tier 3 • $7.99 Ship",
+    "w": 170,
+    "ship": 7.99,
+    "stock": 8,
+    "imgs": [
+      "https://picsum.photos/seed/TH-8-1/600/420",
+      "https://picsum.photos/seed/TH-8-2/600/420",
+      "https://picsum.photos/seed/TH-8-3/600/420"
+    ],
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+  },
+  {
+    "id": "TH-110",
+    "name": "High-Speed Multi-Filament CoreXY 3D Printer",
+    "cat": "all",
+    "tier": "T1",
+    "tierLabel": "Tier 1 • $3.99 Ship",
+    "w": 188.5,
+    "ship": 3.99,
+    "stock": 13,
+    "imgs": [
+      "https://picsum.photos/seed/TH-9-1/600/420",
+      "https://picsum.photos/seed/TH-9-2/600/420",
+      "https://picsum.photos/seed/TH-9-3/600/420"
+    ],
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+  },
+  {
+    "id": "TH-111",
+    "name": "Voice-Controlled Smart Desk Matrix Light Wall",
+    "cat": "all",
+    "tier": "T2",
+    "tierLabel": "Tier 2 • $5.99 Ship",
+    "w": 207,
+    "ship": 5.99,
+    "stock": 18,
+    "imgs": [
+      "https://picsum.photos/seed/TH-10-1/600/420",
+      "https://picsum.photos/seed/TH-10-2/600/420",
+      "https://picsum.photos/seed/TH-10-3/600/420"
+    ],
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+  },
+  {
+    "id": "TH-112",
+    "name": "Ultrawide OLED Curved Cyber Monitor",
+    "cat": "all",
+    "tier": "T3",
+    "tierLabel": "Tier 3 • $7.99 Ship",
+    "w": 225.5,
+    "ship": 7.99,
+    "stock": 23,
+    "imgs": [
+      "https://picsum.photos/seed/TH-11-1/600/420",
+      "https://picsum.photos/seed/TH-11-2/600/420",
+      "https://picsum.photos/seed/TH-11-3/600/420"
+    ],
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+  }
+];
 
-export default function NetrixStore() {
-  const [q, setQ] = useState("");
-  const list = ITEMS.filter(x => (x.name + " " + x.cat).toLowerCase().includes(q.toLowerCase()));
-  return (
-    <div style={{ minHeight: "100vh", background: "#030712", color: "#f8fafc", paddingBottom: "80px" }}>
-      <div style={{ background: "#090d16", borderBottom: "2px solid #a855f7", padding: "12px 20px", display: "flex", justifyContent: "space-between" }}>
-        <Link href="/" style={{ color: "#38bdf8", fontWeight: 900, textDecoration: "none" }}>← Back to ALBS Nexus Reactor</Link>
-        <span style={{ color: "#c084fc", fontWeight: 900 }}>⚡ THE MATRIX • AI & VR SUPERSTORE</span>
-      </div>
-      <div style={{ maxWidth: "1180px", margin: "24px auto", padding: "0 20px" }}>
-        <div style={{ background: "#0f172a", border: "2px solid #a855f7", borderRadius: "20px", padding: "24px", textAlign: "center" }}>
-          <h1 style={{ fontSize: "28px", fontWeight: 900, margin: "0 0 10px" }}>🤖 The Matrix • VR Immersion, AI Rigs & Robotics Bay</h1>
-          <input value={q} onChange={e => setQ(e.target.value)} placeholder="Search AI workstations, VR headsets, drones, robotics & tactical gear..." style={{ width: "100%", maxWidth: "720px", padding: "13px 18px", borderRadius: "12px", border: "2px solid #a855f7", background: "#030712", color: "#fff" }} />
-        </div>
-        <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(260px, 1fr))", gap: "16px", marginTop: "20px" }}>
-          {list.map((x, i) => (
-            <div key={i} style={{ background: "#0f172a", border: "1px solid #a855f7", borderRadius: "16px", padding: "16px", display: "flex", flexDirection: "column", justifyContent: "space-between" }}>
-              <div>
-                <div style={{ fontSize: "10px", color: "#c084fc", fontWeight: 900 }}>{x.cat} • +6% VELOCITY MARGIN</div>
-                <div style={{ fontSize: "15px", fontWeight: 900, margin: "6px 0" }}>{x.name}</div>
-                <div style={{ fontSize: "12px", color: "#94a3b8" }}>Wholesale: ${x.w.toFixed(2)}</div>
-              </div>
-              <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginTop: "14px", paddingTop: "10px", borderTop: "1px solid #1e293b" }}>
-                <span style={{ fontSize: "20px", fontWeight: 900, color: "#fbbf24" }}>${(x.w * 1.06).toFixed(2)}</span>
-                <Link href="/stores/car-wash-auto" style={{ padding: "8px 14px", borderRadius: "8px", background: "#a855f7", color: "#fff", fontWeight: 900, textDecoration: "none", fontSize: "12px" }}>Order Direct →</Link>
-              </div>
-            </div>
-          ))}
-        </div>
-      </div>
-    </div>
-  );
+export default function MallPage() {
+  return <StoreCatalogView title="🟢 THE MATRIX • AI & STEEL" accent="#10b981" items={ITEMS} showTiers={true} />;
 }

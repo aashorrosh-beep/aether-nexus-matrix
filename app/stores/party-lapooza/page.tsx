@@ -1,146 +1,202 @@
 "use client";
-import React, { useState, useEffect } from "react";
-import { partySuperstore250 } from "../../data/party-superstore-250";
+import React from "react";
+import StoreCatalogView, { MallItem } from "../../components/StoreCatalogView";
 
-const AISLES = [
-  { id: "all", label: "🎈 All 250 Party Items" },
-  { id: "ages-1-5", label: "👶 Ages 1-5 Bundles" },
-  { id: "ages-6-10", label: "🧒 Ages 6-10 Bundles" },
-  { id: "ages-10-15", label: "🎧 Ages 10-15 & Quinceanera" },
-  { id: "ages-15-21", label: "👑 Ages 15-21 Sweet 16 / Grad / 21st" },
-  { id: "candy-buffet", label: "🍬 Candy Buffet & Fountains" },
-  { id: "favors-pinatas", label: "🎁 Favors, Goodie Bags & Pinatas" },
-  { id: "helium-balloons", label: "🎈 Helium Tanks, Pumps & Arches" },
-  { id: "custom-standees", label: "📸 Custom Face Standees & Banners" },
-  { id: "tableware-catering", label: "🍽️ Tableware & Chafing Dishes" },
-  { id: "bounce-yard", label: "🎪 Bounce Houses, Fog & Karaoke" }
+const ITEMS: MallItem[] = [
+  {
+    "id": "PA-101",
+    "name": "Custom Spider-Man & Hero Face-Swap Banner",
+    "cat": "all",
+    "tier": "T1",
+    "tierLabel": "Tier 1 • $3.99 Ship",
+    "w": 22,
+    "ship": 3.99,
+    "stock": 6,
+    "imgs": [
+      "https://images.unsplash.com/photo-1558636508-e0db3814bd1d?auto=format&fit=crop&w=600&q=80",
+      "https://picsum.photos/seed/PA-0-2/600/420",
+      "https://picsum.photos/seed/PA-0-3/600/420"
+    ],
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+  },
+  {
+    "id": "PA-102",
+    "name": "All-Star Baseball Birthday Arch & Backdrop",
+    "cat": "all",
+    "tier": "T2",
+    "tierLabel": "Tier 2 • $5.99 Ship",
+    "w": 40.5,
+    "ship": 5.99,
+    "stock": 11,
+    "imgs": [
+      "https://picsum.photos/seed/PA-1-1/600/420",
+      "https://picsum.photos/seed/PA-1-2/600/420",
+      "https://picsum.photos/seed/PA-1-3/600/420"
+    ],
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+  },
+  {
+    "id": "PA-103",
+    "name": "360-Degree Slow-Mo Video Party Booth Rig",
+    "cat": "all",
+    "tier": "T3",
+    "tierLabel": "Tier 3 • $7.99 Ship",
+    "w": 59,
+    "ship": 7.99,
+    "stock": 16,
+    "imgs": [
+      "https://picsum.photos/seed/PA-2-1/600/420",
+      "https://picsum.photos/seed/PA-2-2/600/420",
+      "https://picsum.photos/seed/PA-2-3/600/420"
+    ],
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+  },
+  {
+    "id": "PA-104",
+    "name": "Commercial Bubble & Fog Stage Cannon",
+    "cat": "all",
+    "tier": "T1",
+    "tierLabel": "Tier 1 • $3.99 Ship",
+    "w": 77.5,
+    "ship": 3.99,
+    "stock": 21,
+    "imgs": [
+      "https://picsum.photos/seed/PA-3-1/600/420",
+      "https://picsum.photos/seed/PA-3-2/600/420",
+      "https://picsum.photos/seed/PA-3-3/600/420"
+    ],
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+  },
+  {
+    "id": "PA-105",
+    "name": "LED Glow Foam Stick Party Pack (100-Pc)",
+    "cat": "all",
+    "tier": "T2",
+    "tierLabel": "Tier 2 • $5.99 Ship",
+    "w": 96,
+    "ship": 5.99,
+    "stock": 7,
+    "imgs": [
+      "https://picsum.photos/seed/PA-4-1/600/420",
+      "https://picsum.photos/seed/PA-4-2/600/420",
+      "https://picsum.photos/seed/PA-4-3/600/420"
+    ],
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+  },
+  {
+    "id": "PA-106",
+    "name": " Giant 4ft Light-Up Marquee Age Numbers",
+    "cat": "all",
+    "tier": "T3",
+    "tierLabel": "Tier 3 • $7.99 Ship",
+    "w": 114.5,
+    "ship": 7.99,
+    "stock": 12,
+    "imgs": [
+      "https://picsum.photos/seed/PA-5-1/600/420",
+      "https://picsum.photos/seed/PA-5-2/600/420",
+      "https://picsum.photos/seed/PA-5-3/600/420"
+    ],
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+  },
+  {
+    "id": "PA-107",
+    "name": "Custom Frosting Piping & Square Cake Kit",
+    "cat": "all",
+    "tier": "T1",
+    "tierLabel": "Tier 1 • $3.99 Ship",
+    "w": 133,
+    "ship": 3.99,
+    "stock": 17,
+    "imgs": [
+      "https://picsum.photos/seed/PA-6-1/600/420",
+      "https://picsum.photos/seed/PA-6-2/600/420",
+      "https://picsum.photos/seed/PA-6-3/600/420"
+    ],
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+  },
+  {
+    "id": "PA-108",
+    "name": "inflatable Backyard Bounce Castle & Slide",
+    "cat": "all",
+    "tier": "T2",
+    "tierLabel": "Tier 2 • $5.99 Ship",
+    "w": 151.5,
+    "ship": 5.99,
+    "stock": 22,
+    "imgs": [
+      "https://picsum.photos/seed/PA-7-1/600/420",
+      "https://picsum.photos/seed/PA-7-2/600/420",
+      "https://picsum.photos/seed/PA-7-3/600/420"
+    ],
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+  },
+  {
+    "id": "PA-109",
+    "name": "Wireless Karaoke Dual-Mic Party Tower",
+    "cat": "all",
+    "tier": "T3",
+    "tierLabel": "Tier 3 • $7.99 Ship",
+    "w": 170,
+    "ship": 7.99,
+    "stock": 8,
+    "imgs": [
+      "https://picsum.photos/seed/PA-8-1/600/420",
+      "https://picsum.photos/seed/PA-8-2/600/420",
+      "https://picsum.photos/seed/PA-8-3/600/420"
+    ],
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+  },
+  {
+    "id": "PA-110",
+    "name": "VIP Velvet Rope & Red Carpet Entrance",
+    "cat": "all",
+    "tier": "T1",
+    "tierLabel": "Tier 1 • $3.99 Ship",
+    "w": 188.5,
+    "ship": 3.99,
+    "stock": 13,
+    "imgs": [
+      "https://picsum.photos/seed/PA-9-1/600/420",
+      "https://picsum.photos/seed/PA-9-2/600/420",
+      "https://picsum.photos/seed/PA-9-3/600/420"
+    ],
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+  },
+  {
+    "id": "PA-111",
+    "name": "Balloon Garland Electric Pump & 200-Pc Arch",
+    "cat": "all",
+    "tier": "T2",
+    "tierLabel": "Tier 2 • $5.99 Ship",
+    "w": 207,
+    "ship": 5.99,
+    "stock": 18,
+    "imgs": [
+      "https://picsum.photos/seed/PA-10-1/600/420",
+      "https://picsum.photos/seed/PA-10-2/600/420",
+      "https://picsum.photos/seed/PA-10-3/600/420"
+    ],
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+  },
+  {
+    "id": "PA-112",
+    "name": " cotton Candy & Popcorn Cart Station",
+    "cat": "all",
+    "tier": "T3",
+    "tierLabel": "Tier 3 • $7.99 Ship",
+    "w": 225.5,
+    "ship": 7.99,
+    "stock": 23,
+    "imgs": [
+      "https://picsum.photos/seed/PA-11-1/600/420",
+      "https://picsum.photos/seed/PA-11-2/600/420",
+      "https://picsum.photos/seed/PA-11-3/600/420"
+    ],
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+  }
 ];
 
-export default function PartyLapoozaSuperstore() {
-  const [dept, setDept] = useState("all");
-  const [budget, setBudget] = useState("all");
-  const [q, setQ] = useState("");
-  const [guestName, setGuestName] = useState("VIP BIRTHDAY STAR!");
-  const [photoUrl, setPhotoUrl] = useState("https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=500");
-  const [narration, setNarration] = useState("Welcome everyone to the ultimate VIP celebration!");
-  const [selected, setSelected] = useState<any>(null);
-  const [cart, setCart] = useState<any[]>([]);
-  const [cartOpen, setCartOpen] = useState(false);
-
-  useEffect(() => {
-    const p = new URLSearchParams(window.location.search);
-    const sku = p.get("sku");
-    if (sku) {
-      const f = partySuperstore250.find((x: any) => x.id === sku);
-      if (f) setSelected(f);
-    }
-  }, []);
-
-  const buyNow = async (itemsToBuy: any[]) => {
-    const r = await fetch("/api/checkout", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ items: itemsToBuy }) });
-    const d = await r.json();
-    if (d && d.url) window.location.href = d.url;
-  };
-
-  const shown = partySuperstore250.filter((it: any) => {
-    const dOk = dept === "all" ? true : it.deptId === dept;
-    const bOk = budget === "all" ? true : it.priceBand === budget;
-    const qOk = q.trim() === "" ? true : it.name.toLowerCase().includes(q.toLowerCase());
-    return dOk && bOk && qOk;
-  });
-
-  return (
-    <main className="min-h-screen text-white pb-20" style={{ background: "linear-gradient(180deg, #2e0538 0%, #150726 50%, #070510 100%)" }}>
-      <header className="sticky top-0 z-40 bg-black/95 border-b-2 border-fuchsia-400 px-4 py-3">
-        <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-3">
-          <div className="flex items-center gap-3">
-            <button type="button" onClick={() => { if (window.history.length > 1) { window.history.back(); } else { window.location.href = "/"; } }} className="px-3.5 py-2 bg-amber-400 text-black font-black text-xs uppercase cursor-pointer">⬅ Back to Room</button><a href="/" className="px-2.5 py-2 bg-zinc-800 border border-amber-400 text-amber-300 font-black text-[10px] uppercase">Mall Map</a>
-            <h1 className="text-lg md:text-2xl font-black text-white">🎈 Party Lapooza 250-Item Superstore (Ages 1-21 • Candy • Helium • Custom Cutouts)</h1>
-          </div>
-          <button onClick={() => setCartOpen(true)} className="px-4 py-2 bg-emerald-400 text-black font-black text-xs uppercase cursor-pointer">🛒 Cart ({cart.length})</button>
-        </div>
-      </header>
-
-      <section className="max-w-7xl mx-auto px-4 pt-4 pb-3 grid grid-cols-1 lg:grid-cols-2 gap-4">
-        <div className="bg-black/85 border-2 border-amber-400 p-4 space-y-2 text-xs">
-          <span className="bg-amber-400 text-black font-black text-[10px] px-2 py-0.5 uppercase">📸 1. Upload Photo → 2. Preview on Banner & Cutouts → 3. Share!</span>
-          <input type="file" accept="image/*" onChange={e => { const f = e.target.files?.[0]; if (f) setPhotoUrl(URL.createObjectURL(f)); }} className="w-full text-zinc-300" />
-          <input type="text" value={guestName} onChange={e => setGuestName(e.target.value)} className="w-full px-3 py-2 bg-zinc-900 border border-fuchsia-400 text-white font-bold" />
-          <div className="flex gap-2">
-            <input type="text" value={narration} onChange={e => setNarration(e.target.value)} className="flex-1 px-3 py-2 bg-zinc-900 border border-zinc-700 text-white" />
-            <button onClick={() => { if ("speechSynthesis" in window) window.speechSynthesis.speak(new SpeechSynthesisUtterance(guestName + " " + narration)); }} className="px-3 py-2 bg-emerald-400 text-black font-black uppercase cursor-pointer">🔊 Play Voice</button>
-          </div>
-        </div>
-        <div className="bg-fuchsia-950/60 border-2 border-dashed border-amber-400 p-4 flex flex-col items-center justify-center text-center">
-          <img src={photoUrl} alt="Preview" className="w-24 h-24 rounded-full border-4 border-amber-400 object-cover mb-2" />
-          <div className="px-4 py-1 bg-amber-400 text-black font-black text-xs uppercase">{guestName}</div>
-          <button onClick={() => { navigator.clipboard?.writeText(window.location.href); alert("Copied Party Preview Link!"); }} className="mt-2 px-4 py-1.5 bg-emerald-400 text-black font-black text-xs uppercase cursor-pointer">📲 Share Preview</button>
-        </div>
-      </section>
-
-      <section className="max-w-7xl mx-auto px-4 pb-3 space-y-2">
-        <input type="text" value={q} onChange={e => setQ(e.target.value)} placeholder="🔍 Search individual party items (helium, candy, pinata, quinceanera, bounce house)..." className="w-full px-4 py-2 bg-black border-2 border-fuchsia-400 text-xs text-white font-bold" />
-        <div className="flex flex-wrap gap-1.5">
-          {AISLES.map(a => (
-            <button key={a.id} onClick={() => setDept(a.id)} className={dept === a.id ? "px-3 py-1.5 text-xs font-black uppercase bg-amber-400 text-black cursor-pointer" : "px-3 py-1.5 text-xs font-black uppercase bg-zinc-900 text-white cursor-pointer"}>{a.label}</button>
-          ))}
-        </div>
-        <div className="flex flex-wrap gap-2">
-          <button onClick={() => setBudget("all")} className="px-3 py-1 text-xs font-black uppercase bg-white text-black cursor-pointer">All Prices ({shown.length})</button>
-          <button onClick={() => setBudget("low")} className="px-3 py-1 text-xs font-black uppercase bg-emerald-400 text-black cursor-pointer">💲 Starter ($19–$39)</button>
-          <button onClick={() => setBudget("mid")} className="px-3 py-1 text-xs font-black uppercase bg-amber-400 text-black cursor-pointer">💲💲 10-Guest Bundles & Helium ($40–$85)</button>
-          <button onClick={() => setBudget("high")} className="px-3 py-1 text-xs font-black uppercase bg-fuchsia-400 text-black cursor-pointer">💲💲💲 VIP Suites & Bounce Houses ($85+)</button>
-        </div>
-      </section>
-
-      <section className="w-full max-w-7xl mx-auto px-0 grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-0">
-        {shown.map((item: any, idx: number) => (
-          <div key={idx} className="bg-zinc-950 border-0 rounded-none m-0 p-0 overflow-hidden flex flex-col justify-between">
-            <div onClick={() => setSelected(item)} className="relative aspect-square w-full bg-transparent cursor-pointer overflow-hidden">
-              <img src={item.media[0]} alt={item.name} className="w-full h-full object-cover p-0 m-0 block" />
-              <span className="absolute top-1.5 left-1.5 bg-black/85 text-amber-300 text-[10px] font-black px-2 py-0.5">{item.isCuratedBundle ? "🎁 1-BOX BUNDLE" : "📸 3 Photos"}</span>
-              <div className={item.count <= 5 ? "absolute bottom-0 inset-x-0 px-2 py-1 text-[10px] font-black bg-red-700/95 text-white flex justify-between" : "absolute bottom-0 inset-x-0 px-2 py-1 text-[10px] font-black bg-black/85 text-emerald-400 flex justify-between"}>
-                <span>{item.count <= 5 ? "🔥 ONLY " + item.count + " LEFT!" : "✅ " + item.count + " IN STOCK"}</span>
-                <span>🔄 Auto-Shift</span>
-              </div>
-            </div>
-            <div className="p-2.5 bg-zinc-950">
-              <h3 onClick={() => setSelected(item)} className="text-xs font-bold text-white line-clamp-2 cursor-pointer">{item.name}</h3>
-              <div className="flex items-baseline justify-between mt-1">
-                <span className="text-lg font-black text-amber-400">{item.price}</span>
-                <span className="text-[11px] line-through text-zinc-500">{item.competitorPrice}</span>
-              </div>
-              <div className="flex gap-1 mt-2">
-                <button onClick={() => { setCart([...cart, item]); setCartOpen(true); }} className="flex-1 py-2 bg-amber-400 text-black font-black text-[10px] uppercase cursor-pointer">🛒 Add</button>
-                <button onClick={() => buyNow([item])} className="flex-1 py-2 bg-emerald-400 text-black font-black text-[10px] uppercase cursor-pointer">⚡ Buy</button>
-              </div>
-            </div>
-          </div>
-        ))}
-      </section>
-    
-      {selected && (
-        <div className="fixed inset-0 z-50 bg-black/85 flex items-center justify-center p-4" onClick={() => setSelected(null)}>
-          <div className="bg-zinc-950 border-2 border-amber-400 max-w-lg w-full p-5 space-y-3 text-white" onClick={e => e.stopPropagation()}>
-            <div className="flex justify-between items-start gap-2">
-              <span className="bg-emerald-400 text-black font-black text-[10px] px-2 py-0.5 uppercase">{selected.rankBadge || "Verified In-Stock"}</span>
-              <button onClick={() => setSelected(null)} className="px-2.5 py-1 bg-red-600 text-white font-black text-xs">✕ CLOSE</button>
-            </div>
-            <img src={selected.media?.[0]} alt={selected.name} className="w-full h-56 object-cover border border-zinc-800" />
-            <h2 className="text-base font-black text-amber-300">{selected.name}</h2>
-            <div className="flex items-center justify-between text-xs bg-zinc-900 p-2 border border-zinc-800">
-              <span className="text-xl font-black text-emerald-400">{selected.price}</span>
-              <span className="line-through text-zinc-400">Retail: {selected.competitorPrice}</span>
-              <span className="text-amber-300 font-bold">{selected.count} Left in Vault</span>
-            </div>
-            <p className="text-xs text-zinc-300">{selected.specs?.condition || "Clinical & Safety Vetted"} • {selected.specs?.shipping || "Insured 3-7 Day Shipping"}</p>
-            <div className="flex gap-2 pt-2">
-              <button onClick={() => { if (selected.count > 0) { selected.count -= 1; setCart([...cart, selected]); } }} className="flex-1 py-2.5 bg-amber-400 text-black font-black text-xs uppercase">+ Add to Cart ({selected.count} Avail)</button>
-              <button onClick={() => { const addr = window.prompt("Enter Full Shipping Address (Street, City, State, ZIP) for Insured Delivery:"); if (addr) buyNow([selected]); }} className="flex-1 py-2.5 bg-emerald-400 text-black font-black text-xs uppercase">Instant Cash Out</button>
-            </div>
-          </div>
-        </div>
-      )}
-    </main>
-  );
+export default function MallPage() {
+  return <StoreCatalogView title="🎉 PARTY LAPOOZA" accent="#f43f5e" items={ITEMS} showTiers={true} />;
 }
