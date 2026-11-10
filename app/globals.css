@@ -4,25 +4,22 @@ html, body {
   margin: 0; padding: 0; width: 100%; min-height: 100vh;
   background-color: #020308;
   background-image:
-    radial-gradient(circle at 50% 52%, rgba(220,38,38,0.22) 0%, rgba(56,189,248,0.14) 38%, rgba(15,23,42,0.4) 65%, #020308 90%),
-    url('https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1800&q=85');
+    radial-gradient(ellipse at 50% 54%, rgba(220,38,38,0.18) 0%, rgba(56,189,248,0.12) 38%, rgba(2,3,8,0.88) 78%),
+    url('https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1920&q=85');
   background-size: cover; background-position: center; background-attachment: fixed;
   color: #f8fafc; font-family: system-ui, -apple-system, sans-serif; overflow-x: hidden;
 }
-@keyframes electricSunPulse {
-  0%, 100% {
-    transform: scale(1);
-    box-shadow: 0 0 55px 18px rgba(239,68,68,0.9), 0 0 120px 45px rgba(185,28,28,0.65), inset 0 0 40px #ef4444;
-  }
-  50% {
-    transform: scale(1.03);
-    box-shadow: 0 0 75px 28px rgba(248,113,113,0.95), 0 0 150px 60px rgba(56,189,248,0.45), inset 0 0 55px #fbbf24;
-  }
+@keyframes sunCorona {
+  0%, 100% { box-shadow: 0 0 55px 16px rgba(239,68,68,0.88), 0 0 120px 42px rgba(185,28,28,0.55), inset 0 0 38px #ef4444; }
+  50% { box-shadow: 0 0 75px 24px rgba(248,113,113,0.95), 0 0 145px 55px rgba(220,38,38,0.7), inset 0 0 52px #fca5a5; }
 }
-@keyframes boltFlicker {
-  0%, 100% { opacity: 0.95; }
-  30% { opacity: 0.5; }
-  65% { opacity: 1; }
+@keyframes arcPulse {
+  0%, 100% { opacity: 0.94; }
+  40% { opacity: 0.58; }
+  75% { opacity: 1; }
 }
-.planet-orb { transition: transform 0.25s ease, filter 0.25s ease; }
-.planet-orb:hover { transform: translate(-50%, -50%) scale(1.08) !important; filter: brightness(1.18); z-index: 50 !important; }
+.sanctuary-row { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 10px; }
+@media (max-width: 1080px) { .sanctuary-row { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+@media (max-width: 600px) { .sanctuary-row { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.orb-link { transition: transform 0.25s ease, filter 0.25s ease; }
+.orb-link:hover { transform: translate(-50%, -50%) scale(1.08) !important; filter: brightness(1.18); z-index: 50 !important; }
