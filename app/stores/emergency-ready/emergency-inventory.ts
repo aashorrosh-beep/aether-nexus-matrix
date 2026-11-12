@@ -1,0 +1,2244 @@
+export interface EmSKU { id:string; name:string; cat:string; badge:string; w:number; ship:number; stock:number; imgs:string[]; }
+export const calcEm = (w:number, sh:number) => { const r = +(w * (w > 150 ? 1.06 : 1.1)).toFixed(2), tax = +(r * 0.0825).toFixed(2), tot = +((r + sh + tax + 0.3) / 0.971).toFixed(2); return { r, sh, tax, tot }; };
+export const EMERG_INV: EmSKU[] = [
+  {
+    "id": "EM-001",
+    "name": "Tri-Fuel 9500W Portable Generator — Pro Series",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 85,
+    "ship": 14.99,
+    "stock": 15,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Tri-Fuel%209500W%20Portable%20Generator%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Tri-Fuel%209500W%20Portable%20Generator%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Tri-Fuel%209500W%20Portable%20Generator%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-002",
+    "name": "Dual-Fuel 4500W Inverter Generator — Pro Series",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 113,
+    "ship": 14.99,
+    "stock": 20,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Dual-Fuel%204500W%20Inverter%20Generator%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Dual-Fuel%204500W%20Inverter%20Generator%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Dual-Fuel%204500W%20Inverter%20Generator%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-003",
+    "name": "LiFePO4 2048Wh Solar Power Station — Pro Series",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 141,
+    "ship": 14.99,
+    "stock": 8,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=LiFePO4%202048Wh%20Solar%20Power%20Station%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=LiFePO4%202048Wh%20Solar%20Power%20Station%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=LiFePO4%202048Wh%20Solar%20Power%20Station%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-004",
+    "name": "Foldable 200W Emergency Solar Panel — Pro Series",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 169,
+    "ship": 14.99,
+    "stock": 13,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Foldable%20200W%20Emergency%20Solar%20Panel%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Foldable%20200W%20Emergency%20Solar%20Panel%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Foldable%20200W%20Emergency%20Solar%20Panel%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-005",
+    "name": "50-Amp Heavy-Duty Generator Cord — Pro Series",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 197,
+    "ship": 14.99,
+    "stock": 18,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=50-Amp%20Heavy-Duty%20Generator%20Cord%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=50-Amp%20Heavy-Duty%20Generator%20Cord%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=50-Amp%20Heavy-Duty%20Generator%20Cord%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-006",
+    "name": "CPAP Overnight Battery Backup — Pro Series",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 225,
+    "ship": 14.99,
+    "stock": 6,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=CPAP%20Overnight%20Battery%20Backup%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=CPAP%20Overnight%20Battery%20Backup%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=CPAP%20Overnight%20Battery%20Backup%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-007",
+    "name": "Whole-Home Surge Arrestor Kit — Pro Series",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 253,
+    "ship": 14.99,
+    "stock": 11,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Whole-Home%20Surge%20Arrestor%20Kit%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Whole-Home%20Surge%20Arrestor%20Kit%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Whole-Home%20Surge%20Arrestor%20Kit%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-008",
+    "name": "2500A Car Jump Starter Power Bank — Pro Series",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 281,
+    "ship": 14.99,
+    "stock": 16,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=2500A%20Car%20Jump%20Starter%20Power%20Bank%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=2500A%20Car%20Jump%20Starter%20Power%20Bank%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=2500A%20Car%20Jump%20Starter%20Power%20Bank%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-009",
+    "name": "Propane Tank Dual Regulator Hose — Pro Series",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 309,
+    "ship": 14.99,
+    "stock": 21,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Propane%20Tank%20Dual%20Regulator%20Hose%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Propane%20Tank%20Dual%20Regulator%20Hose%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Propane%20Tank%20Dual%20Regulator%20Hose%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-010",
+    "name": "Pure Sine Wave 1500W Power Inverter — Pro Series",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 337,
+    "ship": 14.99,
+    "stock": 9,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Pure%20Sine%20Wave%201500W%20Power%20Inverter%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Pure%20Sine%20Wave%201500W%20Power%20Inverter%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Pure%20Sine%20Wave%201500W%20Power%20Inverter%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-011",
+    "name": "Tri-Fuel 9500W Portable Generator — Storm-Shield Edition",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 197,
+    "ship": 14.99,
+    "stock": 14,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Tri-Fuel%209500W%20Portable%20Generator%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Tri-Fuel%209500W%20Portable%20Generator%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Tri-Fuel%209500W%20Portable%20Generator%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-012",
+    "name": "Dual-Fuel 4500W Inverter Generator — Storm-Shield Edition",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 225,
+    "ship": 14.99,
+    "stock": 19,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Dual-Fuel%204500W%20Inverter%20Generator%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Dual-Fuel%204500W%20Inverter%20Generator%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Dual-Fuel%204500W%20Inverter%20Generator%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-013",
+    "name": "LiFePO4 2048Wh Solar Power Station — Storm-Shield Edition",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 253,
+    "ship": 14.99,
+    "stock": 7,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=LiFePO4%202048Wh%20Solar%20Power%20Station%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=LiFePO4%202048Wh%20Solar%20Power%20Station%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=LiFePO4%202048Wh%20Solar%20Power%20Station%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-014",
+    "name": "Foldable 200W Emergency Solar Panel — Storm-Shield Edition",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 281,
+    "ship": 14.99,
+    "stock": 12,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Foldable%20200W%20Emergency%20Solar%20Panel%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Foldable%20200W%20Emergency%20Solar%20Panel%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Foldable%20200W%20Emergency%20Solar%20Panel%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-015",
+    "name": "50-Amp Heavy-Duty Generator Cord — Storm-Shield Edition",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 309,
+    "ship": 14.99,
+    "stock": 17,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=50-Amp%20Heavy-Duty%20Generator%20Cord%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=50-Amp%20Heavy-Duty%20Generator%20Cord%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=50-Amp%20Heavy-Duty%20Generator%20Cord%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-016",
+    "name": "CPAP Overnight Battery Backup — Storm-Shield Edition",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 337,
+    "ship": 14.99,
+    "stock": 5,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=CPAP%20Overnight%20Battery%20Backup%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=CPAP%20Overnight%20Battery%20Backup%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=CPAP%20Overnight%20Battery%20Backup%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-017",
+    "name": "Whole-Home Surge Arrestor Kit — Storm-Shield Edition",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 365,
+    "ship": 14.99,
+    "stock": 10,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Whole-Home%20Surge%20Arrestor%20Kit%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Whole-Home%20Surge%20Arrestor%20Kit%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Whole-Home%20Surge%20Arrestor%20Kit%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-018",
+    "name": "2500A Car Jump Starter Power Bank — Storm-Shield Edition",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 393,
+    "ship": 14.99,
+    "stock": 15,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=2500A%20Car%20Jump%20Starter%20Power%20Bank%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=2500A%20Car%20Jump%20Starter%20Power%20Bank%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=2500A%20Car%20Jump%20Starter%20Power%20Bank%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-019",
+    "name": "Propane Tank Dual Regulator Hose — Storm-Shield Edition",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 421,
+    "ship": 14.99,
+    "stock": 20,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Propane%20Tank%20Dual%20Regulator%20Hose%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Propane%20Tank%20Dual%20Regulator%20Hose%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Propane%20Tank%20Dual%20Regulator%20Hose%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-020",
+    "name": "Pure Sine Wave 1500W Power Inverter — Storm-Shield Edition",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 449,
+    "ship": 14.99,
+    "stock": 8,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Pure%20Sine%20Wave%201500W%20Power%20Inverter%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Pure%20Sine%20Wave%201500W%20Power%20Inverter%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Pure%20Sine%20Wave%201500W%20Power%20Inverter%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-021",
+    "name": "Tri-Fuel 9500W Portable Generator — Family Readiness Pack",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 309,
+    "ship": 14.99,
+    "stock": 13,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Tri-Fuel%209500W%20Portable%20Generator%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Tri-Fuel%209500W%20Portable%20Generator%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Tri-Fuel%209500W%20Portable%20Generator%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-022",
+    "name": "Dual-Fuel 4500W Inverter Generator — Family Readiness Pack",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 337,
+    "ship": 14.99,
+    "stock": 18,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Dual-Fuel%204500W%20Inverter%20Generator%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Dual-Fuel%204500W%20Inverter%20Generator%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Dual-Fuel%204500W%20Inverter%20Generator%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-023",
+    "name": "LiFePO4 2048Wh Solar Power Station — Family Readiness Pack",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 365,
+    "ship": 14.99,
+    "stock": 6,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=LiFePO4%202048Wh%20Solar%20Power%20Station%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=LiFePO4%202048Wh%20Solar%20Power%20Station%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=LiFePO4%202048Wh%20Solar%20Power%20Station%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-024",
+    "name": "Foldable 200W Emergency Solar Panel — Family Readiness Pack",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 393,
+    "ship": 14.99,
+    "stock": 11,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Foldable%20200W%20Emergency%20Solar%20Panel%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Foldable%20200W%20Emergency%20Solar%20Panel%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Foldable%20200W%20Emergency%20Solar%20Panel%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-025",
+    "name": "50-Amp Heavy-Duty Generator Cord — Family Readiness Pack",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 421,
+    "ship": 14.99,
+    "stock": 16,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=50-Amp%20Heavy-Duty%20Generator%20Cord%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=50-Amp%20Heavy-Duty%20Generator%20Cord%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=50-Amp%20Heavy-Duty%20Generator%20Cord%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-026",
+    "name": "CPAP Overnight Battery Backup — Family Readiness Pack",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 449,
+    "ship": 14.99,
+    "stock": 21,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=CPAP%20Overnight%20Battery%20Backup%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=CPAP%20Overnight%20Battery%20Backup%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=CPAP%20Overnight%20Battery%20Backup%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-027",
+    "name": "Whole-Home Surge Arrestor Kit — Family Readiness Pack",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 477,
+    "ship": 14.99,
+    "stock": 9,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Whole-Home%20Surge%20Arrestor%20Kit%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Whole-Home%20Surge%20Arrestor%20Kit%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Whole-Home%20Surge%20Arrestor%20Kit%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-028",
+    "name": "2500A Car Jump Starter Power Bank — Family Readiness Pack",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 505,
+    "ship": 14.99,
+    "stock": 14,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=2500A%20Car%20Jump%20Starter%20Power%20Bank%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=2500A%20Car%20Jump%20Starter%20Power%20Bank%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=2500A%20Car%20Jump%20Starter%20Power%20Bank%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-029",
+    "name": "Propane Tank Dual Regulator Hose — Family Readiness Pack",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 533,
+    "ship": 14.99,
+    "stock": 19,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Propane%20Tank%20Dual%20Regulator%20Hose%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Propane%20Tank%20Dual%20Regulator%20Hose%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Propane%20Tank%20Dual%20Regulator%20Hose%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-030",
+    "name": "Pure Sine Wave 1500W Power Inverter — Family Readiness Pack",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 561,
+    "ship": 14.99,
+    "stock": 7,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Pure%20Sine%20Wave%201500W%20Power%20Inverter%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Pure%20Sine%20Wave%201500W%20Power%20Inverter%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Pure%20Sine%20Wave%201500W%20Power%20Inverter%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-031",
+    "name": "Tri-Fuel 9500W Portable Generator — Heavy-Duty Contractors Grade",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 421,
+    "ship": 14.99,
+    "stock": 12,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Tri-Fuel%209500W%20Portable%20Generator%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Tri-Fuel%209500W%20Portable%20Generator%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Tri-Fuel%209500W%20Portable%20Generator%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-032",
+    "name": "Dual-Fuel 4500W Inverter Generator — Heavy-Duty Contractors Grade",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 449,
+    "ship": 14.99,
+    "stock": 17,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Dual-Fuel%204500W%20Inverter%20Generator%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Dual-Fuel%204500W%20Inverter%20Generator%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Dual-Fuel%204500W%20Inverter%20Generator%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-033",
+    "name": "LiFePO4 2048Wh Solar Power Station — Heavy-Duty Contractors Grade",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 477,
+    "ship": 14.99,
+    "stock": 5,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=LiFePO4%202048Wh%20Solar%20Power%20Station%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=LiFePO4%202048Wh%20Solar%20Power%20Station%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=LiFePO4%202048Wh%20Solar%20Power%20Station%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-034",
+    "name": "Foldable 200W Emergency Solar Panel — Heavy-Duty Contractors Grade",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 505,
+    "ship": 14.99,
+    "stock": 10,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Foldable%20200W%20Emergency%20Solar%20Panel%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Foldable%20200W%20Emergency%20Solar%20Panel%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Foldable%20200W%20Emergency%20Solar%20Panel%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-035",
+    "name": "50-Amp Heavy-Duty Generator Cord — Heavy-Duty Contractors Grade",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 533,
+    "ship": 14.99,
+    "stock": 15,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=50-Amp%20Heavy-Duty%20Generator%20Cord%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=50-Amp%20Heavy-Duty%20Generator%20Cord%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=50-Amp%20Heavy-Duty%20Generator%20Cord%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-036",
+    "name": "CPAP Overnight Battery Backup — Heavy-Duty Contractors Grade",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 561,
+    "ship": 14.99,
+    "stock": 20,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=CPAP%20Overnight%20Battery%20Backup%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=CPAP%20Overnight%20Battery%20Backup%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=CPAP%20Overnight%20Battery%20Backup%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-037",
+    "name": "Whole-Home Surge Arrestor Kit — Heavy-Duty Contractors Grade",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 589,
+    "ship": 14.99,
+    "stock": 8,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Whole-Home%20Surge%20Arrestor%20Kit%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Whole-Home%20Surge%20Arrestor%20Kit%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Whole-Home%20Surge%20Arrestor%20Kit%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-038",
+    "name": "2500A Car Jump Starter Power Bank — Heavy-Duty Contractors Grade",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 617,
+    "ship": 14.99,
+    "stock": 13,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=2500A%20Car%20Jump%20Starter%20Power%20Bank%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=2500A%20Car%20Jump%20Starter%20Power%20Bank%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=2500A%20Car%20Jump%20Starter%20Power%20Bank%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-039",
+    "name": "Propane Tank Dual Regulator Hose — Heavy-Duty Contractors Grade",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 645,
+    "ship": 14.99,
+    "stock": 18,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Propane%20Tank%20Dual%20Regulator%20Hose%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Propane%20Tank%20Dual%20Regulator%20Hose%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Propane%20Tank%20Dual%20Regulator%20Hose%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-040",
+    "name": "Pure Sine Wave 1500W Power Inverter — Heavy-Duty Contractors Grade",
+    "cat": "power",
+    "badge": "Backup Power",
+    "w": 673,
+    "ship": 14.99,
+    "stock": 6,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Pure%20Sine%20Wave%201500W%20Power%20Inverter%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Pure%20Sine%20Wave%201500W%20Power%20Inverter%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Pure%20Sine%20Wave%201500W%20Power%20Inverter%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-041",
+    "name": "10-Ft Water-Activated Flood Barrier — Pro Series",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 24,
+    "ship": 3.99,
+    "stock": 11,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=10-Ft%20Water-Activated%20Flood%20Barrier%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=10-Ft%20Water-Activated%20Flood%20Barrier%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=10-Ft%20Water-Activated%20Flood%20Barrier%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-042",
+    "name": "Garage Door Quick-Dam Flood Shield — Pro Series",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 33.5,
+    "ship": 3.99,
+    "stock": 16,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Garage%20Door%20Quick-Dam%20Flood%20Shield%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Garage%20Door%20Quick-Dam%20Flood%20Shield%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Garage%20Door%20Quick-Dam%20Flood%20Shield%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-043",
+    "name": "1/2-HP Submersible Utility Sump Pump — Pro Series",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 43,
+    "ship": 3.99,
+    "stock": 21,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=1%2F2-HP%20Submersible%20Utility%20Sump%20Pump%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=1%2F2-HP%20Submersible%20Utility%20Sump%20Pump%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=1%2F2-HP%20Submersible%20Utility%20Sump%20Pump%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-044",
+    "name": "Reinforced 20x30 Hurricane Roof Tarp — Pro Series",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 52.5,
+    "ship": 3.99,
+    "stock": 9,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Reinforced%2020x30%20Hurricane%20Roof%20Tarp%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Reinforced%2020x30%20Hurricane%20Roof%20Tarp%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Reinforced%2020x30%20Hurricane%20Roof%20Tarp%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-045",
+    "name": "NOAA Hand-Crank Solar Weather Radio — Pro Series",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 62,
+    "ship": 5.99,
+    "stock": 14,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=NOAA%20Hand-Crank%20Solar%20Weather%20Radio%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=NOAA%20Hand-Crank%20Solar%20Weather%20Radio%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=NOAA%20Hand-Crank%20Solar%20Weather%20Radio%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-046",
+    "name": "Heavy-Duty Sandbag 25-Pack Bundle — Pro Series",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 71.5,
+    "ship": 5.99,
+    "stock": 19,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Heavy-Duty%20Sandbag%2025-Pack%20Bundle%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Heavy-Duty%20Sandbag%2025-Pack%20Bundle%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Heavy-Duty%20Sandbag%2025-Pack%20Bundle%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-047",
+    "name": "Window Shatter-Guard Storm Film — Pro Series",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 81,
+    "ship": 5.99,
+    "stock": 7,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Window%20Shatter-Guard%20Storm%20Film%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Window%20Shatter-Guard%20Storm%20Film%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Window%20Shatter-Guard%20Storm%20Film%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-048",
+    "name": "Cordless Brushless Storm Chainsaw — Pro Series",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 90.5,
+    "ship": 5.99,
+    "stock": 12,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Cordless%20Brushless%20Storm%20Chainsaw%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Cordless%20Brushless%20Storm%20Chainsaw%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Cordless%20Brushless%20Storm%20Chainsaw%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-049",
+    "name": "Waterproof Chest Waders & Boots — Pro Series",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 100,
+    "ship": 5.99,
+    "stock": 17,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Waterproof%20Chest%20Waders%20%26%20Boots%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Waterproof%20Chest%20Waders%20%26%20Boots%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Waterproof%20Chest%20Waders%20%26%20Boots%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-050",
+    "name": "25-Ft Discharge Sump Hose Kit — Pro Series",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 109.5,
+    "ship": 5.99,
+    "stock": 5,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=25-Ft%20Discharge%20Sump%20Hose%20Kit%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=25-Ft%20Discharge%20Sump%20Hose%20Kit%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=25-Ft%20Discharge%20Sump%20Hose%20Kit%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-051",
+    "name": "10-Ft Water-Activated Flood Barrier — Storm-Shield Edition",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 62,
+    "ship": 5.99,
+    "stock": 10,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=10-Ft%20Water-Activated%20Flood%20Barrier%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=10-Ft%20Water-Activated%20Flood%20Barrier%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=10-Ft%20Water-Activated%20Flood%20Barrier%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-052",
+    "name": "Garage Door Quick-Dam Flood Shield — Storm-Shield Edition",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 71.5,
+    "ship": 5.99,
+    "stock": 15,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Garage%20Door%20Quick-Dam%20Flood%20Shield%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Garage%20Door%20Quick-Dam%20Flood%20Shield%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Garage%20Door%20Quick-Dam%20Flood%20Shield%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-053",
+    "name": "1/2-HP Submersible Utility Sump Pump — Storm-Shield Edition",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 81,
+    "ship": 5.99,
+    "stock": 20,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=1%2F2-HP%20Submersible%20Utility%20Sump%20Pump%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=1%2F2-HP%20Submersible%20Utility%20Sump%20Pump%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=1%2F2-HP%20Submersible%20Utility%20Sump%20Pump%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-054",
+    "name": "Reinforced 20x30 Hurricane Roof Tarp — Storm-Shield Edition",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 90.5,
+    "ship": 5.99,
+    "stock": 8,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Reinforced%2020x30%20Hurricane%20Roof%20Tarp%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Reinforced%2020x30%20Hurricane%20Roof%20Tarp%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Reinforced%2020x30%20Hurricane%20Roof%20Tarp%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-055",
+    "name": "NOAA Hand-Crank Solar Weather Radio — Storm-Shield Edition",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 100,
+    "ship": 5.99,
+    "stock": 13,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=NOAA%20Hand-Crank%20Solar%20Weather%20Radio%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=NOAA%20Hand-Crank%20Solar%20Weather%20Radio%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=NOAA%20Hand-Crank%20Solar%20Weather%20Radio%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-056",
+    "name": "Heavy-Duty Sandbag 25-Pack Bundle — Storm-Shield Edition",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 109.5,
+    "ship": 5.99,
+    "stock": 18,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Heavy-Duty%20Sandbag%2025-Pack%20Bundle%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Heavy-Duty%20Sandbag%2025-Pack%20Bundle%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Heavy-Duty%20Sandbag%2025-Pack%20Bundle%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-057",
+    "name": "Window Shatter-Guard Storm Film — Storm-Shield Edition",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 119,
+    "ship": 5.99,
+    "stock": 6,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Window%20Shatter-Guard%20Storm%20Film%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Window%20Shatter-Guard%20Storm%20Film%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Window%20Shatter-Guard%20Storm%20Film%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-058",
+    "name": "Cordless Brushless Storm Chainsaw — Storm-Shield Edition",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 128.5,
+    "ship": 5.99,
+    "stock": 11,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Cordless%20Brushless%20Storm%20Chainsaw%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Cordless%20Brushless%20Storm%20Chainsaw%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Cordless%20Brushless%20Storm%20Chainsaw%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-059",
+    "name": "Waterproof Chest Waders & Boots — Storm-Shield Edition",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 138,
+    "ship": 5.99,
+    "stock": 16,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Waterproof%20Chest%20Waders%20%26%20Boots%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Waterproof%20Chest%20Waders%20%26%20Boots%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Waterproof%20Chest%20Waders%20%26%20Boots%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-060",
+    "name": "25-Ft Discharge Sump Hose Kit — Storm-Shield Edition",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 147.5,
+    "ship": 5.99,
+    "stock": 21,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=25-Ft%20Discharge%20Sump%20Hose%20Kit%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=25-Ft%20Discharge%20Sump%20Hose%20Kit%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=25-Ft%20Discharge%20Sump%20Hose%20Kit%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-061",
+    "name": "10-Ft Water-Activated Flood Barrier — Family Readiness Pack",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 100,
+    "ship": 5.99,
+    "stock": 9,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=10-Ft%20Water-Activated%20Flood%20Barrier%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=10-Ft%20Water-Activated%20Flood%20Barrier%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=10-Ft%20Water-Activated%20Flood%20Barrier%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-062",
+    "name": "Garage Door Quick-Dam Flood Shield — Family Readiness Pack",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 109.5,
+    "ship": 5.99,
+    "stock": 14,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Garage%20Door%20Quick-Dam%20Flood%20Shield%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Garage%20Door%20Quick-Dam%20Flood%20Shield%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Garage%20Door%20Quick-Dam%20Flood%20Shield%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-063",
+    "name": "1/2-HP Submersible Utility Sump Pump — Family Readiness Pack",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 119,
+    "ship": 5.99,
+    "stock": 19,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=1%2F2-HP%20Submersible%20Utility%20Sump%20Pump%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=1%2F2-HP%20Submersible%20Utility%20Sump%20Pump%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=1%2F2-HP%20Submersible%20Utility%20Sump%20Pump%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-064",
+    "name": "Reinforced 20x30 Hurricane Roof Tarp — Family Readiness Pack",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 128.5,
+    "ship": 5.99,
+    "stock": 7,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Reinforced%2020x30%20Hurricane%20Roof%20Tarp%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Reinforced%2020x30%20Hurricane%20Roof%20Tarp%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Reinforced%2020x30%20Hurricane%20Roof%20Tarp%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-065",
+    "name": "NOAA Hand-Crank Solar Weather Radio — Family Readiness Pack",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 138,
+    "ship": 5.99,
+    "stock": 12,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=NOAA%20Hand-Crank%20Solar%20Weather%20Radio%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=NOAA%20Hand-Crank%20Solar%20Weather%20Radio%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=NOAA%20Hand-Crank%20Solar%20Weather%20Radio%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-066",
+    "name": "Heavy-Duty Sandbag 25-Pack Bundle — Family Readiness Pack",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 147.5,
+    "ship": 5.99,
+    "stock": 17,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Heavy-Duty%20Sandbag%2025-Pack%20Bundle%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Heavy-Duty%20Sandbag%2025-Pack%20Bundle%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Heavy-Duty%20Sandbag%2025-Pack%20Bundle%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-067",
+    "name": "Window Shatter-Guard Storm Film — Family Readiness Pack",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 157,
+    "ship": 5.99,
+    "stock": 5,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Window%20Shatter-Guard%20Storm%20Film%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Window%20Shatter-Guard%20Storm%20Film%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Window%20Shatter-Guard%20Storm%20Film%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-068",
+    "name": "Cordless Brushless Storm Chainsaw — Family Readiness Pack",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 166.5,
+    "ship": 5.99,
+    "stock": 10,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Cordless%20Brushless%20Storm%20Chainsaw%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Cordless%20Brushless%20Storm%20Chainsaw%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Cordless%20Brushless%20Storm%20Chainsaw%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-069",
+    "name": "Waterproof Chest Waders & Boots — Family Readiness Pack",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 176,
+    "ship": 5.99,
+    "stock": 15,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Waterproof%20Chest%20Waders%20%26%20Boots%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Waterproof%20Chest%20Waders%20%26%20Boots%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Waterproof%20Chest%20Waders%20%26%20Boots%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-070",
+    "name": "25-Ft Discharge Sump Hose Kit — Family Readiness Pack",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 185.5,
+    "ship": 5.99,
+    "stock": 20,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=25-Ft%20Discharge%20Sump%20Hose%20Kit%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=25-Ft%20Discharge%20Sump%20Hose%20Kit%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=25-Ft%20Discharge%20Sump%20Hose%20Kit%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-071",
+    "name": "10-Ft Water-Activated Flood Barrier — Heavy-Duty Contractors Grade",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 138,
+    "ship": 5.99,
+    "stock": 8,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=10-Ft%20Water-Activated%20Flood%20Barrier%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=10-Ft%20Water-Activated%20Flood%20Barrier%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=10-Ft%20Water-Activated%20Flood%20Barrier%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-072",
+    "name": "Garage Door Quick-Dam Flood Shield — Heavy-Duty Contractors Grade",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 147.5,
+    "ship": 5.99,
+    "stock": 13,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Garage%20Door%20Quick-Dam%20Flood%20Shield%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Garage%20Door%20Quick-Dam%20Flood%20Shield%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Garage%20Door%20Quick-Dam%20Flood%20Shield%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-073",
+    "name": "1/2-HP Submersible Utility Sump Pump — Heavy-Duty Contractors Grade",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 157,
+    "ship": 5.99,
+    "stock": 18,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=1%2F2-HP%20Submersible%20Utility%20Sump%20Pump%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=1%2F2-HP%20Submersible%20Utility%20Sump%20Pump%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=1%2F2-HP%20Submersible%20Utility%20Sump%20Pump%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-074",
+    "name": "Reinforced 20x30 Hurricane Roof Tarp — Heavy-Duty Contractors Grade",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 166.5,
+    "ship": 5.99,
+    "stock": 6,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Reinforced%2020x30%20Hurricane%20Roof%20Tarp%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Reinforced%2020x30%20Hurricane%20Roof%20Tarp%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Reinforced%2020x30%20Hurricane%20Roof%20Tarp%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-075",
+    "name": "NOAA Hand-Crank Solar Weather Radio — Heavy-Duty Contractors Grade",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 176,
+    "ship": 5.99,
+    "stock": 11,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=NOAA%20Hand-Crank%20Solar%20Weather%20Radio%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=NOAA%20Hand-Crank%20Solar%20Weather%20Radio%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=NOAA%20Hand-Crank%20Solar%20Weather%20Radio%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-076",
+    "name": "Heavy-Duty Sandbag 25-Pack Bundle — Heavy-Duty Contractors Grade",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 185.5,
+    "ship": 5.99,
+    "stock": 16,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Heavy-Duty%20Sandbag%2025-Pack%20Bundle%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Heavy-Duty%20Sandbag%2025-Pack%20Bundle%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Heavy-Duty%20Sandbag%2025-Pack%20Bundle%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-077",
+    "name": "Window Shatter-Guard Storm Film — Heavy-Duty Contractors Grade",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 195,
+    "ship": 5.99,
+    "stock": 21,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Window%20Shatter-Guard%20Storm%20Film%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Window%20Shatter-Guard%20Storm%20Film%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Window%20Shatter-Guard%20Storm%20Film%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-078",
+    "name": "Cordless Brushless Storm Chainsaw — Heavy-Duty Contractors Grade",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 204.5,
+    "ship": 14.99,
+    "stock": 9,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Cordless%20Brushless%20Storm%20Chainsaw%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Cordless%20Brushless%20Storm%20Chainsaw%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Cordless%20Brushless%20Storm%20Chainsaw%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-079",
+    "name": "Waterproof Chest Waders & Boots — Heavy-Duty Contractors Grade",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 214,
+    "ship": 14.99,
+    "stock": 14,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Waterproof%20Chest%20Waders%20%26%20Boots%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Waterproof%20Chest%20Waders%20%26%20Boots%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Waterproof%20Chest%20Waders%20%26%20Boots%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-080",
+    "name": "25-Ft Discharge Sump Hose Kit — Heavy-Duty Contractors Grade",
+    "cat": "flood",
+    "badge": "Flood & Storm",
+    "w": 223.5,
+    "ship": 14.99,
+    "stock": 19,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=25-Ft%20Discharge%20Sump%20Hose%20Kit%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=25-Ft%20Discharge%20Sump%20Hose%20Kit%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=25-Ft%20Discharge%20Sump%20Hose%20Kit%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-081",
+    "name": "Stainless Gravity Water Filter 2.25G — Pro Series",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 18,
+    "ship": 3.99,
+    "stock": 7,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Stainless%20Gravity%20Water%20Filter%202.25G%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Stainless%20Gravity%20Water%20Filter%202.25G%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Stainless%20Gravity%20Water%20Filter%202.25G%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-082",
+    "name": "Stackable 5-Gal BPA-Free Water Brick — Pro Series",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 25.2,
+    "ship": 3.99,
+    "stock": 12,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Stackable%205-Gal%20BPA-Free%20Water%20Brick%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Stackable%205-Gal%20BPA-Free%20Water%20Brick%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Stackable%205-Gal%20BPA-Free%20Water%20Brick%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-083",
+    "name": "55-Gal Emergency Water Drum + Pump — Pro Series",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 32.4,
+    "ship": 3.99,
+    "stock": 17,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=55-Gal%20Emergency%20Water%20Drum%20%2B%20Pump%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=55-Gal%20Emergency%20Water%20Drum%20%2B%20Pump%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=55-Gal%20Emergency%20Water%20Drum%20%2B%20Pump%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-084",
+    "name": "Personal Survival Water Filter 4-Pack — Pro Series",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 39.6,
+    "ship": 3.99,
+    "stock": 5,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Personal%20Survival%20Water%20Filter%204-Pack%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Personal%20Survival%20Water%20Filter%204-Pack%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Personal%20Survival%20Water%20Filter%204-Pack%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-085",
+    "name": "Water Purification Tablets 500-Ct — Pro Series",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 46.8,
+    "ship": 3.99,
+    "stock": 10,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Water%20Purification%20Tablets%20500-Ct%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Water%20Purification%20Tablets%20500-Ct%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Water%20Purification%20Tablets%20500-Ct%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-086",
+    "name": "30-Day Freeze-Dried Entree Bucket — Pro Series",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 54,
+    "ship": 3.99,
+    "stock": 15,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=30-Day%20Freeze-Dried%20Entree%20Bucket%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=30-Day%20Freeze-Dried%20Entree%20Bucket%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=30-Day%20Freeze-Dried%20Entree%20Bucket%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-087",
+    "name": "72-Hour Family Emergency Meal Kit — Pro Series",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 61.2,
+    "ship": 5.99,
+    "stock": 20,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=72-Hour%20Family%20Emergency%20Meal%20Kit%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=72-Hour%20Family%20Emergency%20Meal%20Kit%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=72-Hour%20Family%20Emergency%20Meal%20Kit%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-088",
+    "name": "Dual-Fuel Butane Propane Camp Stove — Pro Series",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 68.4,
+    "ship": 5.99,
+    "stock": 8,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Dual-Fuel%20Butane%20Propane%20Camp%20Stove%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Dual-Fuel%20Butane%20Propane%20Camp%20Stove%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Dual-Fuel%20Butane%20Propane%20Camp%20Stove%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-089",
+    "name": "Collapsible 10-Gal Water Carrier — Pro Series",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 75.6,
+    "ship": 5.99,
+    "stock": 13,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Collapsible%2010-Gal%20Water%20Carrier%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Collapsible%2010-Gal%20Water%20Carrier%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Collapsible%2010-Gal%20Water%20Carrier%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-090",
+    "name": "Heirloom Survival Seed Vault Tin — Pro Series",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 82.8,
+    "ship": 5.99,
+    "stock": 18,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Heirloom%20Survival%20Seed%20Vault%20Tin%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Heirloom%20Survival%20Seed%20Vault%20Tin%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Heirloom%20Survival%20Seed%20Vault%20Tin%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-091",
+    "name": "Stainless Gravity Water Filter 2.25G — Storm-Shield Edition",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 46.8,
+    "ship": 3.99,
+    "stock": 6,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Stainless%20Gravity%20Water%20Filter%202.25G%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Stainless%20Gravity%20Water%20Filter%202.25G%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Stainless%20Gravity%20Water%20Filter%202.25G%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-092",
+    "name": "Stackable 5-Gal BPA-Free Water Brick — Storm-Shield Edition",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 54,
+    "ship": 3.99,
+    "stock": 11,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Stackable%205-Gal%20BPA-Free%20Water%20Brick%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Stackable%205-Gal%20BPA-Free%20Water%20Brick%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Stackable%205-Gal%20BPA-Free%20Water%20Brick%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-093",
+    "name": "55-Gal Emergency Water Drum + Pump — Storm-Shield Edition",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 61.2,
+    "ship": 5.99,
+    "stock": 16,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=55-Gal%20Emergency%20Water%20Drum%20%2B%20Pump%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=55-Gal%20Emergency%20Water%20Drum%20%2B%20Pump%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=55-Gal%20Emergency%20Water%20Drum%20%2B%20Pump%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-094",
+    "name": "Personal Survival Water Filter 4-Pack — Storm-Shield Edition",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 68.4,
+    "ship": 5.99,
+    "stock": 21,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Personal%20Survival%20Water%20Filter%204-Pack%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Personal%20Survival%20Water%20Filter%204-Pack%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Personal%20Survival%20Water%20Filter%204-Pack%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-095",
+    "name": "Water Purification Tablets 500-Ct — Storm-Shield Edition",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 75.6,
+    "ship": 5.99,
+    "stock": 9,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Water%20Purification%20Tablets%20500-Ct%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Water%20Purification%20Tablets%20500-Ct%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Water%20Purification%20Tablets%20500-Ct%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-096",
+    "name": "30-Day Freeze-Dried Entree Bucket — Storm-Shield Edition",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 82.8,
+    "ship": 5.99,
+    "stock": 14,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=30-Day%20Freeze-Dried%20Entree%20Bucket%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=30-Day%20Freeze-Dried%20Entree%20Bucket%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=30-Day%20Freeze-Dried%20Entree%20Bucket%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-097",
+    "name": "72-Hour Family Emergency Meal Kit — Storm-Shield Edition",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 90,
+    "ship": 5.99,
+    "stock": 19,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=72-Hour%20Family%20Emergency%20Meal%20Kit%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=72-Hour%20Family%20Emergency%20Meal%20Kit%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=72-Hour%20Family%20Emergency%20Meal%20Kit%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-098",
+    "name": "Dual-Fuel Butane Propane Camp Stove — Storm-Shield Edition",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 97.2,
+    "ship": 5.99,
+    "stock": 7,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Dual-Fuel%20Butane%20Propane%20Camp%20Stove%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Dual-Fuel%20Butane%20Propane%20Camp%20Stove%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Dual-Fuel%20Butane%20Propane%20Camp%20Stove%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-099",
+    "name": "Collapsible 10-Gal Water Carrier — Storm-Shield Edition",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 104.4,
+    "ship": 5.99,
+    "stock": 12,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Collapsible%2010-Gal%20Water%20Carrier%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Collapsible%2010-Gal%20Water%20Carrier%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Collapsible%2010-Gal%20Water%20Carrier%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-100",
+    "name": "Heirloom Survival Seed Vault Tin — Storm-Shield Edition",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 111.6,
+    "ship": 5.99,
+    "stock": 17,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Heirloom%20Survival%20Seed%20Vault%20Tin%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Heirloom%20Survival%20Seed%20Vault%20Tin%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Heirloom%20Survival%20Seed%20Vault%20Tin%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-101",
+    "name": "Stainless Gravity Water Filter 2.25G — Family Readiness Pack",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 75.6,
+    "ship": 5.99,
+    "stock": 5,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Stainless%20Gravity%20Water%20Filter%202.25G%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Stainless%20Gravity%20Water%20Filter%202.25G%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Stainless%20Gravity%20Water%20Filter%202.25G%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-102",
+    "name": "Stackable 5-Gal BPA-Free Water Brick — Family Readiness Pack",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 82.8,
+    "ship": 5.99,
+    "stock": 10,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Stackable%205-Gal%20BPA-Free%20Water%20Brick%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Stackable%205-Gal%20BPA-Free%20Water%20Brick%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Stackable%205-Gal%20BPA-Free%20Water%20Brick%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-103",
+    "name": "55-Gal Emergency Water Drum + Pump — Family Readiness Pack",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 90,
+    "ship": 5.99,
+    "stock": 15,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=55-Gal%20Emergency%20Water%20Drum%20%2B%20Pump%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=55-Gal%20Emergency%20Water%20Drum%20%2B%20Pump%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=55-Gal%20Emergency%20Water%20Drum%20%2B%20Pump%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-104",
+    "name": "Personal Survival Water Filter 4-Pack — Family Readiness Pack",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 97.2,
+    "ship": 5.99,
+    "stock": 20,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Personal%20Survival%20Water%20Filter%204-Pack%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Personal%20Survival%20Water%20Filter%204-Pack%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Personal%20Survival%20Water%20Filter%204-Pack%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-105",
+    "name": "Water Purification Tablets 500-Ct — Family Readiness Pack",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 104.4,
+    "ship": 5.99,
+    "stock": 8,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Water%20Purification%20Tablets%20500-Ct%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Water%20Purification%20Tablets%20500-Ct%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Water%20Purification%20Tablets%20500-Ct%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-106",
+    "name": "30-Day Freeze-Dried Entree Bucket — Family Readiness Pack",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 111.6,
+    "ship": 5.99,
+    "stock": 13,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=30-Day%20Freeze-Dried%20Entree%20Bucket%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=30-Day%20Freeze-Dried%20Entree%20Bucket%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=30-Day%20Freeze-Dried%20Entree%20Bucket%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-107",
+    "name": "72-Hour Family Emergency Meal Kit — Family Readiness Pack",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 118.8,
+    "ship": 5.99,
+    "stock": 18,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=72-Hour%20Family%20Emergency%20Meal%20Kit%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=72-Hour%20Family%20Emergency%20Meal%20Kit%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=72-Hour%20Family%20Emergency%20Meal%20Kit%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-108",
+    "name": "Dual-Fuel Butane Propane Camp Stove — Family Readiness Pack",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 126,
+    "ship": 5.99,
+    "stock": 6,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Dual-Fuel%20Butane%20Propane%20Camp%20Stove%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Dual-Fuel%20Butane%20Propane%20Camp%20Stove%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Dual-Fuel%20Butane%20Propane%20Camp%20Stove%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-109",
+    "name": "Collapsible 10-Gal Water Carrier — Family Readiness Pack",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 133.2,
+    "ship": 5.99,
+    "stock": 11,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Collapsible%2010-Gal%20Water%20Carrier%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Collapsible%2010-Gal%20Water%20Carrier%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Collapsible%2010-Gal%20Water%20Carrier%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-110",
+    "name": "Heirloom Survival Seed Vault Tin — Family Readiness Pack",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 140.4,
+    "ship": 5.99,
+    "stock": 16,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Heirloom%20Survival%20Seed%20Vault%20Tin%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Heirloom%20Survival%20Seed%20Vault%20Tin%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Heirloom%20Survival%20Seed%20Vault%20Tin%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-111",
+    "name": "Stainless Gravity Water Filter 2.25G — Heavy-Duty Contractors Grade",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 104.4,
+    "ship": 5.99,
+    "stock": 21,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Stainless%20Gravity%20Water%20Filter%202.25G%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Stainless%20Gravity%20Water%20Filter%202.25G%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Stainless%20Gravity%20Water%20Filter%202.25G%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-112",
+    "name": "Stackable 5-Gal BPA-Free Water Brick — Heavy-Duty Contractors Grade",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 111.6,
+    "ship": 5.99,
+    "stock": 9,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Stackable%205-Gal%20BPA-Free%20Water%20Brick%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Stackable%205-Gal%20BPA-Free%20Water%20Brick%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Stackable%205-Gal%20BPA-Free%20Water%20Brick%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-113",
+    "name": "55-Gal Emergency Water Drum + Pump — Heavy-Duty Contractors Grade",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 118.8,
+    "ship": 5.99,
+    "stock": 14,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=55-Gal%20Emergency%20Water%20Drum%20%2B%20Pump%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=55-Gal%20Emergency%20Water%20Drum%20%2B%20Pump%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=55-Gal%20Emergency%20Water%20Drum%20%2B%20Pump%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-114",
+    "name": "Personal Survival Water Filter 4-Pack — Heavy-Duty Contractors Grade",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 126,
+    "ship": 5.99,
+    "stock": 19,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Personal%20Survival%20Water%20Filter%204-Pack%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Personal%20Survival%20Water%20Filter%204-Pack%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Personal%20Survival%20Water%20Filter%204-Pack%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-115",
+    "name": "Water Purification Tablets 500-Ct — Heavy-Duty Contractors Grade",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 133.2,
+    "ship": 5.99,
+    "stock": 7,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Water%20Purification%20Tablets%20500-Ct%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Water%20Purification%20Tablets%20500-Ct%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Water%20Purification%20Tablets%20500-Ct%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-116",
+    "name": "30-Day Freeze-Dried Entree Bucket — Heavy-Duty Contractors Grade",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 140.4,
+    "ship": 5.99,
+    "stock": 12,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=30-Day%20Freeze-Dried%20Entree%20Bucket%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=30-Day%20Freeze-Dried%20Entree%20Bucket%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=30-Day%20Freeze-Dried%20Entree%20Bucket%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-117",
+    "name": "72-Hour Family Emergency Meal Kit — Heavy-Duty Contractors Grade",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 147.6,
+    "ship": 5.99,
+    "stock": 17,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=72-Hour%20Family%20Emergency%20Meal%20Kit%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=72-Hour%20Family%20Emergency%20Meal%20Kit%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=72-Hour%20Family%20Emergency%20Meal%20Kit%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-118",
+    "name": "Dual-Fuel Butane Propane Camp Stove — Heavy-Duty Contractors Grade",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 154.8,
+    "ship": 5.99,
+    "stock": 5,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Dual-Fuel%20Butane%20Propane%20Camp%20Stove%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Dual-Fuel%20Butane%20Propane%20Camp%20Stove%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Dual-Fuel%20Butane%20Propane%20Camp%20Stove%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-119",
+    "name": "Collapsible 10-Gal Water Carrier — Heavy-Duty Contractors Grade",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 162,
+    "ship": 5.99,
+    "stock": 10,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Collapsible%2010-Gal%20Water%20Carrier%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Collapsible%2010-Gal%20Water%20Carrier%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Collapsible%2010-Gal%20Water%20Carrier%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-120",
+    "name": "Heirloom Survival Seed Vault Tin — Heavy-Duty Contractors Grade",
+    "cat": "water",
+    "badge": "Water & Rations",
+    "w": 169.2,
+    "ship": 5.99,
+    "stock": 15,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Heirloom%20Survival%20Seed%20Vault%20Tin%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Heirloom%20Survival%20Seed%20Vault%20Tin%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Heirloom%20Survival%20Seed%20Vault%20Tin%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-121",
+    "name": "Family Trauma IFAK First-Aid Station — Pro Series",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 16,
+    "ship": 3.99,
+    "stock": 20,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Family%20Trauma%20IFAK%20First-Aid%20Station%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Family%20Trauma%20IFAK%20First-Aid%20Station%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Family%20Trauma%20IFAK%20First-Aid%20Station%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-122",
+    "name": "72-Hour Hurricane Bug-Out Backpack — Pro Series",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 22.4,
+    "ship": 3.99,
+    "stock": 8,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=72-Hour%20Hurricane%20Bug-Out%20Backpack%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=72-Hour%20Hurricane%20Bug-Out%20Backpack%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=72-Hour%20Hurricane%20Bug-Out%20Backpack%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-123",
+    "name": "3000-Lumen Rechargeable Storm Lantern — Pro Series",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 28.8,
+    "ship": 3.99,
+    "stock": 13,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=3000-Lumen%20Rechargeable%20Storm%20Lantern%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=3000-Lumen%20Rechargeable%20Storm%20Lantern%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=3000-Lumen%20Rechargeable%20Storm%20Lantern%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-124",
+    "name": "Fireproof Waterproof Deed & ID Safe — Pro Series",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 35.2,
+    "ship": 3.99,
+    "stock": 18,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Fireproof%20Waterproof%20Deed%20%26%20ID%20Safe%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Fireproof%20Waterproof%20Deed%20%26%20ID%20Safe%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Fireproof%20Waterproof%20Deed%20%26%20ID%20Safe%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-125",
+    "name": "Battery Carbon Monoxide Storm Alarm — Pro Series",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 41.6,
+    "ship": 3.99,
+    "stock": 6,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Battery%20Carbon%20Monoxide%20Storm%20Alarm%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Battery%20Carbon%20Monoxide%20Storm%20Alarm%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Battery%20Carbon%20Monoxide%20Storm%20Alarm%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-126",
+    "name": "Thermal Mylar Emergency Blanket 10-Pk — Pro Series",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 48,
+    "ship": 3.99,
+    "stock": 11,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Thermal%20Mylar%20Emergency%20Blanket%2010-Pk%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Thermal%20Mylar%20Emergency%20Blanket%2010-Pk%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Thermal%20Mylar%20Emergency%20Blanket%2010-Pk%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-127",
+    "name": "Long-Range GMRS Two-Way Radio Pair — Pro Series",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 54.4,
+    "ship": 3.99,
+    "stock": 16,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Long-Range%20GMRS%20Two-Way%20Radio%20Pair%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Long-Range%20GMRS%20Two-Way%20Radio%20Pair%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Long-Range%20GMRS%20Two-Way%20Radio%20Pair%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-128",
+    "name": "Headlamp Rechargeable 4-Pack Kit — Pro Series",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 60.8,
+    "ship": 3.99,
+    "stock": 21,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Headlamp%20Rechargeable%204-Pack%20Kit%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Headlamp%20Rechargeable%204-Pack%20Kit%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Headlamp%20Rechargeable%204-Pack%20Kit%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-129",
+    "name": "Pet Hurricane Evacuation Carrier Kit — Pro Series",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 67.2,
+    "ship": 3.99,
+    "stock": 9,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Pet%20Hurricane%20Evacuation%20Carrier%20Kit%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Pet%20Hurricane%20Evacuation%20Carrier%20Kit%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Pet%20Hurricane%20Evacuation%20Carrier%20Kit%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-130",
+    "name": "Heavy-Duty Pry Bar & Shutoff Wrench — Pro Series",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 73.6,
+    "ship": 3.99,
+    "stock": 14,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Heavy-Duty%20Pry%20Bar%20%26%20Shutoff%20Wrench%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Heavy-Duty%20Pry%20Bar%20%26%20Shutoff%20Wrench%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Heavy-Duty%20Pry%20Bar%20%26%20Shutoff%20Wrench%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-131",
+    "name": "Family Trauma IFAK First-Aid Station — Storm-Shield Edition",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 41.6,
+    "ship": 3.99,
+    "stock": 19,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Family%20Trauma%20IFAK%20First-Aid%20Station%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Family%20Trauma%20IFAK%20First-Aid%20Station%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Family%20Trauma%20IFAK%20First-Aid%20Station%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-132",
+    "name": "72-Hour Hurricane Bug-Out Backpack — Storm-Shield Edition",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 48,
+    "ship": 3.99,
+    "stock": 7,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=72-Hour%20Hurricane%20Bug-Out%20Backpack%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=72-Hour%20Hurricane%20Bug-Out%20Backpack%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=72-Hour%20Hurricane%20Bug-Out%20Backpack%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-133",
+    "name": "3000-Lumen Rechargeable Storm Lantern — Storm-Shield Edition",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 54.4,
+    "ship": 3.99,
+    "stock": 12,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=3000-Lumen%20Rechargeable%20Storm%20Lantern%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=3000-Lumen%20Rechargeable%20Storm%20Lantern%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=3000-Lumen%20Rechargeable%20Storm%20Lantern%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-134",
+    "name": "Fireproof Waterproof Deed & ID Safe — Storm-Shield Edition",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 60.8,
+    "ship": 3.99,
+    "stock": 17,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Fireproof%20Waterproof%20Deed%20%26%20ID%20Safe%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Fireproof%20Waterproof%20Deed%20%26%20ID%20Safe%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Fireproof%20Waterproof%20Deed%20%26%20ID%20Safe%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-135",
+    "name": "Battery Carbon Monoxide Storm Alarm — Storm-Shield Edition",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 67.2,
+    "ship": 3.99,
+    "stock": 5,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Battery%20Carbon%20Monoxide%20Storm%20Alarm%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Battery%20Carbon%20Monoxide%20Storm%20Alarm%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Battery%20Carbon%20Monoxide%20Storm%20Alarm%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-136",
+    "name": "Thermal Mylar Emergency Blanket 10-Pk — Storm-Shield Edition",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 73.6,
+    "ship": 3.99,
+    "stock": 10,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Thermal%20Mylar%20Emergency%20Blanket%2010-Pk%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Thermal%20Mylar%20Emergency%20Blanket%2010-Pk%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Thermal%20Mylar%20Emergency%20Blanket%2010-Pk%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-137",
+    "name": "Long-Range GMRS Two-Way Radio Pair — Storm-Shield Edition",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 80,
+    "ship": 3.99,
+    "stock": 15,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Long-Range%20GMRS%20Two-Way%20Radio%20Pair%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Long-Range%20GMRS%20Two-Way%20Radio%20Pair%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Long-Range%20GMRS%20Two-Way%20Radio%20Pair%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-138",
+    "name": "Headlamp Rechargeable 4-Pack Kit — Storm-Shield Edition",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 86.4,
+    "ship": 3.99,
+    "stock": 20,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Headlamp%20Rechargeable%204-Pack%20Kit%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Headlamp%20Rechargeable%204-Pack%20Kit%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Headlamp%20Rechargeable%204-Pack%20Kit%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-139",
+    "name": "Pet Hurricane Evacuation Carrier Kit — Storm-Shield Edition",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 92.8,
+    "ship": 3.99,
+    "stock": 8,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Pet%20Hurricane%20Evacuation%20Carrier%20Kit%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Pet%20Hurricane%20Evacuation%20Carrier%20Kit%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Pet%20Hurricane%20Evacuation%20Carrier%20Kit%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-140",
+    "name": "Heavy-Duty Pry Bar & Shutoff Wrench — Storm-Shield Edition",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 99.2,
+    "ship": 3.99,
+    "stock": 13,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Heavy-Duty%20Pry%20Bar%20%26%20Shutoff%20Wrench%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Heavy-Duty%20Pry%20Bar%20%26%20Shutoff%20Wrench%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Heavy-Duty%20Pry%20Bar%20%26%20Shutoff%20Wrench%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-141",
+    "name": "Family Trauma IFAK First-Aid Station — Family Readiness Pack",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 67.2,
+    "ship": 3.99,
+    "stock": 18,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Family%20Trauma%20IFAK%20First-Aid%20Station%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Family%20Trauma%20IFAK%20First-Aid%20Station%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Family%20Trauma%20IFAK%20First-Aid%20Station%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-142",
+    "name": "72-Hour Hurricane Bug-Out Backpack — Family Readiness Pack",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 73.6,
+    "ship": 3.99,
+    "stock": 6,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=72-Hour%20Hurricane%20Bug-Out%20Backpack%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=72-Hour%20Hurricane%20Bug-Out%20Backpack%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=72-Hour%20Hurricane%20Bug-Out%20Backpack%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-143",
+    "name": "3000-Lumen Rechargeable Storm Lantern — Family Readiness Pack",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 80,
+    "ship": 3.99,
+    "stock": 11,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=3000-Lumen%20Rechargeable%20Storm%20Lantern%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=3000-Lumen%20Rechargeable%20Storm%20Lantern%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=3000-Lumen%20Rechargeable%20Storm%20Lantern%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-144",
+    "name": "Fireproof Waterproof Deed & ID Safe — Family Readiness Pack",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 86.4,
+    "ship": 3.99,
+    "stock": 16,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Fireproof%20Waterproof%20Deed%20%26%20ID%20Safe%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Fireproof%20Waterproof%20Deed%20%26%20ID%20Safe%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Fireproof%20Waterproof%20Deed%20%26%20ID%20Safe%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-145",
+    "name": "Battery Carbon Monoxide Storm Alarm — Family Readiness Pack",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 92.8,
+    "ship": 3.99,
+    "stock": 21,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Battery%20Carbon%20Monoxide%20Storm%20Alarm%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Battery%20Carbon%20Monoxide%20Storm%20Alarm%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Battery%20Carbon%20Monoxide%20Storm%20Alarm%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-146",
+    "name": "Thermal Mylar Emergency Blanket 10-Pk — Family Readiness Pack",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 99.2,
+    "ship": 3.99,
+    "stock": 9,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Thermal%20Mylar%20Emergency%20Blanket%2010-Pk%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Thermal%20Mylar%20Emergency%20Blanket%2010-Pk%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Thermal%20Mylar%20Emergency%20Blanket%2010-Pk%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-147",
+    "name": "Long-Range GMRS Two-Way Radio Pair — Family Readiness Pack",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 105.6,
+    "ship": 3.99,
+    "stock": 14,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Long-Range%20GMRS%20Two-Way%20Radio%20Pair%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Long-Range%20GMRS%20Two-Way%20Radio%20Pair%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Long-Range%20GMRS%20Two-Way%20Radio%20Pair%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-148",
+    "name": "Headlamp Rechargeable 4-Pack Kit — Family Readiness Pack",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 112,
+    "ship": 3.99,
+    "stock": 19,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Headlamp%20Rechargeable%204-Pack%20Kit%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Headlamp%20Rechargeable%204-Pack%20Kit%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Headlamp%20Rechargeable%204-Pack%20Kit%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-149",
+    "name": "Pet Hurricane Evacuation Carrier Kit — Family Readiness Pack",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 118.4,
+    "ship": 3.99,
+    "stock": 7,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Pet%20Hurricane%20Evacuation%20Carrier%20Kit%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Pet%20Hurricane%20Evacuation%20Carrier%20Kit%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Pet%20Hurricane%20Evacuation%20Carrier%20Kit%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-150",
+    "name": "Heavy-Duty Pry Bar & Shutoff Wrench — Family Readiness Pack",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 124.8,
+    "ship": 3.99,
+    "stock": 12,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Heavy-Duty%20Pry%20Bar%20%26%20Shutoff%20Wrench%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Heavy-Duty%20Pry%20Bar%20%26%20Shutoff%20Wrench%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Heavy-Duty%20Pry%20Bar%20%26%20Shutoff%20Wrench%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-151",
+    "name": "Family Trauma IFAK First-Aid Station — Heavy-Duty Contractors Grade",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 92.8,
+    "ship": 3.99,
+    "stock": 17,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Family%20Trauma%20IFAK%20First-Aid%20Station%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Family%20Trauma%20IFAK%20First-Aid%20Station%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Family%20Trauma%20IFAK%20First-Aid%20Station%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-152",
+    "name": "72-Hour Hurricane Bug-Out Backpack — Heavy-Duty Contractors Grade",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 99.2,
+    "ship": 3.99,
+    "stock": 5,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=72-Hour%20Hurricane%20Bug-Out%20Backpack%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=72-Hour%20Hurricane%20Bug-Out%20Backpack%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=72-Hour%20Hurricane%20Bug-Out%20Backpack%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-153",
+    "name": "3000-Lumen Rechargeable Storm Lantern — Heavy-Duty Contractors Grade",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 105.6,
+    "ship": 3.99,
+    "stock": 10,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=3000-Lumen%20Rechargeable%20Storm%20Lantern%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=3000-Lumen%20Rechargeable%20Storm%20Lantern%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=3000-Lumen%20Rechargeable%20Storm%20Lantern%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-154",
+    "name": "Fireproof Waterproof Deed & ID Safe — Heavy-Duty Contractors Grade",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 112,
+    "ship": 3.99,
+    "stock": 15,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Fireproof%20Waterproof%20Deed%20%26%20ID%20Safe%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Fireproof%20Waterproof%20Deed%20%26%20ID%20Safe%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Fireproof%20Waterproof%20Deed%20%26%20ID%20Safe%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-155",
+    "name": "Battery Carbon Monoxide Storm Alarm — Heavy-Duty Contractors Grade",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 118.4,
+    "ship": 3.99,
+    "stock": 20,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Battery%20Carbon%20Monoxide%20Storm%20Alarm%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Battery%20Carbon%20Monoxide%20Storm%20Alarm%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Battery%20Carbon%20Monoxide%20Storm%20Alarm%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-156",
+    "name": "Thermal Mylar Emergency Blanket 10-Pk — Heavy-Duty Contractors Grade",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 124.8,
+    "ship": 3.99,
+    "stock": 8,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Thermal%20Mylar%20Emergency%20Blanket%2010-Pk%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Thermal%20Mylar%20Emergency%20Blanket%2010-Pk%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Thermal%20Mylar%20Emergency%20Blanket%2010-Pk%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-157",
+    "name": "Long-Range GMRS Two-Way Radio Pair — Heavy-Duty Contractors Grade",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 131.2,
+    "ship": 3.99,
+    "stock": 13,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Long-Range%20GMRS%20Two-Way%20Radio%20Pair%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Long-Range%20GMRS%20Two-Way%20Radio%20Pair%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Long-Range%20GMRS%20Two-Way%20Radio%20Pair%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-158",
+    "name": "Headlamp Rechargeable 4-Pack Kit — Heavy-Duty Contractors Grade",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 137.6,
+    "ship": 3.99,
+    "stock": 18,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Headlamp%20Rechargeable%204-Pack%20Kit%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Headlamp%20Rechargeable%204-Pack%20Kit%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Headlamp%20Rechargeable%204-Pack%20Kit%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-159",
+    "name": "Pet Hurricane Evacuation Carrier Kit — Heavy-Duty Contractors Grade",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 144,
+    "ship": 3.99,
+    "stock": 6,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Pet%20Hurricane%20Evacuation%20Carrier%20Kit%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Pet%20Hurricane%20Evacuation%20Carrier%20Kit%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Pet%20Hurricane%20Evacuation%20Carrier%20Kit%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  },
+  {
+    "id": "EM-160",
+    "name": "Heavy-Duty Pry Bar & Shutoff Wrench — Heavy-Duty Contractors Grade",
+    "cat": "trauma",
+    "badge": "Trauma & Go-Bags",
+    "w": 150.4,
+    "ship": 3.99,
+    "stock": 11,
+    "imgs": [
+      "https://tse1.mm.bing.net/th?q=Heavy-Duty%20Pry%20Bar%20%26%20Shutoff%20Wrench%20product%20photo&w=700&h=520&c=7",
+      "https://tse2.mm.bing.net/th?q=Heavy-Duty%20Pry%20Bar%20%26%20Shutoff%20Wrench%20emergency%20gear&w=700&h=520&c=7",
+      "https://tse3.mm.bing.net/th?q=Heavy-Duty%20Pry%20Bar%20%26%20Shutoff%20Wrench%20closeup%20kit&w=700&h=520&c=7"
+    ]
+  }
+];

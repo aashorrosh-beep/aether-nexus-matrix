@@ -1,202 +1,39 @@
 "use client";
-import React from "react";
-import StoreCatalogView, { MallItem } from "../../components/StoreCatalogView";
-
-const ITEMS: MallItem[] = [
-  {
-    "id": "ST-101",
-    "name": "Smart App-Guided Deep-Space 114mm Telescope",
-    "cat": "all",
-    "tier": "T1",
-    "tierLabel": "Tier 1 • $3.99 Ship",
-    "w": 22,
-    "ship": 3.99,
-    "stock": 6,
-    "imgs": [
-      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=600&q=80",
-      "https://picsum.photos/seed/ST-0-2/600/420",
-      "https://picsum.photos/seed/ST-0-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-  },
-  {
-    "id": "ST-102",
-    "name": "Graphene 9H Ceramic Pro Auto Coating Kit",
-    "cat": "all",
-    "tier": "T2",
-    "tierLabel": "Tier 2 • $5.99 Ship",
-    "w": 40.5,
-    "ship": 5.99,
-    "stock": 11,
-    "imgs": [
-      "https://picsum.photos/seed/ST-1-1/600/420",
-      "https://picsum.photos/seed/ST-1-2/600/420",
-      "https://picsum.photos/seed/ST-1-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
-  },
-  {
-    "id": "ST-103",
-    "name": "Dual-Action Variable Speed Orbital Car Polisher",
-    "cat": "all",
-    "tier": "T3",
-    "tierLabel": "Tier 3 • $7.99 Ship",
-    "w": 59,
-    "ship": 7.99,
-    "stock": 16,
-    "imgs": [
-      "https://picsum.photos/seed/ST-2-1/600/420",
-      "https://picsum.photos/seed/ST-2-2/600/420",
-      "https://picsum.photos/seed/ST-2-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
-  },
-  {
-    "id": "ST-104",
-    "name": "8-Inch Dobsonian Lunar & Planetary Reflector",
-    "cat": "all",
-    "tier": "T1",
-    "tierLabel": "Tier 1 • $3.99 Ship",
-    "w": 77.5,
-    "ship": 3.99,
-    "stock": 21,
-    "imgs": [
-      "https://picsum.photos/seed/ST-3-1/600/420",
-      "https://picsum.photos/seed/ST-3-2/600/420",
-      "https://picsum.photos/seed/ST-3-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
-  },
-  {
-    "id": "ST-105",
-    "name": "4K Front & Rear Night-Vision Dashcam Pro",
-    "cat": "all",
-    "tier": "T2",
-    "tierLabel": "Tier 2 • $5.99 Ship",
-    "w": 96,
-    "ship": 5.99,
-    "stock": 7,
-    "imgs": [
-      "https://picsum.photos/seed/ST-4-1/600/420",
-      "https://picsum.photos/seed/ST-4-2/600/420",
-      "https://picsum.photos/seed/ST-4-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-  },
-  {
-    "id": "ST-106",
-    "name": "Astrophotography Smartphone & DSLR Eyepiece Rig",
-    "cat": "all",
-    "tier": "T3",
-    "tierLabel": "Tier 3 • $7.99 Ship",
-    "w": 114.5,
-    "ship": 7.99,
-    "stock": 12,
-    "imgs": [
-      "https://picsum.photos/seed/ST-5-1/600/420",
-      "https://picsum.photos/seed/ST-5-2/600/420",
-      "https://picsum.photos/seed/ST-5-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
-  },
-  {
-    "id": "ST-107",
-    "name": "High-Pressure Foam Cannon & Detailing Arsenal",
-    "cat": "all",
-    "tier": "T1",
-    "tierLabel": "Tier 1 • $3.99 Ship",
-    "w": 133,
-    "ship": 3.99,
-    "stock": 17,
-    "imgs": [
-      "https://picsum.photos/seed/ST-6-1/600/420",
-      "https://picsum.photos/seed/ST-6-2/600/420",
-      "https://picsum.photos/seed/ST-6-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
-  },
-  {
-    "id": "ST-108",
-    "name": "Carbon-Fiber Magnetic Phone Telemetry Mount",
-    "cat": "all",
-    "tier": "T2",
-    "tierLabel": "Tier 2 • $5.99 Ship",
-    "w": 151.5,
-    "ship": 5.99,
-    "stock": 22,
-    "imgs": [
-      "https://picsum.photos/seed/ST-7-1/600/420",
-      "https://picsum.photos/seed/ST-7-2/600/420",
-      "https://picsum.photos/seed/ST-7-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
-  },
-  {
-    "id": "ST-109",
-    "name": "80mm Travel Refractor Scope & Tripod Backpack",
-    "cat": "all",
-    "tier": "T3",
-    "tierLabel": "Tier 3 • $7.99 Ship",
-    "w": 170,
-    "ship": 7.99,
-    "stock": 8,
-    "imgs": [
-      "https://picsum.photos/seed/ST-8-1/600/420",
-      "https://picsum.photos/seed/ST-8-2/600/420",
-      "https://picsum.photos/seed/ST-8-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-  },
-  {
-    "id": "ST-110",
-    "name": "Cordless Tire Inflator & 2000A Jump Starter",
-    "cat": "all",
-    "tier": "T1",
-    "tierLabel": "Tier 1 • $3.99 Ship",
-    "w": 188.5,
-    "ship": 3.99,
-    "stock": 13,
-    "imgs": [
-      "https://picsum.photos/seed/ST-9-1/600/420",
-      "https://picsum.photos/seed/ST-9-2/600/420",
-      "https://picsum.photos/seed/ST-9-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
-  },
-  {
-    "id": "ST-111",
-    "name": "Alcantara & Leather Interior Restoration Kit",
-    "cat": "all",
-    "tier": "T2",
-    "tierLabel": "Tier 2 • $5.99 Ship",
-    "w": 207,
-    "ship": 5.99,
-    "stock": 18,
-    "imgs": [
-      "https://picsum.photos/seed/ST-10-1/600/420",
-      "https://picsum.photos/seed/ST-10-2/600/420",
-      "https://picsum.photos/seed/ST-10-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
-  },
-  {
-    "id": "ST-112",
-    "name": "Solar Filter & Crater Moon Lens Case",
-    "cat": "all",
-    "tier": "T3",
-    "tierLabel": "Tier 3 • $7.99 Ship",
-    "w": 225.5,
-    "ship": 7.99,
-    "stock": 23,
-    "imgs": [
-      "https://picsum.photos/seed/ST-11-1/600/420",
-      "https://picsum.photos/seed/ST-11-2/600/420",
-      "https://picsum.photos/seed/ST-11-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
-  }
-];
-
-export default function MallPage() {
-  return <StoreCatalogView title="🔭 STARGAZER & PRO AUTO" accent="#38bdf8" items={ITEMS} showTiers={true} />;
-}
+import React, { useState, useEffect } from "react";
+import Link from "next/link";
+import { STAR_INV, calcSg } from "./stargazer-inventory";
+import NexusCheckoutModal from "../../components/NexusCheckoutModal";
+const CATS = [["all","All 160 Sky & Auto SKUs"],["telescopes","🔭 Telescopes"],["astro","🌌 Astro Cameras & Mounts"],["detailing","🚘 Pro Auto Detailing"],["garage","🏎️ Track & Garage Tech"]];
+const GUIDES = [["City Sky (Bortle 7-9)","Pair GoTo Cassegrain + Light-Pollution Nebula Filter (SG-001 + SG-044)"],["Dark Sky (Bortle 1-4)","Pair 10-In Dobsonian + 2-In Eyepiece Case (SG-002 + SG-043)"],["Black / Dark Clearcoat","Pair 9H Graphene Ceramic + 15mm Dual-Action Polisher (SG-083 + SG-084)"],["Track & Daily Performance","Pair Spot-Free Deionizer + Foam Cannon + 4K Dashcam (SG-085 + SG-121)"]];
+export default function StargazerAutoSilo() {
+  const [cat, setCat] = useState("all"), [q, setQ] = useState(""), [guideOpen, setGuideOpen] = useState(false), [gIdx, setGIdx] = useState(0);
+  const [ang, setAng] = useState<Record<string, number>>({}), [reelId, setReelId] = useState(""), [tick, setTick] = useState(0), [specId, setSpecId] = useState("");
+  const [cart, setCart] = useState<Record<string, number>>({}), [coOpen, setCoOpen] = useState(false), [coMode, setCoMode] = useState("order");
+  useEffect(() => { if (!reelId) return; const t = setInterval(() => setTick(s => s > 1 ? 0 : s + 1), 1300); return () => clearInterval(t); }, [reelId]);
+  const list = STAR_INV.filter(x => (cat === "all" ? true : x.cat === cat) && x.name.toLowerCase().includes(q.toLowerCase()));
+  const lines = STAR_INV.filter(x => (cart[x.id] ? cart[x.id] : 0) > 0), cnt = lines.reduce((s, x) => s + cart[x.id], 0);
+  const sub = +lines.reduce((s, x) => s + calcSg(x.w, x.ship).r * cart[x.id], 0).toFixed(2);
+  const ship = sub === 0 ? 0 : sub < 100 ? 3.99 : sub < 250 ? 5.99 : sub < 500 ? 9.99 : 14.99;
+  const tax = +(sub * 0.0825).toFixed(2), tot = sub === 0 ? 0 : +((sub + ship + tax + 0.3) / 0.971).toFixed(2);
+  const spec = STAR_INV.find(x => x.id === specId);
+  return (<div style={{ minHeight: "100vh", background: "#050914", color: "#f8fafc", padding: "18px 14px", fontFamily: "system-ui, sans-serif" }}>
+      <div style={{ maxWidth: 1280, margin: "0 auto" }}>
+        <div style={{ display: "flex", flexWrap: "wrap", justifyContent: "space-between", gap: 10, alignItems: "center", background: "linear-gradient(90deg,#0f172a,#1e3a8a,#7f1d1d)", padding: 16, borderRadius: 16, border: "1px solid #38bdf8", marginBottom: 14 }}>
+          <div><Link href="/" style={{ color: "#7dd3fc", fontSize: 12, textDecoration: "none", fontWeight: 800 }}>← ALBS NEXUS HUB</Link><h1 style={{ margin: "4px 0 0", fontSize: 22, fontWeight: 900 }}>🔭🏎️ STARGAZER & PRO AUTO • TELESCOPES & DETAILING</h1></div>
+          <div style={{ display: "flex", flexWrap: "wrap", gap: 8 }}><button onClick={() => setGuideOpen(!guideOpen)} style={{ background: "#2563eb", color: "#fff", fontWeight: 900, border: 0, borderRadius: 10, padding: "9px 14px", cursor: "pointer" }}>🌌 {guideOpen ? "Hide Matcher" : "Sky & Ceramic Matcher"}</button><button onClick={() => { setCoMode("giftcard"); setCoOpen(true); }} style={{ background: "#facc15", color: "#000", fontWeight: 900, border: 0, borderRadius: 10, padding: "9px 14px", cursor: "pointer" }}>🎁 Gift Cards ($0 Ship)</button><button onClick={() => { setCoMode("order"); setCoOpen(true); }} style={{ background: "#22c55e", color: "#000", fontWeight: 900, border: 0, borderRadius: 10, padding: "9px 14px", cursor: "pointer" }}>🛒 Bay Cart ({cnt}) • ${tot.toFixed(2)}</button></div>
+        </div>
+        {guideOpen ? (<div style={{ background: "#0f172a", border: "1px solid #38bdf8", borderRadius: 14, padding: 12, marginBottom: 14, display: "flex", flexWrap: "wrap", gap: 8, alignItems: "center" }}>{GUIDES.map((g, i) => <button key={g[0]} onClick={() => setGIdx(i)} style={{ background: gIdx === i ? "#38bdf8" : "#1e293b", color: gIdx === i ? "#000" : "#fff", border: 0, borderRadius: 8, padding: "7px 11px", fontWeight: 800, fontSize: 12, cursor: "pointer" }}>{g[0]}</button>)}<span style={{ color: "#fde047", fontWeight: 800, fontSize: 12 }}>→ Recommended Spec: {GUIDES[gIdx][1]}</span></div>) : null}
+        <div style={{ display: "flex", flexWrap: "wrap", gap: 8, marginBottom: 14 }}>{CATS.map(([k, lbl]) => <button key={k} onClick={() => setCat(k)} style={{ padding: "8px 12px", borderRadius: 999, border: 0, fontWeight: 800, fontSize: 12, cursor: "pointer", background: cat === k ? "#2563eb" : "#1e293b", color: "#fff" }}>{lbl}</button>)}<input placeholder="Search GoTo telescopes, astro cams, foam cannons, ceramic coating..." value={q} onChange={e => setQ(e.target.value)} style={{ flex: 1, minWidth: 210, background: "#0f172a", border: "1px solid #334155", color: "#fff", borderRadius: 999, padding: "8px 14px", fontSize: 12 }} /></div>
+        <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(255px, 1fr))", gap: 14 }}>
+          {list.map(x => { const m = calcSg(x.w, x.ship), k = reelId === x.id ? tick : (ang[x.id] ? ang[x.id] : 0); return (
+            <div key={x.id} style={{ background: "#0f172a", border: "1px solid #1e293b", borderRadius: 14, padding: 10, display: "flex", flexDirection: "column", gap: 7 }}>
+              <div style={{ position: "relative", height: 185, borderRadius: 10, overflow: "hidden", background: "#020617", display: "flex" }}><img src={x.imgs[k]} alt={x.name} referrerPolicy="no-referrer" style={{ objectFit: "cover", height: 185, flex: 1 }} /><span style={{ position: "absolute", top: 6, left: 6, background: x.stock < 8 ? "#dc2626" : "#1d4ed8", padding: "2px 8px", borderRadius: 6, fontSize: 10, fontWeight: 900 }}>{x.stock < 8 ? `🔥 ONLY ${x.stock} LEFT` : x.badge}</span><button onClick={() => setReelId(reelId === x.id ? "" : x.id)} style={{ position: "absolute", bottom: 6, right: 6, background: "#09090b", color: "#38bdf8", border: "1px solid #38bdf8", borderRadius: 6, fontSize: 10, fontWeight: 800, padding: "3px 7px", cursor: "pointer" }}>{reelId === x.id ? `● REEL ${k+1}/3` : "▶ 3-Angle Reel"}</button></div>
+              <div style={{ display: "flex", gap: 5 }}>{[0, 1, 2].map(i => <img key={i} src={x.imgs[i]} alt="" referrerPolicy="no-referrer" onClick={() => { setReelId(""); setAng({ ...ang, [x.id]: i }); }} style={{ height: 42, flex: 1, objectFit: "cover", borderRadius: 6, cursor: "pointer", border: k === i ? "2px solid #38bdf8" : "1px solid #334155" }} />)}</div>
+              <div style={{ fontWeight: 800, fontSize: 13, minHeight: 34 }}>{x.name}</div>
+              <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", fontSize: 12 }}><span style={{ fontSize: 17, fontWeight: 900, color: "#4ade80" }}>${m.r.toFixed(2)}</span><button onClick={() => setSpecId(x.id)} style={{ background: "#1e293b", color: "#fde047", border: 0, borderRadius: 6, padding: "4px 8px", fontSize: 11, fontWeight: 800, cursor: "pointer" }}>📋 Specs</button></div>
+              <div style={{ display: "flex", gap: 6 }}><button onClick={() => setCart({ ...cart, [x.id]: (cart[x.id] ? cart[x.id] : 0) + 1 })} style={{ flex: 1, background: "#1e293b", color: "#fff", border: 0, borderRadius: 8, padding: 8, fontWeight: 800, cursor: "pointer" }}>+ Bay</button><button onClick={() => { setCart({ ...cart, [x.id]: (cart[x.id] ? cart[x.id] : 0) + 1 }); setCoMode("order"); setCoOpen(true); }} style={{ flex: 1, background: "#2563eb", color: "#fff", border: 0, borderRadius: 8, padding: 8, fontWeight: 900, cursor: "pointer" }}>Acquire →</button></div>
+            </div>); })}
+        </div></div>
+      {spec ? (<div onClick={() => setSpecId("")} style={{ position: "fixed", inset: 0, background: "rgba(0,0,0,0.84)", zIndex: 999, display: "flex", alignItems: "center", justifyContent: "center", padding: 14 }}><div onClick={e => e.stopPropagation()} style={{ background: "#0f172a", border: "2px solid #38bdf8", borderRadius: 14, maxWidth: 460, flex: 1, padding: 16, fontSize: 12 }}><div style={{ fontWeight: 900, color: "#7dd3fc", marginBottom: 8 }}>{spec.id} • {spec.name}</div><div style={{ display: "flex", gap: 6, marginBottom: 8 }}>{[0, 1, 2].map(i => <img key={i} src={spec.imgs[i]} alt="" referrerPolicy="no-referrer" style={{ height: 85, flex: 1, objectFit: "cover", borderRadius: 6 }} />)}</div><div>Direct Price: ${calcSg(spec.w, spec.ship).r.toFixed(2)} • Ship: ${spec.ship.toFixed(2)} • Stock: {spec.stock}</div><button onClick={() => setSpecId("")} style={{ marginTop: 10, background: "#2563eb", color: "#fff", border: 0, borderRadius: 8, padding: "6px 14px", fontWeight: 900 }}>Close</button></div></div>) : null}
+      <NexusCheckoutModal open={coOpen} mode0={coMode} store="Stargazer & Pro Auto" summary={`${cnt} Item(s) • Sub $${sub.toFixed(2)}`} total={tot} ship={ship} tax={tax} onClose={() => setCoOpen(false)} onDone={() => setCart({})} />
+    </div>); }

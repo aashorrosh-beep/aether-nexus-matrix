@@ -1,202 +1,42 @@
 "use client";
-import React from "react";
-import StoreCatalogView, { MallItem } from "../components/StoreCatalogView";
-
-const ITEMS: MallItem[] = [
-  {
-    "id": "WO-101",
-    "name": "1964 NY World's Fair Brass Unisphere Desk Globe",
-    "cat": "all",
-    "tier": "T1",
-    "tierLabel": "Tier 1 • $3.99 Ship",
-    "w": 22,
-    "ship": 3.99,
-    "stock": 6,
-    "imgs": [
-      "https://commons.wikimedia.org/wiki/Special:FilePath/The_Unisphere.JPG?width=600",
-      "https://picsum.photos/seed/WO-0-2/600/420",
-      "https://picsum.photos/seed/WO-0-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-  },
-  {
-    "id": "WO-102",
-    "name": "Vintage 1960s Diner Neon Wall Clock Replica",
-    "cat": "all",
-    "tier": "T2",
-    "tierLabel": "Tier 2 • $5.99 Ship",
-    "w": 40.5,
-    "ship": 5.99,
-    "stock": 11,
-    "imgs": [
-      "https://picsum.photos/seed/WO-1-1/600/420",
-      "https://picsum.photos/seed/WO-1-2/600/420",
-      "https://picsum.photos/seed/WO-1-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
-  },
-  {
-    "id": "WO-103",
-    "name": "Retro Tabletop Arcade Cabinet (60 Classic Games)",
-    "cat": "all",
-    "tier": "T3",
-    "tierLabel": "Tier 3 • $7.99 Ship",
-    "w": 59,
-    "ship": 7.99,
-    "stock": 16,
-    "imgs": [
-      "https://picsum.photos/seed/WO-2-1/600/420",
-      "https://picsum.photos/seed/WO-2-2/600/420",
-      "https://picsum.photos/seed/WO-2-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
-  },
-  {
-    "id": "WO-104",
-    "name": "1964 Fair Official Souvenir Guide & Map Folio",
-    "cat": "all",
-    "tier": "T1",
-    "tierLabel": "Tier 1 • $3.99 Ship",
-    "w": 77.5,
-    "ship": 3.99,
-    "stock": 21,
-    "imgs": [
-      "https://picsum.photos/seed/WO-3-1/600/420",
-      "https://picsum.photos/seed/WO-3-2/600/420",
-      "https://picsum.photos/seed/WO-3-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
-  },
-  {
-    "id": "WO-105",
-    "name": "Mid-Century Atomic Starburst Brass Chandelier",
-    "cat": "all",
-    "tier": "T2",
-    "tierLabel": "Tier 2 • $5.99 Ship",
-    "w": 96,
-    "ship": 5.99,
-    "stock": 7,
-    "imgs": [
-      "https://picsum.photos/seed/WO-4-1/600/420",
-      "https://picsum.photos/seed/WO-4-2/600/420",
-      "https://picsum.photos/seed/WO-4-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-  },
-  {
-    "id": "WO-106",
-    "name": "Bluetooth Vacuum-Tube Style Walnut Turntable",
-    "cat": "all",
-    "tier": "T3",
-    "tierLabel": "Tier 3 • $7.99 Ship",
-    "w": 114.5,
-    "ship": 7.99,
-    "stock": 12,
-    "imgs": [
-      "https://picsum.photos/seed/WO-5-1/600/420",
-      "https://picsum.photos/seed/WO-5-2/600/420",
-      "https://picsum.photos/seed/WO-5-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
-  },
-  {
-    "id": "WO-107",
-    "name": "Classic Chrome Die-Cast 1964 Mustang 1:18",
-    "cat": "all",
-    "tier": "T1",
-    "tierLabel": "Tier 1 • $3.99 Ship",
-    "w": 133,
-    "ship": 3.99,
-    "stock": 17,
-    "imgs": [
-      "https://picsum.photos/seed/WO-6-1/600/420",
-      "https://picsum.photos/seed/WO-6-2/600/420",
-      "https://picsum.photos/seed/WO-6-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
-  },
-  {
-    "id": "WO-108",
-    "name": "Vintage View-Master 3D World's Fair Reel Box",
-    "cat": "all",
-    "tier": "T2",
-    "tierLabel": "Tier 2 • $5.99 Ship",
-    "w": 151.5,
-    "ship": 5.99,
-    "stock": 22,
-    "imgs": [
-      "https://picsum.photos/seed/WO-7-1/600/420",
-      "https://picsum.photos/seed/WO-7-2/600/420",
-      "https://picsum.photos/seed/WO-7-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
-  },
-  {
-    "id": "WO-109",
-    "name": "1970s Flip-Number Retro Mechanical Alarm Clock",
-    "cat": "all",
-    "tier": "T3",
-    "tierLabel": "Tier 3 • $7.99 Ship",
-    "w": 170,
-    "ship": 7.99,
-    "stock": 8,
-    "imgs": [
-      "https://picsum.photos/seed/WO-8-1/600/420",
-      "https://picsum.photos/seed/WO-8-2/600/420",
-      "https://picsum.photos/seed/WO-8-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-  },
-  {
-    "id": "WO-110",
-    "name": " Collector Tin Wind-Up Space Robot Replica",
-    "cat": "all",
-    "tier": "T1",
-    "tierLabel": "Tier 1 • $3.99 Ship",
-    "w": 188.5,
-    "ship": 3.99,
-    "stock": 13,
-    "imgs": [
-      "https://picsum.photos/seed/WO-9-1/600/420",
-      "https://picsum.photos/seed/WO-9-2/600/420",
-      "https://picsum.photos/seed/WO-9-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
-  },
-  {
-    "id": "WO-111",
-    "name": "60s Shea Stadium & Flushing Meadows Print",
-    "cat": "all",
-    "tier": "T2",
-    "tierLabel": "Tier 2 • $5.99 Ship",
-    "w": 207,
-    "ship": 5.99,
-    "stock": 18,
-    "imgs": [
-      "https://picsum.photos/seed/WO-10-1/600/420",
-      "https://picsum.photos/seed/WO-10-2/600/420",
-      "https://picsum.photos/seed/WO-10-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
-  },
-  {
-    "id": "WO-112",
-    "name": "Authentic Mint Postage & Medallion Display",
-    "cat": "all",
-    "tier": "T3",
-    "tierLabel": "Tier 3 • $7.99 Ship",
-    "w": 225.5,
-    "ship": 7.99,
-    "stock": 23,
-    "imgs": [
-      "https://picsum.photos/seed/WO-11-1/600/420",
-      "https://picsum.photos/seed/WO-11-2/600/420",
-      "https://picsum.photos/seed/WO-11-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
-  }
-];
-
-export default function MallPage() {
-  return <StoreCatalogView title="🌐 1964 WORLD'S FAIR & GRAILS" accent="#f59e0b" items={ITEMS} showTiers={true} />;
-}
+import React, { useState, useEffect } from "react";
+import Link from "next/link";
+import { NOST_INV, calcWf } from "./nostalgia-inventory";
+import NexusCheckoutModal from "../components/NexusCheckoutModal";
+const CATS = [["all","All 160 Fair & Grail SKUs"],["worldsfair","🌐 1964 World's Fair"],["grails","🪙 Coins, Medals & Slabs"],["arcade","🕹️ 80s–90s Arcade & Audio"],["diner","🥤 Classic Diner & Neon"]];
+export default function WorldsFairSilo() {
+  const [cat, setCat] = useState("all"), [q, setQ] = useState(""), [hunt, setHunt] = useState(""), [huntId, setHuntId] = useState("");
+  const [ang, setAng] = useState<Record<string, number>>({}), [reelId, setReelId] = useState(""), [tick, setTick] = useState(0), [specId, setSpecId] = useState("");
+  const [cart, setCart] = useState<Record<string, number>>({}), [coOpen, setCoOpen] = useState(false), [coMode, setCoMode] = useState("order");
+  useEffect(() => { if (!reelId) return; const t = setInterval(() => setTick(s => s > 1 ? 0 : s + 1), 1300); return () => clearInterval(t); }, [reelId]);
+  const list = NOST_INV.filter(x => (cat === "all" ? true : x.cat === cat) && x.name.toLowerCase().includes(q.toLowerCase()));
+  const lines = NOST_INV.filter(x => (cart[x.id] ? cart[x.id] : 0) > 0), cnt = lines.reduce((s, x) => s + cart[x.id], 0);
+  const sub = +lines.reduce((s, x) => s + calcWf(x.w, x.ship).r * cart[x.id], 0).toFixed(2);
+  const ship = sub === 0 ? 0 : sub < 100 ? 3.99 : sub < 250 ? 5.99 : sub < 500 ? 9.99 : 14.99;
+  const tax = +(sub * 0.0825).toFixed(2), tot = sub === 0 ? 0 : +((sub + ship + tax + 0.3) / 0.971).toFixed(2);
+  const spec = NOST_INV.find(x => x.id === specId);
+  return (<div style={{ minHeight: "100vh", background: "#0d0a07", color: "#f8fafc", padding: "18px 14px", fontFamily: "system-ui, sans-serif" }}>
+    <div style={{ maxWidth: 1280, margin: "0 auto" }}>
+      <div style={{ display: "flex", flexWrap: "wrap", justifyContent: "space-between", gap: 10, alignItems: "center", background: "linear-gradient(90deg,#78350f,#1e3a8a,#1c1917)", padding: 16, borderRadius: 16, border: "1px solid #f59e0b", marginBottom: 12 }}>
+        <div><Link href="/" style={{ color: "#fde68a", fontSize: 12, textDecoration: "none", fontWeight: 800 }}>← ALBS NEXUS HUB</Link><h1 style={{ margin: "4px 0 0", fontSize: 22, fontWeight: 900 }}>🌐 1964 WORLD&apos;S FAIR • 60s–90s GRAILS & REPLICAS</h1></div>
+        <div style={{ display: "flex", flexWrap: "wrap", gap: 8 }}>
+          <Link href="/nostalgia/concierge" style={{ background: "#0284c7", color: "#fff", fontWeight: 900, borderRadius: 10, padding: "9px 14px", textDecoration: "none", fontSize: 13 }}>🕵️ 3-Hr AI Concierge (24-Hr Hold) →</Link>
+          <button onClick={() => { setCoMode("giftcard"); setCoOpen(true); }} style={{ background: "#facc15", color: "#000", fontWeight: 900, border: 0, borderRadius: 10, padding: "9px 14px", cursor: "pointer" }}>🎁 Gift Cards ($0 Ship)</button>
+          <button onClick={() => { setCoMode("order"); setCoOpen(true); }} style={{ background: "#22c55e", color: "#000", fontWeight: 900, border: 0, borderRadius: 10, padding: "9px 14px", cursor: "pointer" }}>🛒 Vault ({cnt}) • ${tot.toFixed(2)}</button>
+        </div>
+      </div>
+      <div style={{ background: "#1c1917", border: "1px solid #78350f", borderRadius: 12, padding: 10, marginBottom: 14, display: "flex", flexWrap: "wrap", gap: 8, alignItems: "center" }}><span style={{ fontWeight: 900, color: "#fbbf24", fontSize: 12 }}>🔎 QUICK GRAIL BOUNTY (COINS • PSA SLABS • 60s–90s MEMORABILIA):</span><input value={hunt} onChange={e => setHunt(e.target.value)} placeholder="Describe rare year, coin, card, or replica..." style={{ flex: 1, minWidth: 200, background: "#09090b", border: "1px solid #44403c", color: "#fff", padding: "7px 10px", borderRadius: 8, fontSize: 12 }} /><button onClick={() => setHuntId(hunt ? "HUNT-" + Date.now().toString(36).toUpperCase() : "")} style={{ background: "#f59e0b", color: "#000", fontWeight: 900, border: 0, borderRadius: 8, padding: "7px 12px", cursor: "pointer" }}>Dispatch 3-Hr Search</button>{huntId ? <span style={{ color: "#4ade80", fontWeight: 800, fontSize: 12 }}>✓ Active Ticket #{huntId} (24-Hr Hold)</span> : null}</div>
+      <div style={{ display: "flex", flexWrap: "wrap", gap: 8, marginBottom: 14 }}>{CATS.map(([k, lbl]) => <button key={k} onClick={() => setCat(k)} style={{ padding: "8px 12px", borderRadius: 999, border: 0, fontWeight: 800, fontSize: 12, cursor: "pointer", background: cat === k ? "#d97706" : "#1e293b", color: "#fff" }}>{lbl}</button>)}<input placeholder="Search Unisphere, bronze medals, silver coins, slabs, arcade, neon..." value={q} onChange={e => setQ(e.target.value)} style={{ flex: 1, minWidth: 210, background: "#0f172a", border: "1px solid #334155", color: "#fff", borderRadius: 999, padding: "8px 14px", fontSize: 12 }} /></div>
+      <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(255px, 1fr))", gap: 14 }}>
+        {list.map(x => { const m = calcWf(x.w, x.ship), k = reelId === x.id ? tick : (ang[x.id] ? ang[x.id] : 0); return (
+          <div key={x.id} style={{ background: "#171411", border: "1px solid #292524", borderRadius: 14, padding: 10, display: "flex", flexDirection: "column", gap: 7 }}>
+            <div style={{ position: "relative", height: 185, borderRadius: 10, overflow: "hidden", background: "#020617", display: "flex" }}><img src={x.imgs[k]} alt={x.name} referrerPolicy="no-referrer" style={{ objectFit: "cover", height: 185, flex: 1 }} /><span style={{ position: "absolute", top: 6, left: 6, background: x.stock < 6 ? "#dc2626" : "#b45309", padding: "2px 8px", borderRadius: 6, fontSize: 10, fontWeight: 900 }}>{x.stock < 6 ? `🔥 GRAIL: ${x.stock} LEFT` : x.badge}</span><button onClick={() => setReelId(reelId === x.id ? "" : x.id)} style={{ position: "absolute", bottom: 6, right: 6, background: "#09090b", color: "#fbbf24", border: "1px solid #fbbf24", borderRadius: 6, fontSize: 10, fontWeight: 800, padding: "3px 7px", cursor: "pointer" }}>{reelId === x.id ? `● REEL ${k+1}/3` : "▶ 3-Angle Reel"}</button></div>
+            <div style={{ display: "flex", gap: 5 }}>{[0, 1, 2].map(i => <img key={i} src={x.imgs[i]} alt="" referrerPolicy="no-referrer" onClick={() => { setReelId(""); setAng({ ...ang, [x.id]: i }); }} style={{ height: 42, flex: 1, objectFit: "cover", borderRadius: 6, cursor: "pointer", border: k === i ? "2px solid #f59e0b" : "1px solid #334155" }} />)}</div>
+            <div style={{ fontWeight: 800, fontSize: 13, minHeight: 34 }}>{x.name}</div>
+            <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", fontSize: 12 }}><span style={{ fontSize: 17, fontWeight: 900, color: "#4ade80" }}>${m.r.toFixed(2)}</span><button onClick={() => setSpecId(x.id)} style={{ background: "#292524", color: "#fde047", border: 0, borderRadius: 6, padding: "4px 8px", fontSize: 11, fontWeight: 800, cursor: "pointer" }}>📋 Era Spec</button></div>
+            <div style={{ display: "flex", gap: 6 }}><button onClick={() => setCart({ ...cart, [x.id]: (cart[x.id] ? cart[x.id] : 0) + 1 })} style={{ flex: 1, background: "#292524", color: "#fff", border: 0, borderRadius: 8, padding: 8, fontWeight: 800, cursor: "pointer" }}>+ Vault</button><button onClick={() => { setCart({ ...cart, [x.id]: (cart[x.id] ? cart[x.id] : 0) + 1 }); setCoMode("order"); setCoOpen(true); }} style={{ flex: 1, background: "#d97706", color: "#000", border: 0, borderRadius: 8, padding: 8, fontWeight: 900, cursor: "pointer" }}>Acquire →</button></div>
+          </div>); })}
+      </div></div>
+    {spec ? (<div onClick={() => setSpecId("")} style={{ position: "fixed", inset: 0, background: "rgba(0,0,0,0.84)", zIndex: 999, display: "flex", alignItems: "center", justifyContent: "center", padding: 14 }}><div onClick={e => e.stopPropagation()} style={{ background: "#1c1917", border: "2px solid #f59e0b", borderRadius: 14, maxWidth: 460, flex: 1, padding: 16, fontSize: 12 }}><div style={{ fontWeight: 900, color: "#fde68a", marginBottom: 8 }}>{spec.id} • {spec.name}</div><div style={{ display: "flex", gap: 6, marginBottom: 8 }}>{[0, 1, 2].map(i => <img key={i} src={spec.imgs[i]} alt="" referrerPolicy="no-referrer" style={{ height: 85, flex: 1, objectFit: "cover", borderRadius: 6 }} />)}</div><div>Curated Price: ${calcWf(spec.w, spec.ship).r.toFixed(2)} • Insured Ship: ${spec.ship.toFixed(2)} • Vault Stock: {spec.stock}</div><button onClick={() => setSpecId("")} style={{ marginTop: 10, background: "#d97706", color: "#000", border: 0, borderRadius: 8, padding: "6px 14px", fontWeight: 900 }}>Close</button></div></div>) : null}
+    <NexusCheckoutModal open={coOpen} mode0={coMode} store="1964 World's Fair Vault" summary={`${cnt} Grail(s) • Sub $${sub.toFixed(2)}`} total={tot} ship={ship} tax={tax} onClose={() => setCoOpen(false)} onDone={() => setCart({})} />
+  </div>); }

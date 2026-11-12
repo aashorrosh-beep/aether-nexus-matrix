@@ -1,202 +1,39 @@
 "use client";
-import React from "react";
-import StoreCatalogView, { MallItem } from "../../components/StoreCatalogView";
-
-const ITEMS: MallItem[] = [
-  {
-    "id": "LU-101",
-    "name": "Swiss Automatic Rose-Gold Chronograph Watch",
-    "cat": "all",
-    "tier": "T1",
-    "tierLabel": "Tier 1 • $3.99 Ship",
-    "w": 22,
-    "ship": 3.99,
-    "stock": 6,
-    "imgs": [
-      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=600&q=80",
-      "https://picsum.photos/seed/LU-0-2/600/420",
-      "https://picsum.photos/seed/LU-0-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-  },
-  {
-    "id": "LU-102",
-    "name": "Lacquered Gold-Nib Executive Fountain Pen",
-    "cat": "all",
-    "tier": "T2",
-    "tierLabel": "Tier 2 • $5.99 Ship",
-    "w": 40.5,
-    "ship": 5.99,
-    "stock": 11,
-    "imgs": [
-      "https://picsum.photos/seed/LU-1-1/600/420",
-      "https://picsum.photos/seed/LU-1-2/600/420",
-      "https://picsum.photos/seed/LU-1-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
-  },
-  {
-    "id": "LU-103",
-    "name": "Italian Quilted Calfskin Designer Shoulder Purse",
-    "cat": "all",
-    "tier": "T3",
-    "tierLabel": "Tier 3 • $7.99 Ship",
-    "w": 59,
-    "ship": 7.99,
-    "stock": 16,
-    "imgs": [
-      "https://picsum.photos/seed/LU-2-1/600/420",
-      "https://picsum.photos/seed/LU-2-2/600/420",
-      "https://picsum.photos/seed/LU-2-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
-  },
-  {
-    "id": "LU-104",
-    "name": "Red-Bottom Patent Stiletto Evening Pumps",
-    "cat": "all",
-    "tier": "T1",
-    "tierLabel": "Tier 1 • $3.99 Ship",
-    "w": 77.5,
-    "ship": 3.99,
-    "stock": 21,
-    "imgs": [
-      "https://picsum.photos/seed/LU-3-1/600/420",
-      "https://picsum.photos/seed/LU-3-2/600/420",
-      "https://picsum.photos/seed/LU-3-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
-  },
-  {
-    "id": "LU-105",
-    "name": "Cashmere Monogrammed Salon Throw Blanket",
-    "cat": "all",
-    "tier": "T2",
-    "tierLabel": "Tier 2 • $5.99 Ship",
-    "w": 96,
-    "ship": 5.99,
-    "stock": 7,
-    "imgs": [
-      "https://picsum.photos/seed/LU-4-1/600/420",
-      "https://picsum.photos/seed/LU-4-2/600/420",
-      "https://picsum.photos/seed/LU-4-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-  },
-  {
-    "id": "LU-106",
-    "name": "18K Vermeil Diamond-Cut Tennis Bracelet",
-    "cat": "all",
-    "tier": "T3",
-    "tierLabel": "Tier 3 • $7.99 Ship",
-    "w": 114.5,
-    "ship": 7.99,
-    "stock": 12,
-    "imgs": [
-      "https://picsum.photos/seed/LU-5-1/600/420",
-      "https://picsum.photos/seed/LU-5-2/600/420",
-      "https://picsum.photos/seed/LU-5-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
-  },
-  {
-    "id": "LU-107",
-    "name": "Hand-Stitched Alligator Leather Cardholder",
-    "cat": "all",
-    "tier": "T1",
-    "tierLabel": "Tier 1 • $3.99 Ship",
-    "w": 133,
-    "ship": 3.99,
-    "stock": 17,
-    "imgs": [
-      "https://picsum.photos/seed/LU-6-1/600/420",
-      "https://picsum.photos/seed/LU-6-2/600/420",
-      "https://picsum.photos/seed/LU-6-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
-  },
-  {
-    "id": "LU-108",
-    "name": "Crystal Champagne Flute & Decanter Suite",
-    "cat": "all",
-    "tier": "T2",
-    "tierLabel": "Tier 2 • $5.99 Ship",
-    "w": 151.5,
-    "ship": 5.99,
-    "stock": 22,
-    "imgs": [
-      "https://picsum.photos/seed/LU-7-1/600/420",
-      "https://picsum.photos/seed/LU-7-2/600/420",
-      "https://picsum.photos/seed/LU-7-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
-  },
-  {
-    "id": "LU-109",
-    "name": "Automatic Triple-Watch Winder Safe",
-    "cat": "all",
-    "tier": "T3",
-    "tierLabel": "Tier 3 • $7.99 Ship",
-    "w": 170,
-    "ship": 7.99,
-    "stock": 8,
-    "imgs": [
-      "https://picsum.photos/seed/LU-8-1/600/420",
-      "https://picsum.photos/seed/LU-8-2/600/420",
-      "https://picsum.photos/seed/LU-8-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-  },
-  {
-    "id": "LU-110",
-    "name": "Silk Designer Twill Scarf & Brooch",
-    "cat": "all",
-    "tier": "T1",
-    "tierLabel": "Tier 1 • $3.99 Ship",
-    "w": 188.5,
-    "ship": 3.99,
-    "stock": 13,
-    "imgs": [
-      "https://picsum.photos/seed/LU-9-1/600/420",
-      "https://picsum.photos/seed/LU-9-2/600/420",
-      "https://picsum.photos/seed/LU-9-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
-  },
-  {
-    "id": "LU-111",
-    "name": "Carbon-Fiber Rollerball Signature Pen",
-    "cat": "all",
-    "tier": "T2",
-    "tierLabel": "Tier 2 • $5.99 Ship",
-    "w": 207,
-    "ship": 5.99,
-    "stock": 18,
-    "imgs": [
-      "https://picsum.photos/seed/LU-10-1/600/420",
-      "https://picsum.photos/seed/LU-10-2/600/420",
-      "https://picsum.photos/seed/LU-10-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
-  },
-  {
-    "id": "LU-112",
-    "name": "Structured Top-Handle Leather Tote",
-    "cat": "all",
-    "tier": "T3",
-    "tierLabel": "Tier 3 • $7.99 Ship",
-    "w": 225.5,
-    "ship": 7.99,
-    "stock": 23,
-    "imgs": [
-      "https://picsum.photos/seed/LU-11-1/600/420",
-      "https://picsum.photos/seed/LU-11-2/600/420",
-      "https://picsum.photos/seed/LU-11-3/600/420"
-    ],
-    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
-  }
-];
-
-export default function MallPage() {
-  return <StoreCatalogView title="💎 LUXURY SUITES" accent="#eab308" items={ITEMS} showTiers={true} />;
-}
+import React, { useState, useEffect } from "react";
+import Link from "next/link";
+import { LUX_INV, calcLx } from "./luxury-inventory";
+import NexusCheckoutModal from "../../components/NexusCheckoutModal";
+const CATS = [["all","All 160 Suite Pieces"],["watches","⌚ Watches & Winders"],["pens","✒️ Fine Pens"],["purses","👜 Couture Purses"],["jewelry","💎 Vault & Humidors"]];
+export default function LuxurySuitesSilo() {
+  const [cat, setCat] = useState("all"), [q, setQ] = useState(""), [monoOpen, setMonoOpen] = useState(false);
+  const [mono, setMono] = useState(""), [monoSaved, setMonoSaved] = useState("");
+  const [ang, setAng] = useState<Record<string, number>>({}), [reelId, setReelId] = useState(""), [tick, setTick] = useState(0), [specId, setSpecId] = useState("");
+  const [cart, setCart] = useState<Record<string, number>>({}), [coOpen, setCoOpen] = useState(false), [coMode, setCoMode] = useState("order");
+  useEffect(() => { if (!reelId) return; const t = setInterval(() => setTick(s => s > 1 ? 0 : s + 1), 1300); return () => clearInterval(t); }, [reelId]);
+  const list = LUX_INV.filter(x => (cat === "all" ? true : x.cat === cat) && x.name.toLowerCase().includes(q.toLowerCase()));
+  const lines = LUX_INV.filter(x => (cart[x.id] ? cart[x.id] : 0) > 0), cnt = lines.reduce((s, x) => s + cart[x.id], 0);
+  const sub = +lines.reduce((s, x) => s + calcLx(x.w, x.ship).r * cart[x.id], 0).toFixed(2);
+  const ship = sub === 0 ? 0 : sub < 100 ? 3.99 : sub < 250 ? 5.99 : sub < 500 ? 9.99 : 14.99;
+  const tax = +(sub * 0.0825).toFixed(2), tot = sub === 0 ? 0 : +((sub + ship + tax + 0.3) / 0.971).toFixed(2);
+  const spec = LUX_INV.find(x => x.id === specId);
+  return (<div style={{ minHeight: "100vh", background: "#09090b", color: "#f8fafc", padding: "18px 14px", fontFamily: "system-ui, sans-serif" }}>
+      <div style={{ maxWidth: 1280, margin: "0 auto" }}>
+        <div style={{ display: "flex", flexWrap: "wrap", justifyContent: "space-between", gap: 10, alignItems: "center", background: "linear-gradient(90deg,#1c1917,#422006,#09090b)", padding: 16, borderRadius: 16, border: "1px solid #eab308", marginBottom: 14 }}>
+          <div><Link href="/" style={{ color: "#fde047", fontSize: 12, textDecoration: "none", fontWeight: 800 }}>← ALBS NEXUS HUB</Link><h1 style={{ margin: "4px 0 0", fontSize: 22, fontWeight: 900 }}>⌚ LUXURY SUITES • WATCHES, PENS & COUTURE</h1></div>
+          <div style={{ display: "flex", flexWrap: "wrap", gap: 8 }}><button onClick={() => setMonoOpen(!monoOpen)} style={{ background: "#ca8a04", color: "#000", fontWeight: 900, border: 0, borderRadius: 10, padding: "9px 14px", cursor: "pointer" }}>✒️ {monoOpen ? "Hide Engraving" : "Free VIP Monogram"}</button><button onClick={() => { setCoMode("giftcard"); setCoOpen(true); }} style={{ background: "#facc15", color: "#000", fontWeight: 900, border: 0, borderRadius: 10, padding: "9px 14px", cursor: "pointer" }}>🎁 Gift Cards ($0 Ship)</button><button onClick={() => { setCoMode("order"); setCoOpen(true); }} style={{ background: "#22c55e", color: "#000", fontWeight: 900, border: 0, borderRadius: 10, padding: "9px 14px", cursor: "pointer" }}>🛒 Private Vault ({cnt}) • ${tot.toFixed(2)}</button></div>
+        </div>
+        {monoOpen ? (<div style={{ background: "#18181b", border: "1px solid #eab308", borderRadius: 14, padding: 12, marginBottom: 14, display: "flex", flexWrap: "wrap", gap: 8, alignItems: "center" }}><span style={{ fontWeight: 900, color: "#fde047" }}>✒️ COMPLIMENTARY GOLD-FOIL / LASER MONOGRAM & PROVENANCE CARD:</span><input maxLength={6} value={mono} onChange={e => setMono(e.target.value.toUpperCase())} placeholder="Initials (e.g. A.A.S)" style={{ background: "#09090b", border: "1px solid #52525b", color: "#fff", padding: 8, borderRadius: 8 }} /><button onClick={() => setMonoSaved(mono ? mono : "VIP")} style={{ background: "#eab308", color: "#000", fontWeight: 900, border: 0, borderRadius: 8, padding: "8px 14px", cursor: "pointer" }}>Lock Monogram</button>{monoSaved ? <span style={{ color: "#4ade80", fontWeight: 800 }}>✓ Attached to Order: [{monoSaved}]</span> : null}</div>) : null}
+        <div style={{ display: "flex", flexWrap: "wrap", gap: 8, marginBottom: 14 }}>{CATS.map(([k, lbl]) => <button key={k} onClick={() => setCat(k)} style={{ padding: "8px 12px", borderRadius: 999, border: 0, fontWeight: 800, fontSize: 12, cursor: "pointer", background: cat === k ? "#ca8a04" : "#1e293b", color: cat === k ? "#000" : "#fff" }}>{lbl}</button>)}<input placeholder="Search tourbillon watches, fountain pens, quilted purses, humidors..." value={q} onChange={e => setQ(e.target.value)} style={{ flex: 1, minWidth: 210, background: "#0f172a", border: "1px solid #334155", color: "#fff", borderRadius: 999, padding: "8px 14px", fontSize: 12 }} /></div>
+        <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(255px, 1fr))", gap: 14 }}>
+          {list.map(x => { const m = calcLx(x.w, x.ship), k = reelId === x.id ? tick : (ang[x.id] ? ang[x.id] : 0); return (
+            <div key={x.id} style={{ background: "#141417", border: "1px solid #27272a", borderRadius: 14, padding: 10, display: "flex", flexDirection: "column", gap: 7 }}>
+              <div style={{ position: "relative", height: 185, borderRadius: 10, overflow: "hidden", background: "#020617", display: "flex" }}><img src={x.imgs[k]} alt={x.name} referrerPolicy="no-referrer" style={{ objectFit: "cover", height: 185, flex: 1 }} /><span style={{ position: "absolute", top: 6, left: 6, background: x.stock < 6 ? "#dc2626" : "#a16207", padding: "2px 8px", borderRadius: 6, fontSize: 10, fontWeight: 900 }}>{x.stock < 6 ? `✨ RARE: ${x.stock} LEFT` : x.badge}</span><button onClick={() => setReelId(reelId === x.id ? "" : x.id)} style={{ position: "absolute", bottom: 6, right: 6, background: "#09090b", color: "#fde047", border: "1px solid #fde047", borderRadius: 6, fontSize: 10, fontWeight: 800, padding: "3px 7px", cursor: "pointer" }}>{reelId === x.id ? `● REEL ${k+1}/3` : "▶ 3-Angle Reel"}</button></div>
+              <div style={{ display: "flex", gap: 5 }}>{[0, 1, 2].map(i => <img key={i} src={x.imgs[i]} alt="" referrerPolicy="no-referrer" onClick={() => { setReelId(""); setAng({ ...ang, [x.id]: i }); }} style={{ height: 42, flex: 1, objectFit: "cover", borderRadius: 6, cursor: "pointer", border: k === i ? "2px solid #eab308" : "1px solid #334155" }} />)}</div>
+              <div style={{ fontWeight: 800, fontSize: 13, minHeight: 34 }}>{x.name}</div>
+              <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", fontSize: 12 }}><span style={{ fontSize: 17, fontWeight: 900, color: "#fde047" }}>${m.r.toFixed(2)}</span><button onClick={() => setSpecId(x.id)} style={{ background: "#27272a", color: "#fde047", border: 0, borderRadius: 6, padding: "4px 8px", fontSize: 11, fontWeight: 800, cursor: "pointer" }}>📋 Provenance</button></div>
+              <div style={{ display: "flex", gap: 6 }}><button onClick={() => setCart({ ...cart, [x.id]: (cart[x.id] ? cart[x.id] : 0) + 1 })} style={{ flex: 1, background: "#27272a", color: "#fff", border: 0, borderRadius: 8, padding: 8, fontWeight: 800, cursor: "pointer" }}>+ Reserve</button><button onClick={() => { setCart({ ...cart, [x.id]: (cart[x.id] ? cart[x.id] : 0) + 1 }); setCoMode("order"); setCoOpen(true); }} style={{ flex: 1, background: "#eab308", color: "#000", border: 0, borderRadius: 8, padding: 8, fontWeight: 900, cursor: "pointer" }}>Acquire →</button></div>
+            </div>); })}
+        </div></div>
+      {spec ? (<div onClick={() => setSpecId("")} style={{ position: "fixed", inset: 0, background: "rgba(0,0,0,0.84)", zIndex: 999, display: "flex", alignItems: "center", justifyContent: "center", padding: 14 }}><div onClick={e => e.stopPropagation()} style={{ background: "#18181b", border: "2px solid #eab308", borderRadius: 14, maxWidth: 460, flex: 1, padding: 16, fontSize: 12 }}><div style={{ fontWeight: 900, color: "#fde047", marginBottom: 8 }}>💎 {spec.id} • {spec.name}</div><div style={{ display: "flex", gap: 6, marginBottom: 8 }}>{[0, 1, 2].map(i => <img key={i} src={spec.imgs[i]} alt="" referrerPolicy="no-referrer" style={{ height: 85, flex: 1, objectFit: "cover", borderRadius: 6 }} />)}</div><div>Vault Price: ${calcLx(spec.w, spec.ship).r.toFixed(2)} • Insured Ship: ${spec.ship.toFixed(2)} • Avail: {spec.stock}</div><button onClick={() => setSpecId("")} style={{ marginTop: 10, background: "#eab308", color: "#000", border: 0, borderRadius: 8, padding: "6px 14px", fontWeight: 900 }}>Close</button></div></div>) : null}
+      <NexusCheckoutModal open={coOpen} mode0={coMode} store="Luxury Suites" summary={`${cnt} Piece(s)${monoSaved ? " • Monogram [" + monoSaved + "]" : ""} • Sub $${sub.toFixed(2)}`} total={tot} ship={ship} tax={tax} onClose={() => setCoOpen(false)} onDone={() => setCart({})} />
+    </div>); }

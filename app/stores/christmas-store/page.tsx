@@ -1,50 +1,44 @@
 "use client";
 import React, { useState, useEffect } from "react";
 import Link from "next/link";
-import { CHRISTMAS_INVENTORY, StandaloneXmasSKU, calcChristmasMath } from "./christmas-inventory";
-function Reel(p: { imgs: string[]; info: string }) {
-const [on, setOn] = useState(true), [t, setT] = useState(0);
-useEffect(() => {
-if (!on) return;
-const v = setInterval(() => setT(s => (s + 0.1 >= 12 ? 0 : +(s + 0.1).toFixed(1))), 100);
-return () => clearInterval(v);
-}, [on]);
-const i = t < 4 ? 0 : t < 8 ? 1 : 2;
-return (
-<div className="relative w-full h-48 bg-black overflow-hidden">
-<img src={p.imgs[i]} alt="" className="w-full h-full object-cover" />
-<div className="absolute top-2 left-2 bg-red-600 px-2 py-0.5 rounded text-[10px] font-black">● VIDEO {i + 1}/3 • {p.info}</div>
-<div className="absolute bottom-2 inset-x-2 flex gap-2">
-<button type="button" onClick={() => setOn(!on)} className="bg-black border border-sky-400 rounded px-2 text-xs">{on ? "❚❚" : "▶"}</button>
-<input type="range" min={0} max={11.9} step={0.1} value={t} onChange={e => setT(+e.target.value)} className="flex-1 accent-red-500" />
-</div></div>); }
-export default function StandaloneChristmasStore() {
-const [cat, setCat] = useState("all"), [tier, setTier] = useState("all"), [q, setQ] = useState("");
-const [sheet, setSheet] = useState(false), [buy, setBuy] = useState(false);
-const [cart, setCart] = useState<Record<string, number>>({}), [tab, setTab] = useState<Record<string, number>>({});
-const [spec, setSpec] = useState<StandaloneXmasSKU | null>(null);
-const list = CHRISTMAS_INVENTORY.filter(x => (cat === "all" || x.cat === cat) && (tier === "all" || x.tier === tier) && x.name.toLowerCase().includes(q.toLowerCase()));
-const sel = CHRISTMAS_INVENTORY.filter(x => cart[x.id] > 0);
-const tot = sel.length ? calcChristmasMath(sel.reduce((s, x) => s + x.w * cart[x.id], 0), sel.reduce((s, x) => s + x.ship, 0)) : null;
-function tog(id: string) { setCart(p => { const n = { ...p }; if (n[id]) delete n[id]; else n[id] = 1; return n; }); }
-return (
-<div className="min-h-screen bg-slate-950 text-white pb-24">
-<div className="sticky top-0 z-50 bg-slate-950 border-b-2 border-red-500 p-3 flex flex-wrap justify-between gap-2 text-xs font-black">
-<Link href="/" className="text-sky-400 text-sm">← Back to ALBS Nexus</Link>
-<div className="flex flex-wrap gap-2">
-<button onClick={() => setSheet(false)} className="px-3 py-1.5 rounded bg-red-600">📸 Cards ({list.length})</button>
-<button onClick={() => setSheet(true)} className="px-3 py-1.5 rounded bg-green-500 text-black">📋 Spec Sheet ({list.length})</button>
-{tot && <button onClick={() => setBuy(true)} className="px-3 py-1.5 rounded bg-amber-400 text-black">🛒 Checkout (${tot.grandTotal.toFixed(2)})</button>}
-</div></div>
-<div className="max-w-7xl mx-auto p-4">
-<div className="border border-red-500 rounded-xl bg-slate-900 p-3 mb-4 space-y-2 text-xs font-bold">
-<input value={q} onChange={e => setQ(e.target.value)} placeholder="Search 165 SKUs..." className="px-3 py-1.5 rounded-full bg-black border border-red-500 w-full max-w-md" />
-<div className="flex flex-wrap gap-1.5">
-{[["all","All (165)"],["lights","Lights (55)"],["gifts","Gifts (55)"],["wrapping","Wrapping (30)"],["decor","Decor (25)"]].map(([k,l]) => <button key={k} onClick={() => setCat(k)} className={cat===k?"px-2.5 py-1 rounded-full bg-red-600":"px-2.5 py-1 rounded-full bg-slate-800"}>{l}</button>)}
-{[["all","All Tiers"],["T1","T1 $3.99"],["T2","T2 $5.99"],["T3","T3 $7.99"]].map(([k,l]) => <button key={k} onClick={() => setTier(k)} className={tier===k?"px-2.5 py-1 rounded-full bg-sky-600":"px-2.5 py-1 rounded-full bg-black border border-sky-400"}>{l}</button>)}
-</div></div>
-{sheet ? (<div className="bg-slate-900 border-2 border-green-500 rounded-xl p-3 overflow-x-auto"><table className="w-full text-xs text-left"><thead><tr className="border-b border-red-500 text-amber-300"><th>Buy</th><th>SKU</th><th>3 Photos + Specs</th><th>Item</th><th>Avail</th><th>Total</th><th>10% Net</th></tr></thead><tbody>{list.map(x => { const m = calcChristmasMath(x.w, x.ship); return (<tr key={x.id} className="border-b border-slate-800"><td><input type="checkbox" checked={!!cart[x.id]} onChange={() => tog(x.id)} /></td><td className="font-bold text-sky-400">{x.id}</td><td className="flex gap-1 py-1">{x.imgs.map((u,i) => <img key={i} src={u} onClick={() => setSpec(x)} className="w-10 h-8 object-cover rounded cursor-pointer" alt="" />)}<button onClick={() => setSpec(x)} className="px-2 bg-amber-400 text-black font-black rounded">📋 Specs</button></td><td>{x.name}</td><td className="text-green-400 font-bold">{x.stock}</td><td className="text-green-400 font-black">${m.grandTotal.toFixed(2)}</td><td className="text-amber-300">+${m.netProfit10.toFixed(2)}</td></tr>); })}</tbody></table></div>) : (
-<div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">{list.map(x => { const c = tab[x.id] ?? 0, m = calcChristmasMath(x.w, x.ship), ck = !!cart[x.id]; return (<div key={x.id} className="bg-slate-900 border border-red-500/70 rounded-xl overflow-hidden flex flex-col justify-between"><div>{c === 3 ? <Reel imgs={x.imgs} info={`$${m.retailSubtotal.toFixed(2)}`} /> : <div className="relative h-48 bg-black"><img src={x.imgs[c]} alt="" className="w-full h-full object-cover" /><span className="absolute top-2 left-2 bg-black/85 text-amber-300 px-2 py-0.5 rounded text-[10px] font-black">{x.id} • {x.tierLabel}</span><span className="absolute top-2 right-2 bg-green-700 px-2 py-0.5 rounded text-[10px] font-black">{x.stock} Avail</span></div>}<div className="grid grid-cols-5 gap-1 p-1.5 bg-black text-[10px] font-black">{[0,1,2].map(i => <button key={i} onClick={() => setTab({...tab,[x.id]:i})} className="h-10 rounded overflow-hidden border border-sky-400"><img src={x.imgs[i]} alt="" className="w-full h-full object-cover" /></button>)}<button onClick={() => setTab({...tab,[x.id]:c===3?0:3})} className="h-10 rounded bg-rose-600">{c===3?"⏹ Pics":"▶ Video"}</button><button onClick={() => setSpec(x)} className="h-10 rounded bg-amber-400 text-black">📋 Specs</button></div><div className="p-3 text-xs space-y-1"><div className="font-black text-sm">{x.name}</div><div className="flex justify-between"><span>Price (+10%) + Ship:</span><b>${m.retailSubtotal.toFixed(2)} + ${m.shipping.toFixed(2)}</b></div><div className="flex justify-between text-green-400 font-black text-sm"><span>Total (w/ Tax+CC):</span><span>${m.grandTotal.toFixed(2)}</span></div></div></div><div className="p-3 pt-0 grid grid-cols-2 gap-2 text-xs font-black"><button onClick={() => tog(x.id)} className="py-2 rounded border border-green-400 text-green-400">{ck?"✓ Selected":"+ Multi-Buy"}</button><button onClick={() => { setCart({...cart,[x.id]:1}); setBuy(true); }} className="py-2 rounded bg-green-500 text-black">Acquire →</button></div></div>); })}</div>)}</div>
-{spec && (() => { const m = calcChristmasMath(spec.w, spec.ship); return (<div className="fixed inset-0 bg-black/85 flex items-center justify-center z-50 p-4"><div className="bg-slate-900 border-2 border-amber-400 rounded-xl max-w-lg w-full p-4 space-y-3 text-xs"><div className="flex justify-between font-black text-amber-300 text-sm"><span>📋 SPECS • {spec.id} ({spec.stock} Avail)</span><button onClick={() => setSpec(null)}>✕</button></div><div className="grid grid-cols-3 gap-2">{spec.imgs.map((u,i) => <img key={i} src={u} alt="" className="w-full h-24 object-cover rounded border border-sky-400" />)}</div><Reel imgs={spec.imgs} info={`$${m.retailSubtotal.toFixed(2)}`} /><div className="font-black text-base">{spec.name}</div><div className="bg-black p-3 rounded space-y-1"><div>Tier: <b>{spec.tierLabel}</b> • Wholesale: <b>${spec.w.toFixed(2)}</b> • Our 10% Net: <b className="text-amber-300">+${m.netProfit10.toFixed(2)}</b></div><div>Retail: <b>${m.retailSubtotal.toFixed(2)}</b> + Ship: <b>${m.shipping.toFixed(2)}</b> + Tax/CC: <b>${(m.tax+m.ccFee).toFixed(2)}</b> = <b className="text-green-400">${m.grandTotal.toFixed(2)}</b></div></div><button onClick={() => { setCart({...cart,[spec.id]:1}); setSpec(null); setBuy(true); }} className="w-full py-2 rounded bg-green-500 text-black font-black">Acquire →</button></div></div>); })()}
-{buy && tot && (<div className="fixed inset-0 bg-black/85 flex items-center justify-center z-50 p-4"><div className="bg-slate-900 border-2 border-green-500 rounded-xl max-w-md w-full p-4 space-y-3 text-xs"><div className="flex justify-between font-black text-amber-300"><span>🛒 CHECKOUT ({sel.length} SKUs)</span><button onClick={() => setBuy(false)}>✕</button></div><div className="bg-black p-3 rounded">Subtotal: <b>${tot.retailSubtotal.toFixed(2)}</b> + Ship: <b>${tot.shipping.toFixed(2)}</b> + Tax/CC: <b>${(tot.tax+tot.ccFee).toFixed(2)}</b><div className="text-green-400 font-black text-base mt-1">Total: ${tot.grandTotal.toFixed(2)}</div></div><button onClick={() => { alert("LOCKED: $" + tot.grandTotal.toFixed(2)); setCart({}); setBuy(false); }} className="w-full py-2 rounded bg-green-500 text-black font-black">⚡ Confirm (${tot.grandTotal.toFixed(2)})</button></div></div>)}
-</div>); }
+import { CHRISTMAS_INVENTORY as INV } from "./christmas-inventory";
+import NexusCheckoutModal from "../../components/NexusCheckoutModal";
+interface XItem { id: string; name: string; cat?: string; w: number; ship: number; stock: number; imgs: string[]; }
+const DATA = INV as unknown as XItem[];
+const CATS = [["all","🎄 All (165)"],["lights","✨ Lights & Inflatables (55)"],["gifts","🎁 Hot Gifts (55)"],["wrapping","🎀 Wrapping & Boxes (30)"],["decor","🕯️ Indoor Decor (25)"]];
+const calcX = (w: number, sh: number) => { const r = +(w * (w > 120 ? 1.06 : 1.09)).toFixed(2), tax = +(r * 0.0825).toFixed(2), tot = +((r + sh + tax + 0.3) / 0.971).toFixed(2); return { r, sh, tax, tot }; };
+export default function XmasStore() {
+  const [cat, setCat] = useState("all"), [q, setQ] = useState(""), [lim, setLim] = useState(24);
+  const [owner, setOwner] = useState(false), [cut, setCut] = useState<Record<string, boolean>>({});
+  const [ang, setAng] = useState<Record<string, number>>({}), [specId, setSpecId] = useState("");
+  const [cart, setCart] = useState<Record<string, number>>({}), [coOpen, setCoOpen] = useState(false), [coMode, setCoMode] = useState("order");
+  useEffect(() => { try { const s = localStorage.getItem("albs_xmas_cut"); if (s) setCut(JSON.parse(s)); } catch {} }, []);
+  const full = DATA.filter(x => (owner ? true : !cut[x.id]) && (cat === "all" ? true : x.cat === cat) && x.name.toLowerCase().includes(q.toLowerCase()));
+  const list = full.slice(0, lim);
+  const lines = DATA.filter(x => (cart[x.id] ? cart[x.id] : 0) > 0), cnt = lines.reduce((s, x) => s + cart[x.id], 0);
+  const sub = +lines.reduce((s, x) => s + calcX(x.w, x.ship).r * cart[x.id], 0).toFixed(2);
+  const ship = sub === 0 ? 0 : sub < 100 ? 3.99 : sub < 250 ? 5.99 : sub < 500 ? 9.99 : 14.99;
+  const tax = +(sub * 0.0825).toFixed(2), tot = sub === 0 ? 0 : +((sub + ship + tax + 0.3) / 0.971).toFixed(2);
+  const spec = DATA.find(x => x.id === specId), togCut = (id: string) => { const n = { ...cut, [id]: !cut[id] }; setCut(n); localStorage.setItem("albs_xmas_cut", JSON.stringify(n)); };
+  return (<div style={{ minHeight: "100vh", background: "#07110c", color: "#f8fafc", padding: "16px 12px", fontFamily: "system-ui, sans-serif" }}>
+    <div style={{ maxWidth: 1240, margin: "0 auto" }}>
+      <div style={{ display: "flex", flexWrap: "wrap", justifyContent: "space-between", gap: 10, alignItems: "center", background: "linear-gradient(90deg,#7f1d1d,#14532d,#0f172a)", padding: "14px 16px", borderRadius: 14, border: "1px solid #facc15", marginBottom: 12 }}>
+        <div><Link href="/" style={{ color: "#fde047", fontSize: 12, textDecoration: "none", fontWeight: 800 }}>← ALBS NEXUS HUB</Link><h1 style={{ margin: "2px 0 0", fontSize: 20, fontWeight: 900 }}>🎄 CHRISTMAS SUPERSTORE • 365 HOLIDAY</h1></div>
+        <div style={{ display: "flex", flexWrap: "wrap", gap: 8 }}><button type="button" onClick={() => setOwner(!owner)} style={{ background: owner ? "#ef4444" : "#1e293b", color: "#fff", fontWeight: 800, border: "1px solid #facc15", borderRadius: 8, padding: "8px 12px", cursor: "pointer" }}>{owner ? "👑 Owner ON" : "👑 Keep/Cut"}</button><button type="button" onClick={() => { setCoMode("giftcard"); setCoOpen(true); }} style={{ background: "#facc15", color: "#000", fontWeight: 900, border: 0, borderRadius: 8, padding: "8px 12px", cursor: "pointer" }}>🎁 Gift Cards ($0 Ship)</button><button type="button" onClick={() => { setCoMode("order"); setCoOpen(true); }} style={{ background: "#22c55e", color: "#000", fontWeight: 900, border: 0, borderRadius: 8, padding: "8px 14px", cursor: "pointer" }}>🛒 Checkout ({cnt}) • ${tot.toFixed(2)}</button></div>
+      </div>
+      <div style={{ display: "flex", flexWrap: "wrap", gap: 6, marginBottom: 12 }}>{CATS.map(([k, lbl]) => <button type="button" key={k} onClick={() => { setCat(k); setLim(24); }} style={{ padding: "7px 12px", borderRadius: 999, border: 0, fontWeight: 800, fontSize: 12, cursor: "pointer", background: cat === k ? "#dc2626" : "#1e293b", color: "#fff" }}>{lbl}</button>)}<input placeholder="Search 165 lights, gifts, wrapping, decor..." value={q} onChange={e => { setQ(e.target.value); setLim(24); }} style={{ flex: 1, minWidth: 200, background: "#0f172a", border: "1px solid #334155", color: "#fff", borderRadius: 999, padding: "7px 14px", fontSize: 12 }} /></div>
+      <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(225px, 1fr))", gap: 12 }}>
+        {list.map(x => { const m = calcX(x.w, x.ship), k = ang[x.id] ? ang[x.id] : 0; return (
+          <div key={x.id} style={{ background: "#0e1c15", border: cut[x.id] ? "2px dashed #ef4444" : "1px solid #1f3a2c", borderRadius: 12, padding: 9, display: "flex", flexDirection: "column", gap: 6, overflow: "hidden" }}>
+            <div style={{ position: "relative", height: 148, borderRadius: 8, overflow: "hidden", background: "#020617", display: "flex" }}><img loading="lazy" decoding="async" src={x.imgs[k]} alt={x.name} referrerPolicy="no-referrer" style={{ flex: "1 1 0px", minWidth: 0, height: 148, objectFit: "cover" }} /><span style={{ position: "absolute", top: 5, left: 5, background: x.stock < 8 ? "#dc2626" : "#15803d", padding: "2px 7px", borderRadius: 5, fontSize: 10, fontWeight: 900 }}>{x.stock < 8 ? `🔥 ${x.stock} LEFT` : `${x.stock} Avail`}</span>{owner ? <button type="button" onClick={() => togCut(x.id)} style={{ position: "absolute", top: 5, right: 5, background: "#000", color: "#fde047", border: "1px solid #fde047", borderRadius: 5, fontSize: 10, fontWeight: 800, padding: "2px 6px", cursor: "pointer" }}>{cut[x.id] ? "Restore" : "✂️ Cut"}</button> : null}</div>
+            <div style={{ display: "flex", gap: 4 }}>{[0, 1, 2].map(i => <img loading="lazy" decoding="async" key={i} src={x.imgs[i]} alt="" referrerPolicy="no-referrer" onClick={() => setAng({ ...ang, [x.id]: i })} style={{ flex: "1 1 0px", minWidth: 0, height: 36, objectFit: "cover", borderRadius: 5, cursor: "pointer", border: k === i ? "2px solid #facc15" : "1px solid #334155" }} />)}</div>
+            <div style={{ fontWeight: 800, fontSize: 12.5, lineHeight: 1.3, minHeight: 32 }}>{x.name}</div>
+            <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}><span style={{ fontSize: 16, fontWeight: 900, color: "#4ade80" }}>${m.r.toFixed(2)}</span><button type="button" onClick={() => setSpecId(x.id)} style={{ background: "#1e293b", color: "#fde047", border: 0, borderRadius: 6, padding: "4px 8px", fontSize: 11, fontWeight: 800, cursor: "pointer" }}>📋 Specs</button></div>
+            <div style={{ display: "flex", gap: 6 }}><button type="button" onClick={() => setCart({ ...cart, [x.id]: (cart[x.id] ? cart[x.id] : 0) + 1 })} style={{ flex: 1, background: "#1e293b", color: "#fff", border: 0, borderRadius: 7, padding: "7px 0", fontWeight: 800, fontSize: 12, cursor: "pointer" }}>+ Cart</button><button type="button" onClick={() => { setCart({ ...cart, [x.id]: (cart[x.id] ? cart[x.id] : 0) + 1 }); setCoMode("order"); setCoOpen(true); }} style={{ flex: 1, background: "#dc2626", color: "#fff", border: 0, borderRadius: 7, padding: "7px 0", fontWeight: 900, fontSize: 12, cursor: "pointer" }}>Buy Now →</button></div>
+          </div>); })}
+      </div>
+      {full.length > lim ? <div style={{ textAlign: "center", marginTop: 16 }}><button type="button" onClick={() => setLim(lim + 24)} style={{ background: "#facc15", color: "#000", fontWeight: 900, border: 0, borderRadius: 999, padding: "10px 24px", fontSize: 13, cursor: "pointer" }}>Show Next 24 Holiday Items ({full.length - lim} more) ↓</button></div> : null}
+    </div>
+    {spec ? (<div onClick={() => setSpecId("")} style={{ position: "fixed", inset: 0, background: "rgba(0,0,0,0.82)", zIndex: 999, display: "flex", alignItems: "center", justifyContent: "center", padding: 14 }}><div onClick={e => e.stopPropagation()} style={{ background: "#0f172a", border: "2px solid #facc15", borderRadius: 14, maxWidth: 440, flex: 1, padding: 16, fontSize: 12 }}><div style={{ fontWeight: 900, color: "#fde047", marginBottom: 8 }}>📋 {spec.id} • {spec.name}</div><div style={{ display: "flex", gap: 6, marginBottom: 8 }}>{[0, 1, 2].map(i => <img key={i} src={spec.imgs[i]} alt="" referrerPolicy="no-referrer" style={{ flex: "1 1 0px", minWidth: 0, height: 80, objectFit: "cover", borderRadius: 6 }} />)}</div><div>Stock: {spec.stock} • Price: ${calcX(spec.w, spec.ship).r.toFixed(2)} • Ship: ${spec.ship.toFixed(2)}</div><button type="button" onClick={() => setSpecId("")} style={{ marginTop: 10, background: "#dc2626", color: "#fff", border: 0, borderRadius: 8, padding: "6px 14px", fontWeight: 800, cursor: "pointer" }}>Close</button></div></div>) : null}
+    <NexusCheckoutModal open={coOpen} mode0={coMode} store="Christmas Superstore" summary={`${cnt} Item(s) • Sub $${sub.toFixed(2)}`} total={tot} ship={ship} tax={tax} onClose={() => setCoOpen(false)} onDone={() => setCart({})} />
+  </div>); }
