@@ -49,7 +49,7 @@ export default function AlbsNexusLiveSizzle() {
   });
   const canvasRef = useRef<HTMLCanvasElement | null>(null);
   const hotRef = useRef<string | null>(null);
-  const hits = q.trim() ? [...NODES, ...RIBBONS.map(r => ({ id: r.id, title: r.name, href: r.href }))].filter(n => n.title.toLowerCase().includes(q.toLowerCase())) : [];
+  const hits = q.trim() ? [{ id: "em", title: "🚨 Emergency Superstore • Flood • Hurricane • Fire", href: "/stores/emergency-ready" }, ...NODES, ...RIBBONS.map(r => ({ id: r.id, title: r.name, href: r.href }))].filter(n => n.title.toLowerCase().includes(q.toLowerCase())) : [];
 
   useEffect(() => {
     let anim = 0, last = 0;
@@ -166,7 +166,7 @@ export default function AlbsNexusLiveSizzle() {
               <input value={q} onChange={e => setQ(e.target.value)} placeholder="Search All Malls..." style={{ width: "100%", background: "transparent", border: "none", outline: "none", color: "#fff", fontSize: "clamp(7px, 0.74cqw, 10.5px)" }} />
               <span style={{ background: "linear-gradient(135deg, #f43f5e, #ec4899)", color: "#fff", borderRadius: "50%", width: "1.35cqw", height: "1.35cqw", minWidth: "14px", minHeight: "14px", fontSize: "clamp(7px, 0.65cqw, 9px)", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>🔍</span>
             </div>
-            <Link href="/nostalgia/concierge" style={{ marginTop: "0.35cqw", padding: "0.2cqw 0.75cqw", borderRadius: "999px", border: "1px solid rgba(148,163,184,0.38)", background: "rgba(12,16,26,0.9)", color: "#e2e8f0", fontWeight: 700, fontSize: "clamp(6.5px, 0.62cqw, 9px)", textDecoration: "none", whiteSpace: "nowrap" }}>3-Hr AI Concierge (24-Hr Hold) →</Link>
+            <Link href="/nostalgia/concierge" style={{ marginTop: "0.35cqw", padding: "0.2cqw 0.75cqw", borderRadius: "999px", border: "1px solid rgba(148,163,184,0.38)", background: "rgba(12,16,26,0.9)", color: "#e2e8f0", fontWeight: 700, fontSize: "clamp(6.5px, 0.62cqw, 9px)", textDecoration: "none", whiteSpace: "nowrap" }}>3-Hr AI Concierge (24-Hr Hold) →</Link><Link href="/stores/emergency-ready" style={{ marginTop: "0.3cqw", padding: "0.22cqw 0.8cqw", borderRadius: "999px", border: "1px solid #f59e0b", background: "#b91c1c", color: "#fde047", fontWeight: 900, fontSize: "clamp(6.5px, 0.62cqw, 9px)", textDecoration: "none", whiteSpace: "nowrap" }}>🚨 EMERGENCY SUPERSTORE • Flood • Hurricane • Fire →</Link>
           </div>
           {hits.length > 0 && (
             <div style={{ position: "absolute", top: "102%", left: "50%", transform: "translateX(-50%)", width: "220px", background: "rgba(6,9,18,0.98)", border: "1px solid #ef4444", borderRadius: "10px", padding: "6px", display: "grid", gap: "4px", zIndex: 80 }}>
