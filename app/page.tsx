@@ -121,21 +121,20 @@ export default function AlbsNexusLiveSizzle() {
       <div style={{ position: "relative", zIndex: 30, maxWidth: "1400px", margin: "0 auto", containerType: "inline-size" }}>
         <div style={{ width: "95%", margin: "0 auto 0.2cqw", background: "rgba(10,13,22,0.85)", border: "1px solid rgba(148,163,184,0.28)", borderRadius: "1.1cqw", padding: "0.65cqw 1cqw", backdropFilter: "blur(8px)", boxShadow: "0 10px 35px rgba(0,0,0,0.85)" }}>
           <h2 style={{ margin: "0 0 0.55cqw", textAlign: "center", fontSize: "clamp(11px, 1.35cqw, 19px)", fontWeight: 800, letterSpacing: "0.15em", color: "#f8fafc" }}>SANCTUARIES OF HOPE</h2>
-          <div className="sanctuary-bar">
-            {RIBBONS.map(r => (
-              <div key={r.id} style={{ background: "rgba(14,18,29,0.92)", border: `1.5px solid ${r.border}`, boxShadow: `0 0 12px ${r.border}44, inset 0 0 10px ${r.border}22`, borderRadius: "0.7cqw", padding: "0.48cqw 0.55cqw", display: "flex", alignItems: "center", gap: "0.45cqw" }}>
-                <RibbonSVG r={r} />
-                <div style={{ minWidth: 0, flex: 1 }}>
-                  <Link href={`${r.href}${r.href.includes("?") ? "&" : "?"}zip=${zips[r.id]}`} style={{ fontSize: "clamp(7px, 0.78cqw, 11.5px)", fontWeight: 700, color: "#f8fafc", textDecoration: "none", display: "block", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>{r.name}</Link>
-                  <div style={{ marginTop: "0.28cqw", background: "rgba(4,6,12,0.92)", border: "1px solid rgba(148,163,184,0.3)", borderRadius: "0.35cqw", padding: "1px 3px", fontSize: "clamp(6.5px, 0.66cqw, 9.5px)", color: "#cbd5e1", display: "flex", alignItems: "center", justifyContent: "center", whiteSpace: "nowrap" }}>
-                    <span>12-MI ZIP [</span>
-                    <input value={zips[r.id]} onChange={e => setZips({ ...zips, [r.id]: e.target.value })} maxLength={5} style={{ width: "3.1cqw", minWidth: "26px", background: "transparent", border: "none", outline: "none", color: "#fff", fontSize: "inherit", fontWeight: 800, textAlign: "center" }} />
-                    <span>]</span>
-                  </div>
-                </div>
-              </div>
-            ))}
-          </div>
+          <div className="sanctuary-bar" data-z={zips.autism} onClick={() => setZips(zips)}>
+{RIBBONS.map((r) => (
+  <Link key={r.id} href={r.href} style={{
+    background:"rgba(14,18,29,0.92)", border:"1.5px solid " + r.border,
+    borderRadius:10, padding:"6px 8px", display:"flex",
+    alignItems:"center", gap:6, textDecoration:"none", color:"#fff" }}>
+    <RibbonSVG r={r} />
+    <div style={{ minWidth:0, flex:1 }}>
+      <div style={{ fontSize:11, fontWeight:800, whiteSpace:"nowrap",
+        overflow:"hidden", textOverflow:"ellipsis" }}>{r.name}</div>
+      <div style={{ marginTop:3, background:"#05070e", borderRadius:5,
+        padding:"2px 5px", fontSize:9, fontWeight:800, color:"#fde047" }}>
+        Sanctuary &amp; Information →</div>
+    </div></Link>))}</div>
         </div>
       </div>
 

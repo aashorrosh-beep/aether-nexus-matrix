@@ -1,10 +1,10 @@
 export const RIBBONS = [
   { id: "autism", name: "Autism Spectrum", href: "/sanctuary/autism-spectrum", border: "#3b82f6", puzzle: true, r1: "#ef4444", r2: "#facc15", r3: "#2563eb", r4: "#06b6d4" },
-  { id: "down", name: "Down Syndrome", href: "/sanctuary/autism-spectrum?wing=down", border: "#eab308", r1: "#1d4ed8", r2: "#facc15" },
-  { id: "deafblind", name: "Deaf / Blind", href: "/sanctuary/blind-deaf", border: "#cbd5e1", r1: "#f8fafc", r2: "#38bdf8" },
+  { id: "down", name: "Down Syndrome", href: "/sanctuary/down-syndrome", border: "#eab308", r1: "#1d4ed8", r2: "#facc15" },
+  { id: "deafblind", name: "Deaf / Blind", href: "/sanctuary/deaf-blind", border: "#cbd5e1", r1: "#f8fafc", r2: "#38bdf8" },
   { id: "ptsd", name: "PTSD & Veterans", href: "/sanctuary/ptsd-veterans", border: "#14b8a6", r1: "#0d9488", r2: "#eab308" },
-  { id: "mobility", name: "Mobility & Rehab", href: "/sanctuary/md-mobility", border: "#22c55e", r1: "#16a34a", r2: "#84cc16" },
-  { id: "peptides", name: "Biomedical Peptides", href: "/stores/holistic-peptides-wellness", border: "#a855f7", r1: "#7c3aed", r2: "#c084fc" }
+  { id: "mobility", name: "Mobility & Rehab", href: "/sanctuary/mobility-rehab", border: "#22c55e", r1: "#16a34a", r2: "#84cc16" },
+  { id: "peptides", name: "Biomedical Peptides", href: "/sanctuary/biomedical-peptides", border: "#a855f7", r1: "#7c3aed", r2: "#c084fc" }
 ];
 
 export const NODES = [
