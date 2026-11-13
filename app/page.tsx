@@ -49,7 +49,7 @@ export default function AlbsNexusLiveSizzle() {
   });
   const canvasRef = useRef<HTMLCanvasElement | null>(null);
   const hotRef = useRef<string | null>(null);
-  const hits = q.trim() ? [{ id: "em", title: "🚨 Emergency Superstore • Flood • Hurricane • Fire", href: "/stores/emergency-ready" }, ...NODES, ...RIBBONS.map(r => ({ id: r.id, title: r.name, href: r.href }))].filter(n => n.title.toLowerCase().includes(q.toLowerCase())) : [];
+  const hits = q.trim() ? [{ id: "em", title: "🚨 Emergency Superstore • Flood • Hurricane • Fire", href: "/stores/emergency-ready" }, { id: "shoe", title: "👟 Apex Shoe Vault • 160+ Sneakers, Boots & Dress", href: "/stores/shoe-store" }, { id: "music", title: "🎸 Music Town • Vinyl, CDs, Cassettes, Posters & Listening Kiosks", href: "/stores/music-town" }, ...NODES, ...RIBBONS.map(r => ({ id: r.id, title: r.name, href: r.href }))].filter(n => n.title.toLowerCase().includes(q.toLowerCase())) : [];
 
   useEffect(() => {
     let anim = 0, last = 0;
@@ -191,6 +191,134 @@ export default function AlbsNexusLiveSizzle() {
           </Link>
         ))}
       </div>
+    
+      {/* BOTTOM STANDALONE SUPERSTORES DOCK (MIRRORS TOP SANCTUARIES BAR) */}
+      <div style={{
+        width: "min(96vw, 1380px)",
+        margin: "10px auto 24px auto",
+        padding: "12px 16px",
+        borderRadius: "16px",
+        border: "1px solid rgba(148,163,184,0.32)",
+        background: "rgba(5, 8, 22, 0.88)",
+        backdropFilter: "blur(10px)",
+        position: "relative",
+        zIndex: 30,
+      }}>
+        <div style={{
+          textAlign: "center",
+          color: "#f8fafc",
+          fontWeight: 800,
+          fontSize: "12px",
+          letterSpacing: "0.22em",
+          marginBottom: "10px",
+        }}>
+          STANDALONE FLAGSHIP SUPERSTORES
+        </div>
+        <div style={{
+          display: "flex",
+          flexWrap: "wrap",
+          justifyContent: "center",
+          gap: "10px",
+        }}>
+          
+          <Link href="/stores/shoe-store" style={{
+            flex: "1 1 200px",
+            minWidth: "175px",
+            padding: "10px 14px",
+            borderRadius: "12px",
+            border: "1.8px solid #38bdf8",
+            background: "linear-gradient(145deg, rgba(8,12,28,0.94), rgba(2,6,23,0.97))",
+            boxShadow: "0 0 18px #38bdf844, inset 0 0 10px #38bdf822",
+            textDecoration: "none",
+            display: "flex",
+            alignItems: "center",
+            gap: "10px",
+          }}>
+            <span style={{ fontSize: "22px" }}>👟</span>
+            <div style={{ display: "flex", flexDirection: "column" }}>
+              <span style={{ color: "#ffffff", fontWeight: 800, fontSize: "12.5px", letterSpacing: "0.05em" }}>APEX SHOE VAULT</span>
+              <span style={{ color: "#cbd5e1", fontWeight: 600, fontSize: "10.5px", marginTop: "2px" }}>160+ Footwear · Boots · Sneakers →</span>
+            </div>
+          </Link>
+          <Link href="/stores/music-town" style={{
+            flex: "1 1 200px",
+            minWidth: "175px",
+            padding: "10px 14px",
+            borderRadius: "12px",
+            border: "1.8px solid #f43f5e",
+            background: "linear-gradient(145deg, rgba(8,12,28,0.94), rgba(2,6,23,0.97))",
+            boxShadow: "0 0 18px #f43f5e44, inset 0 0 10px #f43f5e22",
+            textDecoration: "none",
+            display: "flex",
+            alignItems: "center",
+            gap: "10px",
+          }}>
+            <span style={{ fontSize: "22px" }}>🎸</span>
+            <div style={{ display: "flex", flexDirection: "column" }}>
+              <span style={{ color: "#ffffff", fontWeight: 800, fontSize: "12.5px", letterSpacing: "0.05em" }}>MUSIC TOWN</span>
+              <span style={{ color: "#cbd5e1", fontWeight: 600, fontSize: "10.5px", marginTop: "2px" }}>168+ Vinyl · CDs · Tapes · Kiosks →</span>
+            </div>
+          </Link>
+          <Link href="/stores/emergency-ready" style={{
+            flex: "1 1 200px",
+            minWidth: "175px",
+            padding: "10px 14px",
+            borderRadius: "12px",
+            border: "1.8px solid #ef4444",
+            background: "linear-gradient(145deg, rgba(8,12,28,0.94), rgba(2,6,23,0.97))",
+            boxShadow: "0 0 18px #ef444444, inset 0 0 10px #ef444422",
+            textDecoration: "none",
+            display: "flex",
+            alignItems: "center",
+            gap: "10px",
+          }}>
+            <span style={{ fontSize: "22px" }}>🚨</span>
+            <div style={{ display: "flex", flexDirection: "column" }}>
+              <span style={{ color: "#ffffff", fontWeight: 800, fontSize: "12.5px", letterSpacing: "0.05em" }}>EMERGENCY SUPERSTORE</span>
+              <span style={{ color: "#cbd5e1", fontWeight: 600, fontSize: "10.5px", marginTop: "2px" }}>200+ Flood · Hurricane · Fire Gear →</span>
+            </div>
+          </Link>
+          <Link href="/stores/car-wash-auto" style={{
+            flex: "1 1 200px",
+            minWidth: "175px",
+            padding: "10px 14px",
+            borderRadius: "12px",
+            border: "1.8px solid #34d399",
+            background: "linear-gradient(145deg, rgba(8,12,28,0.94), rgba(2,6,23,0.97))",
+            boxShadow: "0 0 18px #34d39944, inset 0 0 10px #34d39922",
+            textDecoration: "none",
+            display: "flex",
+            alignItems: "center",
+            gap: "10px",
+          }}>
+            <span style={{ fontSize: "22px" }}>⚡</span>
+            <div style={{ display: "flex", flexDirection: "column" }}>
+              <span style={{ color: "#ffffff", fontWeight: 800, fontSize: "12.5px", letterSpacing: "0.05em" }}>CAR WASH AUTO</span>
+              <span style={{ color: "#cbd5e1", fontWeight: 600, fontSize: "10.5px", marginTop: "2px" }}>Standalone Superstore -> →</span>
+            </div>
+          </Link>
+          <Link href="/stores/christmas-holiday" style={{
+            flex: "1 1 200px",
+            minWidth: "175px",
+            padding: "10px 14px",
+            borderRadius: "12px",
+            border: "1.8px solid #34d399",
+            background: "linear-gradient(145deg, rgba(8,12,28,0.94), rgba(2,6,23,0.97))",
+            boxShadow: "0 0 18px #34d39944, inset 0 0 10px #34d39922",
+            textDecoration: "none",
+            display: "flex",
+            alignItems: "center",
+            gap: "10px",
+          }}>
+            <span style={{ fontSize: "22px" }}>⚡</span>
+            <div style={{ display: "flex", flexDirection: "column" }}>
+              <span style={{ color: "#ffffff", fontWeight: 800, fontSize: "12.5px", letterSpacing: "0.05em" }}>CHRISTMAS HOLIDAY</span>
+              <span style={{ color: "#cbd5e1", fontWeight: 600, fontSize: "10.5px", marginTop: "2px" }}>Standalone Superstore -> →</span>
+            </div>
+          </Link>
+        </div>
+      </div>
+
     </div>
   );
 }
