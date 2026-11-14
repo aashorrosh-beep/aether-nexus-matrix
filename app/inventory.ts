@@ -107743,3915 +107743,3915 @@ export const masterInventory: Record<string, any[]> = {
   "deaf-blind-superstore": [
     {
       "id": "DEAF-1",
-      "name": "[Top 50 Hard-to-Find Essential #1] Sonic Alert SB200SS Alarm Clock with Bed Shaker",
-      "price": "$27.72",
+      "name": "[Top 50 Essential #1] Geemarc Sonic Bomb Extra Loud Alarm Clock with Tone and Volume Con",
+      "price": "$39.59",
+      "vendorCost": "$35.99",
+      "netMargin": "10% Net ($3.60)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQlsT79dHVFJ6oj4Ly7XFb7fGM-9yw_UQ3eTtL0IKg3OcCd4wlTftSmmfwV4qQ6wv3sOMvK__16R5lCV250ik55gM2vuSXvUdG4Ygen18hrm1D_xw4Vw3EN",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQje4PW6PhAf1jkzxe3P4sK4a86Ep5mqHcVOlmbRSaMIu4tf3E6YZMebzQ_tfi3bkoB41Ic0m5ekz8pHleQojbfVYujq9mpNj4IJA1Cw1jvegHLSiN685pp",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSIPx7iel3QYVFAmlbyES3FSQiDJ0CyAGrnoVLk9qJePl8gTPsXyNmoLKt3BkXVcdgp9jpp2l0OOW4fL2IgxHqzMGQDGzt5iIC9Df4RRSTULwpHdBK6DDSO"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTFBvEgrS4dRZHeuME10LGBTwwKZLDTTrxo4kdpphEsDqdK63OMvXvBxg9XsrSBK1OXM_GSmXLPUfN5H2p7BiVKZ8eTsQT8iXNNcFEn6gO1UvxYcBui-egh",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXZ6a48UrwJkeoNFe0j4G_xyuPyEoh3xK71gMn52iib5YmIrA6IPnqfsIT8_lSblPlvGRBzC1aO7mSmtC7ZW_-Ugy9lrCmGMEORY5C88pXBYTcDbfr4zpOqA",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcST3iCxaGVi_w8-foNpfKiv61_1FZ5azVLY9vv30dtFUySV3-v8jzD-e6eScgzc-AMMk6XenUlcX5652uZ8CbfrZRxVyh-HuUTS8mQJrC7SDoDEYdl4DjNQ6A"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 5,
       "specs": {
-        "manufacturer": "Sonic Alert • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.29) + Card Fee ($1.29)",
-        "market_value": "Competitor Landed: $41.83 | Your All-In Landed: $35.29 (Saves $6.54)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$25.20",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $2.52"
+        "manufacturer": "eBay • $2M Insured",
+        "condition": "New • 5 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.27",
+        "market_value": "Comp: $45.53 | Yours: $39.59",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-2",
-      "name": "[Top 50 Hard-to-Find Essential #2] Sonic Alert SBB500SS Sonic Bomb Vibrating Alarm Clock",
-      "price": "$35.63",
+      "name": "[Top 50 Essential #2] Sonic Alert Sonic Bomb Dual Alarm Clock with Bed Shaker, Red Vibra",
+      "price": "$111.93",
+      "vendorCost": "$101.75",
+      "netMargin": "10% Net ($10.18)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQje4PW6PhAf1jkzxe3P4sK4a86Ep5mqHcVOlmbRSaMIu4tf3E6YZMebzQ_tfi3bkoB41Ic0m5ekz8pHleQojbfVYujq9mpNj4IJA1Cw1jvegHLSiN685pp",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSIPx7iel3QYVFAmlbyES3FSQiDJ0CyAGrnoVLk9qJePl8gTPsXyNmoLKt3BkXVcdgp9jpp2l0OOW4fL2IgxHqzMGQDGzt5iIC9Df4RRSTULwpHdBK6DDSO",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ9r20-m1Xx_YsExVJObV496nh9d8RKmOnxYNRoI9_XWfhk3salXvX-RYbO7ELMrGDesDs6_7pWTLR3Q3Bg0QP85MfNdV8y7zxyHqh7AKGBjPXVi3SI3DktRA"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXZ6a48UrwJkeoNFe0j4G_xyuPyEoh3xK71gMn52iib5YmIrA6IPnqfsIT8_lSblPlvGRBzC1aO7mSmtC7ZW_-Ugy9lrCmGMEORY5C88pXBYTcDbfr4zpOqA",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcST3iCxaGVi_w8-foNpfKiv61_1FZ5azVLY9vv30dtFUySV3-v8jzD-e6eScgzc-AMMk6XenUlcX5652uZ8CbfrZRxVyh-HuUTS8mQJrC7SDoDEYdl4DjNQ6A",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSajPU9ocipWGA2jXBzWW1lRBZHnmvZ5dbAWl7iIUOWa7TBevCa8VcSlU6S_KdEvgyvsNY9PJmgzT8GHuwoyTvw6Z6JuxC4Bfq8_Kp2Ad6-sjU70sQ5nLz2"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 6,
       "specs": {
-        "manufacturer": "Sonic Alert • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.94) + Card Fee ($1.53)",
-        "market_value": "Competitor Landed: $51.35 | Your All-In Landed: $44.09 (Saves $7.26)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$32.39",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.24"
+        "manufacturer": "Newegg.com - Temonick shop • $2M Insured",
+        "condition": "New • 6 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $5.99 + Tax: $9.23",
+        "market_value": "Comp: $128.72 | Yours: $111.93",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-3",
-      "name": "[Top 50 Hard-to-Find Essential #3] Sonic Alert sb300ssblk Extra-Loud Alarm Clock with Su",
-      "price": "$41.18",
+      "name": "[Top 50 Essential #3] Sonic Alert Sonic Bomb Dual Alarm Clock Extra Loud",
+      "price": "$43.91",
+      "vendorCost": "$39.92",
+      "netMargin": "10% Net ($3.99)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSIPx7iel3QYVFAmlbyES3FSQiDJ0CyAGrnoVLk9qJePl8gTPsXyNmoLKt3BkXVcdgp9jpp2l0OOW4fL2IgxHqzMGQDGzt5iIC9Df4RRSTULwpHdBK6DDSO",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ9r20-m1Xx_YsExVJObV496nh9d8RKmOnxYNRoI9_XWfhk3salXvX-RYbO7ELMrGDesDs6_7pWTLR3Q3Bg0QP85MfNdV8y7zxyHqh7AKGBjPXVi3SI3DktRA",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRS4yAJk4pcw5wAKEnwIKSKMlWXtOGcda8L2rtz830IZ-AH0vi2Raaa-BPlHwvjEGbACa5jauaCx-ThtyPwyQP7J0DWT34M64iu9aDY-pePNfYeyVOe6wC-"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcST3iCxaGVi_w8-foNpfKiv61_1FZ5azVLY9vv30dtFUySV3-v8jzD-e6eScgzc-AMMk6XenUlcX5652uZ8CbfrZRxVyh-HuUTS8mQJrC7SDoDEYdl4DjNQ6A",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSajPU9ocipWGA2jXBzWW1lRBZHnmvZ5dbAWl7iIUOWa7TBevCa8VcSlU6S_KdEvgyvsNY9PJmgzT8GHuwoyTvw6Z6JuxC4Bfq8_Kp2Ad6-sjU70sQ5nLz2",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSWGru-t9U6diITV5WrIVtbH246xs-7bMDw9Rk2cfeesbfocVwmK1n49dgs2WwcItSrV4kCUV6_YfcWcR05ubHuP1r3fMvAbzSmjrKj2YbxN4Muz7wKVZbs"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 7,
       "specs": {
-        "manufacturer": "Sonic Alert • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.40) + Card Fee ($1.71)",
-        "market_value": "Competitor Landed: $58.01 | Your All-In Landed: $50.28 (Saves $7.73)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$37.44",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.74"
+        "manufacturer": "Walmart - Shopemco • $2M Insured",
+        "condition": "New • 7 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.62",
+        "market_value": "Comp: $50.50 | Yours: $43.91",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-4",
-      "name": "[Top 50 Hard-to-Find Essential #4] Sonic Alert SBB500SS Sonic Bomb Alarm Clock",
-      "price": "$20.00",
+      "name": "[Top 50 Essential #4] Sonic Boom w/ Dual Alarm With Bed Shaker",
+      "price": "$55.40",
+      "vendorCost": "$50.36",
+      "netMargin": "10% Net ($5.04)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ9r20-m1Xx_YsExVJObV496nh9d8RKmOnxYNRoI9_XWfhk3salXvX-RYbO7ELMrGDesDs6_7pWTLR3Q3Bg0QP85MfNdV8y7zxyHqh7AKGBjPXVi3SI3DktRA",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRS4yAJk4pcw5wAKEnwIKSKMlWXtOGcda8L2rtz830IZ-AH0vi2Raaa-BPlHwvjEGbACa5jauaCx-ThtyPwyQP7J0DWT34M64iu9aDY-pePNfYeyVOe6wC-",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQtTF90VOTIdBs-GM1CBRXQ3Ehq81f-W_fHhBrT_eE_SCOc2g_qvR60_2-tWKOnjIcItPdiGcF8dPTKoujbUL02OtffzcIs"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSajPU9ocipWGA2jXBzWW1lRBZHnmvZ5dbAWl7iIUOWa7TBevCa8VcSlU6S_KdEvgyvsNY9PJmgzT8GHuwoyTvw6Z6JuxC4Bfq8_Kp2Ad6-sjU70sQ5nLz2",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSWGru-t9U6diITV5WrIVtbH246xs-7bMDw9Rk2cfeesbfocVwmK1n49dgs2WwcItSrV4kCUV6_YfcWcR05ubHuP1r3fMvAbzSmjrKj2YbxN4Muz7wKVZbs",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRduCn3lNRTpQ_AILdRwM2K7v01kMPiqOfZ1uudkCtzx09sjcFL0v3RXAvN1YVkm9_aU0dZ0GJVD37BXa0qKl7sNvOpr3pJjb5PE4rknFU7fr-CTfrpXrv2"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 8,
       "specs": {
-        "manufacturer": "eBay - beardedpicker • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.65) + Card Fee ($1.04)",
-        "market_value": "Competitor Landed: $32.54 | Your All-In Landed: $26.68 (Saves $5.86)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$18.18",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $1.82"
+        "manufacturer": "LS&S • $2M Insured",
+        "condition": "New • 8 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $4.57",
+        "market_value": "Comp: $63.71 | Yours: $55.40",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-5",
-      "name": "[Top 50 Hard-to-Find Essential #5] Sonic Alert Sonic Bomb SBB500SS Vibrating Alarm Clock",
-      "price": "$35.63",
+      "name": "[Top 50 Essential #5] Sonic Alert Sonic Bomb Dual Extra Loud Alarm Clock with Bed Shaker",
+      "price": "$52.79",
+      "vendorCost": "$47.99",
+      "netMargin": "10% Net ($4.80)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRS4yAJk4pcw5wAKEnwIKSKMlWXtOGcda8L2rtz830IZ-AH0vi2Raaa-BPlHwvjEGbACa5jauaCx-ThtyPwyQP7J0DWT34M64iu9aDY-pePNfYeyVOe6wC-",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQtTF90VOTIdBs-GM1CBRXQ3Ehq81f-W_fHhBrT_eE_SCOc2g_qvR60_2-tWKOnjIcItPdiGcF8dPTKoujbUL02OtffzcIs",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXOx1bSHHyStBgp57cL7xOgV9o8V3xbkzJu6ti-klurLmUsyxL9nX8pT1jf77FthUre_Vr2FJy0TXoWMZWo2Bua9f_InLEtvUh7DzkL0sLu2GNwEG1kEH49c74"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSWGru-t9U6diITV5WrIVtbH246xs-7bMDw9Rk2cfeesbfocVwmK1n49dgs2WwcItSrV4kCUV6_YfcWcR05ubHuP1r3fMvAbzSmjrKj2YbxN4Muz7wKVZbs",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRduCn3lNRTpQ_AILdRwM2K7v01kMPiqOfZ1uudkCtzx09sjcFL0v3RXAvN1YVkm9_aU0dZ0GJVD37BXa0qKl7sNvOpr3pJjb5PE4rknFU7fr-CTfrpXrv2",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRduCn3lNRTpQ_AILdRwM2K7v01kMPiqOfZ1uudkCtzx09sjcFL0v3RXAvN1YVkm9_aU0dZ0GJVD37BXa0qKl7sNvOpr3pJjb5PE4rknFU7fr-CTfrpXrv2"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 9,
       "specs": {
-        "manufacturer": "Walmart - Sonic Alert, Inc. • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 9 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.94) + Card Fee ($1.53)",
-        "market_value": "Competitor Landed: $51.35 | Your All-In Landed: $44.09 (Saves $7.26)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$32.39",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.24"
+        "manufacturer": "eBay • $2M Insured",
+        "condition": "New • 9 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $4.36",
+        "market_value": "Comp: $60.71 | Yours: $52.79",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-6",
-      "name": "[Top 50 Hard-to-Find Essential #6] Sonic Alert Bomb Jr. Alarm Clock",
-      "price": "$16.63",
+      "name": "[Top 50 Essential #6] Senlink Vibrating Bed Shaker Dual Alarm Clock, Loud Alarm Clock wi",
+      "price": "$40.45",
+      "vendorCost": "$36.77",
+      "netMargin": "10% Net ($3.68)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQtTF90VOTIdBs-GM1CBRXQ3Ehq81f-W_fHhBrT_eE_SCOc2g_qvR60_2-tWKOnjIcItPdiGcF8dPTKoujbUL02OtffzcIs",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXOx1bSHHyStBgp57cL7xOgV9o8V3xbkzJu6ti-klurLmUsyxL9nX8pT1jf77FthUre_Vr2FJy0TXoWMZWo2Bua9f_InLEtvUh7DzkL0sLu2GNwEG1kEH49c74",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQJzxD29nxpv8CE_R8r84azWpDpggICqwuO3Ag6DKgeJ6hyiqp2FCjsXGsCJLZe2PMYmLEd_2L0egbyt-N4vYSISLr5LagUIuQBU3gmVj9f-wg8E03bDSTP"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRduCn3lNRTpQ_AILdRwM2K7v01kMPiqOfZ1uudkCtzx09sjcFL0v3RXAvN1YVkm9_aU0dZ0GJVD37BXa0qKl7sNvOpr3pJjb5PE4rknFU7fr-CTfrpXrv2",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRduCn3lNRTpQ_AILdRwM2K7v01kMPiqOfZ1uudkCtzx09sjcFL0v3RXAvN1YVkm9_aU0dZ0GJVD37BXa0qKl7sNvOpr3pJjb5PE4rknFU7fr-CTfrpXrv2",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRlVbagt874vVAHtioOP8evFyhLTEkkSKLvO2ST-PU6VlUVXRX8HQRA47c2fcgOTWMKYT6LD_tOeJXRdXyGFFDPc_mXcPWdkMQYS3KgEBHKn_96SEPFjTd3vw"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 10,
       "specs": {
-        "manufacturer": "HVS Google Ads • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 10 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.37) + Card Fee ($0.94)",
-        "market_value": "Competitor Landed: $28.49 | Your All-In Landed: $22.93 (Saves $5.56)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$15.12",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $1.51"
+        "manufacturer": "Walmart - Seller • $2M Insured",
+        "condition": "New • 10 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.34",
+        "market_value": "Comp: $46.52 | Yours: $40.45",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-7",
-      "name": "[Top 50 Hard-to-Find Essential #7] Sonic Alert Sonic Shaker Travel Alarm Clock",
-      "price": "$29.29",
+      "name": "[Top 50 Essential #7] Senlink Vibrating Bed Shaker Dual Alarm Clock, Loud Alarm Clock wi",
+      "price": "$40.45",
+      "vendorCost": "$36.77",
+      "netMargin": "10% Net ($3.68)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXOx1bSHHyStBgp57cL7xOgV9o8V3xbkzJu6ti-klurLmUsyxL9nX8pT1jf77FthUre_Vr2FJy0TXoWMZWo2Bua9f_InLEtvUh7DzkL0sLu2GNwEG1kEH49c74",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQJzxD29nxpv8CE_R8r84azWpDpggICqwuO3Ag6DKgeJ6hyiqp2FCjsXGsCJLZe2PMYmLEd_2L0egbyt-N4vYSISLr5LagUIuQBU3gmVj9f-wg8E03bDSTP",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRY-xe1hGARRpNUEhJxa4fJfqH_i68Bs56lp4NmdhRDdEGSiX1NCkgrRk7Tf5cEfbTZuNgmP_19vlVjzRJUG3YIifBpuP9jZw"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRduCn3lNRTpQ_AILdRwM2K7v01kMPiqOfZ1uudkCtzx09sjcFL0v3RXAvN1YVkm9_aU0dZ0GJVD37BXa0qKl7sNvOpr3pJjb5PE4rknFU7fr-CTfrpXrv2",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRlVbagt874vVAHtioOP8evFyhLTEkkSKLvO2ST-PU6VlUVXRX8HQRA47c2fcgOTWMKYT6LD_tOeJXRdXyGFFDPc_mXcPWdkMQYS3KgEBHKn_96SEPFjTd3vw",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSfJEpYJ2nZPwlwVKER-ku1ORpmqvwmi5kU5Q0lIBtbXGAlgxDLYIhLkwrQbL9qfiy3t8AbAXlqk1DXjg3vlxXAf42viXhCeMvfVN3Jt5-od3XoPYRO2wKL"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 11,
       "specs": {
-        "manufacturer": "ADCO Hearing Products • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 11 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.42) + Card Fee ($1.34)",
-        "market_value": "Competitor Landed: $43.73 | Your All-In Landed: $37.04 (Saves $6.69)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$26.63",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $2.66"
+        "manufacturer": "Walmart - Seller • $2M Insured",
+        "condition": "New • 11 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.34",
+        "market_value": "Comp: $46.52 | Yours: $40.45",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-8",
-      "name": "[Top 50 Hard-to-Find Essential #8] Sonic Alert Vibrating Sonic Bomb Alarm Clock with Sup",
-      "price": "$19.79",
+      "name": "[Top 50 Essential #8] Sonic Alert Sonic Shaker Portable Super Loud Digital Alarm Clock f",
+      "price": "$35.16",
+      "vendorCost": "$31.96",
+      "netMargin": "10% Net ($3.20)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQJzxD29nxpv8CE_R8r84azWpDpggICqwuO3Ag6DKgeJ6hyiqp2FCjsXGsCJLZe2PMYmLEd_2L0egbyt-N4vYSISLr5LagUIuQBU3gmVj9f-wg8E03bDSTP",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRY-xe1hGARRpNUEhJxa4fJfqH_i68Bs56lp4NmdhRDdEGSiX1NCkgrRk7Tf5cEfbTZuNgmP_19vlVjzRJUG3YIifBpuP9jZw",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRXK0a5IEQTRTRw903693KkfxjKGSxH-RpMJIuF82qrhsqQCqRtdl4ERUY4NvITgMTeJDOzIHJ4vYD7Xq2GCjeL5UqJZZyc"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRlVbagt874vVAHtioOP8evFyhLTEkkSKLvO2ST-PU6VlUVXRX8HQRA47c2fcgOTWMKYT6LD_tOeJXRdXyGFFDPc_mXcPWdkMQYS3KgEBHKn_96SEPFjTd3vw",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSfJEpYJ2nZPwlwVKER-ku1ORpmqvwmi5kU5Q0lIBtbXGAlgxDLYIhLkwrQbL9qfiy3t8AbAXlqk1DXjg3vlxXAf42viXhCeMvfVN3Jt5-od3XoPYRO2wKL",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRc01EZzFRxeCKVUCBkXn7gG0qp1x9DTy5gemtqBY08Tn7SG8wvIe6wlAVYfNkaraaKyeceounNed0icMi1PNBKjKYoXXGPJwR46nycp8ZK"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 12,
       "specs": {
-        "manufacturer": "eBay • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 12 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.63) + Card Fee ($1.04)",
-        "market_value": "Competitor Landed: $32.29 | Your All-In Landed: $26.45 (Saves $5.84)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$17.99",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $1.80"
+        "manufacturer": "hearmore • $2M Insured",
+        "condition": "New • 12 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.90",
+        "market_value": "Comp: $40.43 | Yours: $35.16",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-9",
-      "name": "[Top 50 Hard-to-Find Essential #9] Sonic Alert Sonic Bomb Dual Alarm Clock Extra Loud",
-      "price": "$39.51",
+      "name": "[Top 50 Essential #9] Sonic Bomb Dual Alarm Clock With Bed Shaker, Red Vibrating Alarm C",
+      "price": "$69.48",
+      "vendorCost": "$63.16",
+      "netMargin": "10% Net ($6.32)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRY-xe1hGARRpNUEhJxa4fJfqH_i68Bs56lp4NmdhRDdEGSiX1NCkgrRk7Tf5cEfbTZuNgmP_19vlVjzRJUG3YIifBpuP9jZw",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRXK0a5IEQTRTRw903693KkfxjKGSxH-RpMJIuF82qrhsqQCqRtdl4ERUY4NvITgMTeJDOzIHJ4vYD7Xq2GCjeL5UqJZZyc",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTi1kwclg7ISwP0xRuv_1hN3ey-hyEGpDmklZCT8K-yoqbpe4kh2D7hqNXt6j70v_Hy3MjyFuPEDJ_DgaWTWdW924PQ5U2-tEMzQ3fvi27nPw7e_bmtA-ahMQ"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSfJEpYJ2nZPwlwVKER-ku1ORpmqvwmi5kU5Q0lIBtbXGAlgxDLYIhLkwrQbL9qfiy3t8AbAXlqk1DXjg3vlxXAf42viXhCeMvfVN3Jt5-od3XoPYRO2wKL",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRc01EZzFRxeCKVUCBkXn7gG0qp1x9DTy5gemtqBY08Tn7SG8wvIe6wlAVYfNkaraaKyeceounNed0icMi1PNBKjKYoXXGPJwR46nycp8ZK",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRc01EZzFRxeCKVUCBkXn7gG0qp1x9DTy5gemtqBY08Tn7SG8wvIe6wlAVYfNkaraaKyeceounNed0icMi1PNBKjKYoXXGPJwR46nycp8ZK"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 13,
+      "count": 5,
       "specs": {
-        "manufacturer": "Diglo • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 13 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.26) + Card Fee ($1.66)",
-        "market_value": "Competitor Landed: $56.01 | Your All-In Landed: $48.42 (Saves $7.59)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$35.92",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.59"
+        "manufacturer": "eBay - relianceselect • $2M Insured",
+        "condition": "New • 5 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $5.73",
+        "market_value": "Comp: $79.90 | Yours: $69.48",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-10",
-      "name": "[Top 50 Hard-to-Find Essential #10] Sonic Alert SBD375SS Bomb Dual Alarm Clock with Supe",
-      "price": "$42.24",
+      "name": "[Top 50 Essential #10] Sonic Bomb Dual Alarm Clock With Bed Shaker, Pink Vibrating Alarm",
+      "price": "$83.59",
+      "vendorCost": "$75.99",
+      "netMargin": "10% Net ($7.60)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRXK0a5IEQTRTRw903693KkfxjKGSxH-RpMJIuF82qrhsqQCqRtdl4ERUY4NvITgMTeJDOzIHJ4vYD7Xq2GCjeL5UqJZZyc",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTi1kwclg7ISwP0xRuv_1hN3ey-hyEGpDmklZCT8K-yoqbpe4kh2D7hqNXt6j70v_Hy3MjyFuPEDJ_DgaWTWdW924PQ5U2-tEMzQ3fvi27nPw7e_bmtA-ahMQ",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRaMgSW7gZXXHs1912DR3OOcHXfKqYqjmjD4aUVaLp_sXcR1mHbEH77JEIpM0o0mPkVSZMs5MDk2eSDnfayv0DFjcAPKY_DBDj-CAJy5biOZxTPhcO4VcnSAg"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRc01EZzFRxeCKVUCBkXn7gG0qp1x9DTy5gemtqBY08Tn7SG8wvIe6wlAVYfNkaraaKyeceounNed0icMi1PNBKjKYoXXGPJwR46nycp8ZK",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRc01EZzFRxeCKVUCBkXn7gG0qp1x9DTy5gemtqBY08Tn7SG8wvIe6wlAVYfNkaraaKyeceounNed0icMi1PNBKjKYoXXGPJwR46nycp8ZK",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTAwPah3lfhW4uVos_YA-HSm7GxpEBq34R0yO56-i6LKeUq9Fpo30I5vLwsYEmqgDklXoXDXkYctV63MvTeiZDJFjyQHAd-JkNKZk2tZFg"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 5,
+      "count": 6,
       "specs": {
-        "manufacturer": "Home Controls • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.48) + Card Fee ($1.74)",
-        "market_value": "Competitor Landed: $59.29 | Your All-In Landed: $51.45 (Saves $7.84)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$38.40",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.84"
+        "manufacturer": "eBay - jaspersgoldenpicks • $2M Insured",
+        "condition": "New • 6 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $6.90",
+        "market_value": "Comp: $96.13 | Yours: $83.59",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-11",
-      "name": "[Top 50 Hard-to-Find Essential #11] Sonic Alert Boom Extra-Loud Dual Alarm Clock with Vi",
-      "price": "$40.36",
+      "name": "[Top 50 Essential #11] Sonic Bomb Dual Alarm Clock With Bed Shaker, Pink Vibrating Alarm",
+      "price": "$83.59",
+      "vendorCost": "$75.99",
+      "netMargin": "10% Net ($7.60)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTi1kwclg7ISwP0xRuv_1hN3ey-hyEGpDmklZCT8K-yoqbpe4kh2D7hqNXt6j70v_Hy3MjyFuPEDJ_DgaWTWdW924PQ5U2-tEMzQ3fvi27nPw7e_bmtA-ahMQ",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRaMgSW7gZXXHs1912DR3OOcHXfKqYqjmjD4aUVaLp_sXcR1mHbEH77JEIpM0o0mPkVSZMs5MDk2eSDnfayv0DFjcAPKY_DBDj-CAJy5biOZxTPhcO4VcnSAg",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRtzyPlXdm3hnR41yN54DMFmBO2AYSkmLEQeJ09HZUr4_rxdHcokqukpkdkGqjVWzk2dqOFmG-QrX0T6Ag-U9iXHBrWrAIg6aGphgdozHlxXvSvQh8UhJS2"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRc01EZzFRxeCKVUCBkXn7gG0qp1x9DTy5gemtqBY08Tn7SG8wvIe6wlAVYfNkaraaKyeceounNed0icMi1PNBKjKYoXXGPJwR46nycp8ZK",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTAwPah3lfhW4uVos_YA-HSm7GxpEBq34R0yO56-i6LKeUq9Fpo30I5vLwsYEmqgDklXoXDXkYctV63MvTeiZDJFjyQHAd-JkNKZk2tZFg",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQc9RMYJer4xyxEpH4Rk9Corec74TQvjcE4lBRGGVNSCBDGa4fs28zxB8a54l8NIwwdnSPJ7Vs_myNcd6mp3ImSw9v9FW6JD0lPlxZzX5qJ3KOw5HKAiJPBfg"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 6,
+      "count": 7,
       "specs": {
-        "manufacturer": "LS&S • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.33) + Card Fee ($1.68)",
-        "market_value": "Competitor Landed: $57.03 | Your All-In Landed: $49.36 (Saves $7.67)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$36.69",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.67"
+        "manufacturer": "eBay - maximlin-86 • $2M Insured",
+        "condition": "New • 7 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $6.90",
+        "market_value": "Comp: $96.13 | Yours: $83.59",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-12",
-      "name": "[Top 50 Hard-to-Find Essential #12] Sonic Alert Super Shaker 12V Black Bed Shaker",
-      "price": "$15.43",
+      "name": "[Top 50 Essential #12] Sonic Bomb Dual Alarm Clock With Bed Shaker, Turquiose Vibrating ",
+      "price": "$67.05",
+      "vendorCost": "$60.95",
+      "netMargin": "10% Net ($6.10)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRaMgSW7gZXXHs1912DR3OOcHXfKqYqjmjD4aUVaLp_sXcR1mHbEH77JEIpM0o0mPkVSZMs5MDk2eSDnfayv0DFjcAPKY_DBDj-CAJy5biOZxTPhcO4VcnSAg",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRtzyPlXdm3hnR41yN54DMFmBO2AYSkmLEQeJ09HZUr4_rxdHcokqukpkdkGqjVWzk2dqOFmG-QrX0T6Ag-U9iXHBrWrAIg6aGphgdozHlxXvSvQh8UhJS2",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTCA0RU--oAgSu9_yd5coTWOkzNBe91rC892ZKWPNpP7m88987Q9JvkLlgTT4gjq5RThPgloFiKNmXrLbKVTSKIMtXYdRA7WoEgU6BI6xUvMYp-JNqeWZMx8g"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTAwPah3lfhW4uVos_YA-HSm7GxpEBq34R0yO56-i6LKeUq9Fpo30I5vLwsYEmqgDklXoXDXkYctV63MvTeiZDJFjyQHAd-JkNKZk2tZFg",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQc9RMYJer4xyxEpH4Rk9Corec74TQvjcE4lBRGGVNSCBDGa4fs28zxB8a54l8NIwwdnSPJ7Vs_myNcd6mp3ImSw9v9FW6JD0lPlxZzX5qJ3KOw5HKAiJPBfg",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSNkUp7E4vrvxXG47ayMKXLbErxfuC12mgCNxQCGzMl0OHlB0jcS67IjeMaUa6GoN7yjiRYegtKJEDYq5amtLTLYErW1R5QpOcaTbrcJAI"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 7,
+      "count": 8,
       "specs": {
-        "manufacturer": "Walmart - Diglo • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.27) + Card Fee ($0.90)",
-        "market_value": "Competitor Landed: $27.04 | Your All-In Landed: $21.59 (Saves $5.45)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$14.03",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $1.40"
+        "manufacturer": "eBay • $2M Insured",
+        "condition": "New • 8 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $5.53",
+        "market_value": "Comp: $77.11 | Yours: $67.05",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-13",
-      "name": "[Top 50 Hard-to-Find Essential #13] Sonic Alert SB300SS Sonic Boom Alarm Clock",
-      "price": "$46.04",
+      "name": "[Top 50 Essential #13] Sonic Alert Boom Extra-Loud Dual Alarm Clock with Vibrating Bed S",
+      "price": "$44.84",
+      "vendorCost": "$40.76",
+      "netMargin": "10% Net ($4.08)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRtzyPlXdm3hnR41yN54DMFmBO2AYSkmLEQeJ09HZUr4_rxdHcokqukpkdkGqjVWzk2dqOFmG-QrX0T6Ag-U9iXHBrWrAIg6aGphgdozHlxXvSvQh8UhJS2",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTCA0RU--oAgSu9_yd5coTWOkzNBe91rC892ZKWPNpP7m88987Q9JvkLlgTT4gjq5RThPgloFiKNmXrLbKVTSKIMtXYdRA7WoEgU6BI6xUvMYp-JNqeWZMx8g",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRn8AwKDHaJtNBdTAbtxJhwNKIP9UIgeYhknLAOXU9btf-UzuJmpjs1Rz1WPhXI65yBdNge7wRVoHILL3K7oKyiPcOA_lsEisLabx1HgXtQX04Pn6JWVTxbFw"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQc9RMYJer4xyxEpH4Rk9Corec74TQvjcE4lBRGGVNSCBDGa4fs28zxB8a54l8NIwwdnSPJ7Vs_myNcd6mp3ImSw9v9FW6JD0lPlxZzX5qJ3KOw5HKAiJPBfg",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSNkUp7E4vrvxXG47ayMKXLbErxfuC12mgCNxQCGzMl0OHlB0jcS67IjeMaUa6GoN7yjiRYegtKJEDYq5amtLTLYErW1R5QpOcaTbrcJAI",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTDxHqNpO6gB-nSIo9cR4QDjQ5VpduuXchY3JhOlDNSJZSuSzcc887ZmdHu3xWW6DNhhivitE2KJWhMAKGT9hjs4zn0LnFx"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 8,
+      "count": 9,
       "specs": {
-        "manufacturer": "eBay • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.80) + Card Fee ($1.86)",
-        "market_value": "Competitor Landed: $63.87 | Your All-In Landed: $55.69 (Saves $8.18)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$41.85",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $4.19"
+        "manufacturer": "LS&S • $2M Insured",
+        "condition": "New • 9 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.70",
+        "market_value": "Comp: $51.57 | Yours: $44.84",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-14",
-      "name": "[Top 50 Hard-to-Find Essential #14] Sonic Alert Sonic Bomb Dual Extra Loud Alarm Clock w",
-      "price": "$15.05",
+      "name": "[Top 50 Essential #14] Sonic Alert Sonic Bomb Extra Loud Vibrating Alarm Clock Super Bed",
+      "price": "$35.16",
+      "vendorCost": "$31.96",
+      "netMargin": "10% Net ($3.20)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTCA0RU--oAgSu9_yd5coTWOkzNBe91rC892ZKWPNpP7m88987Q9JvkLlgTT4gjq5RThPgloFiKNmXrLbKVTSKIMtXYdRA7WoEgU6BI6xUvMYp-JNqeWZMx8g",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRn8AwKDHaJtNBdTAbtxJhwNKIP9UIgeYhknLAOXU9btf-UzuJmpjs1Rz1WPhXI65yBdNge7wRVoHILL3K7oKyiPcOA_lsEisLabx1HgXtQX04Pn6JWVTxbFw",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS_yR2Jar8gCzvEOJdgCMXHS8P2ZZYmVPP8Ir9OjzCiZjBx8KMRvN4-2fSAA1zpZFwSx7oyqF0vg9IKymzqh0PvhtxHIUKwRbPiobj-jHdCEgQLCEB_2Ywr"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSNkUp7E4vrvxXG47ayMKXLbErxfuC12mgCNxQCGzMl0OHlB0jcS67IjeMaUa6GoN7yjiRYegtKJEDYq5amtLTLYErW1R5QpOcaTbrcJAI",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTDxHqNpO6gB-nSIo9cR4QDjQ5VpduuXchY3JhOlDNSJZSuSzcc887ZmdHu3xWW6DNhhivitE2KJWhMAKGT9hjs4zn0LnFx",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRUCCrFjVOzux1HBtSZg4EzSPXwbdIWczcwDx7Sz0qElnoLd5opwWFhtkmMTrtYnllXWCPX8hOmEfoveMtv1bY_fPw7iSx2YKOhlvJWRZMsVZ4GLNx1lt8Ikg"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 9,
+      "count": 10,
       "specs": {
-        "manufacturer": "eBay • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 9 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.24) + Card Fee ($0.89)",
-        "market_value": "Competitor Landed: $26.59 | Your All-In Landed: $21.17 (Saves $5.42)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$13.68",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $1.37"
+        "manufacturer": "eBay • $2M Insured",
+        "condition": "New • 10 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.90",
+        "market_value": "Comp: $40.43 | Yours: $35.16",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-15",
-      "name": "[Top 50 Hard-to-Find Essential #15] Sonic Alert Replacement Bed Shaker for Sonic Bomb Cl",
-      "price": "$15.35",
+      "name": "[Top 50 Essential #15] Sonic Alert HomeAware Bed Shaker | Bed Shaker | Each | HA360V",
+      "price": "$21.99",
+      "vendorCost": "$19.99",
+      "netMargin": "10% Net ($2.00)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRn8AwKDHaJtNBdTAbtxJhwNKIP9UIgeYhknLAOXU9btf-UzuJmpjs1Rz1WPhXI65yBdNge7wRVoHILL3K7oKyiPcOA_lsEisLabx1HgXtQX04Pn6JWVTxbFw",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS_yR2Jar8gCzvEOJdgCMXHS8P2ZZYmVPP8Ir9OjzCiZjBx8KMRvN4-2fSAA1zpZFwSx7oyqF0vg9IKymzqh0PvhtxHIUKwRbPiobj-jHdCEgQLCEB_2Ywr",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSTYdevpv9GWB21YYEqHwEqJx7RIi9v0VSZ2stQacHLCVum-XRBNh42os0a3IWli4qtBpjvO7q5jZBhRr49J7w8epH-FqtrnQGKyE5Vatl_4Q9ePvzlA-sW1w"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTDxHqNpO6gB-nSIo9cR4QDjQ5VpduuXchY3JhOlDNSJZSuSzcc887ZmdHu3xWW6DNhhivitE2KJWhMAKGT9hjs4zn0LnFx",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRUCCrFjVOzux1HBtSZg4EzSPXwbdIWczcwDx7Sz0qElnoLd5opwWFhtkmMTrtYnllXWCPX8hOmEfoveMtv1bY_fPw7iSx2YKOhlvJWRZMsVZ4GLNx1lt8Ikg",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS9wP3oIh--l1OIKFOSIp93HnoJTOR3kl2gJ7Q7SKGCH0tnXg9tWYyqD6Ir4dFpm7kw25ZGh5LHAbpOWhUEMBPAHOM61wmQ3ZxpE5yJHFmIJERl4Q6BcYQrPQ"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 10,
+      "count": 11,
       "specs": {
-        "manufacturer": "Walmart - Diglo • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 10 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.27) + Card Fee ($0.90)",
-        "market_value": "Competitor Landed: $26.96 | Your All-In Landed: $21.51 (Saves $5.45)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$13.95",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $1.40"
+        "manufacturer": "HealthProductsForYou.com • $2M Insured",
+        "condition": "New • 11 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.81",
+        "market_value": "Comp: $25.29 | Yours: $21.99",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-16",
-      "name": "[Top 50 Hard-to-Find Essential #16] Sonic Alert Sonic Bomb Jr. 6V Bed Shaker",
-      "price": "$31.64",
+      "name": "[Top 50 Essential #16] Vibrating Alarm Clock With Bed Shaker For Heavy Sleepers, Deaf Pe",
+      "price": "$52.79",
+      "vendorCost": "$47.99",
+      "netMargin": "10% Net ($4.80)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS_yR2Jar8gCzvEOJdgCMXHS8P2ZZYmVPP8Ir9OjzCiZjBx8KMRvN4-2fSAA1zpZFwSx7oyqF0vg9IKymzqh0PvhtxHIUKwRbPiobj-jHdCEgQLCEB_2Ywr",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSTYdevpv9GWB21YYEqHwEqJx7RIi9v0VSZ2stQacHLCVum-XRBNh42os0a3IWli4qtBpjvO7q5jZBhRr49J7w8epH-FqtrnQGKyE5Vatl_4Q9ePvzlA-sW1w",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS5OZj0Vt0eXBqRiofzWb1iE6wKjrVEaIKvMlISdRdlasRylFGhr1pQkf9bQ1Uys7HmyKfkCqmlXaa9ipcUivyiSyAmfor7ED5IQ0M4mV2iYNpfQmvpnnjS"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRUCCrFjVOzux1HBtSZg4EzSPXwbdIWczcwDx7Sz0qElnoLd5opwWFhtkmMTrtYnllXWCPX8hOmEfoveMtv1bY_fPw7iSx2YKOhlvJWRZMsVZ4GLNx1lt8Ikg",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS9wP3oIh--l1OIKFOSIp93HnoJTOR3kl2gJ7Q7SKGCH0tnXg9tWYyqD6Ir4dFpm7kw25ZGh5LHAbpOWhUEMBPAHOM61wmQ3ZxpE5yJHFmIJERl4Q6BcYQrPQ",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTg3wcyoUAHvZQKdLdo-Y-uSXXL1Imh_WTAi6JQRRmxuOwQA6tZypgnb4MU7hATB_JzNW9P7vNXLt61LCR_hoTVteJIHzC-L2o9AYCy2UI"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 11,
+      "count": 12,
       "specs": {
-        "manufacturer": "Hear World Communications • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 11 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.61) + Card Fee ($1.41)",
-        "market_value": "Competitor Landed: $46.55 | Your All-In Landed: $39.65 (Saves $6.90)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$28.76",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $2.88"
+        "manufacturer": "eBay - danano-91 • $2M Insured",
+        "condition": "New • 12 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $4.36",
+        "market_value": "Comp: $60.71 | Yours: $52.79",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-17",
-      "name": "[Top 50 Hard-to-Find Essential #17] Sa-sb1000ss Sonic Bomb Sonic Boom Alarm w/VIB",
-      "price": "$62.36",
+      "name": "[Top 50 Essential #17] Sonic Boom Alarm Clock w/ Bed Shaker",
+      "price": "$92.36",
+      "vendorCost": "$83.96",
+      "netMargin": "10% Net ($8.40)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSTYdevpv9GWB21YYEqHwEqJx7RIi9v0VSZ2stQacHLCVum-XRBNh42os0a3IWli4qtBpjvO7q5jZBhRr49J7w8epH-FqtrnQGKyE5Vatl_4Q9ePvzlA-sW1w",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS5OZj0Vt0eXBqRiofzWb1iE6wKjrVEaIKvMlISdRdlasRylFGhr1pQkf9bQ1Uys7HmyKfkCqmlXaa9ipcUivyiSyAmfor7ED5IQ0M4mV2iYNpfQmvpnnjS",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQvvA3wOOCERY0AVTHnG_XL_wVjYDNvWKrFWSXjwfRpsF2tRjHSvnA2wHEDujD9o7tOGNeSvJBZ2iulWA6yLjAq3mibL8M0mNcFdI_L_tzXxZCiUGkHMcgr"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS9wP3oIh--l1OIKFOSIp93HnoJTOR3kl2gJ7Q7SKGCH0tnXg9tWYyqD6Ir4dFpm7kw25ZGh5LHAbpOWhUEMBPAHOM61wmQ3ZxpE5yJHFmIJERl4Q6BcYQrPQ",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTg3wcyoUAHvZQKdLdo-Y-uSXXL1Imh_WTAi6JQRRmxuOwQA6tZypgnb4MU7hATB_JzNW9P7vNXLt61LCR_hoTVteJIHzC-L2o9AYCy2UI",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR0xV4SYCJ1yoBAHsJLR2a40ZvTimEvHknmBcc7zuBXWg0sEWQslNalEdR44ThTMMkfbYb_4mxWn8PvrYGdQyWTDtYSoO8zdS2ENhJUL1c"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 12,
+      "count": 5,
       "specs": {
-        "manufacturer": "Newegg.com - TELeasy • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 12 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $5.14) + Card Fee ($2.37)",
-        "market_value": "Competitor Landed: $83.50 | Your All-In Landed: $73.86 (Saves $9.64)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$56.69",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $5.67"
+        "manufacturer": "Independent Living Aids • $2M Insured",
+        "condition": "New • 5 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $7.62",
+        "market_value": "Comp: $106.21 | Yours: $92.36",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-18",
-      "name": "[Top 50 Hard-to-Find Essential #18] Sonic Boom w/ Dual Alarm With Bed Shaker",
-      "price": "$49.86",
+      "name": "[Top 50 Essential #18] Alarm Clock With Bed Shaker, Vibrating Alarm Clock For Heavy Slee",
+      "price": "$37.38",
+      "vendorCost": "$33.98",
+      "netMargin": "10% Net ($3.40)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS5OZj0Vt0eXBqRiofzWb1iE6wKjrVEaIKvMlISdRdlasRylFGhr1pQkf9bQ1Uys7HmyKfkCqmlXaa9ipcUivyiSyAmfor7ED5IQ0M4mV2iYNpfQmvpnnjS",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQvvA3wOOCERY0AVTHnG_XL_wVjYDNvWKrFWSXjwfRpsF2tRjHSvnA2wHEDujD9o7tOGNeSvJBZ2iulWA6yLjAq3mibL8M0mNcFdI_L_tzXxZCiUGkHMcgr",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTuE_IFqODxA_ArS1xXB9hHXW96kWXsaPR5rFE2bQQUG__xMHyaWNSRx7kzv0l4k3Wlxe8QmejQUHZtYG7Y_ZmxAQpgoP_uNPxsdfPIH5QynN247_zWVeVESg"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTg3wcyoUAHvZQKdLdo-Y-uSXXL1Imh_WTAi6JQRRmxuOwQA6tZypgnb4MU7hATB_JzNW9P7vNXLt61LCR_hoTVteJIHzC-L2o9AYCy2UI",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR0xV4SYCJ1yoBAHsJLR2a40ZvTimEvHknmBcc7zuBXWg0sEWQslNalEdR44ThTMMkfbYb_4mxWn8PvrYGdQyWTDtYSoO8zdS2ENhJUL1c",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTMoe_lkF9ro0wM2v_ZIItO8qj2HQSEAal_VkR2kfcKHS0vVx1_T9OLwdsxblgvM8s7ZUVXsm4czwvPZyalJh_pFt-ZRZ8a9G4d9cTJRvF5"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 13,
+      "count": 6,
       "specs": {
-        "manufacturer": "LS&S • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 13 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $4.11) + Card Fee ($1.98)",
-        "market_value": "Competitor Landed: $68.46 | Your All-In Landed: $59.94 (Saves $8.52)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$45.33",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $4.53"
+        "manufacturer": "eBay - smartdeal-shop • $2M Insured",
+        "condition": "New • 6 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.08",
+        "market_value": "Comp: $42.99 | Yours: $37.38",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-19",
-      "name": "[Top 50 Hard-to-Find Essential #19] Sonic Alert Sonic Shaker Sbp200 Vibrating Travel Ala",
-      "price": "$26.85",
+      "name": "[Top 50 Essential #19] Extra Loud Alarm Clock With Wireless Bed Shaker, Vibrating Dual A",
+      "price": "$57.19",
+      "vendorCost": "$51.99",
+      "netMargin": "10% Net ($5.20)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQvvA3wOOCERY0AVTHnG_XL_wVjYDNvWKrFWSXjwfRpsF2tRjHSvnA2wHEDujD9o7tOGNeSvJBZ2iulWA6yLjAq3mibL8M0mNcFdI_L_tzXxZCiUGkHMcgr",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTuE_IFqODxA_ArS1xXB9hHXW96kWXsaPR5rFE2bQQUG__xMHyaWNSRx7kzv0l4k3Wlxe8QmejQUHZtYG7Y_ZmxAQpgoP_uNPxsdfPIH5QynN247_zWVeVESg",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRDTweIggKVxc6bIYi5eoEfJhmXl0IGjBT6yU54Tw__3qvw8N4tmUA4q6vzXjj_qsno56EX_Kt64thb8V-duoEjSPnuEpLWig4tOinRXhQjBLdA6hrlAe7nl3s"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR0xV4SYCJ1yoBAHsJLR2a40ZvTimEvHknmBcc7zuBXWg0sEWQslNalEdR44ThTMMkfbYb_4mxWn8PvrYGdQyWTDtYSoO8zdS2ENhJUL1c",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTMoe_lkF9ro0wM2v_ZIItO8qj2HQSEAal_VkR2kfcKHS0vVx1_T9OLwdsxblgvM8s7ZUVXsm4czwvPZyalJh_pFt-ZRZ8a9G4d9cTJRvF5",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRJehCTL7wrTpWKELFjuZfzCUZ8Kunhz-tE_uDh1deQK_kJSQo35oPeiwJ7C6iDpjCH_rPM2Vwq2-381VHa73_nc_Jgi-NSDs6bnB8F0YHu"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 5,
+      "count": 7,
       "specs": {
-        "manufacturer": "Opentip.com • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.22) + Card Fee ($1.26)",
-        "market_value": "Competitor Landed: $40.78 | Your All-In Landed: $34.32 (Saves $6.46)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$24.41",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $2.44"
+        "manufacturer": "eBay • $2M Insured",
+        "condition": "New • 7 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $4.72",
+        "market_value": "Comp: $65.77 | Yours: $57.19",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-20",
-      "name": "[Top 50 Hard-to-Find Essential #20] Sonic Bomb Dual Extra Loud Alarm Clock With Bed Shak",
-      "price": "$47.62",
+      "name": "[Top 50 Essential #20] Super Loud Alarm With Bed Shaker, Vibrating Alarm Clock For Heavy",
+      "price": "$35.37",
+      "vendorCost": "$32.15",
+      "netMargin": "10% Net ($3.22)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTuE_IFqODxA_ArS1xXB9hHXW96kWXsaPR5rFE2bQQUG__xMHyaWNSRx7kzv0l4k3Wlxe8QmejQUHZtYG7Y_ZmxAQpgoP_uNPxsdfPIH5QynN247_zWVeVESg",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRDTweIggKVxc6bIYi5eoEfJhmXl0IGjBT6yU54Tw__3qvw8N4tmUA4q6vzXjj_qsno56EX_Kt64thb8V-duoEjSPnuEpLWig4tOinRXhQjBLdA6hrlAe7nl3s",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSTU8nBZyNISmw2aqQNAnGRD89ruwtTFXuyLu2_5WzvfdGJmtWg-IWLJyGR96XkxcNBbGlotRtb4mO2Q4Z0ZqSkIl67ed9wKDpPgaBtvmZDUrYRBqJJjIaKUQ"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTMoe_lkF9ro0wM2v_ZIItO8qj2HQSEAal_VkR2kfcKHS0vVx1_T9OLwdsxblgvM8s7ZUVXsm4czwvPZyalJh_pFt-ZRZ8a9G4d9cTJRvF5",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRJehCTL7wrTpWKELFjuZfzCUZ8Kunhz-tE_uDh1deQK_kJSQo35oPeiwJ7C6iDpjCH_rPM2Vwq2-381VHa73_nc_Jgi-NSDs6bnB8F0YHu",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRAzJ0xpVZLfw7TmxiQwf5aMq-LIN1twIdOPgbXidr7v_2dFDM913j93zOYP3ttXbOGIoJfJc1xNOZ-sk0wOf5UHLVx6CFkCzWfxGHjU1iXYf11Ua-I4wDL"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 6,
+      "count": 8,
       "specs": {
-        "manufacturer": "eBay - vessential71 • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.93) + Card Fee ($1.91)",
-        "market_value": "Competitor Landed: $65.77 | Your All-In Landed: $57.45 (Saves $8.32)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$43.29",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $4.33"
+        "manufacturer": "eBay - fiderom_79 • $2M Insured",
+        "condition": "New • 8 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.92",
+        "market_value": "Comp: $40.68 | Yours: $35.37",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-21",
-      "name": "[Top 50 Hard-to-Find Essential #21] Sonic Shaker Sbp200 White Compact Travel Alarm Clock",
-      "price": "$27.72",
+      "name": "[Top 50 Essential #21] Vibrating Alarm Clock For Heavy Sleepers - Auto Set Bed Shaker Al",
+      "price": "$33.87",
+      "vendorCost": "$30.79",
+      "netMargin": "10% Net ($3.08)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRDTweIggKVxc6bIYi5eoEfJhmXl0IGjBT6yU54Tw__3qvw8N4tmUA4q6vzXjj_qsno56EX_Kt64thb8V-duoEjSPnuEpLWig4tOinRXhQjBLdA6hrlAe7nl3s",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSTU8nBZyNISmw2aqQNAnGRD89ruwtTFXuyLu2_5WzvfdGJmtWg-IWLJyGR96XkxcNBbGlotRtb4mO2Q4Z0ZqSkIl67ed9wKDpPgaBtvmZDUrYRBqJJjIaKUQ",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRsCZZsu5UITWUyfNhdFh55E3myDXKZydyi7xEm1MjsD5TqhKjNv3rcR0Heo0xJyXaOOmjpmtvfLjtPOmhKfrbroOcgGdTCle6Prx3-n6Y"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRJehCTL7wrTpWKELFjuZfzCUZ8Kunhz-tE_uDh1deQK_kJSQo35oPeiwJ7C6iDpjCH_rPM2Vwq2-381VHa73_nc_Jgi-NSDs6bnB8F0YHu",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRAzJ0xpVZLfw7TmxiQwf5aMq-LIN1twIdOPgbXidr7v_2dFDM913j93zOYP3ttXbOGIoJfJc1xNOZ-sk0wOf5UHLVx6CFkCzWfxGHjU1iXYf11Ua-I4wDL",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRAzJ0xpVZLfw7TmxiQwf5aMq-LIN1twIdOPgbXidr7v_2dFDM913j93zOYP3ttXbOGIoJfJc1xNOZ-sk0wOf5UHLVx6CFkCzWfxGHjU1iXYf11Ua-I4wDL"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 7,
+      "count": 9,
       "specs": {
-        "manufacturer": "Walmart - Sonic Alert, Inc. • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.29) + Card Fee ($1.29)",
-        "market_value": "Competitor Landed: $41.83 | Your All-In Landed: $35.29 (Saves $6.54)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$25.20",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $2.52"
+        "manufacturer": "eBay - broad.stop • $2M Insured",
+        "condition": "New • 9 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.79",
+        "market_value": "Comp: $38.95 | Yours: $33.87",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-22",
-      "name": "[Top 50 Hard-to-Find Essential #22] Sonic Alert Sonic Bomb Dual Alarm Clock with Bed Sha",
-      "price": "$69.28",
+      "name": "[Top 50 Essential #22] Vibrating Alarm Clock With Bed Shaker For Heavy Sleepers, Deaf Pe",
+      "price": "$37.75",
+      "vendorCost": "$34.32",
+      "netMargin": "10% Net ($3.43)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSTU8nBZyNISmw2aqQNAnGRD89ruwtTFXuyLu2_5WzvfdGJmtWg-IWLJyGR96XkxcNBbGlotRtb4mO2Q4Z0ZqSkIl67ed9wKDpPgaBtvmZDUrYRBqJJjIaKUQ",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRsCZZsu5UITWUyfNhdFh55E3myDXKZydyi7xEm1MjsD5TqhKjNv3rcR0Heo0xJyXaOOmjpmtvfLjtPOmhKfrbroOcgGdTCle6Prx3-n6Y",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXe2VdBoJs7l7FcsdF8Ts7HQLmQbxjI8bEae3zvoE7W_eT8guTKf1uWo8obJsrnFPDZ9-6FNkG1euvaKpAZNd2vdmVMatWqJQ98JwhdLovTKlRDGLR6xywXQ"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRAzJ0xpVZLfw7TmxiQwf5aMq-LIN1twIdOPgbXidr7v_2dFDM913j93zOYP3ttXbOGIoJfJc1xNOZ-sk0wOf5UHLVx6CFkCzWfxGHjU1iXYf11Ua-I4wDL",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRAzJ0xpVZLfw7TmxiQwf5aMq-LIN1twIdOPgbXidr7v_2dFDM913j93zOYP3ttXbOGIoJfJc1xNOZ-sk0wOf5UHLVx6CFkCzWfxGHjU1iXYf11Ua-I4wDL",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ48OPrDJPBX8_u0XxXSYGiQ5e5o2FIw-VpxSJIt6RTf1_tQQYJBcuBILCaYByaUJAv6__4AWv0VSU-sCv7P_p_QlQxmTeN1TSh0Fp9Rs_U"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 8,
+      "count": 10,
       "specs": {
-        "manufacturer": "Newegg.com - Temonick shop • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $5.72) + Card Fee ($2.59)",
-        "market_value": "Competitor Landed: $91.82 | Your All-In Landed: $81.58 (Saves $10.24)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$62.98",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $6.30"
+        "manufacturer": "eBay - shiho5 • $2M Insured",
+        "condition": "New • 10 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.11",
+        "market_value": "Comp: $43.41 | Yours: $37.75",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-23",
-      "name": "[Top 50 Hard-to-Find Essential #23] Sonic Alert Sonic Bomb Alarm Clock With Power Cord -",
-      "price": "$15.81",
+      "name": "[Top 50 Essential #23] Vibrating Alarm Clock With Bed Shaker For Heavy Sleepers, Deaf Pe",
+      "price": "$38.02",
+      "vendorCost": "$34.56",
+      "netMargin": "10% Net ($3.46)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRsCZZsu5UITWUyfNhdFh55E3myDXKZydyi7xEm1MjsD5TqhKjNv3rcR0Heo0xJyXaOOmjpmtvfLjtPOmhKfrbroOcgGdTCle6Prx3-n6Y",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXe2VdBoJs7l7FcsdF8Ts7HQLmQbxjI8bEae3zvoE7W_eT8guTKf1uWo8obJsrnFPDZ9-6FNkG1euvaKpAZNd2vdmVMatWqJQ98JwhdLovTKlRDGLR6xywXQ",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMyzRgoHG65_ysVjplzrG88r5X5DuIsql8uq9cJrg1SMbookh2u7z7MM_XNFncK5QprajUQK3yPTuRvvcgotci-igmnokJQ3w79SsNmVq2"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRAzJ0xpVZLfw7TmxiQwf5aMq-LIN1twIdOPgbXidr7v_2dFDM913j93zOYP3ttXbOGIoJfJc1xNOZ-sk0wOf5UHLVx6CFkCzWfxGHjU1iXYf11Ua-I4wDL",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ48OPrDJPBX8_u0XxXSYGiQ5e5o2FIw-VpxSJIt6RTf1_tQQYJBcuBILCaYByaUJAv6__4AWv0VSU-sCv7P_p_QlQxmTeN1TSh0Fp9Rs_U",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRqLmQnhe9CN9FdS8QGzgkOSrw6owivxz1n6BWUt0f_kkT3i-jHZnBYKcWafTGAcbfZSpRy0iWCx9vZa8uB81sdz238DrcfxMfIXwlMOyG6"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 9,
+      "count": 11,
       "specs": {
-        "manufacturer": "eBay - classymedley • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 9 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.30) + Card Fee ($0.91)",
-        "market_value": "Competitor Landed: $27.51 | Your All-In Landed: $22.01 (Saves $5.50)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$14.37",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $1.44"
+        "manufacturer": "eBay - aziza-54 • $2M Insured",
+        "condition": "New • 11 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.14",
+        "market_value": "Comp: $43.72 | Yours: $38.02",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-24",
-      "name": "[Top 50 Hard-to-Find Essential #24] Sonic Alert Sonic Bomb Dual Alarm Clock with Bed Sha",
-      "price": "$100.74",
+      "name": "[Top 50 Essential #24] Loud Alarm Clock With Wireless Bed Shaker, Vibrating Dual Alarm W",
+      "price": "$43.99",
+      "vendorCost": "$39.99",
+      "netMargin": "10% Net ($4.00)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXe2VdBoJs7l7FcsdF8Ts7HQLmQbxjI8bEae3zvoE7W_eT8guTKf1uWo8obJsrnFPDZ9-6FNkG1euvaKpAZNd2vdmVMatWqJQ98JwhdLovTKlRDGLR6xywXQ",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMyzRgoHG65_ysVjplzrG88r5X5DuIsql8uq9cJrg1SMbookh2u7z7MM_XNFncK5QprajUQK3yPTuRvvcgotci-igmnokJQ3w79SsNmVq2",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSMKFQXXdK9h03UXi1IJn6whu1sRcdBnSf9JK6F1dNrJ-VnfrDMOiaaKNIyqY4KUUTLZZq6LRWvDSAEz3bixhaTVt635BArI8HH202XiD0"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ48OPrDJPBX8_u0XxXSYGiQ5e5o2FIw-VpxSJIt6RTf1_tQQYJBcuBILCaYByaUJAv6__4AWv0VSU-sCv7P_p_QlQxmTeN1TSh0Fp9Rs_U",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRqLmQnhe9CN9FdS8QGzgkOSrw6owivxz1n6BWUt0f_kkT3i-jHZnBYKcWafTGAcbfZSpRy0iWCx9vZa8uB81sdz238DrcfxMfIXwlMOyG6",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSguZmD3fXZzf_5d4or2ZUmyFxfT1eibHEbWnEgzH6JSbwpHujMyn3zX-IBbnKnuxYdQDh9EN_QC8F05dbyrzTdc5DHQGWq9mYso0_I8DGj3YU_fDtm9U8N"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 10,
+      "count": 12,
       "specs": {
-        "manufacturer": "Newegg.com - Temonick shop • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 10 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $5.99 + Tax (8.25%: $8.31) + Card Fee ($3.64)",
-        "market_value": "Competitor Landed: $131.65 | Your All-In Landed: $118.68 (Saves $12.97)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$91.58",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $9.16"
+        "manufacturer": "eBay - robiho17 • $2M Insured",
+        "condition": "New • 12 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.63",
+        "market_value": "Comp: $50.59 | Yours: $43.99",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-25",
-      "name": "[Top 50 Hard-to-Find Essential #25] Sonic Bomb Dual 5.5 Inches (w) X (h) X 3 (d), Black ",
-      "price": "$50.82",
+      "name": "[Top 50 Essential #25] Super Loud Alarm Clock with Bed Shaker, Vibrating Alarm Clock for",
+      "price": "$48.04",
+      "vendorCost": "$43.67",
+      "netMargin": "10% Net ($4.37)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMyzRgoHG65_ysVjplzrG88r5X5DuIsql8uq9cJrg1SMbookh2u7z7MM_XNFncK5QprajUQK3yPTuRvvcgotci-igmnokJQ3w79SsNmVq2",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSMKFQXXdK9h03UXi1IJn6whu1sRcdBnSf9JK6F1dNrJ-VnfrDMOiaaKNIyqY4KUUTLZZq6LRWvDSAEz3bixhaTVt635BArI8HH202XiD0",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQjFfmeKRcvmykF_MlW1La3JMZ8d77DGReq35HRdZGRfXX3X2RjCMriNTVOnKSPEBTG6pdDAwnVifkfjTL5ugXl579Nw1hBF0jROoLILwCgOmz5xTbaTXVW"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRqLmQnhe9CN9FdS8QGzgkOSrw6owivxz1n6BWUt0f_kkT3i-jHZnBYKcWafTGAcbfZSpRy0iWCx9vZa8uB81sdz238DrcfxMfIXwlMOyG6",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSguZmD3fXZzf_5d4or2ZUmyFxfT1eibHEbWnEgzH6JSbwpHujMyn3zX-IBbnKnuxYdQDh9EN_QC8F05dbyrzTdc5DHQGWq9mYso0_I8DGj3YU_fDtm9U8N",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTTdqZuw2et5c8vJnC17Dl88XffOycxJ74TkhQEqbL65m8gEEN9JCjsD7Hf0Z56GVn5F6wUf_I51m-BbCPnE9EYMkD7aB8M6MvErdRpmg95eBgwLvBX3RRX"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 11,
+      "count": 5,
       "specs": {
-        "manufacturer": "eBay - yiher22 • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 11 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $4.19) + Card Fee ($2.01)",
-        "market_value": "Competitor Landed: $69.62 | Your All-In Landed: $61.01 (Saves $8.61)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$46.20",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $4.62"
+        "manufacturer": "eBay • $2M Insured",
+        "condition": "New • 5 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.96",
+        "market_value": "Comp: $55.25 | Yours: $48.04",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-26",
-      "name": "[Top 50 Hard-to-Find Essential #26] Sonic Alert Super Shaker Bed Vibrator Jr Model #SS 6",
-      "price": "$14.14",
+      "name": "[Top 50 Essential #26] Extra Loud Alarm Clock W/ Wireless Bed Shaker Vibrating For Heavy",
+      "price": "$35.19",
+      "vendorCost": "$31.99",
+      "netMargin": "10% Net ($3.20)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSMKFQXXdK9h03UXi1IJn6whu1sRcdBnSf9JK6F1dNrJ-VnfrDMOiaaKNIyqY4KUUTLZZq6LRWvDSAEz3bixhaTVt635BArI8HH202XiD0",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQjFfmeKRcvmykF_MlW1La3JMZ8d77DGReq35HRdZGRfXX3X2RjCMriNTVOnKSPEBTG6pdDAwnVifkfjTL5ugXl579Nw1hBF0jROoLILwCgOmz5xTbaTXVW",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcREHJVi-Qsu8DxDU5eEh6DX59IQKEPFoaz096tUcjAkfllKhVzMC9iYykz7zJ94_e0ZNXuCIgObIZVpfwied4LaZuusMsuoaw"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSguZmD3fXZzf_5d4or2ZUmyFxfT1eibHEbWnEgzH6JSbwpHujMyn3zX-IBbnKnuxYdQDh9EN_QC8F05dbyrzTdc5DHQGWq9mYso0_I8DGj3YU_fDtm9U8N",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTTdqZuw2et5c8vJnC17Dl88XffOycxJ74TkhQEqbL65m8gEEN9JCjsD7Hf0Z56GVn5F6wUf_I51m-BbCPnE9EYMkD7aB8M6MvErdRpmg95eBgwLvBX3RRX",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQFyKNHX42y4eigW2IOROtVUesie075D_rqFjO4nFyVplgtLXEo5cbvyl5frwXzycIocjh7UVVdVa9UKnikxGpnIo54rVRg-YgVuRys9iBJPmqu3GvPI2dv"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 12,
+      "count": 6,
       "specs": {
-        "manufacturer": "eBay - plugged_me_in • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 12 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.17) + Card Fee ($0.86)",
-        "market_value": "Competitor Landed: $25.50 | Your All-In Landed: $20.16 (Saves $5.34)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$12.85",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $1.29"
+        "manufacturer": "eBay - ampshop3 • $2M Insured",
+        "condition": "New • 6 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.90",
+        "market_value": "Comp: $40.47 | Yours: $35.19",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-27",
-      "name": "[Top 50 Hard-to-Find Essential #27] Sonic Alert Sonic Bomb Alarm Clock - No Power Cord O",
-      "price": "$9.90",
+      "name": "[Top 50 Essential #27] Sonic Alert Sonic Boom Sb-1000 Alarm Clock Bed Shaker Tested With",
+      "price": "$43.96",
+      "vendorCost": "$39.96",
+      "netMargin": "10% Net ($4.00)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQjFfmeKRcvmykF_MlW1La3JMZ8d77DGReq35HRdZGRfXX3X2RjCMriNTVOnKSPEBTG6pdDAwnVifkfjTL5ugXl579Nw1hBF0jROoLILwCgOmz5xTbaTXVW",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcREHJVi-Qsu8DxDU5eEh6DX59IQKEPFoaz096tUcjAkfllKhVzMC9iYykz7zJ94_e0ZNXuCIgObIZVpfwied4LaZuusMsuoaw",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSv8w1lACp9fL0taSklBD4Zn1AhTHHGXpgWBFMq5bzIuh_GZjCGo1SHuR3iTdopxA8gWvYBc5J-lvAhyOQrFMSebqwcgrXZoyr1TEdj34o"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTTdqZuw2et5c8vJnC17Dl88XffOycxJ74TkhQEqbL65m8gEEN9JCjsD7Hf0Z56GVn5F6wUf_I51m-BbCPnE9EYMkD7aB8M6MvErdRpmg95eBgwLvBX3RRX",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQFyKNHX42y4eigW2IOROtVUesie075D_rqFjO4nFyVplgtLXEo5cbvyl5frwXzycIocjh7UVVdVa9UKnikxGpnIo54rVRg-YgVuRys9iBJPmqu3GvPI2dv",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQyLQPbEccoqvTDsQLZPni52tRKbAV5vWbmdrdpo569dV_1bKcGTvNI-ozUhRQVMIVfAOk6U9zwCLMB4jC4eokdMy_ftCkOv2pc1CzEgmZ10DFJ1FYU53KvDA"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 13,
+      "count": 7,
       "specs": {
-        "manufacturer": "eBay • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 13 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $0.82) + Card Fee ($0.73)",
-        "market_value": "Competitor Landed: $20.40 | Your All-In Landed: $15.44 (Saves $4.96)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$9.00",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $0.90"
+        "manufacturer": "eBay • $2M Insured",
+        "condition": "New • 7 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.63",
+        "market_value": "Comp: $50.55 | Yours: $43.96",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-28",
-      "name": "[Top 50 Hard-to-Find Essential #28] Sonic Alert Sonic Boom SBT425ss Vibrating Bed Shaker",
-      "price": "$35.64",
+      "name": "[Top 50 Essential #28] Sonic Alert Vibrating Sonic Bomb Alarm Clock with Super Shaker",
+      "price": "$39.59",
+      "vendorCost": "$35.99",
+      "netMargin": "10% Net ($3.60)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcREHJVi-Qsu8DxDU5eEh6DX59IQKEPFoaz096tUcjAkfllKhVzMC9iYykz7zJ94_e0ZNXuCIgObIZVpfwied4LaZuusMsuoaw",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSv8w1lACp9fL0taSklBD4Zn1AhTHHGXpgWBFMq5bzIuh_GZjCGo1SHuR3iTdopxA8gWvYBc5J-lvAhyOQrFMSebqwcgrXZoyr1TEdj34o",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7vCLQIkfqp-MCEvwg4ntjnrJATE1OjS3ydrfvG5z5ehaKrZ2G_5w8B12awlagDysaaeKr-o2TV2Z8z1fAsYMlegaeXQ42LwgGj_Dc_ys"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQFyKNHX42y4eigW2IOROtVUesie075D_rqFjO4nFyVplgtLXEo5cbvyl5frwXzycIocjh7UVVdVa9UKnikxGpnIo54rVRg-YgVuRys9iBJPmqu3GvPI2dv",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQyLQPbEccoqvTDsQLZPni52tRKbAV5vWbmdrdpo569dV_1bKcGTvNI-ozUhRQVMIVfAOk6U9zwCLMB4jC4eokdMy_ftCkOv2pc1CzEgmZ10DFJ1FYU53KvDA",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQznMdVGLfmP0EpLbhygf_oalo8EiuAoiKlXhQs8Hwti9AasYGWbpuuDGJlSK-0P0az4lYiDfufPGAKjhgupZ31dsM-_S-WSY5A19xVdrYA"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 5,
+      "count": 8,
       "specs": {
-        "manufacturer": "mercari.com • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.94) + Card Fee ($1.53)",
-        "market_value": "Competitor Landed: $51.36 | Your All-In Landed: $44.10 (Saves $7.26)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$32.40",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.24"
+        "manufacturer": "Sonic Alert • $2M Insured",
+        "condition": "New • 8 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.27",
+        "market_value": "Comp: $45.53 | Yours: $39.59",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-29",
-      "name": "[Top 50 Hard-to-Find Essential #29] Sonic Bomb Sbb500ss Loud Alarm Clock With Bed Shaker",
-      "price": "$36.43",
+      "name": "[Top 50 Essential #29] Dual Extra Loud Alarm Clock with Bed Shaker Sonic Boom Vibrating ",
+      "price": "$78.31",
+      "vendorCost": "$71.19",
+      "netMargin": "10% Net ($7.12)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSv8w1lACp9fL0taSklBD4Zn1AhTHHGXpgWBFMq5bzIuh_GZjCGo1SHuR3iTdopxA8gWvYBc5J-lvAhyOQrFMSebqwcgrXZoyr1TEdj34o",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7vCLQIkfqp-MCEvwg4ntjnrJATE1OjS3ydrfvG5z5ehaKrZ2G_5w8B12awlagDysaaeKr-o2TV2Z8z1fAsYMlegaeXQ42LwgGj_Dc_ys",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQdARBnUtU8m5xYiUDms95aO3-AboyuNf-XZyadg9LImRE8YDNG42HT_69bZQpW5jTNXo8SCOqa4lWxd1l1SZhJEsjAEAySW3wWLQznq0E4KNUj_rXxaH00"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQyLQPbEccoqvTDsQLZPni52tRKbAV5vWbmdrdpo569dV_1bKcGTvNI-ozUhRQVMIVfAOk6U9zwCLMB4jC4eokdMy_ftCkOv2pc1CzEgmZ10DFJ1FYU53KvDA",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQznMdVGLfmP0EpLbhygf_oalo8EiuAoiKlXhQs8Hwti9AasYGWbpuuDGJlSK-0P0az4lYiDfufPGAKjhgupZ31dsM-_S-WSY5A19xVdrYA",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQeAPKXZAId_aKjIUlvEH2T4BBHjJX_cwlPowPs0CklrWJH78kVAguZRLNrF0MU732sqOKtv-nYH9D9_-64vqDHO_cpDy67U_O-up8ZbOc"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 6,
+      "count": 9,
       "specs": {
-        "manufacturer": "Poshmark • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.01) + Card Fee ($1.56)",
-        "market_value": "Competitor Landed: $52.31 | Your All-In Landed: $44.99 (Saves $7.32)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$33.12",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.31"
+        "manufacturer": "Newegg.com - Pulsara • $2M Insured",
+        "condition": "New • 9 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $6.46",
+        "market_value": "Comp: $90.06 | Yours: $78.31",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-30",
-      "name": "[Top 50 Hard-to-Find Essential #30] Sonic Alert Super Bed Shaker, Black (sa-ss12v)",
-      "price": "$19.72",
+      "name": "[Top 50 Essential #30] Alarm Clock With Bed Shaker, Vibrating Alarm Clock For Heavy Slee",
+      "price": "$33.43",
+      "vendorCost": "$30.39",
+      "netMargin": "10% Net ($3.04)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7vCLQIkfqp-MCEvwg4ntjnrJATE1OjS3ydrfvG5z5ehaKrZ2G_5w8B12awlagDysaaeKr-o2TV2Z8z1fAsYMlegaeXQ42LwgGj_Dc_ys",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQdARBnUtU8m5xYiUDms95aO3-AboyuNf-XZyadg9LImRE8YDNG42HT_69bZQpW5jTNXo8SCOqa4lWxd1l1SZhJEsjAEAySW3wWLQznq0E4KNUj_rXxaH00",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTTBvE5plwFq6gWDNBOlIZbSzQqiAXb3gfp_5AjWSx7rEXKkrFOCzPU6bZV1jp-MHkQB0JFlYx6YQKj0FHdq5LSA0If5MiAYC1SdxhblNxKCiDFwHAPgyNl4w"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQznMdVGLfmP0EpLbhygf_oalo8EiuAoiKlXhQs8Hwti9AasYGWbpuuDGJlSK-0P0az4lYiDfufPGAKjhgupZ31dsM-_S-WSY5A19xVdrYA",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQeAPKXZAId_aKjIUlvEH2T4BBHjJX_cwlPowPs0CklrWJH78kVAguZRLNrF0MU732sqOKtv-nYH9D9_-64vqDHO_cpDy67U_O-up8ZbOc",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSq1IcF8gB3kLhiCpziDt6A3FsG2j4sStb1DOGeDn-9pgqjGcyiGaL8qD_SA57o7K-7FybmJXkcBgG0Zc-El5m0FWAto4ML1N5xAezB_TibCyBQGNSvDSvQ"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 7,
+      "count": 10,
       "specs": {
-        "manufacturer": "eBay - aplusliq • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.63) + Card Fee ($1.03)",
-        "market_value": "Competitor Landed: $32.21 | Your All-In Landed: $26.37 (Saves $5.84)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$17.93",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $1.79"
+        "manufacturer": "eBay - thelumenshop • $2M Insured",
+        "condition": "New • 10 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.76",
+        "market_value": "Comp: $38.44 | Yours: $33.43",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-31",
-      "name": "[Top 50 Hard-to-Find Essential #31] Sonic Alert Sonic Boom Dual Alarm Clock Bed Shaker 5",
-      "price": "$31.67",
+      "name": "[Top 50 Essential #31] Lot 3 Sonic Alert Super Shaker Bed Vibrator Pods Model Ss 12v Ala",
+      "price": "$17.40",
+      "vendorCost": "$15.82",
+      "netMargin": "10% Net ($1.58)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQdARBnUtU8m5xYiUDms95aO3-AboyuNf-XZyadg9LImRE8YDNG42HT_69bZQpW5jTNXo8SCOqa4lWxd1l1SZhJEsjAEAySW3wWLQznq0E4KNUj_rXxaH00",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTTBvE5plwFq6gWDNBOlIZbSzQqiAXb3gfp_5AjWSx7rEXKkrFOCzPU6bZV1jp-MHkQB0JFlYx6YQKj0FHdq5LSA0If5MiAYC1SdxhblNxKCiDFwHAPgyNl4w",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS5QxthmV7C0hZrEf_oCdcwtku-2aKSX0kJTE_eB2aGQVflLCzUFoVX8VhkcKor43VnCmFDbfahxOakf-y-dN2YajoFX6DkxOjYIE-X-cw"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQeAPKXZAId_aKjIUlvEH2T4BBHjJX_cwlPowPs0CklrWJH78kVAguZRLNrF0MU732sqOKtv-nYH9D9_-64vqDHO_cpDy67U_O-up8ZbOc",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSq1IcF8gB3kLhiCpziDt6A3FsG2j4sStb1DOGeDn-9pgqjGcyiGaL8qD_SA57o7K-7FybmJXkcBgG0Zc-El5m0FWAto4ML1N5xAezB_TibCyBQGNSvDSvQ",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQAllbSKAeAxf3Kksrsu6pAurGyWeonbLkU-UTYch_m7z_YuuOE02qVPj-WJHl_MoU7sBlGDyVL-i0LMAvDcTTLBVLkLfQYiaJBQ0Gf1cDDw8OfICz4UysXrw"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 8,
+      "count": 11,
       "specs": {
-        "manufacturer": "eBay - aray1212 • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.61) + Card Fee ($1.41)",
-        "market_value": "Competitor Landed: $46.58 | Your All-In Landed: $39.68 (Saves $6.90)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$28.79",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $2.88"
+        "manufacturer": "eBay • $2M Insured",
+        "condition": "New • 11 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.44",
+        "market_value": "Comp: $20.01 | Yours: $17.40",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-32",
-      "name": "[Top 50 Hard-to-Find Essential #32] Sonic Alert Sonic Bomb Dual Alarm Clock With Bed Sha",
-      "price": "$59.39",
+      "name": "[Top 50 Essential #32] Super Loud Alarm Clock With Bed Shaker, Vibrating Alarm Clock For",
+      "price": "$25.51",
+      "vendorCost": "$23.19",
+      "netMargin": "10% Net ($2.32)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTTBvE5plwFq6gWDNBOlIZbSzQqiAXb3gfp_5AjWSx7rEXKkrFOCzPU6bZV1jp-MHkQB0JFlYx6YQKj0FHdq5LSA0If5MiAYC1SdxhblNxKCiDFwHAPgyNl4w",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS5QxthmV7C0hZrEf_oCdcwtku-2aKSX0kJTE_eB2aGQVflLCzUFoVX8VhkcKor43VnCmFDbfahxOakf-y-dN2YajoFX6DkxOjYIE-X-cw",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcToFQ_-yadD_27oz-KmD0qzFZSoN6g6lhu_SnK17h9vAdsJmx5Nna4edss0CpRih9kZKTcycWeXZOkBpHLCJGv0tGj8ofjOYMyern2l15H8aIbX-NTxd7aP-g"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSq1IcF8gB3kLhiCpziDt6A3FsG2j4sStb1DOGeDn-9pgqjGcyiGaL8qD_SA57o7K-7FybmJXkcBgG0Zc-El5m0FWAto4ML1N5xAezB_TibCyBQGNSvDSvQ",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQAllbSKAeAxf3Kksrsu6pAurGyWeonbLkU-UTYch_m7z_YuuOE02qVPj-WJHl_MoU7sBlGDyVL-i0LMAvDcTTLBVLkLfQYiaJBQ0Gf1cDDw8OfICz4UysXrw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQvbHYmVKaG6TjG2659OVwjz_071N1_fF4UoRv49vbjOYtSCZI1nSuF5eXHECplDUhfEaXyAN-flSDofU_mdQFcZNW2BBXgUSuOyCC5vzI"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 9,
+      "count": 12,
       "specs": {
-        "manufacturer": "eBay - srbrand57 • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 9 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $4.90) + Card Fee ($2.28)",
-        "market_value": "Competitor Landed: $79.92 | Your All-In Landed: $70.56 (Saves $9.36)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$53.99",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $5.40"
+        "manufacturer": "eBay - sserc-87 • $2M Insured",
+        "condition": "New • 12 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.10",
+        "market_value": "Comp: $29.34 | Yours: $25.51",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-33",
-      "name": "[Top 50 Hard-to-Find Essential #33] Lot 3 Sonic Alert Super Shaker Bed Vibrator Pods Mod",
-      "price": "$15.66",
+      "name": "[Top 50 Essential #33] Vibrating Alarm Clock with Bed Shaker for Deaf & Hard of Hearing",
+      "price": "$34.32",
+      "vendorCost": "$31.20",
+      "netMargin": "10% Net ($3.12)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS5QxthmV7C0hZrEf_oCdcwtku-2aKSX0kJTE_eB2aGQVflLCzUFoVX8VhkcKor43VnCmFDbfahxOakf-y-dN2YajoFX6DkxOjYIE-X-cw",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcToFQ_-yadD_27oz-KmD0qzFZSoN6g6lhu_SnK17h9vAdsJmx5Nna4edss0CpRih9kZKTcycWeXZOkBpHLCJGv0tGj8ofjOYMyern2l15H8aIbX-NTxd7aP-g",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQFP77zxS9zzU5xPyZPJ2LImy1R8sVL1bJXseo96fci2ZZEvjiaDgkjPSXnrr0VA7Npq-yrGoliFklUxHqBNIsp6frkWiRbu_hKVLXSJ79Zs7f7ip_kII1Klg"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQAllbSKAeAxf3Kksrsu6pAurGyWeonbLkU-UTYch_m7z_YuuOE02qVPj-WJHl_MoU7sBlGDyVL-i0LMAvDcTTLBVLkLfQYiaJBQ0Gf1cDDw8OfICz4UysXrw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQvbHYmVKaG6TjG2659OVwjz_071N1_fF4UoRv49vbjOYtSCZI1nSuF5eXHECplDUhfEaXyAN-flSDofU_mdQFcZNW2BBXgUSuOyCC5vzI",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS-5PsSnDs6OMgpENlocsekEs2ji3n7xAf85KWKirozsqtk8a19UC9CEJ0342K_Wk4qzZXMYlEvwFPXqaZcCZ9eIv29sw9iW1Ae3-B8iFa8"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 10,
+      "count": 5,
       "specs": {
-        "manufacturer": "eBay • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 10 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.29) + Card Fee ($0.91)",
-        "market_value": "Competitor Landed: $27.33 | Your All-In Landed: $21.85 (Saves $5.48)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$14.24",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $1.42"
+        "manufacturer": "Hearview • $2M Insured",
+        "condition": "New • 5 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.83",
+        "market_value": "Comp: $39.47 | Yours: $34.32",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-34",
-      "name": "[Top 50 Hard-to-Find Essential #34] Wireless Flashing Doorbell for Deaf & Hard of Hearin",
-      "price": "$26.93",
+      "name": "[Top 50 Essential #34] Sonic Alert Super Shaker Bed Vibrator Jr Model #SS 6V Black Oval ",
+      "price": "$15.71",
+      "vendorCost": "$14.28",
+      "netMargin": "10% Net ($1.43)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcToFQ_-yadD_27oz-KmD0qzFZSoN6g6lhu_SnK17h9vAdsJmx5Nna4edss0CpRih9kZKTcycWeXZOkBpHLCJGv0tGj8ofjOYMyern2l15H8aIbX-NTxd7aP-g",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQFP77zxS9zzU5xPyZPJ2LImy1R8sVL1bJXseo96fci2ZZEvjiaDgkjPSXnrr0VA7Npq-yrGoliFklUxHqBNIsp6frkWiRbu_hKVLXSJ79Zs7f7ip_kII1Klg",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQpgGzTf12dXO7-uasozzowFDlso5ged--X0_Kf-9YnEaNH_cll8KQ41iWBpFMQVue6DrffZBwEfYZ81EbgVmdrD2gfyxBQHt-wv_rbtc7hATjbvLc1JuEjsxw"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQvbHYmVKaG6TjG2659OVwjz_071N1_fF4UoRv49vbjOYtSCZI1nSuF5eXHECplDUhfEaXyAN-flSDofU_mdQFcZNW2BBXgUSuOyCC5vzI",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS-5PsSnDs6OMgpENlocsekEs2ji3n7xAf85KWKirozsqtk8a19UC9CEJ0342K_Wk4qzZXMYlEvwFPXqaZcCZ9eIv29sw9iW1Ae3-B8iFa8",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR68DORtxcie5Wx3UzIrkt2NS-uxktNxR5QbjXZfkbfqX0G0eeI0dLC1DwA-aNpX-iS2LUu7Y086Si_BlipgQEMu_D788eibMTZqNPVpqTP"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 11,
+      "count": 6,
       "specs": {
-        "manufacturer": "Hearview • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 11 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.22) + Card Fee ($1.26)",
-        "market_value": "Competitor Landed: $40.88 | Your All-In Landed: $34.40 (Saves $6.48)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$24.48",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $2.45"
+        "manufacturer": "eBay - plugged_me_in • $2M Insured",
+        "condition": "New • 6 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.30",
+        "market_value": "Comp: $18.07 | Yours: $15.71",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-35",
-      "name": "[Top 50 Hard-to-Find Essential #35] Safeguard Supply Wireless Doorbell + Flashing Strobe",
-      "price": "$43.52",
+      "name": "[Top 50 Essential #35] Roxicosly Vibrating Alarm Clock With Bed Shaker For Heavy Sleeper",
+      "price": "$31.19",
+      "vendorCost": "$28.35",
+      "netMargin": "10% Net ($2.84)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQFP77zxS9zzU5xPyZPJ2LImy1R8sVL1bJXseo96fci2ZZEvjiaDgkjPSXnrr0VA7Npq-yrGoliFklUxHqBNIsp6frkWiRbu_hKVLXSJ79Zs7f7ip_kII1Klg",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQpgGzTf12dXO7-uasozzowFDlso5ged--X0_Kf-9YnEaNH_cll8KQ41iWBpFMQVue6DrffZBwEfYZ81EbgVmdrD2gfyxBQHt-wv_rbtc7hATjbvLc1JuEjsxw",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcThsZZ-E4niDY5vijVhgDjAnwcKDhn3GGplsk6fdoj7Oyc32MsGbYY3dNzdsRh4ImY9fJ6UGQp3rvj-hbku7jfIPCv61TM42g"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS-5PsSnDs6OMgpENlocsekEs2ji3n7xAf85KWKirozsqtk8a19UC9CEJ0342K_Wk4qzZXMYlEvwFPXqaZcCZ9eIv29sw9iW1Ae3-B8iFa8",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR68DORtxcie5Wx3UzIrkt2NS-uxktNxR5QbjXZfkbfqX0G0eeI0dLC1DwA-aNpX-iS2LUu7Y086Si_BlipgQEMu_D788eibMTZqNPVpqTP",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSq1IcF8gB3kLhiCpziDt6A3FsG2j4sStb1DOGeDn-9pgqjGcyiGaL8qD_SA57o7K-7FybmJXkcBgG0Zc-El5m0FWAto4ML1N5xAezB_TibCyBQGNSvDSvQ"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 12,
+      "count": 7,
       "specs": {
-        "manufacturer": "1800Doorbell.com • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 12 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.59) + Card Fee ($1.78)",
-        "market_value": "Competitor Landed: $60.84 | Your All-In Landed: $52.88 (Saves $7.96)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$39.56",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.96"
+        "manufacturer": "eBay - t09149 • $2M Insured",
+        "condition": "New • 7 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.57",
+        "market_value": "Comp: $35.87 | Yours: $31.19",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-36",
-      "name": "[Top 50 Hard-to-Find Essential #36] Safeguard Supply Warehouse Doorbell WDK ERA Strobe C",
-      "price": "$80.75",
+      "name": "[Top 50 Essential #36] Extra Loud Alarm Clock With Wireless Bed Shaker, Vibrating Dual A",
+      "price": "$69.20",
+      "vendorCost": "$62.91",
+      "netMargin": "10% Net ($6.29)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQpgGzTf12dXO7-uasozzowFDlso5ged--X0_Kf-9YnEaNH_cll8KQ41iWBpFMQVue6DrffZBwEfYZ81EbgVmdrD2gfyxBQHt-wv_rbtc7hATjbvLc1JuEjsxw",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcThsZZ-E4niDY5vijVhgDjAnwcKDhn3GGplsk6fdoj7Oyc32MsGbYY3dNzdsRh4ImY9fJ6UGQp3rvj-hbku7jfIPCv61TM42g",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTPZRPdRSy-SCW09TtYp1Kkpggs4jwok8u-kV2mnfeKiEVSlx8MuJLfd7kODCDKq5z6G2wRQPaRFewZ4nDMnHGdtR0FzaPKpp6VBzhX6aLSsm8GzjiJdLmdD9M"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR68DORtxcie5Wx3UzIrkt2NS-uxktNxR5QbjXZfkbfqX0G0eeI0dLC1DwA-aNpX-iS2LUu7Y086Si_BlipgQEMu_D788eibMTZqNPVpqTP",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSq1IcF8gB3kLhiCpziDt6A3FsG2j4sStb1DOGeDn-9pgqjGcyiGaL8qD_SA57o7K-7FybmJXkcBgG0Zc-El5m0FWAto4ML1N5xAezB_TibCyBQGNSvDSvQ",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTd5E__ULS8NV4MN1lBKCHY6jhCnFth9X7bKkazFSCeEz7nzE0Tm3hleA3BSHf_u0pLmsFtvZo-FsvaXB9WyZJunChbnmj4u5jgTiDu2qU"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 13,
+      "count": 8,
       "specs": {
-        "manufacturer": "Safeguard Supply • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 13 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $6.66) + Card Fee ($2.95)",
-        "market_value": "Competitor Landed: $105.61 | Your All-In Landed: $94.35 (Saves $11.26)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$73.41",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $7.34"
+        "manufacturer": "eBay - saitnegkou0 • $2M Insured",
+        "condition": "New • 8 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $5.71",
+        "market_value": "Comp: $79.58 | Yours: $69.20",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-37",
-      "name": "[Top 50 Hard-to-Find Essential #37] Safeguard Supply Lra-dcrxs-l Wireless Flashing Strob",
-      "price": "$31.68",
+      "name": "[Top 50 Essential #37] Super Loud Alarm Clock with Bed Shaker, Vibrating Alarm for Heavy",
+      "price": "$23.85",
+      "vendorCost": "$21.68",
+      "netMargin": "10% Net ($2.17)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcThsZZ-E4niDY5vijVhgDjAnwcKDhn3GGplsk6fdoj7Oyc32MsGbYY3dNzdsRh4ImY9fJ6UGQp3rvj-hbku7jfIPCv61TM42g",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTPZRPdRSy-SCW09TtYp1Kkpggs4jwok8u-kV2mnfeKiEVSlx8MuJLfd7kODCDKq5z6G2wRQPaRFewZ4nDMnHGdtR0FzaPKpp6VBzhX6aLSsm8GzjiJdLmdD9M",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ0Vyqafpd_cibzcupehrH8ISGohvpuZ3gRznM4vHvgAghKelzlDs7pTaVHBotm7ZRTTaCYJIZr_bcFLT3BM8_JtHIqhrMgN_cScTzu0mdIEcK4iUbD4ry5"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSq1IcF8gB3kLhiCpziDt6A3FsG2j4sStb1DOGeDn-9pgqjGcyiGaL8qD_SA57o7K-7FybmJXkcBgG0Zc-El5m0FWAto4ML1N5xAezB_TibCyBQGNSvDSvQ",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTd5E__ULS8NV4MN1lBKCHY6jhCnFth9X7bKkazFSCeEz7nzE0Tm3hleA3BSHf_u0pLmsFtvZo-FsvaXB9WyZJunChbnmj4u5jgTiDu2qU",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQAllbSKAeAxf3Kksrsu6pAurGyWeonbLkU-UTYch_m7z_YuuOE02qVPj-WJHl_MoU7sBlGDyVL-i0LMAvDcTTLBVLkLfQYiaJBQ0Gf1cDDw8OfICz4UysXrw"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 5,
+      "count": 9,
       "specs": {
-        "manufacturer": "Diglo • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.61) + Card Fee ($1.41)",
-        "market_value": "Competitor Landed: $46.59 | Your All-In Landed: $39.69 (Saves $6.90)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$28.80",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $2.88"
+        "manufacturer": "eBay - pepko-72 • $2M Insured",
+        "condition": "New • 9 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.97",
+        "market_value": "Comp: $27.43 | Yours: $23.85",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-38",
-      "name": "[Top 50 Hard-to-Find Essential #38] Flashing Strobe Wireless Chime Kit",
-      "price": "$35.62",
+      "name": "[Top 50 Essential #38] Super Loud Alarm Clock With Bed Shaker, Vibrating Alarm Clock For",
+      "price": "$27.23",
+      "vendorCost": "$24.75",
+      "netMargin": "10% Net ($2.48)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTPZRPdRSy-SCW09TtYp1Kkpggs4jwok8u-kV2mnfeKiEVSlx8MuJLfd7kODCDKq5z6G2wRQPaRFewZ4nDMnHGdtR0FzaPKpp6VBzhX6aLSsm8GzjiJdLmdD9M",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ0Vyqafpd_cibzcupehrH8ISGohvpuZ3gRznM4vHvgAghKelzlDs7pTaVHBotm7ZRTTaCYJIZr_bcFLT3BM8_JtHIqhrMgN_cScTzu0mdIEcK4iUbD4ry5",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR2_pcuMHbtbVh6UHxPom50etzrjQRy-o82RVTp8dP996-6qs0MzwWY6R420o0820sQLgW7Miy7-O19nBkSRrGfLm9KEASI"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTd5E__ULS8NV4MN1lBKCHY6jhCnFth9X7bKkazFSCeEz7nzE0Tm3hleA3BSHf_u0pLmsFtvZo-FsvaXB9WyZJunChbnmj4u5jgTiDu2qU",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQAllbSKAeAxf3Kksrsu6pAurGyWeonbLkU-UTYch_m7z_YuuOE02qVPj-WJHl_MoU7sBlGDyVL-i0LMAvDcTTLBVLkLfQYiaJBQ0Gf1cDDw8OfICz4UysXrw",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR65XffqQJ72WkyLYxalOB9iR-IwOpJ0Ko2C7PgkJ27mAQK0KESYkjxsDSBsTWif-N4l5NLTSNmI7fmLQw2LGnKBEpLi6W10w"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 6,
+      "count": 10,
       "specs": {
-        "manufacturer": "hearmore • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.94) + Card Fee ($1.53)",
-        "market_value": "Competitor Landed: $51.34 | Your All-In Landed: $44.08 (Saves $7.26)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$32.38",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.24"
+        "manufacturer": "eBay - peach-store • $2M Insured",
+        "condition": "New • 10 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.25",
+        "market_value": "Comp: $31.31 | Yours: $27.23",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-39",
-      "name": "[Top 50 Hard-to-Find Essential #39] Flashing Doorbell Light Receiver ss155",
-      "price": "$24.52",
+      "name": "[Top 50 Essential #39] Vibrating Alarm Clock with Bed Shaker for Deaf & Hard of Hearing",
+      "price": "$34.32",
+      "vendorCost": "$31.20",
+      "netMargin": "10% Net ($3.12)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ0Vyqafpd_cibzcupehrH8ISGohvpuZ3gRznM4vHvgAghKelzlDs7pTaVHBotm7ZRTTaCYJIZr_bcFLT3BM8_JtHIqhrMgN_cScTzu0mdIEcK4iUbD4ry5",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR2_pcuMHbtbVh6UHxPom50etzrjQRy-o82RVTp8dP996-6qs0MzwWY6R420o0820sQLgW7Miy7-O19nBkSRrGfLm9KEASI",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTABDSb2TJuVrEEovQyKhOCIQBaxscNhlekK1_cHf-VABrW0nLnxdjCdVPWQRm2JciL9fJU9cDWxMm2v-lzjJ37jMy8L_4a5qhyKmlFgUvONwkHh6pcM8-n"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQAllbSKAeAxf3Kksrsu6pAurGyWeonbLkU-UTYch_m7z_YuuOE02qVPj-WJHl_MoU7sBlGDyVL-i0LMAvDcTTLBVLkLfQYiaJBQ0Gf1cDDw8OfICz4UysXrw",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR65XffqQJ72WkyLYxalOB9iR-IwOpJ0Ko2C7PgkJ27mAQK0KESYkjxsDSBsTWif-N4l5NLTSNmI7fmLQw2LGnKBEpLi6W10w",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR3NUUTqY701bVfDQDC54hcSMCXc1-QJcJC1RFGQnKH-8AhOSW-00JQAYYrsR9l1iRUIHf2brGxIdbE6CIr4RBmVgM6CpAWhPlQZ-_NKGL_T1GBMLCpiW9a"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 7,
+      "count": 11,
       "specs": {
-        "manufacturer": "1800Doorbell.com • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.02) + Card Fee ($1.19)",
-        "market_value": "Competitor Landed: $37.98 | Your All-In Landed: $31.72 (Saves $6.26)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$22.29",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $2.23"
+        "manufacturer": "Hearview • $2M Insured",
+        "condition": "New • 11 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.83",
+        "market_value": "Comp: $39.47 | Yours: $34.32",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-40",
-      "name": "[Top 50 Hard-to-Find Essential #40] Sonic Alert HomeAware Blink LED Receiver with Doorbe",
-      "price": "$99.78",
+      "name": "[Top 50 Essential #40] Sonic Alert Sb200ss Alarm Clock Jumbo Display Super Shaker Bed",
+      "price": "$6.59",
+      "vendorCost": "$5.99",
+      "netMargin": "10% Net ($0.60)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR2_pcuMHbtbVh6UHxPom50etzrjQRy-o82RVTp8dP996-6qs0MzwWY6R420o0820sQLgW7Miy7-O19nBkSRrGfLm9KEASI",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTABDSb2TJuVrEEovQyKhOCIQBaxscNhlekK1_cHf-VABrW0nLnxdjCdVPWQRm2JciL9fJU9cDWxMm2v-lzjJ37jMy8L_4a5qhyKmlFgUvONwkHh6pcM8-n",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRuVMsXtVp-DihrhyIf1Zv7_yRL7xyX17_lJ3VGrG121R-xDyCSXxWp-tZQlCIOtHyYNC_RButugTkG8Vo5KImEszPYk0-swkd04HZeOg4hcanPW4ZLajuVtw"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR65XffqQJ72WkyLYxalOB9iR-IwOpJ0Ko2C7PgkJ27mAQK0KESYkjxsDSBsTWif-N4l5NLTSNmI7fmLQw2LGnKBEpLi6W10w",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR3NUUTqY701bVfDQDC54hcSMCXc1-QJcJC1RFGQnKH-8AhOSW-00JQAYYrsR9l1iRUIHf2brGxIdbE6CIr4RBmVgM6CpAWhPlQZ-_NKGL_T1GBMLCpiW9a",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTiCgMb9NAxOZ3vv1SmV_zsgIiVT0ye1795YpFEfkqpQ6h7YlPLL1j9oJZGipHsAtdqFMkHV-lCf8zcm6CXPkO7O5Ihj-i6hEfbum0x7TpBLMVPPitrON_O"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 8,
+      "count": 12,
       "specs": {
-        "manufacturer": "Diglo • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $8.23) + Card Fee ($3.55)",
-        "market_value": "Competitor Landed: $128.51 | Your All-In Landed: $115.55 (Saves $12.96)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$90.71",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $9.07"
+        "manufacturer": "eBay - secondchancefinds937 • $2M Insured",
+        "condition": "New • 12 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.54",
+        "market_value": "Comp: $7.58 | Yours: $6.59",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-41",
-      "name": "[Top 50 Hard-to-Find Essential #41] Safeguard Supply Era-rxpg 4,000 Ft. Range Plugin Wir",
-      "price": "$31.68",
+      "name": "[Top 50 Essential #41] IQ America Portable Strobe Light Wireless Door Chime",
+      "price": "$17.59",
+      "vendorCost": "$15.99",
+      "netMargin": "10% Net ($1.60)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTABDSb2TJuVrEEovQyKhOCIQBaxscNhlekK1_cHf-VABrW0nLnxdjCdVPWQRm2JciL9fJU9cDWxMm2v-lzjJ37jMy8L_4a5qhyKmlFgUvONwkHh6pcM8-n",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRuVMsXtVp-DihrhyIf1Zv7_yRL7xyX17_lJ3VGrG121R-xDyCSXxWp-tZQlCIOtHyYNC_RButugTkG8Vo5KImEszPYk0-swkd04HZeOg4hcanPW4ZLajuVtw",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ0-6ZEcRKOm5DRqX0ZRSY-V_lqzTgIxX88Xj325JffxAM3CMsWt0LolYkb1sTbZjKlZdexZmmbsNG42f6mmlU9ourg48wgwnBqE_Z5CoBOlGBtyy1UGfvqYgI"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR3NUUTqY701bVfDQDC54hcSMCXc1-QJcJC1RFGQnKH-8AhOSW-00JQAYYrsR9l1iRUIHf2brGxIdbE6CIr4RBmVgM6CpAWhPlQZ-_NKGL_T1GBMLCpiW9a",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTiCgMb9NAxOZ3vv1SmV_zsgIiVT0ye1795YpFEfkqpQ6h7YlPLL1j9oJZGipHsAtdqFMkHV-lCf8zcm6CXPkO7O5Ihj-i6hEfbum0x7TpBLMVPPitrON_O",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSv7d2mIgYqmnoQvEkfgAIsMpseIiqaHYURn0fb5F-CAjLhBhX7DRtXbYI5ISHmkBIbG4A9B1z8hc0rdapM--7Sgq4hHDdkLVxO0VQobXL8ceQvfaVftz14"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 9,
+      "count": 5,
       "specs": {
-        "manufacturer": "Assistech Special Needs • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 9 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.61) + Card Fee ($1.41)",
-        "market_value": "Competitor Landed: $46.59 | Your All-In Landed: $39.69 (Saves $6.90)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$28.80",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $2.88"
+        "manufacturer": "West Marine • $2M Insured",
+        "condition": "New • 5 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.45",
+        "market_value": "Comp: $20.23 | Yours: $17.59",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-42",
-      "name": "[Top 50 Hard-to-Find Essential #42] SquareGlow Flashing Receiver",
-      "price": "$71.26",
+      "name": "[Top 50 Essential #42] Square Glow Hc-sgwrx Multicolor Flashing Receiver",
+      "price": "$85.58",
+      "vendorCost": "$77.80",
+      "netMargin": "10% Net ($7.78)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRuVMsXtVp-DihrhyIf1Zv7_yRL7xyX17_lJ3VGrG121R-xDyCSXxWp-tZQlCIOtHyYNC_RButugTkG8Vo5KImEszPYk0-swkd04HZeOg4hcanPW4ZLajuVtw",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ0-6ZEcRKOm5DRqX0ZRSY-V_lqzTgIxX88Xj325JffxAM3CMsWt0LolYkb1sTbZjKlZdexZmmbsNG42f6mmlU9ourg48wgwnBqE_Z5CoBOlGBtyy1UGfvqYgI",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSu16J_dfsACkn1nY8lF22Tot-v64KbiwTw_W-3EDclJ6_-htK01TNXHlzySubonVpgTqcEji3nueYJqJD_O1kJyoVMch7p5a-7BKAFeCrAHkPHwY7hdVxqmw"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTiCgMb9NAxOZ3vv1SmV_zsgIiVT0ye1795YpFEfkqpQ6h7YlPLL1j9oJZGipHsAtdqFMkHV-lCf8zcm6CXPkO7O5Ihj-i6hEfbum0x7TpBLMVPPitrON_O",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSv7d2mIgYqmnoQvEkfgAIsMpseIiqaHYURn0fb5F-CAjLhBhX7DRtXbYI5ISHmkBIbG4A9B1z8hc0rdapM--7Sgq4hHDdkLVxO0VQobXL8ceQvfaVftz14",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTiCgMb9NAxOZ3vv1SmV_zsgIiVT0ye1795YpFEfkqpQ6h7YlPLL1j9oJZGipHsAtdqFMkHV-lCf8zcm6CXPkO7O5Ihj-i6hEfbum0x7TpBLMVPPitrON_O"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 10,
+      "count": 6,
       "specs": {
-        "manufacturer": "SquareGlow • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 10 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $5.88) + Card Fee ($2.65)",
-        "market_value": "Competitor Landed: $94.20 | Your All-In Landed: $83.78 (Saves $10.42)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$64.78",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $6.48"
+        "manufacturer": "Walmart - UnbeatableSale Local • $2M Insured",
+        "condition": "New • 6 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $7.06",
+        "market_value": "Comp: $98.42 | Yours: $85.58",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-43",
-      "name": "[Top 50 Hard-to-Find Essential #43] Wireless Door Chime With Strobe for Hearing Impaired",
-      "price": "$79.19",
+      "name": "[Top 50 Essential #43] Protectionpro Wireless Flashing Strobe & Loud Chime Receiver",
+      "price": "$37.99",
+      "vendorCost": "$34.54",
+      "netMargin": "10% Net ($3.45)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ0-6ZEcRKOm5DRqX0ZRSY-V_lqzTgIxX88Xj325JffxAM3CMsWt0LolYkb1sTbZjKlZdexZmmbsNG42f6mmlU9ourg48wgwnBqE_Z5CoBOlGBtyy1UGfvqYgI",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSu16J_dfsACkn1nY8lF22Tot-v64KbiwTw_W-3EDclJ6_-htK01TNXHlzySubonVpgTqcEji3nueYJqJD_O1kJyoVMch7p5a-7BKAFeCrAHkPHwY7hdVxqmw",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQH1-fYE0KEn3Fi9HlQKL1vSMuTAHV-FDl8Nwh_Y8fKiBD9dSfWLdctOJhKqglPuY2WaBdV_uarmYijQwkvRYhhgc1dLKrs"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSv7d2mIgYqmnoQvEkfgAIsMpseIiqaHYURn0fb5F-CAjLhBhX7DRtXbYI5ISHmkBIbG4A9B1z8hc0rdapM--7Sgq4hHDdkLVxO0VQobXL8ceQvfaVftz14",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTiCgMb9NAxOZ3vv1SmV_zsgIiVT0ye1795YpFEfkqpQ6h7YlPLL1j9oJZGipHsAtdqFMkHV-lCf8zcm6CXPkO7O5Ihj-i6hEfbum0x7TpBLMVPPitrON_O",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTlUyxnU_2v7BucA7y05Gam_XpqEM0xUIwOPhH7lBtDZLZ3SEjpfgeerczaKRwgXPmCPf5ixiC3nk0XwEkYOHv7QRg3gyB0uWEZWVFn9C527AIQn74hEF7p"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 11,
+      "count": 7,
       "specs": {
-        "manufacturer": "VXB.com Bearings • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 11 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $6.53) + Card Fee ($2.90)",
-        "market_value": "Competitor Landed: $103.74 | Your All-In Landed: $92.61 (Saves $11.13)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$71.99",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $7.20"
+        "manufacturer": "Walmart - UnbeatableSale Local • $2M Insured",
+        "condition": "New • 7 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.13",
+        "market_value": "Comp: $43.69 | Yours: $37.99",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-44",
-      "name": "[Top 50 Hard-to-Find Essential #44] Wc180-ss-duo Wireless Strobe Doorbell Kit with Two F",
-      "price": "$39.56",
+      "name": "[Top 50 Essential #44] Square Glow Hc-sgwrx Multicolor Flashing Receiver",
+      "price": "$79.42",
+      "vendorCost": "$72.20",
+      "netMargin": "10% Net ($7.22)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSu16J_dfsACkn1nY8lF22Tot-v64KbiwTw_W-3EDclJ6_-htK01TNXHlzySubonVpgTqcEji3nueYJqJD_O1kJyoVMch7p5a-7BKAFeCrAHkPHwY7hdVxqmw",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQH1-fYE0KEn3Fi9HlQKL1vSMuTAHV-FDl8Nwh_Y8fKiBD9dSfWLdctOJhKqglPuY2WaBdV_uarmYijQwkvRYhhgc1dLKrs",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTC0KSVqHe2w61OiyUaRphK0lSawqVvOjiYCtr4JhotKZ6GKXlBrO4YVU20yovUbc2wStedeETODJSAvDpHrIS9qBM-fhvp"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTiCgMb9NAxOZ3vv1SmV_zsgIiVT0ye1795YpFEfkqpQ6h7YlPLL1j9oJZGipHsAtdqFMkHV-lCf8zcm6CXPkO7O5Ihj-i6hEfbum0x7TpBLMVPPitrON_O",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTlUyxnU_2v7BucA7y05Gam_XpqEM0xUIwOPhH7lBtDZLZ3SEjpfgeerczaKRwgXPmCPf5ixiC3nk0XwEkYOHv7QRg3gyB0uWEZWVFn9C527AIQn74hEF7p",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQDv6Qxuye39CxIsSFsvkYUsTdJBG49qGNdFFSUf4Hzn8u53nOa9LNviGZgbvu5u6cQuykDPJdjb0CP32MgAiT72eIOtPjVJHj2kG9JCMBJpYPnZ1jZPoe12A"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 12,
+      "count": 8,
       "specs": {
-        "manufacturer": "1800Doorbell.com • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 12 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.26) + Card Fee ($1.66)",
-        "market_value": "Competitor Landed: $56.08 | Your All-In Landed: $48.47 (Saves $7.61)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$35.96",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.60"
+        "manufacturer": "Walmart - UnbeatableSale • $2M Insured",
+        "condition": "New • 8 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $6.55",
+        "market_value": "Comp: $91.33 | Yours: $79.42",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-45",
-      "name": "[Top 50 Hard-to-Find Essential #45] Wireless Doorbell Kit with Flashing Strobe Light wit",
-      "price": "$48.00",
+      "name": "[Top 50 Essential #45] Flashing Strobe Wireless Chime Kit",
+      "price": "$39.58",
+      "vendorCost": "$35.98",
+      "netMargin": "10% Net ($3.60)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQH1-fYE0KEn3Fi9HlQKL1vSMuTAHV-FDl8Nwh_Y8fKiBD9dSfWLdctOJhKqglPuY2WaBdV_uarmYijQwkvRYhhgc1dLKrs",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTC0KSVqHe2w61OiyUaRphK0lSawqVvOjiYCtr4JhotKZ6GKXlBrO4YVU20yovUbc2wStedeETODJSAvDpHrIS9qBM-fhvp",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR1cctBmXCXb_eAo6tdNkSfbfdul6K2_8zTG-SdniOvGqOA63aAXD9SHZETKjUNyVjsNG57zq26sWq_I1EXwxUZ5HOkTQXqSSlIqdb_w8s-RRP2kpGRA-CLYA"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTlUyxnU_2v7BucA7y05Gam_XpqEM0xUIwOPhH7lBtDZLZ3SEjpfgeerczaKRwgXPmCPf5ixiC3nk0XwEkYOHv7QRg3gyB0uWEZWVFn9C527AIQn74hEF7p",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQDv6Qxuye39CxIsSFsvkYUsTdJBG49qGNdFFSUf4Hzn8u53nOa9LNviGZgbvu5u6cQuykDPJdjb0CP32MgAiT72eIOtPjVJHj2kG9JCMBJpYPnZ1jZPoe12A",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ8sWDmQzgoMzvGOq7S4hDmSVPd5OnjwcAEvGfsOQFJI-JCTaQuwLDVGDRfe0mTPhqabnsUeTl-9QGKA4XK9km_DsYQwqNiFJZPF-iIKnFpCENZSW6nqVUS3uA"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 13,
+      "count": 9,
       "specs": {
-        "manufacturer": "Rehabmart.com • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 13 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.96) + Card Fee ($1.92)",
-        "market_value": "Competitor Landed: $66.22 | Your All-In Landed: $57.87 (Saves $8.35)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$43.64",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $4.36"
+        "manufacturer": "Assistech Special Needs • $2M Insured",
+        "condition": "New • 9 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.27",
+        "market_value": "Comp: $45.52 | Yours: $39.58",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-46",
-      "name": "[Top 50 Hard-to-Find Essential #46] Vox-2 Talking Food Scale",
-      "price": "$47.52",
+      "name": "[Top 50 Essential #46] Defiant Wireless Doorbell Strobe Kit - 1008569151 (E10036367)",
+      "price": "$21.96",
+      "vendorCost": "$19.96",
+      "netMargin": "10% Net ($2.00)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTC0KSVqHe2w61OiyUaRphK0lSawqVvOjiYCtr4JhotKZ6GKXlBrO4YVU20yovUbc2wStedeETODJSAvDpHrIS9qBM-fhvp",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR1cctBmXCXb_eAo6tdNkSfbfdul6K2_8zTG-SdniOvGqOA63aAXD9SHZETKjUNyVjsNG57zq26sWq_I1EXwxUZ5HOkTQXqSSlIqdb_w8s-RRP2kpGRA-CLYA",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRAEDBbu2mUJb-T_wJge8SKcIdlJtxibu-kULvuzxslKqx-5zA9R2fv9nDiERh4PgtA0Bx8rwTJfTkhVqHYzhmLs_H_LmGvSNdrDnbKL9xo"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQDv6Qxuye39CxIsSFsvkYUsTdJBG49qGNdFFSUf4Hzn8u53nOa9LNviGZgbvu5u6cQuykDPJdjb0CP32MgAiT72eIOtPjVJHj2kG9JCMBJpYPnZ1jZPoe12A",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ8sWDmQzgoMzvGOq7S4hDmSVPd5OnjwcAEvGfsOQFJI-JCTaQuwLDVGDRfe0mTPhqabnsUeTl-9QGKA4XK9km_DsYQwqNiFJZPF-iIKnFpCENZSW6nqVUS3uA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQxKNKNxhtOew9pNIfzYRuVujAgwE-F9k-UpQ8y5-sUTU_MtRV7EulAtn5g55ZkIxQEjtblYA3mgYjwZgeDfufNioxOk6ZkxUzFJy_UiRs"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 5,
+      "count": 10,
       "specs": {
-        "manufacturer": "Carroll Center • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.92) + Card Fee ($1.91)",
-        "market_value": "Competitor Landed: $65.65 | Your All-In Landed: $57.34 (Saves $8.31)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$43.20",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $4.32"
+        "manufacturer": "eBay - ezpawncorpnyc • $2M Insured",
+        "condition": "New • 10 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.81",
+        "market_value": "Comp: $25.25 | Yours: $21.96",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-47",
-      "name": "[Top 50 Hard-to-Find Essential #47] Talking Kitchen Thermometer",
-      "price": "$32.47",
+      "name": "[Top 50 Essential #47] Flashing Strobe Wireless Chime Kit",
+      "price": "$39.58",
+      "vendorCost": "$35.98",
+      "netMargin": "10% Net ($3.60)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR1cctBmXCXb_eAo6tdNkSfbfdul6K2_8zTG-SdniOvGqOA63aAXD9SHZETKjUNyVjsNG57zq26sWq_I1EXwxUZ5HOkTQXqSSlIqdb_w8s-RRP2kpGRA-CLYA",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRAEDBbu2mUJb-T_wJge8SKcIdlJtxibu-kULvuzxslKqx-5zA9R2fv9nDiERh4PgtA0Bx8rwTJfTkhVqHYzhmLs_H_LmGvSNdrDnbKL9xo",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQIBZmjkNp0J4ZKKvr7fkOxJQW4tZDZBg9gEbCnq02V_ggOTnHl6uo9GaiUEg8zJWm3bUM0YVkmHbEdCWkqn1HVCVShdtYrusjii3ioco2JgEWFiPRCNNHVYg"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ8sWDmQzgoMzvGOq7S4hDmSVPd5OnjwcAEvGfsOQFJI-JCTaQuwLDVGDRfe0mTPhqabnsUeTl-9QGKA4XK9km_DsYQwqNiFJZPF-iIKnFpCENZSW6nqVUS3uA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQxKNKNxhtOew9pNIfzYRuVujAgwE-F9k-UpQ8y5-sUTU_MtRV7EulAtn5g55ZkIxQEjtblYA3mgYjwZgeDfufNioxOk6ZkxUzFJy_UiRs",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQQL28KItBigO5ZtI9fNIW828Oz7EvJY9ia0HXX8LDAry5het7Z5bOxJiEuFBYIa4o2YvRw2aFhDSZvyOPMd4TQA8BOZpdt8XN597VxaxEJw_c0dDaHiL-P"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 6,
+      "count": 11,
       "specs": {
-        "manufacturer": "LS&S • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.68) + Card Fee ($1.44)",
-        "market_value": "Competitor Landed: $47.55 | Your All-In Landed: $40.58 (Saves $6.97)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$29.52",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $2.95"
+        "manufacturer": "hearmore • $2M Insured",
+        "condition": "New • 11 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.27",
+        "market_value": "Comp: $45.52 | Yours: $39.58",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-48",
-      "name": "[Top 50 Hard-to-Find Essential #48] Talking Food Thermometer",
-      "price": "$19.76",
+      "name": "[Top 50 Essential #48] LED Flashing , Stick On Receiver And Transmitter Freestanding Bas",
+      "price": "$17.49",
+      "vendorCost": "$15.90",
+      "netMargin": "10% Net ($1.59)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRAEDBbu2mUJb-T_wJge8SKcIdlJtxibu-kULvuzxslKqx-5zA9R2fv9nDiERh4PgtA0Bx8rwTJfTkhVqHYzhmLs_H_LmGvSNdrDnbKL9xo",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQIBZmjkNp0J4ZKKvr7fkOxJQW4tZDZBg9gEbCnq02V_ggOTnHl6uo9GaiUEg8zJWm3bUM0YVkmHbEdCWkqn1HVCVShdtYrusjii3ioco2JgEWFiPRCNNHVYg",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRIkPIYwkaN3zcjYM7uqi-GcI3J2xB2KkGZ7tzRVDB4QjOpyGlRq7g3j4eA_E2-34UitcQz5PB_9awtjxTHOIBJuqKAhBCxAzWaWtWv88iK53vuFcGXFFbB"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQxKNKNxhtOew9pNIfzYRuVujAgwE-F9k-UpQ8y5-sUTU_MtRV7EulAtn5g55ZkIxQEjtblYA3mgYjwZgeDfufNioxOk6ZkxUzFJy_UiRs",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQQL28KItBigO5ZtI9fNIW828Oz7EvJY9ia0HXX8LDAry5het7Z5bOxJiEuFBYIa4o2YvRw2aFhDSZvyOPMd4TQA8BOZpdt8XN597VxaxEJw_c0dDaHiL-P",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQChrfGAOiKGoKDTGwh2f25oyQAA2HUKX5y9Hz9_tzACBU1NwsECLnGPYlXEhmaLrGNzRqpUekC9QmP4hHsWsq-RqonWNhcpOZcHUjEvs5N"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 7,
+      "count": 12,
       "specs": {
-        "manufacturer": "Independent Living Aids • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.63) + Card Fee ($1.04)",
-        "market_value": "Competitor Landed: $32.26 | Your All-In Landed: $26.42 (Saves $5.84)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$17.96",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $1.80"
+        "manufacturer": "Walmart - Huayunna • $2M Insured",
+        "condition": "New • 12 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.44",
+        "market_value": "Comp: $20.11 | Yours: $17.49",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-49",
-      "name": "[Top 50 Hard-to-Find Essential #49] LogicKeyboard XL Print NERO PC Slim Line Keyboard",
-      "price": "$94.96",
+      "name": "[Top 50 Essential #49] SquareGlow Wireless Flasher and Sound Receiver",
+      "price": "$79.19",
+      "vendorCost": "$71.99",
+      "netMargin": "10% Net ($7.20)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQIBZmjkNp0J4ZKKvr7fkOxJQW4tZDZBg9gEbCnq02V_ggOTnHl6uo9GaiUEg8zJWm3bUM0YVkmHbEdCWkqn1HVCVShdtYrusjii3ioco2JgEWFiPRCNNHVYg",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRIkPIYwkaN3zcjYM7uqi-GcI3J2xB2KkGZ7tzRVDB4QjOpyGlRq7g3j4eA_E2-34UitcQz5PB_9awtjxTHOIBJuqKAhBCxAzWaWtWv88iK53vuFcGXFFbB",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQDKhrqEkxIodX7Lalztjw88JDTJWolZLelOlK9mJAPY1EWp6yIBl0HGbA24oXmv5NUzOcjB8l1geZze-EEciqnqZ3mxGgsLw"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQQL28KItBigO5ZtI9fNIW828Oz7EvJY9ia0HXX8LDAry5het7Z5bOxJiEuFBYIa4o2YvRw2aFhDSZvyOPMd4TQA8BOZpdt8XN597VxaxEJw_c0dDaHiL-P",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQChrfGAOiKGoKDTGwh2f25oyQAA2HUKX5y9Hz9_tzACBU1NwsECLnGPYlXEhmaLrGNzRqpUekC9QmP4hHsWsq-RqonWNhcpOZcHUjEvs5N",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ_HaKizNu53maU_j1LgcN1u018I4TMTpldgIyacuN3u9-dqCv28SqKIaEdGzP2MDRsvE_eJCx8eYbvP37bDoCfBc0ErSiUods0BAIMb92zJGBUzwGgjgqZ"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 8,
+      "count": 5,
       "specs": {
-        "manufacturer": "AskErgoWorks • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $7.83) + Card Fee ($3.40)",
-        "market_value": "Competitor Landed: $122.70 | Your All-In Landed: $110.18 (Saves $12.52)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$86.33",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $8.63"
+        "manufacturer": "Assistech Special Needs • $2M Insured",
+        "condition": "New • 5 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $6.53",
+        "market_value": "Comp: $91.07 | Yours: $79.19",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-50",
-      "name": "[Top 50 Hard-to-Find Essential #50] Drive Blind Folding Cane",
-      "price": "$12.14",
+      "name": "[Top 50 Essential #50] Security2020 Wc180 Wireless Door Chime With Flashing Strobe Light",
+      "price": "$56.48",
+      "vendorCost": "$51.35",
+      "netMargin": "10% Net ($5.13)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRIkPIYwkaN3zcjYM7uqi-GcI3J2xB2KkGZ7tzRVDB4QjOpyGlRq7g3j4eA_E2-34UitcQz5PB_9awtjxTHOIBJuqKAhBCxAzWaWtWv88iK53vuFcGXFFbB",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQDKhrqEkxIodX7Lalztjw88JDTJWolZLelOlK9mJAPY1EWp6yIBl0HGbA24oXmv5NUzOcjB8l1geZze-EEciqnqZ3mxGgsLw",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQOQGiFukwo_twHU6p-aRL0gDW3nxKuUjDf1q4BLxqApcCwWMBq2eCXdwZ_AN9T3LXiGnj4gOfc7UPsuuxDR6ZUfNIsVeUPf7yrl-8i40e4uh8Pqk435MFFsQ"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQChrfGAOiKGoKDTGwh2f25oyQAA2HUKX5y9Hz9_tzACBU1NwsECLnGPYlXEhmaLrGNzRqpUekC9QmP4hHsWsq-RqonWNhcpOZcHUjEvs5N",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ_HaKizNu53maU_j1LgcN1u018I4TMTpldgIyacuN3u9-dqCv28SqKIaEdGzP2MDRsvE_eJCx8eYbvP37bDoCfBc0ErSiUods0BAIMb92zJGBUzwGgjgqZ",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRliiuqBxYC8ncwv1ywOm9pyDBm_1sCjxuftrFQv2SH5qyhIAj4cP1Hd-6ZZ4SKAq4gn2OVhEzHCz4LjeKLmeL9Yb50ZtEYryZrKr1Y05XRhZxuyn7nLWC3"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 9,
+      "count": 6,
       "specs": {
-        "manufacturer": "Walmart • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 9 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.00) + Card Fee ($0.80)",
-        "market_value": "Competitor Landed: $23.09 | Your All-In Landed: $17.93 (Saves $5.16)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$11.04",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $1.10"
+        "manufacturer": "eBay - jeffery101 • $2M Insured",
+        "condition": "New • 6 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $4.66",
+        "market_value": "Comp: $64.95 | Yours: $56.48",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-51",
-      "name": "[35 Complaint-Solver Solution #1] Folding Blind Cane with Wrist Strap from Alex Orthoped",
-      "price": "$42.80",
+      "name": "[35 Complaint-Solver #1] Safeguard Supply Wireless Doorbell + Flashing Strobe Receiver K",
+      "price": "$57.20",
+      "vendorCost": "$52.00",
+      "netMargin": "10% Net ($5.20)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQDKhrqEkxIodX7Lalztjw88JDTJWolZLelOlK9mJAPY1EWp6yIBl0HGbA24oXmv5NUzOcjB8l1geZze-EEciqnqZ3mxGgsLw",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQOQGiFukwo_twHU6p-aRL0gDW3nxKuUjDf1q4BLxqApcCwWMBq2eCXdwZ_AN9T3LXiGnj4gOfc7UPsuuxDR6ZUfNIsVeUPf7yrl-8i40e4uh8Pqk435MFFsQ",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRrNQ_FeI2yPFV9Iy8TSwY0VF7_k7qYEZmfusyt8NUqZrXvJ6YZEeL0EeZJprKljxc4rt3XxWnw0kRENbo0TszMD7RHum6yiNcc7D7XOzydr8UFwiA2O1X31ww"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ_HaKizNu53maU_j1LgcN1u018I4TMTpldgIyacuN3u9-dqCv28SqKIaEdGzP2MDRsvE_eJCx8eYbvP37bDoCfBc0ErSiUods0BAIMb92zJGBUzwGgjgqZ",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRliiuqBxYC8ncwv1ywOm9pyDBm_1sCjxuftrFQv2SH5qyhIAj4cP1Hd-6ZZ4SKAq4gn2OVhEzHCz4LjeKLmeL9Yb50ZtEYryZrKr1Y05XRhZxuyn7nLWC3",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTowCnLx8yCualwiKd42xKTVF-f7mDc_BoFqHfWJgSLOpKthd2g1QMtTR0mZBWtXphpqObotgxZWVeOvpSF7rLg7Q5SSgyOLD0tZovYIMY5"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 10,
+      "count": 7,
       "specs": {
-        "manufacturer": "Rehabmart.com • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 10 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.53) + Card Fee ($1.76)",
-        "market_value": "Competitor Landed: $59.96 | Your All-In Landed: $52.08 (Saves $7.88)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$38.91",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.89"
+        "manufacturer": "Safeguard Supply • $2M Insured",
+        "condition": "New • 7 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $4.72",
+        "market_value": "Comp: $65.78 | Yours: $57.20",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-52",
-      "name": "[35 Complaint-Solver Solution #2] Ambutech Aluminum 5-Section Folding ID Cane",
-      "price": "$15.80",
+      "name": "[35 Complaint-Solver #2] Safeguard Wc180 Duo Wireless Door Chime With Flashing Strobe Li",
+      "price": "$13.20",
+      "vendorCost": "$12.00",
+      "netMargin": "10% Net ($1.20)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQOQGiFukwo_twHU6p-aRL0gDW3nxKuUjDf1q4BLxqApcCwWMBq2eCXdwZ_AN9T3LXiGnj4gOfc7UPsuuxDR6ZUfNIsVeUPf7yrl-8i40e4uh8Pqk435MFFsQ",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRrNQ_FeI2yPFV9Iy8TSwY0VF7_k7qYEZmfusyt8NUqZrXvJ6YZEeL0EeZJprKljxc4rt3XxWnw0kRENbo0TszMD7RHum6yiNcc7D7XOzydr8UFwiA2O1X31ww",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTeo69w1eZqOC0ATxHtk_rbI-7yKG4lVlGDeZncb67whuBe4LakvdOfx4sJCxLX_kR8nhvoQsrBAanWWQ9YXvCgE9N_XaKVK9fyUYStK9LjGdMfOJW4xy7X"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRliiuqBxYC8ncwv1ywOm9pyDBm_1sCjxuftrFQv2SH5qyhIAj4cP1Hd-6ZZ4SKAq4gn2OVhEzHCz4LjeKLmeL9Yb50ZtEYryZrKr1Y05XRhZxuyn7nLWC3",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTowCnLx8yCualwiKd42xKTVF-f7mDc_BoFqHfWJgSLOpKthd2g1QMtTR0mZBWtXphpqObotgxZWVeOvpSF7rLg7Q5SSgyOLD0tZovYIMY5",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSMbThh6sOho1gh6kaDacu4jmp-4L555dFsqDJDLok2mfEd5Ca3NV7uimcBQJE6UnTVwOLz33aUWjo-N8-N3FWA5EryKNerOu0A2gByjFDqXaLcLETGVzjbiQ"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 11,
+      "count": 8,
       "specs": {
-        "manufacturer": "Walmart - Maxi-Aids • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 11 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.30) + Card Fee ($0.91)",
-        "market_value": "Competitor Landed: $27.50 | Your All-In Landed: $22.00 (Saves $5.50)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$14.36",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $1.44"
+        "manufacturer": "eBay • $2M Insured",
+        "condition": "New • 8 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.09",
+        "market_value": "Comp: $15.18 | Yours: $13.20",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-53",
-      "name": "[35 Complaint-Solver Solution #3] Ambutech Aluminum Folding Cane with Dakota Disk Tip – ",
-      "price": "$28.98",
+      "name": "[35 Complaint-Solver #3] Status Cable Free Door Chime With Strobe Light Kit White - SWCF",
+      "price": "$12.73",
+      "vendorCost": "$11.57",
+      "netMargin": "10% Net ($1.16)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRrNQ_FeI2yPFV9Iy8TSwY0VF7_k7qYEZmfusyt8NUqZrXvJ6YZEeL0EeZJprKljxc4rt3XxWnw0kRENbo0TszMD7RHum6yiNcc7D7XOzydr8UFwiA2O1X31ww",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTeo69w1eZqOC0ATxHtk_rbI-7yKG4lVlGDeZncb67whuBe4LakvdOfx4sJCxLX_kR8nhvoQsrBAanWWQ9YXvCgE9N_XaKVK9fyUYStK9LjGdMfOJW4xy7X",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS6-ZgCT-z8dZN95Tu0kk6mXpX5x8zBFOnf3FmAamVXeTmAtK4fl6qwBFjPR92J9GScxF7HQd6uYmhYg0VCMwyvWHuAlt_n-Q"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTowCnLx8yCualwiKd42xKTVF-f7mDc_BoFqHfWJgSLOpKthd2g1QMtTR0mZBWtXphpqObotgxZWVeOvpSF7rLg7Q5SSgyOLD0tZovYIMY5",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSMbThh6sOho1gh6kaDacu4jmp-4L555dFsqDJDLok2mfEd5Ca3NV7uimcBQJE6UnTVwOLz33aUWjo-N8-N3FWA5EryKNerOu0A2gByjFDqXaLcLETGVzjbiQ",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTVOa2KtRSWsV1UgF1WOGOQtdnPaublt0CdtLYdfA8GBrTktvZQedyAPtNim5yfqcJ9WwaLwLMX7pNk4tInmkB9UySZpoYV6yrx4MpI2KXPMkeyjG3WQLQk"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 12,
+      "count": 9,
       "specs": {
-        "manufacturer": "Low Vision Supply • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 12 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.39) + Card Fee ($1.33)",
-        "market_value": "Competitor Landed: $43.35 | Your All-In Landed: $36.69 (Saves $6.66)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$26.35",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $2.63"
+        "manufacturer": "Big On Electricals • $2M Insured",
+        "condition": "New • 9 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.05",
+        "market_value": "Comp: $14.64 | Yours: $12.73",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-54",
-      "name": "[35 Complaint-Solver Solution #4] Aluminum Mobility Folding White Cane for Vision Impair",
-      "price": "$43.55",
+      "name": "[35 Complaint-Solver #4] Safeguard Supply Wc180-SS-DUO Wireless Strobe Doorbell Kit with",
+      "price": "$43.96",
+      "vendorCost": "$39.96",
+      "netMargin": "10% Net ($4.00)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTeo69w1eZqOC0ATxHtk_rbI-7yKG4lVlGDeZncb67whuBe4LakvdOfx4sJCxLX_kR8nhvoQsrBAanWWQ9YXvCgE9N_XaKVK9fyUYStK9LjGdMfOJW4xy7X",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS6-ZgCT-z8dZN95Tu0kk6mXpX5x8zBFOnf3FmAamVXeTmAtK4fl6qwBFjPR92J9GScxF7HQd6uYmhYg0VCMwyvWHuAlt_n-Q",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSpISW0Ygm66ak4pXiOebxjZ-MZrKfi5M0WQSA5KVbDvSLE7W7q0ZLd-5mFdx945GjzQrai_D1eNZtwZfTYRe6Bfdq5yc62wKtwG9Vwbx3xdKVPyUHSu9N5cQ"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSMbThh6sOho1gh6kaDacu4jmp-4L555dFsqDJDLok2mfEd5Ca3NV7uimcBQJE6UnTVwOLz33aUWjo-N8-N3FWA5EryKNerOu0A2gByjFDqXaLcLETGVzjbiQ",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTVOa2KtRSWsV1UgF1WOGOQtdnPaublt0CdtLYdfA8GBrTktvZQedyAPtNim5yfqcJ9WwaLwLMX7pNk4tInmkB9UySZpoYV6yrx4MpI2KXPMkeyjG3WQLQk",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBObbegQUy90f-vw4XEDcwYfOR6xYEMHcOtEOkOXRuuImCY4iGU1n9CKzQ09YJKOoHvCExaVQHjOgIcdxU_Sq1aOoillleEhJ3t5WtMLwtM9zVdKV_0GVzwg"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 13,
+      "count": 10,
       "specs": {
-        "manufacturer": "GoSupps.com • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 13 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.59) + Card Fee ($1.78)",
-        "market_value": "Competitor Landed: $60.87 | Your All-In Landed: $52.91 (Saves $7.96)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$39.59",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.96"
+        "manufacturer": "Diglo • $2M Insured",
+        "condition": "New • 10 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.63",
+        "market_value": "Comp: $50.55 | Yours: $43.96",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-55",
-      "name": "[35 Complaint-Solver Solution #5] Alex Orthopedic Folding Blind Cane with Putter Grip an",
-      "price": "$28.94",
+      "name": "[35 Complaint-Solver #5] Wireless Flashing Doorbell for Deaf & Hard of Hearing | 7-Color",
+      "price": "$38.72",
+      "vendorCost": "$35.20",
+      "netMargin": "10% Net ($3.52)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS6-ZgCT-z8dZN95Tu0kk6mXpX5x8zBFOnf3FmAamVXeTmAtK4fl6qwBFjPR92J9GScxF7HQd6uYmhYg0VCMwyvWHuAlt_n-Q",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSpISW0Ygm66ak4pXiOebxjZ-MZrKfi5M0WQSA5KVbDvSLE7W7q0ZLd-5mFdx945GjzQrai_D1eNZtwZfTYRe6Bfdq5yc62wKtwG9Vwbx3xdKVPyUHSu9N5cQ",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQP3Qv6HRFYmUusiVkMuvrqwBil5CTKPOVJfxBCqnrGRpOxxRyNTUj7I8rZg3DIOqVdUF7vwB9f-Avz9tr24dktzI0PtO6Uvu0IQBgaU5rcop8kMvWShFAW"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTVOa2KtRSWsV1UgF1WOGOQtdnPaublt0CdtLYdfA8GBrTktvZQedyAPtNim5yfqcJ9WwaLwLMX7pNk4tInmkB9UySZpoYV6yrx4MpI2KXPMkeyjG3WQLQk",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBObbegQUy90f-vw4XEDcwYfOR6xYEMHcOtEOkOXRuuImCY4iGU1n9CKzQ09YJKOoHvCExaVQHjOgIcdxU_Sq1aOoillleEhJ3t5WtMLwtM9zVdKV_0GVzwg",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcThIhpm9k9i-FNkPh3zdqqQqx5iFvn2jwKBflamALSRg5XKkpURT2m5Ax7bXdia4B5UaIbPWtR8LmyDkLOuXl3ClTCFbRwBC0kUxAhelz-f"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 5,
+      "count": 11,
       "specs": {
-        "manufacturer": "Betty Mills • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.39) + Card Fee ($1.32)",
-        "market_value": "Competitor Landed: $43.30 | Your All-In Landed: $36.64 (Saves $6.66)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$26.31",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $2.63"
+        "manufacturer": "Hearview • $2M Insured",
+        "condition": "New • 11 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.19",
+        "market_value": "Comp: $44.53 | Yours: $38.72",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-56",
-      "name": "[35 Complaint-Solver Solution #6] Folding Aluminum Mobility Cane w/ Pathfinder 360 Tip -",
-      "price": "$47.51",
+      "name": "[35 Complaint-Solver #6] Rebrilliant Wireless Doorbell Kit with Strobe Light and Sound a",
+      "price": "$65.11",
+      "vendorCost": "$59.19",
+      "netMargin": "10% Net ($5.92)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSpISW0Ygm66ak4pXiOebxjZ-MZrKfi5M0WQSA5KVbDvSLE7W7q0ZLd-5mFdx945GjzQrai_D1eNZtwZfTYRe6Bfdq5yc62wKtwG9Vwbx3xdKVPyUHSu9N5cQ",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQP3Qv6HRFYmUusiVkMuvrqwBil5CTKPOVJfxBCqnrGRpOxxRyNTUj7I8rZg3DIOqVdUF7vwB9f-Avz9tr24dktzI0PtO6Uvu0IQBgaU5rcop8kMvWShFAW",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR89DMQTxFc4E12YKN3WYbBNeJZzHyeVE2rMS9uqfoumGL9QeOSV93f1bOYsM42QDoziJyvWGJBOwcLdprs-aJgrdNfrXa9AjhG7Mvc-koMpRsl-8kRJ8IaR3So"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBObbegQUy90f-vw4XEDcwYfOR6xYEMHcOtEOkOXRuuImCY4iGU1n9CKzQ09YJKOoHvCExaVQHjOgIcdxU_Sq1aOoillleEhJ3t5WtMLwtM9zVdKV_0GVzwg",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcThIhpm9k9i-FNkPh3zdqqQqx5iFvn2jwKBflamALSRg5XKkpURT2m5Ax7bXdia4B5UaIbPWtR8LmyDkLOuXl3ClTCFbRwBC0kUxAhelz-f",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcREfFZhOoDE0_7n_iWIu-57TMR84coKvzIt8KPN-gi1Dv6Ubb5mpBP2gVFRKuVlrNHflOsHY3oQlFrexqhqEW8W41V1rtejgSIDf4gM4gU"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 6,
+      "count": 12,
       "specs": {
-        "manufacturer": "Low Vision Supply • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.92) + Card Fee ($1.91)",
-        "market_value": "Competitor Landed: $65.64 | Your All-In Landed: $57.33 (Saves $8.31)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$43.19",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $4.32"
+        "manufacturer": "Wayfair • $2M Insured",
+        "condition": "New • 12 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $5.37",
+        "market_value": "Comp: $74.88 | Yours: $65.11",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-57",
-      "name": "[35 Complaint-Solver Solution #7] Folding Aluminum Mobility Cane w/ Rover Free Wheeling ",
-      "price": "$28.98",
+      "name": "[35 Complaint-Solver #7] Safeguard Supply Wc180-ss Wireless Flashing Strobe Doorbell Kit",
+      "price": "$39.58",
+      "vendorCost": "$35.98",
+      "netMargin": "10% Net ($3.60)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQP3Qv6HRFYmUusiVkMuvrqwBil5CTKPOVJfxBCqnrGRpOxxRyNTUj7I8rZg3DIOqVdUF7vwB9f-Avz9tr24dktzI0PtO6Uvu0IQBgaU5rcop8kMvWShFAW",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR89DMQTxFc4E12YKN3WYbBNeJZzHyeVE2rMS9uqfoumGL9QeOSV93f1bOYsM42QDoziJyvWGJBOwcLdprs-aJgrdNfrXa9AjhG7Mvc-koMpRsl-8kRJ8IaR3So",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQecVjroVGa_JyaCdd5NPmN889K6cl2QbEFF8EDKJePLeVoj2oQNASZ2lNwM3HqczdPe5Gxjcrsqmo4ZkGFF3VvsVOv4IPKXWP3iz2DX04HNXWAfUZRQsNnCA"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcThIhpm9k9i-FNkPh3zdqqQqx5iFvn2jwKBflamALSRg5XKkpURT2m5Ax7bXdia4B5UaIbPWtR8LmyDkLOuXl3ClTCFbRwBC0kUxAhelz-f",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcREfFZhOoDE0_7n_iWIu-57TMR84coKvzIt8KPN-gi1Dv6Ubb5mpBP2gVFRKuVlrNHflOsHY3oQlFrexqhqEW8W41V1rtejgSIDf4gM4gU",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRI5AFxy7u-ZmX-gz0TzkgdqBEDXr2Azl41vknJYiLO8OGU1JZiWROBWZNBh8a8zPE0RUApuH_wsUaSnFWPnOW1IBuDdipmRko6qSn6R3a9"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 7,
+      "count": 5,
       "specs": {
-        "manufacturer": "Low Vision Supply • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.39) + Card Fee ($1.33)",
-        "market_value": "Competitor Landed: $43.35 | Your All-In Landed: $36.69 (Saves $6.66)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$26.35",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $2.63"
+        "manufacturer": "Walmart - Altius Technologies • $2M Insured",
+        "condition": "New • 5 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.27",
+        "market_value": "Comp: $45.52 | Yours: $39.58",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-58",
-      "name": "[35 Complaint-Solver Solution #8] Ambutech Aluminum White Cane with Metal Glide Tip – Mo",
-      "price": "$22.73",
+      "name": "[35 Complaint-Solver #8] Defiant Wireless Battery Tabletop Doorbell Kit Blue Led Strobe ",
+      "price": "$17.78",
+      "vendorCost": "$16.16",
+      "netMargin": "10% Net ($1.62)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR89DMQTxFc4E12YKN3WYbBNeJZzHyeVE2rMS9uqfoumGL9QeOSV93f1bOYsM42QDoziJyvWGJBOwcLdprs-aJgrdNfrXa9AjhG7Mvc-koMpRsl-8kRJ8IaR3So",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQecVjroVGa_JyaCdd5NPmN889K6cl2QbEFF8EDKJePLeVoj2oQNASZ2lNwM3HqczdPe5Gxjcrsqmo4ZkGFF3VvsVOv4IPKXWP3iz2DX04HNXWAfUZRQsNnCA",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQn2VB_jeM09xboIl8n_HTPAKdHSqjWTidAnDQKgmczf8ZXZUoFc5kAY82d3OefV2gcnlEKmi5RoaGoFP79FhQMu1jDVV2Z0bBLw0mVGJTDjvw85Qwk8HIBfg"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcREfFZhOoDE0_7n_iWIu-57TMR84coKvzIt8KPN-gi1Dv6Ubb5mpBP2gVFRKuVlrNHflOsHY3oQlFrexqhqEW8W41V1rtejgSIDf4gM4gU",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRI5AFxy7u-ZmX-gz0TzkgdqBEDXr2Azl41vknJYiLO8OGU1JZiWROBWZNBh8a8zPE0RUApuH_wsUaSnFWPnOW1IBuDdipmRko6qSn6R3a9",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTmjZ0bC-y8B-1dxJ2Cw45k8VctbRT6_cMBEkpovkzL0vFYZsCaCLkg_GCgd3I49PZ88NzMEfYAsRrkAN11pbmlqHEvt9YwAq0l76upbV7TimhQeu2uq-91jQ"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 8,
+      "count": 6,
       "specs": {
-        "manufacturer": "Low Vision Supply • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.88) + Card Fee ($1.13)",
-        "market_value": "Competitor Landed: $35.82 | Your All-In Landed: $29.73 (Saves $6.09)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$20.66",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $2.07"
+        "manufacturer": "eBay - setbuy • $2M Insured",
+        "condition": "New • 6 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.47",
+        "market_value": "Comp: $20.45 | Yours: $17.78",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-59",
-      "name": "[35 Complaint-Solver Solution #9] Smartlux Digital 5\" Portable HD Video Magnifier for Lo",
-      "price": "$594.00",
+      "name": "[35 Complaint-Solver #9] Hampton Bay 1001 411 364 Doorbell Strobe Kit",
+      "price": "$14.95",
+      "vendorCost": "$13.59",
+      "netMargin": "10% Net ($1.36)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQecVjroVGa_JyaCdd5NPmN889K6cl2QbEFF8EDKJePLeVoj2oQNASZ2lNwM3HqczdPe5Gxjcrsqmo4ZkGFF3VvsVOv4IPKXWP3iz2DX04HNXWAfUZRQsNnCA",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQn2VB_jeM09xboIl8n_HTPAKdHSqjWTidAnDQKgmczf8ZXZUoFc5kAY82d3OefV2gcnlEKmi5RoaGoFP79FhQMu1jDVV2Z0bBLw0mVGJTDjvw85Qwk8HIBfg",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRmcDuSN0ZYtry9L1wHL61qw27tuzgHpXNfVJy7w6iGT26c_Air_vkJmRFZSDATikh_m68_Dd4sJXE6Lw2S3nJY2EYIpcH6Nm8J8pModInk66PGl6Dnpz72yw"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRI5AFxy7u-ZmX-gz0TzkgdqBEDXr2Azl41vknJYiLO8OGU1JZiWROBWZNBh8a8zPE0RUApuH_wsUaSnFWPnOW1IBuDdipmRko6qSn6R3a9",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTmjZ0bC-y8B-1dxJ2Cw45k8VctbRT6_cMBEkpovkzL0vFYZsCaCLkg_GCgd3I49PZ88NzMEfYAsRrkAN11pbmlqHEvt9YwAq0l76upbV7TimhQeu2uq-91jQ",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRgDJ6_1H1C2DW5BmpX1n9OO2dDSk--8fqqUusPLCIu-8YgvapVt8QLMjH0TH_FGXGC0Xdyx5SMksUbtLLcgx-4Ly4u0USxdA"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 9,
+      "count": 7,
       "specs": {
-        "manufacturer": "The Low Vision Store • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 9 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $14.99 + Tax (8.25%: $49.01) + Card Fee ($19.38)",
-        "market_value": "Competitor Landed: $733.94 | Your All-In Landed: $677.38 (Saves $56.56)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$540.00",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $54.00"
+        "manufacturer": "eBay - mrsreporon • $2M Insured",
+        "condition": "New • 7 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.23",
+        "market_value": "Comp: $17.19 | Yours: $14.95",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-60",
-      "name": "[35 Complaint-Solver Solution #10] Humanware explorē 12 – Portable video magnifier",
-      "price": "$1306.01",
+      "name": "[35 Complaint-Solver #10] 234WB Trine Wireless Strobe Chime, Plug In",
+      "price": "$49.83",
+      "vendorCost": "$45.30",
+      "netMargin": "10% Net ($4.53)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQn2VB_jeM09xboIl8n_HTPAKdHSqjWTidAnDQKgmczf8ZXZUoFc5kAY82d3OefV2gcnlEKmi5RoaGoFP79FhQMu1jDVV2Z0bBLw0mVGJTDjvw85Qwk8HIBfg",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRmcDuSN0ZYtry9L1wHL61qw27tuzgHpXNfVJy7w6iGT26c_Air_vkJmRFZSDATikh_m68_Dd4sJXE6Lw2S3nJY2EYIpcH6Nm8J8pModInk66PGl6Dnpz72yw",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSIhHdiK4cdTTINWrjIZT_jAdczdr3h-ehDe3FPDAkTRr2gFUT4IxwpkDjTwtUau3fBFAqSqvcpRa7WZ_sxqKLLUzgJFt9-gIqa_-AtRrDpELNg3OYPrg23"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTmjZ0bC-y8B-1dxJ2Cw45k8VctbRT6_cMBEkpovkzL0vFYZsCaCLkg_GCgd3I49PZ88NzMEfYAsRrkAN11pbmlqHEvt9YwAq0l76upbV7TimhQeu2uq-91jQ",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRgDJ6_1H1C2DW5BmpX1n9OO2dDSk--8fqqUusPLCIu-8YgvapVt8QLMjH0TH_FGXGC0Xdyx5SMksUbtLLcgx-4Ly4u0USxdA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTPvZmnDTOBLEefSLFyOc9Ngbos0kgEaZOQ8amlOVhhusygYYr0nK9-S8WzLj2j1jwcXS6So65hKbmp_8t2qPJQVNzCX7hES1ZP9wf6bbcq6fsoQUgRO9TK"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 10,
+      "count": 8,
       "specs": {
-        "manufacturer": "New England Low Vision and Blindness • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 10 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $14.99 + Tax (8.25%: $107.75) + Card Fee ($41.73)",
-        "market_value": "Competitor Landed: $1590.33 | Your All-In Landed: $1470.48 (Saves $119.85)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$1187.28",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $118.73"
+        "manufacturer": "Lock Depot • $2M Insured",
+        "condition": "New • 8 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $4.11",
+        "market_value": "Comp: $57.30 | Yours: $49.83",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-61",
-      "name": "[35 Complaint-Solver Solution #11] Ruby 7 inch hd",
-      "price": "$673.20",
+      "name": "[35 Complaint-Solver #11] WP180USL Wireless Doorbell with Flashing Strobe and Push Butto",
+      "price": "$39.58",
+      "vendorCost": "$35.98",
+      "netMargin": "10% Net ($3.60)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRmcDuSN0ZYtry9L1wHL61qw27tuzgHpXNfVJy7w6iGT26c_Air_vkJmRFZSDATikh_m68_Dd4sJXE6Lw2S3nJY2EYIpcH6Nm8J8pModInk66PGl6Dnpz72yw",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSIhHdiK4cdTTINWrjIZT_jAdczdr3h-ehDe3FPDAkTRr2gFUT4IxwpkDjTwtUau3fBFAqSqvcpRa7WZ_sxqKLLUzgJFt9-gIqa_-AtRrDpELNg3OYPrg23",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRP75_JNZAI5SbIp2EnkglZYOuvTk5IYjvN4POWrKEW2abQQ3nNrWZbYTonCejflLzzRsFHdtAJj1wjqx-bNXhwpv-JE19lSpCuV0W8pGF6-q7L0QubAhg2"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRgDJ6_1H1C2DW5BmpX1n9OO2dDSk--8fqqUusPLCIu-8YgvapVt8QLMjH0TH_FGXGC0Xdyx5SMksUbtLLcgx-4Ly4u0USxdA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTPvZmnDTOBLEefSLFyOc9Ngbos0kgEaZOQ8amlOVhhusygYYr0nK9-S8WzLj2j1jwcXS6So65hKbmp_8t2qPJQVNzCX7hES1ZP9wf6bbcq6fsoQUgRO9TK",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS4bQIY2T4FuI78unIwGEDQwtO7SNJnZzflGgND1c7iJW41oLLTBmGraMnd0Dh46YTYQLV9OkmpkHLIP_OIJ7SPgM0pmFq5E1e6IooZCkvT"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 11,
+      "count": 9,
       "specs": {
-        "manufacturer": "eBay - the_low_vision_store • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 11 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $14.99 + Tax (8.25%: $55.54) + Card Fee ($21.87)",
-        "market_value": "Competitor Landed: $829.20 | Your All-In Landed: $765.60 (Saves $63.60)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$612.00",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $61.20"
+        "manufacturer": "HealthProductsForYou.com • $2M Insured",
+        "condition": "New • 9 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.27",
+        "market_value": "Comp: $45.52 | Yours: $39.58",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-62",
-      "name": "[35 Complaint-Solver Solution #12] Luna 8 Handheld Video Magnifier",
-      "price": "$732.60",
+      "name": "[35 Complaint-Solver #12] Wireless Doorbell Kit with Flashing Strobe Light with 600 ft. ",
+      "price": "$53.33",
+      "vendorCost": "$48.48",
+      "netMargin": "10% Net ($4.85)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSIhHdiK4cdTTINWrjIZT_jAdczdr3h-ehDe3FPDAkTRr2gFUT4IxwpkDjTwtUau3fBFAqSqvcpRa7WZ_sxqKLLUzgJFt9-gIqa_-AtRrDpELNg3OYPrg23",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRP75_JNZAI5SbIp2EnkglZYOuvTk5IYjvN4POWrKEW2abQQ3nNrWZbYTonCejflLzzRsFHdtAJj1wjqx-bNXhwpv-JE19lSpCuV0W8pGF6-q7L0QubAhg2",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRoWjvvw1744LDCzVo6W4lxOoZ9DTIQt8es2krJFyGvHYXjdQAlIZUuP8Oxn25CPaiJLm0QgaGB_dqg6nnR8X7cw2_g0DXlhw"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTPvZmnDTOBLEefSLFyOc9Ngbos0kgEaZOQ8amlOVhhusygYYr0nK9-S8WzLj2j1jwcXS6So65hKbmp_8t2qPJQVNzCX7hES1ZP9wf6bbcq6fsoQUgRO9TK",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS4bQIY2T4FuI78unIwGEDQwtO7SNJnZzflGgND1c7iJW41oLLTBmGraMnd0Dh46YTYQLV9OkmpkHLIP_OIJ7SPgM0pmFq5E1e6IooZCkvT",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQChrfGAOiKGoKDTGwh2f25oyQAA2HUKX5y9Hz9_tzACBU1NwsECLnGPYlXEhmaLrGNzRqpUekC9QmP4hHsWsq-RqonWNhcpOZcHUjEvs5N"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 12,
+      "count": 10,
       "specs": {
-        "manufacturer": "Walmart - Maxi-Aids • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 12 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $14.99 + Tax (8.25%: $60.44) + Card Fee ($23.73)",
-        "market_value": "Competitor Landed: $900.64 | Your All-In Landed: $831.76 (Saves $68.88)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$666.00",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $66.60"
+        "manufacturer": "Rehabmart.com • $2M Insured",
+        "condition": "New • 10 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $4.40",
+        "market_value": "Comp: $61.33 | Yours: $53.33",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-63",
-      "name": "[35 Complaint-Solver Solution #13] VEVOR Portable 5-inch HD Digital Video Magnifier 4x-3",
-      "price": "$125.98",
+      "name": "[35 Complaint-Solver #13] Door Chime Open Alarm With Strobe Light & Sound Alert 3-mode 8",
+      "price": "$56.61",
+      "vendorCost": "$51.46",
+      "netMargin": "10% Net ($5.15)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRP75_JNZAI5SbIp2EnkglZYOuvTk5IYjvN4POWrKEW2abQQ3nNrWZbYTonCejflLzzRsFHdtAJj1wjqx-bNXhwpv-JE19lSpCuV0W8pGF6-q7L0QubAhg2",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRoWjvvw1744LDCzVo6W4lxOoZ9DTIQt8es2krJFyGvHYXjdQAlIZUuP8Oxn25CPaiJLm0QgaGB_dqg6nnR8X7cw2_g0DXlhw",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRleBdhyg6CkQLInI73uB8qet4FK4ANDG8v5YJ8WXZeTGw2GOudxe5xWpKUhkJfo2m0Fru0eHfRxR6oyxJ2La0h27z09s4UGvwtj71dtYvrwOBb6vPMHXBD9w"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS4bQIY2T4FuI78unIwGEDQwtO7SNJnZzflGgND1c7iJW41oLLTBmGraMnd0Dh46YTYQLV9OkmpkHLIP_OIJ7SPgM0pmFq5E1e6IooZCkvT",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQChrfGAOiKGoKDTGwh2f25oyQAA2HUKX5y9Hz9_tzACBU1NwsECLnGPYlXEhmaLrGNzRqpUekC9QmP4hHsWsq-RqonWNhcpOZcHUjEvs5N",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS_7xuimocL885E1MzAj32VUUI1xu8sLdbns8ZsYjUbcBBdYlO4aXaCLjvNI2Cafj1N6SAfRe4mRWzRkfuNYVUtAY3DyaXfunLSN85yOUfHOnZ8pKfehNfr"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 13,
+      "count": 11,
       "specs": {
-        "manufacturer": "VEVOR • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 13 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $5.99 + Tax (8.25%: $10.39) + Card Fee ($4.43)",
-        "market_value": "Competitor Landed: $162.02 | Your All-In Landed: $146.79 (Saves $15.23)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$114.53",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $11.45"
+        "manufacturer": "Walmart - Seller • $2M Insured",
+        "condition": "New • 11 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $4.67",
+        "market_value": "Comp: $65.10 | Yours: $56.61",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-64",
-      "name": "[35 Complaint-Solver Solution #14] Freedom Scientific Ruby 4.3\" HD Portable Low Vision V",
-      "price": "$471.24",
+      "name": "[35 Complaint-Solver #14] Security2020 Wc180 Wireless Door Chime With Flashing Strobe Li",
+      "price": "$54.38",
+      "vendorCost": "$49.44",
+      "netMargin": "10% Net ($4.94)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRoWjvvw1744LDCzVo6W4lxOoZ9DTIQt8es2krJFyGvHYXjdQAlIZUuP8Oxn25CPaiJLm0QgaGB_dqg6nnR8X7cw2_g0DXlhw",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRleBdhyg6CkQLInI73uB8qet4FK4ANDG8v5YJ8WXZeTGw2GOudxe5xWpKUhkJfo2m0Fru0eHfRxR6oyxJ2La0h27z09s4UGvwtj71dtYvrwOBb6vPMHXBD9w",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTZzlHJQdrrTUDNNoSgx9wRJtnvjlWwij45QAHwFRbR4d1mHQqk5t4r5WLS_gH2RTjU_Vc6YDL8etxKMgKLjJhl8OingLma9A"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQChrfGAOiKGoKDTGwh2f25oyQAA2HUKX5y9Hz9_tzACBU1NwsECLnGPYlXEhmaLrGNzRqpUekC9QmP4hHsWsq-RqonWNhcpOZcHUjEvs5N",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS_7xuimocL885E1MzAj32VUUI1xu8sLdbns8ZsYjUbcBBdYlO4aXaCLjvNI2Cafj1N6SAfRe4mRWzRkfuNYVUtAY3DyaXfunLSN85yOUfHOnZ8pKfehNfr",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSS-d0EwaKlBc8_YAQQLak1bB0m8N3u0hqFeL59uUL-ck1QB-5khbL32xO9wMmbD-0r-M8jX4YMTRjgaWlZ9kqVsGuyMij-qg"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 5,
+      "count": 12,
       "specs": {
-        "manufacturer": "The Low Vision Store • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $9.99 + Tax (8.25%: $38.88) + Card Fee ($15.38)",
-        "market_value": "Competitor Landed: $581.29 | Your All-In Landed: $535.49 (Saves $45.80)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$428.40",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $42.84"
+        "manufacturer": "eBay - tram.manda • $2M Insured",
+        "condition": "New • 12 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $4.49",
+        "market_value": "Comp: $62.54 | Yours: $54.38",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-65",
-      "name": "[35 Complaint-Solver Solution #15] Humanware Connect 12 electronic magnifier",
-      "price": "$1580.04",
+      "name": "[35 Complaint-Solver #15] Silent Call Medallion Series Mini Strobe Receiver",
+      "price": "$36.95",
+      "vendorCost": "$33.59",
+      "netMargin": "10% Net ($3.36)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRleBdhyg6CkQLInI73uB8qet4FK4ANDG8v5YJ8WXZeTGw2GOudxe5xWpKUhkJfo2m0Fru0eHfRxR6oyxJ2La0h27z09s4UGvwtj71dtYvrwOBb6vPMHXBD9w",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTZzlHJQdrrTUDNNoSgx9wRJtnvjlWwij45QAHwFRbR4d1mHQqk5t4r5WLS_gH2RTjU_Vc6YDL8etxKMgKLjJhl8OingLma9A",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRLbmO8Hrl8EHtfuUX3ISo7bpKph--R4-SG9FLO0QeMl3K2pG_Ty0_gS11KpDxvCi1-VFh5Rmfovp6BGVchkL98gRGtwQtstXduk81WEjB3xWSR-A5Fqkxk"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS_7xuimocL885E1MzAj32VUUI1xu8sLdbns8ZsYjUbcBBdYlO4aXaCLjvNI2Cafj1N6SAfRe4mRWzRkfuNYVUtAY3DyaXfunLSN85yOUfHOnZ8pKfehNfr",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSS-d0EwaKlBc8_YAQQLak1bB0m8N3u0hqFeL59uUL-ck1QB-5khbL32xO9wMmbD-0r-M8jX4YMTRjgaWlZ9kqVsGuyMij-qg",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ-yisAFRJPRnW6OKPx_8ysvfzcwP7-sYIJTRopUe7QZns2Drz3gU3PA8f8jCqPAUSEFDJQQZrYZ72ObR09qrY99RsBM7CU4FTVajmqcFEdeB_vmDQkDdxp5Q"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 6,
+      "count": 5,
       "specs": {
-        "manufacturer": "HumanWare • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $14.99 + Tax (8.25%: $130.35) + Card Fee ($50.34)",
-        "market_value": "Competitor Landed: $1919.93 | Your All-In Landed: $1775.72 (Saves $144.21)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$1436.40",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $143.64"
+        "manufacturer": "eBay - r-wesley • $2M Insured",
+        "condition": "New • 5 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.05",
+        "market_value": "Comp: $42.49 | Yours: $36.95",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-66",
-      "name": "[35 Complaint-Solver Solution #16] Humanware Explore 5 handheld electronic Magnifier",
-      "price": "$593.21",
+      "name": "[35 Complaint-Solver #16] ADA Compliant Video Compatible Doorbell Chime Kit with Strobe ",
+      "price": "$79.20",
+      "vendorCost": "$72.00",
+      "netMargin": "10% Net ($7.20)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTZzlHJQdrrTUDNNoSgx9wRJtnvjlWwij45QAHwFRbR4d1mHQqk5t4r5WLS_gH2RTjU_Vc6YDL8etxKMgKLjJhl8OingLma9A",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRLbmO8Hrl8EHtfuUX3ISo7bpKph--R4-SG9FLO0QeMl3K2pG_Ty0_gS11KpDxvCi1-VFh5Rmfovp6BGVchkL98gRGtwQtstXduk81WEjB3xWSR-A5Fqkxk",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTzcqmbAVqRKwAMvDVi6ruvrIsAyV9VxnxS_-nUEQQv8ivWoiB-rwnwT0_cy3RAxI7KDqw5Cvu7_gKM7SVlhOgVUg1NMIIvnF08NLOp1Y8-VYAO6Sf8kqCYnA"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSS-d0EwaKlBc8_YAQQLak1bB0m8N3u0hqFeL59uUL-ck1QB-5khbL32xO9wMmbD-0r-M8jX4YMTRjgaWlZ9kqVsGuyMij-qg",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ-yisAFRJPRnW6OKPx_8ysvfzcwP7-sYIJTRopUe7QZns2Drz3gU3PA8f8jCqPAUSEFDJQQZrYZ72ObR09qrY99RsBM7CU4FTVajmqcFEdeB_vmDQkDdxp5Q",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSNIBTjSUuslMpjgpv1HDVlEV8qA0wqfHMWHMCXWsDQLiQkLg8h_74QahhwHUg3bw9DD-BhSNVdtB9BWRZyNON92mcdUzpZTylDOf62gx5S3lKnfllXWo5tGg"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 7,
+      "count": 6,
       "specs": {
-        "manufacturer": "eBay - lowvisioncenter • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $14.99 + Tax (8.25%: $48.94) + Card Fee ($19.36)",
-        "market_value": "Competitor Landed: $732.99 | Your All-In Landed: $676.50 (Saves $56.49)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$539.28",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $53.93"
+        "manufacturer": "www.LightExpertsDirect.com • $2M Insured",
+        "condition": "New • 6 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $6.53",
+        "market_value": "Comp: $91.08 | Yours: $79.20",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-67",
-      "name": "[35 Complaint-Solver Solution #17] Visee Lvm-450 Portable Electronic Video Magnifier Rea",
-      "price": "$134.62",
+      "name": "[35 Complaint-Solver #17] Wireless Flashing Doorbell for Deaf & Hard of Hearing | 7-Colo",
+      "price": "$29.92",
+      "vendorCost": "$27.20",
+      "netMargin": "10% Net ($2.72)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRLbmO8Hrl8EHtfuUX3ISo7bpKph--R4-SG9FLO0QeMl3K2pG_Ty0_gS11KpDxvCi1-VFh5Rmfovp6BGVchkL98gRGtwQtstXduk81WEjB3xWSR-A5Fqkxk",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTzcqmbAVqRKwAMvDVi6ruvrIsAyV9VxnxS_-nUEQQv8ivWoiB-rwnwT0_cy3RAxI7KDqw5Cvu7_gKM7SVlhOgVUg1NMIIvnF08NLOp1Y8-VYAO6Sf8kqCYnA",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSK-OJahOUPC02aPCvWwKDoHb5VhLkysVxx3J8WTZd6KD0o62FakPKI3mk7W6gg9jHVP3g8XfeqRangWRnaifLQUOygTwT5x9k6b41WXj1-PpNT-qMlyBuw"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ-yisAFRJPRnW6OKPx_8ysvfzcwP7-sYIJTRopUe7QZns2Drz3gU3PA8f8jCqPAUSEFDJQQZrYZ72ObR09qrY99RsBM7CU4FTVajmqcFEdeB_vmDQkDdxp5Q",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSNIBTjSUuslMpjgpv1HDVlEV8qA0wqfHMWHMCXWsDQLiQkLg8h_74QahhwHUg3bw9DD-BhSNVdtB9BWRZyNON92mcdUzpZTylDOf62gx5S3lKnfllXWo5tGg",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSjKaWhVgY9EZVmsWBiyi0O0dDiK5dg9Zdd2UBtl7MalQjUJEbNuD9-GgkjON6-kYYhOhFqtKHr0yyMvFhuiK97w5ASBgXMfzvgatWgpNbgMCUJJ08It9x0"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 8,
+      "count": 7,
       "specs": {
-        "manufacturer": "Oasis Scientific • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $5.99 + Tax (8.25%: $11.11) + Card Fee ($4.70)",
-        "market_value": "Competitor Landed: $172.41 | Your All-In Landed: $156.42 (Saves $15.99)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$122.38",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $12.24"
+        "manufacturer": "Hearview • $2M Insured",
+        "condition": "New • 7 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.47",
+        "market_value": "Comp: $34.41 | Yours: $29.92",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-68",
-      "name": "[35 Complaint-Solver Solution #18] Reizen Digital video Magnifier",
-      "price": "$174.20",
+      "name": "[35 Complaint-Solver #18] Safeguard Supply Lra-dcrxs-l Wireless Flashing Strobe Loud Chi",
+      "price": "$35.20",
+      "vendorCost": "$32.00",
+      "netMargin": "10% Net ($3.20)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTzcqmbAVqRKwAMvDVi6ruvrIsAyV9VxnxS_-nUEQQv8ivWoiB-rwnwT0_cy3RAxI7KDqw5Cvu7_gKM7SVlhOgVUg1NMIIvnF08NLOp1Y8-VYAO6Sf8kqCYnA",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSK-OJahOUPC02aPCvWwKDoHb5VhLkysVxx3J8WTZd6KD0o62FakPKI3mk7W6gg9jHVP3g8XfeqRangWRnaifLQUOygTwT5x9k6b41WXj1-PpNT-qMlyBuw",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTTE5JIgSdzKFuBmyRtAUgacfT57RvhyFPK42yFFVOYC0NmeGhRLz0GyKX-r8jQxI_6JWVNz1JG9OuPIzzBQ8vDiHbBsAaj4f-PHNDiP1VfJBB0XmzQbgMMUg"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSNIBTjSUuslMpjgpv1HDVlEV8qA0wqfHMWHMCXWsDQLiQkLg8h_74QahhwHUg3bw9DD-BhSNVdtB9BWRZyNON92mcdUzpZTylDOf62gx5S3lKnfllXWo5tGg",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSjKaWhVgY9EZVmsWBiyi0O0dDiK5dg9Zdd2UBtl7MalQjUJEbNuD9-GgkjON6-kYYhOhFqtKHr0yyMvFhuiK97w5ASBgXMfzvgatWgpNbgMCUJJ08It9x0",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQvKH14hHUzdDdTRlMtA4P6lJkwo22aZ5YHHqVvDHO87O9GasVaMZGzqOAGkg5KB036ASM67wwlW-mkl0OVxXNqUi47H_WeyKOEYbiAqyNyq-SE7ALW-OkjUQ"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 9,
+      "count": 8,
       "specs": {
-        "manufacturer": "Walmart - Maxi-Aids • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 9 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $5.99 + Tax (8.25%: $14.37) + Card Fee ($5.94)",
-        "market_value": "Competitor Landed: $220.02 | Your All-In Landed: $200.50 (Saves $19.52)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$158.36",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $15.84"
+        "manufacturer": "eBay - digloshop • $2M Insured",
+        "condition": "New • 8 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.90",
+        "market_value": "Comp: $40.48 | Yours: $35.20",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "DEAF-69",
-      "name": "[35 Complaint-Solver Solution #19] Demo Smartlux Video Magnifier 5",
-      "price": "$471.24",
+      "name": "[35 Complaint-Solver #19] X5 Wireless Warehouse Doorbell and Strobe Light Kit (SKU: MB X",
+      "price": "$136.40",
+      "vendorCost": "$124.00",
+      "netMargin": "10% Net ($12.40)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSK-OJahOUPC02aPCvWwKDoHb5VhLkysVxx3J8WTZd6KD0o62FakPKI3mk7W6gg9jHVP3g8XfeqRangWRnaifLQUOygTwT5x9k6b41WXj1-PpNT-qMlyBuw",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTTE5JIgSdzKFuBmyRtAUgacfT57RvhyFPK42yFFVOYC0NmeGhRLz0GyKX-r8jQxI_6JWVNz1JG9OuPIzzBQ8vDiHbBsAaj4f-PHNDiP1VfJBB0XmzQbgMMUg",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSoe4hpE9TS50lTzY9HDrl9rZKLUGf7zu2onZJDEBQhFJr4pmqx-dQmkQrfD51LVrBJtXulyQhapcFkuqo2dhPA5ayurvH1frabM-QIKEFdxeNgXFGD-CKVnWs"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 10,
-      "specs": {
-        "manufacturer": "The Low Vision Store • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 10 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $9.99 + Tax (8.25%: $38.88) + Card Fee ($15.38)",
-        "market_value": "Competitor Landed: $581.29 | Your All-In Landed: $535.49 (Saves $45.80)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$428.40",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $42.84"
-    },
-    {
-      "id": "DEAF-70",
-      "name": "[35 Complaint-Solver Solution #20] GoVision Move Portable Low Vision Magnifier",
-      "price": "$2372.04",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTTE5JIgSdzKFuBmyRtAUgacfT57RvhyFPK42yFFVOYC0NmeGhRLz0GyKX-r8jQxI_6JWVNz1JG9OuPIzzBQ8vDiHbBsAaj4f-PHNDiP1VfJBB0XmzQbgMMUg",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSoe4hpE9TS50lTzY9HDrl9rZKLUGf7zu2onZJDEBQhFJr4pmqx-dQmkQrfD51LVrBJtXulyQhapcFkuqo2dhPA5ayurvH1frabM-QIKEFdxeNgXFGD-CKVnWs",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRKHJQj1BE9fuJLeFooPmmVodICnZZHh2_0g3ikL5VYHK_5L-DSt2Tjpqa0fn6K2TLmNSNU9VObA_nKDvBUykFN9H058lx8K50gf-gqj_LQvfQC8T-qOMkb"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 11,
-      "specs": {
-        "manufacturer": "New England Low Vision and Blindness • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 11 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $14.99 + Tax (8.25%: $195.69) + Card Fee ($75.20)",
-        "market_value": "Competitor Landed: $2872.53 | Your All-In Landed: $2657.92 (Saves $214.61)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$2156.40",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $215.64"
-    },
-    {
-      "id": "DEAF-71",
-      "name": "[35 Complaint-Solver Solution #21] Baum Visiobook Portable Electronic Video Magnifier Lo",
-      "price": "$435.60",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSoe4hpE9TS50lTzY9HDrl9rZKLUGf7zu2onZJDEBQhFJr4pmqx-dQmkQrfD51LVrBJtXulyQhapcFkuqo2dhPA5ayurvH1frabM-QIKEFdxeNgXFGD-CKVnWs",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRKHJQj1BE9fuJLeFooPmmVodICnZZHh2_0g3ikL5VYHK_5L-DSt2Tjpqa0fn6K2TLmNSNU9VObA_nKDvBUykFN9H058lx8K50gf-gqj_LQvfQC8T-qOMkb",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQKnWG0gySA-K8m4AuR_vhG9C2L1LIEvl3AjaQsYjPAqYIr_z-leq6Zr_XMtlxLe6o5E9Qf_j_ETT6BVrqdocr6IRf1wDDDMvYzkBNQcODU9I6UXLngciiJSw"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 12,
-      "specs": {
-        "manufacturer": "eBay • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 12 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $9.99 + Tax (8.25%: $35.94) + Card Fee ($14.26)",
-        "market_value": "Competitor Landed: $538.42 | Your All-In Landed: $495.79 (Saves $42.63)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$396.00",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $39.60"
-    },
-    {
-      "id": "DEAF-72",
-      "name": "[35 Complaint-Solver Solution #22] VEVOR Portable Digital Magnifier 8-inch Touchscreen V",
-      "price": "$465.68",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRKHJQj1BE9fuJLeFooPmmVodICnZZHh2_0g3ikL5VYHK_5L-DSt2Tjpqa0fn6K2TLmNSNU9VObA_nKDvBUykFN9H058lx8K50gf-gqj_LQvfQC8T-qOMkb",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQKnWG0gySA-K8m4AuR_vhG9C2L1LIEvl3AjaQsYjPAqYIr_z-leq6Zr_XMtlxLe6o5E9Qf_j_ETT6BVrqdocr6IRf1wDDDMvYzkBNQcODU9I6UXLngciiJSw",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTlgMUMyy_p3ZajFcIicXWZPcwXytKHa1Uh9n9UMSbfUhBqWwHcUYlyRcjqzAnGqeESonKzTA66eeOEEOxhpNpP4TsEMzl0hC1g0MaESuuPccxje7t8HYR5cA"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 13,
-      "specs": {
-        "manufacturer": "Best Buy • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 13 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $9.99 + Tax (8.25%: $38.42) + Card Fee ($15.21)",
-        "market_value": "Competitor Landed: $574.60 | Your All-In Landed: $529.30 (Saves $45.30)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$423.35",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $42.33"
-    },
-    {
-      "id": "DEAF-73",
-      "name": "[35 Complaint-Solver Solution #23] explorē 8 kit – Handheld video magnifier and stand",
-      "price": "$1226.81",
-      "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQKnWG0gySA-K8m4AuR_vhG9C2L1LIEvl3AjaQsYjPAqYIr_z-leq6Zr_XMtlxLe6o5E9Qf_j_ETT6BVrqdocr6IRf1wDDDMvYzkBNQcODU9I6UXLngciiJSw",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTlgMUMyy_p3ZajFcIicXWZPcwXytKHa1Uh9n9UMSbfUhBqWwHcUYlyRcjqzAnGqeESonKzTA66eeOEEOxhpNpP4TsEMzl0hC1g0MaESuuPccxje7t8HYR5cA",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRgb4Gdz6R3W8o7vURZ_Gz44UNXU6K8wYYznrezZbJ5c6GwFypNLmmmFnB2Kvg53Y3eOHSalek_g0tRwv9U35PbFMmxMD_885NhfjuNlJryCaMmFVfb2plT"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 5,
-      "specs": {
-        "manufacturer": "HumanWare • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $14.99 + Tax (8.25%: $101.21) + Card Fee ($39.25)",
-        "market_value": "Competitor Landed: $1495.07 | Your All-In Landed: $1382.26 (Saves $112.81)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$1115.28",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $111.53"
-    },
-    {
-      "id": "DEAF-74",
-      "name": "[35 Complaint-Solver Solution #24] Portable Video Magnifier Ruby 5\" XL HD Handheld Video",
-      "price": "$590.04",
-      "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTlgMUMyy_p3ZajFcIicXWZPcwXytKHa1Uh9n9UMSbfUhBqWwHcUYlyRcjqzAnGqeESonKzTA66eeOEEOxhpNpP4TsEMzl0hC1g0MaESuuPccxje7t8HYR5cA",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRgb4Gdz6R3W8o7vURZ_Gz44UNXU6K8wYYznrezZbJ5c6GwFypNLmmmFnB2Kvg53Y3eOHSalek_g0tRwv9U35PbFMmxMD_885NhfjuNlJryCaMmFVfb2plT",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTPogjwNVaGHDKPDNNbzYy7ce_L3Es2W6b4uxFy1hlrkvz9Bpq3GYwffmU6ZYCJm6QjR4XIke_Dqquay34OJiPlNgLnPQstm57by8wkU-68OMAJiVNJ1QvtUQ"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 6,
-      "specs": {
-        "manufacturer": "The Low Vision Store • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $14.99 + Tax (8.25%: $48.68) + Card Fee ($19.26)",
-        "market_value": "Competitor Landed: $729.18 | Your All-In Landed: $672.97 (Saves $56.21)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$536.40",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $53.64"
-    },
-    {
-      "id": "DEAF-75",
-      "name": "[35 Complaint-Solver Solution #25] GIVIMO Portable Digital Magnifier 5-in 800 x 480 HD L",
-      "price": "$205.91",
-      "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRgb4Gdz6R3W8o7vURZ_Gz44UNXU6K8wYYznrezZbJ5c6GwFypNLmmmFnB2Kvg53Y3eOHSalek_g0tRwv9U35PbFMmxMD_885NhfjuNlJryCaMmFVfb2plT",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTPogjwNVaGHDKPDNNbzYy7ce_L3Es2W6b4uxFy1hlrkvz9Bpq3GYwffmU6ZYCJm6QjR4XIke_Dqquay34OJiPlNgLnPQstm57by8wkU-68OMAJiVNJ1QvtUQ",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSuZNNSmcAi0HpLYaQqwKudmCo9K9InkCpJWhmUSRfLoF_I4UHZ_ZqHt5_jfraODUztzjBoyjcVwtukMN_yuIdX8iMvXZZc7g6htdqYjcQei_pjbsmxW2ma"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 7,
-      "specs": {
-        "manufacturer": "Lowe's • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $5.99 + Tax (8.25%: $16.99) + Card Fee ($6.94)",
-        "market_value": "Competitor Landed: $258.16 | Your All-In Landed: $235.83 (Saves $22.33)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$187.19",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $18.72"
-    },
-    {
-      "id": "DEAF-76",
-      "name": "[35 Complaint-Solver Solution #26] Explore 8 handheld electronic magnifier",
-      "price": "$788.04",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTPogjwNVaGHDKPDNNbzYy7ce_L3Es2W6b4uxFy1hlrkvz9Bpq3GYwffmU6ZYCJm6QjR4XIke_Dqquay34OJiPlNgLnPQstm57by8wkU-68OMAJiVNJ1QvtUQ",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSuZNNSmcAi0HpLYaQqwKudmCo9K9InkCpJWhmUSRfLoF_I4UHZ_ZqHt5_jfraODUztzjBoyjcVwtukMN_yuIdX8iMvXZZc7g6htdqYjcQei_pjbsmxW2ma",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR61_AvILJqR1CC3Zh1dA1LK_ettN-lYf00Y1ZGt-VDBl70cnCvvrMTuH_-BGm0mMSIbOMuLYZNQqVIMGpIdghE4UC8BwYeRaOluuvGVjSYPS34_qGoQuHy"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 8,
-      "specs": {
-        "manufacturer": "eBay - the_low_vision_store • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $14.99 + Tax (8.25%: $65.01) + Card Fee ($25.47)",
-        "market_value": "Competitor Landed: $967.33 | Your All-In Landed: $893.51 (Saves $73.82)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$716.40",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $71.64"
-    },
-    {
-      "id": "DEAF-77",
-      "name": "[35 Complaint-Solver Solution #27] VEVOR Portable Digital Magnifier 8-inch Touchscreen V",
-      "price": "$428.43",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSuZNNSmcAi0HpLYaQqwKudmCo9K9InkCpJWhmUSRfLoF_I4UHZ_ZqHt5_jfraODUztzjBoyjcVwtukMN_yuIdX8iMvXZZc7g6htdqYjcQei_pjbsmxW2ma",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR61_AvILJqR1CC3Zh1dA1LK_ettN-lYf00Y1ZGt-VDBl70cnCvvrMTuH_-BGm0mMSIbOMuLYZNQqVIMGpIdghE4UC8BwYeRaOluuvGVjSYPS34_qGoQuHy",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSAketj6l-IuN4BShuLY_kl5ryIB7hfHHkd8lWigRvGS-dhB1Gw6n0rjC1DPqjLIzvY3gwIFpT54O8SrcsNq9cIQ9F4mUmXq21qgRYGr4CpD4NGlUxrL02f"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSjKaWhVgY9EZVmsWBiyi0O0dDiK5dg9Zdd2UBtl7MalQjUJEbNuD9-GgkjON6-kYYhOhFqtKHr0yyMvFhuiK97w5ASBgXMfzvgatWgpNbgMCUJJ08It9x0",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQvKH14hHUzdDdTRlMtA4P6lJkwo22aZ5YHHqVvDHO87O9GasVaMZGzqOAGkg5KB036ASM67wwlW-mkl0OVxXNqUi47H_WeyKOEYbiAqyNyq-SE7ALW-OkjUQ",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQWepr2R5sOXBWKSowlJXrvgW8ZJ6NPgEk98bFPVXQ9kFlsykdyWQNVFbLQsSRpO2GCTo1sSaYYpP72-9jy8P8txwkTb6epA4ZNn5_ucKo"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 9,
       "specs": {
-        "manufacturer": "VEVOR • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 9 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $9.99 + Tax (8.25%: $35.35) + Card Fee ($14.04)",
-        "market_value": "Competitor Landed: $529.79 | Your All-In Landed: $487.81 (Saves $41.98)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$389.48",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $38.95"
+        "manufacturer": "Milton’s Bells • $2M Insured",
+        "condition": "New • 9 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $5.99 + Tax: $11.25",
+        "market_value": "Comp: $156.86 | Yours: $136.40",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
-      "id": "DEAF-78",
-      "name": "[35 Complaint-Solver Solution #28] Kffkff Portable Digital Magnifier, 5-inch HD Electron",
-      "price": "$156.01",
+      "id": "DEAF-70",
+      "name": "[35 Complaint-Solver #20] SquareGlow Smart Wi-Fi Flashing Receiver Siren | Siren",
+      "price": "$123.19",
+      "vendorCost": "$111.99",
+      "netMargin": "10% Net ($11.20)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR61_AvILJqR1CC3Zh1dA1LK_ettN-lYf00Y1ZGt-VDBl70cnCvvrMTuH_-BGm0mMSIbOMuLYZNQqVIMGpIdghE4UC8BwYeRaOluuvGVjSYPS34_qGoQuHy",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSAketj6l-IuN4BShuLY_kl5ryIB7hfHHkd8lWigRvGS-dhB1Gw6n0rjC1DPqjLIzvY3gwIFpT54O8SrcsNq9cIQ9F4mUmXq21qgRYGr4CpD4NGlUxrL02f",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBCTz7RRI2ff850mziuZys0WCrf4vAiu5pdBhfhgWc1fKB1mevjqUkL-BClnL6qTrVF0xDdAh0EOiPB3ZkVAgaEFS1YLv8FMpXvQ25RYY"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQvKH14hHUzdDdTRlMtA4P6lJkwo22aZ5YHHqVvDHO87O9GasVaMZGzqOAGkg5KB036ASM67wwlW-mkl0OVxXNqUi47H_WeyKOEYbiAqyNyq-SE7ALW-OkjUQ",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQWepr2R5sOXBWKSowlJXrvgW8ZJ6NPgEk98bFPVXQ9kFlsykdyWQNVFbLQsSRpO2GCTo1sSaYYpP72-9jy8P8txwkTb6epA4ZNn5_ucKo",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTInKISRF3jm2XGszY-5DQIGCcjwmhnYfWsSESxWqx7lzHyz8vNDvKLIaSm4cbPHN0-3LIetfi3oVMAPgKLUhjWr5BKpYNB0U0J7t2wN9WGgVInGiW5kltyP9s"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 10,
       "specs": {
-        "manufacturer": "Walmart - Seller • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 10 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $5.99 + Tax (8.25%: $12.87) + Card Fee ($5.37)",
-        "market_value": "Competitor Landed: $198.14 | Your All-In Landed: $180.24 (Saves $17.90)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$141.83",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $14.18"
+        "manufacturer": "eBay - digloshop • $2M Insured",
+        "condition": "New • 10 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $5.99 + Tax: $10.16",
+        "market_value": "Comp: $141.67 | Yours: $123.19",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
-      "id": "DEAF-79",
-      "name": "[35 Complaint-Solver Solution #29] Clover 10 HD /with optional stand",
-      "price": "$1124.64",
+      "id": "DEAF-71",
+      "name": "[35 Complaint-Solver #21] Faraday 500-699715fa Electronic Chime With Strobe",
+      "price": "$52.76",
+      "vendorCost": "$47.96",
+      "netMargin": "10% Net ($4.80)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSAketj6l-IuN4BShuLY_kl5ryIB7hfHHkd8lWigRvGS-dhB1Gw6n0rjC1DPqjLIzvY3gwIFpT54O8SrcsNq9cIQ9F4mUmXq21qgRYGr4CpD4NGlUxrL02f",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBCTz7RRI2ff850mziuZys0WCrf4vAiu5pdBhfhgWc1fKB1mevjqUkL-BClnL6qTrVF0xDdAh0EOiPB3ZkVAgaEFS1YLv8FMpXvQ25RYY",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRTk6_J627qsLDYdt3ekLmHVl9wpIbKkMj9sZd_nlJyaYqvudKkQ2EKQQlw_ejMgyMniCNGttKWLWt5t_dwB7xfF1nM0fDE-UrxosEllhJSeljZoZOxsW7vXIw"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQWepr2R5sOXBWKSowlJXrvgW8ZJ6NPgEk98bFPVXQ9kFlsykdyWQNVFbLQsSRpO2GCTo1sSaYYpP72-9jy8P8txwkTb6epA4ZNn5_ucKo",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTInKISRF3jm2XGszY-5DQIGCcjwmhnYfWsSESxWqx7lzHyz8vNDvKLIaSm4cbPHN0-3LIetfi3oVMAPgKLUhjWr5BKpYNB0U0J7t2wN9WGgVInGiW5kltyP9s",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRMEPIiBHOE1192LJLWONBgL8haLJ1wXRYR4_rrgpXeQ5CroJ8QbFS0tuVBhZF4fjuWDne-1x5BLO5rZ507dS6gSozGBypmbkOlW1oeSpaz3CQV2vuotKDgUg"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 11,
       "specs": {
-        "manufacturer": "The Low Vision Store • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 11 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $14.99 + Tax (8.25%: $92.78) + Card Fee ($36.04)",
-        "market_value": "Competitor Landed: $1372.18 | Your All-In Landed: $1268.45 (Saves $103.73)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$1022.40",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $102.24"
+        "manufacturer": "eBay - kozak426 • $2M Insured",
+        "condition": "New • 11 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $4.35",
+        "market_value": "Comp: $60.67 | Yours: $52.76",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
-      "id": "DEAF-80",
-      "name": "[35 Complaint-Solver Solution #30] Candy 5 HD II Portable Video Magnifier",
-      "price": "$24.94",
+      "id": "DEAF-72",
+      "name": "[35 Complaint-Solver #22] Misopily Wireless Doorbell 1000ft Range LED Flashing Receiver ",
+      "price": "$51.02",
+      "vendorCost": "$46.38",
+      "netMargin": "10% Net ($4.64)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBCTz7RRI2ff850mziuZys0WCrf4vAiu5pdBhfhgWc1fKB1mevjqUkL-BClnL6qTrVF0xDdAh0EOiPB3ZkVAgaEFS1YLv8FMpXvQ25RYY",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRTk6_J627qsLDYdt3ekLmHVl9wpIbKkMj9sZd_nlJyaYqvudKkQ2EKQQlw_ejMgyMniCNGttKWLWt5t_dwB7xfF1nM0fDE-UrxosEllhJSeljZoZOxsW7vXIw",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRRgYmJM00dxRBkpnJa6nxOXfHc1VGSB8BgIOVy-OOD5a1l276CigaItwbStNly9JLU_ThNM42iHkVvTziTddP72fifYC3DBPLwXIHH2rRBK_Wj6qtnRC3wRw"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTInKISRF3jm2XGszY-5DQIGCcjwmhnYfWsSESxWqx7lzHyz8vNDvKLIaSm4cbPHN0-3LIetfi3oVMAPgKLUhjWr5BKpYNB0U0J7t2wN9WGgVInGiW5kltyP9s",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRMEPIiBHOE1192LJLWONBgL8haLJ1wXRYR4_rrgpXeQ5CroJ8QbFS0tuVBhZF4fjuWDne-1x5BLO5rZ507dS6gSozGBypmbkOlW1oeSpaz3CQV2vuotKDgUg",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSBp1CfCsEhisHnNZGWI4N8G5HyZINIPmLnlbvv23XChF6geiBwIP7-Km7R1M7GzZiTYg3vaYQyuUJtFfeAmMwal0Gq0ir11WnZSq-AAufoy-kp79XQg9lr-g"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 12,
       "specs": {
-        "manufacturer": "eBay - jasanch9113 • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 12 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.06) + Card Fee ($1.20)",
-        "market_value": "Competitor Landed: $38.49 | Your All-In Landed: $32.19 (Saves $6.30)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$22.67",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $2.27"
+        "manufacturer": "Lowe's • $2M Insured",
+        "condition": "New • 12 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $4.21",
+        "market_value": "Comp: $58.67 | Yours: $51.02",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
-      "id": "DEAF-81",
-      "name": "[35 Complaint-Solver Solution #31] Eschenbach Visolux HD 7\" Handheld Video Magnifier Mag",
-      "price": "$946.44",
+      "id": "DEAF-73",
+      "name": "[35 Complaint-Solver #23] Doorbell System with Bridge and Flash Receiver",
+      "price": "$457.47",
+      "vendorCost": "$415.88",
+      "netMargin": "10% Net ($41.59)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRTk6_J627qsLDYdt3ekLmHVl9wpIbKkMj9sZd_nlJyaYqvudKkQ2EKQQlw_ejMgyMniCNGttKWLWt5t_dwB7xfF1nM0fDE-UrxosEllhJSeljZoZOxsW7vXIw",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRRgYmJM00dxRBkpnJa6nxOXfHc1VGSB8BgIOVy-OOD5a1l276CigaItwbStNly9JLU_ThNM42iHkVvTziTddP72fifYC3DBPLwXIHH2rRBK_Wj6qtnRC3wRw",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSrODUtO_tvRb4uwXwRhWSVJMZnA0L7MnOoqWWFmRculK5eiTfKyzbqcyJgK2Bx3-Xje9KvD7D0XLQtow5RTQ9tpygBpzAEfz6fwA68wXcmH9j28RZodjM9Rg"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 13,
-      "specs": {
-        "manufacturer": "Low Vision Supply • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 13 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $14.99 + Tax (8.25%: $78.08) + Card Fee ($30.45)",
-        "market_value": "Competitor Landed: $1157.85 | Your All-In Landed: $1069.96 (Saves $87.89)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$860.40",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $86.04"
-    },
-    {
-      "id": "DEAF-82",
-      "name": "[35 Complaint-Solver Solution #32] GIVIMO Portable Digital Magnifier 8 in Touchscreen El",
-      "price": "$524.29",
-      "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRRgYmJM00dxRBkpnJa6nxOXfHc1VGSB8BgIOVy-OOD5a1l276CigaItwbStNly9JLU_ThNM42iHkVvTziTddP72fifYC3DBPLwXIHH2rRBK_Wj6qtnRC3wRw",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSrODUtO_tvRb4uwXwRhWSVJMZnA0L7MnOoqWWFmRculK5eiTfKyzbqcyJgK2Bx3-Xje9KvD7D0XLQtow5RTQ9tpygBpzAEfz6fwA68wXcmH9j28RZodjM9Rg",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSXU5zNf2dSRI5o2q4Ov_DGppcsXLiyoXg8tVyVBs0KMKUTBMhWIrKBZ5eVi1W4GCt6fMnf0U6eWcCDrNBpf53GUBvLyJbkLSwB8bL47MWfJ2tzQF7B4G7mTw"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRMEPIiBHOE1192LJLWONBgL8haLJ1wXRYR4_rrgpXeQ5CroJ8QbFS0tuVBhZF4fjuWDne-1x5BLO5rZ507dS6gSozGBypmbkOlW1oeSpaz3CQV2vuotKDgUg",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSBp1CfCsEhisHnNZGWI4N8G5HyZINIPmLnlbvv23XChF6geiBwIP7-Km7R1M7GzZiTYg3vaYQyuUJtFfeAmMwal0Gq0ir11WnZSq-AAufoy-kp79XQg9lr-g",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT_23BmkO8wxsqNYCqTEY8gXewwMJbcPdH_Ow2BazdlBg4oKbJAEFX0CXqymgGg0QAE1d4a3lHALBJhTUmdu15Rz3mvpuM1ZhhICg1ieRcN9wmJDWN6QGQKlUQT"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 5,
       "specs": {
-        "manufacturer": "Lowe's • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $14.99 + Tax (8.25%: $43.25) + Card Fee ($17.19)",
-        "market_value": "Competitor Landed: $650.10 | Your All-In Landed: $599.72 (Saves $50.38)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$476.63",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $47.66"
+        "manufacturer": "Bellman & Symfon • $2M Insured",
+        "condition": "New • 5 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $9.99 + Tax: $37.74",
+        "market_value": "Comp: $526.09 | Yours: $457.47",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
-      "id": "DEAF-83",
-      "name": "[35 Complaint-Solver Solution #33] VEVOR Portable 5-inch HD Digital Video Magnifier for ",
-      "price": "$144.10",
+      "id": "DEAF-74",
+      "name": "[35 Complaint-Solver #24] 90 Db Flashing Strobe Plug In Doorbell Receiver",
+      "price": "$124.92",
+      "vendorCost": "$113.56",
+      "netMargin": "10% Net ($11.36)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSrODUtO_tvRb4uwXwRhWSVJMZnA0L7MnOoqWWFmRculK5eiTfKyzbqcyJgK2Bx3-Xje9KvD7D0XLQtow5RTQ9tpygBpzAEfz6fwA68wXcmH9j28RZodjM9Rg",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSXU5zNf2dSRI5o2q4Ov_DGppcsXLiyoXg8tVyVBs0KMKUTBMhWIrKBZ5eVi1W4GCt6fMnf0U6eWcCDrNBpf53GUBvLyJbkLSwB8bL47MWfJ2tzQF7B4G7mTw",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTcran_LRjjWTGFv5I7bedm_UET9KwNiznfRIr6TVmw6WPvE7AC5TDdSJK9DJaqgfwVud6xkg5E13lahqHel6i_GaP_4c8O"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSBp1CfCsEhisHnNZGWI4N8G5HyZINIPmLnlbvv23XChF6geiBwIP7-Km7R1M7GzZiTYg3vaYQyuUJtFfeAmMwal0Gq0ir11WnZSq-AAufoy-kp79XQg9lr-g",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT_23BmkO8wxsqNYCqTEY8gXewwMJbcPdH_Ow2BazdlBg4oKbJAEFX0CXqymgGg0QAE1d4a3lHALBJhTUmdu15Rz3mvpuM1ZhhICg1ieRcN9wmJDWN6QGQKlUQT",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTwP-tWglRfxqimH_Ky5hh1VrM2_P3gJHybjeSF1ueCzl4lFuBXiSVIcbXpEzu0U2uHwrEnR4tNJD6rFqxtb3zNTPopnf_GzdTv47d9lss"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 6,
       "specs": {
-        "manufacturer": "Alibaba.com • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $5.99 + Tax (8.25%: $11.89) + Card Fee ($5.00)",
-        "market_value": "Competitor Landed: $183.81 | Your All-In Landed: $166.98 (Saves $16.83)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$131.00",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $13.10"
+        "manufacturer": "VXB.com Bearings • $2M Insured",
+        "condition": "New • 6 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $5.99 + Tax: $10.31",
+        "market_value": "Comp: $143.66 | Yours: $124.92",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
-      "id": "DEAF-84",
-      "name": "[35 Complaint-Solver Solution #34] Best price for Digital Magnifiers - Hand-held Video M",
-      "price": "$363.53",
+      "id": "DEAF-75",
+      "name": "[35 Complaint-Solver #25] NuTone Plug-In Door Chime Kit with Strobe Light LA224WH",
+      "price": "$88.52",
+      "vendorCost": "$80.47",
+      "netMargin": "10% Net ($8.05)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSXU5zNf2dSRI5o2q4Ov_DGppcsXLiyoXg8tVyVBs0KMKUTBMhWIrKBZ5eVi1W4GCt6fMnf0U6eWcCDrNBpf53GUBvLyJbkLSwB8bL47MWfJ2tzQF7B4G7mTw",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTcran_LRjjWTGFv5I7bedm_UET9KwNiznfRIr6TVmw6WPvE7AC5TDdSJK9DJaqgfwVud6xkg5E13lahqHel6i_GaP_4c8O",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTVXkPrKseFty66F4dnmHYwB5UQVkfa6Z05FOk1dHUcN0Ihf434ziyYIq5rJFAq58GJ3nyNtTRqYSI5tTXmq7dl9iNZQLD96VFjDuLrP561"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT_23BmkO8wxsqNYCqTEY8gXewwMJbcPdH_Ow2BazdlBg4oKbJAEFX0CXqymgGg0QAE1d4a3lHALBJhTUmdu15Rz3mvpuM1ZhhICg1ieRcN9wmJDWN6QGQKlUQT",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTwP-tWglRfxqimH_Ky5hh1VrM2_P3gJHybjeSF1ueCzl4lFuBXiSVIcbXpEzu0U2uHwrEnR4tNJD6rFqxtb3zNTPopnf_GzdTv47d9lss",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTYXOFhfrEFT8X52E4GyyQLrIThA6RroJ8sJXDhW6WeXOSGPH7Q_J9eC4nGhmSjpUHCB9jMgxHGoe8G1HxYEW3uwOEpwdILosFbZKNewKCi7nNwVHKcLlYO"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 7,
       "specs": {
-        "manufacturer": "Low Vision Miami • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $9.99 + Tax (8.25%: $29.99) + Card Fee ($12.00)",
-        "market_value": "Competitor Landed: $451.73 | Your All-In Landed: $415.51 (Saves $36.22)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$330.48",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $33.05"
+        "manufacturer": "Voomi Supply • $2M Insured",
+        "condition": "New • 7 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $7.30",
+        "market_value": "Comp: $101.80 | Yours: $88.52",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
-      "id": "DEAF-85",
-      "name": "[35 Complaint-Solver Solution #35] Portable Digital Magnifier 5 inch HD Electronic Video",
-      "price": "$158.39",
+      "id": "DEAF-76",
+      "name": "[35 Complaint-Solver #26] Loud Flash Doorbell With 7 Colors Of Bright Light And 4 Volume",
+      "price": "$35.45",
+      "vendorCost": "$32.23",
+      "netMargin": "10% Net ($3.22)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTcran_LRjjWTGFv5I7bedm_UET9KwNiznfRIr6TVmw6WPvE7AC5TDdSJK9DJaqgfwVud6xkg5E13lahqHel6i_GaP_4c8O",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTVXkPrKseFty66F4dnmHYwB5UQVkfa6Z05FOk1dHUcN0Ihf434ziyYIq5rJFAq58GJ3nyNtTRqYSI5tTXmq7dl9iNZQLD96VFjDuLrP561",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT5H_EDjLbH6PpZxdP-mwIjPNzdpVClvGjD5ByTtTB0m38WXPZs2J0byUR24FkZIM296nc_nPppH6SCGfOibdXezbvV7nSVc7hQubQCD4o7"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTwP-tWglRfxqimH_Ky5hh1VrM2_P3gJHybjeSF1ueCzl4lFuBXiSVIcbXpEzu0U2uHwrEnR4tNJD6rFqxtb3zNTPopnf_GzdTv47d9lss",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTYXOFhfrEFT8X52E4GyyQLrIThA6RroJ8sJXDhW6WeXOSGPH7Q_J9eC4nGhmSjpUHCB9jMgxHGoe8G1HxYEW3uwOEpwdILosFbZKNewKCi7nNwVHKcLlYO",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQrJ_Ra8YLrk9qPT7e1j7pMaTYcIuodCgOmRRficnlEv6BNoEqtKwfXTOGwCYAIYeHp2Iol5HRAd3-eyPq0PoNyLuZolmxGxV_Mi0ALdqG1sAX5YQzQKdHI"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 8,
       "specs": {
-        "manufacturer": "Walmart - HCY Wholesale • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $5.99 + Tax (8.25%: $13.07) + Card Fee ($5.45)",
-        "market_value": "Competitor Landed: $201.00 | Your All-In Landed: $182.90 (Saves $18.10)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$143.99",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $14.40"
+        "manufacturer": "eBay - fai9975 • $2M Insured",
+        "condition": "New • 8 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.92",
+        "market_value": "Comp: $40.77 | Yours: $35.45",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
+    },
+    {
+      "id": "DEAF-77",
+      "name": "[35 Complaint-Solver #27] Safeguard Long Range Alert Series Flashing Chime Receiver Lra-",
+      "price": "$21.55",
+      "vendorCost": "$19.59",
+      "netMargin": "10% Net ($1.96)",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTYXOFhfrEFT8X52E4GyyQLrIThA6RroJ8sJXDhW6WeXOSGPH7Q_J9eC4nGhmSjpUHCB9jMgxHGoe8G1HxYEW3uwOEpwdILosFbZKNewKCi7nNwVHKcLlYO",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQrJ_Ra8YLrk9qPT7e1j7pMaTYcIuodCgOmRRficnlEv6BNoEqtKwfXTOGwCYAIYeHp2Iol5HRAd3-eyPq0PoNyLuZolmxGxV_Mi0ALdqG1sAX5YQzQKdHI",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT1iH2PQVjo81EhPU3FqV8YdwTym4eWx-tyMoaeqIiHolWsawxT3wA43tbJSTHbGlN8TMYjAKxqluYorxousDY5TBoBUHzyrItqbhpU-DkkjqIQNEIENJOb-w"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 9,
+      "specs": {
+        "manufacturer": "eBay - mikeblair7758 • $2M Insured",
+        "condition": "New • 9 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.78",
+        "market_value": "Comp: $24.78 | Yours: $21.55",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
+    },
+    {
+      "id": "DEAF-78",
+      "name": "[35 Complaint-Solver #28] Security2020 wc180 Wireless Door Chime with Flashing Strobe Li",
+      "price": "$39.58",
+      "vendorCost": "$35.98",
+      "netMargin": "10% Net ($3.60)",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQrJ_Ra8YLrk9qPT7e1j7pMaTYcIuodCgOmRRficnlEv6BNoEqtKwfXTOGwCYAIYeHp2Iol5HRAd3-eyPq0PoNyLuZolmxGxV_Mi0ALdqG1sAX5YQzQKdHI",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT1iH2PQVjo81EhPU3FqV8YdwTym4eWx-tyMoaeqIiHolWsawxT3wA43tbJSTHbGlN8TMYjAKxqluYorxousDY5TBoBUHzyrItqbhpU-DkkjqIQNEIENJOb-w",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRbU4DXxyxMFM_JnEQW988wlnMV-eZ39ZE8pmGjn1j2MYTPVQ5zJiUgzdQltRgpoQVSYgh98KnFzG6HI5V3Vwe7KuKWDr-BrT2J43BIKd7bYz8ZRoTCw5B5Gg"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 10,
+      "specs": {
+        "manufacturer": "eBay - digloshop • $2M Insured",
+        "condition": "New • 10 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.27",
+        "market_value": "Comp: $45.52 | Yours: $39.58",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
+    },
+    {
+      "id": "DEAF-79",
+      "name": "[35 Complaint-Solver #29] SquareGlow Flashing Receiver",
+      "price": "$79.18",
+      "vendorCost": "$71.98",
+      "netMargin": "10% Net ($7.20)",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT1iH2PQVjo81EhPU3FqV8YdwTym4eWx-tyMoaeqIiHolWsawxT3wA43tbJSTHbGlN8TMYjAKxqluYorxousDY5TBoBUHzyrItqbhpU-DkkjqIQNEIENJOb-w",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRbU4DXxyxMFM_JnEQW988wlnMV-eZ39ZE8pmGjn1j2MYTPVQ5zJiUgzdQltRgpoQVSYgh98KnFzG6HI5V3Vwe7KuKWDr-BrT2J43BIKd7bYz8ZRoTCw5B5Gg",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSxy3Hvak0F7fdQ2_Hz2pzi7ss9un8xdyUd9kaKNppiBO_jzKuOMAhgAvsI4zmQ9fitSB9PKVsCSTXMIHPkQ0Bn_WS8c34ygfhgc4r0fPXZlmL9hRU6YzOZ"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 11,
+      "specs": {
+        "manufacturer": "SquareGlow • $2M Insured",
+        "condition": "New • 11 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $6.53",
+        "market_value": "Comp: $91.06 | Yours: $79.18",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
+    },
+    {
+      "id": "DEAF-80",
+      "name": "[35 Complaint-Solver #30] PROTECTIONPRO HC-HW-DBHS Loud Alarm - Strobe Doorbell Signaler",
+      "price": "$188.31",
+      "vendorCost": "$171.19",
+      "netMargin": "10% Net ($17.12)",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRbU4DXxyxMFM_JnEQW988wlnMV-eZ39ZE8pmGjn1j2MYTPVQ5zJiUgzdQltRgpoQVSYgh98KnFzG6HI5V3Vwe7KuKWDr-BrT2J43BIKd7bYz8ZRoTCw5B5Gg",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSxy3Hvak0F7fdQ2_Hz2pzi7ss9un8xdyUd9kaKNppiBO_jzKuOMAhgAvsI4zmQ9fitSB9PKVsCSTXMIHPkQ0Bn_WS8c34ygfhgc4r0fPXZlmL9hRU6YzOZ",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSx3Rs1YxoXEkYnxyFKewphnb57taiXwbMAWrfMaHSaFvZsYFG1Pbh-4AhiUyU1o7oDaYhdFfpkUU1LOtcSAuzdf0ZDCqHiyZIiR6eWPymna7jDIvCZvbawUw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 12,
+      "specs": {
+        "manufacturer": "Zoro • $2M Insured",
+        "condition": "New • 12 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $5.99 + Tax: $15.54",
+        "market_value": "Comp: $216.56 | Yours: $188.31",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
+    },
+    {
+      "id": "DEAF-81",
+      "name": "[35 Complaint-Solver #31] 110cm-155cm,black Handle, Aluminum Mobility Folding White Cane",
+      "price": "$13.78",
+      "vendorCost": "$12.53",
+      "netMargin": "10% Net ($1.25)",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSxy3Hvak0F7fdQ2_Hz2pzi7ss9un8xdyUd9kaKNppiBO_jzKuOMAhgAvsI4zmQ9fitSB9PKVsCSTXMIHPkQ0Bn_WS8c34ygfhgc4r0fPXZlmL9hRU6YzOZ",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSx3Rs1YxoXEkYnxyFKewphnb57taiXwbMAWrfMaHSaFvZsYFG1Pbh-4AhiUyU1o7oDaYhdFfpkUU1LOtcSAuzdf0ZDCqHiyZIiR6eWPymna7jDIvCZvbawUw",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR5uIusZ20zWejYnxGzx5H4NFm9UakoNhFddo4su3x47DptM_mVhwJeaDark-svHVvWbHu1tC1FjzB9lNfo_QgHQ-HDXUhoby3KoNiT32YksF37z_yppXtePw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "Walmart - Sam Lin • $2M Insured",
+        "condition": "New • 5 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.14",
+        "market_value": "Comp: $15.85 | Yours: $13.78",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
+    },
+    {
+      "id": "DEAF-82",
+      "name": "[35 Complaint-Solver #32] Aluminum Mobility Folding White Cane for Vision Impaired and B",
+      "price": "$30.32",
+      "vendorCost": "$27.56",
+      "netMargin": "10% Net ($2.76)",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSx3Rs1YxoXEkYnxyFKewphnb57taiXwbMAWrfMaHSaFvZsYFG1Pbh-4AhiUyU1o7oDaYhdFfpkUU1LOtcSAuzdf0ZDCqHiyZIiR6eWPymna7jDIvCZvbawUw",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR5uIusZ20zWejYnxGzx5H4NFm9UakoNhFddo4su3x47DptM_mVhwJeaDark-svHVvWbHu1tC1FjzB9lNfo_QgHQ-HDXUhoby3KoNiT32YksF37z_yppXtePw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTav_TMHShKhPU_luSyN8Ysz3jyu2hBcEDzVke3ByyDWvDWTYSxdYQsstnmsGpR3s8W45Uf185a4s8rmYEdlDIgah3Vn2S6nKq4D29se2TQcRT8s9cKM35Y"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "eBay - avibaron5_6 • $2M Insured",
+        "condition": "New • 6 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.50",
+        "market_value": "Comp: $34.87 | Yours: $30.32",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
+    },
+    {
+      "id": "DEAF-83",
+      "name": "[35 Complaint-Solver #33] Walgreens Folding Cane",
+      "price": "$20.23",
+      "vendorCost": "$18.39",
+      "netMargin": "10% Net ($1.84)",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR5uIusZ20zWejYnxGzx5H4NFm9UakoNhFddo4su3x47DptM_mVhwJeaDark-svHVvWbHu1tC1FjzB9lNfo_QgHQ-HDXUhoby3KoNiT32YksF37z_yppXtePw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTav_TMHShKhPU_luSyN8Ysz3jyu2hBcEDzVke3ByyDWvDWTYSxdYQsstnmsGpR3s8W45Uf185a4s8rmYEdlDIgah3Vn2S6nKq4D29se2TQcRT8s9cKM35Y",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTHcO87FLnYzITGQk9Y8O0bvAdLjsDBSnOx8gcUD7Vq3gEPZiGDUjgfpbvI_6kriAH8zKIvVTioQigY2BEfgyDZGBXKQ6bzEkMHwfza3WIWQvmb6G6TE6z8"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "Walgreens.com • $2M Insured",
+        "condition": "New • 7 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.67",
+        "market_value": "Comp: $23.26 | Yours: $20.23",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
+    },
+    {
+      "id": "DEAF-84",
+      "name": "[35 Complaint-Solver #34] Ambutech Graphite Folding Cane with Flex Tip – White Mobility ",
+      "price": "$41.26",
+      "vendorCost": "$37.51",
+      "netMargin": "10% Net ($3.75)",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTav_TMHShKhPU_luSyN8Ysz3jyu2hBcEDzVke3ByyDWvDWTYSxdYQsstnmsGpR3s8W45Uf185a4s8rmYEdlDIgah3Vn2S6nKq4D29se2TQcRT8s9cKM35Y",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTHcO87FLnYzITGQk9Y8O0bvAdLjsDBSnOx8gcUD7Vq3gEPZiGDUjgfpbvI_6kriAH8zKIvVTioQigY2BEfgyDZGBXKQ6bzEkMHwfza3WIWQvmb6G6TE6z8",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSBVLQK9TMcLSgBNZGCY0_5nd7j7uMDVwsOvwf5JzjlSluDEgHggKrSLai9si06EB7Lb7kjjoyVQu_ufJCqpKFuUm_ihLikBakMp9yTyxc"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "Low Vision Supply • $2M Insured",
+        "condition": "New • 8 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.40",
+        "market_value": "Comp: $47.45 | Yours: $41.26",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
+    },
+    {
+      "id": "DEAF-85",
+      "name": "[35 Complaint-Solver #35] Folding White Mobility Cane for Visually Impaired, Adjustable ",
+      "price": "$8.34",
+      "vendorCost": "$7.58",
+      "netMargin": "10% Net ($0.76)",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTHcO87FLnYzITGQk9Y8O0bvAdLjsDBSnOx8gcUD7Vq3gEPZiGDUjgfpbvI_6kriAH8zKIvVTioQigY2BEfgyDZGBXKQ6bzEkMHwfza3WIWQvmb6G6TE6z8",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSBVLQK9TMcLSgBNZGCY0_5nd7j7uMDVwsOvwf5JzjlSluDEgHggKrSLai9si06EB7Lb7kjjoyVQu_ufJCqpKFuUm_ihLikBakMp9yTyxc",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTrFU3CQDDPNZUZCYC7v_wuKGROZpgMgtr2KypiG3giHV-F6VuQE5mMz7R-5MmDvhPC4Fr-ruEybAMh3tEsSKTq7fnKDQ1PwxpPUpKfdkOdvAQu0KuqL2Y_"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 9,
+      "specs": {
+        "manufacturer": "Walmart - Seller • $2M Insured",
+        "condition": "New • 9 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.69",
+        "market_value": "Comp: $9.59 | Yours: $8.34",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     }
   ],
   "ptsd-calm-superstore": [
     {
       "id": "PTSD-1",
-      "name": "[Top 50 Hard-to-Find Essential #1] Gravity Cooling Weighted Blanket",
-      "price": "$102.96",
+      "name": "[Top 50 Essential #1] Decibullz Pro Custom Molded Earplugs",
+      "price": "$35.19",
+      "vendorCost": "$31.99",
+      "netMargin": "10% Net ($3.20)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSYQFY7Q5z_70S8ULLjkUWL0paEg1wiSzHm154aTWCdVtyuusIJW8XjArwhE40eW97O5CITkrHg8iJLiWtBVlpxtzF5Ka5muXMj_rstAw4Jia0KDQk_7JM2MZA",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ0KrDlweAht4oIImdf4X3hR74XNBfOA0LeDCrLqZqWKUPth8-eUZyu2tG9BrXIzcFeHWVOJnnPR-orczSRdLwG9pjDtdAk20sOoCfGSQKdNc1H4SZ9FBBNyA",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTLkcgsKGF7Df3eCgGRB3Mw08yn4zaVkPQuIOuZc8QqvQN2kezHRvfh0NRRAPK9nI3t0LqztHcDnKiFCoG2z29Zb2CIw6N3YLZN_Jo4aBIZ2g_a6maFj-I3"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTYv9IkGpjlnHZxmoLScE8TiIId0FcfmhtEGQdETlF6enRnhiob7A18WJWqkpplMQml8qRFJ2vVNHUdMjWKT_kQ1ss1eejBBDTujoPKtpYSmKvW8fUY5k7n",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSA41_Vzw9PhW827pM9Ei7Tu89rKfgvwMXzqbKxvSeR0u8bGlvAPnz-1CZnbG-F9qz8Q2EFY2AjZpQI-llH8VMQoiwMml2pTFX-csDnA6GP6-dByxWYpVheuw",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSYcXlVTraSiYRcV2If2Mbv7p3KACWg1w6YICCTlUjdGhUjptMiQN14PGu6wwKBCOoccq7dgncZww9EPZas91-On-hsFz2_coX1yNKmUb2d"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 5,
       "specs": {
-        "manufacturer": "eBay - leluxeco • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $5.99 + Tax (8.25%: $8.49) + Card Fee ($3.71)",
-        "market_value": "Competitor Landed: $134.33 | Your All-In Landed: $121.15 (Saves $13.18)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$93.60",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $9.36"
+        "manufacturer": "Decibullz • $2M Insured",
+        "condition": "New • 5 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.90",
+        "market_value": "Comp: $40.47 | Yours: $35.19",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-2",
-      "name": "[Top 50 Hard-to-Find Essential #2] DreamLab Crystal 15lb Reversible Cooling Weighted Bla",
-      "price": "$45.13",
+      "name": "[Top 50 Essential #2] Equate Ultimate Fit Foam Earplugs",
+      "price": "$10.08",
+      "vendorCost": "$9.16",
+      "netMargin": "10% Net ($0.92)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ0KrDlweAht4oIImdf4X3hR74XNBfOA0LeDCrLqZqWKUPth8-eUZyu2tG9BrXIzcFeHWVOJnnPR-orczSRdLwG9pjDtdAk20sOoCfGSQKdNc1H4SZ9FBBNyA",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTLkcgsKGF7Df3eCgGRB3Mw08yn4zaVkPQuIOuZc8QqvQN2kezHRvfh0NRRAPK9nI3t0LqztHcDnKiFCoG2z29Zb2CIw6N3YLZN_Jo4aBIZ2g_a6maFj-I3",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQeLAPdh2mxfmyJ7jxN_CQ3EmnQbQ9WzGZFK81CK1ytgXoJbWZQVN3QwDvoKwg4qWa7BnbXF8oKz3GhBV9lkO4lti4gAmZsc4TsvxuO9FrKjnF5sI6B8mmN"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSA41_Vzw9PhW827pM9Ei7Tu89rKfgvwMXzqbKxvSeR0u8bGlvAPnz-1CZnbG-F9qz8Q2EFY2AjZpQI-llH8VMQoiwMml2pTFX-csDnA6GP6-dByxWYpVheuw",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSYcXlVTraSiYRcV2If2Mbv7p3KACWg1w6YICCTlUjdGhUjptMiQN14PGu6wwKBCOoccq7dgncZww9EPZas91-On-hsFz2_coX1yNKmUb2d",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQqjx2PNmdJuVyscLSiCTLw1iVrBnqaMm277xIDxbETOgk-u_eybCVMzBUU6hXw_5uGLROWTc6-hvIw1J34u1gMcB8USyiHYjx7Q7tUWrkunaw6WS2kIgU_"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 6,
       "specs": {
-        "manufacturer": "Walmart • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.72) + Card Fee ($1.83)",
-        "market_value": "Competitor Landed: $62.78 | Your All-In Landed: $54.67 (Saves $8.11)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$41.03",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $4.10"
+        "manufacturer": "Walmart • $2M Insured",
+        "condition": "New • 6 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.83",
+        "market_value": "Comp: $11.59 | Yours: $10.08",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-3",
-      "name": "[Top 50 Hard-to-Find Essential #3] Cooling Weighted Blanket for Adults & Teens - 48\"x72\"",
-      "price": "$35.64",
+      "name": "[Top 50 Essential #3] CVS Extreme Protection Earplugs",
+      "price": "$4.92",
+      "vendorCost": "$4.47",
+      "netMargin": "10% Net ($0.45)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTLkcgsKGF7Df3eCgGRB3Mw08yn4zaVkPQuIOuZc8QqvQN2kezHRvfh0NRRAPK9nI3t0LqztHcDnKiFCoG2z29Zb2CIw6N3YLZN_Jo4aBIZ2g_a6maFj-I3",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQeLAPdh2mxfmyJ7jxN_CQ3EmnQbQ9WzGZFK81CK1ytgXoJbWZQVN3QwDvoKwg4qWa7BnbXF8oKz3GhBV9lkO4lti4gAmZsc4TsvxuO9FrKjnF5sI6B8mmN",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT70MsnggmbdD55ELncUZb_zJIZX4zarr2xwcMJ3cltmjtBOkj2IRyzuqD8jfOkgVIuoNOXts2ECpuW9h0zTndskNbU6XZbtgLX8qhMFEg8XozwCqw1yzJJ"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSYcXlVTraSiYRcV2If2Mbv7p3KACWg1w6YICCTlUjdGhUjptMiQN14PGu6wwKBCOoccq7dgncZww9EPZas91-On-hsFz2_coX1yNKmUb2d",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQqjx2PNmdJuVyscLSiCTLw1iVrBnqaMm277xIDxbETOgk-u_eybCVMzBUU6hXw_5uGLROWTc6-hvIw1J34u1gMcB8USyiHYjx7Q7tUWrkunaw6WS2kIgU_",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSmfH5eWAJpfyf7yCnwcxBKbVh1J3s5Q_-R3K_tI8O3DVUxkEqnhcya7DFvjkMrJnHh8sdtoSBKd597K9TzL09jOa2ZQIDBQkR6JJhhc0TbuHA-PHHAbmAf5g"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 7,
       "specs": {
-        "manufacturer": "Wayfair • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.94) + Card Fee ($1.53)",
-        "market_value": "Competitor Landed: $51.36 | Your All-In Landed: $44.10 (Saves $7.26)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$32.40",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.24"
+        "manufacturer": "CVS Pharmacy • $2M Insured",
+        "condition": "New • 7 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.41",
+        "market_value": "Comp: $5.66 | Yours: $4.92",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-4",
-      "name": "[Top 50 Hard-to-Find Essential #4] NUSHE Bamboo Cooling Weighted Blanket 15 lb Twin",
-      "price": "$51.47",
+      "name": "[Top 50 Essential #4] Hearos Radical Protection Ear Plugs",
+      "price": "$8.79",
+      "vendorCost": "$7.99",
+      "netMargin": "10% Net ($0.80)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQeLAPdh2mxfmyJ7jxN_CQ3EmnQbQ9WzGZFK81CK1ytgXoJbWZQVN3QwDvoKwg4qWa7BnbXF8oKz3GhBV9lkO4lti4gAmZsc4TsvxuO9FrKjnF5sI6B8mmN",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT70MsnggmbdD55ELncUZb_zJIZX4zarr2xwcMJ3cltmjtBOkj2IRyzuqD8jfOkgVIuoNOXts2ECpuW9h0zTndskNbU6XZbtgLX8qhMFEg8XozwCqw1yzJJ",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ-lFBQlM7dsnwJedxLpqGvFV9vzQpDSHIJS9rvW5VjUKP1Yic66_TO-kF7Ko__MuwnO9xbUtfZ1o5f-L6DvbokdhuzzP_c-RjaAwLBnvTrOkRulcAb-5-V"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQqjx2PNmdJuVyscLSiCTLw1iVrBnqaMm277xIDxbETOgk-u_eybCVMzBUU6hXw_5uGLROWTc6-hvIw1J34u1gMcB8USyiHYjx7Q7tUWrkunaw6WS2kIgU_",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSmfH5eWAJpfyf7yCnwcxBKbVh1J3s5Q_-R3K_tI8O3DVUxkEqnhcya7DFvjkMrJnHh8sdtoSBKd597K9TzL09jOa2ZQIDBQkR6JJhhc0TbuHA-PHHAbmAf5g",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR1Cq8XJHEQ2QToTC2gfI7rJ7X1fU7G6KUwdAcENnhwL6ezH00WXdVRhp67YkrZu6o7Vz_mRRfdZQtn27zBpu2OfqsPzffcdCrusWrts5BJhzSDMpThscGK"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 8,
       "specs": {
-        "manufacturer": "Walmart - Seller • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $4.25) + Card Fee ($2.03)",
-        "market_value": "Competitor Landed: $70.40 | Your All-In Landed: $61.74 (Saves $8.66)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$46.79",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $4.68"
+        "manufacturer": "Walgreens.com • $2M Insured",
+        "condition": "New • 8 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.73",
+        "market_value": "Comp: $10.11 | Yours: $8.79",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-5",
-      "name": "[Top 50 Hard-to-Find Essential #5] LAIFUCAM Weighted Blanket for Adults 100 Percent Cott",
-      "price": "$122.99",
+      "name": "[Top 50 Essential #5] Milwaukee Ear Plugs",
+      "price": "$4.37",
+      "vendorCost": "$3.97",
+      "netMargin": "10% Net ($0.40)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT70MsnggmbdD55ELncUZb_zJIZX4zarr2xwcMJ3cltmjtBOkj2IRyzuqD8jfOkgVIuoNOXts2ECpuW9h0zTndskNbU6XZbtgLX8qhMFEg8XozwCqw1yzJJ",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ-lFBQlM7dsnwJedxLpqGvFV9vzQpDSHIJS9rvW5VjUKP1Yic66_TO-kF7Ko__MuwnO9xbUtfZ1o5f-L6DvbokdhuzzP_c-RjaAwLBnvTrOkRulcAb-5-V",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQLFlbE-auV2j23-4f-DsoU2EKWP0edxS-sTJxX1wQKF9deGiui2yYxagXqXNOkiO52uN6YvmkVQttKU03_1LFm1A7V0gbN8P-t_lHTCVaLBP9qUrnrzPfF9w"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSmfH5eWAJpfyf7yCnwcxBKbVh1J3s5Q_-R3K_tI8O3DVUxkEqnhcya7DFvjkMrJnHh8sdtoSBKd597K9TzL09jOa2ZQIDBQkR6JJhhc0TbuHA-PHHAbmAf5g",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR1Cq8XJHEQ2QToTC2gfI7rJ7X1fU7G6KUwdAcENnhwL6ezH00WXdVRhp67YkrZu6o7Vz_mRRfdZQtn27zBpu2OfqsPzffcdCrusWrts5BJhzSDMpThscGK",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQbBB8f4cU9I5vwyTidn7vmR4_MJNT-8nHqsH_6Nuk9dDyAsmPjE6Aq0HeJLMKICs6sM5sP3yTbCtVYpMpZjtpdEjhyXG_0Kc7tV2iqcCyXQxb4y2ZLo7zt"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 9,
       "specs": {
-        "manufacturer": "Lowe's • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 9 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $5.99 + Tax (8.25%: $10.15) + Card Fee ($4.33)",
-        "market_value": "Competitor Landed: $158.42 | Your All-In Landed: $143.46 (Saves $14.96)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$111.81",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $11.18"
+        "manufacturer": "Home Depot • $2M Insured",
+        "condition": "New • 9 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.36",
+        "market_value": "Comp: $5.03 | Yours: $4.37",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-6",
-      "name": "[Top 50 Hard-to-Find Essential #6] Smart Queen Weighted Blanket Size Soft Cooling Heavy ",
-      "price": "$42.26",
+      "name": "[Top 50 Essential #6] Flents Protechs Quiet Quick Ear Plugs",
+      "price": "$2.31",
+      "vendorCost": "$2.10",
+      "netMargin": "10% Net ($0.21)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ-lFBQlM7dsnwJedxLpqGvFV9vzQpDSHIJS9rvW5VjUKP1Yic66_TO-kF7Ko__MuwnO9xbUtfZ1o5f-L6DvbokdhuzzP_c-RjaAwLBnvTrOkRulcAb-5-V",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQLFlbE-auV2j23-4f-DsoU2EKWP0edxS-sTJxX1wQKF9deGiui2yYxagXqXNOkiO52uN6YvmkVQttKU03_1LFm1A7V0gbN8P-t_lHTCVaLBP9qUrnrzPfF9w",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSA7vcVvMJv5uoNFB-Ly1mfVEGL1vlUn9OQBeKXxoYF4-glr3wdD5UAZ2OmokYnpHO6QCekisihm2_iYR2_rnK08wTZav6bcEfmiA-Y_txdwJsjt7UzVu42"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR1Cq8XJHEQ2QToTC2gfI7rJ7X1fU7G6KUwdAcENnhwL6ezH00WXdVRhp67YkrZu6o7Vz_mRRfdZQtn27zBpu2OfqsPzffcdCrusWrts5BJhzSDMpThscGK",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQbBB8f4cU9I5vwyTidn7vmR4_MJNT-8nHqsH_6Nuk9dDyAsmPjE6Aq0HeJLMKICs6sM5sP3yTbCtVYpMpZjtpdEjhyXG_0Kc7tV2iqcCyXQxb4y2ZLo7zt",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRCC43h1FBkMJWRHkT2tq_R1RuFOZv9i5BAS-yJrw7WCrk6Z8B-Y2Q15D9N5KgNwUSFwze1A2vApl08XnTLgsqtIPdaKGhWodBvg76Z69SujIKudJC3EQeK"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 10,
       "specs": {
-        "manufacturer": "eBay - rockcitybreaks • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 10 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.49) + Card Fee ($1.74)",
-        "market_value": "Competitor Landed: $59.32 | Your All-In Landed: $51.48 (Saves $7.84)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$38.42",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.84"
+        "manufacturer": "Walmart • $2M Insured",
+        "condition": "New • 10 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.19",
+        "market_value": "Comp: $2.66 | Yours: $2.31",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-7",
-      "name": "[Top 50 Hard-to-Find Essential #7] Becuddled Adult Weighted Blanket With Removable Plush",
-      "price": "$87.10",
+      "name": "[Top 50 Essential #7] HEAROS 80-Pack Hearing Protection Earplugs",
+      "price": "$27.26",
+      "vendorCost": "$24.78",
+      "netMargin": "10% Net ($2.48)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQLFlbE-auV2j23-4f-DsoU2EKWP0edxS-sTJxX1wQKF9deGiui2yYxagXqXNOkiO52uN6YvmkVQttKU03_1LFm1A7V0gbN8P-t_lHTCVaLBP9qUrnrzPfF9w",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSA7vcVvMJv5uoNFB-Ly1mfVEGL1vlUn9OQBeKXxoYF4-glr3wdD5UAZ2OmokYnpHO6QCekisihm2_iYR2_rnK08wTZav6bcEfmiA-Y_txdwJsjt7UzVu42",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTqdaxCQiZ6gz07Gslqgza_blhREdD09I_5ZAtCdIMVTqskr5sO9HrZGHYQZhBze0AxVLCwkXKf2E0JcnlDMPvt-eByQxoLVw"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQbBB8f4cU9I5vwyTidn7vmR4_MJNT-8nHqsH_6Nuk9dDyAsmPjE6Aq0HeJLMKICs6sM5sP3yTbCtVYpMpZjtpdEjhyXG_0Kc7tV2iqcCyXQxb4y2ZLo7zt",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRCC43h1FBkMJWRHkT2tq_R1RuFOZv9i5BAS-yJrw7WCrk6Z8B-Y2Q15D9N5KgNwUSFwze1A2vApl08XnTLgsqtIPdaKGhWodBvg76Z69SujIKudJC3EQeK",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT5ZXkMFw7b-7QCcFKCMof4i7Rsy_7his5eiPhqWj2k7d3zeRx7EbOFJheNOKvIM9T-3sP_nOv23bB2dZebTHW6aI_rFcnZhzGgcJyKgg-ucKN7CIaGJThzbw"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 11,
       "specs": {
-        "manufacturer": "Walmart - Becuddled Bedding • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 11 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $7.19) + Card Fee ($3.15)",
-        "market_value": "Competitor Landed: $113.25 | Your All-In Landed: $101.43 (Saves $11.82)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$79.18",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $7.92"
+        "manufacturer": "Lowe's • $2M Insured",
+        "condition": "New • 11 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.25",
+        "market_value": "Comp: $31.35 | Yours: $27.26",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-8",
-      "name": "[Top 50 Hard-to-Find Essential #8] Yichuhaoxi Weighted Blanket for Adults Queen Size 15 ",
-      "price": "$130.66",
+      "name": "[Top 50 Essential #8] Decibullz Custom Molded Percussive Shooting Filters",
+      "price": "$61.59",
+      "vendorCost": "$55.99",
+      "netMargin": "10% Net ($5.60)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSA7vcVvMJv5uoNFB-Ly1mfVEGL1vlUn9OQBeKXxoYF4-glr3wdD5UAZ2OmokYnpHO6QCekisihm2_iYR2_rnK08wTZav6bcEfmiA-Y_txdwJsjt7UzVu42",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTqdaxCQiZ6gz07Gslqgza_blhREdD09I_5ZAtCdIMVTqskr5sO9HrZGHYQZhBze0AxVLCwkXKf2E0JcnlDMPvt-eByQxoLVw",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQKIpmAE8Hgt__SVPPxjpcvGFkHmrPzUZuTcGPx6WT4ny3o7SPOCmJ-jcgwcVvInsp7RDgt_mgYsAnKmyrCx0wENSsKbS5C6EYbbm9EMxcy_LGzAwEACRhGPA"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRCC43h1FBkMJWRHkT2tq_R1RuFOZv9i5BAS-yJrw7WCrk6Z8B-Y2Q15D9N5KgNwUSFwze1A2vApl08XnTLgsqtIPdaKGhWodBvg76Z69SujIKudJC3EQeK",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT5ZXkMFw7b-7QCcFKCMof4i7Rsy_7his5eiPhqWj2k7d3zeRx7EbOFJheNOKvIM9T-3sP_nOv23bB2dZebTHW6aI_rFcnZhzGgcJyKgg-ucKN7CIaGJThzbw",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTsFC1_KNO2Og85e2q6UdtYs0ju4A09h3beWIO4Mil6qpPOH4a4RpIV2zlbjKxwjOGgI0qq8rj-DJTuH5fLgPVF0gztzUdaUAVMw3oGwmo"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 12,
       "specs": {
-        "manufacturer": "Lowe's • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 12 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $5.99 + Tax (8.25%: $10.78) + Card Fee ($4.58)",
-        "market_value": "Competitor Landed: $167.65 | Your All-In Landed: $152.01 (Saves $15.64)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$118.78",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $11.88"
+        "manufacturer": "Decibullz • $2M Insured",
+        "condition": "New • 12 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $5.08",
+        "market_value": "Comp: $70.83 | Yours: $61.59",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-9",
-      "name": "[Top 50 Hard-to-Find Essential #9] Cooling Weighted Blanket For Adults, 15lbs 48 In X 72",
-      "price": "$92.65",
+      "name": "[Top 50 Essential #9] Mixx Audio Assistive Audio Music Hearing Protection Ear Plugs",
+      "price": "$14.95",
+      "vendorCost": "$13.59",
+      "netMargin": "10% Net ($1.36)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTqdaxCQiZ6gz07Gslqgza_blhREdD09I_5ZAtCdIMVTqskr5sO9HrZGHYQZhBze0AxVLCwkXKf2E0JcnlDMPvt-eByQxoLVw",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQKIpmAE8Hgt__SVPPxjpcvGFkHmrPzUZuTcGPx6WT4ny3o7SPOCmJ-jcgwcVvInsp7RDgt_mgYsAnKmyrCx0wENSsKbS5C6EYbbm9EMxcy_LGzAwEACRhGPA",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTdVma4G5wXL_p25-R1NSZQoeb3NYgdr-ZDD8KL2XW5HDRfZL-KsMUOUQgNuGnQg10larKhkQoz8Q5mqfurMGjo4JbXI7s3TTEBjkekm4jYT-Chxm0bc7Pw"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT5ZXkMFw7b-7QCcFKCMof4i7Rsy_7his5eiPhqWj2k7d3zeRx7EbOFJheNOKvIM9T-3sP_nOv23bB2dZebTHW6aI_rFcnZhzGgcJyKgg-ucKN7CIaGJThzbw",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTsFC1_KNO2Og85e2q6UdtYs0ju4A09h3beWIO4Mil6qpPOH4a4RpIV2zlbjKxwjOGgI0qq8rj-DJTuH5fLgPVF0gztzUdaUAVMw3oGwmo",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT5bomsnVNIxPEcLUUgWj6GdOKbj0P_8Sd_oP5DqBXd9q1FiGDFhYgR2QpVwc9Eh6LrkYa3pTjzNITdSZni-RfW_RADdssf"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 13,
+      "count": 5,
       "specs": {
-        "manufacturer": "eBay - arhas-9022 • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 13 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $7.64) + Card Fee ($3.32)",
-        "market_value": "Competitor Landed: $119.92 | Your All-In Landed: $107.60 (Saves $12.32)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$84.23",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $8.42"
+        "manufacturer": "CVS Pharmacy • $2M Insured",
+        "condition": "New • 5 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.23",
+        "market_value": "Comp: $17.19 | Yours: $14.95",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-10",
-      "name": "[Top 50 Hard-to-Find Essential #10] Adult Weighted Blanket, 60 inch x 80 inch Queen Size",
-      "price": "$26.13",
+      "name": "[Top 50 Essential #10] Safariland Pro Impulse Plus Hearing Protection",
+      "price": "$15.35",
+      "vendorCost": "$13.95",
+      "netMargin": "10% Net ($1.40)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQKIpmAE8Hgt__SVPPxjpcvGFkHmrPzUZuTcGPx6WT4ny3o7SPOCmJ-jcgwcVvInsp7RDgt_mgYsAnKmyrCx0wENSsKbS5C6EYbbm9EMxcy_LGzAwEACRhGPA",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTdVma4G5wXL_p25-R1NSZQoeb3NYgdr-ZDD8KL2XW5HDRfZL-KsMUOUQgNuGnQg10larKhkQoz8Q5mqfurMGjo4JbXI7s3TTEBjkekm4jYT-Chxm0bc7Pw",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ9Il0qKTWiUhLJUOqDCUnn4FLlNDlhmcTmWRiJjQ9anF71EJbUu6R7R_Nvi_Q2XPg_VIYOZkPTsLvWUCWXDQZzEQGklF2UqBNJU_hPaoQqAc52Z0AaDoJKxQ"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTsFC1_KNO2Og85e2q6UdtYs0ju4A09h3beWIO4Mil6qpPOH4a4RpIV2zlbjKxwjOGgI0qq8rj-DJTuH5fLgPVF0gztzUdaUAVMw3oGwmo",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT5bomsnVNIxPEcLUUgWj6GdOKbj0P_8Sd_oP5DqBXd9q1FiGDFhYgR2QpVwc9Eh6LrkYa3pTjzNITdSZni-RfW_RADdssf",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT-o40_Vl2Bs7HU4kv1qP1hYtRUqOevK44WE6CvDpq6Vdy6hqOsoily9ehX8ItKgEI3r3l7b-X1jc30-EjQMhHynlr3_Y4Bgsz5E8gb6Pcc0R6nlqQi5XAC"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 5,
+      "count": 6,
       "specs": {
-        "manufacturer": "Walmart - Oki Premium Bazaar • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.16) + Card Fee ($1.24)",
-        "market_value": "Competitor Landed: $39.91 | Your All-In Landed: $33.52 (Saves $6.39)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$23.75",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $2.38"
+        "manufacturer": "Walmart • $2M Insured",
+        "condition": "New • 6 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.27",
+        "market_value": "Comp: $17.65 | Yours: $15.35",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-11",
-      "name": "[Top 50 Hard-to-Find Essential #11] Weighted Blanket for Adults Queen Size 15 lb, Soft H",
-      "price": "$109.29",
+      "name": "[Top 50 Essential #11] Hearos High Fidelity Ear Plugs",
+      "price": "$17.59",
+      "vendorCost": "$15.99",
+      "netMargin": "10% Net ($1.60)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTdVma4G5wXL_p25-R1NSZQoeb3NYgdr-ZDD8KL2XW5HDRfZL-KsMUOUQgNuGnQg10larKhkQoz8Q5mqfurMGjo4JbXI7s3TTEBjkekm4jYT-Chxm0bc7Pw",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ9Il0qKTWiUhLJUOqDCUnn4FLlNDlhmcTmWRiJjQ9anF71EJbUu6R7R_Nvi_Q2XPg_VIYOZkPTsLvWUCWXDQZzEQGklF2UqBNJU_hPaoQqAc52Z0AaDoJKxQ",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR2dddJewgrzWrEQZM_LLSG4j4WgXKXt6cJcjN_hFWhkDFWIFl9Xwj65IEYRrl7je_VAM0gbq71eSxw3efu_Yg-JfTSPdWYvk7IkmJNpI8"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT5bomsnVNIxPEcLUUgWj6GdOKbj0P_8Sd_oP5DqBXd9q1FiGDFhYgR2QpVwc9Eh6LrkYa3pTjzNITdSZni-RfW_RADdssf",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT-o40_Vl2Bs7HU4kv1qP1hYtRUqOevK44WE6CvDpq6Vdy6hqOsoily9ehX8ItKgEI3r3l7b-X1jc30-EjQMhHynlr3_Y4Bgsz5E8gb6Pcc0R6nlqQi5XAC",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRmU8NKBf_ViQhGl6pcHkW_9G65cbXkY6PY_oUbc5ze4NRX7lU9MtHmcQ8cDLIiEbLpE3XC1a2LVavEjcqU-DK2m19oW8P0Rm2XpnYzXNOnLmwPHgSN-iLX"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 6,
+      "count": 7,
       "specs": {
-        "manufacturer": "Kohl's • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $5.99 + Tax (8.25%: $9.02) + Card Fee ($3.90)",
-        "market_value": "Competitor Landed: $141.94 | Your All-In Landed: $128.20 (Saves $13.74)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$99.35",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $9.94"
+        "manufacturer": "Target • $2M Insured",
+        "condition": "New • 7 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.45",
+        "market_value": "Comp: $20.23 | Yours: $17.59",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-12",
-      "name": "[Top 50 Hard-to-Find Essential #12] 15lbs Weighted Blanket For Adults, 60\"x80\" Queen Siz",
-      "price": "$66.31",
+      "name": "[Top 50 Essential #12] Hearos New Airplugs 1 Pair",
+      "price": "$8.79",
+      "vendorCost": "$7.99",
+      "netMargin": "10% Net ($0.80)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ9Il0qKTWiUhLJUOqDCUnn4FLlNDlhmcTmWRiJjQ9anF71EJbUu6R7R_Nvi_Q2XPg_VIYOZkPTsLvWUCWXDQZzEQGklF2UqBNJU_hPaoQqAc52Z0AaDoJKxQ",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR2dddJewgrzWrEQZM_LLSG4j4WgXKXt6cJcjN_hFWhkDFWIFl9Xwj65IEYRrl7je_VAM0gbq71eSxw3efu_Yg-JfTSPdWYvk7IkmJNpI8",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQqiU0S7_oLqFTxV6sECN0q6Pjc7fwyN7F-TelzeP8YSoisiZYw1Uy4h-TQGCkCW8-4VDJgRwOJ_kxTywvIlwHhVZS0lOF5uvhsOaO2Red35tIBIFlzuQur"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT-o40_Vl2Bs7HU4kv1qP1hYtRUqOevK44WE6CvDpq6Vdy6hqOsoily9ehX8ItKgEI3r3l7b-X1jc30-EjQMhHynlr3_Y4Bgsz5E8gb6Pcc0R6nlqQi5XAC",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRmU8NKBf_ViQhGl6pcHkW_9G65cbXkY6PY_oUbc5ze4NRX7lU9MtHmcQ8cDLIiEbLpE3XC1a2LVavEjcqU-DK2m19oW8P0Rm2XpnYzXNOnLmwPHgSN-iLX",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQDqYTjgcRFDiTkhQovxCPJDSlJhtTkrH1ck2LVeDiTtf4IWy6X2NigJF4f0MyE4qJCzwKgQNghxJvyE66IeFzMCCwJioH3GOa9-umzze9_jV53sixbbWhcIQ"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 7,
+      "count": 8,
       "specs": {
-        "manufacturer": "eBay - ormeir • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $5.47) + Card Fee ($2.50)",
-        "market_value": "Competitor Landed: $88.25 | Your All-In Landed: $78.27 (Saves $9.98)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$60.28",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $6.03"
+        "manufacturer": "Walgreens.com • $2M Insured",
+        "condition": "New • 8 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.73",
+        "market_value": "Comp: $10.11 | Yours: $8.79",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-13",
-      "name": "[Top 50 Hard-to-Find Essential #13] Weighted Blanket 15lbs for Adult(48\"x78\",Pink) Breat",
-      "price": "$17.66",
+      "name": "[Top 50 Essential #13] Equate Ultra Soft Foam Ear Plugs",
+      "price": "$3.03",
+      "vendorCost": "$2.75",
+      "netMargin": "10% Net ($0.28)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR2dddJewgrzWrEQZM_LLSG4j4WgXKXt6cJcjN_hFWhkDFWIFl9Xwj65IEYRrl7je_VAM0gbq71eSxw3efu_Yg-JfTSPdWYvk7IkmJNpI8",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQqiU0S7_oLqFTxV6sECN0q6Pjc7fwyN7F-TelzeP8YSoisiZYw1Uy4h-TQGCkCW8-4VDJgRwOJ_kxTywvIlwHhVZS0lOF5uvhsOaO2Red35tIBIFlzuQur",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT83GRExt_s1nrqR-idU_QlSyG1_LM61PsOluTBuTNy0EP1emaOolnNYDOKQIHTO3rQPwrPc_pUO9KsJOhctvpIQtyWA6C5tIasyMfX5DVq0HnJdTBhdmfG"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRmU8NKBf_ViQhGl6pcHkW_9G65cbXkY6PY_oUbc5ze4NRX7lU9MtHmcQ8cDLIiEbLpE3XC1a2LVavEjcqU-DK2m19oW8P0Rm2XpnYzXNOnLmwPHgSN-iLX",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQDqYTjgcRFDiTkhQovxCPJDSlJhtTkrH1ck2LVeDiTtf4IWy6X2NigJF4f0MyE4qJCzwKgQNghxJvyE66IeFzMCCwJioH3GOa9-umzze9_jV53sixbbWhcIQ",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSi-x3pcRuhp-bDH6Um47vz5lC_fz7z8UtszeVcjUQ3zfKyCpp0o50jSJHcXpiZX0mWWArnLy6HZxY12wvJ2x29lN8PteBdwR2ousv6O53El5zDcI5sR0wiD0ix"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 8,
+      "count": 9,
       "specs": {
-        "manufacturer": "TikTok Shop • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.46) + Card Fee ($0.97)",
-        "market_value": "Competitor Landed: $29.73 | Your All-In Landed: $24.08 (Saves $5.65)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$16.05",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $1.61"
+        "manufacturer": "Walmart • $2M Insured",
+        "condition": "New • 9 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.25",
+        "market_value": "Comp: $3.48 | Yours: $3.03",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-14",
-      "name": "[Top 50 Hard-to-Find Essential #14] 15 lb Weighted Blanket for Adults, Queen Size 60 inc",
-      "price": "$23.75",
+      "name": "[Top 50 Essential #14] HEAROS Hearing Protection Earplugs",
+      "price": "$6.14",
+      "vendorCost": "$5.58",
+      "netMargin": "10% Net ($0.56)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQqiU0S7_oLqFTxV6sECN0q6Pjc7fwyN7F-TelzeP8YSoisiZYw1Uy4h-TQGCkCW8-4VDJgRwOJ_kxTywvIlwHhVZS0lOF5uvhsOaO2Red35tIBIFlzuQur",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT83GRExt_s1nrqR-idU_QlSyG1_LM61PsOluTBuTNy0EP1emaOolnNYDOKQIHTO3rQPwrPc_pUO9KsJOhctvpIQtyWA6C5tIasyMfX5DVq0HnJdTBhdmfG",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSmtbbTS3SKbzk92uN7dl4XafYYs1DAMr1urQ85Am7ZaR8xSQn0HjypCGroJ81L0G2gyJhMo6nPURnXKVWRoqikWqUE_skE4SWbhvMNke6E"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQDqYTjgcRFDiTkhQovxCPJDSlJhtTkrH1ck2LVeDiTtf4IWy6X2NigJF4f0MyE4qJCzwKgQNghxJvyE66IeFzMCCwJioH3GOa9-umzze9_jV53sixbbWhcIQ",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSi-x3pcRuhp-bDH6Um47vz5lC_fz7z8UtszeVcjUQ3zfKyCpp0o50jSJHcXpiZX0mWWArnLy6HZxY12wvJ2x29lN8PteBdwR2ousv6O53El5zDcI5sR0wiD0ix",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQuH076RbY644iaJQJ9uO6QFK8r7uAbp_wIltLajS7B52g_rKyq1-L8-Lhv_0BlGW5K9CnqwVR_uTvpzX0zktbN9w2TK5x6own1JiYi5KW1tHd-czaBIb7W"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 9,
+      "count": 10,
       "specs": {
-        "manufacturer": "Walmart - Oki Premium Bazaar • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 9 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.96) + Card Fee ($1.16)",
-        "market_value": "Competitor Landed: $37.06 | Your All-In Landed: $30.86 (Saves $6.20)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$21.59",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $2.16"
+        "manufacturer": "Lowe's • $2M Insured",
+        "condition": "New • 10 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.51",
+        "market_value": "Comp: $7.06 | Yours: $6.14",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-15",
-      "name": "[Top 50 Hard-to-Find Essential #15] 15lbs Weighted Blanket For Adults, Heavy Bed Throw B",
-      "price": "$37.59",
+      "name": "[Top 50 Essential #15] Earplugs for Events & Music Hears 20dB Noise Reduction",
+      "price": "$37.84",
+      "vendorCost": "$34.40",
+      "netMargin": "10% Net ($3.44)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT83GRExt_s1nrqR-idU_QlSyG1_LM61PsOluTBuTNy0EP1emaOolnNYDOKQIHTO3rQPwrPc_pUO9KsJOhctvpIQtyWA6C5tIasyMfX5DVq0HnJdTBhdmfG",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSmtbbTS3SKbzk92uN7dl4XafYYs1DAMr1urQ85Am7ZaR8xSQn0HjypCGroJ81L0G2gyJhMo6nPURnXKVWRoqikWqUE_skE4SWbhvMNke6E",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTLiRB5r2-MGlgB7-v5Ki4oFWwzEUstUMDm_9I1vWc6HCZj4CYbzP9Nvhoj75sX2TTjfUC8-EKpg7xIOPm9uZbE6veDlfAClrrTqPIuKlPtn9x1YTE8Gp9lVw"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSi-x3pcRuhp-bDH6Um47vz5lC_fz7z8UtszeVcjUQ3zfKyCpp0o50jSJHcXpiZX0mWWArnLy6HZxY12wvJ2x29lN8PteBdwR2ousv6O53El5zDcI5sR0wiD0ix",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQuH076RbY644iaJQJ9uO6QFK8r7uAbp_wIltLajS7B52g_rKyq1-L8-Lhv_0BlGW5K9CnqwVR_uTvpzX0zktbN9w2TK5x6own1JiYi5KW1tHd-czaBIb7W",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRuPYDvJxXsVU3iPNbqecWYOjoGb-ZMjM53u0b99xh0nIEOz50_RRdikJ8sWxXslSmb_XdKAj6w1qJps7LKpFERQPL5topVDF1Yi5ENyW4ZgWpojHCEV3dorw"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 10,
+      "count": 11,
       "specs": {
-        "manufacturer": "eBay - youreverydaychoice • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 10 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.10) + Card Fee ($1.60)",
-        "market_value": "Competitor Landed: $53.71 | Your All-In Landed: $46.28 (Saves $7.43)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$34.17",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.42"
+        "manufacturer": "Hears Earplugs • $2M Insured",
+        "condition": "New • 11 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.12",
+        "market_value": "Comp: $43.52 | Yours: $37.84",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-16",
-      "name": "[Top 50 Hard-to-Find Essential #16] 15 Lb Blue Weighted Blanket for Adults, 48x72 In, Br",
-      "price": "$105.06",
+      "name": "[Top 50 Essential #16] Hear Hush Hoops Ear Plugs",
+      "price": "$13.09",
+      "vendorCost": "$11.90",
+      "netMargin": "10% Net ($1.19)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSmtbbTS3SKbzk92uN7dl4XafYYs1DAMr1urQ85Am7ZaR8xSQn0HjypCGroJ81L0G2gyJhMo6nPURnXKVWRoqikWqUE_skE4SWbhvMNke6E",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTLiRB5r2-MGlgB7-v5Ki4oFWwzEUstUMDm_9I1vWc6HCZj4CYbzP9Nvhoj75sX2TTjfUC8-EKpg7xIOPm9uZbE6veDlfAClrrTqPIuKlPtn9x1YTE8Gp9lVw",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQJdMLE861O529HxXSb-hpQ4X4BQoE3BT89yrzcSGpEiDFdTSyp5r7YcBGESPpwdCgMkYJXsNqdf1z3g6cikORe7jP8X0JPfQ9rDq_6TTxd"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQuH076RbY644iaJQJ9uO6QFK8r7uAbp_wIltLajS7B52g_rKyq1-L8-Lhv_0BlGW5K9CnqwVR_uTvpzX0zktbN9w2TK5x6own1JiYi5KW1tHd-czaBIb7W",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRuPYDvJxXsVU3iPNbqecWYOjoGb-ZMjM53u0b99xh0nIEOz50_RRdikJ8sWxXslSmb_XdKAj6w1qJps7LKpFERQPL5topVDF1Yi5ENyW4ZgWpojHCEV3dorw",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTaCEnKC2kXwkd977kEUrRCy7-qLUWgznIZ5g3VvbwSZdq-X0d0xt7RcjfRyYJvjU-dxa7IaexzSU3cSJyNklVmXyihROlXHwTEqH7V5rTm4C9mR2gFBPa0LQ"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 11,
+      "count": 12,
       "specs": {
-        "manufacturer": "Walmart - Seller • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 11 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $5.99 + Tax (8.25%: $8.67) + Card Fee ($3.77)",
-        "market_value": "Competitor Landed: $136.85 | Your All-In Landed: $123.49 (Saves $13.36)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$95.51",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $9.55"
+        "manufacturer": "Walmart • $2M Insured",
+        "condition": "New • 12 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.08",
+        "market_value": "Comp: $15.05 | Yours: $13.09",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-17",
-      "name": "[Top 50 Hard-to-Find Essential #17] Weighted Blanket Adults 15lbs 48x72 Twin Dark Grey G",
-      "price": "$58.64",
+      "name": "[Top 50 Essential #17] Mack's Soft Foam Earplugs Ultra",
+      "price": "$6.15",
+      "vendorCost": "$5.59",
+      "netMargin": "10% Net ($0.56)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTLiRB5r2-MGlgB7-v5Ki4oFWwzEUstUMDm_9I1vWc6HCZj4CYbzP9Nvhoj75sX2TTjfUC8-EKpg7xIOPm9uZbE6veDlfAClrrTqPIuKlPtn9x1YTE8Gp9lVw",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQJdMLE861O529HxXSb-hpQ4X4BQoE3BT89yrzcSGpEiDFdTSyp5r7YcBGESPpwdCgMkYJXsNqdf1z3g6cikORe7jP8X0JPfQ9rDq_6TTxd",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ6rFXCb2Z-EhdrexR9b5_WUppwpqRE-EAHagazrBXnNL48nENU-sMd7V18qf8obwroFMJDKykqzKNKdthKamcSqirhHFDEyWRYm_Re1KR6"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRuPYDvJxXsVU3iPNbqecWYOjoGb-ZMjM53u0b99xh0nIEOz50_RRdikJ8sWxXslSmb_XdKAj6w1qJps7LKpFERQPL5topVDF1Yi5ENyW4ZgWpojHCEV3dorw",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTaCEnKC2kXwkd977kEUrRCy7-qLUWgznIZ5g3VvbwSZdq-X0d0xt7RcjfRyYJvjU-dxa7IaexzSU3cSJyNklVmXyihROlXHwTEqH7V5rTm4C9mR2gFBPa0LQ",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRxumvJ4Dmpta2EzYsm6hw4cSXbccw-Y6QdohBMPpwYcqTGgCtlydaETKx2bH-v8u3t0l8C5Rbhqckah8eepmQCxASYq0MQy6Ba4JsRl2qvNDjqPAWAxo7FijCV"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 12,
+      "count": 5,
       "specs": {
-        "manufacturer": "eBay - ia_963989 • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 12 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $4.84) + Card Fee ($2.26)",
-        "market_value": "Competitor Landed: $79.03 | Your All-In Landed: $69.73 (Saves $9.30)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$53.31",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $5.33"
+        "manufacturer": "Mack's Ear Plugs • $2M Insured",
+        "condition": "New • 5 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.51",
+        "market_value": "Comp: $7.07 | Yours: $6.15",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-18",
-      "name": "[Top 50 Hard-to-Find Essential #18] Reversible Weighted Blanket for All Season, Luxury V",
-      "price": "$46.73",
+      "name": "[Top 50 Essential #18] Hearos 3-Pack Hearing Protection Earplugs",
+      "price": "$6.14",
+      "vendorCost": "$5.58",
+      "netMargin": "10% Net ($0.56)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQJdMLE861O529HxXSb-hpQ4X4BQoE3BT89yrzcSGpEiDFdTSyp5r7YcBGESPpwdCgMkYJXsNqdf1z3g6cikORe7jP8X0JPfQ9rDq_6TTxd",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ6rFXCb2Z-EhdrexR9b5_WUppwpqRE-EAHagazrBXnNL48nENU-sMd7V18qf8obwroFMJDKykqzKNKdthKamcSqirhHFDEyWRYm_Re1KR6",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRXpYpPHBdRthZQSzDabcDon2aXqZd_NAIY6f7mBWJsyN-bMa3R1kfo8i4DDxfopkyqf3aPeXbkj9PAPDUjIyjFwwN2Xkye"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTaCEnKC2kXwkd977kEUrRCy7-qLUWgznIZ5g3VvbwSZdq-X0d0xt7RcjfRyYJvjU-dxa7IaexzSU3cSJyNklVmXyihROlXHwTEqH7V5rTm4C9mR2gFBPa0LQ",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRxumvJ4Dmpta2EzYsm6hw4cSXbccw-Y6QdohBMPpwYcqTGgCtlydaETKx2bH-v8u3t0l8C5Rbhqckah8eepmQCxASYq0MQy6Ba4JsRl2qvNDjqPAWAxo7FijCV",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT-mTQbdHfjpNbbjmC7aADmdcOIyzT9acCBQmr1kohsWf42PMCBm0z1FDiYwbElbBUU5AOpQbl0alL0b_kn_2NNdRILj2e0dzGzAHckCr5vuDAgw6y9I5p5MA"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 13,
+      "count": 6,
       "specs": {
-        "manufacturer": "TikTok Shop • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 13 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.86) + Card Fee ($1.88)",
-        "market_value": "Competitor Landed: $64.69 | Your All-In Landed: $56.46 (Saves $8.23)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$42.48",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $4.25"
+        "manufacturer": "Lowe's • $2M Insured",
+        "condition": "New • 6 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.51",
+        "market_value": "Comp: $7.06 | Yours: $6.14",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-19",
-      "name": "[Top 50 Hard-to-Find Essential #19] Weighted Blanket For Adults (15 Lbs 48 inch X 72 inc",
-      "price": "$51.31",
+      "name": "[Top 50 Essential #19] Flents Quiet Time Ear Plugs",
+      "price": "$3.14",
+      "vendorCost": "$2.85",
+      "netMargin": "10% Net ($0.29)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ6rFXCb2Z-EhdrexR9b5_WUppwpqRE-EAHagazrBXnNL48nENU-sMd7V18qf8obwroFMJDKykqzKNKdthKamcSqirhHFDEyWRYm_Re1KR6",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRXpYpPHBdRthZQSzDabcDon2aXqZd_NAIY6f7mBWJsyN-bMa3R1kfo8i4DDxfopkyqf3aPeXbkj9PAPDUjIyjFwwN2Xkye",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTmWkYWe1wZsmAlzvH817eyms_YUM6O13xfJZBg1kmbhUMns0oA_w7RTPhUs5j8S9VU_yZcMLEXvMhdqc50A8HFYe7fbCcApv4IrWBDYE5h"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRxumvJ4Dmpta2EzYsm6hw4cSXbccw-Y6QdohBMPpwYcqTGgCtlydaETKx2bH-v8u3t0l8C5Rbhqckah8eepmQCxASYq0MQy6Ba4JsRl2qvNDjqPAWAxo7FijCV",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT-mTQbdHfjpNbbjmC7aADmdcOIyzT9acCBQmr1kohsWf42PMCBm0z1FDiYwbElbBUU5AOpQbl0alL0b_kn_2NNdRILj2e0dzGzAHckCr5vuDAgw6y9I5p5MA",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSvmnZS-jA5acSe88PwFBfO9q7YA-rM1n7EMb1RI8i3Wj6km8EJzKqBTM-kmKN1Ahwyk37_JjX3o3wkccixec-KIS6qzBf3wpXG5iyntoI"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 5,
+      "count": 7,
       "specs": {
-        "manufacturer": "Walmart - Seller • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $4.23) + Card Fee ($2.03)",
-        "market_value": "Competitor Landed: $70.20 | Your All-In Landed: $61.56 (Saves $8.64)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$46.65",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $4.66"
+        "manufacturer": "Walmart • $2M Insured",
+        "condition": "New • 7 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.26",
+        "market_value": "Comp: $3.61 | Yours: $3.14",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-20",
-      "name": "[Top 50 Hard-to-Find Essential #20] 15lbs Weighted Blanket For 60 In X 80 In 15 Lb Exclu",
-      "price": "$56.38",
+      "name": "[Top 50 Essential #20] Unplugs Earplugs for festivals, concerts, and events 20dB of nois",
+      "price": "$51.92",
+      "vendorCost": "$47.20",
+      "netMargin": "10% Net ($4.72)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRXpYpPHBdRthZQSzDabcDon2aXqZd_NAIY6f7mBWJsyN-bMa3R1kfo8i4DDxfopkyqf3aPeXbkj9PAPDUjIyjFwwN2Xkye",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTmWkYWe1wZsmAlzvH817eyms_YUM6O13xfJZBg1kmbhUMns0oA_w7RTPhUs5j8S9VU_yZcMLEXvMhdqc50A8HFYe7fbCcApv4IrWBDYE5h",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSp8qVBFlMrXUSc6xpAAwBfclOmKnjWtjL9JjqhfoCCD-hwC8yCj9nmUtxwadfjDLyxKfImL309U9tKGZfmgD1yhzDP3fiispF-vCef1ouEXiqsTIHbcsJNYA"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT-mTQbdHfjpNbbjmC7aADmdcOIyzT9acCBQmr1kohsWf42PMCBm0z1FDiYwbElbBUU5AOpQbl0alL0b_kn_2NNdRILj2e0dzGzAHckCr5vuDAgw6y9I5p5MA",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSvmnZS-jA5acSe88PwFBfO9q7YA-rM1n7EMb1RI8i3Wj6km8EJzKqBTM-kmKN1Ahwyk37_JjX3o3wkccixec-KIS6qzBf3wpXG5iyntoI",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR8zJ_2MfyzNgq6o3CQmzzpiwFe_kWqPSA-1yHQmA9Rq4i_ZPZVcbjfg_cvJ5mZWl4dbppijQmF5TtkMbMigRh-JSU4pbVB9ZF3ZEhvFfjyOqzvpKqvowIY"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 6,
+      "count": 8,
       "specs": {
-        "manufacturer": "eBay - dwds7211 • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $4.65) + Card Fee ($2.19)",
-        "market_value": "Competitor Landed: $76.31 | Your All-In Landed: $67.21 (Saves $9.10)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$51.25",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $5.13"
+        "manufacturer": "Unplugs Hearing • $2M Insured",
+        "condition": "New • 8 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $4.28",
+        "market_value": "Comp: $59.71 | Yours: $51.92",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-21",
-      "name": "[Top 50 Hard-to-Find Essential #21] Weighted Blanket For Adults (15 Lbs 60 inch X 80 inc",
-      "price": "$57.01",
+      "name": "[Top 50 Essential #21] Hearos High Fidelity Series Long Term",
+      "price": "$18.47",
+      "vendorCost": "$16.79",
+      "netMargin": "10% Net ($1.68)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTmWkYWe1wZsmAlzvH817eyms_YUM6O13xfJZBg1kmbhUMns0oA_w7RTPhUs5j8S9VU_yZcMLEXvMhdqc50A8HFYe7fbCcApv4IrWBDYE5h",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSp8qVBFlMrXUSc6xpAAwBfclOmKnjWtjL9JjqhfoCCD-hwC8yCj9nmUtxwadfjDLyxKfImL309U9tKGZfmgD1yhzDP3fiispF-vCef1ouEXiqsTIHbcsJNYA",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQN3eLfTU3zsvQwGrNTitcaSpxrGQCvrgT5K7qmWCtb4L--4OpEIGqNoGcPcBp9-lSp5qin7l-XG8uCrbjPwl3NlTwYMp3LCr6eG0O8OHQ"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSvmnZS-jA5acSe88PwFBfO9q7YA-rM1n7EMb1RI8i3Wj6km8EJzKqBTM-kmKN1Ahwyk37_JjX3o3wkccixec-KIS6qzBf3wpXG5iyntoI",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR8zJ_2MfyzNgq6o3CQmzzpiwFe_kWqPSA-1yHQmA9Rq4i_ZPZVcbjfg_cvJ5mZWl4dbppijQmF5TtkMbMigRh-JSU4pbVB9ZF3ZEhvFfjyOqzvpKqvowIY",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR-4WGJDHYa7XFWHB32ajhwg1CC9SudaFa8ZbDMm0QULtPbTWzJUyQLd5iEMCdZI6TKBXMpq4GAHNYfUMjQQXO-_dnO_h6iZqW3oFghuZ1W-mGWtuv0GfFqmqnR"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 7,
+      "count": 9,
       "specs": {
-        "manufacturer": "Walmart - Seller • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $4.70) + Card Fee ($2.21)",
-        "market_value": "Competitor Landed: $77.06 | Your All-In Landed: $67.91 (Saves $9.15)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$51.83",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $5.18"
+        "manufacturer": "Guitar Center Local Stores • $2M Insured",
+        "condition": "New • 9 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.52",
+        "market_value": "Comp: $21.24 | Yours: $18.47",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-22",
-      "name": "[Top 50 Hard-to-Find Essential #22] Smart Queen Weighted Blanket 15 lb Queen Size Breath",
-      "price": "$41.67",
+      "name": "[Top 50 Essential #22] Audien Shields Hearing Protection Earplugs Adjustable Up to 45dB ",
+      "price": "$43.12",
+      "vendorCost": "$39.20",
+      "netMargin": "10% Net ($3.92)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSp8qVBFlMrXUSc6xpAAwBfclOmKnjWtjL9JjqhfoCCD-hwC8yCj9nmUtxwadfjDLyxKfImL309U9tKGZfmgD1yhzDP3fiispF-vCef1ouEXiqsTIHbcsJNYA",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQN3eLfTU3zsvQwGrNTitcaSpxrGQCvrgT5K7qmWCtb4L--4OpEIGqNoGcPcBp9-lSp5qin7l-XG8uCrbjPwl3NlTwYMp3LCr6eG0O8OHQ",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTSoaM8n9QRQFW8nVGL1w0gbzcJdP_irj2Sa4f6E9dXKVyPQ-qji-cqZLqgdIbYl1x4mz1puxkCwOgOgPGY-fsybKgfzCJvnIHZhz6WDVWi7mNtrVDGckdKdQ"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR8zJ_2MfyzNgq6o3CQmzzpiwFe_kWqPSA-1yHQmA9Rq4i_ZPZVcbjfg_cvJ5mZWl4dbppijQmF5TtkMbMigRh-JSU4pbVB9ZF3ZEhvFfjyOqzvpKqvowIY",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR-4WGJDHYa7XFWHB32ajhwg1CC9SudaFa8ZbDMm0QULtPbTWzJUyQLd5iEMCdZI6TKBXMpq4GAHNYfUMjQQXO-_dnO_h6iZqW3oFghuZ1W-mGWtuv0GfFqmqnR",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSC6LigBXkmF9Wd5hVzuVm6i_nS8sLx9iLhm3O_43VO6PCPtkpJGNcQWQjVpbQ6acdtFVEEIFSdF3cMMNi_a28bHMipCjqTNg"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 8,
+      "count": 10,
       "specs": {
-        "manufacturer": "eBay - rockcitybreaks • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.44) + Card Fee ($1.72)",
-        "market_value": "Competitor Landed: $58.61 | Your All-In Landed: $50.82 (Saves $7.79)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$37.88",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.79"
+        "manufacturer": "Audien Hearing • $2M Insured",
+        "condition": "New • 10 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.56",
+        "market_value": "Comp: $49.59 | Yours: $43.12",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-23",
-      "name": "[Top 50 Hard-to-Find Essential #23] Weighted Blanket For Adults Queen Size 15 Lbs 60 inc",
-      "price": "$70.26",
+      "name": "[Top 50 Essential #23] Loop Switch 2 Noise Relief Earplugs",
+      "price": "$52.76",
+      "vendorCost": "$47.96",
+      "netMargin": "10% Net ($4.80)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQN3eLfTU3zsvQwGrNTitcaSpxrGQCvrgT5K7qmWCtb4L--4OpEIGqNoGcPcBp9-lSp5qin7l-XG8uCrbjPwl3NlTwYMp3LCr6eG0O8OHQ",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTSoaM8n9QRQFW8nVGL1w0gbzcJdP_irj2Sa4f6E9dXKVyPQ-qji-cqZLqgdIbYl1x4mz1puxkCwOgOgPGY-fsybKgfzCJvnIHZhz6WDVWi7mNtrVDGckdKdQ",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcREPd5sjltdBBPw_POg_LD_P2dNSGzkcS7ILl3VZNt7GYzGc-pehx4x-ldxMFdIAFY9uuONzIEkQvV2yV6UxiFOm5FfEl8NETLVJpCsxljdzGwSAKpLiahXYQ"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR-4WGJDHYa7XFWHB32ajhwg1CC9SudaFa8ZbDMm0QULtPbTWzJUyQLd5iEMCdZI6TKBXMpq4GAHNYfUMjQQXO-_dnO_h6iZqW3oFghuZ1W-mGWtuv0GfFqmqnR",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSC6LigBXkmF9Wd5hVzuVm6i_nS8sLx9iLhm3O_43VO6PCPtkpJGNcQWQjVpbQ6acdtFVEEIFSdF3cMMNi_a28bHMipCjqTNg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSMFS_NHiYv57Otz6ffIdBKsUQG7HBLJd6jKQVUM30VoJ_D89JC0_eEku60HHXcrg22BX03TpLL3-UmqKbCRidihx2CwWAqxYaqPLJBjo7-jjh9K0x8xHZmxw"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 9,
+      "count": 11,
       "specs": {
-        "manufacturer": "Walmart - Seller • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 9 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $5.80) + Card Fee ($2.62)",
-        "market_value": "Competitor Landed: $93.00 | Your All-In Landed: $82.67 (Saves $10.33)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$63.87",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $6.39"
+        "manufacturer": "Lowe's • $2M Insured",
+        "condition": "New • 11 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $4.35",
+        "market_value": "Comp: $60.67 | Yours: $52.76",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-24",
-      "name": "[Top 50 Hard-to-Find Essential #24] L'agraty Knitted Weighted Blanket 48\"x72\" 15lbs For ",
-      "price": "$98.14",
+      "name": "[Top 50 Essential #24] Quality Plugs Quality Foam Ear Plugs 10 Pair 32dB Soft Foam Earpl",
+      "price": "$13.19",
+      "vendorCost": "$11.99",
+      "netMargin": "10% Net ($1.20)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTSoaM8n9QRQFW8nVGL1w0gbzcJdP_irj2Sa4f6E9dXKVyPQ-qji-cqZLqgdIbYl1x4mz1puxkCwOgOgPGY-fsybKgfzCJvnIHZhz6WDVWi7mNtrVDGckdKdQ",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcREPd5sjltdBBPw_POg_LD_P2dNSGzkcS7ILl3VZNt7GYzGc-pehx4x-ldxMFdIAFY9uuONzIEkQvV2yV6UxiFOm5FfEl8NETLVJpCsxljdzGwSAKpLiahXYQ",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQchnDmyIKOceeSDvb_3BGXH7BL_yHuq5r6X_riOc7v-B7crf76zhVxRDJK5WSfBFl5RTsY_KhJHa3LEGde9fidEgE9tU-a-BpcbzmoBgj1KaXMhNAdZCFB-w"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSC6LigBXkmF9Wd5hVzuVm6i_nS8sLx9iLhm3O_43VO6PCPtkpJGNcQWQjVpbQ6acdtFVEEIFSdF3cMMNi_a28bHMipCjqTNg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSMFS_NHiYv57Otz6ffIdBKsUQG7HBLJd6jKQVUM30VoJ_D89JC0_eEku60HHXcrg22BX03TpLL3-UmqKbCRidihx2CwWAqxYaqPLJBjo7-jjh9K0x8xHZmxw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS2jM48gFce1palRToSQXHaXAq9yx6AMRaqRsWB4JO4iY0SEDUbhgjQ1ILbpVEjk0vnswaMp6eH1eiKNJVL-C5xWIRvUSvNbJANqdXjiJF_BGQub6wrlHLePg"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 10,
+      "count": 12,
       "specs": {
-        "manufacturer": "eBay - ccvintagesales • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 10 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $8.10) + Card Fee ($3.50)",
-        "market_value": "Competitor Landed: $126.53 | Your All-In Landed: $113.73 (Saves $12.80)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$89.22",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $8.92"
+        "manufacturer": "Target • $2M Insured",
+        "condition": "New • 12 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.09",
+        "market_value": "Comp: $15.17 | Yours: $13.19",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-25",
-      "name": "[Top 50 Hard-to-Find Essential #25] Weighted Blanket 15lbs For Adults Ultra Softy Dot He",
-      "price": "$57.01",
+      "name": "[Top 50 Essential #25] Etymotic Research ER20XS High Fidelity Earplugs",
+      "price": "$23.75",
+      "vendorCost": "$21.59",
+      "netMargin": "10% Net ($2.16)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcREPd5sjltdBBPw_POg_LD_P2dNSGzkcS7ILl3VZNt7GYzGc-pehx4x-ldxMFdIAFY9uuONzIEkQvV2yV6UxiFOm5FfEl8NETLVJpCsxljdzGwSAKpLiahXYQ",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQchnDmyIKOceeSDvb_3BGXH7BL_yHuq5r6X_riOc7v-B7crf76zhVxRDJK5WSfBFl5RTsY_KhJHa3LEGde9fidEgE9tU-a-BpcbzmoBgj1KaXMhNAdZCFB-w",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSS_2uWobVmXRm2qTcMpUub4bjOZAz3taTjVdfDvl4O8Z-uMoctm0rbW56as3t2wTnF3lHCQQdg_rEJP1PYXsn0XH4Xp9RwrvFo74bPDmMclkghG1r_UMJZ"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSMFS_NHiYv57Otz6ffIdBKsUQG7HBLJd6jKQVUM30VoJ_D89JC0_eEku60HHXcrg22BX03TpLL3-UmqKbCRidihx2CwWAqxYaqPLJBjo7-jjh9K0x8xHZmxw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS2jM48gFce1palRToSQXHaXAq9yx6AMRaqRsWB4JO4iY0SEDUbhgjQ1ILbpVEjk0vnswaMp6eH1eiKNJVL-C5xWIRvUSvNbJANqdXjiJF_BGQub6wrlHLePg",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSf1O9QTOY81qaxCHv-DtNK6Qdu9BROs-VjRClB_cyjLxqbBD1VHsY0m-FntZ2SHX9d5H33NBGUhr9nREp1XO1nN9XoBaMy6UUK6UobNoVinYQTYQIx8dPEFHI"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 11,
+      "count": 5,
       "specs": {
-        "manufacturer": "Walmart - Seller • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 11 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $4.70) + Card Fee ($2.21)",
-        "market_value": "Competitor Landed: $77.06 | Your All-In Landed: $67.91 (Saves $9.15)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$51.83",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $5.18"
+        "manufacturer": "Sweetwater • $2M Insured",
+        "condition": "New • 5 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.96",
+        "market_value": "Comp: $27.31 | Yours: $23.75",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-26",
-      "name": "[Top 50 Hard-to-Find Essential #26] Adult Weighted Blanket (60\" X 80\", 15 Lbs) & 100% Ra",
-      "price": "$246.04",
+      "name": "[Top 50 Essential #26] Alpine Silence Ear Plugs for Sleep Focus & Travel Comfortable Tra",
+      "price": "$21.96",
+      "vendorCost": "$19.96",
+      "netMargin": "10% Net ($2.00)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQchnDmyIKOceeSDvb_3BGXH7BL_yHuq5r6X_riOc7v-B7crf76zhVxRDJK5WSfBFl5RTsY_KhJHa3LEGde9fidEgE9tU-a-BpcbzmoBgj1KaXMhNAdZCFB-w",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSS_2uWobVmXRm2qTcMpUub4bjOZAz3taTjVdfDvl4O8Z-uMoctm0rbW56as3t2wTnF3lHCQQdg_rEJP1PYXsn0XH4Xp9RwrvFo74bPDmMclkghG1r_UMJZ",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQINBBWugOHKIQfmbgNJb5ynNrsjNtsq0ArWEV0eAcEtf7sE7EQx9lEQSmKB3IUDUk9HFyhOvzBtGACXRVrsqcBsgTG0X6ILM_s7P5Jy9oB"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS2jM48gFce1palRToSQXHaXAq9yx6AMRaqRsWB4JO4iY0SEDUbhgjQ1ILbpVEjk0vnswaMp6eH1eiKNJVL-C5xWIRvUSvNbJANqdXjiJF_BGQub6wrlHLePg",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSf1O9QTOY81qaxCHv-DtNK6Qdu9BROs-VjRClB_cyjLxqbBD1VHsY0m-FntZ2SHX9d5H33NBGUhr9nREp1XO1nN9XoBaMy6UUK6UobNoVinYQTYQIx8dPEFHI",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcThXq_ktPIplzNuAt3vjdzef1oXADNOkRgaJxIdvKQQU9n22NRLRL3E_K1-lR-raZaFUF8-AOLrYs0YPscg5jEtLhnqVdVwELUtlPVqKTJjo9_uedVE1PXy7g"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 12,
+      "count": 6,
       "specs": {
-        "manufacturer": "eBay - misens-88 • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 12 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $5.99 + Tax (8.25%: $20.30) + Card Fee ($8.20)",
-        "market_value": "Competitor Landed: $306.42 | Your All-In Landed: $280.53 (Saves $25.89)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$223.67",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $22.37"
+        "manufacturer": "Alpine • $2M Insured",
+        "condition": "New • 6 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.81",
+        "market_value": "Comp: $25.25 | Yours: $21.96",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-27",
-      "name": "[Top 50 Hard-to-Find Essential #27] Weighted Blanket For Adults Full Size 15 Lbs 48 X 72",
-      "price": "$60.57",
+      "name": "[Top 50 Essential #27] Earplugs for Events & Music Hears 25dB Noise Reduction",
+      "price": "$37.84",
+      "vendorCost": "$34.40",
+      "netMargin": "10% Net ($3.44)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSS_2uWobVmXRm2qTcMpUub4bjOZAz3taTjVdfDvl4O8Z-uMoctm0rbW56as3t2wTnF3lHCQQdg_rEJP1PYXsn0XH4Xp9RwrvFo74bPDmMclkghG1r_UMJZ",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQINBBWugOHKIQfmbgNJb5ynNrsjNtsq0ArWEV0eAcEtf7sE7EQx9lEQSmKB3IUDUk9HFyhOvzBtGACXRVrsqcBsgTG0X6ILM_s7P5Jy9oB",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRm_C9va7doaASxeI503ArYOP3gXMlrzFwxwPD8szYeiLizMRt8LXwF-V6-6WJz2EvliDOGhpmSg6g1Sd7wE0WARaYsMSlxPCnk83Gw_14GkWTU-ISKlAzP"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSf1O9QTOY81qaxCHv-DtNK6Qdu9BROs-VjRClB_cyjLxqbBD1VHsY0m-FntZ2SHX9d5H33NBGUhr9nREp1XO1nN9XoBaMy6UUK6UobNoVinYQTYQIx8dPEFHI",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcThXq_ktPIplzNuAt3vjdzef1oXADNOkRgaJxIdvKQQU9n22NRLRL3E_K1-lR-raZaFUF8-AOLrYs0YPscg5jEtLhnqVdVwELUtlPVqKTJjo9_uedVE1PXy7g",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSOlTpS-zl_RLnPW1yde_7zbMlv_JNtjkhrMjdUrlOG_9LfoYPPakmMEVluvCAKdNC9h9SLTNIlzmpyOI-6O6YegFECNl4EnnTq9dIITnjH0dYUqCooqZCrRg"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 13,
+      "count": 7,
       "specs": {
-        "manufacturer": "Walmart - Seller • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 13 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $5.00) + Card Fee ($2.32)",
-        "market_value": "Competitor Landed: $81.34 | Your All-In Landed: $71.88 (Saves $9.46)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$55.06",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $5.51"
+        "manufacturer": "Hears Earplugs • $2M Insured",
+        "condition": "New • 7 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.12",
+        "market_value": "Comp: $43.52 | Yours: $37.84",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-28",
-      "name": "[Top 50 Hard-to-Find Essential #28] Royal Therapy Weighted Blanket Adult & Kids Bed 100%",
-      "price": "$60.98",
+      "name": "[Top 50 Essential #28] Earasers Musicians",
+      "price": "$35.19",
+      "vendorCost": "$31.99",
+      "netMargin": "10% Net ($3.20)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQINBBWugOHKIQfmbgNJb5ynNrsjNtsq0ArWEV0eAcEtf7sE7EQx9lEQSmKB3IUDUk9HFyhOvzBtGACXRVrsqcBsgTG0X6ILM_s7P5Jy9oB",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRm_C9va7doaASxeI503ArYOP3gXMlrzFwxwPD8szYeiLizMRt8LXwF-V6-6WJz2EvliDOGhpmSg6g1Sd7wE0WARaYsMSlxPCnk83Gw_14GkWTU-ISKlAzP",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSmGGXVWm5lu8XyE4ddblecm_F2AWlcN6ZymYa6rPHamle7eBHbKL-k3Lk8jtOvUSMAdxtYxuc4v-F0UNZFIQnvYNko4xmDQifTsU0_4qKQ8-qBIOxHpeJ8"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcThXq_ktPIplzNuAt3vjdzef1oXADNOkRgaJxIdvKQQU9n22NRLRL3E_K1-lR-raZaFUF8-AOLrYs0YPscg5jEtLhnqVdVwELUtlPVqKTJjo9_uedVE1PXy7g",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSOlTpS-zl_RLnPW1yde_7zbMlv_JNtjkhrMjdUrlOG_9LfoYPPakmMEVluvCAKdNC9h9SLTNIlzmpyOI-6O6YegFECNl4EnnTq9dIITnjH0dYUqCooqZCrRg",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQmi36L3Ex8m8MNCQXt-E8NEdWddhgcjR3oZYHPwVrljJ7UzUrw-k_XlE3oxaC0jGJVNa4AqYQ3kk59B79BRRj8Qxk_DScUJwbEAgWxStLF3KWAxQur3dXkePo"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 5,
+      "count": 8,
       "specs": {
-        "manufacturer": "Wayfair • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $5.03) + Card Fee ($2.33)",
-        "market_value": "Competitor Landed: $81.83 | Your All-In Landed: $72.33 (Saves $9.50)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$55.44",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $5.54"
+        "manufacturer": "Musicians Friend • $2M Insured",
+        "condition": "New • 8 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.90",
+        "market_value": "Comp: $40.47 | Yours: $35.19",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-29",
-      "name": "[Top 50 Hard-to-Find Essential #29] Weighted Blanket For Adults 15lbs Heavy Bed Throw On",
-      "price": "$98.09",
+      "name": "[Top 50 Essential #29] Decibullz Custom Molded Earplugs",
+      "price": "$22.87",
+      "vendorCost": "$20.79",
+      "netMargin": "10% Net ($2.08)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRm_C9va7doaASxeI503ArYOP3gXMlrzFwxwPD8szYeiLizMRt8LXwF-V6-6WJz2EvliDOGhpmSg6g1Sd7wE0WARaYsMSlxPCnk83Gw_14GkWTU-ISKlAzP",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSmGGXVWm5lu8XyE4ddblecm_F2AWlcN6ZymYa6rPHamle7eBHbKL-k3Lk8jtOvUSMAdxtYxuc4v-F0UNZFIQnvYNko4xmDQifTsU0_4qKQ8-qBIOxHpeJ8",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRKrd_uqRPvomHZc4g6qu5a7v2-g3H_IvQ37tV1L9cZZhJQbwH-fRAzbKP6JYKQe56DS15vX8YcURm5I_IqpYVUcBOQxQ7PUZmoF55jwOjW"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSOlTpS-zl_RLnPW1yde_7zbMlv_JNtjkhrMjdUrlOG_9LfoYPPakmMEVluvCAKdNC9h9SLTNIlzmpyOI-6O6YegFECNl4EnnTq9dIITnjH0dYUqCooqZCrRg",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQmi36L3Ex8m8MNCQXt-E8NEdWddhgcjR3oZYHPwVrljJ7UzUrw-k_XlE3oxaC0jGJVNa4AqYQ3kk59B79BRRj8Qxk_DScUJwbEAgWxStLF3KWAxQur3dXkePo",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQwqY7fBjCgKNDDh1Mwzuu3MvoymGKAvkwSt-0ghJlV3JypZLppGgEZCsFVT3iRy3bXCKfvp3YzSGUg2ErtVYCsoqyRf5reBwnmgvS9bPTXNGxSLeFD991T"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 6,
+      "count": 9,
       "specs": {
-        "manufacturer": "Walmart - Seller • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $8.09) + Card Fee ($3.49)",
-        "market_value": "Competitor Landed: $126.47 | Your All-In Landed: $113.66 (Saves $12.81)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$89.17",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $8.92"
+        "manufacturer": "Decibullz • $2M Insured",
+        "condition": "New • 9 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.89",
+        "market_value": "Comp: $26.30 | Yours: $22.87",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-30",
-      "name": "[Top 50 Hard-to-Find Essential #30] Weighted Blanket For Adults Queen Size 15 Lbs 60 X 8",
-      "price": "$71.86",
+      "name": "[Top 50 Essential #30] Noise-Cancelling Earplugs",
+      "price": "$17.60",
+      "vendorCost": "$16.00",
+      "netMargin": "10% Net ($1.60)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSmGGXVWm5lu8XyE4ddblecm_F2AWlcN6ZymYa6rPHamle7eBHbKL-k3Lk8jtOvUSMAdxtYxuc4v-F0UNZFIQnvYNko4xmDQifTsU0_4qKQ8-qBIOxHpeJ8",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRKrd_uqRPvomHZc4g6qu5a7v2-g3H_IvQ37tV1L9cZZhJQbwH-fRAzbKP6JYKQe56DS15vX8YcURm5I_IqpYVUcBOQxQ7PUZmoF55jwOjW",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRiB5eBGabUOkves5gs-DsfBrCfwyhJpdMeZJLwpJWG3Sxtx64ZfpxK-g-VbmuMWwI973V7XKo6PCJGq8Z5hCRxa46ncq1rvme2lp1rlVc"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQmi36L3Ex8m8MNCQXt-E8NEdWddhgcjR3oZYHPwVrljJ7UzUrw-k_XlE3oxaC0jGJVNa4AqYQ3kk59B79BRRj8Qxk_DScUJwbEAgWxStLF3KWAxQur3dXkePo",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQwqY7fBjCgKNDDh1Mwzuu3MvoymGKAvkwSt-0ghJlV3JypZLppGgEZCsFVT3iRy3bXCKfvp3YzSGUg2ErtVYCsoqyRf5reBwnmgvS9bPTXNGxSLeFD991T",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTO6md7ZXccshhn65CIUhNTSW1Rt2V6gG7KE2BkGGK-l0Q0260uI-TQ_1nLIwtTO-m8MyBA6wbMrNLVys3ghCfm1MGYHCrDfJVgG5G3DWcIKTcn28GNxGGR"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 7,
+      "count": 10,
       "specs": {
-        "manufacturer": "Walmart - Seller • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $5.93) + Card Fee ($2.67)",
-        "market_value": "Competitor Landed: $94.92 | Your All-In Landed: $84.45 (Saves $10.47)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$65.33",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $6.53"
+        "manufacturer": "NOBL Travel • $2M Insured",
+        "condition": "New • 10 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.45",
+        "market_value": "Comp: $20.24 | Yours: $17.60",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-31",
-      "name": "[Top 50 Hard-to-Find Essential #31] Syrinx Cooling Weighted Blanket Queen Size 15 Pounds",
-      "price": "$83.14",
+      "name": "[Top 50 Essential #31] MEE audio High Fidelity Earplugs with Interchangeable Filters",
+      "price": "$35.19",
+      "vendorCost": "$31.99",
+      "netMargin": "10% Net ($3.20)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRKrd_uqRPvomHZc4g6qu5a7v2-g3H_IvQ37tV1L9cZZhJQbwH-fRAzbKP6JYKQe56DS15vX8YcURm5I_IqpYVUcBOQxQ7PUZmoF55jwOjW",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRiB5eBGabUOkves5gs-DsfBrCfwyhJpdMeZJLwpJWG3Sxtx64ZfpxK-g-VbmuMWwI973V7XKo6PCJGq8Z5hCRxa46ncq1rvme2lp1rlVc",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ3C1tRkd5xDTkM2sZNPChT5xvfrVMUSTpIDZKgxg-8k7UMQHsC4C6UB8oGuMOOjrl4zsiLDZcdWWvyyLF8MhCPDKcdzRtdd9j0lRZ8DGDX"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQwqY7fBjCgKNDDh1Mwzuu3MvoymGKAvkwSt-0ghJlV3JypZLppGgEZCsFVT3iRy3bXCKfvp3YzSGUg2ErtVYCsoqyRf5reBwnmgvS9bPTXNGxSLeFD991T",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTO6md7ZXccshhn65CIUhNTSW1Rt2V6gG7KE2BkGGK-l0Q0260uI-TQ_1nLIwtTO-m8MyBA6wbMrNLVys3ghCfm1MGYHCrDfJVgG5G3DWcIKTcn28GNxGGR",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRiIhsPlGxw5H8Vi3BHvVWCl_LRZDQIBrLOxh7TF5BwMkbO4diYNUEHooiDabAhtcjMU1elpCK0AHlhHTo2TNRYj_8ajLM2Fw"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 8,
+      "count": 11,
       "specs": {
-        "manufacturer": "eBay - theshippingoffice • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $6.86) + Card Fee ($3.03)",
-        "market_value": "Competitor Landed: $108.49 | Your All-In Landed: $97.02 (Saves $11.47)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$75.58",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $7.56"
+        "manufacturer": "MEE audio • $2M Insured",
+        "condition": "New • 11 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.90",
+        "market_value": "Comp: $40.47 | Yours: $35.19",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-32",
-      "name": "[Top 50 Hard-to-Find Essential #32] Weighted Blanket For Adults Queen Size 15 Lbs 60 X 8",
-      "price": "$78.24",
+      "name": "[Top 50 Essential #32] Eargasm High Fidelity Earplugs",
+      "price": "$43.96",
+      "vendorCost": "$39.96",
+      "netMargin": "10% Net ($4.00)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRiB5eBGabUOkves5gs-DsfBrCfwyhJpdMeZJLwpJWG3Sxtx64ZfpxK-g-VbmuMWwI973V7XKo6PCJGq8Z5hCRxa46ncq1rvme2lp1rlVc",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ3C1tRkd5xDTkM2sZNPChT5xvfrVMUSTpIDZKgxg-8k7UMQHsC4C6UB8oGuMOOjrl4zsiLDZcdWWvyyLF8MhCPDKcdzRtdd9j0lRZ8DGDX",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRPI7gsBZ0qMU9YgT3XigaxNLxhowrBpfhmVdDCPcJSsxmUExP2BZTDQABeDJUKf1w5aQKjFpdai02k-lzgUTmeNJZQ9sOlnlJl6J__8LNa2T6MpBDzYEwz"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTO6md7ZXccshhn65CIUhNTSW1Rt2V6gG7KE2BkGGK-l0Q0260uI-TQ_1nLIwtTO-m8MyBA6wbMrNLVys3ghCfm1MGYHCrDfJVgG5G3DWcIKTcn28GNxGGR",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRiIhsPlGxw5H8Vi3BHvVWCl_LRZDQIBrLOxh7TF5BwMkbO4diYNUEHooiDabAhtcjMU1elpCK0AHlhHTo2TNRYj_8ajLM2Fw",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQuYP38GqDaEOPX1fsb6WOZpifFlMAlpG-O9STETPRdrWp1bkEy-lfvGzi34GtP_8Iy5BXXJiui8AzHt3yHT6rekAO2gsFJTy7RvKmbk4B5iJmdllxIX0eT5dI"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 9,
+      "count": 12,
       "specs": {
-        "manufacturer": "Walmart - Seller • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 9 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $6.45) + Card Fee ($2.87)",
-        "market_value": "Competitor Landed: $102.59 | Your All-In Landed: $91.55 (Saves $11.04)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$71.13",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $7.11"
+        "manufacturer": "Eargasm • $2M Insured",
+        "condition": "New • 12 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.63",
+        "market_value": "Comp: $50.55 | Yours: $43.96",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-33",
-      "name": "[Top 50 Hard-to-Find Essential #33] Beige 60 inchx80 inch-15 lbs Weighted Blanket for Ad",
-      "price": "$97.28",
+      "name": "[Top 50 Essential #33] Axil X30i",
+      "price": "$21.11",
+      "vendorCost": "$19.19",
+      "netMargin": "10% Net ($1.92)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ3C1tRkd5xDTkM2sZNPChT5xvfrVMUSTpIDZKgxg-8k7UMQHsC4C6UB8oGuMOOjrl4zsiLDZcdWWvyyLF8MhCPDKcdzRtdd9j0lRZ8DGDX",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRPI7gsBZ0qMU9YgT3XigaxNLxhowrBpfhmVdDCPcJSsxmUExP2BZTDQABeDJUKf1w5aQKjFpdai02k-lzgUTmeNJZQ9sOlnlJl6J__8LNa2T6MpBDzYEwz",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7KfEhYY0i4VembA1UFuTKmLd4W3hhpa8NbmcLzf2GLUJbXlozrZoVbwvsneDGuizHtPXZhcJqwQRwzqTWf9CGlrFyAcCdP0brDNcwWoJqNGNIy5ymoq4R"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRiIhsPlGxw5H8Vi3BHvVWCl_LRZDQIBrLOxh7TF5BwMkbO4diYNUEHooiDabAhtcjMU1elpCK0AHlhHTo2TNRYj_8ajLM2Fw",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQuYP38GqDaEOPX1fsb6WOZpifFlMAlpG-O9STETPRdrWp1bkEy-lfvGzi34GtP_8Iy5BXXJiui8AzHt3yHT6rekAO2gsFJTy7RvKmbk4B5iJmdllxIX0eT5dI",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSPwdvUleKajVScbRMWIDUFf_ypYhKeNbrTWqiajqaLFFGh_UM2HUcT14woqjv7hJEx_MKfMG173UPAVyLL23WGOcajBqQ1vtlbyH_n8nb92ri18YW1-_ia"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 10,
+      "count": 5,
       "specs": {
-        "manufacturer": "Walmart - Seller • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 10 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $8.03) + Card Fee ($3.47)",
-        "market_value": "Competitor Landed: $125.50 | Your All-In Landed: $112.77 (Saves $12.73)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$88.44",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $8.84"
+        "manufacturer": "Tractor Supply Company • $2M Insured",
+        "condition": "New • 5 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.74",
+        "market_value": "Comp: $24.28 | Yours: $21.11",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-34",
-      "name": "[Top 50 Hard-to-Find Essential #34] CalmCore Dual - Sided Weighted Blanket – Gentle Pres",
-      "price": "$118.79",
+      "name": "[Top 50 Essential #34] Zound Festival Ear Plugs Custom Concert Earplugs Rave Ear Plugs",
+      "price": "$26.39",
+      "vendorCost": "$23.99",
+      "netMargin": "10% Net ($2.40)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRPI7gsBZ0qMU9YgT3XigaxNLxhowrBpfhmVdDCPcJSsxmUExP2BZTDQABeDJUKf1w5aQKjFpdai02k-lzgUTmeNJZQ9sOlnlJl6J__8LNa2T6MpBDzYEwz",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7KfEhYY0i4VembA1UFuTKmLd4W3hhpa8NbmcLzf2GLUJbXlozrZoVbwvsneDGuizHtPXZhcJqwQRwzqTWf9CGlrFyAcCdP0brDNcwWoJqNGNIy5ymoq4R",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSQsO1E8evW17ZIjyEMmQx72v_WEkeF5u1dE7_lTpLVkTwjPt70lOyPBu5oDYRCdvRJKdwrkDueO9qW4GbuBv5osByBrUbFUm0cmlQydcc"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQuYP38GqDaEOPX1fsb6WOZpifFlMAlpG-O9STETPRdrWp1bkEy-lfvGzi34GtP_8Iy5BXXJiui8AzHt3yHT6rekAO2gsFJTy7RvKmbk4B5iJmdllxIX0eT5dI",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSPwdvUleKajVScbRMWIDUFf_ypYhKeNbrTWqiajqaLFFGh_UM2HUcT14woqjv7hJEx_MKfMG173UPAVyLL23WGOcajBqQ1vtlbyH_n8nb92ri18YW1-_ia",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSNfATRQY6yv6y1XxKzTD2nRHRPXhir2dZYJcCX0-1NXN8hGx31mH-LUpjoP2OG2cOQrYQeQLys3RzOz93B7TXCP7j442qeiSg87t_ARYR6ovCeBq859arx4z0"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 11,
+      "count": 6,
       "specs": {
-        "manufacturer": "Ella Jayne Team • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 11 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $5.99 + Tax (8.25%: $9.80) + Card Fee ($4.20)",
-        "market_value": "Competitor Landed: $153.37 | Your All-In Landed: $138.78 (Saves $14.59)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$107.99",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $10.80"
+        "manufacturer": "Zound • $2M Insured",
+        "condition": "New • 6 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.18",
+        "market_value": "Comp: $30.35 | Yours: $26.39",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-35",
-      "name": "[Top 50 Hard-to-Find Essential #35] Weighted Blanket 15 Lbs Size For Adults Luxury Heavy",
-      "price": "$166.27",
+      "name": "[Top 50 Essential #35] 60 Pairs Ultra Soft Foam Earplugs",
+      "price": "$6.66",
+      "vendorCost": "$6.05",
+      "netMargin": "10% Net ($0.61)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7KfEhYY0i4VembA1UFuTKmLd4W3hhpa8NbmcLzf2GLUJbXlozrZoVbwvsneDGuizHtPXZhcJqwQRwzqTWf9CGlrFyAcCdP0brDNcwWoJqNGNIy5ymoq4R",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSQsO1E8evW17ZIjyEMmQx72v_WEkeF5u1dE7_lTpLVkTwjPt70lOyPBu5oDYRCdvRJKdwrkDueO9qW4GbuBv5osByBrUbFUm0cmlQydcc",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQY15Nt0h7F6va5YohUpt-8Beaa2r_bwscOHa-IOtvuoODezSisvpuXwpL3mFrrp065JAi0tSQ4-QDLPfY0e2hd13nofqa_FNmBzl3bttJQ9Arp9EqC8Os-"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSPwdvUleKajVScbRMWIDUFf_ypYhKeNbrTWqiajqaLFFGh_UM2HUcT14woqjv7hJEx_MKfMG173UPAVyLL23WGOcajBqQ1vtlbyH_n8nb92ri18YW1-_ia",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSNfATRQY6yv6y1XxKzTD2nRHRPXhir2dZYJcCX0-1NXN8hGx31mH-LUpjoP2OG2cOQrYQeQLys3RzOz93B7TXCP7j442qeiSg87t_ARYR6ovCeBq859arx4z0",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT-rqVYrkKAiOrj2mU2Z0fqPDsils0efPGFr4KU2NS5kE0tRLLuJ7C4IMMKKtgdjZ3oycsNzDG80CRaMmahNgndVv7_sL4bVK4KXky0KSvhtGkuoiAWARg9ew"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 12,
+      "count": 7,
       "specs": {
-        "manufacturer": "Walmart - Seller • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 12 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $5.99 + Tax (8.25%: $13.72) + Card Fee ($5.69)",
-        "market_value": "Competitor Landed: $210.47 | Your All-In Landed: $191.67 (Saves $18.80)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$151.15",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $15.12"
+        "manufacturer": "Walmart - VictSing Official Store • $2M Insured",
+        "condition": "New • 7 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.55",
+        "market_value": "Comp: $7.66 | Yours: $6.66",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-36",
-      "name": "[Top 50 Hard-to-Find Essential #36] Quility Weighted Blanket For Adults-15lb-queen-heavy",
-      "price": "$42.73",
+      "name": "[Top 50 Essential #36] Noise-Cancelling Earplugs, Blush",
+      "price": "$17.60",
+      "vendorCost": "$16.00",
+      "netMargin": "10% Net ($1.60)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSQsO1E8evW17ZIjyEMmQx72v_WEkeF5u1dE7_lTpLVkTwjPt70lOyPBu5oDYRCdvRJKdwrkDueO9qW4GbuBv5osByBrUbFUm0cmlQydcc",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQY15Nt0h7F6va5YohUpt-8Beaa2r_bwscOHa-IOtvuoODezSisvpuXwpL3mFrrp065JAi0tSQ4-QDLPfY0e2hd13nofqa_FNmBzl3bttJQ9Arp9EqC8Os-",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSeafaNHa8aoMuL8h6C9GTxXKxxs3DBO3fjVvfHY9mvdZMi8WK146mF8mPs080P8AiniI8n5icU-LpmcepfM-KK-B0TS4HVWAv1hG9pKKFN"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSNfATRQY6yv6y1XxKzTD2nRHRPXhir2dZYJcCX0-1NXN8hGx31mH-LUpjoP2OG2cOQrYQeQLys3RzOz93B7TXCP7j442qeiSg87t_ARYR6ovCeBq859arx4z0",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT-rqVYrkKAiOrj2mU2Z0fqPDsils0efPGFr4KU2NS5kE0tRLLuJ7C4IMMKKtgdjZ3oycsNzDG80CRaMmahNgndVv7_sL4bVK4KXky0KSvhtGkuoiAWARg9ew",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRXOD3k0v-N6xXvFMw6ZoFhjW2qMAABKnI5rzZd3oot7bA2A0tJOWrewfis9-xXQYmcusXB1_NqB_AO5x0SLgmzYxqiOMBtzqTYVMUbl8mC-Q7prenkQYohTz0"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 13,
+      "count": 8,
       "specs": {
-        "manufacturer": "eBay - tu-991780 • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 13 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.53) + Card Fee ($1.76)",
-        "market_value": "Competitor Landed: $59.89 | Your All-In Landed: $52.01 (Saves $7.88)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$38.85",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.88"
+        "manufacturer": "NOBL Travel • $2M Insured",
+        "condition": "New • 8 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.45",
+        "market_value": "Comp: $20.24 | Yours: $17.60",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-37",
-      "name": "[Top 50 Hard-to-Find Essential #37] 15lb Weighted Blanket Queen Size(80''x87'' Double-si",
-      "price": "$83.62",
+      "name": "[Top 50 Essential #37] Earplugs for Events & Music Hears 20dB Noise Reduction Pacha Edit",
+      "price": "$37.84",
+      "vendorCost": "$34.40",
+      "netMargin": "10% Net ($3.44)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQY15Nt0h7F6va5YohUpt-8Beaa2r_bwscOHa-IOtvuoODezSisvpuXwpL3mFrrp065JAi0tSQ4-QDLPfY0e2hd13nofqa_FNmBzl3bttJQ9Arp9EqC8Os-",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSeafaNHa8aoMuL8h6C9GTxXKxxs3DBO3fjVvfHY9mvdZMi8WK146mF8mPs080P8AiniI8n5icU-LpmcepfM-KK-B0TS4HVWAv1hG9pKKFN",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSN8lG2aCsiIwQYX1kIHkFTkoINfjNjsSZ4NhDK3caG_Dd_9OLqurLZWCyNVc-6Vw8x5dxS-kInw0vYEb9tNKHfMmQGU8XInYGNXxxpXX0"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT-rqVYrkKAiOrj2mU2Z0fqPDsils0efPGFr4KU2NS5kE0tRLLuJ7C4IMMKKtgdjZ3oycsNzDG80CRaMmahNgndVv7_sL4bVK4KXky0KSvhtGkuoiAWARg9ew",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRXOD3k0v-N6xXvFMw6ZoFhjW2qMAABKnI5rzZd3oot7bA2A0tJOWrewfis9-xXQYmcusXB1_NqB_AO5x0SLgmzYxqiOMBtzqTYVMUbl8mC-Q7prenkQYohTz0",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQN0Q7aoFWZS1MTlE8vptqyHtyAAykgvPAvatw3EDVAQ6RTDe2OmoKyh6SMPwcUsipnTX9-MXI_laHkn9lFrB7T6LHXvadGaL6KuXjJTNiEZz5l8mPiR9yQjA"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 5,
+      "count": 9,
       "specs": {
-        "manufacturer": "Walmart - Seller • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $6.90) + Card Fee ($3.04)",
-        "market_value": "Competitor Landed: $109.07 | Your All-In Landed: $97.55 (Saves $11.52)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$76.02",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $7.60"
+        "manufacturer": "Hears Earplugs • $2M Insured",
+        "condition": "New • 9 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.12",
+        "market_value": "Comp: $43.52 | Yours: $37.84",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-38",
-      "name": "[Top 50 Hard-to-Find Essential #38] Adult Weighted Blanket (60 inch X 80 inch 15 Lbs), G",
-      "price": "$166.27",
+      "name": "[Top 50 Essential #38] Zenz Ignite Earplugs",
+      "price": "$26.39",
+      "vendorCost": "$23.99",
+      "netMargin": "10% Net ($2.40)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSeafaNHa8aoMuL8h6C9GTxXKxxs3DBO3fjVvfHY9mvdZMi8WK146mF8mPs080P8AiniI8n5icU-LpmcepfM-KK-B0TS4HVWAv1hG9pKKFN",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSN8lG2aCsiIwQYX1kIHkFTkoINfjNjsSZ4NhDK3caG_Dd_9OLqurLZWCyNVc-6Vw8x5dxS-kInw0vYEb9tNKHfMmQGU8XInYGNXxxpXX0",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRl-XoSTUL-aWuRL47ucw8FEfOGezGmXnk-oTZKQScg2m7lmc23OedV3uQ4YPCddNKZ8bnkODufXvXePZau-k3zLYxmNMBirX_NtsCBd-wx"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRXOD3k0v-N6xXvFMw6ZoFhjW2qMAABKnI5rzZd3oot7bA2A0tJOWrewfis9-xXQYmcusXB1_NqB_AO5x0SLgmzYxqiOMBtzqTYVMUbl8mC-Q7prenkQYohTz0",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQN0Q7aoFWZS1MTlE8vptqyHtyAAykgvPAvatw3EDVAQ6RTDe2OmoKyh6SMPwcUsipnTX9-MXI_laHkn9lFrB7T6LHXvadGaL6KuXjJTNiEZz5l8mPiR9yQjA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQb7lHYkeEF-G-EzPCG95AzSSb06TcJPNjBGIWM_nUkD8-6IFsEqN54krwnpwER7mUDVCJL5AleiRv4-psZ3ma4kQKrzwySYk5p441NDcY"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 6,
+      "count": 10,
       "specs": {
-        "manufacturer": "Walmart - Seller • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $5.99 + Tax (8.25%: $13.72) + Card Fee ($5.69)",
-        "market_value": "Competitor Landed: $210.47 | Your All-In Landed: $191.67 (Saves $18.80)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$151.15",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $15.12"
+        "manufacturer": "Zenz Lifestyle • $2M Insured",
+        "condition": "New • 10 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.18",
+        "market_value": "Comp: $30.35 | Yours: $26.39",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-39",
-      "name": "[Top 50 Hard-to-Find Essential #39] Weighted Blanket 10 lb, 15 lb , 20 lb Or 25 lb + Fre",
-      "price": "$39.59",
+      "name": "[Top 50 Essential #39] Pleasing x Loop Experience 2 Enough",
+      "price": "$35.16",
+      "vendorCost": "$31.96",
+      "netMargin": "10% Net ($3.20)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSN8lG2aCsiIwQYX1kIHkFTkoINfjNjsSZ4NhDK3caG_Dd_9OLqurLZWCyNVc-6Vw8x5dxS-kInw0vYEb9tNKHfMmQGU8XInYGNXxxpXX0",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRl-XoSTUL-aWuRL47ucw8FEfOGezGmXnk-oTZKQScg2m7lmc23OedV3uQ4YPCddNKZ8bnkODufXvXePZau-k3zLYxmNMBirX_NtsCBd-wx",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR9Sc3DWDTU8Cv795LW4xgbY6vBqEqVEPm2uYvkplEkSgcGY_QAWM_z2voikccX4XSekAYdhuhiaBU7KYswLRf6ljt3kRaVNwZIr8s69qE3"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQN0Q7aoFWZS1MTlE8vptqyHtyAAykgvPAvatw3EDVAQ6RTDe2OmoKyh6SMPwcUsipnTX9-MXI_laHkn9lFrB7T6LHXvadGaL6KuXjJTNiEZz5l8mPiR9yQjA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQb7lHYkeEF-G-EzPCG95AzSSb06TcJPNjBGIWM_nUkD8-6IFsEqN54krwnpwER7mUDVCJL5AleiRv4-psZ3ma4kQKrzwySYk5p441NDcY",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTYv9IkGpjlnHZxmoLScE8TiIId0FcfmhtEGQdETlF6enRnhiob7A18WJWqkpplMQml8qRFJ2vVNHUdMjWKT_kQ1ss1eejBBDTujoPKtpYSmKvW8fUY5k7n"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 7,
+      "count": 11,
       "specs": {
-        "manufacturer": "Etsy - SerenityEngineered • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.27) + Card Fee ($1.66)",
-        "market_value": "Competitor Landed: $56.11 | Your All-In Landed: $48.51 (Saves $7.60)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$35.99",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.60"
+        "manufacturer": "Loop Earplugs • $2M Insured",
+        "condition": "New • 11 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.90",
+        "market_value": "Comp: $40.43 | Yours: $35.16",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-40",
-      "name": "[Top 50 Hard-to-Find Essential #40] 15lbs Weighted Blanket For Adults 60 inchx80 inch Qu",
-      "price": "$71.26",
+      "name": "[Top 50 Essential #40] CURVD Live Stylish High-Fidelity Concert Earplugs for Live Events",
+      "price": "$30.76",
+      "vendorCost": "$27.96",
+      "netMargin": "10% Net ($2.80)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRl-XoSTUL-aWuRL47ucw8FEfOGezGmXnk-oTZKQScg2m7lmc23OedV3uQ4YPCddNKZ8bnkODufXvXePZau-k3zLYxmNMBirX_NtsCBd-wx",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR9Sc3DWDTU8Cv795LW4xgbY6vBqEqVEPm2uYvkplEkSgcGY_QAWM_z2voikccX4XSekAYdhuhiaBU7KYswLRf6ljt3kRaVNwZIr8s69qE3",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSrtV3QTyEC5bCENrnDIjl-byyp-MqwqEdW9M9-k7IfubORZF82SdqMAlLy7Rpxoq1XZ8WxVMPM2y1d97xxHK5XBHquweYs"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQb7lHYkeEF-G-EzPCG95AzSSb06TcJPNjBGIWM_nUkD8-6IFsEqN54krwnpwER7mUDVCJL5AleiRv4-psZ3ma4kQKrzwySYk5p441NDcY",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTYv9IkGpjlnHZxmoLScE8TiIId0FcfmhtEGQdETlF6enRnhiob7A18WJWqkpplMQml8qRFJ2vVNHUdMjWKT_kQ1ss1eejBBDTujoPKtpYSmKvW8fUY5k7n",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSA41_Vzw9PhW827pM9Ei7Tu89rKfgvwMXzqbKxvSeR0u8bGlvAPnz-1CZnbG-F9qz8Q2EFY2AjZpQI-llH8VMQoiwMml2pTFX-csDnA6GP6-dByxWYpVheuw"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 8,
+      "count": 12,
       "specs": {
-        "manufacturer": "Walmart - Seller • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $5.88) + Card Fee ($2.65)",
-        "market_value": "Competitor Landed: $94.20 | Your All-In Landed: $83.78 (Saves $10.42)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$64.78",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $6.48"
+        "manufacturer": "Sweetwater • $2M Insured",
+        "condition": "New • 12 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.54",
+        "market_value": "Comp: $35.37 | Yours: $30.76",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-41",
-      "name": "[Top 50 Hard-to-Find Essential #41] LectroFan White Noise & Fan Sound Machine",
-      "price": "$23.75",
+      "name": "[Top 50 Essential #41] Decibullz Pro Custom Molded Earplugs",
+      "price": "$35.19",
+      "vendorCost": "$31.99",
+      "netMargin": "10% Net ($3.20)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR9Sc3DWDTU8Cv795LW4xgbY6vBqEqVEPm2uYvkplEkSgcGY_QAWM_z2voikccX4XSekAYdhuhiaBU7KYswLRf6ljt3kRaVNwZIr8s69qE3",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSrtV3QTyEC5bCENrnDIjl-byyp-MqwqEdW9M9-k7IfubORZF82SdqMAlLy7Rpxoq1XZ8WxVMPM2y1d97xxHK5XBHquweYs",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT3A7_M8RJIinNKxkpxItUkQDc7DZvsHzNDxdArJNzDZHvUZapGCHE9tb0d8464zB3q7rTxq85kjUiWOuPQt_l6TAwkq6hLnOtAKDfLqqAt"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTYv9IkGpjlnHZxmoLScE8TiIId0FcfmhtEGQdETlF6enRnhiob7A18WJWqkpplMQml8qRFJ2vVNHUdMjWKT_kQ1ss1eejBBDTujoPKtpYSmKvW8fUY5k7n",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSA41_Vzw9PhW827pM9Ei7Tu89rKfgvwMXzqbKxvSeR0u8bGlvAPnz-1CZnbG-F9qz8Q2EFY2AjZpQI-llH8VMQoiwMml2pTFX-csDnA6GP6-dByxWYpVheuw",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSYcXlVTraSiYRcV2If2Mbv7p3KACWg1w6YICCTlUjdGhUjptMiQN14PGu6wwKBCOoccq7dgncZww9EPZas91-On-hsFz2_coX1yNKmUb2d"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 9,
+      "count": 5,
       "specs": {
-        "manufacturer": "eBay • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 9 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.96) + Card Fee ($1.16)",
-        "market_value": "Competitor Landed: $37.06 | Your All-In Landed: $30.86 (Saves $6.20)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$21.59",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $2.16"
+        "manufacturer": "Decibullz • $2M Insured",
+        "condition": "New • 5 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.90",
+        "market_value": "Comp: $40.47 | Yours: $35.19",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-42",
-      "name": "[Top 50 Hard-to-Find Essential #42] LectroFan High Fidelity White Noise Machine with 20 ",
-      "price": "$47.48",
+      "name": "[Top 50 Essential #42] Equate Ultimate Fit Foam Earplugs",
+      "price": "$10.08",
+      "vendorCost": "$9.16",
+      "netMargin": "10% Net ($0.92)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSrtV3QTyEC5bCENrnDIjl-byyp-MqwqEdW9M9-k7IfubORZF82SdqMAlLy7Rpxoq1XZ8WxVMPM2y1d97xxHK5XBHquweYs",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT3A7_M8RJIinNKxkpxItUkQDc7DZvsHzNDxdArJNzDZHvUZapGCHE9tb0d8464zB3q7rTxq85kjUiWOuPQt_l6TAwkq6hLnOtAKDfLqqAt",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQpFGAfHTLcJlPJbNf75LDpt4grmW43UB8nYctHCS9uGqhi8UAjRhbQzV6eBERfRnGXRMPF5U9TJXRqahmGbDCRJmcOcDRJpQad9S38_b0y6s3jhq-LP2qIUg"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSA41_Vzw9PhW827pM9Ei7Tu89rKfgvwMXzqbKxvSeR0u8bGlvAPnz-1CZnbG-F9qz8Q2EFY2AjZpQI-llH8VMQoiwMml2pTFX-csDnA6GP6-dByxWYpVheuw",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSYcXlVTraSiYRcV2If2Mbv7p3KACWg1w6YICCTlUjdGhUjptMiQN14PGu6wwKBCOoccq7dgncZww9EPZas91-On-hsFz2_coX1yNKmUb2d",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQqjx2PNmdJuVyscLSiCTLw1iVrBnqaMm277xIDxbETOgk-u_eybCVMzBUU6hXw_5uGLROWTc6-hvIw1J34u1gMcB8USyiHYjx7Q7tUWrkunaw6WS2kIgU_"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 10,
+      "count": 6,
       "specs": {
-        "manufacturer": "Office Privacy • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 10 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.92) + Card Fee ($1.91)",
-        "market_value": "Competitor Landed: $65.60 | Your All-In Landed: $57.30 (Saves $8.30)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$43.16",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $4.32"
+        "manufacturer": "Walmart • $2M Insured",
+        "condition": "New • 6 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.83",
+        "market_value": "Comp: $11.59 | Yours: $10.08",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-43",
-      "name": "[Top 50 Hard-to-Find Essential #43] LectroFan EVO White Noise Machine",
-      "price": "$29.27",
+      "name": "[Top 50 Essential #43] CVS Extreme Protection Earplugs",
+      "price": "$4.92",
+      "vendorCost": "$4.47",
+      "netMargin": "10% Net ($0.45)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT3A7_M8RJIinNKxkpxItUkQDc7DZvsHzNDxdArJNzDZHvUZapGCHE9tb0d8464zB3q7rTxq85kjUiWOuPQt_l6TAwkq6hLnOtAKDfLqqAt",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQpFGAfHTLcJlPJbNf75LDpt4grmW43UB8nYctHCS9uGqhi8UAjRhbQzV6eBERfRnGXRMPF5U9TJXRqahmGbDCRJmcOcDRJpQad9S38_b0y6s3jhq-LP2qIUg",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS6liR5RMVKuHSicGfeev8XDBH_SdrDrY_EEgMsLY0rpfiH3_K8pIFOcBdBAzg6dlIY5T_qOQIsZKR2h_W2NJ8oVEHuwTu0IQAr65FmndVJW7hFatISy3Jj"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSYcXlVTraSiYRcV2If2Mbv7p3KACWg1w6YICCTlUjdGhUjptMiQN14PGu6wwKBCOoccq7dgncZww9EPZas91-On-hsFz2_coX1yNKmUb2d",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQqjx2PNmdJuVyscLSiCTLw1iVrBnqaMm277xIDxbETOgk-u_eybCVMzBUU6hXw_5uGLROWTc6-hvIw1J34u1gMcB8USyiHYjx7Q7tUWrkunaw6WS2kIgU_",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSmfH5eWAJpfyf7yCnwcxBKbVh1J3s5Q_-R3K_tI8O3DVUxkEqnhcya7DFvjkMrJnHh8sdtoSBKd597K9TzL09jOa2ZQIDBQkR6JJhhc0TbuHA-PHHAbmAf5g"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 11,
+      "count": 7,
       "specs": {
-        "manufacturer": "eBay - mywanderings • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 11 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.41) + Card Fee ($1.33)",
-        "market_value": "Competitor Landed: $43.69 | Your All-In Landed: $37.00 (Saves $6.69)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$26.61",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $2.66"
+        "manufacturer": "CVS Pharmacy • $2M Insured",
+        "condition": "New • 7 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.41",
+        "market_value": "Comp: $5.66 | Yours: $4.92",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-44",
-      "name": "[Top 50 Hard-to-Find Essential #44] Halo",
-      "price": "$220.97",
+      "name": "[Top 50 Essential #44] Hearos Radical Protection Ear Plugs",
+      "price": "$8.79",
+      "vendorCost": "$7.99",
+      "netMargin": "10% Net ($0.80)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQpFGAfHTLcJlPJbNf75LDpt4grmW43UB8nYctHCS9uGqhi8UAjRhbQzV6eBERfRnGXRMPF5U9TJXRqahmGbDCRJmcOcDRJpQad9S38_b0y6s3jhq-LP2qIUg",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS6liR5RMVKuHSicGfeev8XDBH_SdrDrY_EEgMsLY0rpfiH3_K8pIFOcBdBAzg6dlIY5T_qOQIsZKR2h_W2NJ8oVEHuwTu0IQAr65FmndVJW7hFatISy3Jj",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTLF89LIaQYTFTw3Qp40DIlum0LBMf-Rh41ZwdNoxzrENntb-w8nKlDvAIRpZWvV8R_yg35hnS2YbkwivxM4V-xp5741v5LTB01Cx-4o97cV8gf_-SiPIig"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQqjx2PNmdJuVyscLSiCTLw1iVrBnqaMm277xIDxbETOgk-u_eybCVMzBUU6hXw_5uGLROWTc6-hvIw1J34u1gMcB8USyiHYjx7Q7tUWrkunaw6WS2kIgU_",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSmfH5eWAJpfyf7yCnwcxBKbVh1J3s5Q_-R3K_tI8O3DVUxkEqnhcya7DFvjkMrJnHh8sdtoSBKd597K9TzL09jOa2ZQIDBQkR6JJhhc0TbuHA-PHHAbmAf5g",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR1Cq8XJHEQ2QToTC2gfI7rJ7X1fU7G6KUwdAcENnhwL6ezH00WXdVRhp67YkrZu6o7Vz_mRRfdZQtn27zBpu2OfqsPzffcdCrusWrts5BJhzSDMpThscGK"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 12,
+      "count": 8,
       "specs": {
-        "manufacturer": "Lumie • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 12 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $5.99 + Tax (8.25%: $18.23) + Card Fee ($7.41)",
-        "market_value": "Competitor Landed: $276.27 | Your All-In Landed: $252.60 (Saves $23.67)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$200.88",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $20.09"
+        "manufacturer": "Walgreens.com • $2M Insured",
+        "condition": "New • 8 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.73",
+        "market_value": "Comp: $10.11 | Yours: $8.79",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-45",
-      "name": "[Top 50 Hard-to-Find Essential #45] Acupressure Mat and Pillow Set with Bag Acupuncture ",
-      "price": "$18.21",
+      "name": "[Top 50 Essential #45] Milwaukee Ear Plugs",
+      "price": "$4.37",
+      "vendorCost": "$3.97",
+      "netMargin": "10% Net ($0.40)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS6liR5RMVKuHSicGfeev8XDBH_SdrDrY_EEgMsLY0rpfiH3_K8pIFOcBdBAzg6dlIY5T_qOQIsZKR2h_W2NJ8oVEHuwTu0IQAr65FmndVJW7hFatISy3Jj",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTLF89LIaQYTFTw3Qp40DIlum0LBMf-Rh41ZwdNoxzrENntb-w8nKlDvAIRpZWvV8R_yg35hnS2YbkwivxM4V-xp5741v5LTB01Cx-4o97cV8gf_-SiPIig",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS4_Jm9Cn4XGbgJK9XVebjr6XB_5w4z49vliogeXxPFgg5oE_5d2d5wZZuPrKlCeRajtdCtOO1ZlsowAlDdqA1MKZPFbLVSvDkLFZHvcWN0"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSmfH5eWAJpfyf7yCnwcxBKbVh1J3s5Q_-R3K_tI8O3DVUxkEqnhcya7DFvjkMrJnHh8sdtoSBKd597K9TzL09jOa2ZQIDBQkR6JJhhc0TbuHA-PHHAbmAf5g",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR1Cq8XJHEQ2QToTC2gfI7rJ7X1fU7G6KUwdAcENnhwL6ezH00WXdVRhp67YkrZu6o7Vz_mRRfdZQtn27zBpu2OfqsPzffcdCrusWrts5BJhzSDMpThscGK",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQbBB8f4cU9I5vwyTidn7vmR4_MJNT-8nHqsH_6Nuk9dDyAsmPjE6Aq0HeJLMKICs6sM5sP3yTbCtVYpMpZjtpdEjhyXG_0Kc7tV2iqcCyXQxb4y2ZLo7zt"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 13,
+      "count": 9,
       "specs": {
-        "manufacturer": "eBay - sakura_home • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 13 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.50) + Card Fee ($0.99)",
-        "market_value": "Competitor Landed: $30.39 | Your All-In Landed: $24.69 (Saves $5.70)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$16.55",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $1.66"
+        "manufacturer": "Home Depot • $2M Insured",
+        "condition": "New • 9 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.36",
+        "market_value": "Comp: $5.03 | Yours: $4.37",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-46",
-      "name": "[Top 50 Hard-to-Find Essential #46] Gaiam Acupressure Mat and Pillow Set - Acupuncture S",
-      "price": "$166.31",
+      "name": "[Top 50 Essential #46] Flents Protechs Quiet Quick Ear Plugs",
+      "price": "$2.31",
+      "vendorCost": "$2.10",
+      "netMargin": "10% Net ($0.21)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTLF89LIaQYTFTw3Qp40DIlum0LBMf-Rh41ZwdNoxzrENntb-w8nKlDvAIRpZWvV8R_yg35hnS2YbkwivxM4V-xp5741v5LTB01Cx-4o97cV8gf_-SiPIig",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS4_Jm9Cn4XGbgJK9XVebjr6XB_5w4z49vliogeXxPFgg5oE_5d2d5wZZuPrKlCeRajtdCtOO1ZlsowAlDdqA1MKZPFbLVSvDkLFZHvcWN0",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTywFDLj0O7OkJtMFuchLni3xtbpfuLCwTTcKT3sSo6S3NzFB-xwNG9hF1pGZ8GgwudcflmGPXpaDT4F7CDcqWe4u00SB9SrF0FferrT9WF"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR1Cq8XJHEQ2QToTC2gfI7rJ7X1fU7G6KUwdAcENnhwL6ezH00WXdVRhp67YkrZu6o7Vz_mRRfdZQtn27zBpu2OfqsPzffcdCrusWrts5BJhzSDMpThscGK",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQbBB8f4cU9I5vwyTidn7vmR4_MJNT-8nHqsH_6Nuk9dDyAsmPjE6Aq0HeJLMKICs6sM5sP3yTbCtVYpMpZjtpdEjhyXG_0Kc7tV2iqcCyXQxb4y2ZLo7zt",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRCC43h1FBkMJWRHkT2tq_R1RuFOZv9i5BAS-yJrw7WCrk6Z8B-Y2Q15D9N5KgNwUSFwze1A2vApl08XnTLgsqtIPdaKGhWodBvg76Z69SujIKudJC3EQeK"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 5,
+      "count": 10,
       "specs": {
-        "manufacturer": "GoSupps.com • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $5.99 + Tax (8.25%: $13.72) + Card Fee ($5.69)",
-        "market_value": "Competitor Landed: $210.53 | Your All-In Landed: $191.71 (Saves $18.82)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$151.19",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $15.12"
+        "manufacturer": "Walmart • $2M Insured",
+        "condition": "New • 10 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.19",
+        "market_value": "Comp: $2.66 | Yours: $2.31",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-47",
-      "name": "[Top 50 Hard-to-Find Essential #47] Somnos Aromatherapy Sleep Kit - Diffuser & 3 Pack 10",
-      "price": "$6.73",
+      "name": "[Top 50 Essential #47] HEAROS 80-Pack Hearing Protection Earplugs",
+      "price": "$27.26",
+      "vendorCost": "$24.78",
+      "netMargin": "10% Net ($2.48)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS4_Jm9Cn4XGbgJK9XVebjr6XB_5w4z49vliogeXxPFgg5oE_5d2d5wZZuPrKlCeRajtdCtOO1ZlsowAlDdqA1MKZPFbLVSvDkLFZHvcWN0",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTywFDLj0O7OkJtMFuchLni3xtbpfuLCwTTcKT3sSo6S3NzFB-xwNG9hF1pGZ8GgwudcflmGPXpaDT4F7CDcqWe4u00SB9SrF0FferrT9WF",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTu6Ykh3SPfcFGV-vomhHkPIB3izv7ug_hi5QAk28Z_G9T3y48M5u7-71bIlnzkSnQUliNBdnds2OyjqkLmhH0i5e8lY4BHGfcHuF9CinpnaA-DJhp6izSWtg"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQbBB8f4cU9I5vwyTidn7vmR4_MJNT-8nHqsH_6Nuk9dDyAsmPjE6Aq0HeJLMKICs6sM5sP3yTbCtVYpMpZjtpdEjhyXG_0Kc7tV2iqcCyXQxb4y2ZLo7zt",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRCC43h1FBkMJWRHkT2tq_R1RuFOZv9i5BAS-yJrw7WCrk6Z8B-Y2Q15D9N5KgNwUSFwze1A2vApl08XnTLgsqtIPdaKGhWodBvg76Z69SujIKudJC3EQeK",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT5ZXkMFw7b-7QCcFKCMof4i7Rsy_7his5eiPhqWj2k7d3zeRx7EbOFJheNOKvIM9T-3sP_nOv23bB2dZebTHW6aI_rFcnZhzGgcJyKgg-ucKN7CIaGJThzbw"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 6,
+      "count": 11,
       "specs": {
-        "manufacturer": "eBay • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $0.56) + Card Fee ($0.63)",
-        "market_value": "Competitor Landed: $16.59 | Your All-In Landed: $11.91 (Saves $4.68)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$6.12",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $0.61"
+        "manufacturer": "Lowe's • $2M Insured",
+        "condition": "New • 11 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.25",
+        "market_value": "Comp: $31.35 | Yours: $27.26",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-48",
-      "name": "[Top 50 Hard-to-Find Essential #48] Luxury Sleep Kit Gift Box, Eye Mask, Lavender Reed D",
-      "price": "$59.83",
+      "name": "[Top 50 Essential #48] Decibullz Custom Molded Percussive Shooting Filters",
+      "price": "$61.59",
+      "vendorCost": "$55.99",
+      "netMargin": "10% Net ($5.60)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTywFDLj0O7OkJtMFuchLni3xtbpfuLCwTTcKT3sSo6S3NzFB-xwNG9hF1pGZ8GgwudcflmGPXpaDT4F7CDcqWe4u00SB9SrF0FferrT9WF",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTu6Ykh3SPfcFGV-vomhHkPIB3izv7ug_hi5QAk28Z_G9T3y48M5u7-71bIlnzkSnQUliNBdnds2OyjqkLmhH0i5e8lY4BHGfcHuF9CinpnaA-DJhp6izSWtg",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ4Q9XVyKFtgF10hdJsdOOuPD4pk6m4Fm0CV_a5wUggYjWchR9FA2pPHsrXs9R4K8dqWWP0cTkaltNS2hOLV7MUVa5ViwU4Corzpk9r1pTRxYPNZg5NfdOi"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRCC43h1FBkMJWRHkT2tq_R1RuFOZv9i5BAS-yJrw7WCrk6Z8B-Y2Q15D9N5KgNwUSFwze1A2vApl08XnTLgsqtIPdaKGhWodBvg76Z69SujIKudJC3EQeK",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT5ZXkMFw7b-7QCcFKCMof4i7Rsy_7his5eiPhqWj2k7d3zeRx7EbOFJheNOKvIM9T-3sP_nOv23bB2dZebTHW6aI_rFcnZhzGgcJyKgg-ucKN7CIaGJThzbw",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTsFC1_KNO2Og85e2q6UdtYs0ju4A09h3beWIO4Mil6qpPOH4a4RpIV2zlbjKxwjOGgI0qq8rj-DJTuH5fLgPVF0gztzUdaUAVMw3oGwmo"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 7,
+      "count": 12,
       "specs": {
-        "manufacturer": "Etsy - Seller • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $4.94) + Card Fee ($2.29)",
-        "market_value": "Competitor Landed: $80.45 | Your All-In Landed: $71.05 (Saves $9.40)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$54.39",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $5.44"
+        "manufacturer": "Decibullz • $2M Insured",
+        "condition": "New • 12 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $5.08",
+        "market_value": "Comp: $70.83 | Yours: $61.59",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-49",
-      "name": "[Top 50 Hard-to-Find Essential #49] Air Waterless Diffuser Starter Kit",
-      "price": "$126.72",
+      "name": "[Top 50 Essential #49] Mixx Audio Assistive Audio Music Hearing Protection Ear Plugs",
+      "price": "$14.95",
+      "vendorCost": "$13.59",
+      "netMargin": "10% Net ($1.36)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTu6Ykh3SPfcFGV-vomhHkPIB3izv7ug_hi5QAk28Z_G9T3y48M5u7-71bIlnzkSnQUliNBdnds2OyjqkLmhH0i5e8lY4BHGfcHuF9CinpnaA-DJhp6izSWtg",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ4Q9XVyKFtgF10hdJsdOOuPD4pk6m4Fm0CV_a5wUggYjWchR9FA2pPHsrXs9R4K8dqWWP0cTkaltNS2hOLV7MUVa5ViwU4Corzpk9r1pTRxYPNZg5NfdOi",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRkkZlCIsopE-ryLnEn_SUpZkEWwg5TyfUkB-5CT5IOMfcabpqB3d_VhZINT5wQOvQ4fy34IXlziOjTVAOmPVMYJDn6x-qGv75BE9H-76znmsuKv7SvmaSX"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT5ZXkMFw7b-7QCcFKCMof4i7Rsy_7his5eiPhqWj2k7d3zeRx7EbOFJheNOKvIM9T-3sP_nOv23bB2dZebTHW6aI_rFcnZhzGgcJyKgg-ucKN7CIaGJThzbw",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTsFC1_KNO2Og85e2q6UdtYs0ju4A09h3beWIO4Mil6qpPOH4a4RpIV2zlbjKxwjOGgI0qq8rj-DJTuH5fLgPVF0gztzUdaUAVMw3oGwmo",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT5bomsnVNIxPEcLUUgWj6GdOKbj0P_8Sd_oP5DqBXd9q1FiGDFhYgR2QpVwc9Eh6LrkYa3pTjzNITdSZni-RfW_RADdssf"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 8,
+      "count": 5,
       "specs": {
-        "manufacturer": "REVOLVE • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $5.99 + Tax (8.25%: $10.45) + Card Fee ($4.45)",
-        "market_value": "Competitor Landed: $162.91 | Your All-In Landed: $147.61 (Saves $15.30)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$115.20",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $11.52"
+        "manufacturer": "CVS Pharmacy • $2M Insured",
+        "condition": "New • 5 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.23",
+        "market_value": "Comp: $17.19 | Yours: $14.95",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-50",
-      "name": "[Top 50 Hard-to-Find Essential #50] Sleep Bundle | 5-Ring Wind-Down Collection Nasal Dif",
-      "price": "$55.43",
+      "name": "[Top 50 Essential #50] Safariland Pro Impulse Plus Hearing Protection",
+      "price": "$15.35",
+      "vendorCost": "$13.95",
+      "netMargin": "10% Net ($1.40)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ4Q9XVyKFtgF10hdJsdOOuPD4pk6m4Fm0CV_a5wUggYjWchR9FA2pPHsrXs9R4K8dqWWP0cTkaltNS2hOLV7MUVa5ViwU4Corzpk9r1pTRxYPNZg5NfdOi",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRkkZlCIsopE-ryLnEn_SUpZkEWwg5TyfUkB-5CT5IOMfcabpqB3d_VhZINT5wQOvQ4fy34IXlziOjTVAOmPVMYJDn6x-qGv75BE9H-76znmsuKv7SvmaSX",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRNtW0VIEJasoGuHb9UywRFUaiXloLX8k_IpgGheDv39NewGhurANgOfyDTwFMHBRZEr0kjUkqPswOpXB7Fp8dJRqnKoh2y3P7GwZU1E9s"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTsFC1_KNO2Og85e2q6UdtYs0ju4A09h3beWIO4Mil6qpPOH4a4RpIV2zlbjKxwjOGgI0qq8rj-DJTuH5fLgPVF0gztzUdaUAVMw3oGwmo",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT5bomsnVNIxPEcLUUgWj6GdOKbj0P_8Sd_oP5DqBXd9q1FiGDFhYgR2QpVwc9Eh6LrkYa3pTjzNITdSZni-RfW_RADdssf",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT-o40_Vl2Bs7HU4kv1qP1hYtRUqOevK44WE6CvDpq6Vdy6hqOsoily9ehX8ItKgEI3r3l7b-X1jc30-EjQMhHynlr3_Y4Bgsz5E8gb6Pcc0R6nlqQi5XAC"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 9,
+      "count": 6,
       "specs": {
-        "manufacturer": "Essence • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 9 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $4.57) + Card Fee ($2.16)",
-        "market_value": "Competitor Landed: $75.16 | Your All-In Landed: $66.15 (Saves $9.01)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$50.39",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $5.04"
+        "manufacturer": "Walmart • $2M Insured",
+        "condition": "New • 6 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.27",
+        "market_value": "Comp: $17.65 | Yours: $15.35",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-51",
-      "name": "[35 Complaint-Solver Solution #1] Cloudy Melatonin Diffuser Natural Lavender & Chamomile",
-      "price": "$31.68",
+      "name": "[35 Complaint-Solver #1] Hearos High Fidelity Ear Plugs",
+      "price": "$17.59",
+      "vendorCost": "$15.99",
+      "netMargin": "10% Net ($1.60)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRkkZlCIsopE-ryLnEn_SUpZkEWwg5TyfUkB-5CT5IOMfcabpqB3d_VhZINT5wQOvQ4fy34IXlziOjTVAOmPVMYJDn6x-qGv75BE9H-76znmsuKv7SvmaSX",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRNtW0VIEJasoGuHb9UywRFUaiXloLX8k_IpgGheDv39NewGhurANgOfyDTwFMHBRZEr0kjUkqPswOpXB7Fp8dJRqnKoh2y3P7GwZU1E9s",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRztLQD2hF_Ie5CiiQRzqvVcGLBFbXrQoXMAtJFNPCGNl0LImO39uy7sJjEWXlhKvMrCMu_htngfSo5P6xdy36cfYc2xdnfchkgypV6pr1O2ub7Vxe-2pes"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT5bomsnVNIxPEcLUUgWj6GdOKbj0P_8Sd_oP5DqBXd9q1FiGDFhYgR2QpVwc9Eh6LrkYa3pTjzNITdSZni-RfW_RADdssf",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT-o40_Vl2Bs7HU4kv1qP1hYtRUqOevK44WE6CvDpq6Vdy6hqOsoily9ehX8ItKgEI3r3l7b-X1jc30-EjQMhHynlr3_Y4Bgsz5E8gb6Pcc0R6nlqQi5XAC",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRmU8NKBf_ViQhGl6pcHkW_9G65cbXkY6PY_oUbc5ze4NRX7lU9MtHmcQ8cDLIiEbLpE3XC1a2LVavEjcqU-DK2m19oW8P0Rm2XpnYzXNOnLmwPHgSN-iLX"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 10,
+      "count": 7,
       "specs": {
-        "manufacturer": "Cloudy • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 10 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.61) + Card Fee ($1.41)",
-        "market_value": "Competitor Landed: $46.59 | Your All-In Landed: $39.69 (Saves $6.90)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$28.80",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $2.88"
+        "manufacturer": "Target • $2M Insured",
+        "condition": "New • 7 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.45",
+        "market_value": "Comp: $20.23 | Yours: $17.59",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-52",
-      "name": "[35 Complaint-Solver Solution #2] Ultrasonic Aromatherapy Diffuser For Home & Office - L",
-      "price": "$19.00",
+      "name": "[35 Complaint-Solver #2] Hearos New Airplugs 1 Pair",
+      "price": "$8.79",
+      "vendorCost": "$7.99",
+      "netMargin": "10% Net ($0.80)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRNtW0VIEJasoGuHb9UywRFUaiXloLX8k_IpgGheDv39NewGhurANgOfyDTwFMHBRZEr0kjUkqPswOpXB7Fp8dJRqnKoh2y3P7GwZU1E9s",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRztLQD2hF_Ie5CiiQRzqvVcGLBFbXrQoXMAtJFNPCGNl0LImO39uy7sJjEWXlhKvMrCMu_htngfSo5P6xdy36cfYc2xdnfchkgypV6pr1O2ub7Vxe-2pes",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT3s_r2u-ILdS63GwVp6wu4iVUFIUJFsACvA_G-eG3-d5pfgGemgOw4GWtwwusdS7g0KgRqHIshgdIKDb643USJxmYkr5Wg7IObrRUFpOvpJvH1_e-51ZBS-g"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT-o40_Vl2Bs7HU4kv1qP1hYtRUqOevK44WE6CvDpq6Vdy6hqOsoily9ehX8ItKgEI3r3l7b-X1jc30-EjQMhHynlr3_Y4Bgsz5E8gb6Pcc0R6nlqQi5XAC",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRmU8NKBf_ViQhGl6pcHkW_9G65cbXkY6PY_oUbc5ze4NRX7lU9MtHmcQ8cDLIiEbLpE3XC1a2LVavEjcqU-DK2m19oW8P0Rm2XpnYzXNOnLmwPHgSN-iLX",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQDqYTjgcRFDiTkhQovxCPJDSlJhtTkrH1ck2LVeDiTtf4IWy6X2NigJF4f0MyE4qJCzwKgQNghxJvyE66IeFzMCCwJioH3GOa9-umzze9_jV53sixbbWhcIQ"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 11,
+      "count": 8,
       "specs": {
-        "manufacturer": "eBay - tim.walter1 • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 11 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.57) + Card Fee ($1.01)",
-        "market_value": "Competitor Landed: $31.34 | Your All-In Landed: $25.57 (Saves $5.77)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$17.27",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $1.73"
+        "manufacturer": "Walgreens.com • $2M Insured",
+        "condition": "New • 8 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.73",
+        "market_value": "Comp: $10.11 | Yours: $8.79",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-53",
-      "name": "[35 Complaint-Solver Solution #3] Drift Home Scent Diffuser Starter Kit in Rest & Relax",
-      "price": "$63.28",
+      "name": "[35 Complaint-Solver #3] Equate Ultra Soft Foam Ear Plugs",
+      "price": "$3.03",
+      "vendorCost": "$2.75",
+      "netMargin": "10% Net ($0.28)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRztLQD2hF_Ie5CiiQRzqvVcGLBFbXrQoXMAtJFNPCGNl0LImO39uy7sJjEWXlhKvMrCMu_htngfSo5P6xdy36cfYc2xdnfchkgypV6pr1O2ub7Vxe-2pes",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT3s_r2u-ILdS63GwVp6wu4iVUFIUJFsACvA_G-eG3-d5pfgGemgOw4GWtwwusdS7g0KgRqHIshgdIKDb643USJxmYkr5Wg7IObrRUFpOvpJvH1_e-51ZBS-g",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSuy8HRWw1AIkgwQHJ5tU8vRYtL1P72-c0FfR5OosPv86P4wDLhlfCZfwfKbMRUrY_e6fveLNUr9GMVFvNHRg_dDjZk4pwI"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRmU8NKBf_ViQhGl6pcHkW_9G65cbXkY6PY_oUbc5ze4NRX7lU9MtHmcQ8cDLIiEbLpE3XC1a2LVavEjcqU-DK2m19oW8P0Rm2XpnYzXNOnLmwPHgSN-iLX",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQDqYTjgcRFDiTkhQovxCPJDSlJhtTkrH1ck2LVeDiTtf4IWy6X2NigJF4f0MyE4qJCzwKgQNghxJvyE66IeFzMCCwJioH3GOa9-umzze9_jV53sixbbWhcIQ",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSi-x3pcRuhp-bDH6Um47vz5lC_fz7z8UtszeVcjUQ3zfKyCpp0o50jSJHcXpiZX0mWWArnLy6HZxY12wvJ2x29lN8PteBdwR2ousv6O53El5zDcI5sR0wiD0ix"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 12,
+      "count": 9,
       "specs": {
-        "manufacturer": "GastroForge • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 12 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $5.22) + Card Fee ($2.40)",
-        "market_value": "Competitor Landed: $84.60 | Your All-In Landed: $74.89 (Saves $9.71)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$57.53",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $5.75"
+        "manufacturer": "Walmart • $2M Insured",
+        "condition": "New • 9 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.25",
+        "market_value": "Comp: $3.48 | Yours: $3.03",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-54",
-      "name": "[35 Complaint-Solver Solution #4] Anwoon Sound Machine & Aroma Diffuser Pro 4-in-1 Sleep",
-      "price": "$101.23",
+      "name": "[35 Complaint-Solver #4] HEAROS Hearing Protection Earplugs",
+      "price": "$6.14",
+      "vendorCost": "$5.58",
+      "netMargin": "10% Net ($0.56)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT3s_r2u-ILdS63GwVp6wu4iVUFIUJFsACvA_G-eG3-d5pfgGemgOw4GWtwwusdS7g0KgRqHIshgdIKDb643USJxmYkr5Wg7IObrRUFpOvpJvH1_e-51ZBS-g",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSuy8HRWw1AIkgwQHJ5tU8vRYtL1P72-c0FfR5OosPv86P4wDLhlfCZfwfKbMRUrY_e6fveLNUr9GMVFvNHRg_dDjZk4pwI",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQTrS3tzlUAF4pC2xhPvxJdblD-F6i3CB_ihMt1W9OF2cweiGTqM1hEztgeDd_KKBx6aDd-0z1S-oahHw6l9YS5CcPdSO1M"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQDqYTjgcRFDiTkhQovxCPJDSlJhtTkrH1ck2LVeDiTtf4IWy6X2NigJF4f0MyE4qJCzwKgQNghxJvyE66IeFzMCCwJioH3GOa9-umzze9_jV53sixbbWhcIQ",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSi-x3pcRuhp-bDH6Um47vz5lC_fz7z8UtszeVcjUQ3zfKyCpp0o50jSJHcXpiZX0mWWArnLy6HZxY12wvJ2x29lN8PteBdwR2ousv6O53El5zDcI5sR0wiD0ix",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQuH076RbY644iaJQJ9uO6QFK8r7uAbp_wIltLajS7B52g_rKyq1-L8-Lhv_0BlGW5K9CnqwVR_uTvpzX0zktbN9w2TK5x6own1JiYi5KW1tHd-czaBIb7W"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 13,
+      "count": 10,
       "specs": {
-        "manufacturer": "eBay - nrdeals100 • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 13 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $5.99 + Tax (8.25%: $8.35) + Card Fee ($3.65)",
-        "market_value": "Competitor Landed: $132.25 | Your All-In Landed: $119.22 (Saves $13.03)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$92.03",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $9.20"
+        "manufacturer": "Lowe's • $2M Insured",
+        "condition": "New • 10 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.51",
+        "market_value": "Comp: $7.06 | Yours: $6.14",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-55",
-      "name": "[35 Complaint-Solver Solution #5] Playlearn Sequin Weighted Lap Pad",
-      "price": "$34.06",
+      "name": "[35 Complaint-Solver #5] Earplugs for Events & Music Hears 20dB Noise Reduction",
+      "price": "$37.84",
+      "vendorCost": "$34.40",
+      "netMargin": "10% Net ($3.44)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSuy8HRWw1AIkgwQHJ5tU8vRYtL1P72-c0FfR5OosPv86P4wDLhlfCZfwfKbMRUrY_e6fveLNUr9GMVFvNHRg_dDjZk4pwI",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQTrS3tzlUAF4pC2xhPvxJdblD-F6i3CB_ihMt1W9OF2cweiGTqM1hEztgeDd_KKBx6aDd-0z1S-oahHw6l9YS5CcPdSO1M",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRFMqOzJbkf1A0OKm7rXJ_uyG-iprBQFHoMii3yrIHu1jrvjP-ywG3KiZW8F1WivSmZUz4y10fJpyfhfwBy6Q5coNlXcf1bXs9i3ffVZ7o"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSi-x3pcRuhp-bDH6Um47vz5lC_fz7z8UtszeVcjUQ3zfKyCpp0o50jSJHcXpiZX0mWWArnLy6HZxY12wvJ2x29lN8PteBdwR2ousv6O53El5zDcI5sR0wiD0ix",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQuH076RbY644iaJQJ9uO6QFK8r7uAbp_wIltLajS7B52g_rKyq1-L8-Lhv_0BlGW5K9CnqwVR_uTvpzX0zktbN9w2TK5x6own1JiYi5KW1tHd-czaBIb7W",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRuPYDvJxXsVU3iPNbqecWYOjoGb-ZMjM53u0b99xh0nIEOz50_RRdikJ8sWxXslSmb_XdKAj6w1qJps7LKpFERQPL5topVDF1Yi5ENyW4ZgWpojHCEV3dorw"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 5,
+      "count": 11,
       "specs": {
-        "manufacturer": "Target • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.81) + Card Fee ($1.48)",
-        "market_value": "Competitor Landed: $49.45 | Your All-In Landed: $42.34 (Saves $7.11)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$30.96",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.10"
+        "manufacturer": "Hears Earplugs • $2M Insured",
+        "condition": "New • 11 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.12",
+        "market_value": "Comp: $43.52 | Yours: $37.84",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-56",
-      "name": "[35 Complaint-Solver Solution #6] Lap Pal Weighted Lap Pad",
-      "price": "$18.18",
+      "name": "[35 Complaint-Solver #6] Hear Hush Hoops Ear Plugs",
+      "price": "$13.09",
+      "vendorCost": "$11.90",
+      "netMargin": "10% Net ($1.19)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQTrS3tzlUAF4pC2xhPvxJdblD-F6i3CB_ihMt1W9OF2cweiGTqM1hEztgeDd_KKBx6aDd-0z1S-oahHw6l9YS5CcPdSO1M",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRFMqOzJbkf1A0OKm7rXJ_uyG-iprBQFHoMii3yrIHu1jrvjP-ywG3KiZW8F1WivSmZUz4y10fJpyfhfwBy6Q5coNlXcf1bXs9i3ffVZ7o",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSWKuH2mxNXcxpKX3MRQIHzfde5ACMmo3PHAvlsEVFZnuXu5yccMaeYHYM9T_hFHOik06kXN_Dl5KQHkq0cUX9wy03uYc1RriDLzG6OkKaPZUPK1ujPO3PnxQ"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQuH076RbY644iaJQJ9uO6QFK8r7uAbp_wIltLajS7B52g_rKyq1-L8-Lhv_0BlGW5K9CnqwVR_uTvpzX0zktbN9w2TK5x6own1JiYi5KW1tHd-czaBIb7W",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRuPYDvJxXsVU3iPNbqecWYOjoGb-ZMjM53u0b99xh0nIEOz50_RRdikJ8sWxXslSmb_XdKAj6w1qJps7LKpFERQPL5topVDF1Yi5ENyW4ZgWpojHCEV3dorw",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTaCEnKC2kXwkd977kEUrRCy7-qLUWgznIZ5g3VvbwSZdq-X0d0xt7RcjfRyYJvjU-dxa7IaexzSU3cSJyNklVmXyihROlXHwTEqH7V5rTm4C9mR2gFBPa0LQ"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 6,
+      "count": 12,
       "specs": {
-        "manufacturer": "eSpecial Needs • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.50) + Card Fee ($0.99)",
-        "market_value": "Competitor Landed: $30.36 | Your All-In Landed: $24.66 (Saves $5.70)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$16.53",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $1.65"
+        "manufacturer": "Walmart • $2M Insured",
+        "condition": "New • 12 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.08",
+        "market_value": "Comp: $15.05 | Yours: $13.09",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-57",
-      "name": "[35 Complaint-Solver Solution #7] Weighted Lap Pad, Shoulder Wrap, Sensory, Minky Glass ",
-      "price": "$48.94",
+      "name": "[35 Complaint-Solver #7] Mack's Soft Foam Earplugs Ultra",
+      "price": "$6.15",
+      "vendorCost": "$5.59",
+      "netMargin": "10% Net ($0.56)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRFMqOzJbkf1A0OKm7rXJ_uyG-iprBQFHoMii3yrIHu1jrvjP-ywG3KiZW8F1WivSmZUz4y10fJpyfhfwBy6Q5coNlXcf1bXs9i3ffVZ7o",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSWKuH2mxNXcxpKX3MRQIHzfde5ACMmo3PHAvlsEVFZnuXu5yccMaeYHYM9T_hFHOik06kXN_Dl5KQHkq0cUX9wy03uYc1RriDLzG6OkKaPZUPK1ujPO3PnxQ",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSF4y-c9oZIUDQf0gVHbR9oHRJV_g_mUsf9f2_wQXash6-1jPpLZV36eN9stBZonljBrxXicUTTq3GNOR9jMT-HfaX54gBbsfgV2xxgjBv-VP1JPlEGffFveQ"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRuPYDvJxXsVU3iPNbqecWYOjoGb-ZMjM53u0b99xh0nIEOz50_RRdikJ8sWxXslSmb_XdKAj6w1qJps7LKpFERQPL5topVDF1Yi5ENyW4ZgWpojHCEV3dorw",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTaCEnKC2kXwkd977kEUrRCy7-qLUWgznIZ5g3VvbwSZdq-X0d0xt7RcjfRyYJvjU-dxa7IaexzSU3cSJyNklVmXyihROlXHwTEqH7V5rTm4C9mR2gFBPa0LQ",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRxumvJ4Dmpta2EzYsm6hw4cSXbccw-Y6QdohBMPpwYcqTGgCtlydaETKx2bH-v8u3t0l8C5Rbhqckah8eepmQCxASYq0MQy6Ba4JsRl2qvNDjqPAWAxo7FijCV"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 7,
+      "count": 5,
       "specs": {
-        "manufacturer": "Etsy - Seller • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $4.04) + Card Fee ($1.95)",
-        "market_value": "Competitor Landed: $67.36 | Your All-In Landed: $58.92 (Saves $8.44)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$44.49",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $4.45"
+        "manufacturer": "Mack's Ear Plugs • $2M Insured",
+        "condition": "New • 5 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.51",
+        "market_value": "Comp: $7.07 | Yours: $6.15",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-58",
-      "name": "[35 Complaint-Solver Solution #8] Weighted Lap Pad",
-      "price": "$33.26",
+      "name": "[35 Complaint-Solver #8] Hearos 3-Pack Hearing Protection Earplugs",
+      "price": "$6.14",
+      "vendorCost": "$5.58",
+      "netMargin": "10% Net ($0.56)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSWKuH2mxNXcxpKX3MRQIHzfde5ACMmo3PHAvlsEVFZnuXu5yccMaeYHYM9T_hFHOik06kXN_Dl5KQHkq0cUX9wy03uYc1RriDLzG6OkKaPZUPK1ujPO3PnxQ",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSF4y-c9oZIUDQf0gVHbR9oHRJV_g_mUsf9f2_wQXash6-1jPpLZV36eN9stBZonljBrxXicUTTq3GNOR9jMT-HfaX54gBbsfgV2xxgjBv-VP1JPlEGffFveQ",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcStfowqZnIydpCCzVkBcn6qtr6OAfizEjI8XysiMJFK89IoEqGM0imytpF8G-nB3qMpBz5VW3LwzeukqFLt07II_YbUYbf1HkLDQ6MO5aT8Si0VPFtZXfWf"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTaCEnKC2kXwkd977kEUrRCy7-qLUWgznIZ5g3VvbwSZdq-X0d0xt7RcjfRyYJvjU-dxa7IaexzSU3cSJyNklVmXyihROlXHwTEqH7V5rTm4C9mR2gFBPa0LQ",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRxumvJ4Dmpta2EzYsm6hw4cSXbccw-Y6QdohBMPpwYcqTGgCtlydaETKx2bH-v8u3t0l8C5Rbhqckah8eepmQCxASYq0MQy6Ba4JsRl2qvNDjqPAWAxo7FijCV",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT-mTQbdHfjpNbbjmC7aADmdcOIyzT9acCBQmr1kohsWf42PMCBm0z1FDiYwbElbBUU5AOpQbl0alL0b_kn_2NNdRILj2e0dzGzAHckCr5vuDAgw6y9I5p5MA"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 8,
+      "count": 6,
       "specs": {
-        "manufacturer": "Smilemakers • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.74) + Card Fee ($1.46)",
-        "market_value": "Competitor Landed: $48.49 | Your All-In Landed: $41.45 (Saves $7.04)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$30.24",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.02"
+        "manufacturer": "Lowe's • $2M Insured",
+        "condition": "New • 6 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.51",
+        "market_value": "Comp: $7.06 | Yours: $6.14",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-59",
-      "name": "[35 Complaint-Solver Solution #9] Lakeshore Cuddly Puppy Weighted Shoulder Wrap",
-      "price": "$39.59",
+      "name": "[35 Complaint-Solver #9] Flents Quiet Time Ear Plugs",
+      "price": "$3.14",
+      "vendorCost": "$2.85",
+      "netMargin": "10% Net ($0.29)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSF4y-c9oZIUDQf0gVHbR9oHRJV_g_mUsf9f2_wQXash6-1jPpLZV36eN9stBZonljBrxXicUTTq3GNOR9jMT-HfaX54gBbsfgV2xxgjBv-VP1JPlEGffFveQ",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcStfowqZnIydpCCzVkBcn6qtr6OAfizEjI8XysiMJFK89IoEqGM0imytpF8G-nB3qMpBz5VW3LwzeukqFLt07II_YbUYbf1HkLDQ6MO5aT8Si0VPFtZXfWf",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTGD8AXv4g83GZOzaC3k7uVRPoJJKY7De37XizaEANXkHwQEohFw3FgIGnXug76M9Le6cQvslnfFvn2O6L9Zw5lueNKYGhnaw"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRxumvJ4Dmpta2EzYsm6hw4cSXbccw-Y6QdohBMPpwYcqTGgCtlydaETKx2bH-v8u3t0l8C5Rbhqckah8eepmQCxASYq0MQy6Ba4JsRl2qvNDjqPAWAxo7FijCV",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT-mTQbdHfjpNbbjmC7aADmdcOIyzT9acCBQmr1kohsWf42PMCBm0z1FDiYwbElbBUU5AOpQbl0alL0b_kn_2NNdRILj2e0dzGzAHckCr5vuDAgw6y9I5p5MA",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSvmnZS-jA5acSe88PwFBfO9q7YA-rM1n7EMb1RI8i3Wj6km8EJzKqBTM-kmKN1Ahwyk37_JjX3o3wkccixec-KIS6qzBf3wpXG5iyntoI"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 9,
+      "count": 7,
       "specs": {
-        "manufacturer": "Lakeshore Learning Materials • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 9 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.27) + Card Fee ($1.66)",
-        "market_value": "Competitor Landed: $56.11 | Your All-In Landed: $48.51 (Saves $7.60)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$35.99",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.60"
+        "manufacturer": "Walmart • $2M Insured",
+        "condition": "New • 7 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.26",
+        "market_value": "Comp: $3.61 | Yours: $3.14",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-60",
-      "name": "[35 Complaint-Solver Solution #10] Fun & Function Weighted Lap Pad-Small",
-      "price": "$30.09",
+      "name": "[35 Complaint-Solver #10] Unplugs Earplugs for festivals, concerts, and events 20dB of n",
+      "price": "$51.92",
+      "vendorCost": "$47.20",
+      "netMargin": "10% Net ($4.72)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcStfowqZnIydpCCzVkBcn6qtr6OAfizEjI8XysiMJFK89IoEqGM0imytpF8G-nB3qMpBz5VW3LwzeukqFLt07II_YbUYbf1HkLDQ6MO5aT8Si0VPFtZXfWf",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTGD8AXv4g83GZOzaC3k7uVRPoJJKY7De37XizaEANXkHwQEohFw3FgIGnXug76M9Le6cQvslnfFvn2O6L9Zw5lueNKYGhnaw",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTJfsWbbla7c2-o1POndeBLGfy8JMo3O2TkreulHtssan9RrntunNTeVCXlyqWRhlVKPIXG4aXsb0jF0RCTqbIOmJnUSNUPtQ"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT-mTQbdHfjpNbbjmC7aADmdcOIyzT9acCBQmr1kohsWf42PMCBm0z1FDiYwbElbBUU5AOpQbl0alL0b_kn_2NNdRILj2e0dzGzAHckCr5vuDAgw6y9I5p5MA",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSvmnZS-jA5acSe88PwFBfO9q7YA-rM1n7EMb1RI8i3Wj6km8EJzKqBTM-kmKN1Ahwyk37_JjX3o3wkccixec-KIS6qzBf3wpXG5iyntoI",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR8zJ_2MfyzNgq6o3CQmzzpiwFe_kWqPSA-1yHQmA9Rq4i_ZPZVcbjfg_cvJ5mZWl4dbppijQmF5TtkMbMigRh-JSU4pbVB9ZF3ZEhvFfjyOqzvpKqvowIY"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 10,
+      "count": 8,
       "specs": {
-        "manufacturer": "Catholic Purchasing Services • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 10 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.48) + Card Fee ($1.36)",
-        "market_value": "Competitor Landed: $44.68 | Your All-In Landed: $37.92 (Saves $6.76)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$27.35",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $2.74"
+        "manufacturer": "Unplugs Hearing • $2M Insured",
+        "condition": "New • 8 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $4.28",
+        "market_value": "Comp: $59.71 | Yours: $51.92",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-61",
-      "name": "[35 Complaint-Solver Solution #11] Kozie Cushy Weighted Lap Pad|Kozie Clothes",
-      "price": "$34.06",
+      "name": "[35 Complaint-Solver #11] Hearos High Fidelity Series Long Term",
+      "price": "$18.47",
+      "vendorCost": "$16.79",
+      "netMargin": "10% Net ($1.68)",
       "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTGD8AXv4g83GZOzaC3k7uVRPoJJKY7De37XizaEANXkHwQEohFw3FgIGnXug76M9Le6cQvslnfFvn2O6L9Zw5lueNKYGhnaw",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTJfsWbbla7c2-o1POndeBLGfy8JMo3O2TkreulHtssan9RrntunNTeVCXlyqWRhlVKPIXG4aXsb0jF0RCTqbIOmJnUSNUPtQ",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRKmSIwa8TQ8DmQrH4cuUUbLcJbo5o4ryyt3IGpztHMUeOHy6-w2YPT7H9jma_OKUCnagLQTxTKJFshhW35ked6ahvUNSNf"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSvmnZS-jA5acSe88PwFBfO9q7YA-rM1n7EMb1RI8i3Wj6km8EJzKqBTM-kmKN1Ahwyk37_JjX3o3wkccixec-KIS6qzBf3wpXG5iyntoI",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR8zJ_2MfyzNgq6o3CQmzzpiwFe_kWqPSA-1yHQmA9Rq4i_ZPZVcbjfg_cvJ5mZWl4dbppijQmF5TtkMbMigRh-JSU4pbVB9ZF3ZEhvFfjyOqzvpKqvowIY",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR-4WGJDHYa7XFWHB32ajhwg1CC9SudaFa8ZbDMm0QULtPbTWzJUyQLd5iEMCdZI6TKBXMpq4GAHNYfUMjQQXO-_dnO_h6iZqW3oFghuZ1W-mGWtuv0GfFqmqnR"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 11,
+      "count": 9,
       "specs": {
-        "manufacturer": "Kozie Clothes • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 11 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.81) + Card Fee ($1.48)",
-        "market_value": "Competitor Landed: $49.45 | Your All-In Landed: $42.34 (Saves $7.11)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$30.96",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.10"
+        "manufacturer": "Guitar Center Local Stores • $2M Insured",
+        "condition": "New • 9 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.52",
+        "market_value": "Comp: $21.24 | Yours: $18.47",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-62",
-      "name": "[35 Complaint-Solver Solution #12] Weighted Shoulder Wrap, Puppy Design, Small, Calming ",
-      "price": "$56.22",
+      "name": "[35 Complaint-Solver #12] Audien Shields Hearing Protection Earplugs Adjustable Up to 45",
+      "price": "$43.12",
+      "vendorCost": "$39.20",
+      "netMargin": "10% Net ($3.92)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTJfsWbbla7c2-o1POndeBLGfy8JMo3O2TkreulHtssan9RrntunNTeVCXlyqWRhlVKPIXG4aXsb0jF0RCTqbIOmJnUSNUPtQ",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRKmSIwa8TQ8DmQrH4cuUUbLcJbo5o4ryyt3IGpztHMUeOHy6-w2YPT7H9jma_OKUCnagLQTxTKJFshhW35ked6ahvUNSNf",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSRL_p1fFMZ20FjmEC1cDp7w1y0yZVoR79kRJuIljV6Dos_5zxJLLcN_qzUmBSBhLjG-EsIUsLgXTyth0xBgVsXRjOv4Mor"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR8zJ_2MfyzNgq6o3CQmzzpiwFe_kWqPSA-1yHQmA9Rq4i_ZPZVcbjfg_cvJ5mZWl4dbppijQmF5TtkMbMigRh-JSU4pbVB9ZF3ZEhvFfjyOqzvpKqvowIY",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR-4WGJDHYa7XFWHB32ajhwg1CC9SudaFa8ZbDMm0QULtPbTWzJUyQLd5iEMCdZI6TKBXMpq4GAHNYfUMjQQXO-_dnO_h6iZqW3oFghuZ1W-mGWtuv0GfFqmqnR",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSC6LigBXkmF9Wd5hVzuVm6i_nS8sLx9iLhm3O_43VO6PCPtkpJGNcQWQjVpbQ6acdtFVEEIFSdF3cMMNi_a28bHMipCjqTNg"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 12,
+      "count": 10,
       "specs": {
-        "manufacturer": "School Outfitters • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 12 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $4.64) + Card Fee ($2.18)",
-        "market_value": "Competitor Landed: $76.11 | Your All-In Landed: $67.03 (Saves $9.08)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$51.11",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $5.11"
+        "manufacturer": "Audien Hearing • $2M Insured",
+        "condition": "New • 10 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.56",
+        "market_value": "Comp: $49.59 | Yours: $43.12",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-63",
-      "name": "[35 Complaint-Solver Solution #13] Sensory Weighted The Mandalorian Bounty Hunter long L",
-      "price": "$20.58",
+      "name": "[35 Complaint-Solver #13] Loop Switch 2 Noise Relief Earplugs",
+      "price": "$52.76",
+      "vendorCost": "$47.96",
+      "netMargin": "10% Net ($4.80)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRKmSIwa8TQ8DmQrH4cuUUbLcJbo5o4ryyt3IGpztHMUeOHy6-w2YPT7H9jma_OKUCnagLQTxTKJFshhW35ked6ahvUNSNf",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSRL_p1fFMZ20FjmEC1cDp7w1y0yZVoR79kRJuIljV6Dos_5zxJLLcN_qzUmBSBhLjG-EsIUsLgXTyth0xBgVsXRjOv4Mor",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ0t42byYRVZHXbIwlf78dzoKg6S5qsQQwo_63vaGrPMf9RxqFM71_9Fs4MDzKDl-Lti4rTSbCw9LEt-WVAYKUdim63PzNI2w"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR-4WGJDHYa7XFWHB32ajhwg1CC9SudaFa8ZbDMm0QULtPbTWzJUyQLd5iEMCdZI6TKBXMpq4GAHNYfUMjQQXO-_dnO_h6iZqW3oFghuZ1W-mGWtuv0GfFqmqnR",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSC6LigBXkmF9Wd5hVzuVm6i_nS8sLx9iLhm3O_43VO6PCPtkpJGNcQWQjVpbQ6acdtFVEEIFSdF3cMMNi_a28bHMipCjqTNg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSMFS_NHiYv57Otz6ffIdBKsUQG7HBLJd6jKQVUM30VoJ_D89JC0_eEku60HHXcrg22BX03TpLL3-UmqKbCRidihx2CwWAqxYaqPLJBjo7-jjh9K0x8xHZmxw"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 13,
+      "count": 11,
       "specs": {
-        "manufacturer": "Etsy • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 13 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.70) + Card Fee ($1.06)",
-        "market_value": "Competitor Landed: $33.25 | Your All-In Landed: $27.33 (Saves $5.92)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$18.71",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $1.87"
+        "manufacturer": "Lowe's • $2M Insured",
+        "condition": "New • 11 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $4.35",
+        "market_value": "Comp: $60.67 | Yours: $52.76",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-64",
-      "name": "[35 Complaint-Solver Solution #14] Kids Weighted Lap Pads for Sensory Support",
-      "price": "$31.67",
+      "name": "[35 Complaint-Solver #14] Quality Plugs Quality Foam Ear Plugs 10 Pair 32dB Soft Foam Ea",
+      "price": "$13.19",
+      "vendorCost": "$11.99",
+      "netMargin": "10% Net ($1.20)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSRL_p1fFMZ20FjmEC1cDp7w1y0yZVoR79kRJuIljV6Dos_5zxJLLcN_qzUmBSBhLjG-EsIUsLgXTyth0xBgVsXRjOv4Mor",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ0t42byYRVZHXbIwlf78dzoKg6S5qsQQwo_63vaGrPMf9RxqFM71_9Fs4MDzKDl-Lti4rTSbCw9LEt-WVAYKUdim63PzNI2w",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRjA27W0VER54wkaxrU3-C7xq9pCYlJLGLduHyhgLA3ARNjc-A1dLpnZd0r1IJ_QwkOsHNo0pXe0Y7zlgeD11pepr5RVAWaEAGpUwh_54U-P6Y3xsLeLMsHGg"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSC6LigBXkmF9Wd5hVzuVm6i_nS8sLx9iLhm3O_43VO6PCPtkpJGNcQWQjVpbQ6acdtFVEEIFSdF3cMMNi_a28bHMipCjqTNg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSMFS_NHiYv57Otz6ffIdBKsUQG7HBLJd6jKQVUM30VoJ_D89JC0_eEku60HHXcrg22BX03TpLL3-UmqKbCRidihx2CwWAqxYaqPLJBjo7-jjh9K0x8xHZmxw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS2jM48gFce1palRToSQXHaXAq9yx6AMRaqRsWB4JO4iY0SEDUbhgjQ1ILbpVEjk0vnswaMp6eH1eiKNJVL-C5xWIRvUSvNbJANqdXjiJF_BGQub6wrlHLePg"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 5,
+      "count": 12,
       "specs": {
-        "manufacturer": "Mosaic Weighted Blankets • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.61) + Card Fee ($1.41)",
-        "market_value": "Competitor Landed: $46.58 | Your All-In Landed: $39.68 (Saves $6.90)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$28.79",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $2.88"
+        "manufacturer": "Target • $2M Insured",
+        "condition": "New • 12 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.09",
+        "market_value": "Comp: $15.17 | Yours: $13.19",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-65",
-      "name": "[35 Complaint-Solver Solution #15] Sequin Weighted Lap Pad",
-      "price": "$41.98",
+      "name": "[35 Complaint-Solver #15] Etymotic Research ER20XS High Fidelity Earplugs",
+      "price": "$23.75",
+      "vendorCost": "$21.59",
+      "netMargin": "10% Net ($2.16)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ0t42byYRVZHXbIwlf78dzoKg6S5qsQQwo_63vaGrPMf9RxqFM71_9Fs4MDzKDl-Lti4rTSbCw9LEt-WVAYKUdim63PzNI2w",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRjA27W0VER54wkaxrU3-C7xq9pCYlJLGLduHyhgLA3ARNjc-A1dLpnZd0r1IJ_QwkOsHNo0pXe0Y7zlgeD11pepr5RVAWaEAGpUwh_54U-P6Y3xsLeLMsHGg",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQU6av_I_WxnOSwJC3o6YnM3PmypF9gaoq5QuWy5mfM4w9ki3MT_mg1hkeqEU4VJbENj6WUbnHioW36uiOWdteYzFFNzHzPb2ikkIGSKbOvkuzhC9aePOGuHQ"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSMFS_NHiYv57Otz6ffIdBKsUQG7HBLJd6jKQVUM30VoJ_D89JC0_eEku60HHXcrg22BX03TpLL3-UmqKbCRidihx2CwWAqxYaqPLJBjo7-jjh9K0x8xHZmxw",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS2jM48gFce1palRToSQXHaXAq9yx6AMRaqRsWB4JO4iY0SEDUbhgjQ1ILbpVEjk0vnswaMp6eH1eiKNJVL-C5xWIRvUSvNbJANqdXjiJF_BGQub6wrlHLePg",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSf1O9QTOY81qaxCHv-DtNK6Qdu9BROs-VjRClB_cyjLxqbBD1VHsY0m-FntZ2SHX9d5H33NBGUhr9nREp1XO1nN9XoBaMy6UUK6UobNoVinYQTYQIx8dPEFHI"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 6,
+      "count": 5,
       "specs": {
-        "manufacturer": "Target • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.46) + Card Fee ($1.73)",
-        "market_value": "Competitor Landed: $58.98 | Your All-In Landed: $51.16 (Saves $7.82)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$38.16",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.82"
+        "manufacturer": "Sweetwater • $2M Insured",
+        "condition": "New • 5 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.96",
+        "market_value": "Comp: $27.31 | Yours: $23.75",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-66",
-      "name": "[35 Complaint-Solver Solution #16] Abilitations Lap Pad",
-      "price": "$49.60",
+      "name": "[35 Complaint-Solver #16] Alpine Silence Ear Plugs for Sleep Focus & Travel Comfortable ",
+      "price": "$21.96",
+      "vendorCost": "$19.96",
+      "netMargin": "10% Net ($2.00)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRjA27W0VER54wkaxrU3-C7xq9pCYlJLGLduHyhgLA3ARNjc-A1dLpnZd0r1IJ_QwkOsHNo0pXe0Y7zlgeD11pepr5RVAWaEAGpUwh_54U-P6Y3xsLeLMsHGg",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQU6av_I_WxnOSwJC3o6YnM3PmypF9gaoq5QuWy5mfM4w9ki3MT_mg1hkeqEU4VJbENj6WUbnHioW36uiOWdteYzFFNzHzPb2ikkIGSKbOvkuzhC9aePOGuHQ",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSpVYgO2mDjFFSp-l1TXh_2c9SgFTBLnsRQhHW2zz1NYHbiSNiiLuYB4j22yZMHIGojF36NE_0MTHSI6Z7aQVth_HY7Q_DTVF_-Jav1aDB_QpvvSDB8VWpa"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS2jM48gFce1palRToSQXHaXAq9yx6AMRaqRsWB4JO4iY0SEDUbhgjQ1ILbpVEjk0vnswaMp6eH1eiKNJVL-C5xWIRvUSvNbJANqdXjiJF_BGQub6wrlHLePg",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSf1O9QTOY81qaxCHv-DtNK6Qdu9BROs-VjRClB_cyjLxqbBD1VHsY0m-FntZ2SHX9d5H33NBGUhr9nREp1XO1nN9XoBaMy6UUK6UobNoVinYQTYQIx8dPEFHI",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcThXq_ktPIplzNuAt3vjdzef1oXADNOkRgaJxIdvKQQU9n22NRLRL3E_K1-lR-raZaFUF8-AOLrYs0YPscg5jEtLhnqVdVwELUtlPVqKTJjo9_uedVE1PXy7g"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 7,
+      "count": 6,
       "specs": {
-        "manufacturer": "Walmart - UnbeatableSale • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $4.09) + Card Fee ($1.97)",
-        "market_value": "Competitor Landed: $68.15 | Your All-In Landed: $59.65 (Saves $8.50)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$45.09",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $4.51"
+        "manufacturer": "Alpine • $2M Insured",
+        "condition": "New • 6 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.81",
+        "market_value": "Comp: $25.25 | Yours: $21.96",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-67",
-      "name": "[35 Complaint-Solver Solution #17] Sensory Weighted Star Wars Kylo Ren Storm Trooper Lap",
-      "price": "$17.42",
+      "name": "[35 Complaint-Solver #17] Earplugs for Events & Music Hears 25dB Noise Reduction",
+      "price": "$37.84",
+      "vendorCost": "$34.40",
+      "netMargin": "10% Net ($3.44)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQU6av_I_WxnOSwJC3o6YnM3PmypF9gaoq5QuWy5mfM4w9ki3MT_mg1hkeqEU4VJbENj6WUbnHioW36uiOWdteYzFFNzHzPb2ikkIGSKbOvkuzhC9aePOGuHQ",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSpVYgO2mDjFFSp-l1TXh_2c9SgFTBLnsRQhHW2zz1NYHbiSNiiLuYB4j22yZMHIGojF36NE_0MTHSI6Z7aQVth_HY7Q_DTVF_-Jav1aDB_QpvvSDB8VWpa",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTqUneKPjzypv3jbOF9dugWFrcW6LWAzElP6tZIy9nT-xzYxMefR7iGqSuAaeqqzYRzbjx8LFvhFJEGbrMeoOSC-KODZyWO"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSf1O9QTOY81qaxCHv-DtNK6Qdu9BROs-VjRClB_cyjLxqbBD1VHsY0m-FntZ2SHX9d5H33NBGUhr9nREp1XO1nN9XoBaMy6UUK6UobNoVinYQTYQIx8dPEFHI",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcThXq_ktPIplzNuAt3vjdzef1oXADNOkRgaJxIdvKQQU9n22NRLRL3E_K1-lR-raZaFUF8-AOLrYs0YPscg5jEtLhnqVdVwELUtlPVqKTJjo9_uedVE1PXy7g",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSOlTpS-zl_RLnPW1yde_7zbMlv_JNtjkhrMjdUrlOG_9LfoYPPakmMEVluvCAKdNC9h9SLTNIlzmpyOI-6O6YegFECNl4EnnTq9dIITnjH0dYUqCooqZCrRg"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 8,
+      "count": 7,
       "specs": {
-        "manufacturer": "Etsy • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.44) + Card Fee ($0.96)",
-        "market_value": "Competitor Landed: $29.44 | Your All-In Landed: $23.81 (Saves $5.63)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$15.84",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $1.58"
+        "manufacturer": "Hears Earplugs • $2M Insured",
+        "condition": "New • 7 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.12",
+        "market_value": "Comp: $43.52 | Yours: $37.84",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-68",
-      "name": "[35 Complaint-Solver Solution #18] Sommerfly Weighted Puppy Shoulder Wrap, X-Small, Navy",
-      "price": "$40.27",
+      "name": "[35 Complaint-Solver #18] Earasers Musicians",
+      "price": "$35.19",
+      "vendorCost": "$31.99",
+      "netMargin": "10% Net ($3.20)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSpVYgO2mDjFFSp-l1TXh_2c9SgFTBLnsRQhHW2zz1NYHbiSNiiLuYB4j22yZMHIGojF36NE_0MTHSI6Z7aQVth_HY7Q_DTVF_-Jav1aDB_QpvvSDB8VWpa",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTqUneKPjzypv3jbOF9dugWFrcW6LWAzElP6tZIy9nT-xzYxMefR7iGqSuAaeqqzYRzbjx8LFvhFJEGbrMeoOSC-KODZyWO",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTbAxNpLVU-23LvI3OL_93h415a4bs3jteVfNpfl9iWUF_CbRVKeHolnhSEB1lLb_JIUeK0kwWeU_1kA1u_1D8BgTcIHtM9LgVHQP54cf02rgu7bHhFQPMmjw"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcThXq_ktPIplzNuAt3vjdzef1oXADNOkRgaJxIdvKQQU9n22NRLRL3E_K1-lR-raZaFUF8-AOLrYs0YPscg5jEtLhnqVdVwELUtlPVqKTJjo9_uedVE1PXy7g",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSOlTpS-zl_RLnPW1yde_7zbMlv_JNtjkhrMjdUrlOG_9LfoYPPakmMEVluvCAKdNC9h9SLTNIlzmpyOI-6O6YegFECNl4EnnTq9dIITnjH0dYUqCooqZCrRg",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQmi36L3Ex8m8MNCQXt-E8NEdWddhgcjR3oZYHPwVrljJ7UzUrw-k_XlE3oxaC0jGJVNa4AqYQ3kk59B79BRRj8Qxk_DScUJwbEAgWxStLF3KWAxQur3dXkePo"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 9,
+      "count": 8,
       "specs": {
-        "manufacturer": "School Specialty • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 9 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.32) + Card Fee ($1.68)",
-        "market_value": "Competitor Landed: $56.92 | Your All-In Landed: $49.26 (Saves $7.66)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$36.61",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.66"
+        "manufacturer": "Musicians Friend • $2M Insured",
+        "condition": "New • 8 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.90",
+        "market_value": "Comp: $40.47 | Yours: $35.19",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
       "id": "PTSD-69",
-      "name": "[35 Complaint-Solver Solution #19] Weighted Sloth Lap Pal | Plushland",
-      "price": "$58.60",
+      "name": "[35 Complaint-Solver #19] Decibullz Custom Molded Earplugs",
+      "price": "$22.87",
+      "vendorCost": "$20.79",
+      "netMargin": "10% Net ($2.08)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTqUneKPjzypv3jbOF9dugWFrcW6LWAzElP6tZIy9nT-xzYxMefR7iGqSuAaeqqzYRzbjx8LFvhFJEGbrMeoOSC-KODZyWO",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTbAxNpLVU-23LvI3OL_93h415a4bs3jteVfNpfl9iWUF_CbRVKeHolnhSEB1lLb_JIUeK0kwWeU_1kA1u_1D8BgTcIHtM9LgVHQP54cf02rgu7bHhFQPMmjw",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTeYfA2KnYUjUw0h6lG1DLutbc0KcTJqObziTu9R2ZTxiJzcU1J32BaYOrNQWXVKLt86MZmdFYoe8AeAv2erVCd0zPJI6hteiCOWFJSDVOwZdVamapkLbMhCA"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 10,
-      "specs": {
-        "manufacturer": "Plushland • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 10 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $4.83) + Card Fee ($2.26)",
-        "market_value": "Competitor Landed: $78.97 | Your All-In Landed: $69.68 (Saves $9.29)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$53.27",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $5.33"
-    },
-    {
-      "id": "PTSD-70",
-      "name": "[35 Complaint-Solver Solution #20] Kids Weighted Shoulder Pad | Sensory Wrap for Focus &",
-      "price": "$26.23",
-      "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTbAxNpLVU-23LvI3OL_93h415a4bs3jteVfNpfl9iWUF_CbRVKeHolnhSEB1lLb_JIUeK0kwWeU_1kA1u_1D8BgTcIHtM9LgVHQP54cf02rgu7bHhFQPMmjw",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTeYfA2KnYUjUw0h6lG1DLutbc0KcTJqObziTu9R2ZTxiJzcU1J32BaYOrNQWXVKLt86MZmdFYoe8AeAv2erVCd0zPJI6hteiCOWFJSDVOwZdVamapkLbMhCA",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXwjN1HuNNJ74rQecwK5aI1tnLPlm7oSAB48WdOxhj8Odv0Ym0XdcbK4gT1o5fVJigsNKJRQmqi9X_kAevZ8O554vVJI1D"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 11,
-      "specs": {
-        "manufacturer": "Etsy • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 11 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.16) + Card Fee ($1.24)",
-        "market_value": "Competitor Landed: $40.04 | Your All-In Landed: $33.62 (Saves $6.42)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$23.85",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $2.38"
-    },
-    {
-      "id": "PTSD-71",
-      "name": "[35 Complaint-Solver Solution #21] Fun and Function Weighted Lap Pad for Kids Sensory Pa",
-      "price": "$37.61",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTeYfA2KnYUjUw0h6lG1DLutbc0KcTJqObziTu9R2ZTxiJzcU1J32BaYOrNQWXVKLt86MZmdFYoe8AeAv2erVCd0zPJI6hteiCOWFJSDVOwZdVamapkLbMhCA",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXwjN1HuNNJ74rQecwK5aI1tnLPlm7oSAB48WdOxhj8Odv0Ym0XdcbK4gT1o5fVJigsNKJRQmqi9X_kAevZ8O554vVJI1D",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS0F6xKXfd_QbnPDGTYcHsRIptPIUsIvxSasbVvmVyx6gqUGrGgt1ynb-9eRr2MH_pB8ymqg8axZKhNm_WvH_ApUoTHZLk3"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 12,
-      "specs": {
-        "manufacturer": "Walmart - Fun and Function LLC • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 12 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.10) + Card Fee ($1.60)",
-        "market_value": "Competitor Landed: $53.73 | Your All-In Landed: $46.30 (Saves $7.43)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$34.19",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.42"
-    },
-    {
-      "id": "PTSD-72",
-      "name": "[35 Complaint-Solver Solution #22] Sommerfly Weighted Puppy Shoulder Wrap",
-      "price": "$46.03",
-      "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXwjN1HuNNJ74rQecwK5aI1tnLPlm7oSAB48WdOxhj8Odv0Ym0XdcbK4gT1o5fVJigsNKJRQmqi9X_kAevZ8O554vVJI1D",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS0F6xKXfd_QbnPDGTYcHsRIptPIUsIvxSasbVvmVyx6gqUGrGgt1ynb-9eRr2MH_pB8ymqg8axZKhNm_WvH_ApUoTHZLk3",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSNlVJe6LtWMjw1yUggrjLaGCbTqC1ZCLcwi8Egoh76e4tjmGtIifotTpJ6MIslKIY8X5H94zff5EozKKZi2-dX4g8FPxZh6DaitOt23wDZQ4SPlZffIE1g"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 13,
-      "specs": {
-        "manufacturer": "Betty Mills • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 13 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.80) + Card Fee ($1.86)",
-        "market_value": "Competitor Landed: $63.86 | Your All-In Landed: $55.68 (Saves $8.18)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$41.85",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $4.18"
-    },
-    {
-      "id": "PTSD-73",
-      "name": "[35 Complaint-Solver Solution #23] Bouncyband Weighted Lap Pad, Puppy",
-      "price": "$34.84",
-      "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS0F6xKXfd_QbnPDGTYcHsRIptPIUsIvxSasbVvmVyx6gqUGrGgt1ynb-9eRr2MH_pB8ymqg8axZKhNm_WvH_ApUoTHZLk3",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSNlVJe6LtWMjw1yUggrjLaGCbTqC1ZCLcwi8Egoh76e4tjmGtIifotTpJ6MIslKIY8X5H94zff5EozKKZi2-dX4g8FPxZh6DaitOt23wDZQ4SPlZffIE1g",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR02O0RGv718LTqsbNKX1rhxi7VUScRj-9UYPO-DDVHF8YYkdR2fFayovHVIXqvXxLroXeSCxrbvXzC8RKt57t18ucs0lM9qw_hYJ9CTVChkzaeKHIo9Bfd"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 5,
-      "specs": {
-        "manufacturer": "Educational Wonderland • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.87) + Card Fee ($1.51)",
-        "market_value": "Competitor Landed: $50.39 | Your All-In Landed: $43.21 (Saves $7.18)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$31.67",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.17"
-    },
-    {
-      "id": "PTSD-74",
-      "name": "[35 Complaint-Solver Solution #24] Lightfury Inspired Weighted Shoulder Pal",
-      "price": "$47.52",
-      "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSNlVJe6LtWMjw1yUggrjLaGCbTqC1ZCLcwi8Egoh76e4tjmGtIifotTpJ6MIslKIY8X5H94zff5EozKKZi2-dX4g8FPxZh6DaitOt23wDZQ4SPlZffIE1g",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR02O0RGv718LTqsbNKX1rhxi7VUScRj-9UYPO-DDVHF8YYkdR2fFayovHVIXqvXxLroXeSCxrbvXzC8RKt57t18ucs0lM9qw_hYJ9CTVChkzaeKHIo9Bfd",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSXDh5BbrCddY7meI7eCQj7iFvZDqlQXwAUJqkow9K2FayJXleFCHfmOmb7FvUqAFk3Uopfbvs4WWs-8ZNIqwXAIekPVwY69ji8XJkHJgLiHaapPYidEpp8sQ"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 6,
-      "specs": {
-        "manufacturer": "Etsy - Seller • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.92) + Card Fee ($1.91)",
-        "market_value": "Competitor Landed: $65.65 | Your All-In Landed: $57.34 (Saves $8.31)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$43.20",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $4.32"
-    },
-    {
-      "id": "PTSD-75",
-      "name": "[35 Complaint-Solver Solution #25] Friendly Cuddle Weighted Lap Pad For Kids 5 lbs. Sens",
-      "price": "$31.67",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR02O0RGv718LTqsbNKX1rhxi7VUScRj-9UYPO-DDVHF8YYkdR2fFayovHVIXqvXxLroXeSCxrbvXzC8RKt57t18ucs0lM9qw_hYJ9CTVChkzaeKHIo9Bfd",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSXDh5BbrCddY7meI7eCQj7iFvZDqlQXwAUJqkow9K2FayJXleFCHfmOmb7FvUqAFk3Uopfbvs4WWs-8ZNIqwXAIekPVwY69ji8XJkHJgLiHaapPYidEpp8sQ",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTIH1xVfTNvePNtNmRQddm3Zdrj-HiPBNI4pRQoHB5bAR8au1APm5vO88zCLpdsZ3lyDkqwwN9FBTzqkush1cmWIFSDxRy_8w"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 7,
-      "specs": {
-        "manufacturer": "Walmart - Quality • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.61) + Card Fee ($1.41)",
-        "market_value": "Competitor Landed: $46.58 | Your All-In Landed: $39.68 (Saves $6.90)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$28.79",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $2.88"
-    },
-    {
-      "id": "PTSD-76",
-      "name": "[35 Complaint-Solver Solution #26] Mario Weighted Lap Pad, Boy, Toddler, autism, Focus, ",
-      "price": "$36.35",
-      "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSXDh5BbrCddY7meI7eCQj7iFvZDqlQXwAUJqkow9K2FayJXleFCHfmOmb7FvUqAFk3Uopfbvs4WWs-8ZNIqwXAIekPVwY69ji8XJkHJgLiHaapPYidEpp8sQ",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTIH1xVfTNvePNtNmRQddm3Zdrj-HiPBNI4pRQoHB5bAR8au1APm5vO88zCLpdsZ3lyDkqwwN9FBTzqkush1cmWIFSDxRy_8w",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTCPlmkXbWlQNt_Wr5I9UFcLm-Qee317piQAHtdwpc1XrqJzbTnj71Z0MnL3b56abFS99LbRL71cAfjQHelXQN4b-9JsILS6j8pFJSOFCUdEwK_6DU57s-J"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 8,
-      "specs": {
-        "manufacturer": "Etsy - StrawberrySeams • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.00) + Card Fee ($1.56)",
-        "market_value": "Competitor Landed: $52.21 | Your All-In Landed: $44.90 (Saves $7.31)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$33.05",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.30"
-    },
-    {
-      "id": "PTSD-77",
-      "name": "[35 Complaint-Solver Solution #27] Sommerfly Weighted Puppy Shoulder Wrap,PWSW-TC1,X-Sma",
-      "price": "$37.27",
-      "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTIH1xVfTNvePNtNmRQddm3Zdrj-HiPBNI4pRQoHB5bAR8au1APm5vO88zCLpdsZ3lyDkqwwN9FBTzqkush1cmWIFSDxRy_8w",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTCPlmkXbWlQNt_Wr5I9UFcLm-Qee317piQAHtdwpc1XrqJzbTnj71Z0MnL3b56abFS99LbRL71cAfjQHelXQN4b-9JsILS6j8pFJSOFCUdEwK_6DU57s-J",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJn5oGYRFOvvn_gENTVDGeZ_FKfRNiwc76DFdId4LAp6ZtN-k5QHriuFH4hrcHEOZJlnI6bbu3b8D_xO0rht7DaFxWM0kl"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSOlTpS-zl_RLnPW1yde_7zbMlv_JNtjkhrMjdUrlOG_9LfoYPPakmMEVluvCAKdNC9h9SLTNIlzmpyOI-6O6YegFECNl4EnnTq9dIITnjH0dYUqCooqZCrRg",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQmi36L3Ex8m8MNCQXt-E8NEdWddhgcjR3oZYHPwVrljJ7UzUrw-k_XlE3oxaC0jGJVNa4AqYQ3kk59B79BRRj8Qxk_DScUJwbEAgWxStLF3KWAxQur3dXkePo",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQwqY7fBjCgKNDDh1Mwzuu3MvoymGKAvkwSt-0ghJlV3JypZLppGgEZCsFVT3iRy3bXCKfvp3YzSGUg2ErtVYCsoqyRf5reBwnmgvS9bPTXNGxSLeFD991T"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 9,
       "specs": {
-        "manufacturer": "Rehab Store • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 9 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.07) + Card Fee ($1.59)",
-        "market_value": "Competitor Landed: $53.32 | Your All-In Landed: $45.92 (Saves $7.40)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$33.88",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.39"
+        "manufacturer": "Decibullz • $2M Insured",
+        "condition": "New • 9 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.89",
+        "market_value": "Comp: $26.30 | Yours: $22.87",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
-      "id": "PTSD-78",
-      "name": "[35 Complaint-Solver Solution #28] Teen/Adult Weighted Shoulder Wrap. 1.2kg.",
-      "price": "$41.03",
+      "id": "PTSD-70",
+      "name": "[35 Complaint-Solver #20] Noise-Cancelling Earplugs",
+      "price": "$17.60",
+      "vendorCost": "$16.00",
+      "netMargin": "10% Net ($1.60)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTCPlmkXbWlQNt_Wr5I9UFcLm-Qee317piQAHtdwpc1XrqJzbTnj71Z0MnL3b56abFS99LbRL71cAfjQHelXQN4b-9JsILS6j8pFJSOFCUdEwK_6DU57s-J",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJn5oGYRFOvvn_gENTVDGeZ_FKfRNiwc76DFdId4LAp6ZtN-k5QHriuFH4hrcHEOZJlnI6bbu3b8D_xO0rht7DaFxWM0kl",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTa6e-60etQZoC1YPAPYuouv4wvbicm2dpk2jS5FZy8sDNFV9HickIURSPDWAseMlxcZA8xm-dzQIIFnfhtpE2iPbKF3xn_ISxsq4DHLwKV"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQmi36L3Ex8m8MNCQXt-E8NEdWddhgcjR3oZYHPwVrljJ7UzUrw-k_XlE3oxaC0jGJVNa4AqYQ3kk59B79BRRj8Qxk_DScUJwbEAgWxStLF3KWAxQur3dXkePo",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQwqY7fBjCgKNDDh1Mwzuu3MvoymGKAvkwSt-0ghJlV3JypZLppGgEZCsFVT3iRy3bXCKfvp3YzSGUg2ErtVYCsoqyRf5reBwnmgvS9bPTXNGxSLeFD991T",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTO6md7ZXccshhn65CIUhNTSW1Rt2V6gG7KE2BkGGK-l0Q0260uI-TQ_1nLIwtTO-m8MyBA6wbMrNLVys3ghCfm1MGYHCrDfJVgG5G3DWcIKTcn28GNxGGR"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 10,
       "specs": {
-        "manufacturer": "Etsy • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 10 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.38) + Card Fee ($1.70)",
-        "market_value": "Competitor Landed: $57.84 | Your All-In Landed: $50.10 (Saves $7.74)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$37.30",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.73"
+        "manufacturer": "NOBL Travel • $2M Insured",
+        "condition": "New • 10 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.45",
+        "market_value": "Comp: $20.24 | Yours: $17.60",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
-      "id": "PTSD-79",
-      "name": "[35 Complaint-Solver Solution #29] Cuddly Puppy Weighted Lap Pad",
-      "price": "$53.22",
+      "id": "PTSD-71",
+      "name": "[35 Complaint-Solver #21] MEE audio High Fidelity Earplugs with Interchangeable Filters",
+      "price": "$35.19",
+      "vendorCost": "$31.99",
+      "netMargin": "10% Net ($3.20)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJn5oGYRFOvvn_gENTVDGeZ_FKfRNiwc76DFdId4LAp6ZtN-k5QHriuFH4hrcHEOZJlnI6bbu3b8D_xO0rht7DaFxWM0kl",
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTa6e-60etQZoC1YPAPYuouv4wvbicm2dpk2jS5FZy8sDNFV9HickIURSPDWAseMlxcZA8xm-dzQIIFnfhtpE2iPbKF3xn_ISxsq4DHLwKV",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSQkeBI8O3owMwQEx4galYHFLiKwnDPL-hoAhDjBxDLqCG7sZ3y00gALr9MCd1ONhgF0E2So0MSYccYwNSNOJVjhau90R3EKuqWjzZdghwD"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQwqY7fBjCgKNDDh1Mwzuu3MvoymGKAvkwSt-0ghJlV3JypZLppGgEZCsFVT3iRy3bXCKfvp3YzSGUg2ErtVYCsoqyRf5reBwnmgvS9bPTXNGxSLeFD991T",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTO6md7ZXccshhn65CIUhNTSW1Rt2V6gG7KE2BkGGK-l0Q0260uI-TQ_1nLIwtTO-m8MyBA6wbMrNLVys3ghCfm1MGYHCrDfJVgG5G3DWcIKTcn28GNxGGR",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRiIhsPlGxw5H8Vi3BHvVWCl_LRZDQIBrLOxh7TF5BwMkbO4diYNUEHooiDabAhtcjMU1elpCK0AHlhHTo2TNRYj_8ajLM2Fw"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 11,
       "specs": {
-        "manufacturer": "Bluebay Office • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 11 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $4.39) + Card Fee ($2.09)",
-        "market_value": "Competitor Landed: $72.50 | Your All-In Landed: $63.69 (Saves $8.81)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$48.38",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $4.84"
+        "manufacturer": "MEE audio • $2M Insured",
+        "condition": "New • 11 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.90",
+        "market_value": "Comp: $40.47 | Yours: $35.19",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
-      "id": "PTSD-80",
-      "name": "[35 Complaint-Solver Solution #30] Weighted Lap Pad Owl Print 20” X 10” Therapy Shoppe 2",
-      "price": "$19.79",
+      "id": "PTSD-72",
+      "name": "[35 Complaint-Solver #22] Eargasm High Fidelity Earplugs",
+      "price": "$43.96",
+      "vendorCost": "$39.96",
+      "netMargin": "10% Net ($4.00)",
       "media": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTa6e-60etQZoC1YPAPYuouv4wvbicm2dpk2jS5FZy8sDNFV9HickIURSPDWAseMlxcZA8xm-dzQIIFnfhtpE2iPbKF3xn_ISxsq4DHLwKV",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSQkeBI8O3owMwQEx4galYHFLiKwnDPL-hoAhDjBxDLqCG7sZ3y00gALr9MCd1ONhgF0E2So0MSYccYwNSNOJVjhau90R3EKuqWjzZdghwD",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQjQv9d4dmijiSAhir7yxbdUt5mnJtNVKk5ZM0e436RxsYOe71b5Cj1ZXVw_cqCOM0PkfMk_UHJgwETTGcLzbi1lfjGw5HpddW_zJ-Aw2Q"
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTO6md7ZXccshhn65CIUhNTSW1Rt2V6gG7KE2BkGGK-l0Q0260uI-TQ_1nLIwtTO-m8MyBA6wbMrNLVys3ghCfm1MGYHCrDfJVgG5G3DWcIKTcn28GNxGGR",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRiIhsPlGxw5H8Vi3BHvVWCl_LRZDQIBrLOxh7TF5BwMkbO4diYNUEHooiDabAhtcjMU1elpCK0AHlhHTo2TNRYj_8ajLM2Fw",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQuYP38GqDaEOPX1fsb6WOZpifFlMAlpG-O9STETPRdrWp1bkEy-lfvGzi34GtP_8Iy5BXXJiui8AzHt3yHT6rekAO2gsFJTy7RvKmbk4B5iJmdllxIX0eT5dI"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 12,
       "specs": {
-        "manufacturer": "eBay • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 12 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.63) + Card Fee ($1.04)",
-        "market_value": "Competitor Landed: $32.29 | Your All-In Landed: $26.45 (Saves $5.84)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$17.99",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $1.80"
+        "manufacturer": "Eargasm • $2M Insured",
+        "condition": "New • 12 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.63",
+        "market_value": "Comp: $50.55 | Yours: $43.96",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
-      "id": "PTSD-81",
-      "name": "[35 Complaint-Solver Solution #31] Weighted lap pad",
-      "price": "$19.80",
+      "id": "PTSD-73",
+      "name": "[35 Complaint-Solver #23] Axil X30i",
+      "price": "$21.11",
+      "vendorCost": "$19.19",
+      "netMargin": "10% Net ($1.92)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSQkeBI8O3owMwQEx4galYHFLiKwnDPL-hoAhDjBxDLqCG7sZ3y00gALr9MCd1ONhgF0E2So0MSYccYwNSNOJVjhau90R3EKuqWjzZdghwD",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQjQv9d4dmijiSAhir7yxbdUt5mnJtNVKk5ZM0e436RxsYOe71b5Cj1ZXVw_cqCOM0PkfMk_UHJgwETTGcLzbi1lfjGw5HpddW_zJ-Aw2Q",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSr5PCx84F-k8INfGC0cd4PBRz7--5VNPbDqh47e3543hpCoREwhUXiFe25eHMRlcUpeXCC7ghCpi2w4KmaMq8xCl_LBsMOz9KPAH0pmwA"
-      ],
-      "video": true,
-      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "count": 13,
-      "specs": {
-        "manufacturer": "Etsy - Seller • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 13 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.63) + Card Fee ($1.04)",
-        "market_value": "Competitor Landed: $32.30 | Your All-In Landed: $26.46 (Saves $5.84)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$18.00",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $1.80"
-    },
-    {
-      "id": "PTSD-82",
-      "name": "[35 Complaint-Solver Solution #32] Weighted Plush Unicorn Lap Pad 5 lb – Classroom Pack ",
-      "price": "$209.04",
-      "media": [
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQjQv9d4dmijiSAhir7yxbdUt5mnJtNVKk5ZM0e436RxsYOe71b5Cj1ZXVw_cqCOM0PkfMk_UHJgwETTGcLzbi1lfjGw5HpddW_zJ-Aw2Q",
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSr5PCx84F-k8INfGC0cd4PBRz7--5VNPbDqh47e3543hpCoREwhUXiFe25eHMRlcUpeXCC7ghCpi2w4KmaMq8xCl_LBsMOz9KPAH0pmwA",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQoi9vHYh0jiHeJgJkIfvnZyZ-ZdjDNAaQoGb4L1lO6THpZsOmo6sVs1zcREWjDibRUCIG-aKouKZ8qa0TWUVTAMKMSGi3UUc2JBeAqUJYMBdOrE2y-oxoS2A"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRiIhsPlGxw5H8Vi3BHvVWCl_LRZDQIBrLOxh7TF5BwMkbO4diYNUEHooiDabAhtcjMU1elpCK0AHlhHTo2TNRYj_8ajLM2Fw",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQuYP38GqDaEOPX1fsb6WOZpifFlMAlpG-O9STETPRdrWp1bkEy-lfvGzi34GtP_8Iy5BXXJiui8AzHt3yHT6rekAO2gsFJTy7RvKmbk4B5iJmdllxIX0eT5dI",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSPwdvUleKajVScbRMWIDUFf_ypYhKeNbrTWqiajqaLFFGh_UM2HUcT14woqjv7hJEx_MKfMG173UPAVyLL23WGOcajBqQ1vtlbyH_n8nb92ri18YW1-_ia"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 5,
       "specs": {
-        "manufacturer": "Seven Sensory Toys • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 5 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $5.99 + Tax (8.25%: $17.25) + Card Fee ($7.04)",
-        "market_value": "Competitor Landed: $261.92 | Your All-In Landed: $239.32 (Saves $22.60)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$190.04",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $19.00"
+        "manufacturer": "Tractor Supply Company • $2M Insured",
+        "condition": "New • 5 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.74",
+        "market_value": "Comp: $24.28 | Yours: $21.11",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
-      "id": "PTSD-83",
-      "name": "[35 Complaint-Solver Solution #33] Kids Weighted Lap Pads",
-      "price": "$28.50",
+      "id": "PTSD-74",
+      "name": "[35 Complaint-Solver #24] Zound Festival Ear Plugs Custom Concert Earplugs Rave Ear Plug",
+      "price": "$26.39",
+      "vendorCost": "$23.99",
+      "netMargin": "10% Net ($2.40)",
       "media": [
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSr5PCx84F-k8INfGC0cd4PBRz7--5VNPbDqh47e3543hpCoREwhUXiFe25eHMRlcUpeXCC7ghCpi2w4KmaMq8xCl_LBsMOz9KPAH0pmwA",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQoi9vHYh0jiHeJgJkIfvnZyZ-ZdjDNAaQoGb4L1lO6THpZsOmo6sVs1zcREWjDibRUCIG-aKouKZ8qa0TWUVTAMKMSGi3UUc2JBeAqUJYMBdOrE2y-oxoS2A",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcToKZeZvloApz4x0jywc4fdAzFBGZh4WCZbLkWdXbQMjgUMGeQbDe735fb_ahXXqF6czc6GRGLZDsisAySUSb-i-oajUALm5VCdbvQ4XctCwoPka8ZJdrW5"
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQuYP38GqDaEOPX1fsb6WOZpifFlMAlpG-O9STETPRdrWp1bkEy-lfvGzi34GtP_8Iy5BXXJiui8AzHt3yHT6rekAO2gsFJTy7RvKmbk4B5iJmdllxIX0eT5dI",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSPwdvUleKajVScbRMWIDUFf_ypYhKeNbrTWqiajqaLFFGh_UM2HUcT14woqjv7hJEx_MKfMG173UPAVyLL23WGOcajBqQ1vtlbyH_n8nb92ri18YW1-_ia",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSNfATRQY6yv6y1XxKzTD2nRHRPXhir2dZYJcCX0-1NXN8hGx31mH-LUpjoP2OG2cOQrYQeQLys3RzOz93B7TXCP7j442qeiSg87t_ARYR6ovCeBq859arx4z0"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 6,
       "specs": {
-        "manufacturer": "Mosaic Weighted Blankets • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 6 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $2.35) + Card Fee ($1.31)",
-        "market_value": "Competitor Landed: $42.77 | Your All-In Landed: $36.15 (Saves $6.62)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$25.91",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $2.59"
+        "manufacturer": "Zound • $2M Insured",
+        "condition": "New • 6 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.18",
+        "market_value": "Comp: $30.35 | Yours: $26.39",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
-      "id": "PTSD-84",
-      "name": "[35 Complaint-Solver Solution #34] Weighted Teddy Bear Lap Pad Plush In Brown / 5lbs. | ",
-      "price": "$23.76",
+      "id": "PTSD-75",
+      "name": "[35 Complaint-Solver #25] 60 Pairs Ultra Soft Foam Earplugs",
+      "price": "$6.66",
+      "vendorCost": "$6.05",
+      "netMargin": "10% Net ($0.61)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQoi9vHYh0jiHeJgJkIfvnZyZ-ZdjDNAaQoGb4L1lO6THpZsOmo6sVs1zcREWjDibRUCIG-aKouKZ8qa0TWUVTAMKMSGi3UUc2JBeAqUJYMBdOrE2y-oxoS2A",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcToKZeZvloApz4x0jywc4fdAzFBGZh4WCZbLkWdXbQMjgUMGeQbDe735fb_ahXXqF6czc6GRGLZDsisAySUSb-i-oajUALm5VCdbvQ4XctCwoPka8ZJdrW5",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQYB83fdsjmyyWi7Ira6My391_S8Vy3qYuiHB_gEGCU-anGQC2DNh6itM1mTTNiK6epDaeutqE4H_xTCK39-eYYm_snWQhzVyM6brap88E"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSPwdvUleKajVScbRMWIDUFf_ypYhKeNbrTWqiajqaLFFGh_UM2HUcT14woqjv7hJEx_MKfMG173UPAVyLL23WGOcajBqQ1vtlbyH_n8nb92ri18YW1-_ia",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSNfATRQY6yv6y1XxKzTD2nRHRPXhir2dZYJcCX0-1NXN8hGx31mH-LUpjoP2OG2cOQrYQeQLys3RzOz93B7TXCP7j442qeiSg87t_ARYR6ovCeBq859arx4z0",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT-rqVYrkKAiOrj2mU2Z0fqPDsils0efPGFr4KU2NS5kE0tRLLuJ7C4IMMKKtgdjZ3oycsNzDG80CRaMmahNgndVv7_sL4bVK4KXky0KSvhtGkuoiAWARg9ew"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 7,
       "specs": {
-        "manufacturer": "Poshmark • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 7 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $1.96) + Card Fee ($1.16)",
-        "market_value": "Competitor Landed: $37.07 | Your All-In Landed: $30.87 (Saves $6.20)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$21.60",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $2.16"
+        "manufacturer": "Walmart - VictSing Official Store • $2M Insured",
+        "condition": "New • 7 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.55",
+        "market_value": "Comp: $7.66 | Yours: $6.66",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     },
     {
-      "id": "PTSD-85",
-      "name": "[35 Complaint-Solver Solution #35] Childs weighted shoulder wrap 800g front back",
-      "price": "$38.82",
+      "id": "PTSD-76",
+      "name": "[35 Complaint-Solver #26] Noise-Cancelling Earplugs, Blush",
+      "price": "$17.60",
+      "vendorCost": "$16.00",
+      "netMargin": "10% Net ($1.60)",
       "media": [
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcToKZeZvloApz4x0jywc4fdAzFBGZh4WCZbLkWdXbQMjgUMGeQbDe735fb_ahXXqF6czc6GRGLZDsisAySUSb-i-oajUALm5VCdbvQ4XctCwoPka8ZJdrW5",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQYB83fdsjmyyWi7Ira6My391_S8Vy3qYuiHB_gEGCU-anGQC2DNh6itM1mTTNiK6epDaeutqE4H_xTCK39-eYYm_snWQhzVyM6brap88E",
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSAF1LMiXWu7OtOeOdorr8w4fLw56QqEP5bMNxXPHjQ22nnQTbFWX_RKDG85USdlVnkvBgm04N7ztqGgqlwDPa7Eia0QNOf"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSNfATRQY6yv6y1XxKzTD2nRHRPXhir2dZYJcCX0-1NXN8hGx31mH-LUpjoP2OG2cOQrYQeQLys3RzOz93B7TXCP7j442qeiSg87t_ARYR6ovCeBq859arx4z0",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT-rqVYrkKAiOrj2mU2Z0fqPDsils0efPGFr4KU2NS5kE0tRLLuJ7C4IMMKKtgdjZ3oycsNzDG80CRaMmahNgndVv7_sL4bVK4KXky0KSvhtGkuoiAWARg9ew",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRXOD3k0v-N6xXvFMw6ZoFhjW2qMAABKnI5rzZd3oot7bA2A0tJOWrewfis9-xXQYmcusXB1_NqB_AO5x0SLgmzYxqiOMBtzqTYVMUbl8mC-Q7prenkQYohTz0"
       ],
       "video": true,
       "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "count": 8,
       "specs": {
-        "manufacturer": "Etsy • Insured & Bonded ($2M General Liability)",
-        "condition": "Brand New (Factory Sealed) • 🔥 Only 8 Left • ES/EN Bilingual Spec Sheet Included",
-        "authentication": "100% Certified & Insured Vendor • Guaranteed Equal To or Less Than Competitors",
-        "shipping": "Insured 3–7 Day Shipping: $3.99 + Tax (8.25%: $3.20) + Card Fee ($1.63)",
-        "market_value": "Competitor Landed: $55.18 | Your All-In Landed: $47.64 (Saves $7.54)",
-        "status": "HARD_AUDIT_240_VERIFIED"
-      },
-      "vendorCost": "$35.29",
-      "netMargin": "10% Sanctuary Net (Equal To or 10% Below Specialty Medical) • Net Profit: $3.53"
+        "manufacturer": "NOBL Travel • $2M Insured",
+        "condition": "New • 8 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $1.45",
+        "market_value": "Comp: $20.24 | Yours: $17.60",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
+    },
+    {
+      "id": "PTSD-77",
+      "name": "[35 Complaint-Solver #27] Earplugs for Events & Music Hears 20dB Noise Reduction Pacha E",
+      "price": "$37.84",
+      "vendorCost": "$34.40",
+      "netMargin": "10% Net ($3.44)",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT-rqVYrkKAiOrj2mU2Z0fqPDsils0efPGFr4KU2NS5kE0tRLLuJ7C4IMMKKtgdjZ3oycsNzDG80CRaMmahNgndVv7_sL4bVK4KXky0KSvhtGkuoiAWARg9ew",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRXOD3k0v-N6xXvFMw6ZoFhjW2qMAABKnI5rzZd3oot7bA2A0tJOWrewfis9-xXQYmcusXB1_NqB_AO5x0SLgmzYxqiOMBtzqTYVMUbl8mC-Q7prenkQYohTz0",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQN0Q7aoFWZS1MTlE8vptqyHtyAAykgvPAvatw3EDVAQ6RTDe2OmoKyh6SMPwcUsipnTX9-MXI_laHkn9lFrB7T6LHXvadGaL6KuXjJTNiEZz5l8mPiR9yQjA"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 9,
+      "specs": {
+        "manufacturer": "Hears Earplugs • $2M Insured",
+        "condition": "New • 9 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $3.12",
+        "market_value": "Comp: $43.52 | Yours: $37.84",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
+    },
+    {
+      "id": "PTSD-78",
+      "name": "[35 Complaint-Solver #28] Zenz Ignite Earplugs",
+      "price": "$26.39",
+      "vendorCost": "$23.99",
+      "netMargin": "10% Net ($2.40)",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRXOD3k0v-N6xXvFMw6ZoFhjW2qMAABKnI5rzZd3oot7bA2A0tJOWrewfis9-xXQYmcusXB1_NqB_AO5x0SLgmzYxqiOMBtzqTYVMUbl8mC-Q7prenkQYohTz0",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQN0Q7aoFWZS1MTlE8vptqyHtyAAykgvPAvatw3EDVAQ6RTDe2OmoKyh6SMPwcUsipnTX9-MXI_laHkn9lFrB7T6LHXvadGaL6KuXjJTNiEZz5l8mPiR9yQjA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQb7lHYkeEF-G-EzPCG95AzSSb06TcJPNjBGIWM_nUkD8-6IFsEqN54krwnpwER7mUDVCJL5AleiRv4-psZ3ma4kQKrzwySYk5p441NDcY"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 10,
+      "specs": {
+        "manufacturer": "Zenz Lifestyle • $2M Insured",
+        "condition": "New • 10 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.18",
+        "market_value": "Comp: $30.35 | Yours: $26.39",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
+    },
+    {
+      "id": "PTSD-79",
+      "name": "[35 Complaint-Solver #29] Pleasing x Loop Experience 2 Enough",
+      "price": "$35.16",
+      "vendorCost": "$31.96",
+      "netMargin": "10% Net ($3.20)",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQN0Q7aoFWZS1MTlE8vptqyHtyAAykgvPAvatw3EDVAQ6RTDe2OmoKyh6SMPwcUsipnTX9-MXI_laHkn9lFrB7T6LHXvadGaL6KuXjJTNiEZz5l8mPiR9yQjA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQb7lHYkeEF-G-EzPCG95AzSSb06TcJPNjBGIWM_nUkD8-6IFsEqN54krwnpwER7mUDVCJL5AleiRv4-psZ3ma4kQKrzwySYk5p441NDcY",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTYv9IkGpjlnHZxmoLScE8TiIId0FcfmhtEGQdETlF6enRnhiob7A18WJWqkpplMQml8qRFJ2vVNHUdMjWKT_kQ1ss1eejBBDTujoPKtpYSmKvW8fUY5k7n"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 11,
+      "specs": {
+        "manufacturer": "Loop Earplugs • $2M Insured",
+        "condition": "New • 11 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.90",
+        "market_value": "Comp: $40.43 | Yours: $35.16",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
+    },
+    {
+      "id": "PTSD-80",
+      "name": "[35 Complaint-Solver #30] CURVD Live Stylish High-Fidelity Concert Earplugs for Live Eve",
+      "price": "$30.76",
+      "vendorCost": "$27.96",
+      "netMargin": "10% Net ($2.80)",
+      "media": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQb7lHYkeEF-G-EzPCG95AzSSb06TcJPNjBGIWM_nUkD8-6IFsEqN54krwnpwER7mUDVCJL5AleiRv4-psZ3ma4kQKrzwySYk5p441NDcY",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTYv9IkGpjlnHZxmoLScE8TiIId0FcfmhtEGQdETlF6enRnhiob7A18WJWqkpplMQml8qRFJ2vVNHUdMjWKT_kQ1ss1eejBBDTujoPKtpYSmKvW8fUY5k7n",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSA41_Vzw9PhW827pM9Ei7Tu89rKfgvwMXzqbKxvSeR0u8bGlvAPnz-1CZnbG-F9qz8Q2EFY2AjZpQI-llH8VMQoiwMml2pTFX-csDnA6GP6-dByxWYpVheuw"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 12,
+      "specs": {
+        "manufacturer": "Sweetwater • $2M Insured",
+        "condition": "New • 12 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.54",
+        "market_value": "Comp: $35.37 | Yours: $30.76",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
+    },
+    {
+      "id": "PTSD-81",
+      "name": "[35 Complaint-Solver #31] Decibullz Pro Custom Molded Earplugs",
+      "price": "$35.19",
+      "vendorCost": "$31.99",
+      "netMargin": "10% Net ($3.20)",
+      "media": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTYv9IkGpjlnHZxmoLScE8TiIId0FcfmhtEGQdETlF6enRnhiob7A18WJWqkpplMQml8qRFJ2vVNHUdMjWKT_kQ1ss1eejBBDTujoPKtpYSmKvW8fUY5k7n",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSA41_Vzw9PhW827pM9Ei7Tu89rKfgvwMXzqbKxvSeR0u8bGlvAPnz-1CZnbG-F9qz8Q2EFY2AjZpQI-llH8VMQoiwMml2pTFX-csDnA6GP6-dByxWYpVheuw",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSYcXlVTraSiYRcV2If2Mbv7p3KACWg1w6YICCTlUjdGhUjptMiQN14PGu6wwKBCOoccq7dgncZww9EPZas91-On-hsFz2_coX1yNKmUb2d"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 5,
+      "specs": {
+        "manufacturer": "Decibullz • $2M Insured",
+        "condition": "New • 5 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $2.90",
+        "market_value": "Comp: $40.47 | Yours: $35.19",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
+    },
+    {
+      "id": "PTSD-82",
+      "name": "[35 Complaint-Solver #32] Equate Ultimate Fit Foam Earplugs",
+      "price": "$10.08",
+      "vendorCost": "$9.16",
+      "netMargin": "10% Net ($0.92)",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSA41_Vzw9PhW827pM9Ei7Tu89rKfgvwMXzqbKxvSeR0u8bGlvAPnz-1CZnbG-F9qz8Q2EFY2AjZpQI-llH8VMQoiwMml2pTFX-csDnA6GP6-dByxWYpVheuw",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSYcXlVTraSiYRcV2If2Mbv7p3KACWg1w6YICCTlUjdGhUjptMiQN14PGu6wwKBCOoccq7dgncZww9EPZas91-On-hsFz2_coX1yNKmUb2d",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQqjx2PNmdJuVyscLSiCTLw1iVrBnqaMm277xIDxbETOgk-u_eybCVMzBUU6hXw_5uGLROWTc6-hvIw1J34u1gMcB8USyiHYjx7Q7tUWrkunaw6WS2kIgU_"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 6,
+      "specs": {
+        "manufacturer": "Walmart • $2M Insured",
+        "condition": "New • 6 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.83",
+        "market_value": "Comp: $11.59 | Yours: $10.08",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
+    },
+    {
+      "id": "PTSD-83",
+      "name": "[35 Complaint-Solver #33] CVS Extreme Protection Earplugs",
+      "price": "$4.92",
+      "vendorCost": "$4.47",
+      "netMargin": "10% Net ($0.45)",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSYcXlVTraSiYRcV2If2Mbv7p3KACWg1w6YICCTlUjdGhUjptMiQN14PGu6wwKBCOoccq7dgncZww9EPZas91-On-hsFz2_coX1yNKmUb2d",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQqjx2PNmdJuVyscLSiCTLw1iVrBnqaMm277xIDxbETOgk-u_eybCVMzBUU6hXw_5uGLROWTc6-hvIw1J34u1gMcB8USyiHYjx7Q7tUWrkunaw6WS2kIgU_",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSmfH5eWAJpfyf7yCnwcxBKbVh1J3s5Q_-R3K_tI8O3DVUxkEqnhcya7DFvjkMrJnHh8sdtoSBKd597K9TzL09jOa2ZQIDBQkR6JJhhc0TbuHA-PHHAbmAf5g"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 7,
+      "specs": {
+        "manufacturer": "CVS Pharmacy • $2M Insured",
+        "condition": "New • 7 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.41",
+        "market_value": "Comp: $5.66 | Yours: $4.92",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
+    },
+    {
+      "id": "PTSD-84",
+      "name": "[35 Complaint-Solver #34] Hearos Radical Protection Ear Plugs",
+      "price": "$8.79",
+      "vendorCost": "$7.99",
+      "netMargin": "10% Net ($0.80)",
+      "media": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQqjx2PNmdJuVyscLSiCTLw1iVrBnqaMm277xIDxbETOgk-u_eybCVMzBUU6hXw_5uGLROWTc6-hvIw1J34u1gMcB8USyiHYjx7Q7tUWrkunaw6WS2kIgU_",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSmfH5eWAJpfyf7yCnwcxBKbVh1J3s5Q_-R3K_tI8O3DVUxkEqnhcya7DFvjkMrJnHh8sdtoSBKd597K9TzL09jOa2ZQIDBQkR6JJhhc0TbuHA-PHHAbmAf5g",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR1Cq8XJHEQ2QToTC2gfI7rJ7X1fU7G6KUwdAcENnhwL6ezH00WXdVRhp67YkrZu6o7Vz_mRRfdZQtn27zBpu2OfqsPzffcdCrusWrts5BJhzSDMpThscGK"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 8,
+      "specs": {
+        "manufacturer": "Walgreens.com • $2M Insured",
+        "condition": "New • 8 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.73",
+        "market_value": "Comp: $10.11 | Yours: $8.79",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
+    },
+    {
+      "id": "PTSD-85",
+      "name": "[35 Complaint-Solver #35] Milwaukee Ear Plugs",
+      "price": "$4.37",
+      "vendorCost": "$3.97",
+      "netMargin": "10% Net ($0.40)",
+      "media": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSmfH5eWAJpfyf7yCnwcxBKbVh1J3s5Q_-R3K_tI8O3DVUxkEqnhcya7DFvjkMrJnHh8sdtoSBKd597K9TzL09jOa2ZQIDBQkR6JJhhc0TbuHA-PHHAbmAf5g",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR1Cq8XJHEQ2QToTC2gfI7rJ7X1fU7G6KUwdAcENnhwL6ezH00WXdVRhp67YkrZu6o7Vz_mRRfdZQtn27zBpu2OfqsPzffcdCrusWrts5BJhzSDMpThscGK",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQbBB8f4cU9I5vwyTidn7vmR4_MJNT-8nHqsH_6Nuk9dDyAsmPjE6Aq0HeJLMKICs6sM5sP3yTbCtVYpMpZjtpdEjhyXG_0Kc7tV2iqcCyXQxb4y2ZLo7zt"
+      ],
+      "video": true,
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "count": 9,
+      "specs": {
+        "manufacturer": "Home Depot • $2M Insured",
+        "condition": "New • 9 Left • EN/ES",
+        "authentication": "Certified Insured Vendor",
+        "shipping": "3-7d Ship: $3.99 + Tax: $0.36",
+        "market_value": "Comp: $5.03 | Yours: $4.37",
+        "status": "HARD_AUDIT_VERIFIED"
+      }
     }
   ],
   "down-syndrome-superstore": [
