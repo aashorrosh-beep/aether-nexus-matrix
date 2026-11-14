@@ -1,3 +1,3 @@
 "use client";
 import StadiumSilo from "../StadiumSilo";
-export default function Page() { return <StadiumSilo initialCat="offroad" />; }
+export default function P(){ return <StadiumSilo defCat="atv" />; }

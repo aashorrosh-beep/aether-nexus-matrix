@@ -1,4 +1,5 @@
 "use client";
+import { readSizeSummary, clearSavedSizes } from "./size-helper";
 import React, { useState, useEffect } from "react";
 const inp = { background: "#0f172a", border: "1px solid #334155", color: "#fff", padding: "8px 10px", borderRadius: 8, fontSize: 12, flex: 1 };
 const btn = (background: string, color = "#fff", flex?: number) => ({ background, color, border: 0, borderRadius: 8, padding: "9px 12px", fontWeight: 900, fontSize: 12, cursor: "pointer", flex });
@@ -16,7 +17,7 @@ export default function NexusCheckoutModal(p: CheckoutProps) {
     if (!sid) return;
     setAuto(true);
     fetch(`/api/checkout?session_id=${encodeURIComponent(sid)}`).then(r => r.json()).then(d => {
-      if (d.ok) { setRes(d); p.onDone(); window.history.replaceState({}, "", window.location.pathname); } else setErr(d.msg);
+      if (d.ok) { setRes(d); (clearSavedSizes(), p.onDone()); window.history.replaceState({}, "", window.location.pathname); } else setErr(d.msg);
     });
   }, []);
   if (!p.open && !auto) return null;
@@ -28,12 +29,12 @@ export default function NexusCheckoutModal(p: CheckoutProps) {
   };
   const go = async () => {
     setErr(""); setBusy(true); const returnPath = window.location.pathname;
-    const body = mode === "giftcard" ? { mode, amount: amt, recipientEmail: rcpt, returnPath } : { mode, store: p.store, summary: p.summary, address: a, total: p.total, gcCode: off > 0 ? gc : "", returnPath };
+    const body = mode === "giftcard" ? { mode, amount: amt, recipientEmail: rcpt, returnPath } : { mode, store: p.store, summary: (readSizeSummary() ? p.summary + " • Sizes: " + readSizeSummary() : p.summary), address: a, total: p.total, gcCode: off > 0 ? gc : "", returnPath };
     const r = await fetch("/api/checkout", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) }), d = await r.json();
     setBusy(false);
     if (!d.ok) { setErr(d.msg); return; }
     if (d.stripeUrl) { window.location.href = d.stripeUrl; return; }
-    setRes(d); p.onDone();
+    setRes(d); (clearSavedSizes(), p.onDone());
   };
   return (
     <div style={{ position: "fixed", inset: 0, background: "rgba(2,6,23,0.9)", zIndex: 9999, display: "flex", alignItems: "center", justifyContent: "center", padding: 12 }}>

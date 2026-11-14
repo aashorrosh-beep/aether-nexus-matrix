@@ -1,3 +1,3 @@
 "use client";
 import StadiumSilo from "../StadiumSilo";
-export default function Page() { return <StadiumSilo initialCat="combat" />; }
+export default function P(){ return <StadiumSilo defCat="combat" />; }
