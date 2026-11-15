@@ -33,7 +33,7 @@ function AstrophysicsDefs() {
         </filter>
         <filter id="crimsonCore" x="0%" y="0%" width="100%" height="100%">
           <feTurbulence type="turbulence" baseFrequency="0.032" numOctaves={4} seed={11} result="t" />
-          <feColorMatrix type="matrix" values="-4.2 0 0 0 1.48  0 -6.8 0 0 0.18  0 0 -7.5 0 0.18  0 0 0 1 0" in="t" />
+          <feColorMatrix type="matrix" values="-4.5 0 0 0 1.55  0 -8.0 0 0 0.14  0 0 -9.0 0 0 0.10  0 0 0 0 1" in="t" />
         </filter>
       </defs>
     </svg>);
@@ -83,9 +83,9 @@ export default function AlbsNexusGalaxy() {
       last = t;
       const ctx = canvasRef.current?.getContext("2d");
       if (!ctx) return;
-      ctx.clearRect(0, 0, 1600, 1200);
-      [[375,280],[655,445]].forEach(([rx, ry]) => {
-        ctx.beginPath(); ctx.ellipse(800, 588, rx, ry, 0, 0, Math.PI * 2);
+      ctx.clearRect(0, 0, 1600, 1040);
+      [[375,245],[655,388]].forEach(([rx, ry]) => {
+        ctx.beginPath(); ctx.ellipse(800, 510, rx, ry, 0, 0, Math.PI * 2);
         ctx.strokeStyle = "rgba(148,163,184,0.12)"; ctx.lineWidth = 1.2;
         ctx.shadowBlur = 0; ctx.stroke();
       });
@@ -94,7 +94,7 @@ export default function AlbsNexusGalaxy() {
         ctx.lineCap = "round"; ctx.shadowColor = n.bolt;
         ctx.shadowBlur = hot ? 28 : 16; ctx.strokeStyle = n.bolt;
         ctx.lineWidth = hot ? 4.6 : 2.8;
-        const pts = drawArc(ctx, 800, 588, n.x, n.y, hot ? 52 : 34, 5);
+        const pts = drawArc(ctx, 800, 510, n.x, n.y, hot ? 52 : 34, 5);
         ctx.shadowBlur = 4; ctx.strokeStyle = "#ffffff"; ctx.lineWidth = 1.2;
         ctx.beginPath();
         pts.forEach(([x, y], i) => (i === 0 ? ctx.moveTo(x, y) : ctx.lineTo(x, y)));
@@ -148,11 +148,11 @@ export default function AlbsNexusGalaxy() {
         </div>
       </div>
       <div className="solar-stage">
-        <canvas ref={canvasRef} width={1600} height={1200}
+        <canvas ref={canvasRef} width={1600} height={1040}
           style={{ position:"absolute", inset:0, width:"100%", height:"100%", pointerEvents:"none" }} />
         <div style={{ position:"absolute", left:"50%", top:"49%",
           transform:"translate(-50%,-50%)", width:"23cqw", height:"23cqw", zIndex:30 }}>
-          <div style={{ position:"absolute", inset:0, zIndex:3, borderRadius:"50%", overflow:"hidden", border:"2.5px solid #ef4444",
+          <div style={{ position:"absolute", inset:0, zIndex:3, borderRadius:"50%", overflow:"hidden", background:"#050000", border:"2.5px solid #ef4444",
             boxShadow:"0 0 3.2cqw rgba(239,68,68,0.92), 0 0 6cqw rgba(185,28,28,0.5), inset 0 0 2.4cqw #dc2626" }}>
             <svg viewBox="0 0 240 240" style={{ width:"100%", height:"100%", display:"block" }}>
               <rect width="240" height="240" filter="url(#crimsonCore)" />
@@ -191,7 +191,7 @@ export default function AlbsNexusGalaxy() {
         {NODES.map(n => (
           <Link key={n.id} href={n.href} className="planet-orb"
             onMouseEnter={() => { hotRef.current = n.id; }} onMouseLeave={() => { hotRef.current = null; }}
-            style={{ position:"absolute", left:((n.x/1600)*100)+"%", top:((n.y/1200)*100)+"%",
+            style={{ position:"absolute", left:((n.x/1600)*100)+"%", top:((n.y/1040)*100)+"%",
               transform:"translate(-50%,-50%)", textDecoration:"none", textAlign:"center", zIndex:22 }}>
             <div style={{ position:"relative", width:n.size+"cqw", height:n.size+"cqw", margin:"0 auto" }}>
               <OrbHalo n={n} />
