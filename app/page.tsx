@@ -14,7 +14,7 @@ function RibbonSVG({ r }: { r: RibbonItem }) {
         <path d="M18 4 C10 4 7 11 11 19 L25 43 L30 40 L16 17 C14 12 15 9 18 9 Z" fill={r.r1} />
         <path d="M18 4 C26 4 29 11 25 19 L11 43 L6 40 L20 17 C22 12 21 9 18 9 Z" fill={r.r2} />
       </>)}
-      <circle cx="18" cy="11.5" r="3.4" fill="#090b12" />
+      <circle cx="18" cy="11.5" r="3.4" fill="#060913" />
     </svg>);
 }
 function AstrophysicsDefs() {
@@ -31,55 +31,27 @@ function AstrophysicsDefs() {
           <feDisplacementMap in="SourceGraphic" in2="f" scale={32} xChannelSelector="R" yChannelSelector="G" result="df" />
           <feGaussianBlur in="df" stdDeviation={1.6} />
         </filter>
-        <filter id="magma" x="0%" y="0%" width="100%" height="100%">
-          <feTurbulence type="fractalNoise" baseFrequency="0.028" numOctaves={5} seed={14} result="t" />
-          <feColorMatrix type="matrix" values="2.6 0 0 0 0.35  1.4 0.3 0 0 -0.12  0.2 0 0 0 -0.15  0 0 0 1 0" in="t" />
+        <filter id="crimsonCore" x="0%" y="0%" width="100%" height="100%">
+          <feTurbulence type="turbulence" baseFrequency="0.032" numOctaves={4} seed={11} result="t" />
+          <feColorMatrix type="matrix" values="-4.2 0 0 0 1.48  0 -6.8 0 0 0.18  0 0 -7.5 0 0.18  0 0 0 1 0" in="t" />
         </filter>
       </defs>
     </svg>);
 }
 function OrbHalo({ n }: { n: NodeItem }) {
-  const st: React.CSSProperties = {
-    position:"absolute", inset:"-30%", width:"160%", height:"160%",
-    zIndex:1, pointerEvents:"none"
-  };
-  if (n.kind === "ringneb") {
-    return (
-      <svg viewBox="0 0 220 220" style={st}>
-        <g transform="rotate(-18 110 110)" filter="url(#wisp)">
-          <ellipse cx="110" cy="110" rx="92" ry="74" fill="none" stroke="#dc2626" strokeWidth="15" opacity="0.72" />
-          <ellipse cx="110" cy="110" rx="80" ry="64" fill="none" stroke="#fb923c" strokeWidth="12" opacity="0.88" />
-          <ellipse cx="110" cy="110" rx="70" ry="56" fill="none" stroke="#fef08a" strokeWidth="7" />
-          <ellipse cx="110" cy="110" rx="63" ry="50" fill="#0ea5e9" opacity="0.45" />
-        </g>
-      </svg>);
-  }
   const flt = n.kind === "fire" ? "url(#wispFire)" : "url(#wisp)";
   const dash = n.kind === "fog" ? "44 18 28 14" : n.kind === "fire" ? "26 10 18 8" : "56 16";
   return (
-    <svg viewBox="0 0 220 220" style={{ ...st, filter:"drop-shadow(0 0 12px " + n.c1 + ")" }}>
+    <svg viewBox="0 0 220 220" style={{ position:"absolute", inset:"-29%",
+      width:"158%", height:"158%", zIndex:1, pointerEvents:"none",
+      filter:"drop-shadow(0 0 14px " + n.c1 + ")" }}>
       <g filter={flt}>
         <circle className="gas-cw" cx="110" cy="110" r="82" fill="none"
-          stroke={n.c1} strokeWidth={n.kind === "fog" ? 24 : 19} strokeDasharray={dash} opacity="0.85" />
+          stroke={n.c1} strokeWidth={n.kind === "fog" ? 24 : 20} strokeDasharray={dash} opacity="0.88" />
         <circle className="gas-ccw" cx="110" cy="110" r="73" fill="none"
           stroke={n.c2} strokeWidth="12" strokeDasharray="32 14" opacity="0.9" />
-        <circle cx="110" cy="110" r="67" fill="none" stroke="#ffffff" strokeWidth="3.5" opacity="0.65" />
       </g>
     </svg>);
-}
-function PlanetRingHalf({ front }: { front: boolean }) {
-  return (
-    <div style={{ position:"absolute", left:"-44%", width:"188%", top:"2%", height:"96%",
-      transform:"rotate(-14deg)", zIndex:front ? 10 : 1, pointerEvents:"none" }}>
-      <svg viewBox={front ? "0 120 440 120" : "0 0 440 120"}
-        style={{ position:"absolute", left:0, width:"100%", top:front ? "50%" : "0%",
-          height:"50%", overflow:"hidden", filter:"drop-shadow(0 0 10px #f59e0b)" }}>
-        <ellipse cx="220" cy="120" rx="208" ry="66" fill="none" stroke="rgba(251,146,60,0.34)" strokeWidth="18" />
-        <ellipse cx="220" cy="120" rx="192" ry="60" fill="none" stroke="rgba(253,224,71,0.78)" strokeWidth="6" />
-        <ellipse cx="220" cy="120" rx="176" ry="54" fill="none" stroke="rgba(234,88,12,0.65)" strokeWidth="9" />
-        <ellipse cx="220" cy="120" rx="162" ry="49" fill="none" stroke="#fffbeb" strokeWidth="2.6" opacity="0.9" />
-      </svg>
-    </div>);
 }
 function drawArc(ctx: CanvasRenderingContext2D, x1: number, y1: number,
   x2: number, y2: number, disp: number, depth: number) {
@@ -92,7 +64,7 @@ function drawArc(ctx: CanvasRenderingContext2D, x1: number, y1: number,
       const off = (Math.random() - 0.5) * d;
       pts.splice(i, 0, [(ax+bx)/2 + (-dy/ln)*off, (ay+by)/2 + (dx/ln)*off]);
     }
-    d *= 0.54;
+    d *= 0.52;
   }
   ctx.beginPath();
   pts.forEach(([x, y], i) => (i === 0 ? ctx.moveTo(x, y) : ctx.lineTo(x, y)));
@@ -112,26 +84,26 @@ export default function AlbsNexusGalaxy() {
       const ctx = canvasRef.current?.getContext("2d");
       if (!ctx) return;
       ctx.clearRect(0, 0, 1600, 1200);
-      [[425,335],[640,445]].forEach(([rx, ry]) => {
+      [[375,280],[655,445]].forEach(([rx, ry]) => {
         ctx.beginPath(); ctx.ellipse(800, 588, rx, ry, 0, 0, Math.PI * 2);
-        ctx.strokeStyle = "rgba(253,224,71,0.09)"; ctx.lineWidth = 1.2;
+        ctx.strokeStyle = "rgba(148,163,184,0.12)"; ctx.lineWidth = 1.2;
         ctx.shadowBlur = 0; ctx.stroke();
       });
       NODES.forEach(n => {
-        const hot = hotRef.current === n.id, r = n.size * 8.4;
+        const hot = hotRef.current === n.id, r = n.size * 8.2;
         ctx.lineCap = "round"; ctx.shadowColor = n.bolt;
-        ctx.shadowBlur = hot ? 26 : 14; ctx.strokeStyle = n.bolt;
-        ctx.lineWidth = hot ? 4.4 : 2.6;
-        const pts = drawArc(ctx, 800, 588, n.x, n.y, hot ? 58 : 38, 5);
-        ctx.shadowBlur = 4; ctx.strokeStyle = "#ffffff"; ctx.lineWidth = 1.1;
+        ctx.shadowBlur = hot ? 28 : 16; ctx.strokeStyle = n.bolt;
+        ctx.lineWidth = hot ? 4.6 : 2.8;
+        const pts = drawArc(ctx, 800, 588, n.x, n.y, hot ? 52 : 34, 5);
+        ctx.shadowBlur = 4; ctx.strokeStyle = "#ffffff"; ctx.lineWidth = 1.2;
         ctx.beginPath();
         pts.forEach(([x, y], i) => (i === 0 ? ctx.moveTo(x, y) : ctx.lineTo(x, y)));
         ctx.stroke();
         if (n.kind === "static") {
-          for (let k = 0; k < 3; k++) {
-            const a1 = Math.random() * 6.28, a2 = a1 + 0.9;
-            ctx.strokeStyle = k === 0 ? "#fde047" : "#7dd3fc"; ctx.lineWidth = 1.8;
-            drawArc(ctx, n.x+Math.cos(a1)*r, n.y+Math.sin(a1)*r, n.x+Math.cos(a2)*r, n.y+Math.sin(a2)*r, 18, 3);
+          for (let k = 0; k < 2; k++) {
+            const a1 = Math.random() * 6.28, a2 = a1 + 0.85;
+            ctx.strokeStyle = k === 0 ? "#fde047" : "#7dd3fc"; ctx.lineWidth = 1.7;
+            drawArc(ctx, n.x+Math.cos(a1)*r, n.y+Math.sin(a1)*r, n.x+Math.cos(a2)*r, n.y+Math.sin(a2)*r, 16, 3);
           }
         }
       });
@@ -146,78 +118,71 @@ export default function AlbsNexusGalaxy() {
   return (
     <div className="galaxy-canvas">
       <AstrophysicsDefs />
-      <div style={{ position:"relative", zIndex:35, maxWidth:1420,
-        margin:"0 auto -18px", padding:"16px 8px 8px" }}>
-        <svg viewBox="0 0 1440 220" preserveAspectRatio="none"
-          style={{ position:"absolute", left:"-5%", width:"110%", top:0,
-            height:"100%", pointerEvents:"none", zIndex:1 }}>
-          <ellipse cx="720" cy="1115" rx="2200" ry="1106" fill="none" stroke="rgba(251,191,36,0.3)" strokeWidth="14" />
-          <ellipse cx="720" cy="1115" rx="2200" ry="1096" fill="none" stroke="#fde047" strokeWidth="3.5" />
-          <ellipse cx="720" cy="1115" rx="2200" ry="1045" fill="none" stroke="rgba(245,158,11,0.16)" strokeWidth="88" />
-          <ellipse cx="720" cy="1115" rx="2200" ry="996" fill="none" stroke="rgba(253,224,71,0.65)" strokeWidth="3" />
+      <div className="emerald-ring-wrap">
+        <svg viewBox="0 0 1600 250" preserveAspectRatio="none"
+          style={{ position:"absolute", left:"-4%", width:"108%", top:0, height:"100%",
+            pointerEvents:"none", zIndex:1, filter:"drop-shadow(0 0 22px rgba(16,185,129,0.45))" }}>
+          {([[1158,"rgba(16,185,129,0.24)",36],[1144,"#34d399",4],[1084,"rgba(6,78,59,0.72)",112],
+             [1058,"rgba(110,231,183,0.34)",3],[1028,"#6ee7b7",3.5]] as [number,string,number][]).map(
+            ([ry,st,sw], i) => <ellipse key={i} cx={800} cy={1165} rx={1460} ry={ry} fill="none" stroke={st} strokeWidth={sw} />)}
         </svg>
-        <div className="ring-arch-shell">
-          <div style={{ display:"flex", justifyContent:"space-between", alignItems:"center",
-            flexWrap:"wrap", gap:8, marginBottom:6, padding:"0 8px" }}>
-            <span style={{ fontSize:13, fontWeight:900, letterSpacing:"0.12em",
-              color:"#fde047", textShadow:"0 0 14px rgba(250,204,21,0.55)" }}>
-              {es ? "🎗️ SANTUARIOS DE ESPERANZA • AYUDA Y TIENDAS" : "🎗️ SANCTUARIES OF HOPE • EVENTS ZIP, LOCAL HELP & STORES"}
-            </span>
-            <button onClick={() => setEs(!es)} style={{ background:"#facc15", color:"#000",
-              fontWeight:900, border:0, borderRadius:999, padding:"4px 13px", fontSize:11, cursor:"pointer" }}>
-              {es ? "🇺🇸 ENGLISH" : "🇪🇸 ESPAÑOL"}
-            </button>
-          </div>
-          <div className="sanctuary-arch-grid">
-            {RIBBONS.map((r, idx) => (
-              <Link key={r.id} href={r.href} className={"arch-pill-" + idx}
-                style={{ background:"rgba(10,14,26,0.92)", border:"1.5px solid " + r.border,
-                  boxShadow:"0 0 14px " + r.border + "33", borderRadius:12, padding:"7px 9px",
-                  display:"flex", alignItems:"center", gap:7, textDecoration:"none", color:"#fff" }}>
-                <RibbonSVG r={r} />
-                <span style={{ fontSize:11.5, fontWeight:800, lineHeight:1.2 }}>{es ? r.es : r.name}</span>
-              </Link>))}
-          </div>
+        <div style={{ position:"relative", zIndex:6, display:"flex", justifyContent:"center",
+          alignItems:"center", flexWrap:"wrap", gap:12, paddingTop:4 }}>
+          <span style={{ fontSize:"clamp(11px,1.05vw,15px)", fontWeight:900, letterSpacing:"0.11em",
+            color:"#fde047", textShadow:"0 2px 12px #000, 0 0 14px rgba(250,204,21,0.5)" }}>
+            {es ? "🎗️ SANTUARIOS DE ESPERANZA • EVENTOS, AYUDA Y TIENDAS" : "🎗️ SANCTUARIES OF HOPE • EVENTS, LOCAL HELP & STORES"}
+          </span>
+          <button onClick={() => setEs(!es)} style={{ background:"#facc15", color:"#000",
+            fontWeight:900, border:0, borderRadius:999, padding:"4px 13px", fontSize:11, cursor:"pointer" }}>
+            {es ? "🇺🇸 ENGLISH" : "🇪🇸 ESPAÑOL"}
+          </button>
+        </div>
+        <div className="sanctuary-arch-grid">
+          {RIBBONS.map((r, idx) => (
+            <Link key={r.id} href={r.href} className={"nebula-card arch-pill-" + idx}
+              style={{ border:"1.5px solid " + r.border, boxShadow:"0 4px 18px #000b, inset 0 0 18px " + r.border + "38",
+                borderRadius:12, padding:"8px 10px", display:"flex", alignItems:"center", gap:7, textDecoration:"none", color:"#fff" }}>
+              <RibbonSVG r={r} />
+              <span style={{ fontSize:11.5, fontWeight:800, lineHeight:1.2 }}>{es ? r.es : r.name}</span>
+            </Link>))}
         </div>
       </div>
       <div className="solar-stage">
         <canvas ref={canvasRef} width={1600} height={1200}
           style={{ position:"absolute", inset:0, width:"100%", height:"100%", pointerEvents:"none" }} />
         <div style={{ position:"absolute", left:"50%", top:"49%",
-          transform:"translate(-50%,-50%)", width:"24cqw", height:"24cqw", zIndex:30 }}>
-          <PlanetRingHalf front={false} />
-          <div style={{ position:"absolute", inset:0, zIndex:3, borderRadius:"50%", overflow:"hidden",
-            border:"2px solid rgba(254,240,138,0.85)",
-            boxShadow:"0 0 3.4cqw rgba(249,115,22,0.95), 0 0 6cqw rgba(220,38,38,0.55), inset 0 0 2.5cqw #fffbeb" }}>
+          transform:"translate(-50%,-50%)", width:"23cqw", height:"23cqw", zIndex:30 }}>
+          <div style={{ position:"absolute", inset:0, zIndex:3, borderRadius:"50%", overflow:"hidden", border:"2.5px solid #ef4444",
+            boxShadow:"0 0 3.2cqw rgba(239,68,68,0.92), 0 0 6cqw rgba(185,28,28,0.5), inset 0 0 2.4cqw #dc2626" }}>
             <svg viewBox="0 0 240 240" style={{ width:"100%", height:"100%", display:"block" }}>
-              <rect width="240" height="240" filter="url(#magma)" />
+              <rect width="240" height="240" filter="url(#crimsonCore)" />
             </svg>
-            <div style={{ position:"absolute", inset:0, borderRadius:"50%",
-              background:"radial-gradient(circle at 36% 28%, rgba(254,249,195,0.42) 0%, transparent 45%, rgba(15,4,2,0.68) 100%)" }} />
           </div>
-          <div style={{ position:"absolute", top:"15%", left:0, right:0, textAlign:"center",
-            zIndex:8, textShadow:"0 2px 10px rgba(0,0,0,0.95)" }}>
-            <div style={{ fontSize:"clamp(8.5px,1cqw,14px)", fontWeight:800, color:"#fef08a" }}>Electric Sun</div>
-            <div style={{ fontSize:"clamp(15px,2.45cqw,34px)", fontWeight:900, color:"#fff" }}>ALBS NEXUS</div>
-            <div style={{ fontSize:"clamp(8px,0.95cqw,13px)", fontWeight:800, color:"#fed7aa" }}>10 Worlds • Mega Stores</div>
+          <div style={{ position:"absolute", top:"15%", left:0, right:0, textAlign:"center", zIndex:8, textShadow:"0 2px 10px #000" }}>
+            <div style={{ fontSize:"clamp(8px,0.95cqw,13.5px)", fontWeight:800, color:"#fecaca" }}>Electric Sun</div>
+            <div style={{ fontSize:"clamp(15px,2.4cqw,34px)", fontWeight:900, color:"#fff" }}>ALBS NEXUS</div>
+            <div style={{ fontSize:"clamp(8px,0.9cqw,12.5px)", fontWeight:800, color:"#e2e8f0" }}>10 Worlds • Mega Stores</div>
           </div>
-          <PlanetRingHalf front={true} />
-          <div style={{ position:"absolute", left:"-2%", right:"-2%", top:"54%", height:"38%", zIndex:14,
-            background:"linear-gradient(180deg,rgba(14,17,26,0.95),rgba(4,5,9,0.99))",
-            borderRadius:"22% 22% 52% 52% / 26% 26% 74% 74%",
-            borderTop:"2px solid rgba(253,224,71,0.65)", borderBottom:"2px solid rgba(249,115,22,0.75)",
+          <div style={{ position:"absolute", left:"-4%", right:"-4%", top:"51%", height:"38%", zIndex:14,
+            background:"linear-gradient(180deg,rgba(14,17,26,0.96),rgba(4,5,9,0.99))", borderRadius:"22% 22% 52% 52% / 26% 26% 74% 74%",
+            borderTop:"1.8px solid rgba(226,232,240,0.45)", borderBottom:"1.8px solid rgba(239,68,68,0.75)",
             display:"flex", flexDirection:"column", alignItems:"center", justifyContent:"center", padding:"0 10px" }}>
             <input value={q} onChange={e => setQ(e.target.value)} placeholder="Search All Malls & Mega Stores..."
               style={{ width:"84%", background:"#0b0f19", border:"1px solid #475569", color:"#fff",
-                borderRadius:999, padding:"5px 11px", fontSize:"clamp(8px,0.9cqw,13px)" }} />
-            <Link href="/nostalgia/concierge" style={{ marginTop:"0.32cqw", color:"#fde047",
-              fontSize:"clamp(7.5px,0.82cqw,12px)", fontWeight:800, textDecoration:"none" }}>
+                borderRadius:999, padding:"5px 11px", fontSize:"clamp(8px,0.88cqw,12.5px)" }} />
+            <Link href="/nostalgia/concierge" style={{ marginTop:"0.3cqw", color:"#fde047",
+              fontSize:"clamp(7px,0.8cqw,11.5px)", fontWeight:800, textDecoration:"none" }}>
               3-Hr AI Concierge (24-Hr Hold) →
             </Link>
           </div>
-          {hits.length > 0 ? (<div style={{ position:"absolute", top:"102%", left:"50%",
-            transform:"translateX(-50%)", width:250, background:"#090d16", border:"1px solid #38bdf8",
-            borderRadius:10, padding:6, zIndex:60 }}>
+          <Link href="/stores/emergency-ready" style={{ position:"absolute", top:"91%", left:"50%", transform:"translateX(-50%)",
+            zIndex:16, whiteSpace:"nowrap", background:"linear-gradient(90deg,#991b1b,#dc2626,#991b1b)",
+            border:"1px solid #fca5a5", borderRadius:999, padding:"2px 10px", color:"#fff",
+            fontSize:"clamp(6.5px,0.68cqw,10px)", fontWeight:800, textDecoration:"none" }}>
+            🚨 EMERGENCY SUPERSTORE • Flood • Hurricane • Fire →
+          </Link>
+          {hits.length > 0 ? (<div style={{ position:"absolute", top:"102%", left:"50%", transform:"translateX(-50%)",
+            width:250, background:"#090d16", border:"1px solid #38bdf8", borderRadius:10, padding:6, zIndex:60 }}>
             {hits.slice(0, 8).map(h => (<Link key={h.id} href={h.href} style={{ display:"flex",
               justifyContent:"space-between", padding:"5px 7px", color:"#fff", textDecoration:"none", fontSize:12 }}>
               <span>{h.title}</span><span style={{ color:"#38bdf8" }}>Go →</span></Link>))}
@@ -231,19 +196,20 @@ export default function AlbsNexusGalaxy() {
             <div style={{ position:"relative", width:n.size+"cqw", height:n.size+"cqw", margin:"0 auto" }}>
               <OrbHalo n={n} />
               <div style={{ position:"absolute", inset:0, zIndex:3, borderRadius:"50%", overflow:"hidden",
-                background:"#060b18", border:"2px solid rgba(255,255,255,0.88)",
-                boxShadow:"0 0 22px " + n.c1 + "aa, inset 0 0 14px rgba(0,0,0,0.5)" }}>
+                background:"#03060f", border:"2px solid rgba(226,232,240,0.86)",
+                boxShadow:"0 0 22px " + n.c1 + "aa, inset 0 0 18px #000" }}>
                 <img src={n.img} alt="" referrerPolicy="no-referrer"
                   onError={e => { e.currentTarget.src = ORB_FALLBACK; }}
-                  style={{ width:"100%", height:"100%", objectFit:"cover", transform:"scale(1.12)", display:"block" }} />
+                  style={{ width:"100%", height:"100%", objectFit:"cover",
+                    transform:"scale(1.16)", filter:"contrast(1.1) brightness(0.9)", display:"block" }} />
                 <div style={{ position:"absolute", inset:0, borderRadius:"50%",
-                  background:"radial-gradient(circle at 30% 24%, rgba(255,255,255,0.26) 0%, transparent 44%, rgba(2,6,23,0.42) 100%)" }} />
+                  background:"radial-gradient(circle at 50% 46%, transparent 38%, rgba(4,8,20,0.5) 70%, rgba(2,4,12,0.95) 100%)" }} />
               </div>
             </div>
-            <div style={{ position:"relative", zIndex:4, marginTop:"0.6cqw", whiteSpace:"nowrap", textShadow:"0 2px 8px #000" }}>
+            <div style={{ position:"relative", zIndex:4, marginTop:"0.55cqw", whiteSpace:"nowrap", textShadow:"0 2px 8px #000" }}>
               <div style={{ fontSize:"clamp(8.5px,0.96cqw,14px)", fontWeight:900,
                 color:n.size>12?"#fef08a":"#fff" }}>{n.title}</div>
-              <div style={{ fontSize:"clamp(6.5px,0.75cqw,11px)", fontWeight:600, color:"#e2e8f0" }}>{n.sub}</div>
+              <div style={{ fontSize:"clamp(6.5px,0.75cqw,11px)", fontWeight:600, color:"#cbd5e1" }}>{n.sub}</div>
             </div>
           </Link>))}
       </div>
