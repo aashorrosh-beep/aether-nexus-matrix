@@ -17,6 +17,29 @@ function RibbonSVG({ r }: { r: RibbonItem }) {
       <circle cx="18" cy="11.5" r="3.4" fill="#090b12" />
     </svg>);
 }
+function FlameHalo({ c1, c2, id }: { c1: string; c2: string; id: string }) {
+  const d = Array.from({ length: 18 }, (_, i) => {
+    const a = (i / 18) * Math.PI * 2, tip = i % 2 === 0 ? 98 : 92;
+    const p = (ang: number, r: number) =>
+      (100 + Math.cos(ang) * r).toFixed(1) + " " + (100 + Math.sin(ang) * r).toFixed(1);
+    return "M" + p(a - 0.15, 72) + " Q" + p(a - 0.04, 88) + " " +
+      p(a + 0.05, tip) + " Q" + p(a + 0.09, 83) + " " + p(a + 0.16, 72) + "Z";
+  }).join(" ");
+  const g = "fg-" + id;
+  return (
+    <svg className="orb-flame" viewBox="0 0 200 200"
+      style={{ position:"absolute", inset:"-16%", width:"132%", height:"132%",
+        zIndex:1, filter:"drop-shadow(0 0 8px " + c1 + ")" }}>
+      <defs>
+        <radialGradient id={g} cx="50%" cy="50%" r="50%">
+          <stop offset="68%" stopColor="#fff7ed" />
+          <stop offset="83%" stopColor={c1} />
+          <stop offset="100%" stopColor={c2} stopOpacity="0.15" />
+        </radialGradient>
+      </defs>
+      <path d={d} fill={"url(#" + g + ")"} />
+    </svg>);
+}
 function drawArc(ctx: CanvasRenderingContext2D, x1: number, y1: number,
   x2: number, y2: number, disp: number, depth: number) {
   const pts: [number, number][] = [[x1, y1], [x2, y2]];
@@ -47,10 +70,10 @@ export default function AlbsNexusGalaxy() {
       last = t;
       const ctx = canvasRef.current?.getContext("2d");
       if (!ctx) return;
-      ctx.clearRect(0, 0, 1600, 1060);
-      [[270,175],[415,265],[565,360]].forEach(([rx, ry]) => {
-        ctx.beginPath(); ctx.ellipse(800, 520, rx, ry, 0, 0, Math.PI * 2);
-        ctx.strokeStyle = "rgba(186,230,253,0.11)"; ctx.lineWidth = 1.1;
+      ctx.clearRect(0, 0, 1600, 1200);
+      [[425,335],[640,445]].forEach(([rx, ry]) => {
+        ctx.beginPath(); ctx.ellipse(800, 582, rx, ry, 0, 0, Math.PI * 2);
+        ctx.strokeStyle = "rgba(186,230,253,0.12)"; ctx.lineWidth = 1.2;
         ctx.shadowBlur = 0; ctx.stroke();
       });
       NODES.forEach(n => {
@@ -58,7 +81,7 @@ export default function AlbsNexusGalaxy() {
         ctx.lineCap = "round"; ctx.shadowColor = n.bolt;
         ctx.shadowBlur = hot ? 28 : 16; ctx.strokeStyle = n.bolt;
         ctx.lineWidth = hot ? 5.2 : 3.2;
-        const pts = drawArc(ctx, 800, 520, n.x, n.y, hot ? 64 : 44, 5);
+        const pts = drawArc(ctx, 800, 582, n.x, n.y, hot ? 64 : 44, 5);
         ctx.shadowBlur = 5; ctx.strokeStyle = "#ffffff";
         ctx.lineWidth = hot ? 2.1 : 1.2; ctx.beginPath();
         pts.forEach(([x, y], i) => (i === 0 ? ctx.moveTo(x, y) : ctx.lineTo(x, y)));
@@ -93,70 +116,74 @@ export default function AlbsNexusGalaxy() {
               border:"1.5px solid " + r.border, borderRadius:10, padding:"7px 9px",
               display:"flex", alignItems:"center", gap:7, textDecoration:"none", color:"#fff" }}>
               <RibbonSVG r={r} />
-              <span style={{ fontSize:11.5, fontWeight:800, lineHeight:1.2 }}>
-                {es ? r.es : r.name}
-              </span>
+              <span style={{ fontSize:11.5, fontWeight:800, lineHeight:1.2 }}>{es ? r.es : r.name}</span>
             </Link>))}
         </div>
       </div>
       <div className="solar-stage">
-        <canvas ref={canvasRef} width={1600} height={1060}
+        <canvas ref={canvasRef} width={1600} height={1200}
           style={{ position:"absolute", inset:0, width:"100%", height:"100%", pointerEvents:"none" }} />
-        <div style={{ position:"absolute", left:"50%", top:"49%",
-          transform:"translate(-50%,-50%)", width:"18.4cqw", height:"18.4cqw", zIndex:30 }}>
-          <div style={{ position:"absolute", inset:0, borderRadius:"50%", overflow:"hidden",
-            boxShadow:"0 0 2.5cqw rgba(239,68,68,0.88), inset 0 0 2.2cqw #dc2626" }}>
+        <div style={{ position:"absolute", left:"50%", top:"48.5%",
+          transform:"translate(-50%,-50%)", width:"24cqw", height:"24cqw", zIndex:30 }}>
+          <FlameHalo c1="#ef4444" c2="#fde047" id="sun" />
+          <div style={{ position:"absolute", inset:0, zIndex:2, borderRadius:"50%", overflow:"hidden",
+            border:"2.5px solid #fca5a5",
+            boxShadow:"0 0 3cqw rgba(239,68,68,0.9), inset 0 0 2.5cqw #dc2626" }}>
             <svg viewBox="0 0 240 240" style={{ width:"100%", height:"100%", display:"block" }}>
               <defs><filter id="cm" x="0%" y="0%" width="100%" height="100%">
                 <feTurbulence type="turbulence" baseFrequency="0.032" numOctaves={4} seed={11} result="t" />
                 <feColorMatrix type="matrix" values="-4.2 0 0 0 1.48 0 -6.8 0 0 0.32 0 0 -7.5 0 0.32 0 0 0 1 0" in="t" />
               </filter></defs>
               <rect width="240" height="240" filter="url(#cm)" />
-              <circle cx="120" cy="120" r="117" fill="none" stroke="#ef4444" strokeWidth="6" />
             </svg>
           </div>
           <div style={{ position:"absolute", top:"15%", left:0, right:0, textAlign:"center", zIndex:8 }}>
-            <div style={{ fontSize:"clamp(7.5px,0.82cqw,11.5px)", fontWeight:700, color:"#fecaca" }}>Electric Sun</div>
-            <div style={{ fontSize:"clamp(12px,1.9cqw,26px)", fontWeight:900, color:"#fff" }}>ALBS NEXUS</div>
-            <div style={{ fontSize:"clamp(7px,0.78cqw,11px)", fontWeight:700, color:"#e2e8f0" }}>10 Worlds • Mega Stores</div>
+            <div style={{ fontSize:"clamp(8.5px,1cqw,14px)", fontWeight:700, color:"#fecaca" }}>Electric Sun</div>
+            <div style={{ fontSize:"clamp(15px,2.45cqw,34px)", fontWeight:900, color:"#fff" }}>ALBS NEXUS</div>
+            <div style={{ fontSize:"clamp(8px,0.95cqw,13px)", fontWeight:700, color:"#e2e8f0" }}>10 Worlds • Mega Stores</div>
           </div>
-          <div style={{ position:"absolute", left:"-3%", right:"-3%", top:"50%", height:"41%", zIndex:12,
+          <div style={{ position:"absolute", left:"-2%", right:"-2%", top:"51%", height:"40%", zIndex:12,
             background:"linear-gradient(180deg,rgba(14,17,26,0.96),rgba(4,5,9,0.99))",
             borderRadius:"22% 22% 52% 52% / 26% 26% 74% 74%",
-            borderTop:"1.8px solid rgba(226,232,240,0.45)", borderBottom:"1.8px solid rgba(244,63,94,0.65)",
-            display:"flex", flexDirection:"column", alignItems:"center", justifyContent:"center", padding:"0 8px" }}>
+            borderTop:"2px solid rgba(226,232,240,0.5)", borderBottom:"2px solid rgba(244,63,94,0.7)",
+            display:"flex", flexDirection:"column", alignItems:"center", justifyContent:"center", padding:"0 10px" }}>
             <input value={q} onChange={e => setQ(e.target.value)} placeholder="Search All Malls & Mega Stores..."
               style={{ width:"84%", background:"#0b0f19", border:"1px solid #475569", color:"#fff",
-                borderRadius:999, padding:"3px 9px", fontSize:"clamp(7px,0.75cqw,11px)" }} />
-            <Link href="/nostalgia/concierge" style={{ marginTop:"0.3cqw", color:"#fde047",
-              fontSize:"clamp(6.5px,0.7cqw,10px)", fontWeight:800, textDecoration:"none" }}>
+                borderRadius:999, padding:"5px 11px", fontSize:"clamp(8px,0.9cqw,13px)" }} />
+            <Link href="/nostalgia/concierge" style={{ marginTop:"0.35cqw", color:"#fde047",
+              fontSize:"clamp(7.5px,0.82cqw,12px)", fontWeight:800, textDecoration:"none" }}>
               3-Hr AI Concierge (24-Hr Hold) →
             </Link>
           </div>
           {hits.length > 0 ? (<div style={{ position:"absolute", top:"102%", left:"50%",
-            transform:"translateX(-50%)", width:230, background:"#090d16", border:"1px solid #38bdf8",
+            transform:"translateX(-50%)", width:250, background:"#090d16", border:"1px solid #38bdf8",
             borderRadius:10, padding:6, zIndex:60 }}>
             {hits.slice(0, 8).map(h => (<Link key={h.id} href={h.href} style={{ display:"flex",
-              justifyContent:"space-between", padding:"5px 7px", color:"#fff", textDecoration:"none", fontSize:11.5 }}>
+              justifyContent:"space-between", padding:"5px 7px", color:"#fff", textDecoration:"none", fontSize:12 }}>
               <span>{h.title}</span><span style={{ color:"#38bdf8" }}>Go →</span></Link>))}
           </div>) : null}
         </div>
         {NODES.map(n => (
           <Link key={n.id} href={n.href} className="planet-orb"
             onMouseEnter={() => { hotRef.current = n.id; }} onMouseLeave={() => { hotRef.current = null; }}
-            style={{ position:"absolute", left:((n.x/1600)*100)+"%", top:((n.y/1060)*100)+"%",
+            style={{ position:"absolute", left:((n.x/1600)*100)+"%", top:((n.y/1200)*100)+"%",
               transform:"translate(-50%,-50%)", textDecoration:"none", textAlign:"center", zIndex:22 }}>
-            <div style={{ position:"relative", width:n.size+"cqw", height:n.size+"cqw", margin:"0 auto",
-              borderRadius:"50%", overflow:"hidden",
-              border:n.id==="megastores"?"2.5px solid #facc15":"2px solid rgba(224,242,254,0.85)",
-              boxShadow:n.id==="megastores"?"0 0 26px #facc15aa":"0 0 20px rgba(56,189,248,0.45)" }}>
-              <div style={{ position:"absolute", inset:0, backgroundImage:"url('"+n.img+"')",
-                backgroundSize:"cover", backgroundPosition:"center" }} />
+            <div style={{ position:"relative", width:n.size+"cqw", height:n.size+"cqw", margin:"0 auto" }}>
+              <FlameHalo c1={n.f1} c2={n.f2} id={n.id} />
+              <div style={{ position:"absolute", inset:0, zIndex:2, borderRadius:"50%", overflow:"hidden",
+                background:"#060b18", border:"2.2px solid rgba(255,255,255,0.92)",
+                boxShadow:"0 0 18px " + n.f1 + "aa, inset 0 0 14px rgba(0,0,0,0.45)" }}>
+                <img src={n.img} alt={n.title} referrerPolicy="no-referrer"
+                  style={{ width:"100%", height:"100%", objectFit:"cover",
+                    transform:"scale(1.18)", display:"block" }} />
+                <div style={{ position:"absolute", inset:0, borderRadius:"50%",
+                  background:"radial-gradient(circle at 30% 24%, rgba(255,255,255,0.28) 0%, transparent 42%, rgba(2,6,23,0.38) 100%)" }} />
+              </div>
             </div>
-            <div style={{ marginTop:"0.4cqw", whiteSpace:"nowrap", textShadow:"0 2px 8px #000" }}>
-              <div style={{ fontSize:"clamp(8px,0.92cqw,13px)", fontWeight:900,
-                color:n.id==="megastores"?"#fde047":"#fff" }}>{n.title}</div>
-              <div style={{ fontSize:"clamp(6.5px,0.72cqw,10.5px)", fontWeight:600, color:"#cbd5e1" }}>{n.sub}</div>
+            <div style={{ position:"relative", zIndex:4, marginTop:"0.55cqw", whiteSpace:"nowrap", textShadow:"0 2px 8px #000" }}>
+              <div style={{ fontSize:"clamp(8.5px,0.96cqw,14px)", fontWeight:900,
+                color:n.size>12?"#fef08a":"#fff" }}>{n.title}</div>
+              <div style={{ fontSize:"clamp(6.5px,0.75cqw,11px)", fontWeight:600, color:"#e2e8f0" }}>{n.sub}</div>
             </div>
           </Link>))}
       </div>
