@@ -1,17 +1,17 @@
+export type HaloKind = "fire" | "fog" | "static" | "nebula" | "ringneb";
 export interface RibbonItem {
   id: string; name: string; es: string; href: string;
   border: string; puzzle?: boolean;
   r1: string; r2: string; r3?: string; r4?: string;
 }
 export interface NodeItem {
-  id: string; x: number; y: number; size: number;
-  bolt: string; f1: string; f2: string;
+  id: string; x: number; y: number; size: number; kind: HaloKind;
+  bolt: string; c1: string; c2: string;
   title: string; sub: string; href: string; img: string;
 }
-const u = (id: string) =>
-  "https://images.unsplash.com/photo-" + id + "?auto=format&fit=crop&w=640&h=640&q=80";
 const b = (q: string) =>
-  "https://tse1.mm.bing.net/th?q=" + encodeURIComponent(q) + "&w=480&h=480&c=7&p=0";
+  "https://tse1.mm.bing.net/th?q=" + encodeURIComponent(q) + "&w=480&h=480&c=7";
+export const ORB_FALLBACK = b("deep space glowing nebula stars");
 export const RIBBONS: RibbonItem[] = [
   { id:"autism", name:"Autism Spectrum", es:"Espectro Autista", href:"/sanctuary/autism-spectrum", border:"#3b82f6", puzzle:true, r1:"#ef4444", r2:"#facc15", r3:"#2563eb", r4:"#38bdf8" },
   { id:"down", name:"Down Syndrome", es:"Síndrome de Down", href:"/sanctuary/down-syndrome", border:"#eab308", r1:"#1d4ed8", r2:"#facc15" },
@@ -21,16 +21,16 @@ export const RIBBONS: RibbonItem[] = [
   { id:"peptides", name:"Biomedical Peptides", es:"Péptidos Biomédicos", href:"/sanctuary/biomedical-peptides", border:"#a855f7", r1:"#7c3aed", r2:"#c084fc" }
 ];
 export const NODES: NodeItem[] = [
-  { id:"megastores", x:800, y:175, size:11.0, bolt:"#facc15", f1:"#facc15", f2:"#fb923c", title:"MEGA STORES", sub:"Shoes • Music Town • Emergency • Auto", href:"/stores/mega-stores", img:b("futuristic neon sneaker vinyl superstore") },
-  { id:"party", x:1335, y:215, size:13.2, bolt:"#38bdf8", f1:"#fb7185", f2:"#fde047", title:"PARTY LAPOOZA", sub:"Ages 1-18 • Bulk • AI Face-Swap", href:"/stores/party-lapooza", img:u("1530103862676-de8c9debad1d") },
-  { id:"maternity", x:1225, y:535, size:11.0, bolt:"#38bdf8", f1:"#38bdf8", f2:"#a7f3d0", title:"MATERNITY & CPR", sub:"Nursery • Free CPR Cert", href:"/stores/expecting-and-cpr", img:b("modern cozy baby nursery crib") },
-  { id:"stadium", x:1415, y:820, size:13.2, bolt:"#38bdf8", f1:"#22c55e", f2:"#fde047", title:"ALBS NEXUS STADIUM", sub:"Jerseys • Hats • Sweaters • Gear", href:"/sportflix", img:u("1540747913346-19e32dc3e97e") },
-  { id:"matrix", x:1095, y:865, size:11.0, bolt:"#ef4444", f1:"#10b981", f2:"#fde047", title:"THE MATRIX • AI", sub:"Robotics • VR • Future Tech", href:"/netrix/vr-immersion-bay", img:b("futuristic humanoid robot green cyber") },
-  { id:"christmas", x:800, y:1030, size:13.2, bolt:"#ef4444", f1:"#ef4444", f2:"#fde047", title:"CHRISTMAS STORE", sub:"365 Holiday • Ornaments • Lights", href:"/stores/christmas-store", img:u("1543589077-47d81606c1bf") },
-  { id:"stargazer", x:505, y:865, size:11.0, bolt:"#ef4444", f1:"#ef4444", f2:"#60a5fa", title:"STARGAZER & AUTO", sub:"Scopes • Eclipse • Detailing", href:"/stores/stargazer-mall", img:u("1503376780353-766692767b70") },
-  { id:"luxury", x:185, y:820, size:13.2, bolt:"#ef4444", f1:"#f59e0b", f2:"#fef08a", title:"LUXURY SUITES", sub:"Watches • Pens • Purses", href:"/stores/luxury-couture", img:u("1523170335258-f5ed11844a49") },
-  { id:"worldsfair", x:375, y:535, size:11.0, bolt:"#38bdf8", f1:"#38bdf8", f2:"#c084fc", title:"1964 WORLD'S FAIR", sub:"60s-90s Grails • Replicas", href:"/nostalgia", img:"https://commons.wikimedia.org/wiki/Special:FilePath/1964_New_York_World%27s_Fair_Unisphere.jpg?width=700" },
-  { id:"squish", x:265, y:215, size:13.2, bolt:"#38bdf8", f1:"#ec4899", f2:"#38bdf8", title:"SQUISH & BLIND VAULT", sub:"Plush • Pop Mart • Bundles", href:"/stores/squish-blindbox", img:u("1558679908-541bcf1249ff") }
+  { id:"megastores", x:800, y:185, size:11.0, kind:"static", bolt:"#60a5fa", c1:"#38bdf8", c2:"#fde047", title:"MEGA STORES", sub:"Shoes • Music Town • Emergency • Auto", href:"/stores/mega-stores", img:b("futuristic neon glowing sneaker superstore") },
+  { id:"party", x:1330, y:225, size:13.2, kind:"nebula", bolt:"#60a5fa", c1:"#ec4899", c2:"#fde047", title:"PARTY LAPOOZA", sub:"Ages 1-18 • Bulk • AI Face-Swap", href:"/stores/party-lapooza", img:b("colorful birthday party table balloons decorations") },
+  { id:"maternity", x:1220, y:540, size:11.0, kind:"nebula", bolt:"#67e8f9", c1:"#2dd4bf", c2:"#bae6fd", title:"MATERNITY & CPR", sub:"Nursery • Free CPR Cert", href:"/stores/expecting-and-cpr", img:b("warm cozy modern baby nursery crib") },
+  { id:"stadium", x:1410, y:825, size:13.2, kind:"fog", bolt:"#34d399", c1:"#10b981", c2:"#22d3ee", title:"ALBS NEXUS STADIUM", sub:"Jerseys • Hats • Sweaters • Gear", href:"/sportflix", img:b("illuminated night football stadium green field") },
+  { id:"matrix", x:1095, y:870, size:11.0, kind:"fog", bolt:"#4ade80", c1:"#22c55e", c2:"#86efac", title:"THE MATRIX • AI", sub:"Robotics • VR • Future Tech", href:"/netrix/vr-immersion-bay", img:b("futuristic green cyber humanoid ai robot") },
+  { id:"christmas", x:800, y:1035, size:13.2, kind:"fire", bolt:"#f97316", c1:"#ef4444", c2:"#fde047", title:"CHRISTMAS STORE", sub:"365 Holiday • Ornaments • Lights", href:"/stores/christmas-store", img:b("glowing red gold christmas tree ornaments lights") },
+  { id:"stargazer", x:505, y:870, size:11.0, kind:"ringneb", bolt:"#60a5fa", c1:"#38bdf8", c2:"#f97316", title:"STARGAZER & AUTO", sub:"Scopes • Eclipse • Detailing", href:"/stores/stargazer-mall", img:b("astronomy telescope starry night sky") },
+  { id:"luxury", x:190, y:825, size:13.2, kind:"fire", bolt:"#fbbf24", c1:"#f59e0b", c2:"#fef08a", title:"LUXURY SUITES", sub:"Watches • Pens • Purses", href:"/stores/luxury-couture", img:b("luxury gold steel automatic chronograph watch") },
+  { id:"worldsfair", x:380, y:540, size:11.0, kind:"static", bolt:"#38bdf8", c1:"#0ea5e9", c2:"#e0f2fe", title:"1964 WORLD'S FAIR", sub:"60s-90s Grails • Replicas", href:"/nostalgia", img:b("1964 new york worlds fair unisphere globe") },
+  { id:"squish", x:270, y:225, size:13.2, kind:"nebula", bolt:"#c084fc", c1:"#f472b6", c2:"#a855f7", title:"SQUISH & BLIND VAULT", sub:"Plush • Pop Mart • Bundles", href:"/stores/squish-blindbox", img:b("colorful squishmallow plush collection grid") }
 ];
 export const EXTRA_SEARCH = [
   { id:"sh", title:"Apex Shoe Vault (Sizes 5-15)", href:"/stores/shoe-store" },

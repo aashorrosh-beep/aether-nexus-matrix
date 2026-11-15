@@ -7,31 +7,55 @@ html, body {
   overflow-x: hidden;
 }
 .galaxy-canvas {
-  position: relative; min-height: 100vh; width: 100%; padding: 10px 12px 34px;
+  position: relative; min-height: 100vh; width: 100%; padding: 2px 10px 36px;
   background-color: #02040a;
   background-image:
-    radial-gradient(ellipse 75% 44% at 50% 54%, rgba(239,68,68,0.22), rgba(56,189,248,0.14) 45%, transparent 78%),
+    radial-gradient(ellipse 72% 45% at 50% 55%, rgba(234,88,12,0.22), rgba(56,189,248,0.12) 48%, transparent 78%),
     url("https://commons.wikimedia.org/wiki/Special:FilePath/Andromeda_Galaxy_(with_h-alpha).jpg?width=1920");
   background-size: cover; background-position: center;
 }
-@keyframes flameDance {
-  0%, 100% { transform: scale(1) rotate(0deg); opacity: 0.92; }
-  50% { transform: scale(1.06, 1.09) rotate(4deg); opacity: 1; }
-}
-.orb-flame { animation: flameDance 2.6s ease-in-out infinite; pointer-events: none; }
-.planet-orb { transition: transform 0.24s ease, filter 0.24s ease; }
-.planet-orb:hover { transform: translate(-50%, -50%) scale(1.08) !important; filter: brightness(1.16); z-index: 55 !important; }
 .solar-stage {
   position: relative; width: 100%; max-width: 1380px;
   margin: 0 auto; aspect-ratio: 1600 / 1200; container-type: inline-size;
 }
-.sanctuary-grid { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 7px; }
-@media (max-width: 920px) { .sanctuary-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
-@media (max-width: 520px) { .sanctuary-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
-@keyframes flameDance {
-  0%, 100% { transform: scale(1) rotate(0deg); opacity: 0.92; }
-  50% { transform: scale(1.06, 1.09) rotate(4deg); opacity: 1; }
+.ring-arch-shell {
+  position: relative; z-index: 5; max-width: 1280px; margin: 0 auto;
+  padding: 18px 26px 24px;
+  border-radius: 50% 50% 36% 36% / 58px 58px 22px 22px;
+  background: linear-gradient(180deg, rgba(14,16,30,0.8), rgba(5,8,17,0.88));
 }
-.orb-flame { animation: flameDance 2.6s ease-in-out infinite; pointer-events: none; }
+.ring-arch-shell {
+  border-top: 2.2px solid rgba(253,224,71,0.82);
+  border-bottom: 1.6px solid rgba(251,191,36,0.48);
+  box-shadow: 0 -6px 34px rgba(245,158,11,0.34), inset 0 10px 26px rgba(253,224,71,0.18);
+}
+.sanctuary-arch-grid {
+  display: grid; grid-template-columns: repeat(6, minmax(0, 1fr));
+  gap: 8px; padding-top: 6px;
+}
+.arch-pill-0 { transform: translateY(11px) rotate(-3.2deg); }
+.arch-pill-1 { transform: translateY(3px) rotate(-1.5deg); }
+.arch-pill-2 { transform: translateY(-2px) rotate(-0.4deg); }
+.arch-pill-3 { transform: translateY(-2px) rotate(0.4deg); }
+.arch-pill-4 { transform: translateY(3px) rotate(1.5deg); }
+.arch-pill-5 { transform: translateY(11px) rotate(3.2deg); }
+@media (max-width: 960px) {
+  .sanctuary-arch-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .arch-pill-0,.arch-pill-1,.arch-pill-2,.arch-pill-3,.arch-pill-4,.arch-pill-5 { transform: none; }
+  .ring-arch-shell { border-radius: 20px; padding: 12px 14px; }
+}
+@media (max-width: 540px) { .sanctuary-arch-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@keyframes gasCw {
+  0% { transform: rotate(0deg) scale(1); }
+  50% { transform: rotate(180deg) scale(1.05); }
+  100% { transform: rotate(360deg) scale(1); }
+}
+@keyframes gasCcw {
+  0% { transform: rotate(360deg) scale(1.03); }
+  50% { transform: rotate(180deg) scale(0.97); }
+  100% { transform: rotate(0deg) scale(1.03); }
+}
+.gas-cw { animation: gasCw 22s linear infinite; transform-origin: 110px 110px; }
+.gas-ccw { animation: gasCcw 16s linear infinite; transform-origin: 110px 110px; }
 .planet-orb { transition: transform 0.24s ease, filter 0.24s ease; }
 .planet-orb:hover { transform: translate(-50%, -50%) scale(1.08) !important; filter: brightness(1.16); z-index: 55 !important; }
