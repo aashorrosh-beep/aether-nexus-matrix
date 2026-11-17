@@ -44,7 +44,6 @@ function AstrophysicsDefs() {
       </defs>
     </svg>);
 }
-
 function OrbHalo({ n }: { n: NodeItem }) {
   const flt = n.kind === "fire" ? "url(#wispFire)" : "url(#wisp)";
   const dash = n.kind === "fog" ? "44 18 28 14" : n.kind === "fire" ? "26 10 18 8" : "56 16";
@@ -78,7 +77,6 @@ function drawArc(ctx: CanvasRenderingContext2D, x1: number, y1: number,
   ctx.stroke();
   return pts;
 }
-
 export default function AlbsNexusGalaxy() {
   const [q, setQ] = useState(""), [es, setEs] = useState(false);
   const [prodHits, setProdHits] = useState<Hit[]>([]);
@@ -116,16 +114,21 @@ export default function AlbsNexusGalaxy() {
       if (!ctx) return;
       ctx.clearRect(0, 0, 1600, 1200);
       [[380, 265], [655, 435]].forEach(([rx, ry]) => {
-        ctx.beginPath(); ctx.ellipse(800, 522, rx, ry, 0, 0, Math.PI * 2);
+        ctx.beginPath(); ctx.ellipse(800, 560, rx, ry, 0, 0, Math.PI * 2);
         ctx.strokeStyle = "rgba(148,163,184,0.13)"; ctx.lineWidth = 1.2;
         ctx.shadowBlur = 0; ctx.stroke();
+      });
+      [[545, 305, "#f59e0b"], [1055, 305, "#ef4444"]].forEach(([mx, my, col]) => {
+        ctx.shadowColor = col as string; ctx.shadowBlur = 18;
+        ctx.strokeStyle = col as string; ctx.lineWidth = 2.4;
+        drawArc(ctx, 800, 560, mx as number, my as number, 26, 4);
       });
       NODES.forEach(n => {
         const hot = hotRef.current === n.id, r = n.size * 8.1;
         ctx.lineCap = "round"; ctx.shadowColor = n.bolt;
         ctx.shadowBlur = hot ? 28 : 16; ctx.strokeStyle = n.bolt;
         ctx.lineWidth = hot ? 4.6 : 2.8;
-        const pts = drawArc(ctx, 800, 522, n.x, n.y, hot ? 50 : 32, 5);
+        const pts = drawArc(ctx, 800, 560, n.x, n.y, hot ? 50 : 32, 5);
         ctx.shadowBlur = 4; ctx.strokeStyle = "#fff"; ctx.lineWidth = 1.2;
         ctx.beginPath();
         pts.forEach(([x, y], i) => (i === 0 ? ctx.moveTo(x, y) : ctx.lineTo(x, y)));
@@ -142,7 +145,6 @@ export default function AlbsNexusGalaxy() {
     anim = requestAnimationFrame(loop);
     return () => cancelAnimationFrame(anim);
   }, []);
-
   const sPool: Hit[] = [
     ...NODES.map(n => ({ id: n.id, title: es ? n.titleEs : n.title, store: "WORLD", href: n.href, kind: "store" })),
     ...EXTRA_SEARCH.map(x => ({ id: x.id, title: x.title, store: "VAULT", href: x.href, kind: "store" })),
@@ -184,12 +186,40 @@ export default function AlbsNexusGalaxy() {
             </Link>))}
         </div>
       </div>
-
       <div className="solar-stage">
         <canvas ref={canvasRef} width={1600} height={1200}
           style={{ position:"absolute", inset:0, width:"100%", height:"100%", pointerEvents:"none" }} />
-        <div style={{ position:"absolute", left:"50%", top:"43.5%",
-          transform:"translate(-50%,-50%)", width:"23cqw", height:"23cqw", zIndex:30 }}>
+
+        <Link href="/stores/black-friday" className="meteor-card"
+          style={{ left:"34%", top:"25.5%", border:"2.5px solid #facc15",
+            boxShadow:"-18px -10px 28px rgba(245,158,11,0.55), 0 0 24px rgba(250,204,21,0.65), inset 0 0 18px rgba(251,191,36,0.35)" }}>
+          <div style={{ fontSize:"clamp(8px,0.75cqw,11px)", fontWeight:900, color:"#fde047", letterSpacing:"0.08em" }}>
+            ☄️ {es ? "METEORO CYBER" : "CYBER METEOR VAULT"}
+          </div>
+          <div style={{ fontSize:"clamp(10px,1.05cqw,15.5px)", fontWeight:900, color:"#ffffff", lineHeight:1.15, margin:"3px 0", textShadow:"0 2px 6px #000" }}>
+            {es ? "BLACK FRIDAY • CYBER MONDAY" : "BLACK FRIDAY • CYBER MONDAY"}
+          </div>
+          <div style={{ fontSize:"clamp(7.5px,0.75cqw,11px)", fontWeight:800, color:"#fed7aa" }}>
+            {es ? "5 Ofertas + 5 Eventos →" : "5 Doorbusters + 5 Events →"}
+          </div>
+        </Link>
+
+        <Link href="/stores/emergency-ready" className="meteor-card"
+          style={{ left:"66%", top:"25.5%", border:"2.5px solid #ef4444",
+            boxShadow:"18px -10px 28px rgba(220,38,38,0.65), 0 0 24px rgba(239,68,68,0.7), inset 0 0 18px rgba(220,38,38,0.4)" }}>
+          <div style={{ fontSize:"clamp(8px,0.75cqw,11px)", fontWeight:900, color:"#fca5a5", letterSpacing:"0.08em" }}>
+            ☄️ {es ? "IMPACTO Y RESCATE" : "METEOR IMPACT & RESCUE"}
+          </div>
+          <div style={{ fontSize:"clamp(10px,1.05cqw,15.5px)", fontWeight:900, color:"#ffffff", lineHeight:1.15, margin:"3px 0", textShadow:"0 2px 6px #000" }}>
+            {es ? "BÓVEDA DE TORMENTA Y SUPERVIVENCIA" : "STORM & SURVIVAL VAULT"}
+          </div>
+          <div style={{ fontSize:"clamp(7.5px,0.75cqw,11px)", fontWeight:800, color:"#fde047" }}>
+            {es ? "Inundación • Energía • Fuego →" : "Power • Flood • Hurricane →"}
+          </div>
+        </Link>
+
+        <div style={{ position:"absolute", left:"50%", top:"46.5%",
+          transform:"translate(-50%,-50%)", width:"23.5cqw", height:"23.5cqw", zIndex:30 }}>
           <div style={{ position:"absolute", inset:0, zIndex:3, borderRadius:"50%", overflow:"hidden",
             background:"radial-gradient(circle at 50% 38%, #dc2626 0%, #7f1d1d 42%, #090000 78%, #020000 100%)",
             border:"2.8px solid #ef4444",
@@ -199,46 +229,27 @@ export default function AlbsNexusGalaxy() {
               <rect width="240" height="240" filter="url(#crimsonCore)" />
             </svg>
           </div>
-          <div style={{ position:"absolute", top:"10%", left:0, right:0, textAlign:"center", zIndex:8, textShadow:"0 2px 10px #000" }}>
-            <div style={{ fontSize:"clamp(7.5px,0.94cqw,13.5px)", fontWeight:800, color:"#fecaca" }}>{es ? "Sol Eléctrico" : "Electric Sun"}</div>
-            <div style={{ fontSize:"clamp(11px,2.25cqw,33px)", fontWeight:900, color:"#fff", whiteSpace:"nowrap" }}>ALBS NEXUS</div>
-            <div style={{ fontSize:"clamp(7px,0.88cqw,12.5px)", fontWeight:800, color:"#fde047" }}>{es ? "10 Mundos • Mega Tiendas" : "10 Worlds • Mega Stores"}</div>
-          </div>
-          <div style={{ position:"absolute", left:"-6%", right:"-6%", top:"42%", height:"44%", zIndex:14,
-            background:"linear-gradient(180deg,rgba(8,15,32,0.96),rgba(3,6,15,0.99))", borderRadius:"24% 24% 50% 50% / 28% 28% 72% 72%",
-            borderTop:"2px solid rgba(56,189,248,0.7)", borderBottom:"2px solid rgba(239,68,68,0.85)",
-            boxShadow:"0 8px 24px rgba(0,0,0,0.85), inset 0 0 18px rgba(14,165,233,0.28)",
-            display:"flex", flexDirection:"column", alignItems:"center", justifyContent:"center", gap:"0.35cqw", padding:"0 8px" }}>
-            <Link href="/nostalgia/concierge" style={{ color:"#fde047",
-              fontSize:"clamp(7.5px,0.88cqw,13px)", fontWeight:900, textDecoration:"none", whiteSpace:"nowrap",
-              textShadow:"0 2px 8px #000" }}>
-              {es ? "✨ Conserje IA 3-Hr (Reserva 24-Hr) →" : "✨ 3-Hr AI Concierge (24-Hr Hold) →"}
-            </Link>
+          <div style={{ position:"absolute", inset:0, zIndex:14, display:"flex", flexDirection:"column",
+            alignItems:"center", justifyContent:"center", padding:"0 6%", textAlign:"center", gap:"0.45cqw" }}>
+            <div style={{ textShadow:"0 2px 10px #000" }}>
+              <div style={{ fontSize:"clamp(7.5px,0.9cqw,13px)", fontWeight:800, color:"#fde047" }}>{es ? "Sol Eléctrico" : "Electric Sun"}</div>
+              <div style={{ fontSize:"clamp(12px,2.2cqw,32px)", fontWeight:900, color:"#fff", lineHeight:1.05, whiteSpace:"nowrap" }}>ALBS NEXUS</div>
+              <div style={{ fontSize:"clamp(7px,0.82cqw,12px)", fontWeight:800, color:"#fecaca" }}>{es ? "10 Mundos • Mega Tiendas" : "10 Worlds • Mega Stores"}</div>
+            </div>
             <input value={q} onChange={e => setQ(e.target.value)}
               placeholder={es ? "🔍 Buscar producto, SKU o tienda..." : "🔍 Search Any Product, SKU or Store..."}
-              style={{ width:"92%", background:"linear-gradient(90deg,#0369a1,#0284c7,#0369a1)",
-                border:"2px solid #7dd3fc", color:"#ffffff", fontWeight:800, textAlign:"center",
-                borderRadius:999, padding:"6px 12px", fontSize:"clamp(8.5px,0.96cqw,14px)",
-                boxShadow:"0 0 14px rgba(56,189,248,0.65), inset 0 1px 4px rgba(255,255,255,0.25)" }} />
-          </div>
-          <div style={{ position:"absolute", top:"93%", left:"50%", transform:"translateX(-50%)",
-            zIndex:26, display:"flex", flexDirection:"column", alignItems:"center", gap:6, width:"max-content" }}>
-            <Link href="/stores/black-friday" className="bf-pop-pill" style={{ whiteSpace:"nowrap",
-              background:"linear-gradient(90deg,#f59e0b,#facc15,#f59e0b)", color:"#000",
-              border:"2px solid #fef08a", borderRadius:999, padding:"6px 18px",
-              fontSize:"clamp(9.5px,1.02cqw,15px)", fontWeight:900, textDecoration:"none",
-              boxShadow:"0 4px 20px rgba(250,204,21,0.75), 0 0 12px rgba(245,158,11,0.6)" }}>
-              {es ? "⚡ BLACK FRIDAY • CYBER MONDAY • 5 OFERTAS DIARIAS →" : "⚡ BLACK FRIDAY • CYBER MONDAY VAULT →"}
-            </Link>
-            <Link href="/stores/emergency-ready" className="bf-pop-pill" style={{ whiteSpace:"nowrap",
-              background:"linear-gradient(90deg,#991b1b,#dc2626,#991b1b)", color:"#fff",
-              border:"2px solid #fca5a5", borderRadius:999, padding:"5px 16px",
-              fontSize:"clamp(9px,0.94cqw,14px)", fontWeight:900, textDecoration:"none",
-              boxShadow:"0 4px 18px rgba(220,38,38,0.7)" }}>
-              {es ? "🚨 SUPERMERCADO EMERGENCIAS • Inundación • Fuego →" : "🚨 EMERGENCY SUPERSTORE • Flood • Storm • Fire →"}
+              style={{ width:"96%", background:"#ffffff", color:"#020617", fontWeight:900, textAlign:"center",
+                border:"2.5px solid #facc15", borderRadius:999, padding:"7px 12px",
+                fontSize:"clamp(8.5px,0.95cqw,13.5px)",
+                boxShadow:"0 0 18px rgba(255,255,255,0.9), 0 4px 14px rgba(0,0,0,0.85)" }} />
+            <Link href="/nostalgia/concierge" style={{ background:"rgba(4,7,17,0.92)", border:"1.5px solid #38bdf8",
+              borderRadius:999, padding:"3px 11px", color:"#fde047",
+              fontSize:"clamp(7px,0.82cqw,12px)", fontWeight:900, textDecoration:"none", whiteSpace:"nowrap",
+              boxShadow:"0 2px 10px #000" }}>
+              {es ? "✨ Conserje IA 3-Hr (Reserva 24-Hr) →" : "✨ 3-Hr AI Concierge (24-Hr Hold) →"}
             </Link>
           </div>
-          {hits.length > 0 ? (<div style={{ position:"absolute", top:"126%", left:"50%", transform:"translateX(-50%)",
+          {hits.length > 0 ? (<div style={{ position:"absolute", top:"103%", left:"50%", transform:"translateX(-50%)",
             width:"min(360px,90vw)", maxHeight:310, overflowY:"auto", background:"#080d19",
             border:"2px solid #38bdf8", borderRadius:12, padding:6, zIndex:95, boxShadow:"0 12px 32px #000e" }}>
             {hits.map((h, i) => (<Link key={h.id + i} href={h.href + (h.kind === "product" ? "?q=" + encodeURIComponent(h.title) : "")}

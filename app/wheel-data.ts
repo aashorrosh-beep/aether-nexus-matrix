@@ -29,7 +29,7 @@ export const RIBBONS: RibbonItem[] = [
   R("peptides","Biomedical Peptides","Péptidos Biomédicos","biomedical-peptides","#a855f7","#7c3aed","#c084fc")
 ];
 export const NODES: NodeItem[] = [
-  N("megastores",800,142,14.6,"static","#38bdf8","#38bdf8","#fde047","MEGA STORES","MEGA TIENDAS","All Flagship Vaults","Bóvedas Principales","/stores/mega-stores",b("futuristic neon sneaker black background")),
+  N("megastores",800,92,14.6,"static","#38bdf8","#38bdf8","#fde047","MEGA STORES","MEGA TIENDAS","All Flagship Vaults","Bóvedas Principales","/stores/mega-stores",b("futuristic neon sneaker black background")),
   N("party",1415,225,14.8,"nebula","#38bdf8","#fb7185","#fde047","PARTY LAPOOZA","FIESTA LAPOOZA","Ultimate Event Vault","Eventos y Fiestas","/stores/party-lapooza",u("1530103862676-de8c9debad1d"),"right"),
   N("maternity",1185,500,12.2,"fog","#34d399","#10b981","#67e8f9","MATERNITY & CPR","MATERNIDAD Y RCP","Nursery & Safety","Cunas y Seguridad","/stores/expecting-and-cpr",b("warm modern baby nursery crib evening")),
   N("stadium",1435,835,14.8,"fog","#34d399","#10b981","#2dd4bf","ALBS NEXUS STADIUM","ESTADIO ALBS NEXUS","Pro Sports Corridor","Corredor Deportivo","/sportflix",u("1540747913346-19e32dc3e97e"),"right"),

@@ -46,3 +46,19 @@ html, body {
 .bf-pop-pill { transition: transform 0.22s ease, filter 0.22s ease; display: inline-block; }
 .bf-pop-pill:hover { transform: scale(1.14); filter: brightness(1.12); }
 @keyframes bfPan { 0% { transform: scale(1.02) translate(-2%, -1%); } 100% { transform: scale(1.16) translate(2%, 2%); } }
+.emerald-ring-wrap { margin: 0 auto -54px !important; }
+.meteor-card {
+  position: absolute; transform: translate(-50%, -50%);
+  width: clamp(145px, 14.5cqw, 215px); padding: 12px 14px;
+  border-radius: 22% 38% 26% 34% / 34% 24% 38% 28%;
+  background:
+    radial-gradient(circle at 28% 24%, rgba(251,146,60,0.35), transparent 45%),
+    radial-gradient(circle at 76% 72%, rgba(220,38,38,0.4), transparent 50%),
+    linear-gradient(145deg, #1c1917 0%, #0c0a09 58%, #29150f 100%);
+  transition: transform 0.25s cubic-bezier(0.2,0.9,0.3,1), filter 0.25s ease;
+  z-index: 28; text-decoration: none; text-align: center;
+}
+.meteor-card:hover {
+  transform: translate(-50%, -50%) scale(1.38) !important;
+  filter: brightness(1.18); z-index: 92 !important;
+}
