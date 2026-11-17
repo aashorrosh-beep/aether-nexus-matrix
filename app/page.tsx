@@ -39,7 +39,7 @@ function AstrophysicsDefs() {
         <filter id="crimsonCore" x="0%" y="0%" width="100%" height="100%">
           <feTurbulence type="turbulence" baseFrequency="0.032" numOctaves={4} seed={11} result="t" />
           <feColorMatrix type="matrix"
-            values="-4.5 0 0 0 1.55  0 -8.0 0 0 0.14  0 0 -9.0 0 0 0.10  0 0 0 0 1" in="t" />
+            values="-4.5 0 0 0 1.55  0 -8.0 0 0 0.12  0 0 -9.0 0 0.08  0 0 0 0 1" in="t" />
         </filter>
       </defs>
     </svg>);
@@ -116,7 +116,7 @@ export default function AlbsNexusGalaxy() {
       if (!ctx) return;
       ctx.clearRect(0, 0, 1600, 1200);
       [[380, 265], [655, 435]].forEach(([rx, ry]) => {
-        ctx.beginPath(); ctx.ellipse(800, 636, rx, ry, 0, 0, Math.PI * 2);
+        ctx.beginPath(); ctx.ellipse(800, 522, rx, ry, 0, 0, Math.PI * 2);
         ctx.strokeStyle = "rgba(148,163,184,0.13)"; ctx.lineWidth = 1.2;
         ctx.shadowBlur = 0; ctx.stroke();
       });
@@ -125,7 +125,7 @@ export default function AlbsNexusGalaxy() {
         ctx.lineCap = "round"; ctx.shadowColor = n.bolt;
         ctx.shadowBlur = hot ? 28 : 16; ctx.strokeStyle = n.bolt;
         ctx.lineWidth = hot ? 4.6 : 2.8;
-        const pts = drawArc(ctx, 800, 636, n.x, n.y, hot ? 50 : 32, 5);
+        const pts = drawArc(ctx, 800, 522, n.x, n.y, hot ? 50 : 32, 5);
         ctx.shadowBlur = 4; ctx.strokeStyle = "#fff"; ctx.lineWidth = 1.2;
         ctx.beginPath();
         pts.forEach(([x, y], i) => (i === 0 ? ctx.moveTo(x, y) : ctx.lineTo(x, y)));
@@ -188,53 +188,59 @@ export default function AlbsNexusGalaxy() {
       <div className="solar-stage">
         <canvas ref={canvasRef} width={1600} height={1200}
           style={{ position:"absolute", inset:0, width:"100%", height:"100%", pointerEvents:"none" }} />
-        <div style={{ position:"absolute", left:"50%", top:"53%",
-          transform:"translate(-50%,-50%)", width:"22.5cqw", height:"22.5cqw", zIndex:30 }}>
+        <div style={{ position:"absolute", left:"50%", top:"43.5%",
+          transform:"translate(-50%,-50%)", width:"23cqw", height:"23cqw", zIndex:30 }}>
           <div style={{ position:"absolute", inset:0, zIndex:3, borderRadius:"50%", overflow:"hidden",
-            background:"#050000", border:"2.5px solid #ef4444",
-            boxShadow:"0 0 3.2cqw rgba(239,68,68,0.95), 0 0 6cqw rgba(185,28,28,0.55), inset 0 0 2.4cqw #dc2626" }}>
-            <svg viewBox="0 0 240 240" style={{ width:"100%", height:"100%", display:"block" }}>
+            background:"radial-gradient(circle at 50% 38%, #dc2626 0%, #7f1d1d 42%, #090000 78%, #020000 100%)",
+            border:"2.8px solid #ef4444",
+            boxShadow:"0 0 3.5cqw rgba(239,68,68,0.95), 0 0 6.5cqw rgba(185,28,28,0.6), inset 0 0 2.6cqw #ef4444" }}>
+            <svg viewBox="0 0 240 240" style={{ width:"100%", height:"100%", display:"block", opacity:0.82 }}>
               <rect width="240" height="240" fill="#050000" />
               <rect width="240" height="240" filter="url(#crimsonCore)" />
             </svg>
           </div>
-          <div style={{ position:"absolute", top:"13%", left:0, right:0, textAlign:"center", zIndex:8, textShadow:"0 2px 10px #000" }}>
-            <div style={{ fontSize:"clamp(7px,0.92cqw,13px)", fontWeight:800, color:"#fecaca" }}>{es ? "Sol Eléctrico" : "Electric Sun"}</div>
-            <div style={{ fontSize:"clamp(10px,2.15cqw,32px)", fontWeight:900, color:"#fff", whiteSpace:"nowrap" }}>ALBS NEXUS</div>
-            <div style={{ fontSize:"clamp(6.5px,0.85cqw,12px)", fontWeight:800, color:"#fde047" }}>{es ? "10 Mundos • Mega Tiendas" : "10 Worlds • Mega Stores"}</div>
+          <div style={{ position:"absolute", top:"10%", left:0, right:0, textAlign:"center", zIndex:8, textShadow:"0 2px 10px #000" }}>
+            <div style={{ fontSize:"clamp(7.5px,0.94cqw,13.5px)", fontWeight:800, color:"#fecaca" }}>{es ? "Sol Eléctrico" : "Electric Sun"}</div>
+            <div style={{ fontSize:"clamp(11px,2.25cqw,33px)", fontWeight:900, color:"#fff", whiteSpace:"nowrap" }}>ALBS NEXUS</div>
+            <div style={{ fontSize:"clamp(7px,0.88cqw,12.5px)", fontWeight:800, color:"#fde047" }}>{es ? "10 Mundos • Mega Tiendas" : "10 Worlds • Mega Stores"}</div>
           </div>
-          <div style={{ position:"absolute", left:"-5%", right:"-5%", top:"49%", height:"39%", zIndex:14,
-            background:"linear-gradient(180deg,rgba(14,17,26,0.97),rgba(4,5,9,0.99))", borderRadius:"22% 22% 52% 52% / 26% 26% 74% 74%",
-            borderTop:"1.8px solid rgba(226,232,240,0.45)", borderBottom:"1.8px solid rgba(239,68,68,0.8)",
-            display:"flex", flexDirection:"column", alignItems:"center", justifyContent:"center", padding:"0 8px" }}>
+          <div style={{ position:"absolute", left:"-6%", right:"-6%", top:"42%", height:"44%", zIndex:14,
+            background:"linear-gradient(180deg,rgba(8,15,32,0.96),rgba(3,6,15,0.99))", borderRadius:"24% 24% 50% 50% / 28% 28% 72% 72%",
+            borderTop:"2px solid rgba(56,189,248,0.7)", borderBottom:"2px solid rgba(239,68,68,0.85)",
+            boxShadow:"0 8px 24px rgba(0,0,0,0.85), inset 0 0 18px rgba(14,165,233,0.28)",
+            display:"flex", flexDirection:"column", alignItems:"center", justifyContent:"center", gap:"0.35cqw", padding:"0 8px" }}>
+            <Link href="/nostalgia/concierge" style={{ color:"#fde047",
+              fontSize:"clamp(7.5px,0.88cqw,13px)", fontWeight:900, textDecoration:"none", whiteSpace:"nowrap",
+              textShadow:"0 2px 8px #000" }}>
+              {es ? "✨ Conserje IA 3-Hr (Reserva 24-Hr) →" : "✨ 3-Hr AI Concierge (24-Hr Hold) →"}
+            </Link>
             <input value={q} onChange={e => setQ(e.target.value)}
-              placeholder={es ? "Buscar productos, SKUs o tiendas..." : "Search Any Product, SKU or Store..."}
-              style={{ width:"88%", background:"#0b0f19", border:"1px solid #475569", color:"#fff",
-                borderRadius:999, padding:"4px 10px", fontSize:"clamp(7.5px,0.86cqw,12.5px)" }} />
-            <Link href="/nostalgia/concierge" style={{ marginTop:"0.28cqw", color:"#fde047",
-              fontSize:"clamp(6.5px,0.76cqw,11px)", fontWeight:800, textDecoration:"none", whiteSpace:"nowrap" }}>
-              {es ? "Conserje IA 3-Hr (Reserva 24-Hr) →" : "3-Hr AI Concierge (24-Hr Hold) →"}
-            </Link>
+              placeholder={es ? "🔍 Buscar producto, SKU o tienda..." : "🔍 Search Any Product, SKU or Store..."}
+              style={{ width:"92%", background:"linear-gradient(90deg,#0369a1,#0284c7,#0369a1)",
+                border:"2px solid #7dd3fc", color:"#ffffff", fontWeight:800, textAlign:"center",
+                borderRadius:999, padding:"6px 12px", fontSize:"clamp(8.5px,0.96cqw,14px)",
+                boxShadow:"0 0 14px rgba(56,189,248,0.65), inset 0 1px 4px rgba(255,255,255,0.25)" }} />
           </div>
-          <div style={{ position:"absolute", top:"90%", left:"50%", transform:"translateX(-50%)",
-            zIndex:18, display:"flex", flexDirection:"column", alignItems:"center", gap:3 }}>
-            <Link href="/stores/black-friday" style={{ whiteSpace:"nowrap",
+          <div style={{ position:"absolute", top:"93%", left:"50%", transform:"translateX(-50%)",
+            zIndex:26, display:"flex", flexDirection:"column", alignItems:"center", gap:6, width:"max-content" }}>
+            <Link href="/stores/black-friday" className="bf-pop-pill" style={{ whiteSpace:"nowrap",
               background:"linear-gradient(90deg,#f59e0b,#facc15,#f59e0b)", color:"#000",
-              border:"1px solid #fef08a", borderRadius:999, padding:"2px 10px",
-              fontSize:"clamp(6px,0.68cqw,10.5px)", fontWeight:900, textDecoration:"none",
-              boxShadow:"0 2px 12px rgba(250,204,21,0.55)" }}>
-              {es ? "⚡ BLACK FRIDAY • 5 Ofertas Diarias →" : "⚡ BLACK FRIDAY • CYBER MONDAY VAULT →"}
+              border:"2px solid #fef08a", borderRadius:999, padding:"6px 18px",
+              fontSize:"clamp(9.5px,1.02cqw,15px)", fontWeight:900, textDecoration:"none",
+              boxShadow:"0 4px 20px rgba(250,204,21,0.75), 0 0 12px rgba(245,158,11,0.6)" }}>
+              {es ? "⚡ BLACK FRIDAY • CYBER MONDAY • 5 OFERTAS DIARIAS →" : "⚡ BLACK FRIDAY • CYBER MONDAY VAULT →"}
             </Link>
-            <Link href="/stores/emergency-ready" style={{ whiteSpace:"nowrap",
+            <Link href="/stores/emergency-ready" className="bf-pop-pill" style={{ whiteSpace:"nowrap",
               background:"linear-gradient(90deg,#991b1b,#dc2626,#991b1b)", color:"#fff",
-              border:"1px solid #fca5a5", borderRadius:999, padding:"2px 9px",
-              fontSize:"clamp(5.8px,0.64cqw,9.5px)", fontWeight:800, textDecoration:"none" }}>
-              {es ? "🚨 EMERGENCIAS • Inundación • Fuego →" : "🚨 EMERGENCY • Flood • Storm • Fire →"}
+              border:"2px solid #fca5a5", borderRadius:999, padding:"5px 16px",
+              fontSize:"clamp(9px,0.94cqw,14px)", fontWeight:900, textDecoration:"none",
+              boxShadow:"0 4px 18px rgba(220,38,38,0.7)" }}>
+              {es ? "🚨 SUPERMERCADO EMERGENCIAS • Inundación • Fuego →" : "🚨 EMERGENCY SUPERSTORE • Flood • Storm • Fire →"}
             </Link>
           </div>
-          {hits.length > 0 ? (<div style={{ position:"absolute", top:"112%", left:"50%", transform:"translateX(-50%)",
-            width:"min(340px,88vw)", maxHeight:310, overflowY:"auto", background:"#080d19",
-            border:"1.5px solid #38bdf8", borderRadius:12, padding:6, zIndex:95, boxShadow:"0 12px 32px #000e" }}>
+          {hits.length > 0 ? (<div style={{ position:"absolute", top:"126%", left:"50%", transform:"translateX(-50%)",
+            width:"min(360px,90vw)", maxHeight:310, overflowY:"auto", background:"#080d19",
+            border:"2px solid #38bdf8", borderRadius:12, padding:6, zIndex:95, boxShadow:"0 12px 32px #000e" }}>
             {hits.map((h, i) => (<Link key={h.id + i} href={h.href + (h.kind === "product" ? "?q=" + encodeURIComponent(h.title) : "")}
               style={{ display:"flex", justifyContent:"space-between", alignItems:"center", gap:8,
                 padding:"6px 8px", borderBottom:"1px solid #1e293b", color:"#fff", textDecoration:"none", fontSize:12 }}>

@@ -39,6 +39,7 @@ export default function BlackFridayCyberStore() {
     }
   }, []);
 
+  useEffect(() => { if (!vidItem) return; const id = vidItem.id; const t = setInterval(() => setAng(a => ({ ...a, [id]: ((a[id] || 0) + 1) % 3 })), 2600); return () => clearInterval(t); }, [vidItem]);
   const toggleEs = () => {
     const nx = !es; setEs(nx);
     if (typeof window !== "undefined") localStorage.setItem("nexus_lang", nx ? "es" : "en");
@@ -90,7 +91,7 @@ export default function BlackFridayCyberStore() {
 
   const bt = (bg: string, fg = "#fff") => ({
     background: bg, color: fg, border: "1px solid rgba(255,255,255,0.16)",
-    borderRadius: 999, padding: "7px 13px", fontSize: 12, fontWeight: 800, cursor: "pointer"
+    borderRadius: 999, padding: "9px 16px", fontSize: 13.5, fontWeight: 800, cursor: "pointer"
   });
 
   return (
@@ -336,22 +337,48 @@ export default function BlackFridayCyberStore() {
           </div>
         )}
         {vidItem && (
-          <div onClick={() => setVidItem(null)} style={{ position:"fixed", inset:0, background:"#000c", zIndex:120, display:"flex", alignItems:"center", justifyContent:"center", padding:14 }}>
-            <div onClick={e => e.stopPropagation()} style={{ background:"#0f172a", border:"1.5px solid #a855f7", borderRadius:14, padding:16, maxWidth:520, width:"100%" }}>
-              <h3 style={{ margin:"0 0 8px" }}>🎥 {es ? vidItem.es : vidItem.en}</h3>
-              <div style={{ display:"grid", gridTemplateColumns:"1fr 1fr 1fr", gap:8, marginBottom:10 }}>
-                {vidItem.imgs.map((src, i) => <img key={i} src={src} alt="" style={{ width:"100%", height:110, objectFit:"cover", borderRadius:8 }} />)}
+          <div onClick={() => setVidItem(null)} style={{ position:"fixed", inset:0, background:"#000d", zIndex:120, display:"flex", alignItems:"center", justifyContent:"center", padding:14 }}>
+            <div onClick={e => e.stopPropagation()} style={{ background:"#090f1f", border:"2px solid #a855f7", borderRadius:16, padding:18, maxWidth:640, width:"100%", boxShadow:"0 16px 48px #000" }}>
+              <div style={{ display:"flex", justifyContent:"space-between", alignItems:"center", marginBottom:10 }}>
+                <h3 style={{ margin:0, fontSize:17, color:"#fde047" }}>🎥 {es ? vidItem.es : vidItem.en} ({vidItem.id})</h3>
+                <span style={{ background:"#dc2626", color:"#fff", padding:"3px 9px", borderRadius:6, fontSize:11, fontWeight:900 }}>HD 360° VIDEO</span>
               </div>
-              <p style={{ fontSize:12, color:"#cbd5e1" }}>
-                {es ? "Vista 360° verificada • Especificación: " : "360° Verified Preview • Spec: "}{vidItem.dims} • {vidItem.mat} ({vidItem.cert})
-              </p>
-              <div style={{ display:"flex", justifyContent:"flex-end", gap:8 }}>
-                <button onClick={() => setVidItem(null)} style={bt("#334155")}>{es ? "Cerrar" : "Close"}</button>
-                <button onClick={() => { addCart(vidItem.id, true); setVidItem(null); }} style={bt("#dc2626")}>{es ? "Comprar Ahora →" : "Buy Now →"}</button>
+              <div style={{ position:"relative", height:280, borderRadius:12, overflow:"hidden", background:"#02040a", border:"1px solid #334155", marginBottom:10 }}>
+                <video key={vidItem.id} autoPlay loop muted playsInline controls poster={vidItem.imgs[0]}
+                  style={{ width:"100%", height:"100%", objectFit:"cover", position:"absolute", inset:0, zIndex:1 }}>
+                  <source src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4" type="video/mp4" />
+                </video>
+                <img src={vidItem.imgs[(ang[vidItem.id] || 0) % 3]} alt=""
+                  style={{ width:"118%", height:"118%", objectFit:"cover", position:"absolute", inset:"-9%", zIndex:2, opacity:0.88, pointerEvents:"none", animation:"bfPan 6s ease-in-out infinite alternate" }} />
+                <div style={{ position:"absolute", left:10, bottom:10, zIndex:3, background:"rgba(2,6,23,0.9)", border:"1px solid #38bdf8", borderRadius:8, padding:"6px 10px", fontSize:11.5, pointerEvents:"none" }}>
+                  <div style={{ color:"#fde047", fontWeight:900 }}>▶ LIVE MOTION SHOWCASE • ANGLE #{((ang[vidItem.id] || 0) % 3) + 1}</div>
+                  <div style={{ color:"#e2e8f0" }}>{vidItem.dims} • {vidItem.mat} • {vidItem.cert}</div>
+                </div>
+              </div>
+              <div style={{ display:"grid", gridTemplateColumns:"1fr 1fr 1fr", gap:8, marginBottom:12 }}>
+                {vidItem.imgs.map((src, i) => (
+                  <button key={i} onClick={() => setAng({ ...ang, [vidItem.id]: i })}
+                    style={{ height:68, borderRadius:8, overflow:"hidden", border:(ang[vidItem.id]||0)===i?"2px solid #facc15":"1px solid #334155", padding:0, cursor:"pointer", position:"relative" }}>
+                    <img src={src} alt="" style={{ width:"100%", height:"100%", objectFit:"cover" }} />
+                    <span style={{ position:"absolute", bottom:3, right:5, background:"#000c", color:"#fff", fontSize:10, fontWeight:800, padding:"1px 5px", borderRadius:4 }}>
+                      {es ? "Ángulo #" : "Angle #"}{i+1}
+                    </span>
+                  </button>
+                ))}
+              </div>
+              <div style={{ display:"flex", justifyContent:"space-between", alignItems:"center" }}>
+                <span style={{ fontSize:13, color:"#4ade80", fontWeight:900 }}>
+                  {es ? "Oferta Cyber: $" : "Cyber Deal: $"}{vidItem.deal.toFixed(2)} ({es ? "Reg $" : "MSRP $"}{vidItem.retail})
+                </span>
+                <div style={{ display:"flex", gap:8 }}>
+                  <button onClick={() => setVidItem(null)} style={bt("#334155")}>{es ? "Cerrar" : "Close"}</button>
+                  <button onClick={() => { addCart(vidItem.id, true); setVidItem(null); }} style={bt("#dc2626")}>{es ? "Comprar Ahora →" : "Buy Now →"}</button>
+                </div>
               </div>
             </div>
           </div>
         )}
+
 
         {coMode !== "" && (
           <div onClick={() => setCoMode("")} style={{ position:"fixed", inset:0, background:"#000d", zIndex:130, display:"flex", alignItems:"center", justifyContent:"center", padding:14 }}>

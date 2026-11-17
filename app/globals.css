@@ -43,3 +43,6 @@ html, body {
 .planet-orb[data-edge="left"]:hover { transform: translate(-24%, -50%) scale(1.5) !important; }
 .planet-orb[data-edge="right"]:hover { transform: translate(-76%, -50%) scale(1.5) !important; }
 .planet-orb[data-edge="bottom"]:hover { transform: translate(-50%, -70%) scale(1.5) !important; }
+.bf-pop-pill { transition: transform 0.22s ease, filter 0.22s ease; display: inline-block; }
+.bf-pop-pill:hover { transform: scale(1.14); filter: brightness(1.12); }
+@keyframes bfPan { 0% { transform: scale(1.02) translate(-2%, -1%); } 100% { transform: scale(1.16) translate(2%, 2%); } }
