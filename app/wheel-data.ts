@@ -7,16 +7,19 @@ export interface RibbonItem {
 export interface NodeItem {
   id: string; x: number; y: number; size: number; kind: HaloKind;
   bolt: string; c1: string; c2: string;
-  title: string; sub: string; href: string; img: string;
+  title: string; titleEs: string; sub: string; subEs: string;
+  href: string; img: string; edge?: string;
 }
-const u = (id: string) =>
-  "https://images.unsplash.com/photo-" + id + "?auto=format&fit=crop&w=600&h=600&q=80";
-const b = (q: string) =>
-  "https://tse1.mm.bing.net/th?q=" + encodeURIComponent(q) + "&w=480&h=480&c=7&p=0";
+const u = (id: string) => "https://images.unsplash.com/photo-" + id + "?auto=format&fit=crop&w=520&h=520&q=80";
+const b = (q: string) => "https://tse2.mm.bing.net/th?q=" + encodeURIComponent(q) + "&w=480&h=480&c=7&p=0";
 export const ORB_FALLBACK = u("1462331940025-496dfbfc7564");
 const R = (id: string, name: string, es: string, slug: string, border: string,
   r1: string, r2: string, puzzle = false, r3?: string, r4?: string): RibbonItem =>
   ({ id, name, es, href: "/sanctuary/" + slug, border, puzzle, r1, r2, r3, r4 });
+const N = (id: string, x: number, y: number, size: number, kind: HaloKind,
+  bolt: string, c1: string, c2: string, title: string, titleEs: string,
+  sub: string, subEs: string, href: string, img: string, edge?: string): NodeItem =>
+  ({ id, x, y, size, kind, bolt, c1, c2, title, titleEs, sub, subEs, href, img, edge });
 export const RIBBONS: RibbonItem[] = [
   R("autism","Autism Spectrum","Espectro Autista","autism-spectrum","#3b82f6","#ef4444","#facc15",true,"#2563eb","#38bdf8"),
   R("down","Down Syndrome","Síndrome de Down","down-syndrome","#eab308","#1d4ed8","#facc15"),
@@ -26,18 +29,19 @@ export const RIBBONS: RibbonItem[] = [
   R("peptides","Biomedical Peptides","Péptidos Biomédicos","biomedical-peptides","#a855f7","#7c3aed","#c084fc")
 ];
 export const NODES: NodeItem[] = [
-  { id:"megastores", x:800, y:136, size:12.8, kind:"static", bolt:"#38bdf8", c1:"#38bdf8", c2:"#fde047", title:"MEGA STORES", sub:"All Flagship Vaults", href:"/stores/mega-stores", img:b("futuristic neon sneaker vinyl superstore") },
-  { id:"party", x:1415, y:175, size:12.8, kind:"nebula", bolt:"#38bdf8", c1:"#fb7185", c2:"#fde047", title:"PARTY LAPOOZA", sub:"Ultimate Event Vault", href:"/stores/party-lapooza", img:u("1530103862676-de8c9debad1d") },
-  { id:"maternity", x:1165, y:480, size:10.4, kind:"fog", bolt:"#34d399", c1:"#10b981", c2:"#67e8f9", title:"MATERNITY & CPR", sub:"Nursery & Safety", href:"/stores/expecting-and-cpr", img:b("warm lamp modern baby nursery crib evening") },
-  { id:"stadium", x:1455, y:755, size:12.8, kind:"fog", bolt:"#34d399", c1:"#10b981", c2:"#2dd4bf", title:"ALBS NEXUS STADIUM", sub:"Pro Sports Corridor", href:"/sportflix", img:u("1540747913346-19e32dc3e97e") },
-  { id:"matrix", x:1065, y:735, size:10.4, kind:"fog", bolt:"#22c55e", c1:"#22c55e", c2:"#86efac", title:"THE MATRIX • AI", sub:"AI Evolution", href:"/netrix/vr-immersion-bay", img:b("futuristic glowing cyber ai android head black background") },
-  { id:"christmas", x:800, y:892, size:12.8, kind:"fire", bolt:"#ef4444", c1:"#ef4444", c2:"#f59e0b", title:"CHRISTMAS STORE", sub:"365 Holiday Magic", href:"/stores/christmas-store", img:u("1543589077-47d81606c1bf") },
-  { id:"stargazer", x:535, y:735, size:10.4, kind:"nebula", bolt:"#38bdf8", c1:"#0ea5e9", c2:"#a855f7", title:"STARGAZER & AUTO", sub:"Cosmos & Detailing", href:"/stores/stargazer-mall", img:b("astronomy telescope silhouette purple starry nebula") },
-  { id:"luxury", x:145, y:755, size:12.8, kind:"fire", bolt:"#f59e0b", c1:"#f59e0b", c2:"#fde047", title:"LUXURY SUITES", sub:"Top Brand Vault", href:"/stores/luxury-couture", img:u("1523170335258-f5ed11844a49") },
-  { id:"worldsfair", x:435, y:480, size:10.4, kind:"static", bolt:"#818cf8", c1:"#8b5cf6", c2:"#38bdf8", title:"1964 WORLD'S FAIR", sub:"Rare Vintage Grails", href:"/nostalgia", img:"https://commons.wikimedia.org/wiki/Special:FilePath/1964_New_York_World%27s_Fair_Unisphere.jpg?width=600" },
-  { id:"squish", x:185, y:175, size:12.8, kind:"nebula", bolt:"#f43f5e", c1:"#ec4899", c2:"#c084fc", title:"SQUISH & BLIND VAULT", sub:"Collector Plush Corridor", href:"/stores/squish-blindbox", img:b("colorful plushies collection dark cozy lighting") }
+  N("megastores",800,180,15,"static","#38bdf8","#38bdf8","#fde047","MEGA STORES","MEGA TIENDAS","All Flagship Vaults","Bóvedas Principales","/stores/mega-stores",b("futuristic neon sneaker black background")),
+  N("party",1415,225,14.8,"nebula","#38bdf8","#fb7185","#fde047","PARTY LAPOOZA","FIESTA LAPOOZA","Ultimate Event Vault","Eventos y Fiestas","/stores/party-lapooza",u("1530103862676-de8c9debad1d"),"right"),
+  N("maternity",1165,545,12.2,"fog","#34d399","#10b981","#67e8f9","MATERNITY & CPR","MATERNIDAD Y RCP","Nursery & Safety","Cunas y Seguridad","/stores/expecting-and-cpr",b("warm modern baby nursery crib evening")),
+  N("stadium",1435,835,14.8,"fog","#34d399","#10b981","#2dd4bf","ALBS NEXUS STADIUM","ESTADIO ALBS NEXUS","Pro Sports Corridor","Corredor Deportivo","/sportflix",u("1540747913346-19e32dc3e97e"),"right"),
+  N("matrix",1105,880,12.2,"fog","#22c55e","#22c55e","#86efac","THE MATRIX • AI","LA MATRIX • IA","AI Evolution","Evolución IA","/netrix/vr-immersion-bay",b("futuristic cyber ai android head black background")),
+  N("christmas",800,1055,15,"fire","#ef4444","#ef4444","#f59e0b","CHRISTMAS STORE","TIENDA DE NAVIDAD","365 Holiday Magic","Magia Navideña 365","/stores/christmas-store",u("1543589077-47d81606c1bf"),"bottom"),
+  N("stargazer",495,880,12.2,"nebula","#38bdf8","#0ea5e9","#a855f7","STARGAZER & AUTO","COSMOS Y AUTO","Cosmos & Detailing","Telescopios y Auto","/stores/stargazer-mall",b("astronomy telescope silhouette purple starry nebula")),
+  N("luxury",165,835,14.8,"fire","#f59e0b","#f59e0b","#fde047","LUXURY SUITES","SUITES DE LUJO","Top Brand Vault","Relojes y Alta Gama","/stores/luxury-couture",u("1523170335258-f5ed11844a49"),"left"),
+  N("worldsfair",435,545,12.2,"static","#818cf8","#8b5cf6","#38bdf8","1964 WORLD'S FAIR","FERIA MUNDIAL 1964","Rare Vintage Grails","Reliquias Clásicas","/nostalgia",b("Unisphere Queens night globe")),
+  N("squish",185,225,14.8,"nebula","#f43f5e","#ec4899","#c084fc","SQUISH & BLIND VAULT","PELUCHES Y CAJAS","Collector Plush Corridor","Peluches de Colección","/stores/squish-blindbox",b("colorful plushies collection dark lighting"),"left")
 ];
 export const EXTRA_SEARCH = [
+  { id:"bf", title:"Black Friday • Cyber Monday Vault (5 Daily Doorbusters)", href:"/stores/black-friday" },
   { id:"sh", title:"Apex Shoe Vault (Sizes 5-15)", href:"/stores/shoe-store" },
   { id:"mu", title:"NEXUS Music Town (Vinyl/CD/Tapes)", href:"/stores/music-town" },
   { id:"em", title:"Emergency Superstore (Flood/Fire)", href:"/stores/emergency-ready" },

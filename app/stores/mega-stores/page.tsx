@@ -12,8 +12,8 @@ const MEGAS: [string, string, string, string, string][] = [
    "Foam Cannons, Ceramic Coatings, Polishers & Shop Vacs"],
   ["/stores/stargazer-mall","#6366f1","🕶️","ECLIPSE & STARGAZER",
    "ISO 12312-2 Solar Eclipse Glasses, Scopes & Astro Gear"],
-  ["/stores/christmas-store","#dc2626","🎄","365 CHRISTMAS STORE",
-   "165+ Exterior Lights, Inflatables, Wrapping & Hot Gifts"]
+  ["/stores/black-friday","#dc2626","🎄","BLACK FRIDAY • CYBER VAULT",
+   "5 Daily Doorbusters + 5 Daily Cyber Events All Month Long"]
 ];
 export default function MegaStoresPage() {
   const [q, setQ] = useState("");
