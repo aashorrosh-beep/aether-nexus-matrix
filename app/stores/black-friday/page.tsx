@@ -92,6 +92,7 @@ export default function BlackFridayCyberStore() {
       : cartEntries.map(([id, q]) => id + "x" + q + "[" + (pk[id]||"single") + "/" + (col[id]||COLORS[0]) + "/" + (sz[id]||"Std") + "]").join(", ");
     setStatusMsg(es ? "Conectando con Stripe Checkout..." : "Connecting to Stripe Live Checkout...");
     try {
+      fetch("/api/reports/shift", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ store: "Black Friday Cyber Vault", summary, total: amt }) }).catch(() => {});
       const r = await fetch("/api/checkout", {
         method: "POST", headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ store: "Black Friday Cyber Vault", summary, total: amt, customer: crmRecord })
