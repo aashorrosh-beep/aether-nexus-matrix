@@ -175,14 +175,17 @@ export default function AlbsNexusGalaxy() {
             {es ? "🇺🇸 ENGLISH" : "🇪🇸 ESPAÑOL"}
           </button>
         </div>
+        <div style={{ position:"relative", zIndex:6, textAlign:"center", fontSize:"clamp(10px,0.88vw,13px)", fontWeight:800, color:"#6ee7b7", marginTop:3, textShadow:"0 2px 6px #000" }}>
+          {es ? "📍 Pruebe el Buscador de Código Postal (12 Millas) en cada Santuario para Eventos, Ayuda Local y Tienda" : "📍 Pruebe el Buscador de Código Postal en cada Santuario • Click Any Sanctuary for 12-Mile ZIP Finder & Store"}
+        </div>
         <div className="sanctuary-arch-grid">
           {RIBBONS.map((r, idx) => (
             <Link key={r.id} href={r.href + (es ? "?lang=es" : "")} className={"nebula-card arch-pill-" + idx}
               style={{ border:"1.8px solid " + r.border, boxShadow:"0 4px 18px #000c, inset 0 0 18px " + r.border + "44",
                 borderRadius:12, padding:"9px 11px", display:"flex", alignItems:"center", gap:8, textDecoration:"none", color:"#fff" }}>
               <RibbonSVG r={r} />
-              <span style={{ fontSize:"clamp(12px,0.98vw,14.5px)", fontWeight:900, lineHeight:1.18,
-                color:"#f8fafc", textShadow:"0 2px 6px #000" }}>{es ? r.es : r.name}</span>
+              <span style={{ fontSize:"clamp(11.5px,0.95vw,14px)", fontWeight:900, lineHeight:1.15, color:"#f8fafc", textShadow:"0 2px 6px #000", flex:1 }}>{es ? r.es : r.name}</span>
+              <span style={{ background:"rgba(250,204,21,0.16)", border:"1px solid #facc15", color:"#fde047", borderRadius:999, padding:"2px 7px", fontSize:"clamp(9px,0.72vw,11px)", fontWeight:900, whiteSpace:"nowrap", flexShrink:0 }}>📍 {es ? "Código ZIP" : "ZIP Finder"}</span>
             </Link>))}
         </div>
       </div>
@@ -237,10 +240,10 @@ export default function AlbsNexusGalaxy() {
               <div style={{ fontSize:"clamp(7px,0.82cqw,12px)", fontWeight:800, color:"#fecaca" }}>{es ? "10 Mundos • Mega Tiendas" : "10 Worlds • Mega Stores"}</div>
             </div>
             <input value={q} onChange={e => setQ(e.target.value)}
-              placeholder={es ? "🔍 Buscar producto, SKU o tienda..." : "🔍 Search Any Product, SKU or Store..."}
+              placeholder={es ? "🔍 Buscar Producto o SKU..." : "🔍 Search Product, SKU or Store..."}
               style={{ width:"96%", background:"#ffffff", color:"#020617", fontWeight:900, textAlign:"center",
-                border:"2.5px solid #facc15", borderRadius:999, padding:"7px 12px",
-                fontSize:"clamp(8.5px,0.95cqw,13.5px)",
+                border:"2.5px solid #facc15", borderRadius:999, padding:"0.45cqw 0.8cqw",
+                fontSize:"clamp(6.5px,0.82cqw,13px)",
                 boxShadow:"0 0 18px rgba(255,255,255,0.9), 0 4px 14px rgba(0,0,0,0.85)" }} />
             <Link href="/nostalgia/concierge" style={{ background:"rgba(4,7,17,0.92)", border:"1.5px solid #38bdf8",
               borderRadius:999, padding:"3px 11px", color:"#fde047",
