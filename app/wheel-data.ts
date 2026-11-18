@@ -29,16 +29,16 @@ export const RIBBONS: RibbonItem[] = [
   R("peptides","Biomedical Peptides","Péptidos Biomédicos","biomedical-peptides","#a855f7","#7c3aed","#c084fc")
 ];
 export const NODES: NodeItem[] = [
-  N("megastores",800,92,14.6,"static","#38bdf8","#38bdf8","#fde047","MEGA STORES","MEGA TIENDAS","All Flagship Vaults","Bóvedas Principales","/stores/mega-stores",b("futuristic neon sneaker black background")),
-  N("party",1415,225,14.8,"nebula","#38bdf8","#fb7185","#fde047","PARTY LAPOOZA","FIESTA LAPOOZA","Ultimate Event Vault","Eventos y Fiestas","/stores/party-lapooza",u("1530103862676-de8c9debad1d"),"right"),
-  N("maternity",1185,500,12.2,"fog","#34d399","#10b981","#67e8f9","MATERNITY & CPR","MATERNIDAD Y RCP","Nursery & Safety","Cunas y Seguridad","/stores/expecting-and-cpr",b("warm modern baby nursery crib evening")),
-  N("stadium",1435,835,14.8,"fog","#34d399","#10b981","#2dd4bf","ALBS NEXUS STADIUM","ESTADIO ALBS NEXUS","Pro Sports Corridor","Corredor Deportivo","/sportflix",u("1540747913346-19e32dc3e97e"),"right"),
-  N("matrix",1135,875,12.2,"fog","#22c55e","#22c55e","#86efac","THE MATRIX • AI","LA MATRIX • IA","AI Evolution","Evolución IA","/netrix/vr-immersion-bay",b("futuristic cyber ai android head black background")),
-  N("christmas",800,1055,15,"fire","#ef4444","#ef4444","#f59e0b","CHRISTMAS STORE","TIENDA DE NAVIDAD","365 Holiday Magic","Magia Navideña 365","/stores/christmas-store",u("1543589077-47d81606c1bf"),"bottom"),
-  N("stargazer",465,875,12.2,"nebula","#38bdf8","#0ea5e9","#a855f7","STARGAZER & AUTO","COSMOS Y AUTO","Cosmos & Detailing","Telescopios y Auto","/stores/stargazer-mall",b("astronomy telescope silhouette purple starry nebula")),
-  N("luxury",165,835,14.8,"fire","#f59e0b","#f59e0b","#fde047","LUXURY SUITES","SUITES DE LUJO","Top Brand Vault","Relojes y Alta Gama","/stores/luxury-couture",u("1523170335258-f5ed11844a49"),"left"),
-  N("worldsfair",415,500,12.2,"static","#818cf8","#8b5cf6","#38bdf8","1964 WORLD'S FAIR","FERIA MUNDIAL 1964","Rare Vintage Grails","Reliquias Clásicas","/nostalgia",b("Unisphere Queens night globe")),
-  N("squish",185,225,14.8,"nebula","#f43f5e","#ec4899","#c084fc","SQUISH & BLIND VAULT","PELUCHES Y CAJAS","Collector Plush Corridor","Peluches de Colección","/stores/squish-blindbox",b("colorful plushies collection dark lighting"),"left")
+  N("megastores",800,155,13.6,"static","#38bdf8","#38bdf8","#fde047","MEGA STORES","MEGA TIENDAS","All Flagship Vaults","Bóvedas Principales","/stores/mega-stores",b("futuristic neon sneaker black background")),
+  N("party",1450,230,13.6,"nebula","#38bdf8","#fb7185","#fde047","PARTY LAPOOZA","FIESTA LAPOOZA","Ultimate Event Vault","Eventos y Fiestas","/stores/party-lapooza",u("1530103862676-de8c9debad1d"),"right"),
+  N("maternity",1220,560,11.8,"fog","#34d399","#10b981","#67e8f9","MATERNITY & CPR","MATERNIDAD Y RCP","Nursery & Safety","Cunas y Seguridad","/stores/expecting-and-cpr",b("warm modern baby nursery crib evening")),
+  N("stadium",1460,880,13.6,"fog","#34d399","#10b981","#2dd4bf","ALBS NEXUS STADIUM","ESTADIO ALBS NEXUS","Pro Sports Corridor","Corredor Deportivo","/sportflix",u("1540747913346-19e32dc3e97e"),"right"),
+  N("matrix",1170,1045,11.8,"fog","#22c55e","#22c55e","#86efac","THE MATRIX • AI","LA MATRIX • IA","AI Evolution","Evolución IA","/netrix/vr-immersion-bay",b("futuristic cyber ai android head black background")),
+  N("christmas",800,1230,13.6,"fire","#ef4444","#ef4444","#f59e0b","CHRISTMAS STORE","TIENDA DE NAVIDAD","365 Holiday Magic","Magia Navideña 365","/stores/christmas-store",u("1543589077-47d81606c1bf"),"bottom"),
+  N("stargazer",430,1045,11.8,"nebula","#38bdf8","#0ea5e9","#a855f7","STARGAZER & AUTO","COSMOS Y AUTO","Cosmos & Detailing","Telescopios y Auto","/stores/stargazer-mall",b("astronomy telescope silhouette purple starry nebula")),
+  N("luxury",140,880,13.6,"fire","#f59e0b","#f59e0b","#fde047","LUXURY SUITES","SUITES DE LUJO","Top Brand Vault","Relojes y Alta Gama","/stores/luxury-couture",u("1523170335258-f5ed11844a49"),"left"),
+  N("worldsfair",380,560,11.8,"static","#818cf8","#8b5cf6","#38bdf8","1964 WORLD'S FAIR","FERIA MUNDIAL 1964","Rare Vintage Grails","Reliquias Clásicas","/nostalgia",b("Unisphere Queens night globe")),
+  N("squish",150,230,13.6,"nebula","#f43f5e","#ec4899","#c084fc","SQUISH & BLIND VAULT","PELUCHES Y CAJAS","Collector Plush Corridor","Peluches de Colección","/stores/squish-blindbox",b("colorful plushies collection dark lighting"),"left")
 ];
 export const EXTRA_SEARCH = [
   { id:"bf", title:"Black Friday • Cyber Monday Vault (5 Daily Doorbusters)", href:"/stores/black-friday" },

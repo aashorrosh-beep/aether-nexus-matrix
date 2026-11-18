@@ -112,23 +112,23 @@ export default function AlbsNexusGalaxy() {
       last = t;
       const ctx = canvasRef.current?.getContext("2d");
       if (!ctx) return;
-      ctx.clearRect(0, 0, 1600, 1200);
-      [[380, 265], [655, 435]].forEach(([rx, ry]) => {
-        ctx.beginPath(); ctx.ellipse(800, 560, rx, ry, 0, 0, Math.PI * 2);
+      ctx.clearRect(0, 0, 1600, 1460);
+      [[425, 340], [670, 540]].forEach(([rx, ry]) => {
+        ctx.beginPath(); ctx.ellipse(800, 680, rx, ry, 0, 0, Math.PI * 2);
         ctx.strokeStyle = "rgba(148,163,184,0.13)"; ctx.lineWidth = 1.2;
         ctx.shadowBlur = 0; ctx.stroke();
       });
-      [[545, 305, "#f59e0b"], [1055, 305, "#ef4444"]].forEach(([mx, my, col]) => {
+      [[800, 395, "#f59e0b"], [800, 965, "#ef4444"]].forEach(([mx, my, col]) => {
         ctx.shadowColor = col as string; ctx.shadowBlur = 18;
         ctx.strokeStyle = col as string; ctx.lineWidth = 2.4;
-        drawArc(ctx, 800, 560, mx as number, my as number, 26, 4);
+        drawArc(ctx, 800, 680, mx as number, my as number, 26, 4);
       });
       NODES.forEach(n => {
         const hot = hotRef.current === n.id, r = n.size * 8.1;
         ctx.lineCap = "round"; ctx.shadowColor = n.bolt;
         ctx.shadowBlur = hot ? 28 : 16; ctx.strokeStyle = n.bolt;
         ctx.lineWidth = hot ? 4.6 : 2.8;
-        const pts = drawArc(ctx, 800, 560, n.x, n.y, hot ? 50 : 32, 5);
+        const pts = drawArc(ctx, 800, 680, n.x, n.y, hot ? 50 : 32, 5);
         ctx.shadowBlur = 4; ctx.strokeStyle = "#fff"; ctx.lineWidth = 1.2;
         ctx.beginPath();
         pts.forEach(([x, y], i) => (i === 0 ? ctx.moveTo(x, y) : ctx.lineTo(x, y)));
@@ -187,11 +187,11 @@ export default function AlbsNexusGalaxy() {
         </div>
       </div>
       <div className="solar-stage">
-        <canvas ref={canvasRef} width={1600} height={1200}
+        <canvas ref={canvasRef} width={1600} height={1460}
           style={{ position:"absolute", inset:0, width:"100%", height:"100%", pointerEvents:"none" }} />
 
         <Link href="/stores/black-friday" className="meteor-card"
-          style={{ left:"34%", top:"25.5%", border:"2.5px solid #facc15",
+          style={{ left:"50%", top:"27.1%", border:"2.5px solid #facc15",
             boxShadow:"-18px -10px 28px rgba(245,158,11,0.55), 0 0 24px rgba(250,204,21,0.65), inset 0 0 18px rgba(251,191,36,0.35)" }}>
           <div style={{ fontSize:"clamp(8px,0.75cqw,11px)", fontWeight:900, color:"#fde047", letterSpacing:"0.08em" }}>
             ☄️ {es ? "METEORO CYBER" : "CYBER METEOR VAULT"}
@@ -205,7 +205,7 @@ export default function AlbsNexusGalaxy() {
         </Link>
 
         <Link href="/stores/emergency-ready" className="meteor-card"
-          style={{ left:"66%", top:"25.5%", border:"2.5px solid #ef4444",
+          style={{ left:"50%", top:"66.1%", border:"2.5px solid #ef4444",
             boxShadow:"18px -10px 28px rgba(220,38,38,0.65), 0 0 24px rgba(239,68,68,0.7), inset 0 0 18px rgba(220,38,38,0.4)" }}>
           <div style={{ fontSize:"clamp(8px,0.75cqw,11px)", fontWeight:900, color:"#fca5a5", letterSpacing:"0.08em" }}>
             ☄️ {es ? "IMPACTO Y RESCATE" : "METEOR IMPACT & RESCUE"}
@@ -218,8 +218,8 @@ export default function AlbsNexusGalaxy() {
           </div>
         </Link>
 
-        <div style={{ position:"absolute", left:"50%", top:"46.5%",
-          transform:"translate(-50%,-50%)", width:"23.5cqw", height:"23.5cqw", zIndex:30 }}>
+        <div style={{ position:"absolute", left:"50%", top:"46.6%",
+          transform:"translate(-50%,-50%)", width:"22cqw", height:"22cqw", zIndex:30 }}>
           <div style={{ position:"absolute", inset:0, zIndex:3, borderRadius:"50%", overflow:"hidden",
             background:"radial-gradient(circle at 50% 38%, #dc2626 0%, #7f1d1d 42%, #090000 78%, #020000 100%)",
             border:"2.8px solid #ef4444",
@@ -267,7 +267,7 @@ export default function AlbsNexusGalaxy() {
         {NODES.map(n => (
           <Link key={n.id} href={n.href + (es ? "?lang=es" : "")} className="planet-orb" data-edge={n.edge || "mid"}
             onMouseEnter={() => { hotRef.current = n.id; }} onMouseLeave={() => { hotRef.current = null; }}
-            style={{ position:"absolute", left:((n.x/1600)*100)+"%", top:((n.y/1200)*100)+"%",
+            style={{ position:"absolute", left:((n.x/1600)*100)+"%", top:((n.y/1460)*100)+"%",
               transform:"translate(-50%,-50%)", textDecoration:"none", textAlign:"center", zIndex:22 }}>
             <div style={{ position:"relative", width:n.size+"cqw", height:n.size+"cqw", margin:"0 auto" }}>
               <OrbHalo n={n} />
