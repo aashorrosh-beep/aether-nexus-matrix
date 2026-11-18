@@ -49,13 +49,13 @@ export default function SiloItemGrid(p: P) {
   return (<div>
     <div style={{ display: "flex", gap: 8, marginBottom: 12 }}>
       <button onClick={() => setVw("cards")} style={bt(vw === "cards" ? p.accent : "#1e293b")}>📸 Cards ({p.items.length})</button>
-      <button onClick={() => setVw("table")} style={bt(vw === "table" ? p.accent : "#1e293b")}>📋 Mfg Spec Sheet ({p.items.length})</button>
+      <button onClick={() => setVw("table")} style={bt(vw === "table" ? p.accent : "#1e293b")}>📋 Master Spec & Order Sheet ({p.items.length})</button>
     </div>
     {vw === "table" ? (<div style={{ background: "#0b1120", padding: 10, borderRadius: 10, fontSize: 12 }}>
       {shown.map(x => { const m = p.calc(x.w, x.ship); return (
         <div key={x.id} style={{ display: "flex", flexWrap: "wrap", justifyContent: "space-between", alignItems: "center", gap: 8, padding: "7px 0", borderBottom: "1px solid #1e293b" }}>
           <b style={{ flex: 1, minWidth: 180 }}>{x.id} • {x.name}</b><span>${m.tot.toFixed(2)}</span>
-          <button onClick={() => setSp(x)} style={bt("#334155", "#fde047")}>📋 Mfg Specs</button>
+          <span style={{ color: "#93c5fd", fontSize: 11 }}>📦 Case Pack: 6 Units • ✅ In Stock</span><button onClick={() => setSp(x)} style={bt("#334155", "#fde047")}>📋 Specs</button><button onClick={() => p.onAdd(x.id)} style={bt("#1e293b")}>+ Cart</button><button onClick={() => p.onBuy(x.id)} style={bt(p.accent)}>Buy Now →</button>
         </div>); })}</div>) : (
     <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill,minmax(248px,1fr))", gap: 12 }}>
       {shown.map(x => {

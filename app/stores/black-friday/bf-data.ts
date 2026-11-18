@@ -1,23 +1,39 @@
 export interface BfItem {
   id: string; kind: "doorbuster" | "event"; cat: "shoes" | "apparel" | "tech" | "home";
-  en: string; es: string; retail: number; deal: number; ship: number; stock: number;
-  dims: string; mat: string; cert: string; bom: [string, string, string]; imgs: [string, string, string];
+  en: string; es: string; descEn: string; descEs: string; casePack: string;
+  retail: number; deal: number; ship: number; stock: number;
+  dims: string; mat: string; cert: string;
+  kit: [string, string, string]; imgs: [string, string, string];
 }
 const b = (q: string, k: number) =>
   "https://tse" + k + ".mm.bing.net/th?q=" + encodeURIComponent(q) + "&w=460&h=340&c=7&p=0";
+const u = (id: string) =>
+  "https://images.unsplash.com/photo-" + id + "?auto=format&fit=crop&w=600&h=440&q=80";
+
 const M = (
   id: string, kind: "doorbuster" | "event", cat: "shoes" | "apparel" | "tech" | "home",
   en: string, es: string, retail: number, deal: number, ship: number,
-  dims: string, mat: string, cert: string, q: string
+  dims: string, mat: string, cert: string, q: string, customImg?: string
 ): BfItem => ({
-  id, kind, cat, en, es, retail, deal, ship, stock: 9 + (parseInt(id.slice(-2), 10) % 14),
+  id, kind, cat, en, es,
+  descEn: "Includes Retail Unit + Full Accessory Kit • Case Pack: 6 Units per Master Carton (Single or Case Available)",
+  descEs: "Incluye Unidad + Kit Completo • Empaque: Caja Master de 6 Unidades (Individual o Caja Disponible)",
+  casePack: "6 Units / Master Carton",
+  retail, deal, ship, stock: 12 + (parseInt(id.slice(-2), 10) % 10),
   dims, mat, cert,
-  bom: [id + "-CH Core Assembly", id + "-EL Internal Module", id + "-PK Retail Box & QC Tag"],
-  imgs: [b(q + " product", 1), b(q + " closeup", 2), b(q + " kit", 3)]
+  kit: [
+    "1x Primary " + en.split("+")[0].trim() + " Unit",
+    "1x Pro Accessory & Power/Care Kit",
+    "1x Retail Protective Box + 2-Yr Warranty Card"
+  ],
+  imgs: customImg
+    ? [customImg, b(q + " side angle", 2), b(q + " package kit", 3)]
+    : [b(q + " product", 1), b(q + " closeup", 2), b(q + " kit", 3)]
 });
+
 export const BF_POOL: BfItem[] = [
   M("BF-001","doorbuster","tech","4K Wi-Fi Drone + Dual Battery Case","Dron 4K Wi-Fi + Estuche Doble Batería",189,79,4.99,"11x9x4 in • 1.8 lb","Carbon/ABS Composite","FCC / RoHS / UN38.3","4k foldable camera drone black"),
-  M("BF-002","doorbuster","shoes","Apex Neon Air-Cushion Running Shoes","Zapatillas Deportivas Apex Amortiguación Aire",145,58,3.99,"Men 6-15 / Women 5-12","Engineered Knit + EVA","ASTM F2913 Slip-Tested","glowing neon running sneaker black"),
+  M("BF-002","doorbuster","shoes","Apex Neon Air-Cushion Running Shoes","Zapatillas Deportivas Apex Amortiguación Aire",145,58,3.99,"Men 6-15 / Women 5-12","Engineered Knit + EVA","ASTM F2913 Slip-Tested"," athletic running sneaker",u("1542291026-7eec264c27ff")),
   M("BF-003","doorbuster","home","2000A Lithium Jump Starter + Tire Inflator","Arrancador Litio 2000A + Inflador Llantas",159,64,4.99,"9x5x3 in • 2.9 lb","UL94-V0 Polycarbonate","UL 2743 / IP65","portable car jump starter power bank"),
   M("BF-004","doorbuster","apparel","Heated 3-Zone USB-C Winter Puffer Jacket","Chaqueta Térmica 3 Zonas USB-C Invierno",175,69,4.99,"Unisex XS-4XL • 2.1 lb","Ripstop Nylon + Carbon Fiber","CE / UL Heating Certified","heated black winter puffer jacket"),
   M("BF-005","doorbuster","tech","ANC Studio Over-Ear Spatial Headphones","Audífonos Estudio Cancelación Activa Ruido",165,59,3.99,"8x7x3.5 in • 0.9 lb","Memory Foam + Anodized Alloy","Bluetooth 5.4 / Hi-Res","matte black over ear studio headphones"),
@@ -37,6 +53,7 @@ export const BF_POOL: BfItem[] = [
   M("BF-019","event","apparel","Sensory Weighted Blanket + Noise-Cancel Headset","Manta con Peso Sensorial + Audífonos Calma",139,56,4.99,"60x80 in • 15 lb","Glass Micro-Beads + Bamboo","OEKO-TEX Sanctuary Grade","weighted sensory blanket headphones"),
   M("BF-020","event","tech","Bluetooth Vinyl Turntable + 2LP Collector Stand","Tocadiscos Vinilo Bluetooth + Soporte 2LP",169,68,4.99,"15x13x6 in • 7.1 lb","Walnut Plinth + Diamond Stylus","FCC / RIAA Balanced","vintage walnut vinyl record player")
 ];
+
 export function getDailyTen(daySeed: number): BfItem[] {
   const dbs = BF_POOL.filter(x => x.kind === "doorbuster");
   const evs = BF_POOL.filter(x => x.kind === "event");
@@ -44,7 +61,11 @@ export function getDailyTen(daySeed: number): BfItem[] {
     Array.from({ length: n }, (_, i) => arr[(daySeed + i) % arr.length]);
   return [...pick(dbs, 5), ...pick(evs, 5)];
 }
-export const calcBf = (deal: number, ship: number) => {
-  const tax = +((deal + ship) * 0.0825 + 0.30).toFixed(2);
-  return { deal, ship, tax, tot: +(deal + ship + tax).toFixed(2) };
+
+export const calcBf = (deal: number, ship: number, packMode = "single") => {
+  const mult = packMode === "case6" ? 5.1 : packMode === "addon" ? 1.22 : 1;
+  const sub = +(deal * mult).toFixed(2);
+  const sh = packMode === "case6" ? +(ship * 2).toFixed(2) : ship;
+  const tax = +((sub + sh) * 0.0825 + 0.30).toFixed(2);
+  return { deal: sub, ship: sh, tax, tot: +(sub + sh + tax).toFixed(2) };
 };
